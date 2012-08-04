@@ -22,15 +22,16 @@
   </div>
 </div>
 
+
+<h2>On the Issues</h2>
+<p>Click through to explore issues:</p>
 <%= render :partial => 'infobar', :locals => {:data => @congressman.json_stances}%>
 
 
 <% contributors = parsed_json['opensecrets_contributors'] %>
 <% unless contributors.nil? %>
   <div class='row'>
-    <div class='span12'>
-      <h2>Finances</h2>
-    </div>
+    <h2>Finances</h2>
     <div class='span6'>
       <h3>Organizational Contributors</h3>
       <% contributors = parsed_json['opensecrets_contributors'] %>
@@ -39,37 +40,33 @@
           <th>Name</th>
           <th>Money</th>
         </tr>
-      </table>
-      <% max_width = Float(contributors[0]['total'].to_i) %>
       <% contributors.each do |contributor| %>
-        <% bar_width = (Float(contributor['total'].to_i)/max_width.to_i)*300 %>
-        <p><%= contributor['org_name'] %></p>
-        <div class='bar-graph' style="width:<%=bar_width%>px">
-          <%= contributor['total'] %>
-        </div>
+        <tr>
+          <td><%= contributor['org_name'] %></td>
+          <td><%= contributor['total'] %></td>
         </tr>
       <% end %>
+      </table>
     </div>
     <div class='span6'>
       <h3>Industry Contributors</h3>
       <% contributors = parsed_json['opensecrets_industries'] %>
       <table class='table table-striped table-bordered table-condensed'>
         <tr>
+          <th>Industry Name</th>
           <th>PACs</th>
           <th>Indivs</th>
           <th>Money</th>
         </tr>
-      </table>
-      <% max_width = Float(contributors[0]['total'].to_i) %>
       <% contributors.each do |contributor| %>
-        <% width = Float(contributor['pacs'].to_i)/contributor['total'].to_i*100 %>
-        <% bar_width = (Float(contributor['total'].to_i)/max_width.to_i)*300 %>
-        <p><%= contributor['industry_name'] %></p>
-        <div class='bar-graph' style="width:<%=bar_width%>px">
-          <div class='bar' style="width:<%=width%>%;"><%= contributor['pacs'] %></div>
-        <%= contributor['total'] %>
-        </div>
+        <tr>
+          <td><%= contributor['industry_name'] %></td>
+          <td><%= contributor['pacs'] %></td>
+          <td><%= contributor['indivs'] %></td>
+          <td><%= contributor['total'] %></td>
+        </tr>
       <% end %>
+      </table>
     </div>
   </div>
 <% end %>
