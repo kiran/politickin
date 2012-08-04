@@ -6,13 +6,11 @@
   <table class='table table-striped table-bordered table-condensed'>
     <tr>
       <th>Name</th>
-      <th></th>
     </tr>
 
   <% @congressmen.each do |congressman| %>
     <tr>
-      <td><%= congressman.name %></td>
-      <td><%= link_to 'Show', congressman %></td>
+      <td><%= link_to congressman.name, congressman %></td>
     </tr>
   <% end %>
   </table>

@@ -1,3 +1,16 @@
 // Place all the styles related to the Congressmen controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.bar-graph {
+  height: 10px;
+  background-color: #CCC;
+}
+
+.bar {
+  height: 10px;
+  background-color: #666;
+  border-right: 1px #FFF solid;
+  color: #EEE;
+  padding: 3px;
+}

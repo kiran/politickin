@@ -1,17 +1,16 @@
 <div class="hero-unit">
-  <h1>Politickin</h1>
+  <h1>Politickin'</h1>
    <br>
   <p>Be informed.</p>
+    
+  <%= form_tag "/congressmen", :method => 'get' do %>
+    <%= text_field_tag :search, nil, :class => 'input-long search-query', :placeholder=>'Find congressman by name' %>
+    <button type="submit" value="upvote" class="btn btn-success">
+        <i class="icon-search"></i>
+    </button>
+  <% end %>
 
   <p><a href='/start'><img class="thumbnail" src='assets/capitol_hill_lg.jpg'></a></img>
-
-  <small>Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.</small>
   </p>
 
-  <p><br>
-    <a class="btn btn-inverse" href='/start' style='color: white'>
-      Get Started!
-      <i class="icon-chevron-right icon-white"></i>
-    </a>
-  </p>
 </div>
