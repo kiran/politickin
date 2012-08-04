@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120804064452) do
+ActiveRecord::Schema.define(:version => 20120804114959) do
 
   create_table "congressmen", :force => true do |t|
     t.string   "name"
@@ -20,23 +20,8 @@ ActiveRecord::Schema.define(:version => 20120804064452) do
     t.string   "constituency"
     t.datetime "created_at",   :null => false
     t.datetime "updated_at",   :null => false
+    t.text     "json"
+    t.text     "json_stances"
   end
-
-  create_table "issues", :force => true do |t|
-    t.string   "name"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
-  create_table "stances", :force => true do |t|
-    t.integer  "congressman_id"
-    t.integer  "issue_id"
-    t.text     "subtopics"
-    t.datetime "created_at",     :null => false
-    t.datetime "updated_at",     :null => false
-  end
-
-  add_index "stances", ["congressman_id"], :name => "index_stances_on_congressman_id"
-  add_index "stances", ["issue_id"], :name => "index_stances_on_issue_id"
 
 end
