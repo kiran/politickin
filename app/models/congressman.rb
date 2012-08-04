@@ -25,5 +25,12 @@ class Congressman < ActiveRecord::Base
     # updated_at < 2.weeks.ago || json == '{}'
     true
   end
-
+  
+  def self.search(search)
+    if search
+      find(:all, :conditions => ['name LIKE ?', "%#{search}%"])
+    else
+      find(:all)
+    end
+  end
 end
