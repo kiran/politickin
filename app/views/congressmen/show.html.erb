@@ -22,7 +22,7 @@
   </div>
 </div>
 
-<%= render :partial => 'infobar'%>
+<%= render :partial => 'infobar', :locals => {:data => @congressman.json_stances}%>
 
 
 <% contributors = parsed_json['opensecrets_contributors'] %>

@@ -1,0 +1,99 @@
+<%
+   # we convert the returned JSON data to native Ruby
+   # data structure - a hash
+   stance = JSON.parse(data)
+
+   # if the hash has 'Error' as a key, we raise an error
+   if stance.has_key? 'Error'
+      raise "web service error"
+   end 
+
+   #puts stance  
+   drugsObj=stance['Drugs']; 
+   warAndPeaceObj=stance['War & Peace'];
+   immigrationObj=stance['Immigration'];
+   techObj = stance['Technology'];
+   jobsObj = stance['Jobs'];
+   eduObj = stance['Education'];
+   abortionObj= stance['Abortion'];
+ %>
+
+<div class="span12 columns">
+  <h2>On the Issues</h2>
+  <p>Scroll through to explore issues:</p>
+
+  <div class="accordion" id="accordion2">
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+          Drugs
+        </a>
+      </div>
+      <div id="collapseOne" class="accordion-body collapse" style="height: 0px; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => drugsObj}%>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+          War & Peace
+        </a>
+      </div>
+      <div id="collapseTwo" class="accordion-body collapse" style="height: 0px; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => warAndPeaceObj}%>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+          Immigration
+        </a>
+      </div>
+      <div id="collapseThree" class="accordion-body in collapse" style="height: 0px; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => immigrationObj}%>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+          Jobs
+        </a>
+      </div>
+      <div id="collapseFour" class="accordion-body in collapse" style="height: 0px; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => jobsObj}%>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+          Education
+        </a>
+      </div>
+      <div id="collapseFive" class="accordion-body in collapse" style="height: 0px; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => eduObj}%>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-group">
+      <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+          Abortion
+        </a>
+      </div>
+      <div id="collapseSix" class="accordion-body in collapse" style="height: auto; ">
+        <div class="accordion-inner">
+          <%= render :partial => 'innerbar', :locals => {:data => abortionObj}%>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
