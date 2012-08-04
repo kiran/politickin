@@ -23,3 +23,15 @@
 .input-medium.search-query {
   margin-bottom: 0;
 }
+circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+#chart {
+  color: #EEE;
+}

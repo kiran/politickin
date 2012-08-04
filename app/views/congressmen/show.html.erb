@@ -8,7 +8,7 @@
 <div class="span3">
   <img class="thumbnail" src="/assets/photos/<%= parsed_json['bioguide_id'] %>.jpg" alt="" />
 </div>
-  <div class="span7 offset2">
+  <div class="span3 offset3">
     <h2><%= @congressman.party %> /
     <%= @congressman.title %>
     <%= @congressman.constituency %></h2>
@@ -22,11 +22,19 @@
   </div>
 </div>
 
+<hr>
 
+<div class='row'>
 <h2>On the Issues</h2>
 <p>Click through to explore issues:</p>
 <%= render :partial => 'infobar', :locals => {:data => @congressman.json_stances}%>
+<div class="span6">
+    <h3>Word Frequency in Congressional Record</h3>
+    <div id="chart"></div>
+</div>
+</div>
 
+<hr>
 
 <% contributors = parsed_json['opensecrets_contributors'] %>
 <% unless contributors.nil? %>
@@ -71,14 +79,5 @@
   </div>
 <% end %>
 
-<div class='row'>
-  <h2>Common Words</h2>
-  <div class='span6 offset3'>
-    <% words = parsed_json['capitol_words'] %>
-    <% 20.times do |index| %>
-    <%= words[index]['ngram'] %>
-    <% end %>
-  </div>
-</div>
-
+<hr>
 </div>
