@@ -22,8 +22,8 @@ class Congressman < ActiveRecord::Base
   
   # Is our cache empty or past its expiration date?
   def stale?
-    # updated_at < 2.weeks.ago || json == '{}'
-    true
+    updated_at < 2.hours.ago || json == '{}'
+    # rue
   end
   
   def self.search(search)

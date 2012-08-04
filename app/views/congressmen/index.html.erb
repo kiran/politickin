@@ -1,19 +1,19 @@
-<div class="hero-unit">
-  <h1>Listing congressmen</h1>
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th></th>
-  </tr>
-
-<% @congressmen.each do |congressman| %>
-  <tr>
-    <td><%= congressman.name %></td>
-    <td><%= link_to 'Show', congressman %></td>
-  </tr>
+<% content_for :title do %>
+  List Congressmen
 <% end %>
-</table>
 
-<br />
+<div class="span12">
+  <table class='table table-striped table-bordered table-condensed'>
+    <tr>
+      <th>Name</th>
+      <th></th>
+    </tr>
+
+  <% @congressmen.each do |congressman| %>
+    <tr>
+      <td><%= congressman.name %></td>
+      <td><%= link_to 'Show', congressman %></td>
+    </tr>
+  <% end %>
+  </table>
 </div>

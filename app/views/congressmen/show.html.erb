@@ -1,3 +1,79 @@
-<div class="hero-unit">
+<% content_for :title do %>
   <%= @congressman.name %>
+<% end %>
+
+<% parsed_json = JSON.parse @congressman.json %>
+
+<div class='row'>
+<div class="span3">
+  <img class="thumbnail" src="/assets/photos/<%= parsed_json['bioguide_id'] %>.jpg" alt="" />
+</div>
+  <div class="span7 offset2">
+    <h2><%= @congressman.party %> /
+    <%= @congressman.title %>
+    <%= @congressman.constituency %></h2>
+    <ul class="unstyled">
+    <li><i class='icon-phone'></i> Phone: <%= parsed_json['phone'] %></li>
+    <li><i class='icon-globe'></i> <a href="<%= parsed_json['website'] %>">Website</a></li>
+    <li><i class='icon-pencil'></i> <a href="<%= parsed_json['webform'] %>">Contact</a></li>
+    <li><i class='icon-book'></i> <a href="<%= parsed_json['congresspedia_url'] %>">Congresspedia</a></li>
+    <li><i class='icon-twitter'></i> <a href="http://www.twitter.com/#/@<%= parsed_json['twitter_id'] %>">Twitter</a></li>
+    </ul>
+  </div>
+</div>
+
+
+<% contributors = parsed_json['opensecrets_contributors'] %>
+<% unless contributors.nil? %>
+  <div class='row'>
+    <h2>Finances</h2>
+    <div class='span6'>
+      <h3>Organizational Contributors</h3>
+      <% contributors = parsed_json['opensecrets_contributors'] %>
+      <table class='table table-striped table-bordered table-condensed'>
+        <tr>
+          <th>Name</th>
+          <th>Money</th>
+        </tr>
+      <% contributors.each do |contributor| %>
+        <tr>
+          <td><%= contributor['org_name'] %></td>
+          <td><%= contributor['total'] %></td>
+        </tr>
+      <% end %>
+      </table>
+    </div>
+    <div class='span6'>
+      <h3>Industry Contributors</h3>
+      <% contributors = parsed_json['opensecrets_industries'] %>
+      <table class='table table-striped table-bordered table-condensed'>
+        <tr>
+          <th>Industry Name</th>
+          <th>PACs</th>
+          <th>Indivs</th>
+          <th>Money</th>
+        </tr>
+      <% contributors.each do |contributor| %>
+        <tr>
+          <td><%= contributor['industry_name'] %></td>
+          <td><%= contributor['pacs'] %></td>
+          <td><%= contributor['indivs'] %></td>
+          <td><%= contributor['total'] %></td>
+        </tr>
+      <% end %>
+      </table>
+    </div>
+  </div>
+<% end %>
+
+<div class='row'>
+  <h2>Common Words</h2>
+  <div class='span6 offset3'>
+    <% words = parsed_json['capitol_words'] %>
+    <% 20.times do |index| %>
+    <%= words[index]['ngram'] %>
+    <% end %>
+  </div>
+</div>
+
 </div>

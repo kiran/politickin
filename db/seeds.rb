@@ -11,6 +11,7 @@ open("db/seeds/final_joined_tables.tsv") do |groups|
     groups.read.each_line do |group|
         next if group.empty?
         name,party,title,constituency,json_stances = group.chomp.split("\t")
-        Congressman.create!(:name=>name, :party=>party, :title=>title, :constituency=>constituency, :json_stances=>json_stances)
+        c = Congressman.create!(:name=>name, :party=>party, :title=>title, :constituency=>constituency, :json_stances=>json_stances)
+        c.gather_information
     end
 end
