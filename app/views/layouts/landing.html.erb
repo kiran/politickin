@@ -42,6 +42,16 @@
       <a class="brand" href="/">Politickin</a>
       <ul class="nav">
         <li class="active"><a href="/">Home</a></li>
+        <li class="active"><a href="/about">About</a></li>
+      </ul>
+
+      <ul class='nav pull-right'>
+        <%= form_tag "/congressmen", :method => 'get' do %>
+          <%= text_field_tag :search, nil, :class => 'input-medium search-query', :placeholder=>'Find by name' %>
+          <button type="submit" value="upvote" class="btn btn-success">
+              <i class="icon-search"></i>
+          </button>
+        <% end %>
       </ul>
     </div>
   </div>

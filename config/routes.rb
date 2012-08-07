@@ -1,5 +1,6 @@
 Politickin::Application.routes.draw do
   root :to => "landing#index"
+  match '/about' => "landing#about"
 
   resources :congressmen
 
