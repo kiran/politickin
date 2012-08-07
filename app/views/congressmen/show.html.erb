@@ -30,7 +30,7 @@
 <%= render :partial => 'infobar', :locals => {:data => @congressman.json_stances}%>
 <div class="span6">
     <h3>Word Frequency in Congressional Record</h3>
-    <div id="chart"></div>
+    <div id="chart" class='<%=@congressman.party%>'></div>
 </div>
 </div>
 
