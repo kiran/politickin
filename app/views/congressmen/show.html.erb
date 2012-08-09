@@ -2,16 +2,17 @@
   <%= @congressman.name %>
 <% end %>
 
-<% parsed_json = JSON.parse @congressman.json %>
+<% # parsed_json = JSON.parse @congressman.json %>
+<%  parsed_json = {} %>
 
 <div class='row'>
 <div class="span3">
   <img class="thumbnail" src="/assets/photos/<%= parsed_json['bioguide_id'] %>.jpg" alt="" />
 </div>
   <div class="span3 offset3">
-    <h2><%= @congressman.party %> /
+    <h2><%= @congressman.party_name %>
     <%= @congressman.title %>
-    <%= @congressman.constituency %></h2>
+    <%= @congressman.state %>-<%= @congressman.district %></h2>
     <ul class="unstyled">
     <li><i class='icon-phone'></i> Phone: <%= parsed_json['phone'] %></li>
     <li><i class='icon-globe'></i> <a href="<%= parsed_json['website'] %>">Website</a></li>
@@ -27,7 +28,6 @@
 <div class='row'>
 <h2>On the Issues</h2>
 <p>Click through to explore issues:</p>
-<%= render :partial => 'infobar', :locals => {:data => @congressman.json_stances}%>
 <div class="span6">
     <h3>Word Frequency in Congressional Record</h3>
     <div id="chart" class='<%=@congressman.party%>'></div>

@@ -12,6 +12,12 @@ class Congressman < ActiveRecord::Base
     end
   end
   
+  def name
+    [first_name, last_name].join(' ')
+  end
+  def party_name
+    (party == 'R') ? 'Republican' : 'Democrat'
+  end
   
   # Go out and re-spider this politician.
   def gather_information
@@ -28,7 +34,7 @@ class Congressman < ActiveRecord::Base
   
   def self.search(search)
     if search
-      find(:all, :conditions => ['name LIKE ?', "%#{search}%"])
+      where("((congressmen.first_name || ' ' || congressmen.last_name) ILIKE ?) OR (congressmen.first_name ILIKE ?) OR (congressmen.last_name ILIKE ?)", "%#{search}%", "%#{search}%", "%#{search}%")
     else
       find(:all)
     end
