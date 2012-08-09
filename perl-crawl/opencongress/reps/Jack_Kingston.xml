@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-25T07:01:49-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.5860023724792</party-votes-percentage>
+        <abstains-percentage type="float">1.91972076788831</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-10-06T20:42:19-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">269</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">399</cosponsored-bills-passed-rank>
+        <abstains type="integer">33</abstains>
+        <cosponsored-bills type="integer">202</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">325</party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">400360</votes-least-often-with-id>
+        <person-id type="integer">400221</person-id>
+        <cosponsored-bills-rank type="integer">303</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">349</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1561</votes-republican-position>
+      <fax>202-226-2269</fax>
+      <blog-article-count type="integer">8128</blog-article-count>
+      <user-approval type="float">6.30434782608696</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">128</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://kingston.house.gov/ContactForm/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.5860023724792</with-party-percentage>
+      <lastname>Kingston</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>2372 Rayburn House Office Building</congress-office>
+      <firstname>Jack</firstname>
+      <website>http://kingston.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1955-04-24</birthday>
+      <bioguide-id>K000220</bioguide-id>
+      <person-id type="integer">400221</person-id>
+      <phone>202-225-5831</phone>
+      <religion>Episcopalian</religion>
+      <votes-democratic-position type="integer">350</votes-democratic-position>
+      <metavid-id>Jack_Kingston</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:42:28-04:00</created-at>
+          <title>Money frames a mountain vs. tea party race in the 9th</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...that failed last week, though he has yet to disclose the amount of that contribution. (My AJC colleague Daniel Malloy notes that Jack Kingston of Savannah is the only Georgia House member who has placed a bet in the race for the 9th. He&#8217;s given $1,000</excerpt>
+          <fti-names>'000':59 '1':58 '9th':11,54 'ajc':28 'amount':23 'atlanta':60 'bet':48 'blog':63 'colleagu':29 'constitut':62 'contribut':26 'daniel':30 'disclos':21 'fail':13 'frame':2 'georgia':41 'given':57 'hous':42 'jack':34 'journal':61 'kingston':35 'last':14 'malloy':31 'member':43 'money':1 'mountain':4 'note':32 'parti':7 'place':46 'race':8,51 'savannah':37 'tea':6 'though':16 'vs':5 'week':15 'yet':19</fti-names>
+          <source-url>http://blogs.ajc.com/</source-url>
+          <url>http://blogs.ajc.com/political-insider-jim-galloway/2012/08/05/money-frames-a-mountain-vs-tea-party-race-in-the-9th/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972478</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:29-04:00</created-at>
+          <title>Messinger To Face Kingston</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Ga. &#8212; Republican Rep. Jack Kingston will face Democrat Lesli Rae Messinger in the November 6 general election for southeast Georgia's 1st Congressional District. Both are from Savannah. Messinger, a 56-year-old businesswoman, defeated Nathan Russo, a </excerpt>
+          <fti-names>'1st':26 '56':35 '6':19 'broadcast':46 'businesswoman':39 'congression':27 'defeat':40 'democrat':12 'district':28 'elect':21 'face':3,11 'ga':5 'general':20 'georgia':24,44 'jack':8 'kingston':4,9 'lesli':13 'messing':1,15,33 'nathan':41 'novemb':18 'old':38 'public':45 'rae':14 'rep':7 'republican':6 'russo':42 'savannah':32 'southeast':23 'year':37 'year-old':36</fti-names>
+          <source-url>http://www.gpb.org/</source-url>
+          <url>http://feedproxy.google.com/~r/GPBNewsFeed/~3/qDdBN13m_ug/messinger-to-face-kingston</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969775</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Georgia Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:28-04:00</created-at>
+          <title>Democrat Messinger to meet GOP US Rep. Kingston</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...(AP) &#8212; Republican Rep. Jack Kingston will face Democrat Lesli Rae Messinger in the Nov. 6 general election for southeast Georgia's 1st Congressional District. Both are from Savannah. Messinger, a 56-year-old businesswoman, defeated Nathan Russo , a St</excerpt>
+          <fti-names>'1st':30 '56':39 '6':23 'ap':9 'businesswoman':43 'chronicl':51 'congression':31 'defeat':44 'democrat':1,16 'district':32 'elect':25 'face':15 'francisco':50 'general':24 'georgia':28 'gop':5 'jack':12 'kingston':8,13 'lesli':17 'meet':4 'messing':2,19,37 'nathan':45 'nov':22 'old':42 'rae':18 'rep':7,11 'republican':10 'russo':46 'san':49 'savannah':36 'southeast':27 'st':48 'us':6 'year':41 'year-old':40</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Democrat-Messinger-to-meet-GOP-US-Rep-Kingston-3751881.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969774</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:36-04:00</created-at>
+          <title>Congressional incumbents appear to survive primaries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Here are the preliminary results from other contested congressional primaries: District 1: Rep. Jack Kingston, R-Savannah, had no primary challenge. Lesli Messinger was leading Nathan Russo in the Democratic primary Tuesday night to face ...</excerpt>
+          <fti-names>'1':18 'appear':3 'atlanta':43 'challeng':28 'congression':1,15 'constitut':45 'contest':14 'democrat':37 'district':17 'face':42 'incumb':2 'jack':20 'journal':44 'kingston':21 'lead':32 'lesli':29 'messing':30 'nathan':33 'night':40 'preliminari':10 'primari':6,16,27,38 'r':23 'r-savannah':22 'rep':19 'result':11 'russo':34 'savannah':24 'surviv':5 'tuesday':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ajc.com/news/georgia-politics-elections/congressional-incumbents-appear-to-1488550.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:47:32-04:00</date>
+          <id type="integer">16966744</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:35-04:00</created-at>
+          <title>Democrat Messinger to meet GOP US Rep. Kingston</title>
+          <contains-term>congress</contains-term>
+          <excerpt>ATLANTA (AP) - Republican Rep. Jack Kingston will face Democrat Lesli Rae Messinger in the Nov. 6 general election for southeast Georgia's 1st Congressional District. Both are from Savannah. Messinger, a 56-year-old businesswoman, defeated Nathan Russo ...</excerpt>
+          <fti-names>'1st':31 '56':40 '6':24 'ap':10 'atlanta':9 'businesswoman':44 'congression':32 'defeat':45 'democrat':1,17 'district':33 'elect':26 'face':16 'general':25 'georgia':29 'gop':5 'jack':13 'kingston':8,14 'lesli':18 'meet':4 'messing':2,20,38 'nathan':46 'nov':23 'old':43 'rae':19 'rep':7,12 'republican':11 'russo':47 'savannah':37 'southeast':28 'us':6 'wgcl':48 'year':42 'year-old':41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.cbsatlanta.com/story/19163296/democrat-messinger-to-meet-gop-us-rep-kingston</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:33:13-04:00</date>
+          <id type="integer">16966743</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WGCL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:07:24-04:00</created-at>
+          <title>EDITORIAL: Voters have a chance to make a difference</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Do the same when voting for a sheriff to replace Wayne Bennett. Democrats will pick someone to challenge incumbent U.S. Rep. Jack Kingston, R-1, in the Nov. 6 general election. One of the most significant referendums to appear on the ballot for ...</excerpt>
+          <fti-names>'-1':34 '6':38 'appear':48 'ballot':51 'bennett':21 'challeng':27 'chanc':5 'democrat':22 'differ':9 'editori':1 'elect':40 'general':39 'incumb':28 'jack':31 'kingston':32 'make':7 'nov':37 'one':41 'orlando':53 'pick':24 'r':33 'referendum':46 'rep':30 'replac':19 'sentinel':54 'sheriff':17 'signific':45 'someon':25 'u.s':29 'vote':14 'voter':2 'wayn':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://articles.orlandosentinel.com/2012-07-28/news/sns-mct-editorial-voters-have-a-chance-to-make-a-20120728_1_sales-tax-general-election-significant-referendums</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:53:20-04:00</date>
+          <id type="integer">16960884</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Orlando Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:17:17-04:00</created-at>
+          <title>Congress Should Avoid Government Budget Fight, Reid Says</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;I don&#8217;t think agencies like it and we don&#8217;t like it,&#8221; said Representative Jack Kingston, a Georgia Republican and chairman of the spending subcommittee that oversees farm programs. Kingston prefers a measure lasting until December and ...</excerpt>
+          <fti-names>'agenc':13 'avoid':3 'bloomberg':47 'budget':5 'chairman':30 'congress':1 'decemb':45 'farm':37 'fight':6 'georgia':27 'govern':4 'jack':24 'kingston':25,39 'last':43 'like':14,20 'measur':42 'overse':36 'prefer':40 'program':38 'reid':7 'repres':23 'republican':28 'said':22 'say':8 'spend':33 'subcommitte':34 'think':12</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-26/congress-should-avoid-government-budget-fight-reid-says.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T17:45:40-04:00</date>
+          <id type="integer">16890679</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:17:28-04:00</created-at>
+          <title>Lawmakers discuss politics of food aid at event launching new 'Roadmap to End Global Hunger'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of Congress and understanding that aid recipients' votes against the United States at the United Nations matter, said Rep. Jack Kingston (R-Ga.).&quot; &quot;Kingston, who supports increased funding for food aid and agricultural development, made the remarks at t</excerpt>
+          <fti-names>'agricultur':49 'aid':6,21,47 'congress':17 'develop':50 'discuss':2 'end':13 'event':8 'food':5,46 'fund':44 'ga':39 'global':14 'hunger':15 'increas':43 'jack':35 'kingston':36,40 'launch':9 'lawmak':1 'made':51 'matter':32 'nation':31 'new':10 'news-medical.net':56 'polit':3 'r':38 'r-ga':37 'recipi':22 'remark':53 'rep':34 'roadmap':11 'said':33 'state':27 'support':42 'understand':19 'unit':26,30 'vote':23</fti-names>
+          <source-url>http://www.news-medical.net/</source-url>
+          <url>http://www.news-medical.net/news/20120726/Lawmakers-discuss-politics-of-food-aid-at-event-launching-new-Roadmap-to-End-Global-Hunger.aspx</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890684</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>News-Medical.net</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:04:58-04:00</created-at>
+          <title>Congress Should Avoid Government Budget Fight, Reid Says</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;I don&#8217;t think agencies like it and we don&#8217;t like it,&#8221; said Representative Jack Kingston, a Georgia Republican and chairman of the spending subcommittee that oversees farm programs. Kingston prefers a measure lasting until December and ...</excerpt>
+          <fti-names>'agenc':13 'avoid':3 'budget':5 'businessweek':47 'chairman':30 'congress':1 'decemb':45 'farm':37 'fight':6 'georgia':27 'govern':4 'jack':24 'kingston':25,39 'last':43 'like':14,20 'measur':42 'overse':36 'prefer':40 'program':38 'reid':7 'repres':23 'republican':28 'said':22 'say':8 'spend':33 'subcommitte':34 'think':12</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.businessweek.com/news/2012-07-26/congress-should-avoid-government-budget-fight-reid-says</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16948148</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Businessweek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:05:08-04:00</created-at>
+          <title>Poll: Romney has economic advantage, but Obama&#8217;s &#8216;fairness&#8217; message resonates</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;Romney, if he is aggressive, he&#8217;s going to be fine on the economy,&#8221; said Republican Georgia Rep. Jack Kingston. &#8220;If he can&#8217;t win on the economy, he can&#8217;t win it anyhow.&#8221; The presumptive GOP nominee&#8217;s latest tack has been to ...</excerpt>
+          <fti-names>'advantag':5 'aggress':16 'anyhow':45 'econom':4 'economi':25,39 'fair':9 'fine':22 'georgia':28 'go':19 'gop':48 'jack':30 'kingston':31 'latest':51 'messag':10 'nbcnews.com':56 'nomine':49 'obama':7 'poll':1 'presumpt':47 'rep':29 'republican':27 'reson':11 'romney':2,12 'said':26 'tack':52 'win':36,43</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://nbcpolitics.msnbc.msn.com/_news/2012/07/25/12951184-poll-romney-has-economic-advantage-but-obamas-fairness-message-resonates?lite</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T14:12:06-04:00</date>
+          <id type="integer">16948151</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBCNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jack Kingston [R, GA-1]</name>
+      <total-session-votes type="integer">1686</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>JackKingston</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:00:03-04:00</created-at>
+          <title>Major sports try to save military sponsorships | Epou</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Betty McCollum (D-MN), who engineered the ban on military sponsorhips in next year&amp;#39;s defense budget bill with Rep. Jack Kingston (R-GA). &#8220;In the face of deep cuts and troop force reductions, the military should not be ...</excerpt>
+          <fti-names>'ban':17 'betti':9 'bill':27 'budget':26 'cut':40 'd':12 'd-mn':11 'deep':39 'defens':25 'engin':15 'epou':8 'eta':50 'face':37 'forc':43 'ga':34 'jack':30 'kingston':31 'major':1 'mccollum':10 'militari':6,19,46 'mn':13 'next':22 'phi':51 'r':33 'r-ga':32 'reduct':44 'rep':29 'save':5 'sponsorhip':20 'sponsorship':7 'sport':2,52 'tri':3 'troop':42 'year':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://epou.net/%3Fp%3D34990&amp;sa=U&amp;ei=smwLUNTFHOew2wXQwrAv&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNHjkYpZ7RI-Na8-CASc1TLEJHicPQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16787017</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eta Phi Sports</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:00:02-04:00</created-at>
+          <title>Jack Kingston has $1.24 million, would-be Dem foes scramble for ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Jack Kingston gave away more money in the second quarter of 2012 than was spent by two Democrats seeking to oppose him. Even so, the Savannah Republican had $1.24 million in the bank as of June 30, ...</excerpt>
+          <fti-names>'1.24':4,43 '2012':26 '30':51 'away':18 'bank':47 'dem':9 'democrat':32 'even':37 'foe':10 'gave':17 'jack':1,15 'june':50 'kingston':2,16 'larri':52 'million':5,44 'money':20 'oppos':35 'peterson':53 'quarter':24 'rep':14 'republican':41 'savannah':40 'scrambl':11 'second':23 'seek':33 'spent':29 'two':31 'u.s':13 'would':7 'would-b':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://savannahnow.com/news/2012-07-21/jack-kingston-has-124-million-would-be-dem-foes-scramble-crumbs&amp;sa=U&amp;ei=smwLUNTFHOew2wXQwrAv&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGxJKzofL-kVSJbb7q61iaNlX5lNA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16787013</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Larry Peterson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:00:03-04:00</created-at>
+          <title>An Effort to Protect America from the Enemy Within</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Other amendments of note included a measure to defund military NASCAR sponsorship, introduced by Rep. Jack Kingston (R-Ga.), which failed narrowly, 200-216; and a move by Rep. Betty McCollum (D-Minn.) to cut ...</excerpt>
+          <fti-names>'-216':34 '200':33 'amend':11 'america':5 'betti':40 'cut':46 'd':43 'd-minn':42 'debra':47 'defund':18 'effort':2 'enemi':8 'fail':31 'ga':29 'includ':14 'introduc':22 'jack':25 'kingston':26 'mccollum':41 'measur':16 'militari':19 'minn':44 'moor':48 'move':37 'narrowli':32 'nascar':20 'note':13 'protect':4 'r':28 'r-ga':27 'rep':24,39 'sponsorship':21 'within':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://exposingliberallies.blogspot.com/2012/07/an-effort-to-protect-america-from-enemy.html&amp;sa=U&amp;ei=smwLUNTFHOew2wXQwrAv&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFv3X1xymAA_y1kJGbdw_xgwkDQAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16787018</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Debra Moore</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:00:04-04:00</created-at>
+          <title>House again rejects McCollum&amp;#39;s Pentagon NASCAR spending cuts ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>She teamed up with Georgia Republican Rep. Jack Kingston to push the cuts, but the House rejected them 202-216. From the AP (via, of all places, ESPN): The House spent most of the day and night debating the far-reaching ...</excerpt>
+          <fti-names>'-216':29 '202':28 'ap':32 'cut':9,22 'day':44 'debat':47 'devin':52 'espn':37 'far':50 'far-reach':49 'georgia':14 'henri':53 'hous':1,25,39 'jack':17 'kingston':18 'mccollum':4 'nascar':7 'night':46 'pentagon':6 'place':36 'push':20 'reach':51 'reject':3,26 'rep':16 'republican':15 'spend':8 'spent':40 'team':11 'via':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.minnpost.com/dc-dispatches/2012/07/house-again-rejects-mccollums-pentagon-nascar-spending-cuts&amp;sa=U&amp;ei=smwLUNTFHOew2wXQwrAv&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNG3sx8E7c9AjaADuHAtmtZu0PWc1A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16787022</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Devin Henry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:16:44-04:00</created-at>
+          <title>National Guard Motorsports Funding Survives the House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>We applaud Rep. Sanford Bishop, D-Ga.; Rep. Steven Palazzo, R-Miss.; Rep. C.W. Bill Young, R-Fla.; Rep. Patrick McHenry, R-N.C.; Rep. Larry Kissell, D-N.C.; Rep. Sue Myrick, R-N.C.; and Rep. Bill Posey, R-Fla., for speaking on the House   floor on behalf o</excerpt>
+          <fti-names>'applaud':9 'associ':68 'behalf':64 'bill':24,52 'bishop':12 'c':35,42,49 'c.w':23 'd':14,40 'd-ga':13 'd-n':39 'fla':28,56 'floor':62 'fund':4 'ga':15 'guard':2,67 'hous':7,61 'kissel':38 'larri':37 'mchenri':31 'miss':21 'motorsport':3 'myrick':45 'n':34,41,48 'nation':1,66 'o':65 'palazzo':18 'patrick':30 'posey':53 'r':20,27,33,47,55 'r-fla':26,54 'r-miss':19 'r-n':32,46 'rep':10,16,22,29,36,43,51 'sanford':11 'speak':58 'steven':17 'sue':44 'surviv':5 'young':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nationalguardassociation.blogspot.com/2012/07/national-guard-motorsports-funding.html&amp;sa=U&amp;ei=GXwHUOuHEqTC2wXOtfHtBA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFuuAHKYv9Z7MMtr-4R36vp1-uecA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716392</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>National Guard Association</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:16:43-04:00</created-at>
+          <title>Military Sports Sponsorships Debate Could Impact Dale Earnhardt ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Challenging lawmakers&amp;#39; resolve to cut federal spending, Republican Rep. Jack Kingston and Democratic Rep. Betty McCollum pleaded with their colleagues Wednesday to back a measure that would trim $72.3 million from a ...</excerpt>
+          <fti-names>'72.3':37 'back':31 'betti':23 'carrol':42 'challeng':9 'chuck':41 'colleagu':28 'could':5 'cut':13 'dale':7 'debat':4 'democrat':21 'earnhardt':8 'feder':14 'impact':6 'jack':18 'kingston':19 'lawmak':10 'mccollum':24 'measur':33 'militari':1 'million':38 'plead':25 'rep':17,22 'republican':16 'resolv':11 'spend':15 'sponsorship':3 'sport':2 'trim':36 'wednesday':29 'would':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washington.cbslocal.com/2012/07/18/military-sports-sponsorships-debate-could-impact-dale-earnhardt-jr-and-national-guard/&amp;sa=U&amp;ei=GXwHUOuHEqTC2wXOtfHtBA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNG9zLVnosb2s-hXYLYoMDWfXqqTFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716388</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chuck Carroll</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:16:43-04:00</created-at>
+          <title>Letters to the Editor Wednesday | savannahnow.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In 1994, then-freshman Congressman Jack Kingston signed the &#8220;Contract with America&#8221; and said that he supported term limits for members of Congress. But, that was then, and this is now. In 2012, 10-term Congressman ...</excerpt>
+          <fti-names>'10':41 '1994':8 '2012':40 'america':19 'congress':30 'congressman':12,43 'contract':17 'editor':4 'freshman':11 'jack':13 'kingston':14 'letter':1 'limit':26 'member':28 'said':21 'savannahnow.com':6 'sign':15 'staff':44 'support':24 'term':25,42 'then-freshman':9 'wednesday':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://savannahnow.com/opinion/2012-07-18/letters-editor-wednesday&amp;sa=U&amp;ei=GXwHUOuHEqTC2wXOtfHtBA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEllLukCrpF0W46k0o0EyCAXQsSZg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716387</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:16:41-04:00</created-at>
+          <title>Rep. Jack Kingston defends the amendment to cut military funding ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jack Kingston defends the amendment to cut military funding from NASCAR and other sports &amp;middot; Edit &amp;middot; Delete &amp;middot; Tags &amp;middot; Autopost. 07-18-12_Jack_Kingston_on_military_cuts_2486803.mp3. (download). Click here to download: ...</excerpt>
+          <fti-names>'-12':32 '-18':31 '07':30 '2486803':38 'amend':6,16 'autopost':29 'click':41 'cut':8,18,37 'defend':4,14 'delet':27 'download':40,44 'edit':26 'fund':10,20 'jack':2,12,33 'kingston':3,13,34 'militari':9,19,36 'mp3':39 'nascar':22 'rep':1,11 'siriusxmsports.posterous.com':45 'sport':25 'tag':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://siriusxmsports.posterous.com/rep-jack-kingston-defends-the-amendment-to-cu&amp;sa=U&amp;ei=GXwHUOuHEqTC2wXOtfHtBA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHsX6ssM9lm9i9jlWIm5Siy43FMdg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716385</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://siriusxmsports.posterous.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:00:03-04:00</created-at>
+          <title>Military Sponsorship Ban Comes Up For Vote Tomorrow</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Betty McCollum (D-Minn) and Rep. Jack Kingston (R-Ga.) that would outlaw sponsorship of NASCAR and other professional sports teams by branches of the United States military. This week, a letter on behalf of NASCAR, ...</excerpt>
+          <fti-names>'ban':3 'behalf':44 'betti':9 'branch':33 'come':4 'd':12 'd-minn':11 'dave':47 'ga':20 'jack':16 'kingston':17 'letter':42 'mccollum':10 'militari':1,38 'minn':13 'moodi':48 'nascar':26,46 'outlaw':23 'profession':29 'r':19 'r-ga':18 'rep':15 'sponsorship':2,24 'sport':30 'state':37 'team':31 'tomorrow':8 'unit':36 'vote':7 'week':40 'would':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://motorsports-soapbox.blogspot.com/2012/07/military-sponsorship-ban-comes-up-for.html&amp;sa=U&amp;ei=smwLUNTFHOew2wXQwrAv&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGhfhXf36_-bb4f6QVf7Tw0OtPeDA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16787021</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dave Moody</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400221</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:16:44-04:00</created-at>
+          <title>NetRight Daily &#187; Time to end government sponsorship of sporting ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jack Kingston (R-GA) and Rep. Betty McCollum (D-MN) have co-sponsored an amendment that would ban the military from sponsoring sporting events. Rep. Kingston&amp;#39;s office estimates that it would save roughly $80 ...</excerpt>
+          <fti-names>'80':48 'adam':49 'amend':28 'ban':31 'betti':18 'bite':50 'co':25 'co-sponsor':24 'd':21 'd-mn':20 'daili':2 'end':5 'estim':42 'event':37 'ga':15 'govern':6 'jack':11 'kingston':12,39 'mccollum':19 'militari':33 'mn':22 'netright':1 'offic':41 'r':14 'r-ga':13 'rep':10,17,38 'rough':47 'save':46 'sponsor':26,35 'sponsorship':7 'sport':9,36 'time':3 'would':30,45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://netrightdaily.com/2012/07/time-to-end-government-sponsorship-of-sporting-events/&amp;sa=U&amp;ei=GXwHUOuHEqTC2wXOtfHtBA&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNEtM97pakSCkX9R_sW1sIfgIKyn1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716393</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Adam Bitely</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21767</page-views-count>
+      <unaccented-name>Jack Kingston</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.1730429664509</party-votes-percentage>
+        <abstains-percentage type="float">1.16346713205352</abstains-percentage>
+        <votes-most-often-with-id type="integer">412464</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">20</abstains>
+        <cosponsored-bills type="integer">81</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">16</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412410</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1600</votes-republican-position>
+      <blog-article-count type="integer">1609</blog-article-count>
+      <fax>202-225-0999</fax>
+      <user-approval type="float">3.5</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">42</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.1730429664509</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Webster</lastname>
+      <congress-office>1039 Longworth House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Daniel</firstname>
+      <website>http://webster.house.gov/</website>
+      <birthday type="date">1949-04-27</birthday>
+      <bioguide-id>W000806</bioguide-id>
+      <person-id type="integer">412410</person-id>
+      <phone>202-225-2176</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">393</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:48:41-04:00</created-at>
+          <title>Kirsten Gillibrand Really Must Insist that More Women Run for Office [Politics]</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On Tuesday, the Washington Post featured a profile on Democratic New York State Senator Kirsten Gillibrand, who is taking time out of her reelection bid (she's expected to win by a 2 to 1 margin, so it's nbd) to personally ensure that, after the next ele</excerpt>
+          <fti-names>'1':47 '2':45 'bid':37 'democrat':22 'ele':60 'ensur':55 'expect':40 'featur':18 'gillibrand':2,28 'insist':5 'jezebel':61 'kirsten':1,27 'margin':48 'must':4 'nbd':52 'new':23 'next':59 'offic':11 'person':54 'polit':12 'post':17 'profil':20 'realli':3 'reelect':36 'run':9 'senat':26 'state':25 'take':31 'time':32 'tuesday':14 'washington':16 'win':42 'women':8 'york':24</fti-names>
+          <source-url>http://jezebel.com/</source-url>
+          <url>http://feeds.gawker.com/~r/jezebel/excerpts/~3/5aAiOC0jAHA/kristen-gillibrand-really-must-insist-that-more-women-run-for-office</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971030</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jezebel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:02:41-04:00</created-at>
+          <title>Gillibrand works to elect more women</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to defeat Rep. Joe Walsh (R-Ill.) in the Chicago suburbs; and Val Demings, a former Orlando police chief challenging Rep. Daniel Webster (R-Fla.) . Strong efforts on GOP turf Despite running in Republican-leaning districts, each of the women is keeping </excerpt>
+          <fti-names>'challeng':27 'chicago':17 'chief':26 'daniel':29 'defeat':8 'deme':21 'despit':39 'district':45 'effort':35 'elect':4 'fla':33 'former':23 'gillibrand':1 'gop':37 'ill':14 'joe':10 'keep':51 'lean':44 'orlando':24 'polic':25 'post':54 'r':13,32 'r-fla':31 'r-ill':12 'rep':9,28 'republican':43 'republican-lean':42 'run':40 'strong':34 'suburb':18 'turf':38 'val':20 'walsh':11 'washington':53 'webster':30 'women':6,49 'work':2</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=07234ff62edc69f0fd2b27e32ef2bb46</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970054</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:37:43-04:00</created-at>
+          <title>Automatic weapons: our neighborhood&#8217;s weapon of mass destruction</title>
+          <contains-term>representative</contains-term>
+          <excerpt>According to Professor Daniel Webster of Johns Hopkins Bloomberg School of Public ... Adam Hollier is a candidate for Michigan state representative in the newly drawn District 4.</excerpt>
+          <fti-names>'4':36 'accord':10 'adam':22 'automat':1 'bloomberg':18 'candid':26 'citizen':38 'daniel':13 'destruct':9 'district':35 'drawn':34 'hollier':23 'hopkin':17 'john':16 'mass':8 'michigan':28,37 'neighborhood':4 'newli':33 'professor':12 'public':21 'repres':30 'school':19 'state':29 'weapon':2,6 'webster':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://michigancitizen.com/automatic-weapons-our-neighborhoods-weapon-of-mass-destruction-p11459-76.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T19:59:18-04:00</date>
+          <id type="integer">16961810</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Michigan Citizen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:20:20-04:00</created-at>
+          <title>Price: Put health care in patients hands</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>LAKE WALES - It doesn't matter that the U.S. Supreme Court said the Affordable Health Care Act is constitutional, said U.S. Rep. Tom Price of Georgia ... Dennis Ross (R-Lakeland) and Daniel Webster (R-Winter Park) support Price's plan.</excerpt>
+          <fti-names>'act':24 'afford':21 'care':4,23 'constitut':26 'court':18 'daniel':40 'denni':34 'doesn':11 'georgia':33 'hand':7 'health':3,22 'lake':8 'lakeland':38 'ledger':51 'matter':13 'park':45 'patient':6 'plan':49 'price':1,31,47 'put':2 'r':37,43 'r-lakeland':36 'r-winter':42 'rep':29 'ross':35 'said':19,27 'support':46 'suprem':17 'tom':30 'u.s':16,28 'wale':9 'webster':41 'winter':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.newschief.com/article/20120728/NEWS/207285023/1021?Title=Price-Put-health-care-in-patients-hands</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T08:17:47-04:00</date>
+          <id type="integer">16931412</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Ledger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:20:20-04:00</created-at>
+          <title>Nation needs annual snapshot</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But budget savings aside, Rep. Daniel Webster appears to be more intent on eliminating the program because he views it as an unnecessary intrusion into citizens' private lives. Even though Webster wasn't swept into office until the 2010 tea-party movement </excerpt>
+          <fti-names>'2010':43 'annual':3 'appear':12 'asid':8 'budget':6 'citizen':30 'daili':49 'daniel':10 'elimin':18 'even':33 'intent':16 'intrus':28 'live':32 'movement':47 'nation':1 'need':2 'news':50 'offic':40 'parti':46 'philadelphia':48 'privat':31 'program':20 'rep':9 'save':7 'snapshot':4 'swept':38 'tea':45 'tea-parti':44 'though':34 'unnecessari':27 'view':23 'wasn':36 'webster':11,35</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/opinion/163926046.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T03:24:18-04:00</date>
+          <id type="integer">16931411</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:20:18-04:00</created-at>
+          <title>GOP Speaker Attacks Health Care Law</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>LAKE WALES | It doesn&#8217;t matter that the U.S. Supreme Court said the Affordable Health Care Act is constitutional, said U.S. Rep. Tom Price of Georgia ... Dennis Ross, R-Lakeland, and Daniel Webster, R-Winter Park, said they support Price ...</excerpt>
+          <fti-names>'act':23 'afford':20 'attack':3 'care':5,22 'constitut':25 'court':17 'daniel':39 'denni':33 'doesn':10 'georgia':32 'gop':1 'health':4,21 'lake':7 'lakeland':37 'law':6 'ledger':50 'matter':12 'park':44 'price':30,48 'r':36,42 'r-lakeland':35 'r-winter':41 'rep':28 'ross':34 'said':18,26,45 'speaker':2 'support':47 'suprem':16 'tom':29 'u.s':15,27 'wale':8 'webster':40 'winter':43</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.theledger.com/article/20120727/POLITICS/120729344</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T03:02:49-04:00</date>
+          <id type="integer">16931410</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Ledger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:20:38-04:00</created-at>
+          <title>GOP Speaker Attacks Health Care Law</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Club. U.S. Rep. Tom Price, left, of Georgia, the House Republican Policy Committee Chairman, talks to guests as U.S. Rep Daniel Webster, R-Winter Park,... All rights reserved. This copyrighted material may not be re-published without permission. Links a</excerpt>
+          <fti-names>'attack':3 'care':5 'chairman':20 'club':7 'committe':19 'copyright':37 'daniel':27 'georgia':14 'gop':1 'guest':23 'health':4 'hous':16 'lakeland':50 'law':6 'ledger':51 'left':12 'link':47 'materi':38 'may':39 'park':32 'permiss':46 'polici':18 'price':11 'publish':44 'r':30 'r-winter':29 're':43 're-publish':42 'rep':9,26 'republican':17 'reserv':35 'right':34 'speaker':2 'talk':21 'tom':10 'u.s':8,25 'webster':28 'winter':31 'without':45</fti-names>
+          <source-url>http://www.theledger.com/</source-url>
+          <url>http://www.theledger.com/article/20120727/politics/120729344</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931414</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Lakeland Ledger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:20:21-04:00</created-at>
+          <title>Lee on Literature: Profiles in Courage</title>
+          <contains-term>representative</contains-term>
+          <excerpt>This model of representative behavior was supported by examples of individual political courage throughout US history: John Quincy Adams&#8217; support of the Embargo Act of 1807; Daniel Webster&#8217;s and Thomas Hart Benson&#8217;s roles in the Compromise of 1850 ..</excerpt>
+          <fti-names>'1807':32 '1850':46 'act':30 'adam':25 'behavior':11 'benson':39 'compromis':44 'courag':6,19 'daniel':33 'embargo':29 'exampl':15 'fe':48 'hart':38 'histori':22 'individu':17 'john':23 'lee':1 'literatur':3 'model':8 'polit':18 'profil':4 'quinci':24 'report':49 'repres':10 'role':41 'santa':47 'support':13,26 'thoma':37 'throughout':20 'us':21 'webster':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.sfreporter.com/blog-3680-lee-on-literature-profiles-in-courage.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T17:15:51-04:00</date>
+          <id type="integer">16931413</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Santa Fe Reporter</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:11:41-04:00</created-at>
+          <title>State getting 'right to carry' handguns</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Daniel Webster, professor and co-director of the Center for Gun ... mass shooting in which then-U.S. Rep. Gabrielle Giffords was critically wounded. Both Colorado and Arizona are right-to-carry states, and &quot;in neither case did that change ...</excerpt>
+          <fti-names>'arizona':36 'carri':5,41 'case':46 'center':16 'chang':49 'co':12 'co-director':11 'colorado':34 'critic':31 'daniel':7 'director':13 'frederick':50 'gabriell':28 'get':2 'gifford':29 'gun':18 'handgun':6 'mass':19 'neither':45 'news':52 'news-post':51 'post':53 'professor':9 'rep':27 'right':3,39 'right-to-carri':38 'shoot':20 'state':1,42 'then-u':23 'u':25 'webster':8 'wound':32</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.fredericknewspost.com/sections/news/display.htm?storyid=138666</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T02:56:51-04:00</date>
+          <id type="integer">16950954</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Frederick News-Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:39:00-04:00</created-at>
+          <title>Nation needs annual snapshot</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But budget savings aside, Rep. Daniel Webster appears to be more intent on eliminating the program because he views it as an unnecessary intrusion into citizens' private lives. Even though Webster wasn't swept into office until the 2010 tea ...</excerpt>
+          <fti-names>'2010':43 'annual':3 'appear':12 'asid':8 'budget':6 'citizen':30 'daili':46 'daniel':10 'elimin':18 'even':33 'intent':16 'intrus':28 'live':32 'nation':1 'need':2 'news':47 'offic':40 'philadelphia':45 'privat':31 'program':20 'rep':9 'save':7 'snapshot':4 'swept':38 'tea':44 'though':34 'unnecessari':27 'view':23 'wasn':36 'webster':11,35</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/opinion/inquirer/20120727_Nation_needs_annual_snapshot.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T02:56:51-04:00</date>
+          <id type="integer">16924231</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Daniel Webster [R, FL-8]</name>
+      <total-session-votes type="integer">1699</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>8</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:29:23-04:00</created-at>
+          <title>You Did It! - Advocacy Blog - Juvenation - Juvenation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Promise meeting that brought us to 432 was with Representative Daniel Webster from Florida&amp;#39;s 8th congressional district. JDRF advocate Savannah Spears and her mother, father, and grandfather met with him in his ...</excerpt>
+          <fti-names>'432':15 '8th':24 'advoc':28 'advocaci':4 'amanda':42 'blog':5 'brought':12 'congression':25 'daniel':19 'district':26 'father':34 'florida':22 'grandfath':36 'jdrf':27 'juven':6,7 'meet':10 'met':37 'mother':33 'promis':9 'repres':18 'savannah':29 'spear':30 'stratton':43 'us':13 'webster':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://juvenation.org/juvenation_blogs/b/advocacy/archive/2012/04/16/you-did-it.aspx&amp;sa=U&amp;ei=cqiNT4WILsq98AHp-9ySBw&amp;ved=0CDMQmAEwAw&amp;usg=AFQjCNG--C6Nyb8YYIkgXqPzb_QezQsaSw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14544874</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Amanda Stratton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:43:01-04:00</created-at>
+          <title>You Did It! - Advocacy Blog - Juvenation - Juvenation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Promise meeting that brought us to 432 was with Representative Daniel Webster from Florida&amp;#39;s 8th congressional district. JDRF advocate Savannah Spears and her mother, father, and grandfather met with him in his ...</excerpt>
+          <fti-names>'432':15 '8th':24 'advoc':28 'advocaci':4 'amanda':42 'blog':5 'brought':12 'congression':25 'daniel':19 'district':26 'father':34 'florida':22 'grandfath':36 'jdrf':27 'juven':6,7 'meet':10 'met':37 'mother':33 'promis':9 'repres':18 'savannah':29 'spear':30 'stratton':43 'us':13 'webster':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://juvenation.org/juvenation_blogs/b/advocacy/archive/2012/04/16/you-did-it.aspx&amp;sa=U&amp;ei=xeaMT8TFA8nW2gXXz635Cw&amp;ved=0CCoQmAEwAQ&amp;usg=AFQjCNG3AO9GLpiZ1VMhJRgy5xksfBZE4g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526128</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Amanda Stratton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:15:39-04:00</created-at>
+          <title>Rep. Bachmann talks energy | Star News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Bachmann laid the foundation for her talk with a quote by Daniel Webster that is inscribed on the wall of the Minnesota Senate chamber: &#8220;Let us develop the resources of our land, call forth its powers, build up its institutions, ...</excerpt>
+          <fti-names>'bachmann':2,7 'build':43 'call':39 'chamber':30 'daniel':18 'develop':33 'energi':4 'forth':40 'foundat':10 'heidi':47 'inscrib':22 'institut':46 'laid':8 'land':38 'let':31 'minnesota':28 'news':6 'power':42 'quanrud':48 'quot':16 'rep':1 'resourc':35 'senat':29 'star':5 'talk':3,13 'us':32 'wall':25 'webster':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://erstarnews.com/2012/04/13/rep-bachmann-talks-energy/&amp;sa=U&amp;ei=uFOMT-H9OMiG2gXCwtTWCQ&amp;ved=0CE8QmAEwCQ&amp;usg=AFQjCNGBMUcbYqlvtDxomcYIxlG3Cq08iA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14506409</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heidi Quanrud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-15T23:51:45-04:00</created-at>
+          <title>Rep. Bachmann talks energy | Star News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Bachmann laid the foundation for her talk with a quote by Daniel Webster that is inscribed on the wall of the Minnesota Senate chamber: &#8220;Let us develop the resources of our land, call forth its powers, build up its institutions, ...</excerpt>
+          <fti-names>'bachmann':2,7 'build':43 'call':39 'chamber':30 'daniel':18 'develop':33 'energi':4 'forth':40 'foundat':10 'heidi':47 'inscrib':22 'institut':46 'laid':8 'land':38 'let':31 'minnesota':28 'news':6 'power':42 'quanrud':48 'quot':16 'rep':1 'resourc':35 'senat':29 'star':5 'talk':3,13 'us':32 'wall':25 'webster':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://erstarnews.com/2012/04/13/rep-bachmann-talks-energy/&amp;sa=U&amp;ei=UJeLT5zwC6i42wXwx5i7CQ&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNGgwCpNTfnXgTP5_7jHBPl7AL-rSQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14489167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heidi Quanrud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-15T12:54:00-04:00</created-at>
+          <title>Rep. Bachmann talks energy | Star News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Bachmann laid the foundation for her talk with a quote by Daniel Webster that is inscribed on the wall of the Minnesota Senate chamber: &#8220;Let us develop the resources of our land, call forth its powers, build up its institutions, ...</excerpt>
+          <fti-names>'bachmann':2,7 'build':43 'call':39 'chamber':30 'daniel':18 'develop':33 'energi':4 'forth':40 'foundat':10 'heidi':47 'inscrib':22 'institut':46 'laid':8 'land':38 'let':31 'minnesota':28 'news':6 'power':42 'quanrud':48 'quot':16 'rep':1 'resourc':35 'senat':29 'star':5 'talk':3,13 'us':32 'wall':25 'webster':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://erstarnews.com/2012/04/13/rep-bachmann-talks-energy/&amp;sa=U&amp;ei=Jv2KT93kE8HG2wWW1fG8CQ&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNEX6rAU837c2gfWZYKGJzNxIziJeg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14468107</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heidi Quanrud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-14T23:56:29-04:00</created-at>
+          <title>Rep. Bachmann talks energy | Star News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Bachmann laid the foundation for her talk with a quote by Daniel Webster that is inscribed on the wall of the Minnesota Senate chamber: &#8220;Let us develop the resources of our land, call forth its powers, build up its institutions, ...</excerpt>
+          <fti-names>'bachmann':2,7 'build':43 'call':39 'chamber':30 'daniel':18 'develop':33 'energi':4 'forth':40 'foundat':10 'heidi':47 'inscrib':22 'institut':46 'laid':8 'land':38 'let':31 'minnesota':28 'news':6 'power':42 'quanrud':48 'quot':16 'rep':1 'resourc':35 'senat':29 'star':5 'talk':3,13 'us':32 'wall':25 'webster':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://erstarnews.com/2012/04/13/rep-bachmann-talks-energy/&amp;sa=U&amp;ei=60aKT-f-KOK02gXHhZDdCQ&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNH5s0htqpb_tpZrxgBtIshxHeLJOg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14450279</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heidi Quanrud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-14T12:45:51-04:00</created-at>
+          <title>Rep. Bachmann talks energy | Star News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Bachmann laid the foundation for her talk with a quote by Daniel Webster that is inscribed on the wall of the Minnesota Senate chamber: &#8220;Let us develop the resources of our land, call forth its powers, build up its institutions, ...</excerpt>
+          <fti-names>'bachmann':2,7 'build':43 'call':39 'chamber':30 'daniel':18 'develop':33 'energi':4 'forth':40 'foundat':10 'heidi':47 'inscrib':22 'institut':46 'laid':8 'land':38 'let':31 'minnesota':28 'news':6 'power':42 'quanrud':48 'quot':16 'rep':1 'resourc':35 'senat':29 'star':5 'talk':3,13 'us':32 'wall':25 'webster':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://erstarnews.com/2012/04/13/rep-bachmann-talks-energy/&amp;sa=U&amp;ei=vqmJT5KwDPH22AWRvIC_CQ&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNFoU62FBXtx9Cori4jngwwmkmSNkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14429937</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heidi Quanrud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:29:25-04:00</created-at>
+          <title>US Congressman Webster addresses Republican meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Congressman Daniel Webster from the 8th District of Florida will be the guest speaker at the meeting; which will be held at the Republican Party Victory Headquarters located in Suite 104 of the Westgate Shopping Center ...</excerpt>
+          <fti-names>'104':38 '8th':13 'address':4 'admin':45 'center':43 'congressman':2,8 'daniel':9 'district':14 'florida':16 'guest':20 'headquart':34 'held':28 'locat':35 'meet':6,24 'news':44 'parti':32 'republican':5,31 'shop':42 'speaker':21 'suit':37 'us':1,7 'victori':33 'webster':3,10 'westgat':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.historiccity.com/2012/staugustine/news/florida/us-congressman-webster-addresses-republican-meeting-25130&amp;sa=U&amp;ei=cqiNT4WILsq98AHp-9ySBw&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNFxdJMzKwE10ys5UiMlR-EhJ1VUkw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-10T01:00:00-04:00</date>
+          <id type="integer">14544882</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:43:02-04:00</created-at>
+          <title>US Congressman Webster addresses Republican meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Congressman Daniel Webster from the 8th District of Florida will be the guest speaker at the meeting; which will be held at the Republican Party Victory Headquarters located in Suite 104 of the Westgate Shopping Center ...</excerpt>
+          <fti-names>'104':38 '8th':13 'address':4 'admin':45 'center':43 'congressman':2,8 'daniel':9 'district':14 'florida':16 'guest':20 'headquart':34 'held':28 'locat':35 'meet':6,24 'news':44 'parti':32 'republican':5,31 'shop':42 'speaker':21 'suit':37 'us':1,7 'victori':33 'webster':3,10 'westgat':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.historiccity.com/2012/staugustine/news/florida/us-congressman-webster-addresses-republican-meeting-25130&amp;sa=U&amp;ei=xeaMT8TFA8nW2gXXz635Cw&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNH5_6DO_vwKo4CjD2NImLwuPfE5gg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-10T01:00:00-04:00</date>
+          <id type="integer">14526135</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412410</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:15:38-04:00</created-at>
+          <title>US Congressman Webster addresses Republican meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Congressman Daniel Webster from the 8th District of Florida will be the guest speaker at the meeting; which will be held at the Republican Party Victory Headquarters located in Suite 104 of the Westgate Shopping Center ...</excerpt>
+          <fti-names>'104':38 '8th':13 'address':4 'admin':45 'center':43 'congressman':2,8 'daniel':9 'district':14 'florida':16 'guest':20 'headquart':34 'held':28 'locat':35 'meet':6,24 'news':44 'parti':32 'republican':5,31 'shop':42 'speaker':21 'suit':37 'us':1,7 'victori':33 'webster':3,10 'westgat':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.historiccity.com/2012/staugustine/news/florida/us-congressman-webster-addresses-republican-meeting-25130&amp;sa=U&amp;ei=uFOMT-H9OMiG2gXCwtTWCQ&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNGBzSMr9-1FW5a1sQ41_3c4-veXXQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-10T01:00:00-04:00</date>
+          <id type="integer">14506407</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5286</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Daniel Webster</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float" nil="true"></party-votes-percentage>
+        <abstains-percentage type="float" nil="true"></abstains-percentage>
+        <votes-most-often-with-id type="integer" nil="true"></votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer" nil="true"></abstains>
+        <cosponsored-bills type="integer" nil="true"></cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer" nil="true"></sponsored-bills>
+        <votes-least-often-with-id type="integer" nil="true"></votes-least-often-with-id>
+        <person-id type="integer">411406</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer" nil="true"></same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer" nil="true"></sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer" nil="true"></cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer" nil="true"></opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position nil="true"></votes-republican-position>
+      <blog-article-count nil="true"></blog-article-count>
+      <fax nil="true"></fax>
+      <user-approval nil="true"></user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">0</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">0.0</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Webster</lastname>
+      <congress-office nil="true"></congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Daniel</firstname>
+      <website nil="true"></website>
+      <birthday type="date">1782-01-18</birthday>
+      <bioguide-id>W000238</bioguide-id>
+      <person-id type="integer">411406</person-id>
+      <phone nil="true"></phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position nil="true"></votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array"/>
+      <metavid-id nil="true"></metavid-id>
+      <name>Daniel Webster</name>
+      <total-session-votes nil="true"></total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array"/>
+      <page-views-count nil="true"></page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Daniel Webster</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

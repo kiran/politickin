@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-06T06:27:38-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">89.6907216494845</party-votes-percentage>
+        <abstains-percentage type="float">1.77215189873418</abstains-percentage>
+        <votes-most-often-with-id type="integer">412247</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">1</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">22</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">7</abstains>
+        <cosponsored-bills type="integer">231</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">40</party-votes-percentage-rank>
+        <sponsored-bills type="integer">69</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300063</person-id>
+        <cosponsored-bills-rank type="integer">27</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-29T17:33:23-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412243</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">10</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">178</votes-republican-position>
+      <blog-article-count type="integer">17318</blog-article-count>
+      <fax>202-224-9735</fax>
+      <user-approval type="float">2.15873015873016</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">652</oc-users-tracking>
+      <contact-webform>http://www.landrieu.senate.gov/about/contact.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">89.6907216494845</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Landrieu</lastname>
+      <congress-office>431 Dirksen Senate Office Building</congress-office>
+      <middlename>L.</middlename>
+      <firstname>Mary</firstname>
+      <website>http://www.landrieu.senate.gov/</website>
+      <birthday type="date">1955-11-23</birthday>
+      <person-id type="integer">300063</person-id>
+      <phone>202-224-5824</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <bioguide-id>L000550</bioguide-id>
+      <votes-democratic-position type="integer">348</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:35-04:00</created-at>
+          <title>Coast Guard ready to expand activity as Arctic ice melts</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...even though the nearest agency base is more than 750 miles southeast of the Bering Strait, on Kodiak Island. U.S. Sen. Mary Landrieu, D-La., conducted the hearing with the intent of discussing Coast Guard needs as melting summer sea ice opens more of th</excerpt>
+          <fti-names>'750':20 'activ':6 'agenc':15 'arctic':8 'base':16 'bere':25 'coast':1,45 'conduct':37 'd':35 'd-la':34 'discuss':44 'even':11 'expand':5 'guard':2,46 'hear':39 'herald':61 'ice':9,52 'intent':42 'island':29 'kodiak':28 'la':36 'landrieu':33 'main':59 'mari':32 'melt':10,49 'mile':21 'nearest':14 'need':47 'open':53 'portland':58 'press':60 'readi':3 'sea':51 'sen':31 'southeast':22 'strait':26 'summer':50 'th':56 'though':12 'u.s':30</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=606322&amp;44=165215996&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2Fnationworld%2Fcoast-guard-ready-to-expand-activity-as-arctic-ice-melts_2012-08-07.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973800</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:35-04:00</created-at>
+          <title>Coast Guard ready for more Arctic activity, Commandant says</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...sea ice opens more of the Arctic to activity, including drilling, cargo vessels, ecotourism and commercial fishing. U.S. Sen. Mary Landrieu, D-La., said climate models indicate the Arctic Ocean could be free of summer ice after 2030, the AP reports. She</excerpt>
+          <fti-names>'2030':48 'activ':7,18 'ap':50 'arctic':6,16,39 'busi':54 'cargo':21 'climat':35 'coast':1 'command':8 'commerci':25 'could':41 'd':32 'd-la':31 'drill':20 'ecotour':23 'fish':26 'free':43 'guard':2 'houston':53 'ice':11,46 'includ':19 'indic':37 'journal':55 'la':33 'landrieu':30 'mari':29 'model':36 'ocean':40 'open':12 'readi':3 'report':51 'said':34 'say':9 'sea':10 'sen':28 'summer':45 'u.s':27 'vessel':22</fti-names>
+          <source-url>http://houston.bizjournals.com/houston/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_houston/~3/DMax0fEgqGw/coast-guard-ready-for-more-arctic.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973799</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Business Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:33-04:00</created-at>
+          <title>US cutter in Pacific pursues fish piracy case</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...for prosecution. &quot;As a fallback, we can bring it back to the United States for prosecution as well,&quot; he said. U.S. Sen. Mary Landrieu , D-La., chaired the subcommittee hearing. &quot;I hope we're filing charges &#8212; not just against the men operating the ship</excerpt>
+          <fti-names>'back':18 'bring':16 'case':8 'chair':36 'charg':45 'chronicl':56 'cutter':2 'd':34 'd-la':33 'fallback':13 'file':44 'fish':6 'francisco':55 'hear':39 'hope':41 'la':35 'landrieu':32 'mari':31 'men':50 'oper':51 'pacif':4 'piraci':7 'prosecut':10,24 'pursu':5 're':43 'said':28 'san':54 'sen':30 'ship':53 'state':22 'subcommitte':38 'u.s':29 'unit':21 'us':1 'well':26</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/US-cutter-in-Pacific-pursues-fish-piracy-case-3769350.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973798</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:28-04:00</created-at>
+          <title>Coast Guard prepares for expanded Arctic role</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...for the next three or four summers,&quot; Papp told a U.S. Senate Homeland Security Appropriations Subcommittee. U.S. Sen. Mary Landrieu, D-La., conducted the hearing in a hangar of Air Station Kodiak at the request of Sen. Lisa Murkowski, R-Alaska, with the</excerpt>
+          <fti-names>'air':38 'alaska':50 'appropri':22 'arctic':6 'coast':1 'conduct':31 'd':29 'd-la':28 'expand':5 'four':13 'guard':2 'hangar':36 'hear':33 'homeland':20 'kodiak':40 'la':30 'landrieu':27 'lisa':46 'mari':26 'murkowski':47 'next':10 'papp':15 'prepar':3 'r':49 'r-alaska':48 'request':43 'role':7 'secur':21 'sen':25,45 'senat':19 'station':39 'subcommitte':23 'summer':14 'three':11 'told':16 'twincities.com':53 'u.s':18,24</fti-names>
+          <source-url>http://www.twincities.com/</source-url>
+          <url>http://www.twincities.com/national/ci_21249987/coast-guard-prepares-expanded-arctic-role?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973183</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TwinCities.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:29-04:00</created-at>
+          <title>Murkowski, Hoeven tour Alaska, press for expanded drilling</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...a hearing last month on ramping up efforts in the National Petroleum Reserve. She will meet this week with fellow Sen. Mary Landrieu (D-La.), who will be in Alaska on Monday for a Senate Homeland Security Appropriations subcommittee field hearing. Landr</excerpt>
+          <fti-names>'alaska':4,39 'appropri':47 'd':33 'd-la':32 'drill':8 'effort':16 'expand':7 'fellow':28 'field':49 'hear':10,50 'hill':53 'hoeven':2 'homeland':45 'la':34 'landr':51 'landrieu':31 'last':11 'mari':30 'meet':24 'monday':41 'month':12 'murkowski':1 'nation':19 'petroleum':20 'press':5 'ramp':14 'reserv':21 'secur':46 'sen':29 'senat':44 'subcommitte':48 'tour':3 'week':26</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/242309-murkowski-hosts-hoeven-as-senators-call-for-more-alaskan-drilling</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973184</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:23:45-04:00</created-at>
+          <title>Billboard Supporting Gay Marriage 'Unintentionally' Put Next to Catholic Church?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...... Anyone can be converted to Christianity....even you. If you have already been ... At a Congressional preview hosted by Sen. Mary Landrieu (D-La.) Tuesday, guests ... Greg Hodge, creator and managing director of beautifulpeople.com, had billboards po</excerpt>
+          <fti-names>'alreadi':22 'anyon':11 'beautifulpeople.com':45 'billboard':1,47 'cathol':9 'christian':16,50 'church':10 'congression':26 'convert':14 'creator':40 'd':34 'd-la':33 'director':43 'even':17 'gay':3 'greg':38 'guest':37 'hodg':39 'host':28 'la':35 'landrieu':32 'manag':42 'mari':31 'marriag':4 'next':7 'po':48 'post':51 'preview':27 'put':6 'sen':30 'support':2 'tuesday':36 'unintent':5</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/billboard-supporting-gay-marriage-unintentionally-put-next-to-catholic-church-79432/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972364</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:23:45-04:00</created-at>
+          <title>Romney Says White House Behind Reid's Tax Allegation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Anyone can be converted to Christianity....even you. If you have already been ... At a Congressional preview hosted by Sen. Mary Landrieu (D-La.) Tuesday, guests ... &quot;Harry is simply wrong, and that's why I'm so anxious for him to produce the names of t</excerpt>
+          <fti-names>'alleg':9 'alreadi':21 'anxious':48 'anyon':10 'behind':5 'christian':15,58 'congression':25 'convert':13 'd':33 'd-la':32 'even':16 'guest':36 'harri':37 'host':27 'hous':4 'la':34 'landrieu':31 'm':46 'mari':30 'name':54 'post':59 'preview':26 'produc':52 'reid':6 'romney':1 'say':2 'sen':29 'simpli':39 'tax':8 'tuesday':35 'white':3 'wrong':40</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/romney-says-white-house-behind-reids-tax-allegation-79446/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972363</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:23:42-04:00</created-at>
+          <title>Guard air traffic controllers could remain at Alexandria International</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...worked together,&quot; Grafton said. &quot;Otherwise, our small unit here in Central Louisiana could very well have been overlooked.&quot; Sen. Mary Landrieu said in a news release that she worked with Inouye to fund the 259th and the A-10 squadron at Barksdale &quot;to co</excerpt>
+          <fti-names>'-10':48 '259th':44 'air':2 'alexandria':8,55 'barksdal':51 'central':20 'co':53 'control':4 'could':5,22 'fund':42 'grafton':12 'guard':1 'inouy':40 'intern':9 'landrieu':30 'louisiana':21 'mari':29 'news':34 'otherwis':14 'overlook':27 'releas':35 'remain':6 'said':13,31 'sen':28 'small':16 'squadron':49 'talk':57 'togeth':11 'town':56 'traffic':3 'unit':17 'well':24 'work':10,38</fti-names>
+          <source-url>http://www.thetowntalk.com/</source-url>
+          <url>http://thetowntalk.com/article/20120804/NEWS01/208040322/1002/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972362</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Alexandria Town Talk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:29:24-04:00</created-at>
+          <title>The Faith to Endure</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...can be converted to Christianity....even you. If you have already been ... At a Congressional preview hosted by Sen. Mary Landrieu (D-La.) Tuesday, guests ... There is a big difference between 13 million abortions per year in China and ... As a Mississi</excerpt>
+          <fti-names>'13':37 'abort':39 'alreadi':15 'big':34 'china':43 'christian':9,49 'congression':19 'convert':7 'd':27 'd-la':26 'differ':35 'endur':4 'even':10 'faith':2 'guest':30 'host':21 'la':28 'landrieu':25 'mari':24 'million':38 'mississi':47 'per':40 'post':50 'preview':20 'sen':23 'tuesday':29 'year':41</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/the-faith-to-endure-79391/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972022</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:29:24-04:00</created-at>
+          <title>Ninth Circuit Blocks Arizona's 20-Week Abortion Ban</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Anyone can be converted to Christianity....even you. If you have already been ... At a Congressional preview hosted by Sen. Mary Landrieu (D-La.) Tuesday, guests ... There is a big difference between 13 million abortions per year in China and ... As a M</excerpt>
+          <fti-names>'13':43 '20':6 'abort':8,45 'alreadi':21 'anyon':10 'arizona':4 'ban':9 'big':40 'block':3 'china':49 'christian':15,55 'circuit':2 'congression':25 'convert':13 'd':33 'd-la':32 'differ':41 'even':16 'guest':36 'host':27 'la':34 'landrieu':31 'm':53 'mari':30 'million':44 'ninth':1 'per':46 'post':56 'preview':26 'sen':29 'tuesday':35 'week':7 'year':47</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/ninth-circuit-blocks-arizonas-20-week-abortion-ban-79380/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972021</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Mary_Landrieu</metavid-id>
+      <name>Sen. Mary Landrieu [D, LA]</name>
+      <total-session-votes type="integer">388</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:01-04:00</created-at>
+          <title>June 13-19: CA&amp;amp;N News Articles and Resources | MiPSAC</title>
+          <contains-term>senate</contains-term>
+          <excerpt>LA: Sen. Mary Landrieu Presses for Improved Adoption Procedures. June 17, Times-Picayune: A labor, health and human services, and education spending bill approved Thursday by the US Senate Appropriations Committee ...</excerpt>
+          <fti-names>'-19':3 '13':2 '17':21 'adopt':18 'appropri':41 'approv':35 'articl':7 'bill':34 'ca':4 'charli':43 'committe':42 'educ':32 'enright':44 'health':27 'human':29 'improv':17 'june':1,20 'la':11 'labor':26 'landrieu':14 'mari':13 'mipsac':10 'n':5 'news':6 'picayun':24 'press':15 'procedur':19 'resourc':9 'sen':12 'senat':40 'servic':30 'spend':33 'thursday':36 'time':23 'times-picayun':22 'us':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mipsac.org/can-articles/june-13-19-can-news-articles-and-resources&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNHoTYTFHnwDwoJaFiWLfv7A9Kiqpw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16042955</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charlie Enright</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:01-04:00</created-at>
+          <title>Senate vote to overturn EPA coal- killing policies Wednesday ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Even Sen. Mary Landrieu (D-LA), Sen. Joe Manchin (D-WVA) and Sen. Ben Nelson (D-NE) have said they will vote &#8220;yea.&#8221; The same gang of vulnerable Democratic senators who perpetually try to ride the line between ...</excerpt>
+          <fti-names>'ben':25 'carol':51 'coal':6 'd':15,21,28 'd-la':14 'd-ne':27 'd-wva':20 'democrat':41 'epa':5 'even':10 'gang':38 'greenberg':52 'joe':18 'kill':7 'la':16 'landrieu':13 'line':49 'manchin':19 'mari':12 'ne':29 'nelson':26 'overturn':4 'perpetu':44 'polici':8 'ride':47 'said':31 'sen':11,17,24 'senat':1,42 'tri':45 'vote':2,34 'vulner':40 'wednesday':9 'wva':22 'yea':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://conservative-outlooks.com/2012/06/18/senate-vote-to-overturn-epa-coal-killing-policies-wednesday/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEXLVVWOjoXwNa5q48y_rRGAdY4Hg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16042953</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Carol Greenberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:00-04:00</created-at>
+          <title>Sen. Mary Landrieu presses for improved adoption procedures ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>She wants to strengthen post-adoption services and recruit adoptive parents for minority children, older children and children with special needs.</excerpt>
+          <fti-names>'adopt':7,15,19 'children':23,25,27 'improv':6 'landrieu':3 'mari':2 'minor':22 'need':30 'older':24 'parent':20 'picayun':33 'post':14 'post-adopt':13 'press':4 'procedur':8 'recruit':18 'sen':1 'servic':16 'special':29 'staff':34 'strengthen':12 'time':32 'times-picayun':31 'want':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/06/sen_mary_landrieu_presses_for.html&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG5TjnisdbiStJmyOYeH17zRMr2cw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-17T01:00:00-04:00</date>
+          <id type="integer">16042951</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Picayune Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:02-04:00</created-at>
+          <title>Senate Democrats Block Funding for Guest Worker Protection Rule ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Workplace advocates specifically called out Sen. Mary Landrieu (D-La.) for voting against the H-2B guest worker protections, as it was her home state where H-2B visa workers were being forced to work up to 24 hours a day.</excerpt>
+          <fti-names>'24':50 '2b':27,40 'advoc':11 'block':3 'call':13 'd':19 'd-la':18 'day':53 'democrat':2 'elk':55 'forc':45 'fund':4 'guest':6,28 'h':26,39 'h-2b':25,38 'home':35 'hour':51 'la':20 'landrieu':17 'mari':16 'mike':54 'protect':8,30 'rule':9 'sen':15 'senat':1 'specif':12 'state':36 'visa':41 'vote':22 'work':47 'worker':7,29,42 'workplac':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.inthesetimes.com/working/entry/13394/senate_democrats_block_funding_for_guest_worker_protection_rule/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNENgiScIAZbtwWXiNKEjmxzjeGfYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-15T01:00:00-04:00</date>
+          <id type="integer">16042958</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mike Elk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:01-04:00</created-at>
+          <title>Sen. Mary Landrieu Defends the Working Class</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Senate panel rejects attempt to overturn labor board ruling. By Erik Wasson. Democrats on the Senate Appropriations Committee on Thursday blocked a Republican attempt to overturn a National Labor Relations Board ruling ...</excerpt>
+          <fti-names>'appropri':24 'attempt':11,31 'block':28 'board':15,38 'class':7 'committe':25 'defend':4 'democrat':20 'erik':18 'jewelbush':40 'labor':14,36 'landrieu':3 'mari':2 'nation':35 'overturn':13,33 'panel':9 'reject':10 'relat':37 'republican':30 'rule':16,39 'sen':1 'senat':8,23 'thursday':27 'wasson':19 'work':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.seiu21la.org/2012/06/15/sen-mary-landrieu-defends-the-working-class/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNG32MYN6un-Mm8T7X44EwjKicSg0A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-15T01:00:00-04:00</date>
+          <id type="integer">16042952</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jewelbush</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:02-04:00</created-at>
+          <title>Not Only Did Mary Landrieu Vote For Micro-Unions, She Shot Her ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>TheHill.com has a writeup on today&amp;#39;s Senate committee hearing prior to the 15-15 vote killing an amendment by Sen. Lindsay ... This seems like it ought to be the end of the &#8220;Mary Landrieu is a centrist Democrat&#8221; narrative, no?</excerpt>
+          <fti-names>'-15':28 '15':27 'amend':32 'centrist':51 'committe':22 'democrat':52 'end':44 'hear':23 'kill':30 'landrieu':5,48 'like':38 'lindsay':35 'macaoidh':55 'mari':4,47 'micro':9 'micro-union':8 'narrat':53 'ought':40 'prior':24 'seem':37 'sen':34 'senat':21 'shot':12 'thehill.com':14 'today':19 'union':10 'vote':6,29 'writeup':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehayride.com/2012/06/not-only-did-mary-landrieu-vote-for-micro-unions-she-shot-her-mouth-off-about-it/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNEQHMlb1HLwGjn0vnU2v29nQeFxSw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-14T01:00:00-04:00</date>
+          <id type="integer">16042957</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MacAoidh</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:02-04:00</created-at>
+          <title>Senator Landrieu comments on education reform, natural gas ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Sen. Mary Landrieu began a day-long tour in northeastern Louisiana this morning in West Monroe, where she talked about education reform, the potential of natural gas, levee certification and other issues to a group of ...</excerpt>
+          <fti-names>'began':13 'certif':39 'comment':3 'day':16 'day-long':15 'educ':5,31 'gas':8,37 'group':45 'issu':42 'landrieu':2,12 'leve':38 'long':17 'louisiana':21 'mari':11 'monro':26 'morn':23 'natur':7,36 'northeastern':20 'potenti':34 'reform':6,32 'sen':10 'senat':1 'talk':29 'tour':18 'u.s':9 'west':25 'www.thenewsstar.com':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thenewsstar.com/article/20120531/NEWS01/120531008/Senator-Landrieu-comments-education-reform-natural-gas-levees&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CE4QmAEwCw&amp;usg=AFQjCNG19NaCNRuoX1lQaEYUtLA1DcGFCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">16042959</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.thenewsstar.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:03-04:00</created-at>
+          <title>Sen. Mary Landrieu (D-LA): Can you see me now? &#171; GulfCoastBlog ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Dear friend, To mark National Charter Schools Week, I hosted three virtual classrooms via Skype this week with students in Lake Charles, Baton Rouge and New Orleans. I took questions from them and discussed many topics ...</excerpt>
+          <fti-names>'baton':35 'charl':34 'charter':18 'classroom':25 'd':5 'd-la':4 'dear':13 'discuss':46 'friend':14 'gulfcoastblog':12,49 'host':22 'la':6 'lake':33 'landrieu':3 'mani':47 'mari':2 'mark':16 'nation':17 'new':38 'orlean':39 'question':42 'roug':36 'school':19 'see':9 'sen':1 'skype':27 'student':31 'three':23 'took':41 'topic':48 'via':26 'virtual':24 'week':20,29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gulfcoastblog.org/2012/05/29/senator-mary-landrieu-d-la-can-you-see-me-now/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CFMQmAEwDA&amp;usg=AFQjCNFVasqxRWS9MFy_GJGgjJ6roKwdfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-28T01:00:00-04:00</date>
+          <id type="integer">16042960</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>GULFCOASTBLOG</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:01-04:00</created-at>
+          <title>Mary Landrieu: Republicans Privately Support Revenue Hikes In ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>WASHINGTON -- Republicans may publicly trash the idea of including new revenues in a deal to raise the U.S. debt ceiling, but they say otherwise in private, Sen. Mary Landrieu (D-La.) said Monday. During remarks in the ...</excerpt>
+          <fti-names>'ceil':28 'd':39 'd-la':38 'deal':22 'debt':27 'hike':7 'huffington':48 'idea':15 'includ':17 'la':40 'landrieu':2,37 'mari':1,36 'may':11 'monday':42 'new':18 'news':50 'otherwis':32 'post':49 'privat':4,34 'public':12 'rais':24 'remark':44 'republican':3,10 'revenu':6,19 'said':41 'say':31 'sen':35 'support':5 'team':51 'trash':13 'u.s':26 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/05/21/mary-landrieu-republicans-debt-ceiling_n_1534413.html&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNE-90fulBo9PGZccOY6zoo4-EwKAw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-21T01:00:00-04:00</date>
+          <id type="integer">16042954</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300063</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:40:02-04:00</created-at>
+          <title>Senator Mary Landrieu: Please Investigate! &#171; Diane Ravitch&amp;#39;s blog</title>
+          <contains-term>senator</contains-term>
+          <excerpt>My last two posts about the alleged miracle in New Orleans referred to a good news story that appeared&#8211;at least online, if not in print&#8211;in the New Orleans Times-Picayune. The story included a photograph of Senator Mary ...</excerpt>
+          <fti-names>'alleg':16 'appear':28 'blog':9 'dian':6 'dianerav':51 'good':24 'includ':45 'investig':5 'landrieu':3 'last':11 'least':30 'mari':2,50 'miracl':17 'new':19,38 'news':25 'onlin':31 'orlean':20,39 'photograph':47 'picayun':42 'pleas':4 'post':13 'print':35 'ravitch':7 'refer':21 'senat':1,49 'stori':26,44 'time':41 'times-picayun':40 'two':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dianeravitch.net/2012/05/09/senator-mary-landrieu-please-investigate/&amp;sa=U&amp;ei=j_TfT-XXOorW2AXUu4mMCg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHv_5JuSbPjKuJe1roOJMEAh6AQ0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-09T01:00:00-04:00</date>
+          <id type="integer">16042956</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dianerav</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">38713</page-views-count>
+      <youtube-id>SenatorLandrieu</youtube-id>
+      <unaccented-name>Mary Landrieu</unaccented-name>
+      <oc-user-comments type="integer">34</oc-user-comments>
+    </person>
+  </people>
+</hash>

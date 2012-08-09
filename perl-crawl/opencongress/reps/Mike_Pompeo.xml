@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.6907817969662</party-votes-percentage>
+        <abstains-percentage type="float">0.29086678301338</abstains-percentage>
+        <votes-most-often-with-id type="integer">400175</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">5</abstains>
+        <cosponsored-bills type="integer">201</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412431</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1623</votes-republican-position>
+      <blog-article-count type="integer">1666</blog-article-count>
+      <fax>202-225-3489</fax>
+      <user-approval type="float">3.57142857142857</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">26</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.6907817969662</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Pompeo</lastname>
+      <congress-office>107 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Mike</firstname>
+      <bioguide-id>P000602</bioguide-id>
+      <website>http://pompeo.house.gov/</website>
+      <birthday type="date">1963-12-30</birthday>
+      <person-id type="integer">412431</person-id>
+      <phone>202-225-6216</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">326</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:52:11-04:00</created-at>
+          <title>No More Solyndras? Not Quite</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Republicans promptly embarrassed themselves by joining all Democrats in voting down the amendment 3-39. Republicans Mike Pompeo (Kansas), Michael Burgess (Texas), and Steve Scalise (Louisiana) were the only members to vote to abolish the program. This i</excerpt>
+          <fti-names>'-39':20 '3':19 'abolish':39 'amend':18 'burgess':26 'democrat':13 'downsiz':44 'embarrass':8 'govern':45 'join':11 'kansa':24 'louisiana':31 'member':35 'michael':25 'mike':22 'pompeo':23 'program':41 'prompt':7 'quit':5 'republican':6,21 'scalis':30 'solyndra':3 'steve':29 'texa':27 'vote':15,37</fti-names>
+          <source-url>http://www.downsizinggovernment.org/</source-url>
+          <url>http://www.downsizinggovernment.org/no-more-solyndras-not-quite</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973547</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Downsizing Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:00:26-04:00</created-at>
+          <title>No More Solyndras? Not Quite</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Republicans promptly embarrassed themselves by joining all Democrats in voting down the amendment 3-39. Republicans Mike Pompeo (Kansas), Michael Burgess (Texas), and Steve Scalise (Louisiana) were the only members to vote to abolish the program. This i</excerpt>
+          <fti-names>'-39':20 '3':19 'abolish':39 'amend':18 'burgess':26 'cato':44 'democrat':13 'embarrass':8 'join':11 'kansa':24 'liberti':45 'louisiana':31 'member':35 'michael':25 'mike':22 'pompeo':23 'program':41 'prompt':7 'quit':5 'republican':6,21 'scalis':30 'solyndra':3 'steve':29 'texa':27 'vote':15,37</fti-names>
+          <source-url>http://www.cato-at-liberty.org/</source-url>
+          <url>http://feedproxy.google.com/~r/Cato-at-liberty/~3/-v6sscsNsVg/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972946</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cato @ Liberty</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:47:53-04:00</created-at>
+          <title>Pompeo/Romney vs. Brownback/Moran/Roberts on wind credits</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Mike Pompeo, R-Wichita, applauded GOP presidential candidate Mitt Romney&#8217;s announcement last week that he wants wind-energy tax credits to expire at the end of this year. &#8220;For the better part of my first term in Congress, I have been working to halt</excerpt>
+          <fti-names>'announc':19 'applaud':12 'better':40 'brownback/moran/roberts':3 'candid':15 'congress':47 'credit':6,29 'end':34 'energi':27 'expir':31 'first':44 'gop':13 'halt':53 'kansas.com':54 'last':20 'mike':7 'mitt':16 'part':41 'pompeo':8 'pompeo/romney':1 'presidenti':14 'r':10 'r-wichita':9 'romney':17 'tax':28 'term':45 'vs':2 'want':24 'week':21 'wichita':11 'wind':5,26 'wind-energi':25 'work':51 'year':37</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://blogs.kansas.com/weblog/2012/08/pompeoromney-vs-brownbackmoranroberts-on-wind-credits/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972514</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:42:38-04:00</created-at>
+          <title>Panel OKs No More Solyndras bill</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...dismissed Markey&#8217;s amendment as &#8220;an attempt to try to embarrass the Republicans.&#8221; The amendment failed in a 3-39 vote with just three Republicans &#8212; Reps. Michael Burgess of Texas, Mike Pompeo of Kansas and Steve Scalise of Louisiana &#8212; supporti</excerpt>
+          <fti-names>'-39':26 '3':25 'amend':10,21 'attempt':13 'bill':6 'burgess':34 'dismiss':7 'embarrass':17 'fail':22 'kansa':40 'louisiana':45 'markey':8 'michael':33 'mike':37 'ok':2 'panel':1 'politico':48 'pompeo':38 'rep':32 'republican':19,31 'scalis':43 'solyndra':5 'steve':42 'supporti':46 'texa':36 'three':30 'tri':15 'vote':27</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79295.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970878</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:53:46-04:00</created-at>
+          <title>&#8216;Taxmageddon&#8217; would hit Kansas, nation hard</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...4th District put together totals a staggering $1 billion, $4.2 billion from all Kansans, and $494 billion nationwide,&#8221; wrote Rep. Mike Pompeo, R-Wichita. &#8220;The tax increase would target Kansas families, low-income workers and retirees &#8211; and it woul</excerpt>
+          <fti-names>'1':14 '4.2':16 '494':22 '4th':7 'billion':15,17,23 'district':8 'famili':38 'hard':6 'hit':3 'incom':41 'increas':34 'kansa':4,37 'kansan':20 'kansas.com':48 'low':40 'low-incom':39 'mike':27 'nation':5 'nationwid':24 'pompeo':28 'put':9 'r':30 'r-wichita':29 'rep':26 'retire':44 'stagger':13 'target':36 'tax':33 'taxmageddon':1 'togeth':10 'total':11 'wichita':31 'worker':42 'woul':47 'would':2,35 'wrote':25</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://blogs.kansas.com/weblog/2012/08/taxmageddon-would-hit-kansas-nation-hard/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969902</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:53:46-04:00</created-at>
+          <title>GOP majority stumbles into August recess</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of Representatives no longer encourages the finding of common ground.&#8221; And others say change hasn&#8217;t come quickly enough. Rep. Mike Pompeo (R-Kan.), a freshman and a Harvard Law graduate, said he ran for Congress to make the &#8220;structural changes&#8221; </excerpt>
+          <fti-names>'august':5 'chang':20,48 'come':23 'common':15 'congress':43 'encourag':11 'enough':25 'find':13 'freshman':33 'gop':1 'graduat':38 'ground':16 'harvard':36 'hasn':21 'kan':31 'law':37 'longer':10 'major':2 'make':45 'mike':27 'other':18 'politico':50 'pompeo':28 'quick':24 'r':30 'r-kan':29 'ran':41 'recess':6 'rep':26 'repres':8 'said':39 'say':19 'structur':47 'stumbl':3</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=e0479ea59b3dced7a3cf138266591108</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969901</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:06:31-04:00</created-at>
+          <title>Hawker Beechcraft union opposes sale to China's Superior Aviation</title>
+          <contains-term>republican</contains-term>
+          <excerpt>But Kansas state Republican representative Mike Pompeo, and two Republican senators, Pat Roberts and Jerry Moran, have not responded favourably to taking up the union's cause in Washington. Matthew McKinnon, the union's legislative and political ...</excerpt>
+          <fti-names>'aviat':10 'beechcraft':2 'caus':37 'china':7 'domain-b.com':48 'favour':30 'hawker':1 'jerri':25 'kansa':12 'legisl':45 'matthew':40 'mckinnon':41 'mike':16 'moran':26 'oppos':4 'pat':22 'polit':47 'pompeo':17 'repres':15 'republican':14,20 'respond':29 'robert':23 'sale':5 'senat':21 'state':13 'superior':9 'take':32 'two':19 'union':3,35,43 'washington':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.domain-b.com/aero/aero_mfg/20120731_superior_aviation.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T11:13:11-04:00</date>
+          <id type="integer">16967100</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>domain-b.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:25:39-04:00</created-at>
+          <title>Pompeo backs Romney stand against wind tax credit</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The tax credit is regarded by the wind energy industry as critical to continued growth of wind farms in the U.S. On Monday, local Rep. Mike Pompeo&#8217;s office issued a statement supporting Romney and reiterated his long-standing opposition to the ...</excerpt>
+          <fti-names>'back':2 'continu':22 'credit':8,11 'critic':20 'eagl':53 'energi':17 'farm':26 'growth':23 'industri':18 'issu':38 'local':32 'long':47 'long-stand':46 'mike':34 'monday':31 'offic':37 'opposit':49 'pompeo':1,35 'regard':13 'reiter':44 'rep':33 'romney':3,42 'stand':4,48 'statement':40 'support':41 'tax':7,10 'u.s':29 'wichita':52 'wind':6,16,25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blogs.kansas.com/business/2012/07/30/pompeo-backs-romney-stand-against-wind-tax-credit/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:19:27-04:00</date>
+          <id type="integer">16961430</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wichita Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:43:02-04:00</created-at>
+          <title>Pompeo: Impending tax increases threaten economic growth and jobs</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Following is an article from U.S. Representative Mike Pompeo. This week the House of Representatives will vote to stop the largest tax hike in American history, which, absent legislative action, is set to occur on January 1, 2013. I hope the ...</excerpt>
+          <fti-names>'1':46 '2013':47 'absent':37 'action':39 'american':34 'articl':13 'econom':6 'follow':10 'growth':7 'hike':32 'histori':35 'hope':49 'hous':22 'impend':2 'increas':4 'januari':45 'job':9 'largest':30 'legisl':38 'mike':17 'occur':43 'pompeo':1,18 'redstat':51 'repres':16,24 'set':41 'stop':28 'tax':3,31 'threaten':5 'u.s':15 'vote':26 'week':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.redstate.com/bobweeks/2012/07/29/pompeo-impending-tax-increases-threaten-economic-growth-and-jobs/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T09:28:11-04:00</date>
+          <id type="integer">16949425</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>RedState</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:02:08-04:00</created-at>
+          <title>Union seeks to block Hawker Beechcraft sale</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Thus far, the International Association of Machinists and Aerospace Workers has had little success rallying support in Washington, including from Republican Rep. Mike Pompeo, who represents Wichita's district, and Kansas' two Republican senators ...</excerpt>
+          <fti-names>'aerospac':16 'associ':12 'beechcraft':6 'block':4 'district':36 'examin':43 'far':9 'hawker':5 'includ':26 'intern':11 'kansa':38 'littl':20 'machinist':14 'mike':30 'pompeo':31 'ralli':22 'rep':29 'repres':33 'republican':28,40 'sale':7 'seek':2 'senat':41 'success':21 'support':23 'thus':8 'two':39 'union':1 'washington':25,42 'wichita':34 'worker':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://washingtonexaminer.com/union-seeks-to-block-hawker-beechcraft-sale/article/feed/2016937</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T18:04:46-04:00</date>
+          <id type="integer">16930688</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Mike Pompeo [R, KS-4]</name>
+      <total-session-votes type="integer">1714</total-session-votes>
+      <sunlight-nickname>Mike</sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:14-04:00</created-at>
+          <title>Kansans condemn, applaud health-care ruling | Wichita Eagle</title>
+          <contains-term>republican</contains-term>
+          <excerpt>... quality health care for many Americans, &#8220;threatens the survival of Kansas communities, and stifles the country&amp;#39;s job growth through higher taxes and burdensome regulations.&#8221; U.S. Rep. Mike Pompeo, a Wichita Republican, ...</excerpt>
+          <fti-names>'american':15 'applaud':3 'burdensom':33 'care':6,12 'communiti':21 'condemn':2 'countri':25 'eagl':9 'fred':42 'growth':28 'health':5,11 'health-car':4 'higher':30 'job':27 'kansa':20 'kansan':1 'mani':14 'mann':43 'mike':37 'pompeo':38 'qualiti':10 'regul':34 'rep':36 'republican':41 'rule':7 'stifl':23 'surviv':18 'tax':31 'threaten':16 'u.s':35 'wichita':8,40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kansas.com/2012/06/28/2390186/brownback-stopping-obamacare-means.html&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNE8H7BYgmtQXMEJjjAM8MWtHuGylg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281796</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred Mann</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:14-04:00</created-at>
+          <title>Reactions To Health Care Ruling In Kansas | The Salina Post</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Mike Pompeo, R-Kan. &#8220;We are thrilled the court has upheld the important consumer protections in the Affordable Care Act. There are more than 350000 Kansans who do not have any health insurance and many ...</excerpt>
+          <fti-names>'350000':38 'act':33 'admin':49 'afford':31 'care':4,32 'consum':27 'court':22 'health':3,45 'import':26 'insur':46 'kan':17 'kansa':7 'kansan':39 'mani':48 'mike':13 'pompeo':14 'post':10 'protect':28 'r':16 'r-kan':15 'reaction':1 'rep':12 'rule':5 'salina':9 'thrill':20 'u.s':11 'upheld':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://salinapost.com/2012/06/28/reactions-to-health-care-ruling-in-kansas/&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNF6u4EdvV1nxHp3GGIRuLb3H0PoNQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:14-04:00</created-at>
+          <title>Local lawmakers react to Supreme Court decision to uphold health ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Mike Pompeo: &#8220;The President&amp;#39;s health care law has been making things worse for Americans by driving up health costs and making it harder for small businesses to hire workers. The only way to alter course is to repeal ObamaCare in its ...</excerpt>
+          <fti-names>'/news/local/':56 'alter':46 'american':26 'busi':38 'care':18 'cost':31 'cours':47 'court':6 'decis':7 'drive':28 'harder':35 'health':10,17,30 'hire':40 'law':19 'lawmak':2 'local':1 'make':22,33 'mike':12 'obamacar':51 'pompeo':13 'presid':15 'react':3 'rep':11 'repeal':50 'small':37 'suprem':5 'thing':23 'uphold':9 'way':44 'worker':41 'wors':24 'www.foxkansas.com':55 'www.foxkansas.com/news/local':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.foxkansas.com/s/v64UBPlCykebXSrqCB2xZg.cspx&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGCuSY5nCNdtuFp1X0khwLNJkMXnw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281791</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.foxkansas.com/news/local/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:14-04:00</created-at>
+          <title>Washington Journal for Thursday, June 28 | C-SPAN</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Scott Bland, National Journal&amp;#39;s House Race Hotline, Editor; Rep. Raul Grijalva (D-AZ); Rep. Mike Pompeo (R-KS), Energy &amp;amp; Commerce Committee Member; Sallie Krawcheck, Former CEO of Merrill Lynch Wealth Management. More Info &#187; ...</excerpt>
+          <fti-names>'/johnrouda.com':48 '28':6 'az':24 'bland':11 'c':8 'c-span':7 'ceo':38 'commerc':32 'committe':33 'd':23 'd-az':22 'editor':18 'energi':31 'former':37 'grijalva':21 'hotlin':17 'hous':15 'info':45 'journal':2,13 'june':5 'krawcheck':36 'ks':30 'lynch':41 'manag':43 'member':34 'merril':40 'mike':26 'nation':12 'pompeo':27 'r':29 'r-ks':28 'race':16 'raul':20 'rep':19,25 'salli':35 'scott':10 'span':9 'thursday':4 'washington':1 'wealth':42 'www.c-span.org':47 'www.c-span.org/johnrouda.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Washington-Journal-for-Thursday-June-28/10737431991/&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGA1BKEyZaCe38vHLakECf3RKihbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281790</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:15-04:00</created-at>
+          <title>GOP Rep. Mike Pompeo Compares Obama Intel Chief To Neville ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>GOP Rep. Mike Pompeo Compares Obama Intel Chief To Neville Chamberlain. War hawks frequently make Chamberlain comparisons, it seems, to those who express any reluctance whatsoever to go to war. Those who so much as urge ...</excerpt>
+          <fti-names>'admin':47 'chamberlain':21,26 'chief':8,18 'compar':5,15 'comparison':27 'express':33 'frequent':24 'go':38 'gop':1,11 'hawk':23 'intel':7,17 'make':25 'mike':3,13 'much':44 'nevill':10,20 'obama':6,16 'pompeo':4,14 'reluct':35 'rep':2,12 'seem':29 'urg':46 'war':22,40 'whatsoev':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sophistico.com/gop-rep-mike-pompeo-compares-obama-intel-chief-to-neville-chamberlain/&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNEdTc9WH_Evm2Vgth9O-PHv8huH0A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-27T01:00:00-04:00</date>
+          <id type="integer">16281798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:24:14-04:00</created-at>
+          <title>Israel Matzav: Great speech on Iran by Rep. Mike Pompeo</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Great speech on Iran by Rep. Mike Pompeo. This video was sent to me by Sunlight, who suggests that maybe Representative Mike Pompeo (R-Ks) reads Israel Matzav. Well, maybe he does. Let&amp;#39;s go to the videotape.</excerpt>
+          <fti-names>'carl':50 'go':46 'great':3,11 'iran':6,14 'israel':1,38 'jerusalem':52 'ks':36 'let':44 'matzav':2,39 'mayb':30,41 'mike':9,17,32 'pompeo':10,18,33 'r':35 'r-ks':34 'read':37 'rep':8,16 'repres':31 'sent':22 'speech':4,12 'suggest':28 'sunlight':26 'video':20 'videotap':49 'well':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://israelmatzav.blogspot.com/2012/04/great-speech-on-iran-by-rep-mike-pompeo.html&amp;sa=U&amp;ei=3R_tT9iSJeOO2wW1xqCjCg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFXGpi_g85olZrwQS5D6zfdhiAmiw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">16281793</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Carl in Jerusalem</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:58:25-04:00</created-at>
+          <title>Seventy-two (and Counting) Representatives Support Earmark Ban ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. Robert Dold (R-IL) Rep. Donald Manzullo (R-IL) Rep. Bobby Schilling (R-IL) Rep. Marlin Stutzman (R-IN) Rep. Dan Burton (R-IN) Rep. Larry Bucshon (R-IN) Rep. Lynn Jenkins (R-KS) Rep. Mike Pompeo (R-KS) Rep.</excerpt>
+          <fti-names>'ban':9 'bobbi':23 'bucshon':42 'burton':36 'count':5 'dan':35 'dold':12 'donald':17 'earmark':8 'il':15,21,27 'jenkin':48 'ks':51,57 'larri':41 'lynn':47 'manzullo':18 'marlin':29 'mike':53 'pompeo':54 'r':14,20,26,32,38,44,50,56 'r-il':13,19,25 'r-in':31,37,43 'r-ks':49,55 'rep':10,16,22,28,34,40,46,52,58 'repres':6 'robert':11 'roman':60 'sarah':59 'schill':24 'seventi':2 'seventy-two':1 'stutzman':30 'support':7 'two':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usamericanfreedom.com/2012/04/17/seventy-two-and-counting-representatives-support-earmark-ban/&amp;sa=U&amp;ei=MaGNT9mrF6eX8AGO8eCSBw&amp;ved=0CCsQmAEwAQ&amp;usg=AFQjCNEchMVVYOc_rovCvLFHsTOQhVQKgQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14543016</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Roman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:58:27-04:00</created-at>
+          <title>Meet the 112th | Brownback tours devastated mobile home park</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Jerry Moran, R-Kan., said an assessment is under way to determine whether the damage is severe enough to trigger federal disaster aid. Moran and Rep. Mike Pompeo, R-Wichita, said they will be working with Washington to ...</excerpt>
+          <fti-names>'112th':3 'aid':33 'assess':17 'brownback':4 'damag':25 'determin':22 'devast':6 'disast':32 'eagl':52 'enough':28 'feder':31 'home':8 'jerri':10 'kan':14 'meet':1 'mike':37 'mobil':7 'moran':11,34 'park':9 'pompeo':38 'r':13,40 'r-kan':12 'r-wichita':39 'rep':36 'said':15,42 'sever':27 'tour':5 'trigger':30 'washington':48 'way':20 'whether':23 'wichita':41,51 'work':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/brownback-tours-devastated-mobile-home-park/&amp;sa=U&amp;ei=MaGNT9mrF6eX8AGO8eCSBw&amp;ved=0CFEQmAEwCQ&amp;usg=AFQjCNEY5DGADDXMQ9n7WA3UCq-Y4Mz-sw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14543026</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Wichita Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:58:26-04:00</created-at>
+          <title>KFDI News &amp;gt; Gov. Brownback: We&amp;#39;ll pull together</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sunday, April 15, 2012. Gov. Sam Brownback toured tornado-damaged areas around the state Sunday, including Wichita and Oaklawn. Also on the tour was U.S. Sen. Jerry Moran, U.S. Rep. Mike Pompeo, Ks. Adjutant Gen. Lee Tafanelli, plus ...</excerpt>
+          <fti-names>'15':11 '2012':12 'adjut':43 'also':29 'april':10 'area':20 'around':21 'brownback':4,15 'damag':19 'gen':44 'gov':3,13 'includ':25 'jerri':36 'kfdi':1 'ks':42 'lee':45 'll':6 'mike':40 'moran':37 'news':2 'news.kfdi.com':48 'oaklawn':28 'plus':47 'pompeo':41 'pull':7 'rep':39 'sam':14 'sen':35 'state':23 'sunday':9,24 'tafanelli':46 'togeth':8 'tornado':18 'tornado-damag':17 'tour':16,32 'u.s':34,38 'wichita':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.kfdi.com/news/147522905.html&amp;sa=U&amp;ei=MaGNT9mrF6eX8AGO8eCSBw&amp;ved=0CE0QmAEwCA&amp;usg=AFQjCNEKlkNqm8kNZYA0UayjOBZp-YbnMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14543025</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://news.kfdi.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412431</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:23:05-04:00</created-at>
+          <title>Meet the 112th | Brownback tours devastated mobile home park</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Jerry Moran, R-Kan., said an assessment is under way to determine whether the damage is severe enough to trigger federal disaster aid. Moran and Rep. Mike Pompeo, R-Wichita, said they will be working with Washington to ...</excerpt>
+          <fti-names>'112th':3 'aid':33 'assess':17 'brownback':4 'damag':25 'determin':22 'devast':6 'disast':32 'eagl':52 'enough':28 'feder':31 'home':8 'jerri':10 'kan':14 'meet':1 'mike':37 'mobil':7 'moran':11,34 'park':9 'pompeo':38 'r':13,40 'r-kan':12 'r-wichita':39 'rep':36 'said':15,42 'sever':27 'tour':5 'trigger':30 'washington':48 'way':20 'whether':23 'wichita':41,51 'work':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/brownback-tours-devastated-mobile-home-park/&amp;sa=U&amp;ei=F-KMT7n3DofO2wW9552VDA&amp;ved=0CEwQmAEwCA&amp;usg=AFQjCNFDHTBmg7fP6Yz3EJ7PWLlSQ6ljug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14524524</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Wichita Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5733</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Mike Pompeo</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

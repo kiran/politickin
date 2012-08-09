@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">90.2564102564103</party-votes-percentage>
+        <abstains-percentage type="float">1.26582278481013</abstains-percentage>
+        <votes-most-often-with-id type="integer">400194</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">233</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">199</cosponsored-bills-passed-rank>
+        <abstains type="integer">5</abstains>
+        <cosponsored-bills type="integer">263</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">147</party-votes-percentage-rank>
+        <sponsored-bills type="integer">9</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">400040</person-id>
+        <cosponsored-bills-rank type="integer">82</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-18T21:36:05-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">81</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">352</votes-republican-position>
+      <fax nil="true"></fax>
+      <blog-article-count type="integer">9230</blog-article-count>
+      <user-approval type="float">4.47916666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">267</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.boozman.senate.gov/public/index.cfm/e-mail-me</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">90.2564102564103</with-party-percentage>
+      <lastname>Boozman</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>B001236</bioguide-id>
+      <congress-office>320 Hart Senate Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://www.boozman.senate.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1950-12-10</birthday>
+      <person-id type="integer">400040</person-id>
+      <phone>202-224-4843</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">181</votes-democratic-position>
+      <metavid-id>John_Boozman</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:38-04:00</created-at>
+          <title>Video: Boozman at the sale barn: Plight of producers &#8216;serious&#8217;</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...was sale day at Lewis Livestock Auction, and U.S. Senator John Boozman, R-Ark., was in town to gather information about the drought and its effects on livestock producers. Conway was the second stop on his annual summer agriculture tour that began early</excerpt>
+          <fti-names>'agricultur':50 'annual':48 'ark':25 'auction':17 'barn':6 'began':53 'boozman':2,22 'cabin':56 'conway':41 'day':13 'democrat':57 'drought':34 'earli':54 'effect':37 'gather':30 'inform':31 'john':21 'lewi':15 'livestock':16,39 'log':55 'plight':7 'produc':9,40 'r':24 'r-ark':23 'sale':5,12 'second':44 'senat':20 'serious':10 'stop':45 'summer':49 'tour':51 'town':28 'u.s':19 'video':1</fti-names>
+          <source-url>http://www.thecabin.net/</source-url>
+          <url>http://thecabin.net/news/local/2012-08-07/boozman-sale-barn-plight-producers-%E2%80%98serious%E2%80%99</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973684</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Log Cabin Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:37-04:00</created-at>
+          <title>Legislation to Improve Veterans TBI Rehabilitation Signed Into Law</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...&#8211; President Obama today signed into law Senator John Boozman&#8217;s legislation to improve rehabilitative services for our nation&#8217;s veterans with Traumatic Brain Injury (TBI). The Veterans&#8217; Traumatic Brain Injury Rehabilitative Services&#8217; Improvemen</excerpt>
+          <fti-names>'arra':43 'boozman':18 'brain':32,38 'improv':3,22 'improvemen':42 'injuri':33,39 'john':17 'law':9,15 'legisl':1,20 'nation':27 'news':44 'obama':11 'presid':10 'rehabilit':6,23,40 'senat':16 'servic':24,41,45 'sign':7,13 'tbi':5,34 'today':12 'traumat':31,37 'veteran':4,29,36</fti-names>
+          <source-url>http://arkansasgopwing.blogspot.com/</source-url>
+          <url>http://arkansasgopwing.blogspot.com/2012/08/legislation-to-improve-veterans-tbi.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973683</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ARRA News Service</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:56:12-04:00</created-at>
+          <title>Republicans say harsh weather is cyclical</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...R-Kan., adding that his district saw worse conditions in the 1950s and 1980s and &quot;variability in the drought is not unusual.&quot; Sen. John Boozman, R-Ark., agreed. &quot;We've got oppressive heat and we've broken some records, but there's a lot of records stand</excerpt>
+          <fti-names>'1950s':19 '1980s':21 'ad':10 'agre':36 'ark':35 'boozman':32 'broken':45 'condit':16 'cyclic':6 'district':13 'drought':26 'got':39 'harsh':3 'heat':41 'istockanalyst':56 'john':31 'kan':9 'lot':52 'oppress':40 'r':8,34 'r-ark':33 'r-kan':7 'record':47,54 'republican':1 'saw':14 'say':2 'sen':30 'stand':55 'unusu':29 'variabl':23 've':38,44 'weather':4 'wors':15</fti-names>
+          <source-url>http://www.istockanalyst.com/</source-url>
+          <url>http://www.istockanalyst.com/article/viewarticle/articleid/5977060</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972567</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>iStockAnalyst</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:04:13-04:00</created-at>
+          <title>Proposal keeps Fort Smith jets</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...congressional delegation has sent letters to Air Force and Pentagon leaders asking for the justification behind the cuts. Sen. John Boozman, a Republican, and Pryor met with Air Force Secretary Michael Donley in March, and the entire delegation met with</excerpt>
+          <fti-names>'air':12,33 'arkansa':46 'ask':17 'behind':21 'boozman':26 'congression':6 'cut':23 'deleg':7,43 'donley':37 'entir':42 'forc':13,34 'fort':3 'jet':5 'john':25 'justif':20 'keep':2 'leader':16 'letter':10 'march':39 'met':31,44 'michael':36 'onlin':47 'pentagon':15 'propos':1 'pryor':30 'republican':28 'secretari':35 'sen':24 'sent':9 'smith':4</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/01/proposal-keeps-fort-smith-jets-20120801/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970098</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:04:12-04:00</created-at>
+          <title>DeMint accuses Amazon of lobbying for online tax to cripple competitors</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...allowing states to collect taxes that are currently owed under existing law, but are being systematically avoided.&quot; Sen. John Boozman (R-Ark.) also expressed support for the legislation, arguing that small retailers are unable to compete with websites t</excerpt>
+          <fti-names>'accus':2 'allow':12 'also':35 'amazon':3 'argu':41 'ark':34 'avoid':28 'blog':56 'boozman':31 'collect':15 'compet':48 'competitor':11 'crippl':10 'current':19 'demint':1 'exist':22 'express':36 'hill':55 'hillicon':52 'john':30 'law':23 'legisl':40 'lobbi':5 'onlin':7 'owe':20 'r':33 'r-ark':32 'retail':44 'sen':29 'small':43 'state':13 'support':37 'systemat':27 'tax':8,16 'unabl':46 'valley':53 'websit':50</fti-names>
+          <source-url>http://thehill.com/blogs//hillicon-valley</source-url>
+          <url>http://thehill.com/blogs/hillicon-valley/technology/241687-demint-accuses-amazon-of-lobbying-for-online-tax-to-cripple-competitors</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970097</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hillicon Valley | The Hill Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:27:19-04:00</created-at>
+          <title>Mitt Romney Wind Energy Tax Credit Opposition At Odds With Republicans</title>
+          <contains-term>congress</contains-term>
+          <excerpt>President Barack Obama has called on Congress to renew the credit, warning of the impending job losses. Arkansas Sen. John Boozman (R) expressed similar caution, telling The Huffington Post on Tuesday that he plans to take up the issue with ...</excerpt>
+          <fti-names>'arkansa':29 'barack':13 'boozman':32 'call':16 'caution':36 'congress':18 'credit':6,22 'energi':4 'express':34 'huffington':39,52 'impend':26 'issu':50 'job':27 'john':31 'loss':28 'mitt':1 'obama':14 'odd':9 'opposit':7 'plan':45 'post':40,53 'presid':12 'r':33 'renew':20 'republican':11 'romney':2 'sen':30 'similar':35 'take':47 'tax':5 'tell':37 'tuesday':42 'warn':23 'wind':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/31/romney-wind-energy-tax-credit_n_1726117.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T21:28:48-04:00</date>
+          <id type="integer">16967458</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:27:21-04:00</created-at>
+          <title>Senate panel backs Air Guard</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Sen. John Boozman, R-Ark., also welcomed the subcommittee&#8217;s action. &#8220;By almost all metrics the 188th is the most cost-effective A-10 air base, so it makes sense to maintain the facility and its current mission. This will give us momentum as ...</excerpt>
+          <fti-names>'-10':31 '188th':23 'action':17 'air':4,32 'almost':19 'also':12 'ark':11 'arkansa':52 'back':3 'base':33 'boozman':8 'bureau':54 'cost':28 'cost-effect':27 'current':44 'effect':29 'facil':41 'give':48 'guard':5 'john':7 'maintain':39 'make':36 'metric':21 'mission':45 'momentum':50 'news':53 'panel':2 'r':10 'r-ark':9 'sen':6 'senat':1 'sens':37 'subcommitte':15 'us':49 'welcom':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://arkansasnews.com/2012/07/31/senate-panel-backs-air-guard/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T19:19:57-04:00</date>
+          <id type="integer">16967461</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas News Bureau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:27:21-04:00</created-at>
+          <title>Daily Kos Elections Morning Digest: An instant contender for craziest campaign ad of the year</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Of course, never say never, but Democrats hoping that Beebe might run when freshman Sen. John Boozman wages his first re-election fight in 2016 are likely to wind up disappointed. (There have also been strange rumors that Dem Sen. Mark Pryor ...</excerpt>
+          <fti-names>'2016':41 'ad':12 'also':50 'beeb':25 'boozman':32 'campaign':11 'contend':8 'cours':17 'craziest':10 'daili':1,59 'dem':55 'democrat':22 'digest':5 'disappoint':47 'elect':3,38 'fight':39 'first':35 'freshman':29 'hope':23 'instant':7 'john':31 'kos':2,60 'like':43 'mark':57 'might':26 'morn':4 'never':18,20 'pryor':58 're':37 're-elect':36 'rumor':53 'run':27 'say':19 'sen':30,56 'strang':52 'wage':33 'wind':45 'year':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/31/1115238/-Daily-Kos-Elections-Morning-Digest-An-instant-contender-for-craziest-campaign-ad-of-the-year</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T07:59:55-04:00</date>
+          <id type="integer">16967460</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:27:20-04:00</created-at>
+          <title>Ark. veteran awarded Purple Heart 40 years after service</title>
+          <contains-term>representative</contains-term>
+          <excerpt>With family and fellow veterans looking on, Howard was awarded the Purple Heart by a representative with the office of Arkansas Sen. John Boozman. &quot;I don't know what y'all know about the Purple Heart or not,&quot; says the representative, &quot;but it is the most ..</excerpt>
+          <fti-names>'40':6 'ark':1 'arkansa':30 'award':3,19 'boozman':33 'famili':11 'fellow':13 'heart':5,22,45 'howard':17 'john':32 'know':37,41 'ksla':56 'look':15 'offic':28 'purpl':4,21,44 'repres':25,50 'say':48 'sen':31 'servic':9 'veteran':2,14 'y':39 'year':7</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ksla.com/story/19151891/ark-veteran-awarded-purple-heart-40-years-after-service</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T23:03:03-04:00</date>
+          <id type="integer">16967459</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KSLA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:27:21-04:00</created-at>
+          <title>Education Notes: Dean&#8217;s lists and graduations</title>
+          <contains-term>senator</contains-term>
+          <excerpt>She was an intern at Ag Watch Media network, and Senator John Boozman of Arkansas, and is employed at Greenway, in Jonesboro, with plans of continuing her education for a masters degree from Arkansas State. Her parents are Michael W. Baum of ...</excerpt>
+          <fti-names>'ag':13 'arkansa':22,41 'baum':48 'boozman':20 'continu':33 'dean':3 'degre':39 'educ':1,35 'employ':25 'graduat':7 'greenway':27 'intern':11 'john':19 'jonesboro':29 'list':5 'master':38 'media':15 'michael':46 'network':16 'note':2 'parent':44 'pittsburgh':50 'plan':31 'review':53 'senat':18 'state':42 'tribun':52 'tribune-review':51 'w':47 'watch':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://triblive.com/news/2263730-74/university-named-dean-walker-2012-list-spring-arkansas-baum-degree</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T22:05:47-04:00</date>
+          <id type="integer">16967462</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PITTSBURGH TRIBUNE-REVIEW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. John Boozman [R, AR]</name>
+      <total-session-votes type="integer">390</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>BoozmanPressOffice</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:32-04:00</created-at>
+          <title>Senate Bill S. 3364 - Bring Jobs Home Act - FAIL - MySaline.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Forty-two Republican senators held up it&amp;#39;s passage, including our very own Senator John Boozman. Here is the official roll call of how all senators voted: http://www.govtrack.us/congress/votes/112-2012/s181. Make sure you ...</excerpt>
+          <fti-names>'/congress/votes/112-2012/s181.':41 '3364':4 'act':8 'bill':2 'boozman':27 'bring':5 'call':33 'fail':9 'forti':12 'forty-two':11 'held':16 'home':7 'includ':21 'job':6 'john':26 'make':42 'mark':45 'mysaline.com':10 'offici':31 'passag':20 'republican':14 'roll':32 'senat':1,15,25,37 'sure':43 'two':13 'vote':38 'www.govtrack.us':40 'www.govtrack.us/congress/votes/112-2012/s181':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mysaline.com/xn/detail/873760:BlogPost:331651&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNF2GbE7-GkHgKTp01No4hfFHbvtdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782420</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:24-04:00</created-at>
+          <title>Boot Berryism: Boozman Introduces Death Tax Repeal Bill</title>
+          <contains-term>senator</contains-term>
+          <excerpt>ARRA News Service - WASHINGTON &#8211; With job creation and economic recovery at the top of Washington&amp;#39;s &#8220;to-do list,&#8221; U.S. Senator John Boozman today introduced the &#8220;Death Tax Repeal Act,&#8221; a bill that would permanently ...</excerpt>
+          <fti-names>'act':39 'arra':9 'berryism':2 'bill':8,41,45 'boot':1 'boozman':3,32 'creation':15 'death':5,36 'econom':17 'introduc':4,34 'job':14 'john':31 'list':28 'news':10 'perman':44 'recoveri':18 'repeal':7,38 'senat':30 'servic':11 'smith':46 'tax':6,37 'to-do':25 'today':33 'top':21 'u.s':29 'washington':12,23 'would':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bootberry.blogspot.com/2012/07/boozman-introduces-death-tax-repeal-bill.html&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGeoMrAKK0woyOZIH5RdhN_UKtznw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782410</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bill Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:33-04:00</created-at>
+          <title>Ascension with Mother Earth and Current State of Affairs: Senators ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Michael Bennet [D, CO] Sen. Jeff Bingaman [D, NM] Sen. Richard Blumenthal [D, CT] Sen. Roy Blunt [R, MO] Sen. John Boozman [R, AR] Sen. Barbara Boxer [D, CA] Sen. Scott Brown [R, MA] Sen. Sherrod Brown [D, OH] ...</excerpt>
+          <fti-names>'affair':9 'ar':35 'ascens':1 'barbara':37 'bennet':13 'bingaman':18 'blumenth':23 'blunt':28 'boozman':33 'boxer':38 'brown':43,48 'ca':40 'co':15 'ct':25 'current':6 'd':14,19,24,39,49 'earth':4 'enerchi':51 'jeff':17 'john':32 'ma':45 'michael':12 'mo':30 'mother':3 'nm':20 'oh':50 'r':29,34,44 'richard':22 'roy':27 'scott':42 'sen':11,16,21,26,31,36,41,46 'senat':10 'sherrod':47 'state':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ascensionwithearth.com/2012/07/senators-who-voted-yea-for-ndaa.html&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CFIQmAEwDA&amp;usg=AFQjCNFEBkqac3qC4EKXdLImmEqYUE55Ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16782422</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>enerchi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:30-04:00</created-at>
+          <title>S.3369 | Democracy Is Strengthened by Casting Light On Spending ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) entered in Senate. Jul 12 2012. Motion to proceed to consideration of measure ...</excerpt>
+          <fti-names>'12':41 '179':36 '2012':42 'call':33 'cast':6 'clotur':20 'consider':47 'democraci':2 'enter':37 'invok':23 'jul':40 'light':7 'measur':31,49 'motion':10,26,43 'proceed':28,45 'reconsid':15 'reid':13 'roll':32 's.3369':1 'senat':12,39 'spend':9 'strengthen':4 'vote':17,34 'www.votetocracy.com':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3369-democracy-is-strengthened-by-casting-light-on-spending-in-elections-act-of-2012-41528&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNErRI0j_VRGg27E5nVFcwppmP5r-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16782414</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:32-04:00</created-at>
+          <title>TN Senators Lost on LOST | Midtown Republican Club</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Roy Blunt (R-MO). 4. Sen. Pat Roberts (R-KS). 5. Sen. David Vitter (R-LA). 6. Sen. Ron Johnson (R-WI). 7. Sen. John Cornyn (R-TX). 8. Sen. Jim Demint (R-SC). 9. Sen. Tom Coburn (R-OK). 10. Sen. John Boozman ...</excerpt>
+          <fti-names>'10':57 '4':15 '5':22 '6':29 '7':36 '8':43 '9':50 'blunt':11 'boozman':60 'club':8 'coburn':53 'cornyn':39 'david':24 'demint':46 'georgeann':61 'jim':45 'john':38,59 'johnson':32 'king':62 'ks':21 'la':28 'lost':3,5 'midtown':6 'mo':14 'ok':56 'pat':17 'r':13,20,27,34,41,48,55 'r-ks':19 'r-la':26 'r-mo':12 'r-ok':54 'r-sc':47 'r-tx':40 'r-wi':33 'republican':7 'robert':18 'ron':31 'roy':10 'sc':49 'sen':9,16,23,30,37,44,51,58 'senat':2 'tn':1 'tom':52 'tx':42 'vitter':25 'wi':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://midtownrepublican.com/archives/6616&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNE59u-S1lv7Lw-BZ4he-c4_wPZIaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16782419</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Georgeann King</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:31-04:00</created-at>
+          <title>Thanks, Senator Boozman | Our Voices Arkansas</title>
+          <contains-term>senate</contains-term>
+          <excerpt>If all 34 Senators just stand together, it is impossible for the Senate to reach the 67 votes needed to ratify the treaty. Arkansas&amp;#39; Senator John Boozman is among the 34 senators who &amp;quot;get it&amp;quot; &#8212; America&amp;#39;s sovereignty would be ...</excerpt>
+          <fti-names>'34':9,37 '67':23 'america':42 'among':35 'arkansa':6,30 'boozman':3,33 'elizabeth':47 'get':40 'imposs':16 'john':32 'need':25 'ratifi':27 'reach':21 'senat':2,10,19,31,38 'sovereignti':44 'stand':12 'thank':1 'togeth':13 'treati':29 'voic':5 'vote':24 'would':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://our-voices-arkansas.com/2012/07/thanks-senator-boozman/&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNF_hLaueIziKze2faUkPNSaHHVSyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16782418</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Elizabeth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:31-04:00</created-at>
+          <title>SENATE SINKS THE UN&amp;#39;S LAW OF THE SEA TREATY. &#171; GILL ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Jim Inhofe (R-OK); Sen. Roy Blunt (R-MO); Sen. Pat Roberts (R-KS); Sen. David Vitter (R-LA); Sen. Ron Johnson (R-WI); Sen. John Cornyn (R-TX); Sen. Jim Demint (R-SC); Sen. Tom Coburn (R-OK); Sen. John Boozman ...</excerpt>
+          <fti-names>'blunt':19 'boozman':61 'coburn':55 'cornyn':43 'david':30 'demint':49 'gill':11 'inhof':13 'jim':12,48 'john':42,60 'johnson':37 'ks':28 'la':34 'law':6 'mo':22 'ok':16,58 'pat':24 'patrick':62 'r':15,21,27,33,39,45,51,57 'r-ks':26 'r-la':32 'r-mo':20 'r-ok':14,56 'r-sc':50 'r-tx':44 'r-wi':38 'robert':25 'ron':36 'roy':18 'sc':52 'sea':9 'sen':17,23,29,35,41,47,53,59 'senat':1 'sink':2 'tom':54 'treati':10 'tx':46 'un':4 'vitter':31 'wi':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gillreport.com/2012/07/senate-sinks-the-uns-law-of-the-sea-treaty/&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGohv6dfiuyzy0JueN4LSkwClIY3Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16782417</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Patrick</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:30-04:00</created-at>
+          <title>Did Your Senator Oppose the Law of the Sea Treaty (LOST)? &#171; The ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Roy Blunt (R-MO). 4. Sen. Pat Roberts (R-KS). 5. Sen. David Vitter (R-LA). 6. Sen. Ron Johnson (R-WI). 7. Sen. John Cornyn (R-TX). 8. Sen. Jim Demint (R-SC). 9. Sen. Tom Coburn (R-OK). 10. Sen. John Boozman ...</excerpt>
+          <fti-names>'10':61 '4':19 '5':26 '6':33 '7':40 '8':47 '9':54 'blunt':15 'boozman':64 'coburn':57 'cornyn':43 'david':28 'demint':50 'jim':49 'john':42,63 'johnson':36 'ks':25 'la':32 'law':6 'lost':11 'mo':18 'ok':60 'oppos':4 'pat':21 'r':17,24,31,38,45,52,59 'r-ks':23 'r-la':30 'r-mo':16 'r-ok':58 'r-sc':51 'r-tx':44 'r-wi':37 'robert':22 'ron':35 'roy':14 'sc':53 'sea':9 'sen':13,20,27,34,41,48,55,62 'senat':3 'theperpetualview':65 'tom':56 'treati':10 'tx':46 'vitter':29 'wi':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theperpetualview.wordpress.com/2012/07/18/did-your-senator-oppose-the-law-of-the-sea-treaty-lost/&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHNmIwx1AEMeloS2LK-CtGaQu10pQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16782415</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>theperpetualview</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:16:30-04:00</created-at>
+          <title>Conservatives hit magic number to sink Law of the Sea Treaty - Hot Air</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Jim Inhofe (R-OK); Sen. Roy Blunt (R-MO); Sen. Pat Roberts (R-KS); Sen. David Vitter (R-LA); Sen. Ron Johnson (R-WI); Sen. John Cornyn (R-TX); Sen. Jim Demint (R-SC); Sen. Tom Coburn (R-OK); Sen. John Boozman ...</excerpt>
+          <fti-names>'air':13 'bluey':65 'blunt':21 'boozman':63 'coburn':57 'conserv':1 'cornyn':45 'david':32 'demint':51 'hit':2 'hot':12 'inhof':15 'jim':14,50 'john':44,62 'johnson':39 'ks':30 'la':36 'law':7 'magic':3 'mo':24 'number':4 'ok':18,60 'pat':26 'r':17,23,29,35,41,47,53,59 'r-ks':28 'r-la':34 'r-mo':22 'r-ok':16,58 'r-sc':52 'r-tx':46 'r-wi':40 'rob':64 'robert':27 'ron':38 'roy':20 'sc':54 'sea':10 'sen':19,25,31,37,43,49,55,61 'sink':6 'tom':56 'treati':11 'tx':48 'vitter':33 'wi':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hotair.com/archives/2012/07/16/conservatives-hit-magic-number-to-sink-law-of-the-sea-treaty/&amp;sa=U&amp;ei=N0kKUNSUHOWg2QXMiaHtDw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFV9tApWtFl2SQXZOy-bVKLqq1c-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16782416</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rob Bluey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400040</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:36:34-04:00</created-at>
+          <title>Boozman Announces Newport Mobile Office | US Senators</title>
+          <contains-term>senator</contains-term>
+          <excerpt>WASHINGTON &#8211;U.S. Senator John Boozman announced today that members of his staff will be in Newport for a Mobile Office event. Senator Boozman&amp;#39;s staff will be available at the walk-in event to help Arkansans with problems involving the ...</excerpt>
+          <fti-names>'announc':2,13 'arkansan':44 'avail':35 'boozman':1,12,30 'event':28,41 'help':43 'involv':47 'john':11 'member':16 'mobil':4,26 'newport':3,23 'offic':5,27 'problem':46 'senat':7,10,29 'senatorsadmin':50 'staff':19,32 'today':14 'u.s':9 'us':6,49 'walk':39 'walk-in':38 'washington':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://us-senators.com/2012/04/boozman-announces-newport-mobile-office/&amp;sa=U&amp;ei=IqqNT_qiCsmd8AGCkeWSBw&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNHaB3-rUPnfrKgOuzHZ7ggmNIYgGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545328</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>US_SenatorsAdmin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">34022</page-views-count>
+      <unaccented-name>John Boozman</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

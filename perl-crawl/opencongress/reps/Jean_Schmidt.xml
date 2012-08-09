@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-14T11:18:10-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.67850692354</party-votes-percentage>
+        <abstains-percentage type="float">3.37405468295521</abstains-percentage>
+        <votes-most-often-with-id type="integer">412256</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">206</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">58</abstains>
+        <cosponsored-bills type="integer">244</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">187</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412010</person-id>
+        <cosponsored-bills-rank type="integer">327</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">399</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1556</votes-republican-position>
+      <metavid-id>Jean_Schmidt</metavid-id>
+      <blog-article-count type="integer">8047</blog-article-count>
+      <user-approval type="float">3.96153846153846</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">163</oc-users-tracking>
+      <contact-webform>http://www.house.gov/schmidt/contact.shtml</contact-webform>
+      <youtube-id nil="true"></youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.67850692354</with-party-percentage>
+      <lastname>Schmidt</lastname>
+      <fax>202-225-1992</fax>
+      <congress-office>2466 Rayburn House Office Building</congress-office>
+      <firstname>Jean</firstname>
+      <website>http://house.gov/schmidt/</website>
+      <birthday type="date">1951-11-29</birthday>
+      <person-id type="integer">412010</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-3164</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>S001164</bioguide-id>
+      <votes-democratic-position type="integer">382</votes-democratic-position>
+      <gender>F</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:20-04:00</created-at>
+          <title>Mica &amp; House Republicans Convey Intent Of Labor Reforms Included In FAA Law</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Petri (R-WI), U.S. Rep. John J. Duncan, Jr. (R-TN), U.S. Rep. Sam Graves (R-MO), U.S. Rep. Bill Shuster (R-PA), U.S. Rep. Jean Schmidt (R-OH), and U.S. Rep. Chip Cravaack (R-MN) - the Transportation and Infrastructure Committee conferees to H.R. 658. Th</excerpt>
+          <fti-names>'658':63 'airportbusiness.com':65 'bill':35 'chip':50 'committe':59 'confere':60 'convey':4 'cravaack':51 'duncan':21 'faa':11 'grave':29 'h.r':62 'hous':2 'includ':9 'infrastructur':58 'intent':5 'j':20 'jean':42 'john':19 'jr':22 'labor':7 'law':12 'mica':1 'mn':54 'mo':32 'oh':46 'pa':39 'petri':13 'r':15,24,31,38,45,53 'r-mn':52 'r-mo':30 'r-oh':44 'r-pa':37 'r-tn':23 'r-wi':14 'reform':8 'rep':18,27,34,41,49 'republican':3 'sam':28 'schmidt':43 'shuster':36 'th':64 'tn':25 'transport':56 'u.s':17,26,33,40,48 'wi':16</fti-names>
+          <source-url>http://airportbusiness.com/</source-url>
+          <url>http://www.aviationpros.com/news/10756014/mica-house-republicans-convey-intent-of-labor-reforms-included-in-faa-law/news/10756014/mica-amp-house-republicans-convey-intent-of-labor-reforms-included-in-faa-law</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972981</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AirportBusiness.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:50:34-04:00</created-at>
+          <title>Amtrak loses $834M in food service over 10 years</title>
+          <contains-term>congress</contains-term>
+          <excerpt>For cash-strapped schools and billion-dollar ballparks, selling food and drinks is usually a moneymaker. Each year, Amtrak loses millions feeding its passengers. Statistics compiled by the House Transportation Committee show losses of $84.5 million selli</excerpt>
+          <fti-names>'10':8 '834m':3 '84.5':46 'amtrak':1,30 'ballpark':19 'billion':17 'billion-dollar':16 'cash':12 'cash-strap':11 'committe':42 'compil':37 'dollar':18 'drink':23 'feed':33 'food':5,21 'fox':49 'hous':40 'lose':2,31 'loss':44 'million':32,47 'moneymak':27 'news':50 'passeng':35 'school':14 'sell':20 'selli':48 'servic':6 'show':43 'statist':36 'strap':13 'transport':41 'usual':25 'year':9,29</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://www.foxbusiness.com/industries/2012/08/02/amtrak-food-service-lost-834m-in-10-years/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:12:29-04:00</created-at>
+          <title>A Can of Soda Costs Amtrak $3.40, A Burger: $16.15</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...out the service to the lowest bidder. &quot;When you see the waste that is going on here, this is an easy fix,&quot; said Rep. Jean Schmidt, R-Ohio. Kurt Weirich of Piscataway, N.J., who was waiting for an Amtrak train at Union Station in Washington on Thursday, </excerpt>
+          <fti-names>'16.15':10 '3.40':7 'amtrak':6,50 'bidder':17 'burger':9 'columbia':60 'cost':5 'easi':31 'fix':32 'go':25 'jean':35 'kurt':40 'lowest':16 'n.j':44 'ohio':39 'piscataway':43 'r':38 'r-ohio':37 'rep':34 'said':33 'sc':61 'schmidt':36 'see':20 'servic':13 'soda':4 'station':54 'thursday':58 'train':51 'union':53 'wait':47 'washington':56 'wast':22 'weirich':41 'wltx':59</fti-names>
+          <source-url>http://www.wltx.com/</source-url>
+          <url>http://www.wltx.com/rss/article/196322/142/A-Can-of-Soda-Costs-Amtrak-340-A-Burger-1615</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971827</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WLTX | Columbia, SC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:12:30-04:00</created-at>
+          <title>Amtrak lost $834 million on cheeseburgers and soda, report says</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...functions while using its own workers to serve food and beverages on trains. Legislation proposed last year by Rep. Jean Schmidt, an Ohio Republican, would require the on-board operations to be contracted out to companies. Maine loses about 37 cents per</excerpt>
+          <fti-names>'37':51 '834':3 'amtrak':1 'beverag':21 'board':40 'cent':52 'cheeseburg':6 'compani':47 'contract':44 'food':19 'function':11 'gazett':56 'jean':30 'last':26 'legisl':24 'lose':49 'lost':2 'main':48 'million':4 'ohio':33 'on-board':38 'oper':41 'per':53 'propos':25 'rep':29 'report':9 'republican':34 'requir':36 'say':10 'schmidt':31 'serv':18 'soda':8 'telegram':55 'train':23 'use':13 'worcest':54 'worker':16 'would':35 'year':27</fti-names>
+          <source-url>http://www.telegram.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.telegram.com/article/20120802/NEWS/120809862/1052/rss01&amp;source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971828</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Worcester Telegram &amp; Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:13:47-04:00</created-at>
+          <title>Congress examines Amtrak's food and beverage losses</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...out the service to the lowest bidder. &quot;When you see the waste that is going on here, this is an easy fix,&quot; said Rep. Jean Schmidt, R-Ohio. Kurt Weirich of Piscataway, N.J., who was waiting for an Amtrak train at Union Station in Washington on Thursday, </excerpt>
+          <fti-names>'abc':57 'amtrak':3,48 'beverag':7 'bidder':15 'congress':1 'easi':29 'examin':2 'fix':30 'food':5 'go':23 'jean':33 'kurt':38 'loss':8 'lowest':14 'n.j':42 'news':58 'ohio':37 'piscataway':41 'r':36 'r-ohio':35 'rep':32 'said':31 'schmidt':34 'see':18 'servic':11 'station':52 'thursday':56 'train':49 'union':51 'wait':45 'washington':54 'wast':20 'weirich':39</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/congress-examines-amtraks-food-beverage-losses/story?id=16917752</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970937</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:23-04:00</created-at>
+          <title>GOP Rep. Schmidt fails to raise funds to pay Ethics panel fines</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the money, according to people familiar with the chamber&#8217;s ethics rules. Since losing her primary election in March, Rep. Jean Schmidt (R-Ohio) has failed to raise any of the roughly $500,000 that the House Ethics Committee ordered her to pay. The Eth</excerpt>
+          <fti-names>'000':47 '500':46 'accord':15 'chamber':21 'committe':52 'elect':29 'eth':58 'ethic':10,23,51 'fail':4,39 'familiar':18 'fine':12 'fund':7 'gop':1 'hill':60 'hous':50 'jean':33 'lose':26 'march':31 'money':14 'ohio':37 'order':53 'panel':11 'pay':9,56 'peopl':17 'primari':28 'r':36 'r-ohio':35 'rais':6,41 'rep':2,32 'rough':45 'rule':24 'schmidt':3,34 'sinc':25</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/homenews/house/241667-gop-rep-schmidt-fails-to-raise-funds-to-pay-ethics-inquiry-fines</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969974</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:13:17-04:00</created-at>
+          <title>Schmidt raised no donations for legal expense account in 2nd QTR</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jean Schmidt, R-Miami Township, did not raise any reportable contributions for her legal expense trust from May through June, according to her latest filing with the House ethics committee. Schmidt set up the trust last year, after the ...</excerpt>
+          <fti-names>'2nd':10 'accord':34 'account':8 'cincinnati.com':53 'committe':43 'contribut':24 'donat':4 'ethic':42 'expens':7,28 'file':38 'hous':41 'jean':13 'june':33 'last':49 'latest':37 'legal':6,27 'may':31 'miami':17 'qtr':11 'r':16 'r-miami':15 'rais':2,21 'rep':12 'report':23 'schmidt':1,14,44 'set':45 'township':18 'trust':29,48 'year':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://cincinnati.com/blogs/politics/2012/07/31/schmidt-raised-no-donations-for-legal-expense/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:07:43-04:00</date>
+          <id type="integer">16967225</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cincinnati.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:06-04:00</created-at>
+          <title>Tea Party Set to Deliver Texas-Sized Blowout</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Rep. Jean Schmidt was routed in her primary in Ohio. Sen. Dick Lugar lost in a land-slide against state Treasurer Richard Mourdock. Little known state Senator Debbie Fischer defeated two strong, experienced politicians in Nebraska's senate primary.</excerpt>
+          <fti-names>'big':50 'blowout':9 'debbi':38 'defeat':40 'deliv':5 'dick':21 'experienc':43 'fischer':39 'hollywood':51 'jean':11 'known':35 'land':27 'land-slid':26 'littl':34 'lost':23 'lugar':22 'mourdock':33 'nebraska':46 'ohio':19 'parti':2 'politician':44 'primari':17,49 'rep':10 'richard':32 'rout':14 'schmidt':12 'sen':20 'senat':37,48 'set':3 'size':8 'slide':28 'state':30,36 'strong':42 'tea':1 'texa':7 'texas-s':6 'treasur':31 'two':41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.breitbart.com/Big-Government/2012/07/30/tea-party-set-to-deliver-texas-sized-blowout</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:50:10-04:00</date>
+          <id type="integer">16961648</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Big Hollywood</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:09-04:00</created-at>
+          <title>Tea Party Set to Deliver Texas-Sized Blowout</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...the latest example of tea party and grass roots activists lifting a challenger past strong, establishment-backed candidates. Rep. Jean Schmidt was routed in her primary in Ohio. Sen. Dick Lugar lost in a land-slide against state Treasurer Richard Mourdo</excerpt>
+          <fti-names>'activist':19 'back':27 'big':53 'blowout':9 'candid':28 'challeng':22 'deliv':5 'dick':40 'establish':26 'establishment-back':25 'exampl':12 'govern':54 'grass':17 'jean':30 'land':46 'land-slid':45 'latest':11 'lift':20 'lost':42 'lugar':41 'mourdo':52 'ohio':38 'parti':2,15 'past':23 'primari':36 'rep':29 'richard':51 'root':18 'rout':33 'schmidt':31 'sen':39 'set':3 'size':8 'slide':47 'state':49 'strong':24 'tea':1,14 'texa':7 'texas-s':6 'treasur':50</fti-names>
+          <source-url>http://biggovernment.com/</source-url>
+          <url>http://feedproxy.google.com/~r/BigGovernment/~3/Eeluld3TsWw/tea-party-set-to-deliver-texas-sized-blowout</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961649</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Big Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:51:55-04:00</created-at>
+          <title>Ohio's Jean Schmidt mum on plans for future</title>
+          <contains-term>republican</contains-term>
+          <excerpt>WASHINGTON -- Rep. Jean Schmidt's most recent campaign finance report is a window into her waning political career: The Miami Township Republican ended June with just $152 in the bank. She collected six campaign donations in three months.</excerpt>
+          <fti-names>'152':36 'bank':39 'campaign':17,43 'career':27 'chillico':48 'collect':41 'donat':44 'end':32 'financ':18 'futur':9 'gazett':49 'jean':3,12 'june':33 'miami':29 'month':47 'mum':5 'ohio':1 'plan':7 'polit':26 'recent':16 'rep':11 'report':19 'republican':31 'schmidt':4,13 'six':42 'three':46 'township':30 'wane':25 'washington':10 'window':22</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.chillicothegazette.com/article/20120729/NEWS01/207290302/Ohio-s-Jean-Schmidt-mum-plans-future</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T06:14:55-04:00</date>
+          <id type="integer">16950095</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chillico Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jean Schmidt [R, OH-2]</name>
+      <total-session-votes type="integer">1661</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:01-04:00</created-at>
+          <title>John Gotts, GOP Kansas Legislative Candidate, Denies He Lives In ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of joy&amp;lt;/a&amp;gt; because of false reports that ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':24 '/a':30 'candid':6 'deni':7 'editor':40 'fals':33 'gop':3 'gott':2 'hplink':26 'href':21 'huffington':37 'jean':14 'john':1 'joy':29 'kansa':4 'legisl':5 'live':9 'long':11 'news':39 'ohio':18 'post':38 'r':17 'r-ohio':16 'rep':13 'report':34 'schmidt':15 'shriek':27 'target':25 'utter':19 'www.huffingtonpost.com':23 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/30/john-gotts-gop-kansas-idaho-house_n_1721167.html&amp;sa=U&amp;ei=sFEXUOCvG4mi9QTJl4GoBg&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNE96HRL7Rn79dkfZznwiY9X2hcoFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961645</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:00-04:00</created-at>
+          <title>Bill Magwood, NRC Democrat, Is &amp;#39;Treacherous, Miserable Liar&amp;#39; And ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Jean Schmidt Blasts &amp;#39;Cowards&amp;#39;. Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':27 'admin':32 'bill':1 'blast':12 'coward':13 'democrat':4 'hplink':29 'href':24 'jean':10,17 'liar':8 'long':14 'magwood':2 'miser':7 'nrc':3 'ohio':21 'r':20 'r-ohio':19 'rep':16 'schmidt':11,18 'shriek':30 'target':28 'treacher':6 'utter':22 'www.huffingtonpost.com':26 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/oh-moc/jean-schmidt-ohio-representative/bill-magwood-nrc-democrat-is-treacherous-miserable-liar-and-first-class-huffington-post/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dbill-magwood-nrc-democrat-is-treacherous-miserable-liar-and-first-class-huffington-post&amp;sa=U&amp;ei=sFEXUOCvG4mi9QTJl4GoBg&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHtZBltM1BPovolhfUFMwL4bbtB1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961638</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:49:49-04:00</created-at>
+          <title>Ohio&amp;#39;s Jean Schmidt mum on plans for future &#8211; Chillicothe Gazette ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ohio&amp;#39;s Jean Schmidt mum on plans for future. Chillicothe Gazette &amp;quot;She seems very active (and) engaged, as far as I can see,&amp;quot; said Rep. Steve Chabot, R-Westwood, who serves on the Foreign Affairs panel with Schmidt.</excerpt>
+          <fti-names>'activ':26 'admin':51 'affair':47 'chabot':38 'chillicoth':10,21 'engag':28 'far':30 'foreign':46 'futur':9,20 'gazett':11,22 'jean':3,14 'mum':5,16 'ohio':1,12 'panel':48 'plan':7,18 'r':40 'r-westwood':39 'rep':36 'said':35 'schmidt':4,15,50 'see':34 'seem':24 'serv':43 'steve':37 'westwood':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/oh-moc/steve-chabot-ohio-representative/ohios-jean-schmidt-mum-on-plans-for-future-chillicothe-gazette/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dohios-jean-schmidt-mum-on-plans-for-future-chillicothe-gazette&amp;sa=U&amp;ei=olgWUOv7NIGg8gS29IH4BQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNEJ0_uWN-gVcl5j0G2_c26aopjndQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950080</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:43:35-04:00</created-at>
+          <title>Idaho Billboard Compares Obama To Aurora Shooting Suspect ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of joy&amp;lt;/a&amp;gt; because of false reports that ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':22 '/a':28 'aurora':6 'billboard':2 'compar':3 'fals':31 'hplink':24 'href':19 'huffington':35 'idaho':1 'jean':12 'joy':27 'long':9 'news':37 'obama':4 'ohio':16 'post':36 'r':15 'r-ohio':14 'rep':11 'report':32 'schmidt':13 'shoot':7 'shriek':25 'suspect':8 'target':23 'team':38 'utter':17 'www.huffingtonpost.com':21 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/28/idaho-billboard-compares-obama-to-aurora-shooting-suspect_n_1713895.html&amp;sa=U&amp;ei=mOkUUKqLLMPe0QG_8YDQCA&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNGbi0RrixoMmVowA7Wbj0rwyuTGXw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931037</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:30:42-04:00</created-at>
+          <title>Eric Cantor: Michele Bachmann Concerned About &amp;#39;Security Of The ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of joy&amp;lt;/a&amp;gt; because of false reports that ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':23 '/a':29 'bachmann':4 'cantor':2 'concern':5 'editor':39 'eric':1 'fals':32 'hplink':25 'href':20 'huffington':36 'jean':13 'joy':28 'long':10 'michel':3 'news':38 'ohio':17 'post':37 'r':16 'r-ohio':15 'rep':12 'report':33 'schmidt':14 'secur':7 'shriek':26 'target':24 'utter':18 'www.huffingtonpost.com':22 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/eric-cantor-michele-bachman_n_1709341.html&amp;sa=U&amp;ei=4FwTUMb2KZSz0QHWpYGACg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNHRCyJrhfip8Uzg_MOhmL1Fw_IQZg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923680</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:30:42-04:00</created-at>
+          <title>A Completely Unofficial Blog About Eric Cantor &#187; Eric Cantor ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered a href=&#8221;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&#8221; target=&#8221;_hplink&#8221;shrieks of joy/a because of false reports that the ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&#8221;':23 'admin':35 'blog':4 'cantor':7,9 'complet':2 'eric':6,8 'fals':31 'hplink':25 'href':20 'jean':13 'joy/a':28 'long':10 'ohio':17 'r':16 'r-ohio':15 'rep':12 'report':32 'schmidt':14 'shriek':26 'target':24 'unoffici':3 'utter':18 'www.huffingtonpost.com':22 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ericcantor.us/2012/07/eric-cantor-michele-bachmann-concerned-about-security-of-the-country/&amp;sa=U&amp;ei=4FwTUMb2KZSz0QHWpYGACg&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNGohhqOmn_9tVJJq2S0wiuymuqgfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923677</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:58:56-04:00</created-at>
+          <title>Louie Gohmert To Media: Stop Asking Politicians Their Opinions</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of joy&amp;lt;/a&amp;gt; because of false reports that ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':23 '/a':29 'ask':6 'editor':39 'fals':32 'gohmert':2 'hplink':25 'href':20 'huffington':36 'jean':13 'joy':28 'long':10 'louie':1 'media':4 'news':38 'ohio':17 'opinion':9 'politician':7 'post':37 'r':16 'r-ohio':15 'rep':12 'report':33 'schmidt':14 'shriek':26 'stop':5 'target':24 'utter':18 'www.huffingtonpost.com':22 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/26/louie-gohmert-media-muslim-brotherhood_n_1707025.html&amp;sa=U&amp;ei=-R8SUKWCCZGi8QSn04HwBA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNFFqdm4ediBpr0W2a_wTAYckpGhsg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892772</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:30:29-04:00</created-at>
+          <title>Wes Harris, Arizona Tea Party Leader, Seeks To Recall John ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Long before Rep. Jean Schmidt (R-Ohio) uttered &amp;lt;a href=&amp;quot;http://www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt;shrieks of joy&amp;lt;/a&amp;gt; because of false reports that ...</excerpt>
+          <fti-names>'/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html&amp;quot;':24 '/a':30 'arizona':3 'editor':40 'fals':33 'harri':2 'hplink':26 'href':21 'huffington':37 'jean':14 'john':10 'joy':29 'leader':6 'long':11 'news':39 'ohio':18 'parti':5 'post':38 'r':17 'r-ohio':16 'recal':9 'rep':13 'report':34 'schmidt':15 'seek':7 'shriek':27 'target':25 'tea':4 'utter':19 'wes':1 'www.huffingtonpost.com':23 'www.huffingtonpost.com/2012/06/29/jean-schmidt-reacts-health-care-ruling_n_1638335.html':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/24/wes-harris-arizona-tea-party_n_1697793.html&amp;sa=U&amp;ei=e5IPULrDC6T50gHYz4DIDg&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNFGMJeCpLgSXpnrf5S2M5ND_OuoRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852769</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-23T02:25:30-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Tim Huelskamp: Added information to Huelskamp&amp;#39;s biography. 14. Rep. Richard Nugent: Added information about Nugent&amp;#39;s personal life. 15. Rep. Jean Schmidt: Removed entire &#8220;Armenian Genocide Denial issue&#8221; ...</excerpt>
+          <fti-names>'14':17 '15':28 'ad':11,21 'armenian':34 'biographi':16 'congression':2 'denial':36 'edit':3 'embarrass':1 'entir':33 'genocid':35 'huelskamp':10,14 'inform':12,22 'issu':37 'jacobsloan':38 'jean':30 'life':27 'member':5 'nugent':20,24 'page':7 'person':26 'remov':32 'rep':8,18,29 'richard':19 'schmidt':31 'tim':9 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.disinfo.com/2012/07/embarrassing-congressional-edits-to-members-wikipedia-pages/&amp;sa=U&amp;ei=T-4MUKfGLe642QWip8QS&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNGeskh9JHd3KFouw-DvOroIICxy3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16815819</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JacobSloan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412010</commentariable-id>
+          <created-at type="datetime">2012-07-21T00:20:20-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Tim Huelskamp: Added information to Huelskamp&amp;#39;s biography. 14. Rep. Richard Nugent: Added information about Nugent&amp;#39;s personal life. 15. Rep. Jean Schmidt: Removed entire &#8220;Armenian Genocide Denial issue&#8221; ...</excerpt>
+          <fti-names>'14':17 '15':28 'ad':11,21 'armenian':34 'biographi':16 'congression':2 'denial':36 'edit':3 'embarrass':1 'entir':33 'genocid':35 'huelskamp':10,14 'inform':12,22 'issu':37 'jacobsloan':38 'jean':30 'life':27 'member':5 'nugent':20,24 'page':7 'person':26 'remov':32 'rep':8,18,29 'richard':19 'schmidt':31 'tim':9 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.disinfo.com/2012/07/embarrassing-congressional-edits-to-members-wikipedia-pages/&amp;sa=U&amp;ei=8C0KUPKTHube2AWPhanqDw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNF8ZpLVFFJAm7zYzag7dc-UEre6nQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16781056</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JacobSloan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">18387</page-views-count>
+      <unaccented-name>Jean Schmidt</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.4196482716798</party-votes-percentage>
+        <abstains-percentage type="float">4.07213496218732</abstains-percentage>
+        <votes-most-often-with-id type="integer">412431</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">56</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">339</cosponsored-bills-passed-rank>
+        <abstains type="integer">70</abstains>
+        <cosponsored-bills type="integer">256</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">263</party-votes-percentage-rank>
+        <sponsored-bills type="integer">31</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400029</person-id>
+        <cosponsored-bills-rank type="integer">156</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">132</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1524</votes-republican-position>
+      <fax>202-225-5857</fax>
+      <blog-article-count type="integer">7045</blog-article-count>
+      <user-approval type="float">3.6551724137931</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">194</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://robbishop.house.gov/ZipAuth.aspx</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.4196482716798</with-party-percentage>
+      <lastname>Bishop</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>123 Cannon House Office Building</congress-office>
+      <firstname>Rob</firstname>
+      <website>http://robbishop.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1951-07-13</birthday>
+      <person-id type="integer">400029</person-id>
+      <phone>202-225-0453</phone>
+      <religion>Latter Day Saints</religion>
+      <votes-democratic-position type="integer">362</votes-democratic-position>
+      <metavid-id>Rob_Bishop</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:30:29-04:00</created-at>
+          <title>AMA: Department Of Interior Trying To Resurrect &quot;Wild Lands&quot; Policy</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...funds to implement the Wild Lands land-use policy to manage land as if it had been designated as Wilderness. On Aug. 2, U.S. Rep. Rob Bishop (R-Utah) and U.S. Sen. Orrin Hatch (R-Utah) announced that Wild Lands has been revived. A news release from Bish</excerpt>
+          <fti-names>'2':34 'ama':1 'announc':50 'aug':33 'bish':61 'bishop':38 'depart':2 'design':29 'fund':11 'hatch':46 'implement':13 'interior':4 'land':9,16,18,23,53 'land-us':17 'manag':22 'news':58 'orrin':45 'polici':10,20 'r':40,48 'r-utah':39,47 'race':63 'releas':59 'rep':36 'resurrect':7 'reviv':56 'road':62 'rob':37 'sen':44 'tri':5 'u.s':35,43 'use':19 'utah':41,49 'wild':8,15,52 'wilder':31 'world':64</fti-names>
+          <source-url>http://www.roadracingworld.com/</source-url>
+          <url>http://www.roadracingworld.com/news/article/?lnk=rss&amp;article=49250</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972125</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Road Racing World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:34:01-04:00</created-at>
+          <title>ATK loses out in high-stakes race for space money</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...project. &quot;This is very disappointing and it comes from an administration, to be honest, that has been disappointing,&quot; said Rep. Rob Bishop, R-Utah, injecting the possibility that politics played a role in the selection of the companies competing with AT</excerpt>
+          <fti-names>'administr':22 'atk':1 'bishop':33 'come':19 'compani':50 'compet':51 'deseret':54 'disappoint':16,29 'high':6 'high-stak':5 'honest':25 'inject':37 'lose':2 'money':11 'news':55 'play':42 'polit':41 'possibl':39 'project':12 'r':35 'r-utah':34 'race':8 'rep':31 'rob':32 'role':44 'said':30 'select':47 'space':10 'stake':7 'utah':36</fti-names>
+          <source-url>http://deseretnews.com/</source-url>
+          <url>http://www.deseretnews.com/article/865560086/ATK-loses-out-in-high-stakes-race-for-space-money.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16971483</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Deseret News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:33:58-04:00</created-at>
+          <title>Rep. Rob Bishop Disappointed by Latest NASA Contract Decision</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rob Bishop (UT-01) today released the following statement in response to NASA's decision to exclude ATK from the companies awarded the contract for the Commercial Crew Integrated Capability (CCiCap) initiative: &quot;I am disappointed and disheartened by the</excerpt>
+          <fti-names>'-01':13 'atk':27 'award':31 'bishop':3,11 'capabl':39 'ccicap':40 'commerci':36 'compani':30 'contract':8,33 'crew':37 'decis':9,24 'disappoint':4,44 'dishearten':46 'exclud':26 'follow':17 'initi':41 'integr':38 'latest':6 'nasa':7,22 'ref':50 'releas':15 'rep':1 'respons':20 'rob':2,10 'space':49 'statement':18 'today':14 'ut':12</fti-names>
+          <source-url>http://www.spaceref.com/</source-url>
+          <url>http://spaceref.com/news/viewpr.html?pid=38039</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16971481</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Space Ref</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:34:02-04:00</created-at>
+          <title>House votes against adjourning for recess</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...by the lack of consistent justification for their votes. &quot;The rationale for doing it was all over the place,&quot; Rep. Rob Bishop, R-Utah, told The Hill. After the vote, Minority Leader Nancy Pelosi , D-Calif., cited the farm bill and other issues, such as </excerpt>
+          <fti-names>'adjourn':4 'bill':48 'bishop':28 'calif':44 'cite':45 'consist':11 'd':43 'd-calif':42 'farm':47 'hill':34 'hous':1 'intern':56 'issu':51 'justif':12 'lack':9 'leader':39 'minor':38 'nanci':40 'pelosi':41 'place':25 'press':55 'r':30 'r-utah':29 'rational':17 'recess':6 'rep':26 'rob':27 'told':32 'unit':54 'utah':31 'vote':2,15,37</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://www.upi.com/Top_News/US/2012/08/03/House-votes-against-adjourning-for-recess/UPI-86101343996190/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971485</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:34:02-04:00</created-at>
+          <title>&#8216;Wild Lands 2.0&#8242;: Defeated Salazar Policy Resurrected in Back-Door BLM Move</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Wild Lands policy that was killed by Congress in April 2011. Bureau of Land Management manuals uncovered by Rep. Rob Bishop (R-Utah) and Sen. Orrin Hatch (R-Utah) include language nearly identical to the draft proposal put forth by Interior Secretary Ke</excerpt>
+          <fti-names>'2.0':3 '2011':24 'april':23 'back':10 'back-door':9 'bishop':34 'blm':12 'bureau':25 'congress':21 'defeat':4 'door':11 'draft':51 'forth':54 'hatch':41 'ident':48 'includ':45 'interior':56 'ke':58 'kill':19 'land':2,15,27 'languag':46 'manag':28 'manual':29 'media':60 'move':13 'near':47 'orrin':40 'pajama':59 'polici':6,16 'propos':52 'put':53 'r':36,43 'r-utah':35,42 'rep':32 'resurrect':7 'rob':33 'salazar':5 'secretari':57 'sen':39 'uncov':30 'utah':37,44 'wild':1,14</fti-names>
+          <source-url>http://pajamasmedia.com/</source-url>
+          <url>http://pjmedia.com/blog/wild-lands-2-0-defeated-salazar-policy-resurrected-in-back-door-blm-move/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971484</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pajamas Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:34:01-04:00</created-at>
+          <title>Lawmakers say controversial 'Wild Lands' policy being resurrected</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...implement the Wild Lands land-use policy to manage land as if it had been designated as Wilderness. On Aug. 2, U.S. Rep. Rob Bishop (R-Utah) and U.S. Sen. Orrin Hatch (R-Utah) announced that Wild Lands has been revived. A news release from Bishop's offi</excerpt>
+          <fti-names>'2':30 'announc':46 'aug':29 'bike':61 'bishop':34,57 'controversi':3 'design':25 'hatch':42 'implement':9 'inter':60 'land':5,12,14,19,49 'land-us':13 'lawmak':1 'manag':18 'news':54 'offi':59 'orrin':41 'polici':6,16 'r':36,44 'r-utah':35,43 'releas':55 'rep':32 'resurrect':8 'reviv':52 'rob':33 'say':2 'sen':40 'u.s':31,39 'uk':62 'use':15 'utah':37,45 'wild':4,11,48 'wilder':27</fti-names>
+          <source-url>http://www.inter-bike.co.uk/</source-url>
+          <url>http://www.inter-bike.co.uk/motorcycle-news/motorcycle-industry-news/12291-lawmakers-say-controversial-wild-lands-policy-being-resurrected.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971482</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inter Bike UK</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:42:24-04:00</created-at>
+          <title>Utah congressmen say Medicaid expansion up to governor</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...least publicly. &quot;That&#8217;s the nice thing about federalism, is that it delegates those kind of decisions to the states,&quot; said Rep. Rob Bishop, R-Utah. &quot;It&#8217;s not up to us congressmen to make those decisions, but I&#8217;ll stand by whatever the governor dec</excerpt>
+          <fti-names>'bishop':32 'congressmen':2,42 'dec':55 'decis':25,46 'deleg':21 'expans':5 'feder':17 'governor':8,54 'kind':23 'lake':57 'least':9 'll':49 'make':44 'medicaid':4 'nice':14 'public':10 'r':34 'r-utah':33 'rep':30 'rob':31 'said':29 'salt':56 'say':3 'stand':50 'state':28 'thing':15 'tribun':58 'us':41 'utah':1,35 'whatev':52</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/politics/54617814-90/care-expansion-federal-governor.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970396</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:42:20-04:00</created-at>
+          <title>Lawmakers say controversial &#8216;Wild Lands&#8217; policy being resurrected</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...funds to implement the Wild Lands land-use policy to manage land as if it had been designated as Wilderness. On Aug. 2, U.S. Rep. Rob Bishop (R-Utah) and U.S. Sen. Orrin Hatch (R-Utah) announced that Wild Lands has been revived. A news release from Bish</excerpt>
+          <fti-names>'2':32 'announc':48 'aug':31 'bish':59 'bishop':36 'controversi':3 'design':27 'file':62 'fund':9 'hatch':44 'implement':11 'land':5,14,16,21,51 'land-us':15 'lawmak':1 'manag':20 'news':56 'orrin':43 'polici':6,18 'r':38,46 'r-utah':37,45 'releas':57 'rep':34 'resurrect':8 'reviv':54 'rider':61 'rob':35 'say':2 'sen':42 'u.s':33,41 'use':17 'utah':39,47 'wild':4,13,50 'wilder':29</fti-names>
+          <source-url>http://www.theriderfiles.com/</source-url>
+          <url>http://www.theriderfiles.com/?p=18472</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970395</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Rider Files</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:34-04:00</created-at>
+          <title>Guv candidate Cooke: I can better fight for Hill Air Force Base</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the mission at Hill if elected. Herbert&#8217;s news release included comments by Utah Republicans Sen. Orrin Hatch and Rep. Rob Bishop, who supported Herbert&#8217;s efforts for the base. The governor, Hatch said, has been &quot;instrumental in the mission to keep </excerpt>
+          <fti-names>'air':10 'base':12,42 'better':6 'bishop':34 'candid':2 'comment':24 'cook':3 'effort':39 'elect':18 'fight':7 'forc':11 'governor':44 'guv':1 'hatch':30,45 'herbert':19,37 'hill':9,16 'includ':23 'instrument':49 'keep':54 'lake':56 'mission':14,52 'news':21 'orrin':29 'releas':22 'rep':32 'republican':27 'rob':33 'said':46 'salt':55 'sen':28 'support':36 'tribun':57 'utah':26</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/politics/54610222-90/force-base-hill-cooke.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969501</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:34:01-04:00</created-at>
+          <title>County officials want bigger role in managing public lands</title>
+          <contains-term>congress</contains-term>
+          <excerpt>All five El Paso County commissioners &#8212;Clark, Amy Lathen, Peggy Littleton, Dennis Hisey and Darryl Glenn &#8212; signed a letter to subcommittee chairman Rob Bishop and ranking ... is sponsored by Colorado Congressman Scott Tipton and will soon be under ...</excerpt>
+          <fti-names>'ami':17 'bigger':4 'bishop':33 'chairman':31 'clark':16 'colorado':39,48 'commission':15 'congressman':40 'counti':1,14 'darryl':24 'denni':21 'el':12 'five':11 'gazett':50 'glenn':25 'hisey':22 'land':9 'lathen':18 'letter':28 'littleton':20 'manag':7 'offici':2 'paso':13 'peggi':19 'public':8 'rank':35 'rob':32 'role':5 'scott':41 'sign':26 'soon':45 'sponsor':37 'spring':49 'subcommitte':30 'tipton':42 'want':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.gazette.com/articles/county-142344-role-lands.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T18:13:07-04:00</date>
+          <id type="integer">16919921</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Colorado Springs Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Rob Bishop [R, UT-1]</name>
+      <bioguide-id>B001250</bioguide-id>
+      <total-session-votes type="integer">1649</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>CongressmanBishop</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:15-04:00</created-at>
+          <title>Texas Insider &#187; ObamaCare Update: Thursday 10a.m. EST ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Rep. Tim Walberg (MI-07): Job-Creating House Bills Deserve Votes in Senate; The Daily Telegram, June 18. Rep. Rob Bishop (UT-01): Bolstering Border Security on Federal Lands; The Hill, June 19. Rep. Michele Bachmann ...</excerpt>
+          <fti-names>'-01':31 '-07':12 '10a.m':6 '18':26 '19':41 'admin':45 'bachmann':44 'bill':17 'bishop':29 'bolster':32 'border':33 'creat':15 'daili':23 'deserv':18 'est':7 'feder':36 'hill':39 'hous':16 'insid':2 'job':14 'job-creat':13 'june':25,40 'land':37 'mi':11 'michel':43 'obamacar':3 'rep':8,27,42 'rob':28 'secur':34 'senat':21 'telegram':24 'texa':1 'thursday':5 'tim':9 'updat':4 'ut':30 'vote':19 'walberg':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texasinsider.org/%3Fp%3D64315&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHnsJ4s7g14iecd6CdOYg437qOctA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16190136</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:18-04:00</created-at>
+          <title>Bill Would Increase Border Patrol Access to Sensitive Federal Lands ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;Border security and environmental stewardship are not mutually exclusive. Through common sense and collaborative efforts, we can achieve these dual missions.&#8221; Rep. Rob Bishop, R-Utah, chairman of the Subcommittee on ...</excerpt>
+          <fti-names>'access':6 'achiev':28 'bill':1 'bishop':34 'border':4,11 'borderissuesmex':43 'chairman':38 'collabor':24 'common':21 'dual':30 'effort':25 'environment':14 'exclus':19 'feder':9 'increas':3 'land':10 'mission':31 'mutual':18 'patrol':5 'r':36 'r-utah':35 'rep':32 'rob':33 'secur':12 'sens':22 'sensit':8 'stewardship':15 'subcommitte':41 'utah':37 'would':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://borderissues.us/2012/06/23/bill-would-increase-border-patrol-access-to-sensitive-federal-lands-national-parks/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNHdOxn2go70RPHjy_SCxu6nAD3d7w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-23T01:00:00-04:00</date>
+          <id type="integer">16190143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>borderissuesmex</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:18-04:00</created-at>
+          <title>Grijalva Speaks Against Republican Attempt to Roll Back ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Title XIV was formerly H.R. 1505, a standalone bill introduced by Rep. Rob Bishop (R-Utah), who chairs the House Subcommittee on National Parks, Forests and Public Lands. Rep. Grijalva is the ranking member of the ...</excerpt>
+          <fti-names>'1505':14 'attempt':5 'back':8 'bill':17 'bishop':22 'chair':27 'forest':34 'former':12 'grijalva':1,39 'h.r':13 'hous':29 'introduc':18 'land':37 'member':43 'nation':32 'park':33 'press':46 'public':36 'r':24 'r-utah':23 'rank':42 'rep':20,38 'republican':4 'rob':21 'roll':7 'speak':2 'standalon':16 'subcommitte':30 'titl':9 'utah':25 'xiv':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.standwithraul.com/grijalva-speaks-against-republican-attempt-to-roll-back-environmental-laws-within-100-miles-of-u-s-borders-gop-house-approves/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNGLRTanxfNs4xhYdEekWz__cKfkjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-22T01:00:00-04:00</date>
+          <id type="integer">16190142</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:16-04:00</created-at>
+          <title>AEI Citizenship &#8211; House Appropriations Subcommittee denies ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Rob Bishop (R-Utah), chairman of the House Natural Resources Subcommittee on National Parks, Forests and Public Lands, which has held a hearing on the project, said the decision not to further fund the commission ...</excerpt>
+          <fti-names>'aei':1 'appropri':4 'bbowdr':44 'bishop':9 'chairman':13 'citizenship':2 'commiss':43 'decis':37 'deni':6 'forest':23 'fund':41 'hear':31 'held':29 'hous':3,16 'land':26 'nation':21 'natur':17 'park':22 'project':34 'public':25 'r':11 'r-utah':10 'rep':7 'resourc':18 'rob':8 'said':35 'subcommitte':5,19 'utah':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.citizenship-aei.org/2012/06/house-appropriations-subcommittee-denies-eisenhower-memorial-funding/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFaRd2ObiSmKnydLppWS0-CvCMarA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16190139</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>bbowdre</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:18-04:00</created-at>
+          <title>House votes to ease environmental rules in 100-mile border buffer ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;This bill specifically protects legal uses, including recreation, and specifically prohibits Border Patrol from limiting public access,&#8221; said Rep. Rob Bishop, R-Utah, a lead sponsor of the measure. He said the bill does nothing ...</excerpt>
+          <fti-names>'100':8 'access':28 'bill':13,45 'bishop':32 'border':10,23 'buffer':11 'crane':49 'eas':4 'environment':5 'hous':1 'includ':18 'lead':37 'legal':16 'limit':26 'measur':41 'mile':9 'noth':47 'patrol':24 'prohibit':22 'protect':15 'public':27 'r':34 'r-utah':33 'recreat':19 'rep':30 'rob':31 'rule':6 'said':29,43 'specif':14,21 'sponsor':38 'steve':48 'use':17 'utah':35 'vote':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cronkitenewsonline.com/2012/06/house-votes-to-ease-environmental-rules-within-100-miles-of-borders/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNHaoCMMCdfqIh8UO3O2RfQZkMSrag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16190144</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Crane</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:16-04:00</created-at>
+          <title>U.S. House: Bulldozing environmental laws | Strange Bedfellows ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In Montana, Glacier National Park and the Blackfeet Indiana Reservation fall along the border. &#8220;Drug traffickers couldn&amp;#39;t care less about environmental sensibilities,&#8221; Rep. Rob Bishop, R-Utah, said during House floor debate.</excerpt>
+          <fti-names>'along':19 'bedfellow':7 'bishop':33 'blackfeet':15 'border':21 'bulldoz':3 'care':26 'connelli':43 'couldn':24 'debat':41 'drug':22 'environment':4,29 'fall':18 'floor':40 'glacier':10 'hous':2,39 'indiana':16 'joel':42 'law':5 'less':27 'montana':9 'nation':11 'park':12 'r':35 'r-utah':34 'rep':31 'reserv':17 'rob':32 'said':37 'sensibl':30 'strang':6 'traffick':23 'u.s':1 'utah':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.seattlepi.com/seattlepolitics/2012/06/19/u-s-house-bulldozing-environmental-laws/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEHXJ7OSP5jzULSEj0oIbf7BaMD3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16190137</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joel Connelly</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:14-04:00</created-at>
+          <title>Dems attack Bishop border security bill as ruse to gut protections ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington &#8226; Border patrol agents would be able to legally bypass major environmental laws within 100 miles of America&amp;#39;s borders under Rep. Rob Bishop&amp;#39;s legislation passed by the House on Tuesday that brought a swift ...</excerpt>
+          <fti-names>'100':26 'abl':18 'agent':15 'america':29 'attack':2 'bill':6 'bishop':3,35 'border':4,13,31 'brought':45 'bypass':21 'dem':1 'environment':23 'gut':10 'hous':41 'law':24 'legal':20 'legisl':37 'major':22 'mile':27 'pass':38 'patrol':14 'protect':11 'rep':33 'rob':34 'ruse':8 'secur':5 'swift':47 'tuesday':43 'washington':12 'within':25 'would':16 'www.sltrib.com':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sltrib.com/sltrib/politics/54334367-90/border-bishop-laws-lands.html.csp&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFYmJ0LIiH3vahod9Dd15lg7iWiQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16190135</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sltrib.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:17-04:00</created-at>
+          <title>Rep. Rob Bishop Responds to New Fracking Regulations for Public ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON&#8211;House Natural Resources National Parks, Forests, and Public Lands Subcommittee Chairman Rob Bishop (UT-01) issued the following response to the Department of Interior&amp;#39;s release of new regulations ...</excerpt>
+          <fti-names>'-01':26 'bishop':3,24,41 'chairman':22 'counsel':43 'depart':33 'follow':29 'forest':17 'frack':7 'hous':12 'interior':35 'issu':27 'land':20 'nation':15 'natur':13 'new':6,39 'park':16 'public':10,19 'regul':8,40 'releas':37 'rep':1 'resourc':14 'respond':4 'respons':30 'rob':2,23 'subcommitte':21 'ut':25 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.standard.net/rob-bishop/2012/05/04/rep-rob-bishop-responds-to-new-fracking-regulations-for-public-lands/&amp;sa=U&amp;ei=aR_pT6zMLIq42wWY9MD8DQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNHBTLrfI2LmWiqqckeOXNYiekFcUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-04T01:00:00-04:00</date>
+          <id type="integer">16190141</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bishop's Counsel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-05-02T22:33:07-04:00</created-at>
+          <title>Stop SkiLink &#171; hey deb henry&#8230;</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Utah Senator Hatch and Utah Congressman Rob Bishop simultaneously filed the Wasatch Range Recreation Access Enhancement Act in both the House (HR 3452) and Senate (S 1883) to allow Talisker to have their way ...</excerpt>
+          <fti-names>'1883':32 '3452':28 'access':20 'act':22 'allow':34 'bishop':13 'congressman':11 'deb':4,40 'enhanc':21 'file':15 'hatch':8 'henri':5,41 'hey':3 'hous':26 'hr':27 'rang':18 'recreat':19 'rob':12 'senat':7,30 'simultan':14 'skilink':2 'stop':1 'talisk':35 'utah':6,10 'wasatch':17 'way':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debhenry.wordpress.com/2012/05/02/stop-skilink/&amp;sa=U&amp;ei=YO6hT8_EHoGe2AXt1qnSCA&amp;ved=0CEcQmAEwBw&amp;usg=AFQjCNF3GcRW8VsdPkDy0vXxeYbdibT_8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-02T01:00:00-04:00</date>
+          <id type="integer">14994254</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Deb Henry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400029</commentariable-id>
+          <created-at type="datetime">2012-05-02T22:33:06-04:00</created-at>
+          <title>Border Wall in the News: Some see border security bill as threat to ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The bill, sponsored by U.S. Rep. Rob Bishop of Utah with strong Republican support, is being touted as a necessary step in securing the nation&amp;#39;s borders. But it is also being roundly condemned as a thinly veiled attempt to ...</excerpt>
+          <fti-names>'also':44 'attempt':52 'bill':10,15 'bishop':21 'border':1,8,40,55 'condemn':47 'nation':38 'necessari':33 'news':5 'rep':19 'republican':26 'rob':20 'round':46 'secur':9,36 'see':7 'sponsor':16 'step':34 'strong':25 'support':27 'thin':50 'threat':12 'tout':30 'u.s':18 'utah':23 'veil':51 'wall':2,56</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://borderwallinthenews.blogspot.com/2012/05/some-see-border-security-bill-as-threat.html&amp;sa=U&amp;ei=YO6hT8_EHoGe2AXt1qnSCA&amp;ved=0CDsQmAEwBA&amp;usg=AFQjCNFDxhgl8T_aMBIhq8EGiRTuadv5ew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-01T01:00:00-04:00</date>
+          <id type="integer">14994251</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NO BORDER WALL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22064</page-views-count>
+      <unaccented-name>Rob Bishop</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

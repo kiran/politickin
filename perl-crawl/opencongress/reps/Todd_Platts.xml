@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-31T13:01:09-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">87.4700239808153</party-votes-percentage>
+        <abstains-percentage type="float">2.96684118673647</abstains-percentage>
+        <votes-most-often-with-id type="integer">400147</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">152</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">51</abstains>
+        <cosponsored-bills type="integer">285</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">355</party-votes-percentage-rank>
+        <sponsored-bills type="integer">9</sponsored-bills>
+        <votes-least-often-with-id type="integer">400227</votes-least-often-with-id>
+        <person-id type="integer">400321</person-id>
+        <cosponsored-bills-rank type="integer">46</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412438</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">89</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1459</votes-republican-position>
+      <fax>202-226-1000</fax>
+      <bioguide-id>P000585</bioguide-id>
+      <blog-article-count type="integer">4415</blog-article-count>
+      <user-approval type="float">5.8125</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">128</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/platts/email.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">87.4700239808153</with-party-percentage>
+      <lastname>Platts</lastname>
+      <middlename>R.</middlename>
+      <congress-office>2455 Rayburn House Office Building</congress-office>
+      <firstname>Todd</firstname>
+      <website>http://house.gov/platts/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1962-03-05</birthday>
+      <person-id type="integer">400321</person-id>
+      <phone>202-225-5836</phone>
+      <religion>Episcopalian</religion>
+      <votes-democratic-position type="integer">545</votes-democratic-position>
+      <metavid-id>Todd_Russell_Platts</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:59-04:00</created-at>
+          <title>A Romney-Ryan Ticket?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...were joined by Reps. Justin Amash (R-MI), Joe Barton (R-TX), Jimmy Duncan (R-TN), Chris Gibson (R-NY), Tim Huelskamp (R-KS), Todd Platts (R-PA) and Ed Whitfield (R-KY). If Romney taps Ryan, Democrats would fall over themselves to make the Ryan budget th</excerpt>
+          <fti-names>'amash':11 'barton':16 'budget':59 'chris':25 'democrat':50 'duncan':21 'ed':41 'fall':52 'fox':61 'gibson':26 'huelskamp':31 'jimmi':20 'joe':15 'join':7 'justin':10 'ks':34 'ky':45 'make':56 'mi':14 'news':62 'ny':29 'pa':39 'platt':36 'r':13,18,23,28,33,38,44 'r-ki':43 'r-ks':32 'r-mi':12 'r-ni':27 'r-pa':37 'r-tn':22 'r-tx':17 'rep':9 'romney':3,47 'romney-ryan':2 'ryan':4,49,58 'tap':48 'th':60 'ticket':5 'tim':30 'tn':24 'todd':35 'tx':19 'whitfield':42 'would':51</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://politics.blogs.foxnews.com/2012/08/07/romney-ryan-ticket</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973542</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:06:09-04:00</created-at>
+          <title>The misery of the moderate Republican</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The frustration of one moderate Republican House member boiled over today, with Ohio Rep. Steve LaTourette making a surprise ... Another moderate Republican, Pennsylvania&#8217;s Todd Platts, announced earlier this year that he&#8217;s retiring after ...</excerpt>
+          <fti-names>'announc':33 'anoth':26 'boil':15 'earlier':34 'frustrat':8 'hous':13 'latourett':22 'make':23 'member':14 'miseri':2 'moder':5,11,27 'ohio':19 'one':10 'pennsylvania':29 'platt':32 'rep':20 'republican':6,12,28 'retir':40 'salon':42 'steve':21 'surpris':25 'today':17 'todd':31 'year':36</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.salon.com/2012/07/31/the_misery_of_the_moderate_republican/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T12:53:24-04:00</date>
+          <id type="integer">16967091</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:40:35-04:00</created-at>
+          <title>With deadline looming, members of local Green and Libertarian parties make push for signatures</title>
+          <contains-term>congress</contains-term>
+          <excerpt>And he's also been helping Mike Koffenberger, of Stewartstown, get enough signatures to appear on the ballot as the Libertarian candidate in the 4th Congressional District race for retiring Congressman Todd Platts' seat. Members of the York ...</excerpt>
+          <fti-names>'4th':39 'also':18 'appear':29 'ballot':32 'candid':36 'congression':40 'congressman':45 'deadlin':2 'district':41 'enough':26 'get':25 'green':7 'help':20 'koffenberg':22 'libertarian':9,35 'local':6 'loom':3 'make':11 'member':4,49 'mike':21 'parti':10 'platt':47 'push':12 'race':42 'retir':44 'seat':48 'signatur':14,27 'stewartstown':24 'todd':46 'ydr.com':53 'york':52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ydr.com/rss/ci_21181983?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T18:40:34-04:00</date>
+          <id type="integer">16949396</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ydr.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:59:19-04:00</created-at>
+          <title>With deadline looming, members of local Green and Libertarian parties make push for signatures</title>
+          <contains-term>congress</contains-term>
+          <excerpt>And he's also been helping Mike Koffenberger, of Stewartstown, get enough signatures to appear on the ballot as the Libertarian candidate in the 4th Congressional District race for retiring Congressman Todd Platts' seat. Members of the York ...</excerpt>
+          <fti-names>'4th':39 'also':18 'appear':29 'ballot':32 'candid':36 'congression':40 'congressman':45 'deadlin':2 'district':41 'enough':26 'get':25 'green':7 'help':20 'koffenberg':22 'libertarian':9,35 'local':6 'loom':3 'make':11 'member':4,49 'mike':21 'parti':10 'platt':47 'push':12 'race':42 'retir':44 'seat':48 'signatur':14,27 'stewartstown':24 'todd':46 'ydr.com':53 'york':52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ydr.com/politics/ci_21181983/deadline-looming-members-local-green-and-libertarian-parties</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T18:40:34-04:00</date>
+          <id type="integer">16930671</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ydr.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:44-04:00</created-at>
+          <title>Our take: York County's brand new radio system will soon have to be replaced</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>County officials estimate that will cost $30 million. Oh great, just what we need! But U.S. Rep. Todd Platts, R-York County, who voted for the law, explains the frequency shift was part of a recommendation by the 9/11 Commission Report.</excerpt>
+          <fti-names>'30':22 '9/11':55 'brand':6 'commiss':56 'cost':21 'counti':4,16,38 'estim':18 'explain':44 'frequenc':46 'great':25 'law':43 'million':23 'need':29 'new':7 'offici':17 'oh':24 'part':49 'platt':34 'r':36 'r-york':35 'radio':8 'recommend':52 'rep':32 'replac':15 'report':57 'shift':47 'soon':11 'system':9 'take':2 'todd':33 'u.s':31 'vote':40 'ydr.com':58 'york':3,37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ydr.com/opinion/ci_21162072/our-take-york-countys-brand-new-radio-system?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T07:37:13-04:00</date>
+          <id type="integer">16923100</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ydr.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:45:31-04:00</created-at>
+          <title>Our take: York County's brand new radio system will soon have to be replaced</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>County officials estimate that will cost $30 million. Oh great, just what we need! But U.S. Rep. Todd Platts, R-York County, who voted for the law, explains the frequency shift was part of a recommendation by the 9/11 Commission Report.</excerpt>
+          <fti-names>'30':22 '9/11':55 'brand':6 'commiss':56 'cost':21 'counti':4,16,38 'estim':18 'explain':44 'frequenc':46 'great':25 'law':43 'million':23 'need':29 'new':7 'offici':17 'oh':24 'part':49 'platt':34 'r':36 'r-york':35 'radio':8 'recommend':52 'rep':32 'replac':15 'report':57 'shift':47 'soon':11 'system':9 'take':2 'todd':33 'u.s':31 'vote':40 'ydr.com':58 'york':3,37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ydr.com/opinion/ci_21162072/our-take-york-countys-brand-new-radio-system</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T07:37:13-04:00</date>
+          <id type="integer">16891949</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ydr.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-26T00:11:06-04:00</created-at>
+          <title>An even better tourist address?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Federal lawmakers from Pennsylvania are trying. U.S. Rep. Todd Platts (R., York), whose district includes Gettysburg, has sponsored House legislation. In the Senate, Bob Casey (D., Pa.) introduced a companion bill, to which Pat Toomey (R.,</excerpt>
+          <fti-names>'address':5 'better':3 'bill':36 'bob':29 'casey':30 'companion':35 'd':31 'daili':43 'district':19 'even':2 'feder':6 'gettysburg':21 'hous':24 'includ':20 'introduc':33 'lawmak':7 'legisl':25 'news':44 'pa':32 'pat':39 'pennsylvania':9 'philadelphia':42 'platt':15 'r':16,41 'rep':13 'senat':28 'sponsor':23 'todd':14 'toomey':40 'tourist':4 'tri':11 'u.s':12 'whose':18 'york':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/20120723_An_even_better_tourist_address_.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T02:54:26-04:00</date>
+          <id type="integer">16860193</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-26T00:10:56-04:00</created-at>
+          <title>Gettysburg wants federal government to take over their historic train station</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Federal lawmakers from Pennsylvania are trying. U.S. Rep. Todd Platts, R-York, whose district includes Gettysburg, has sponsored legislation in the House. Sen. Bob Casey, D-Pa., introduced a companion bill in the Senate and Sen. Pat Toomey ...</excerpt>
+          <fti-names>'bill':44 'bob':36 'casey':37 'companion':43 'd':39 'd-pa':38 'district':26 'feder':3,12 'gettysburg':1,28 'govern':4 'histor':9 'hous':34 'includ':27 'introduc':41 'lawmak':13 'legisl':31 'pa':40 'pat':50 'pennsylvania':15 'platt':21 'r':23 'r-york':22 'rep':19 'sen':35,49 'senat':47 'sponsor':30 'star':52 'station':11 'stripe':54 'take':6 'todd':20 'toomey':51 'train':10 'tri':17 'u.s':18 'want':2 'whose':25 'york':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.stripes.com/mobile/news/gettysburg-wants-federal-government-to-take-over-their-historic-train-station-1.183650</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:42:51-04:00</date>
+          <id type="integer">16860192</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Stars and Stripes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:10:05-04:00</created-at>
+          <title>An even better tourist address?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...the National Park Service as part of Gettysburg National Military Park. Federal lawmakers from Pennsylvania are trying. U.S. Rep. Todd Platts (R., York), whose district includes Gettysburg, has sponsored House legislation. In the Senate, Bob Casey (D., </excerpt>
+          <fti-names>'address':5 'better':3 'bob':40 'casey':41 'd':42 'district':30 'even':2 'feder':17 'gettysburg':13,32 'hous':35 'includ':31 'inquir':44 'lawmak':18 'legisl':36 'militari':15 'nation':7,14 'park':8,16 'part':11 'pennsylvania':20 'philadelphia':43 'platt':26 'r':27 'rep':24 'senat':39 'servic':9 'sponsor':34 'todd':25 'tourist':4 'tri':22 'u.s':23 'whose':29 'york':28</fti-names>
+          <source-url>http://www.philly.com/inquirer/</source-url>
+          <url>http://www.philly.com/philly/news/local/20120723_An_even_better_tourist_address_.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16822918</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Inquirer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:47:45-04:00</created-at>
+          <title>Gettysburg wants federal government to take over their historic train station</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Park Service as part of Gettysburg National Military Park. Federal lawmakers from Pennsylvania are trying. U.S. Rep. Todd Platts, R-York, whose district includes Gettysburg, has sponsored legislation in the House. Sen. Bob Casey, D-Pa., introduced a com</excerpt>
+          <fti-names>'bob':45 'casey':46 'com':52 'd':48 'd-pa':47 'district':35 'feder':3,21 'gettysburg':1,17,37 'govern':4 'histor':9 'hous':43 'includ':36 'introduc':50 'lawmak':22 'legisl':40 'militari':19 'nation':18 'pa':49 'park':12,20 'part':15 'pennsylvania':24 'platt':30 'r':32 'r-york':31 'rep':28 'sen':44 'servic':13 'sponsor':39 'star':53 'station':11 'stripe':55 'take':6 'todd':29 'train':10 'tri':26 'u.s':27 'want':2 'whose':34 'york':33</fti-names>
+          <source-url>http://www.stripes.com/</source-url>
+          <url>http://feeds.stripes.com/~r/starsandstripes/general/~3/4UQ5UurPYUY/gettysburg-wants-federal-government-to-take-over-their-historic-train-station-1.183650</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16972513</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Stars and Stripes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Todd Platts [R, PA-19]</name>
+      <total-session-votes type="integer">1668</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepToddPlatts</youtube-id>
+      <district>19</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:29-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Todd Platts [R, PA-19] Rep. Ted Poe [R, TX-2] Rep. Jared Polis [D, CO-2] Rep. Mike Pompeo [R, KS-4] Rep. Bill Posey [R, FL-15] Rep. Tom Price [R, GA-6] Rep. David Price [D, NC-4] Rep. Ben Quayle [R, AZ-3] Rep. Mike Quigley [D, IL-5] Rep.</excerpt>
+          <fti-names>'-15':39 '-19':15 '-2':21,27 '-3':57 '-4':33,51 '-5':63 '-6':45 'az':56 'ben':53 'bill':35 'co':26 'd':25,49,61 'david':47 'deadlin':5 'debt':1,10 'debtreliefmag.com':65 'fl':38 'ga':44 'homeown':7 'il':62 'jare':23 'ks':32 'law':4 'loom':9 'mike':29,59 'nc':50 'pa':14 'platt':12 'poe':18 'poli':24 'pompeo':30 'posey':36 'price':42,48 'quayl':54 'quigley':60 'r':13,19,31,37,43,55 'relief':2 'rep':16,22,28,34,40,46,52,58,64 'tax':3 'ted':17 'todd':11 'tom':41 'tx':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNEVzTK5hM_io2LxOxEWr2IV9Fd0yg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16489551</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:25-04:00</created-at>
+          <title>Tobin: Celebrate the Weekend by Boosting Access : Roll Call Opinion</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From left: Rep. Marlin Stutzman, Rep. Adam Kinzinger, Speaker John Boehner and Rep. Todd Platts applaud the start of the 51st Annual CQ Roll Call Congressional Baseball Game held Thursday night at Nationals Park.</excerpt>
+          <fti-names>'51st':31 'abbi':46 'abbylivingston@cqrollcall.com':45 'access':7 'adam':17 'annual':32 'applaud':26 'basebal':37 'boehner':21 'boost':6 'call':9,35 'celebr':2 'congression':36 'cq':33 'game':38 'held':39 'john':20 'kinzing':18 'left':12 'livingston':47 'marlin':14 'nation':43 'night':41 'opinion':10 'park':44 'platt':25 'rep':13,16,23 'roll':8,34 'speaker':19 'start':28 'stutzman':15 'thursday':40 'tobin':1 'todd':24 'weekend':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/tobin_celebrate_the_weekend_by_boosting_access-215915-1.html&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNHrZJ4bVtzxOBcZKLTOn60b44eMgg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16489547</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AbbyLivingston@cqrollcall.com (Abby Livingston)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:10-04:00</created-at>
+          <title>Former Rep. Richard Tonry of Louisiana Dead at 77 : Roll Call News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From left: Rep. Marlin Stutzman, Rep. Adam Kinzinger, Speaker John Boehner and Rep. Todd Platts applaud the start of the 51st Annual CQ Roll Call Congressional Baseball Game held Thursday night at Nationals Park.</excerpt>
+          <fti-names>'51st':33 '77':9 'adam':19 'annual':34 'applaud':28 'basebal':39 'boehner':23 'cahn':49 'call':11,37 'congression':38 'cq':35 'dead':7 'emili':48 'emilycahn@cqrollcall.com':47 'former':1 'game':40 'held':41 'john':22 'kinzing':20 'left':14 'louisiana':6 'marlin':16 'nation':45 'news':12 'night':43 'park':46 'platt':27 'rep':2,15,18,25 'richard':3 'roll':10,36 'speaker':21 'start':30 'stutzman':17 'thursday':42 'todd':26 'tonri':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/former_rep_richard_tonry_of_louisiana_dead_at_77-215926-1.html&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGkdpNuTZKFFNUDPjQkkpwlA_M0gA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16489542</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>EmilyCahn@cqrollcall.com (Emily Cahn)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:32-04:00</created-at>
+          <title>YDR Politics | Todd Platts weighs in on health care ruling, calls the ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Todd Platts has weighed in on the health care decision: &#8220;A narrow majority of the Supreme Court may have upheld the constitutionality of the health care law, but that does not change the fact that this law is ...</excerpt>
+          <fti-names>'call':11 'care':9,22,39 'chang':45 'congressman':13 'constitut':35 'court':30 'decis':23 'ed':52 'fact':47 'health':8,21,38 'law':40,50 'mahon':53 'major':26 'may':31 'narrow':25 'platt':4,15 'polit':2 'rule':10 'suprem':29 'todd':3,14 'upheld':33 'weigh':5,17 'ydr':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.yorkblog.com/ydrpolitics/2012/06/28/todd-platts-weighs-in-on-health-care-ruling-calls-the-law-bad-public-policy/&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNGoygKQH8llbS6xYENEEkJsuwtY2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16489553</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ed Mahon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:23-04:00</created-at>
+          <title>Blue Dog Dem Group Airs Pro-Platts Ad (Watch Video) | PoliticsPA</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Center Forward, a PAC that typically boosts Blue Dog Democrats, this week began a television campaign lauding Republican Rep. Todd Platts for his support of moderate policies to balance the budget.</excerpt>
+          <fti-names>'ad':9 'air':5 'balanc':41 'began':25 'blue':1,20 'boost':19 'budget':43 'campaign':28 'center':13 'dem':3 'democrat':22 'dog':2,21 'forward':14 'group':4 'keegan.gibson':44 'laud':29 'moder':38 'pac':16 'platt':8,33 'polici':39 'politicspa':12 'pro':7 'pro-platt':6 'rep':31 'republican':30 'support':36 'televis':27 'todd':32 'typic':18 'video':11 'watch':10 'week':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/blue-dog-dem-group-airs-pro-platts-ad-watch-video/37246/&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNES0LXiW5y1f3UUncqNSc8MJH1e1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16489545</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keegan.Gibson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:51:29-04:00</created-at>
+          <title>Howard Berman, Brad Sherman to Focus on Differences : Roll Call ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From left: Rep. Marlin Stutzman, Rep. Adam Kinzinger, Speaker John Boehner and Rep. Todd Platts applaud the start of the 51st Annual CQ Roll Call Congressional Baseball Game held Thursday night at Nationals Park.</excerpt>
+          <fti-names>'51st':31 'adam':17 'annual':32 'applaud':26 'basebal':37 'berman':2 'boehner':21 'brad':3 'call':10,35 'congression':36 'cq':33 'differ':8 'focus':6 'game':38 'held':39 'howard':1 'john':20 'kinzing':18 'kyle':46 'kyletrygstad@rollcall.com':45 'left':12 'marlin':14 'nation':43 'night':41 'park':44 'platt':25 'rep':13,16,23 'roll':9,34 'sherman':4 'speaker':19 'start':28 'stutzman':15 'thursday':40 'todd':24 'trygstad':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/issues/57_158/Howard-Berman-Brad-Sherman-Focus-on-Differences-California-215711-1.html&amp;sa=U&amp;ei=vLT7T66eD_Ds2AWfiOjTBg&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNHJt_rSVx_ECeVk-0oSv0XkbY2Avw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16489550</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>KyleTrygstad@rollcall.com (Kyle Trygstad)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:09:33-04:00</created-at>
+          <title>Both Pakistan, US cannot afford to ignore importance of ties: Khar ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>She was talking to a US Congressional delegation led by Representative Todd Platts, House Oversight and Government Reform Committee accompanied by Representative Stephen Lynch, Representative Glenn Thompson, ...</excerpt>
+          <fti-names>'accompani':31 'afford':5 'cannot':4 'committe':30 'congression':18 'correspond':41 'deleg':19 'glenn':37 'govern':28 'hous':25 'ignor':7 'import':8 'khar':11 'led':20 'lynch':35 'noreply@tribune.com.pk':39 'oversight':26 'pakistan':2 'platt':24 'reform':29 'repres':22,33,36 'stephen':34 'talk':14 'thompson':38 'tie':10 'todd':23 'us':3,17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tribune.com.pk/story/392981/both-pakistan-us-cannot-afford-to-ignore-importance-of-ties-khar/&amp;sa=U&amp;ei=ae3fT-q9Bcbc2AW9xZyNCg&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGLOQ58eU1phwN4-XtRAB3wOWVVjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">16041434</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>noreply@tribune.com.pk (Our Correspondent)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-05-26T23:22:53-04:00</created-at>
+          <title>The Hill: Issa May Not Have The Votes To Hold Holder In Contempt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The five with lockjaw are Reps. Todd Platts (R-Pa.), Mike Turner (R-Ohio), Connie Mack (R-Fla.), Tim Walberg (R-Mich.) and Patrick Meehan (R-Pa.). The ones who have so far declined to support Issa&amp;#39;s resolution are Rep.</excerpt>
+          <fti-names>'conni':30 'contempt':13 'declin':52 'far':51 'five':15 'fla':34 'hill':2 'hold':10 'holder':11 'issa':3,55 'lockjaw':17 'mack':31 'may':4 'meehan':42 'mich':39 'mike':25 'ohio':29 'one':47 'pa':24,45 'patrick':41 'platt':21 'r':23,28,33,38,44 'r-fla':32 'r-mich':37 'r-ohio':27 'r-pa':22,43 'rep':19,59 'resolut':57 'stranger':60 'support':54 'tim':35 'todd':20 'turner':26 'vote':8 'walberg':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://extranosalley.com/%3Fp%3D25446&amp;sa=U&amp;ei=DJ7BT-SZJ6jc2QXNq_ld&amp;ved=0CE0QmAEwCA&amp;usg=AFQjCNFsVn6UHydLQ80KI3r13XdIjs-S-g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15433383</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stranger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-05-26T23:22:53-04:00</created-at>
+          <title>THE GUTLESS RINOS WHO REFUSE TO HOLD RACIST | THE ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>If THESE are your Reps, call or email them and TELL THEM to shit or get off of the pot. They fail to back Issa, DUMP them next election. DID NOT BOTHER TO RESPOND! Rep. Todd Platts (R-Pa.) (HUGE RINO) TEA Party ...</excerpt>
+          <fti-names>'back':33 'bother':41 'call':15 'dump':35 'elect':38 'email':17 'fail':31 'g':55 'get':25 'gunni':54 'gutless':2 'hold':7 'huge':50 'issa':34 'next':37 'pa':49 'parti':53 'platt':46 'pot':29 'r':48 'r-pa':47 'racist':8 'refus':5 'rep':14,44 'respond':43 'rino':3,51 'shit':23 'tea':52 'tell':20 'todd':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theantiliberalzone.com/2012/05/24/the-gutless-rinos-who-refuse-to-hold-racist/&amp;sa=U&amp;ei=DJ7BT-SZJ6jc2QXNq_ld&amp;ved=0CD8QmAEwBQ&amp;usg=AFQjCNFwjo885xWMg6gCKEgXIjAvXLHbbg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15433380</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gunny G</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400321</commentariable-id>
+          <created-at type="datetime">2012-05-26T23:22:53-04:00</created-at>
+          <title>iOwnTheWorld.com &#187; Blog Archive &#187; Republicans Backing Off ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Not committed. Rep. Justin Amash (R-Mich.) &#8211; plans to hold off making his decision until afinal draft is put forward; Rep. Frank Guinta (R-N.H.) &#8211; nocomment. Did not respond. Rep. Todd Platts (R-Pa.) Rep. Mike Turner (R-Ohio) ...</excerpt>
+          <fti-names>'afin':23 'amash':11 'archiv':3 'back':5 'bigfurhat':51 'blog':2 'commit':8 'decis':21 'draft':24 'forward':27 'frank':29 'guinta':30 'h':34 'hold':17 'iowntheworld.com':1 'justin':10 'make':19 'mich':14 'mike':46 'n':33 'nocom':35 'ohio':50 'pa':44 'plan':15 'platt':41 'put':26 'r':13,32,43,49 'r-mich':12 'r-n':31 'r-ohio':48 'r-pa':42 'rep':9,28,39,45 'republican':4 'respond':38 'todd':40 'turner':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://iowntheworld.com/blog/%3Fp%3D134754&amp;sa=U&amp;ei=DJ7BT-SZJ6jc2QXNq_ld&amp;ved=0CDsQmAEwBA&amp;usg=AFQjCNEq-xJ5fbnrrPVs0P9OMXGCpaTqkw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15433379</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>BigFurHat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">18680</page-views-count>
+      <unaccented-name>Todd Platts</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

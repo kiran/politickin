@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.3490701001431</party-votes-percentage>
+        <abstains-percentage type="float">18.673647469459</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">80</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">146</cosponsored-bills-passed-rank>
+        <abstains type="integer">321</abstains>
+        <cosponsored-bills type="integer">334</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">92</party-votes-percentage-rank>
+        <sponsored-bills type="integer">17</sponsored-bills>
+        <votes-least-often-with-id type="integer">412431</votes-least-often-with-id>
+        <person-id type="integer">400378</person-id>
+        <cosponsored-bills-rank type="integer">187</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">30</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">263</votes-republican-position>
+      <blog-article-count type="integer">9202</blog-article-count>
+      <fax>202-225-7822</fax>
+      <user-approval type="float">2.78260869565217</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">116</oc-users-tracking>
+      <contact-webform>http://www.louise.house.gov/index.php?option=com_content&amp;task=view&amp;id=506&amp;Itemid=150</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.3490701001431</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Slaughter</lastname>
+      <congress-office>2469 Rayburn House Office Building</congress-office>
+      <middlename>McIntosh</middlename>
+      <firstname>Louise</firstname>
+      <website>http://www.louise.house.gov</website>
+      <birthday type="date">1929-08-14</birthday>
+      <person-id type="integer">400378</person-id>
+      <phone>202-225-3615</phone>
+      <religion>Episcopalian</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1319</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:05:26-04:00</created-at>
+          <title>NASA's Curiosity exploring Mars with help from Wayne County's Optimax</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the welfare of a child, a misdemeanor.- 9:13 am Monroe County Executive Maggie Brooks, R-Webster, who hopes to unseat U.S. Rep. Louise Slaughter, D-Fairport, met with veterans at the Perinton Memorial Veterans of Foreign Wars Post 8495 to hear their big</excerpt>
+          <fti-names>'13':21 '8495':54 '9':20 'big':58 'brook':27 'child':17 'chronicl':62 'counti':10,24 'curios':3 'd':40 'd-fairport':39 'democrat':60 'execut':25 'explor':4 'fairport':41 'foreign':51 'hear':56 'help':7 'hope':32 'louis':37 'maggi':26 'mar':5 'memori':48 'met':42 'misdemeanor':19 'monro':23 'nasa':1 'optimax':12 'perinton':47 'post':53 'r':29 'r-webster':28 'rep':36 'rochest':59 'slaughter':38 'u.s':35 'unseat':34 'veteran':44,49 'war':52 'wayn':9 'webster':30 'welfar':14</fti-names>
+          <source-url>http://www.democratandchronicle.com/</source-url>
+          <url>http://www.democratandchronicle.com/article/20120806/BUSINESS/308060021/1001</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972996</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rochester Democrat and Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:05:25-04:00</created-at>
+          <title>Brooks: DCCC 'Corrupt Republican Of The Month'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...with employees, campaign contributors, and even her husband. She is currently running for Congress against incumbent Rep. Louise Slaughter in New York's 25th District. The organization said Brooks has benefited from government-contracted laborers workin</excerpt>
+          <fti-names>'25th':31 'benefit':38 'brook':1,36 'campaign':10 'congress':21 'contract':42 'contributor':11 'corrupt':3 'current':18 'daili':47 'dccc':2 'district':32 'employe':9 'even':13 'govern':41 'government-contract':40 'husband':15 'incumb':23 'labor':43 'louis':25 'month':7 'new':28,45 'news':48 'organ':34 'rep':24 'republican':4 'run':19 'said':35 'slaughter':26 'workin':44 'york':29,46</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://www.nydailynews.com/blogs/dailypolitics/2012/08/brooks-dccc-corrupt-republican-of-the-month</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972995</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:51:45-04:00</created-at>
+          <title>Boehner Appears at Brooks Fundraiser</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Convention Center on East Main St. Tickets were $150 per person or $1,500 for a table of 10. Brooks is challenging Rep. Louise Slaughter of Fairport to represent the newly re-drawn 25th Congressional District. Reproduction in whole or in part without th</excerpt>
+          <fti-names>'1':18 '10':24 '150':14 '25th':40 '500':19 'appear':2 'boehner':1 'brook':4,25 'center':7 'challeng':27 'congression':41 'convent':6 'district':42 'drawn':39 'east':9 'fairport':32 'fundrais':5 'louis':29 'main':10 'newli':36 'news':52 'part':48 'per':15 'person':16 're':38 're-drawn':37 'rep':28 'repres':34 'reproduct':43 'slaughter':30 'st':11 'tabl':22 'th':50 'ticket':12 'whole':45 'without':49</fti-names>
+          <source-url>http://fingerlakes.ynn.com/</source-url>
+          <url>http://fingerlakes.ynn.com/content/all_news/594083/boehner-appears-at-brooks-fundraiser</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972537</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Your News Now </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:05:22-04:00</created-at>
+          <title>Boehner Appears at Brooks Fundraiser</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Convention Center on East Main St. Tickets were $150 per person or $1,500 for a table of 10. Brooks is challenging Rep. Louise Slaughter of Fairport to represent the newly re-drawn 25th Congressional District. Reproduction in whole or in part without th</excerpt>
+          <fti-names>'1':18 '10':24 '150':14 '25th':40 '500':19 'appear':2 'boehner':1 'brook':4,25 'center':7 'challeng':27 'congression':41 'convent':6 'district':42 'drawn':39 'east':9 'fairport':32 'fundrais':5 'louis':29 'main':10 'newli':36 'news':52 'part':48 'per':15 'person':16 're':38 're-drawn':37 'rep':28 'repres':34 'reproduct':43 'slaughter':30 'st':11 'tabl':22 'th':50 'ticket':12 'whole':45 'without':49</fti-names>
+          <source-url>http://rochester.ynn.com/</source-url>
+          <url>http://rochester.ynn.com/content/top_stories/594083/boehner-appears-at-brooks-fundraiser</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972268</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Your News Now </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:03-04:00</created-at>
+          <title>John Boehner's NY Trip = Cash For Both Sides?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...making the New York rounds to raise money for House hopefuls Maggie Brooks and Matt Doheny... And incumbent Democratic Rep. Louise Slaughter is trying to make a couple of campaign bucks off the trip herself. &quot;In the 2009-2010 cycle, Boehner's PAC spent </excerpt>
+          <fti-names>'-2010':48 '2009':47 'boehner':2,50 'brook':22 'buck':40 'campaign':39 'cash':6 'coupl':37 'cycl':49 'daili':56 'democrat':28 'doheni':25 'hope':20 'hous':19 'incumb':27 'john':1 'louis':30 'maggi':21 'make':10,35 'matt':24 'money':17 'new':12,54 'news':57 'ny':4 'pac':52 'rais':16 'rep':29 'round':14 'side':9 'slaughter':31 'spent':53 'tri':33 'trip':5,43 'york':13,55</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://feeds.nydailynews.com/~r/nydnrss/blogs/dailypolitics/~3/VkuhXGKKUxQ/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971837</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:01-04:00</created-at>
+          <title>Democratic super PAC reserves air time in House races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Gallego , who won the Democratic runoff in the 23rd District over former representative Ciro Rodriguez on Tuesday. U.S. Rep. Louise Slaughter (D-N.Y.) (Mark Wilson - Getty Images) In New York, House Majority PAC is reserving $175,000 in the Syracuse mar</excerpt>
+          <fti-names>'000':48 '175':47 '23rd':18 'air':5 'ciro':23 'd':32 'd-n':31 'democrat':1,14 'district':19 'former':21 'gallego':10 'getti':37 'hous':8,42 'imag':38 'louis':29 'major':43 'mar':52 'mark':35 'n':33 'new':40 'pac':3,44 'post':55 'race':9 'rep':28 'repres':22 'reserv':4,46 'rodriguez':24 'runoff':15 'slaughter':30 'super':2 'syracus':51 'time':6 'tuesday':26 'u.s':27 'washington':54 'wilson':36 'won':12 'y':34 'york':41</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=bb5581d690b5c8ed3d1bd075cf8328f7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971836</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:24:49-04:00</created-at>
+          <title>Democratic super PAC reserves air time in House races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Gallego, who won the Democratic runoff in the 23rd District over former representative Ciro Rodriguez on Tuesday. U.S. Rep. Louise Slaughter (D-N.Y.) (Mark Wilson - Getty Images) In New York, House Majority PAC is reserving $175,000 in the Syracuse mark</excerpt>
+          <fti-names>'000':48 '175':47 '23rd':18 'air':5 'ciro':23 'd':32 'd-n':31 'democrat':1,14 'district':19 'fix':54 'former':21 'gallego':10 'getti':37 'hous':8,42 'imag':38 'louis':29 'major':43 'mark':35,52 'n':33 'new':40 'pac':3,44 'race':9 'rep':28 'repres':22 'reserv':4,46 'rodriguez':24 'runoff':15 'secur':53 'slaughter':30 'super':2 'syracus':51 'time':6 'tuesday':26 'u.s':27 'washingtonpost.com':55 'wilson':36 'won':12 'y':34 'york':41</fti-names>
+          <source-url>http://blog.washingtonpost.com/securityfix/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=edccf005234d1e88d674418a01095317</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970970</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Security Fix (washingtonpost.com)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:24:48-04:00</created-at>
+          <title>Democratic super PAC reserves air time in House races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Gallego , who won the Democratic runoff in the 23rd District over former representative Ciro Rodriguez on Tuesday. U.S. Rep. Louise Slaughter (D-N.Y.) (Mark Wilson - Getty Images) In New York, House Majority PAC is reserving $175,000 in the Syracuse mar</excerpt>
+          <fti-names>'000':48 '175':47 '23rd':18 'air':5 'ciro':23 'd':32 'd-n':31 'democrat':1,14 'district':19 'former':21 'gallego':10 'getti':37 'hous':8,42 'imag':38 'louis':29 'major':43 'mar':52 'mark':35 'n':33 'new':40 'pac':3,44 'post':55 'race':9 'rep':28 'repres':22 'reserv':4,46 'rodriguez':24 'runoff':15 'slaughter':30 'super':2 'syracus':51 'time':6 'tuesday':26 'u.s':27 'washington':54 'wilson':36 'won':12 'y':34 'york':41</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=97dc44ea150eb5f19fbf357fe0c9d156</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970969</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:24:47-04:00</created-at>
+          <title>Democratic super PAC reserves air time in House races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Gallego , who won the Democratic runoff in the 23rd District over former representative Ciro Rodriguez on Tuesday. U.S. Rep. Louise Slaughter (D-N.Y.) (Mark Wilson - Getty Images) In New York, House Majority PAC is reserving $175,000 in the Syracuse mar</excerpt>
+          <fti-names>'000':48 '175':47 '23rd':18 'air':5 'ciro':23 'd':32 'd-n':31 'democrat':1,14 'district':19 'former':21 'gallego':10 'getti':37 'hous':8,42 'imag':38 'louis':29 'major':43 'mar':52 'mark':35 'n':33 'new':40 'pac':3,44 'post':55 'race':9 'rep':28 'repres':22 'reserv':4,46 'rodriguez':24 'runoff':15 'slaughter':30 'super':2 'syracus':51 'time':6 'tuesday':26 'u.s':27 'washington':54 'wilson':36 'won':12 'y':34 'york':41</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=918124143a51af49342a8e09bc6ddc54</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970968</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:24:40-04:00</created-at>
+          <title>Democratic super PAC reserves air time in House races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Gallego , who won the Democratic runoff in the 23rd District over former representative Ciro Rodriguez on Tuesday. U.S. Rep. Louise Slaughter (D-N.Y.) (Mark Wilson - Getty Images) In New York, House Majority PAC is reserving $175,000 in the Syracuse mar</excerpt>
+          <fti-names>'000':48 '175':47 '23rd':18 'air':5 'ciro':23 'd':32 'd-n':31 'democrat':1,14 'district':19 'former':21 'gallego':10 'getti':37 'hous':8,42 'imag':38 'louis':29 'major':43 'mar':52 'mark':35 'n':33 'new':40 'pac':3,44 'post':55 'race':9 'rep':28 'repres':22 'reserv':4,46 'rodriguez':24 'runoff':15 'slaughter':30 'super':2 'syracus':51 'time':6 'tuesday':26 'u.s':27 'washington':54 'wilson':36 'won':12 'y':34 'york':41</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=352d953eafeb45aab30c4b5092f074ad</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970967</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Louise_McIntosh_Slaughter</metavid-id>
+      <name>Rep. Louise Slaughter [D, NY-28]</name>
+      <bioguide-id>S000480</bioguide-id>
+      <total-session-votes type="integer">1398</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>28</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:32:57-04:00</created-at>
+          <title>Former FDA Veterinarian Calls for an End to Antibiotic Overuse in ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Louise Slaughter, D-N.Y., the lead House sponsor of PAMTA and the only microbiologist in Congress, welcomed the panelists and urged prompt action, noting &#8220;we don&amp;#39;t have a lot of time, and our lives depend on it.&#8221; ...</excerpt>
+          <fti-names>'action':37 'antibiot':9 'call':4 'congress':30 'd':16 'd-n':15 'depend':50 'end':7 'fda':2 'former':1 'hous':21 'kalel':53 'lead':20 'live':49 'lot':44 'louis':13 'microbiologist':28 'n':17 'note':38 'overus':10 'pamta':24 'panelist':33 'prompt':36 'rep':12 'slaughter':14 'sponsor':22 'time':46 'urg':35 'veterinarian':3 'welcom':31 'y':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kosherveg.com/news-alerts/2012/07/26/former-fda-veterinarian-calls-for-an-end-to-antibiotic-overuse-in-animal-agriculture-during-capitol-hill-briefing/&amp;sa=U&amp;ei=aF0TUNS5EKbV0QGkh4HICA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNHaBGFO0AXbza5gF-xW7-t25yKNlA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923836</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>kalel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:29:07-04:00</created-at>
+          <title>NFL Linebacker Joins Antibiotics Briefing on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Louise Slaughter (D-NY), a constant advocate for reining in the use of antibiotics in agriculture, hosted another congressional briefing on the issue Tuesday -- this time featuring an NFL linebacker.</excerpt>
+          <fti-names>'advoc':17 'agricultur':26 'anoth':28 'antibiot':4,24 'brief':5,30 'capitol':7 'congression':29 'congresswoman':9 'constant':16 'd':13 'd-ni':12 'desk':43 'featur':37 'hill':8 'host':27 'info@foodsafetynews.com':41 'issu':33 'join':3 'lineback':2,40 'louis':10 'news':42 'nfl':1,39 'ny':14 'rein':19 'slaughter':11 'time':36 'tuesday':34 'use':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.foodsafetynews.com/2012/07/nfl-linebacker-joins-antibiotics-briefing-on-capitol-hill/&amp;sa=U&amp;ei=EycSUO7fM4mg9QTLh4HoCg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNFA7oDKHuBJF6cm4P60e0MFUSXK8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893144</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>info@foodsafetynews.com (News Desk)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:29:03-04:00</created-at>
+          <title>Slaughter discusses animals and antibiotics | NY Daily Record</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Posted: 6:10 pm Wed, July 25, 2012. Rep. Louise Slaughter of Fairport hosted a congressional briefing Tuesday on the overuse of antibiotics in animals. The only microbiologist in Congress, Slaughter welcomed panelists Will Witherspoon, ...</excerpt>
+          <fti-names>'10':11 '2012':16 '25':15 '6':10 'anim':3,33 'antibiot':5,31 'brief':25 'congress':38 'congression':24 'daili':7,44 'discuss':2 'fairport':21 'host':22 'juli':14 'louis':18 'microbiologist':36 'ny':6 'overus':29 'panelist':41 'pm':12 'post':9 'record':8,45 'rep':17 'slaughter':1,19,39 'staff':46 'tuesday':26 'wed':13 'welcom':40 'witherspoon':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nydailyrecord.com/blog/2012/07/25/slaughter-discusses-animals-and-antibiotics/&amp;sa=U&amp;ei=EycSUO7fM4mg9QTLh4HoCg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNF3LHB6lZQZpFOuoR3RSja-D7pSvg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893140</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daily Record Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:29:01-04:00</created-at>
+          <title>Former FDA Veterinarian Calls for an End to Antibiotic Overuse in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Witherspoon raises grass-fed cattle at the Shire Gate Farm, an Animal Welfare Approved certified farm that uses sustainable techniques to almost completely eliminate the need for antibiotics. Rep. Louise Slaughter, D-N.</excerpt>
+          <fti-names>'almost':34 'anim':24 'antibiot':9,40 'approv':26 'call':4 'cattl':17 'certifi':27 'complet':35 'd':45 'd-n':44 'elimin':36 'end':7 'farm':22,28 'fda':2 'fed':16 'former':1 'gate':21 'grass':15 'grass-f':14 'louis':42 'n':46 'need':38 'overus':10 'rais':13 'rep':41 'shire':20 'slaughter':43 'sustain':31 'techniqu':32 'use':30 'veterinarian':3 'welfar':25 'witherspoon':12 'www.humanesociety.org':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.humanesociety.org/news/press_releases/2012/07/veterinarian_calls_for_end_to_antibiotic_overuse_072612.html&amp;sa=U&amp;ei=EycSUO7fM4mg9QTLh4HoCg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNHwBQOOfnaSm8xUyvTYf2lubnA54A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893139</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.humanesociety.org/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:32:58-04:00</created-at>
+          <title>NFL Linebacker Joins Antibiotics Briefing on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Louise Slaughter (D-NY), a constant advocate for reining in the use of antibiotics in agriculture, hosted another congressional briefing on the issue Tuesday -- this time featuring an NFL linebacker.</excerpt>
+          <fti-names>'advoc':17 'agricultur':26 'anoth':28 'antibiot':4,24 'brief':5,30 'capitol':7 'congression':29 'congresswoman':9 'constant':16 'd':13 'd-ni':12 'desk':43 'featur':37 'hill':8 'host':27 'info@foodsafetynews.com':41 'issu':33 'join':3 'lineback':2,40 'louis':10 'news':42 'nfl':1,39 'ny':14 'rein':19 'slaughter':11 'time':36 'tuesday':34 'use':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.foodsafetynews.com/2012/07/nfl-linebacker-joins-antibiotics-briefing-on-capitol-hill/&amp;sa=U&amp;ei=aF0TUNS5EKbV0QGkh4HICA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNEYg7w3Cx8OBa1UBbuEmg7ISQFBhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923839</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>info@foodsafetynews.com (News Desk)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:32:57-04:00</created-at>
+          <title>Slaughter discusses animals and antibiotics | NY Daily Record</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Posted: 6:10 pm Wed, July 25, 2012. Rep. Louise Slaughter of Fairport hosted a congressional briefing Tuesday on the overuse of antibiotics in animals. The only microbiologist in Congress, Slaughter welcomed panelists Will Witherspoon, ...</excerpt>
+          <fti-names>'10':11 '2012':16 '25':15 '6':10 'anim':3,33 'antibiot':5,31 'brief':25 'congress':38 'congression':24 'daili':7,44 'discuss':2 'fairport':21 'host':22 'juli':14 'louis':18 'microbiologist':36 'ny':6 'overus':29 'panelist':41 'pm':12 'post':9 'record':8,45 'rep':17 'slaughter':1,19,39 'staff':46 'tuesday':26 'wed':13 'welcom':40 'witherspoon':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nydailyrecord.com/blog/2012/07/25/slaughter-discusses-animals-and-antibiotics/&amp;sa=U&amp;ei=aF0TUNS5EKbV0QGkh4HICA&amp;ved=0CDYQmAEwBQ&amp;usg=AFQjCNGZgNF4S1YgGdsYlFAjzpWHX1D7lg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923834</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daily Record Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:45:04-04:00</created-at>
+          <title>NFL Linebacker Joins Antibiotics Briefing on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Louise Slaughter (D-NY), a constant advocate for reining in the use of antibiotics in agriculture, hosted another congressional briefing on the issue Tuesday &#8212; this time featuring an NFL linebacker.</excerpt>
+          <fti-names>'admin':41 'advoc':17 'agricultur':26 'anoth':28 'antibiot':4,24 'brief':5,30 'capitol':7 'congression':29 'congresswoman':9 'constant':16 'd':13 'd-ni':12 'featur':37 'hill':8 'host':27 'issu':33 'join':3 'lineback':2,40 'louis':10 'nfl':1,39 'ny':14 'rein':19 'slaughter':11 'time':36 'tuesday':34 'use':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://naturallygourmetproducts.com/food-safety/nfl-linebacker-joins-antibiotics-briefing-on-capitol-hill/&amp;sa=U&amp;ei=VtkQUOaxMOrk0QGI34H4CQ&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNE0nt4SXRj3qIBniHbgw2daY9Srig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860765</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:45:03-04:00</created-at>
+          <title>Slaughter discusses animals and antibiotics | NY Daily Record</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Posted: 6:10 pm Wed, July 25, 2012. Rep. Louise Slaughter of Fairport hosted a congressional briefing Tuesday on the overuse of antibiotics in animals. The only microbiologist in Congress, Slaughter welcomed panelists Will Witherspoon, ...</excerpt>
+          <fti-names>'10':11 '2012':16 '25':15 '6':10 'anim':3,33 'antibiot':5,31 'brief':25 'congress':38 'congression':24 'daili':7,44 'discuss':2 'fairport':21 'host':22 'juli':14 'louis':18 'microbiologist':36 'ny':6 'overus':29 'panelist':41 'pm':12 'post':9 'record':8,45 'rep':17 'slaughter':1,19,39 'staff':46 'tuesday':26 'wed':13 'welcom':40 'witherspoon':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nydailyrecord.com/blog/2012/07/25/slaughter-discusses-animals-and-antibiotics/&amp;sa=U&amp;ei=VtkQUOaxMOrk0QGI34H4CQ&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNE1lhQRyp6_n6HDdQpVRbejjLiQ8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860763</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daily Record Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:46:55-04:00</created-at>
+          <title>Study Finds Toxins From Coal Strip Mines | Daily Yonder | Keep It ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Bill co-sponsor Rep. Louise Slaughter, D-N.Y., originally from Harlan County, Ky., dismissed the coal industry&amp;#39;s attempts to invalidate the work of Hendryx and other researchers. &#8220;I&amp;#39;m a microbiologist. I have a master&amp;#39;s degree ...</excerpt>
+          <fti-names>'attempt':33 'bill':12 'co':14 'co-sponsor':13 'coal':5,30 'counti':26 'd':20 'd-n':19 'daili':8 'degre':52 'dismiss':28 'editor':53 'find':2 'harlan':25 'hendryx':39 'industri':31 'invalid':35 'keep':10 'ky':27 'louis':17 'm':44 'master':50 'microbiologist':46 'mine':7 'n':21 'origin':23 'rep':16 'research':42 'slaughter':18 'sponsor':15 'strip':6 'studi':1 'toxin':3 'work':37 'y':22 'yonder':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailyyonder.com/study-finds-toxins-coal-strip-sites/2012/07/23/4204&amp;sa=U&amp;ei=WZYPUJWjMYuF0QHV4IHoAg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHFUvJ-La2ldlKg9EF3QiahB_vDAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16853086</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400378</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:46:54-04:00</created-at>
+          <title>Former UGA football player Witherspoon tackles antibiotics use in ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The act &#8212; PAMTA, for short &#8212; was introduced by Rep. Louise Slaughter (D-NY), who is a microbiologist, and Sen. Dianne Feinstein (D-CA). PAMTA&amp;#39;s aim is to restrict the use of antibiotics in to sick or injured animals and ...</excerpt>
+          <fti-names>'act':11 'aim':37 'anim':50 'antibiot':7,44 'ca':34 'chris':52 'd':22,33 'd-ca':32 'd-ni':21 'diann':30 'feinstein':31 'footbal':3 'former':1 'injur':49 'introduc':16 'louis':19 'microbiologist':27 'ny':23 'pamta':12,35 'player':4 'rep':18 'restrict':40 'sen':29 'short':14 'sick':47 'slaughter':20 'tackl':6 'uga':2 'use':8,42 'white':53 'witherspoon':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://onlineathens.com/sports/college-sports/2012-07-24/former-uga-football-player-witherspoon-tackles-antibiotics-use&amp;sa=U&amp;ei=WZYPUJWjMYuF0QHV4IHoAg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNHWsfmIL8StSvfK2PPxwiFXKMi2qA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16853084</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris White</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">25225</page-views-count>
+      <youtube-id>louiseslaughter</youtube-id>
+      <unaccented-name>Louise Slaughter</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

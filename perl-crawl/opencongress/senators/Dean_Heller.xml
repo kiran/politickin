@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">84.5223700120919</party-votes-percentage>
+        <abstains-percentage type="float">1.66468489892985</abstains-percentage>
+        <votes-most-often-with-id type="integer">412399</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">206</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">399</cosponsored-bills-passed-rank>
+        <abstains type="integer">14</abstains>
+        <cosponsored-bills type="integer">239</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">249</party-votes-percentage-rank>
+        <sponsored-bills type="integer">34</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">412218</person-id>
+        <cosponsored-bills-rank type="integer">370</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400660</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">58</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">699</votes-republican-position>
+      <metavid-id>Dean_Heller</metavid-id>
+      <blog-article-count type="integer">6730</blog-article-count>
+      <user-approval type="float">5.72972972972973</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">263</oc-users-tracking>
+      <bioguide-id>H001041</bioguide-id>
+      <contact-webform>http://www.heller.senate.gov/public/index.cfm/contact-form</contact-webform>
+      <youtube-id>CongressmanHeller</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">84.5223700120919</with-party-percentage>
+      <lastname>Heller</lastname>
+      <fax nil="true"></fax>
+      <congress-office>361a Russell Senate Office Building</congress-office>
+      <firstname>Dean</firstname>
+      <website>http://www.heller.senate.gov/</website>
+      <birthday type="date">1960-05-10</birthday>
+      <person-id type="integer">412218</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-224-6244</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">226</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:26-04:00</created-at>
+          <title>American Crossroads Launches $7 Million Ad Drive for GOP Senate Candidates</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to form a majority in the chamber. The Republican candidates in the races include former Sen. George Allen of Virginia, Sen. Dean Heller of Nevada, Rep. Denny Rehberg of Montana, Rep. Rick Berg of North Dakota, and Missouri primary contestants John Brun</excerpt>
+          <fti-names>'7':4 'ad':6 'allen':29 'american':1 'berg':44 'brun':53 'candid':11,21 'chamber':18 'contest':51 'crossroad':2 'dakota':47 'dean':33 'denni':38 'drive':7 'form':13 'former':26 'georg':28 'gop':9 'heller':34 'includ':25 'john':52 'launch':3 'major':15 'million':5 'missouri':49 'montana':41 'nevada':36 'newsmax':54 'north':46 'primari':50 'race':24 'rehberg':39 'rep':37,42 'republican':20 'rick':43 'sen':27,32 'senat':10 'virginia':31</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/american-crossroads-ad-drive/2012/08/07/id/447794</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973768</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:22-04:00</created-at>
+          <title>Nevada Senate rivals share stage and credit at VA hospital dedication</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Rep. Shelley Berkley and U.S. Sen. Dean Heller, Senate rivals on the campaign trail, shared the stage Monday at the dedication of a new VA hospital in North Las Vegas, but Berkley took most of the credit for getting the facility built. And rightly so, s</excerpt>
+          <fti-names>'berkley':14,43 'built':53 'campaign':24 'credit':7,48 'dean':18 'dedic':11,32 'facil':52 'get':50 'heller':19 'hospit':10,37 'journal':62 'las':40,58 'lvrj.com':63 'monday':29 'nevada':1 'new':35 'north':39 'rep':12 'review':61 'review-journ':60 'right':55 'rival':3,21 'sen':17 'senat':2,20 'share':4,26 'shelley':13 'stage':5,28 'took':44 'trail':25 'u.s':16 'va':9,36 'vega':41,59</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=165213976&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fnevada-senate-rivals-share-stage-and-credit-at-va-hospital-dedication-165213976.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973136</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:22-04:00</created-at>
+          <title>New Ads Hammer GOP For Anti-Middle Class Tax Vote</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...to run Monday and Tuesday in heavy rotation. Besides the national spot, it also targets Rep. Denny Rehberg (R-Mont.) and Sen. Dean Heller (R-Nev.), who are both running in Senate contests, as well as GOP Reps. Dan Lungren (Calif.), Steve King (Iowa) and</excerpt>
+          <fti-names>'ad':2 'also':25 'anti':7 'anti-middl':6 'besid':20 'calif':54 'class':9 'contest':46 'dan':52 'dean':35 'denni':28 'gop':4,50 'hammer':3 'heavi':18 'heller':36 'huffington':60 'iowa':57 'king':56 'lungren':53 'middl':8 'monday':14 'mont':32 'nation':22 'nev':39 'new':1 'post':61 'r':31,38 'r-mont':30 'r-nev':37 'rehberg':29 'rep':27,51 'rotat':19 'run':13,43 'sen':34 'senat':45 'spot':23 'steve':55 'target':26 'tax':10 'tuesday':16 'vote':11 'well':48</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/06/television-ads-republicans-anti-middle-class-tax-vote_n_1739657.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973139</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:22-04:00</created-at>
+          <title>RNC goes after Obama in ads</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...into whether the congresswoman used her position to help her husband. Berkley is running against Republican incumbent Sen. Dean Heller. The New Mexico, North Dakota and Nevada Senate races are among the most competitive in the country. In New Mexico, He</excerpt>
+          <fti-names>'ad':6 'american':48 'among':37 'berkley':18 'competit':40 'congresswoman':10 'countri':43 'dakota':31 'dean':25 'goe':2 'heller':26 'help':15 'husband':17 'incumb':23 'media':50 'mexico':29,46 'nevada':33 'new':28,45 'north':30 'obama':4 'posit':13 'public':49 'race':35 'republican':22 'rnc':1 'run':20 'sen':24 'senat':34 'use':11 'whether':8</fti-names>
+          <source-url>http://americanpublicmedia.publicradio.org/</source-url>
+          <url>http://feeds.americanpublicmedia.org/~r/APM_Marketplace/~3/WumqXydT2_4/rnc-goes-after-obama-ads</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973138</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Public Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:22-04:00</created-at>
+          <title>Hotline Sort: Quayle's Last Stand</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...primary in Missouri. 3) Americans United for Change and AFSCME are launching a $280,000 ad buy hitting two GOP Senate candidates (Dean Heller in Nevada and Denny Rehberg in Montana) and three GOP Reps. (Jim Renacci in Ohio, Dan Lungren in California, an</excerpt>
+          <fti-names>'000':21 '280':20 '3':10 'ad':22 'afscm':16 'american':11 'buy':23 'california':49 'candid':28 'chang':14 'dan':46 'dean':29 'denni':34 'gop':26,40 'heller':30 'hit':24 'hotlin':1 'jim':42 'journal':52 'last':5 'launch':18 'lungren':47 'missouri':9 'montana':37 'nation':51 'nevada':32 'ohio':45 'primari':7 'quayl':3 'rehberg':35 'renacci':43 'rep':41 'senat':27 'sort':2 'stand':6 'three':39 'two':25 'unit':12</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-qu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973137</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:59:08-04:00</created-at>
+          <title>Washington Digest: Republicans extend tax cuts for all</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...opposed. The Senate voted 52-46 to move the cybersecurity bill forward, falling eight votes short of the 60 needed. Sen. Dean Heller, R-Nev., voted to block the bill. Sen. Harry Reid, D-Nev., supported the bill but voted against it in a procedural move </excerpt>
+          <fti-names>'-46':14 '52':13 '60':27 'bill':19,39,48 'block':37 'cut':6 'cybersecur':18 'd':44 'd-nev':43 'dean':30 'digest':2 'eight':22 'extend':4 'fall':21 'forward':20 'harri':41 'heller':31 'journal':61 'las':57 'lvrj.com':62 'move':16,56 'need':28 'nev':34,45 'oppos':9 'procedur':55 'r':33 'r-nev':32 'reid':42 'republican':3 'review':60 'review-journ':59 'sen':29,40 'senat':11 'short':24 'support':46 'tax':5 'vega':58 'vote':12,23,35,50 'washington':1</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=165045866&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fwashington-digest-republicans-extend-tax-cuts-for-all-165045866.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972618</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:18:53-04:00</created-at>
+          <title>Biden vows to honor medical care commitment to veterans</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...elsewhere in the U.S.. U.S. Sen. Harry Reid, D-Nev., will be on hand for the dedication ceremonies as well as Senate rivals, U.S. Dean Heller, R-Nev., and U.S. Rep. Shelley Berkley, D-Nev., who are both wooing veterans. Contact reporter Laura Myers at l</excerpt>
+          <fti-names>'..':14 'berkley':45 'biden':1 'care':6 'ceremoni':29 'commit':7 'contact':54 'd':20,47 'd-nev':19,46 'dean':36 'dedic':28 'elsewher':10 'hand':25 'harri':17 'heller':37 'honor':4 'journal':64 'l':59 'las':60 'laura':56 'lvrj.com':65 'medic':5 'myer':57 'nev':21,40,48 'r':39 'r-nev':38 'reid':18 'rep':43 'report':55 'review':63 'review-journ':62 'rival':34 'sen':16 'senat':33 'shelley':44 'u.s':13,15,35,42 'vega':61 'veteran':9,53 'vow':2 'well':31 'woo':52</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=165011666&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fbiden-vows-to-honor-medical-care-commitment-to-veterans-165011666.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972343</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:27:35-04:00</created-at>
+          <title>Schumer: Five GOP Senate Seats Competitive</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the defeat of incumbent Sen. Richard Lugar in a primary put the state in play for Democrats. Nevada , where Republican Sen. Dean Heller is locked in a tight race with Democratic Rep. Shelley Berkley. Arizona , where the retirement of Sen. Jon Kyl has ma</excerpt>
+          <fti-names>'arizona':41 'berkley':40 'blog':54 'competit':6 'dean':28 'defeat':8 'democrat':23,37 'five':2 'gop':3 'heller':29 'incumb':10 'jon':47 'journal':53 'kyl':48 'lock':31 'lugar':13 'ma':50 'nevada':24 'play':21 'primari':16 'put':17 'race':35 'rep':38 'republican':26 'retir':44 'richard':12 'schumer':1 'seat':5 'sen':11,27,46 'senat':4 'shelley':39 'state':19 'street':52 'tight':34 'wall':51</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/washwire/2012/08/03/schumer-five-gop-senate-seats-competitive/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971974</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:27:34-04:00</created-at>
+          <title>#NVSen Update: Harry Reid&#8217;s Guilty Until Proven Innocent Theory Further Damaged his Liberal Prot&#233;g&#233;e, Embattled Congresswoman Shelley Berkley</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...his first Spanish-language ad, which reminds voters that Shelley Berkley took credit for legislation she didn&#8217;t even write. &#8220;Sen. Dean Heller&#8217;s campaign released its first Spanish-language ad this week, an attack on opponent Shelley Berkley called</excerpt>
+          <fti-names>'ad':25,52 'attack':56 'berkley':19,31,60 'call':61 'campaign':45 'congresswoman':17 'credit':33 'damag':12 'dean':42 'didn':37 'embattl':16 'even':39 'first':21,48 'guilti':6 'harri':3 'heller':43 'innoc':9 'languag':24,51 'legisl':35 'liber':14 'minor':62 'nvsen':1 'oppon':58 'prot&#233;g&#233;':15 'proven':8 'reid':4 'releas':46 'remind':27 'report':63 'sen':41 'shelley':18,30,59 'spanish':23,50 'spanish-languag':22,49 'theori':10 'took':32 'updat':2 'voter':28 'week':54 'write':40</fti-names>
+          <source-url>http://www.theminorityreportblog.com/</source-url>
+          <url>http://www.theminorityreportblog.com/2012/08/03/nvsen-update-harry-reids-guilty-until-proven-innocent-theory-further-damaged-his-liberal-protegee-embattled-congresswoman-shelley-berkley/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971973</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Minority Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:21:13-04:00</created-at>
+          <title>For online video ads, act before space runs out</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...and the national campaigns in Nevada was reserved by the Senate campaigns. Ron Steslow, digital strategist for Republican Sen. Dean Heller, who faces Rep. Shelley Berkley (D-Nev.), started buying pre-roll for the fall in March. &#8220;Even then, a lot of th</excerpt>
+          <fti-names>'act':5 'ad':4 'berkley':35 'buy':40 'campaign':13,21 'd':37 'd-nev':36 'dean':29 'digit':24 'even':49 'face':32 'fall':46 'heller':30 'lot':52 'march':48 'nation':12 'nev':38 'nevada':15 'onlin':2 'politico':56 'pre':42 'pre-rol':41 'rep':33 'republican':27 'reserv':17 'roll':43 'ron':22 'run':8 'sen':28 'senat':20 'shelley':34 'space':7 'start':39 'steslow':23 'strategist':25 'th':54 'video':3</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79296.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971215</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Dean Heller [R, NV]</name>
+      <total-session-votes type="integer">827</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:35-04:00</created-at>
+          <title>I Approve This Message, But Don&amp;#39;t Hold Me To It | Blog for Democracy</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Senator Dean Heller apparently thinks it&amp;#39;s just some sort of cutesy catchphrase like &#8220;That&amp;#39;s hot,&#8221; or &#8220;Wokka Wokka.&#8221; In the competitive Nevada Senate election, an ad ran against Democrat Shelley Berkeley, and was produced ...</excerpt>
+          <fti-names>'ad':42 'appar':18 'approv':2 'berkeley':47 'blog':12 'catchphras':27 'competit':37 'cutesi':26 'dean':16 'democraci':14 'democrat':45 'elect':40 'heller':17 'hold':8 'hot':31 'like':28 'messag':4 'nevada':38 'produc':50 'ran':43 'senat':15,39 'shelley':46 'sort':24 'steve':51 'think':19 'wokka':33,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.blogfordemocracy.org/2012/07/approve-message-hold.html&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNG9pNhtYPDnr10TtvbZRgGBj7VeUg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718573</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:34-04:00</created-at>
+          <title>SHELLEY BERKLEY STATEMENT ON SENATOR DEAN HELLER&amp;#39;S ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Las Vegas- Today, U.S. Senate candidate Shelley Berkley issued the following statement following Senator Dean Heller&amp;#39;s vote against the DISCLOSE Act (Democracy Is Strengthened by Casting Light On Spending in Elections Act). The bill ...</excerpt>
+          <fti-names>'act':30,41 'berkley':2,16 'bill':43 'candid':14 'cast':35 'dean':6,23 'democraci':31 'disclos':29 'elect':40 'follow':19,21 'guardian':44 'heller':7,24 'issu':17 'las':9 'light':36 'senat':5,13,22 'shelley':1,15 'spend':38 'statement':3,20 'strengthen':33 'today':11 'u.s':12 'vega':10 'vote':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://guardianlv.com/2012/07/shelley-berkley-statement-on-senator-dean-hellers-vote-against-bringing-transparency-to-campaign-advertising/&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNHRZfHVcDSVHAnAEfyoTa0L4j5jBQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718571</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>guardian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:33-04:00</created-at>
+          <title>Heller Says Campaign is Running Negative Ads, Not Him</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Heller Says Campaign is Running Negative Ads, Not Him. Sen. Dean Heller (R-NV) insisted to The Hill that he was not running negative ads about his challenger. Said Heller: &amp;quot;The campaign is. If you have any questions or ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':52 'ad':7,16,35 'campaign':3,12,42 'challeng':38 'dean':20 'heller':1,10,21,40 'hill':28 'insist':25 'negat':6,15,34 'nv':24 'politicalwire.com':51 'politicalwire.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':50 'question':48 'r':23 'r-nv':22 'run':5,14,33 'said':39 'say':2,11 'sen':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicalwire.com/archives/2012/07/18/heller_says_campaign_is_running_negative_ads_not_him.html&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNFje2hA-rG7LNtkPreHDpBEZvOq-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718570</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://politicalwire.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:33-04:00</created-at>
+          <title>Implausible deniability - The Maddow Blog</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Take Sen. Dean Heller (R-Nev.), for example, whose campaign has attacked Rep. Shelley Berkley (D-Nev.) over a House Ethics Committee investigation. Asked about the allegations against his Democratic challenger, Heller ...</excerpt>
+          <fti-names>'alleg':34 'ask':31 'attack':18 'benen':41 'berkley':21 'blog':5 'campaign':16 'challeng':38 'committe':29 'd':23 'd-nev':22 'dean':8 'democrat':37 'deniabl':2 'ethic':28 'exampl':14 'heller':9,39 'hous':27 'implaus':1 'investig':30 'maddow':4 'nev':12,24 'r':11 'r-nev':10 'rep':19 'sen':7 'shelley':20 'steve':40 'take':6 'whose':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://maddowblog.msnbc.msn.com/_news/2012/07/18/12813839-implausible-deniability&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNHC5Lw_VMG_5cwbrotrZ5eE5JwvoA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718568</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Benen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:32-04:00</created-at>
+          <title>NV AFLCIO Releases New Video Calling on US Senator Dean ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The NV AFLCIO released the following video today calling on US Senator Dean Heller to support S2884 also known as the Bring Jobs Home Act. The video features footage of the recent rally with more than 100 people ...</excerpt>
+          <fti-names>'100':47 'act':35 'aflcio':2,13 'also':28 'bring':32 'call':6,19 'dean':10,23 'featur':38 'follow':16 'footag':39 'heller':24 'home':34 'job':33 'known':29 'new':4 'nv':1,12 'nvrdc':49 'peopl':48 'ralli':43 'recent':42 'releas':3,14 's2884':27 'senat':9,22 'support':26 'today':18 'us':8,21 'video':5,17,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nvrdc.wordpress.com/2012/07/18/nv-aflcio-releases-new-video-calling-on-us-senator-dean-heller-to-bring-jobs-home%25E2%2580%258F/&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFeVE1-lCUw762hz_AM5xuO-x3Gbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718566</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NVRDC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:31-04:00</created-at>
+          <title>SHAME ON DEAN HELLER - Shelley Berkley for Senate</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Las Vegas &#8211; The Shelley Berkley for Senate campaign released the following statement after Senator Dean Heller cheered the fact that hundreds of Nevadans lost their jobs when Amonix, a Nevada clean energy company, shut down.</excerpt>
+          <fti-names>'amonix':36 'berkley':6,13 'campaign':16 'cheer':25 'clean':39 'compani':41 'dean':3,23 'energi':40 'fact':27 'follow':19 'heller':4,24 'hundr':29 'job':34 'julie.mcclain':44 'las':9 'lost':32 'nevada':38 'nevadan':31 'releas':17 'senat':8,15,22 'shame':1 'shelley':5,12 'shut':42 'statement':20 'vega':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.shelleyberkley.com/news/2012/berkley-campaign-shame-on-dean-heller/&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNE0GM9u1D8dSEQJlaUUiAvAc28hmg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718565</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>julie.mcclain</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:28-04:00</created-at>
+          <title>Sen. Dean Heller Distances Himself From Attack Ad That Says &amp;#39;I&amp;#39;m ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Dean Heller (R-Nev.) recently put out a campaign attack ad that ends with the line, &amp;quot;I&amp;#39;m Dean Heller, and I approve this message.&amp;quot; Despite that seal of approval, the senator wants voters to believe that he had nothing to ...</excerpt>
+          <fti-names>'ad':8,25 'approv':37,44 'attack':7,24 'believ':50 'campaign':23 'dean':2,14,33 'despit':40 'distanc':4 'editor':60 'end':27 'heller':3,15,34 'huffington':57 'line':30 'm':12,32 'messag':39 'nev':18 'news':59 'noth':54 'post':58 'put':20 'r':17 'r-nev':16 'recent':19 'say':10 'seal':42 'sen':1,13 'senat':46 'voter':48 'want':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/18/dean-heller-attack-ad_n_1683789.html&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFX3yKiZsi5SsSqPmYRSoGcKXpsmg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718564</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:34-04:00</created-at>
+          <title>Painters Union Personally Presents Nevada Senator Dean Heller&amp;#39;s ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Las Vegas, NV &#8212; This week, leaders and members of the International Union of Painters and Allied Trades (IUPAT) visited the Reno and Las Vegas offices of Senator Dean Heller to personally deliver a letter from the ...</excerpt>
+          <fti-names>'alli':25 'dean':7,37 'deliv':41 'gmcdonald':46 'heller':8,38 'intern':20 'iupat':27 'las':10,32 'leader':15 'letter':43 'member':17 'nevada':5 'nv':12 'offic':34 'painter':1,23 'person':3,40 'present':4 'reno':30 'senat':6,36 'trade':26 'union':2,21 'vega':11,33 'visit':28 'week':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.iupat.org/wp/%3Fp%3D898&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNH0QHuURZFZAbKpjPhE-o8HPKRiPw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16718572</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gmcdonald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-11T01:41:56-04:00</created-at>
+          <title>Heller Senate campaign calls Patriot Majority attack ads on ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Sen. Dean Heller, R-Nev. CARSON CITY &#8211; A television ad campaign sponsored by the pro-Democrat Patriot Majority attacking GOP Sen. Dean Heller on his Medicare votes has expanded to Las Vegas and is again ...</excerpt>
+          <fti-names>'ad':8,21 'attack':7,31 'call':4 'campaign':3,22 'carson':17 'citi':18 'dean':12,34 'democrat':28 'expand':41 'gop':32 'heller':1,13,35 'las':43 'major':6,30 'medicar':38 'nev':16 'patriot':5,29 'pro':27 'pro-democrat':26 'r':15 'r-nev':14 'sen':11,33 'senat':2 'sponsor':23 'televis':20 'thisisreno':48 'u.s':10 'vega':44 'vote':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thisisreno.com/2012/07/heller-senate-campaign-calls-patriot-majority-attack-ads-on-medicare-votes-false/&amp;sa=U&amp;ei=GRL9T_aLMtG42gX-rITsBg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHCSS8_o6XpYq3dySwzEGvhflb2xg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16523656</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ThisIsReno</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412218</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:53:35-04:00</created-at>
+          <title>Conservative Patriot: NEVADA - HELP SENATOR DEAN HELLER ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>NEVADA - HELP SENATOR DEAN HELLER FIGHT HARRY REID&amp;#39;S LIES! Conservatives --. If you&amp;#39;ve turned on your TV in the last 24 hours you&amp;#39;ve probably seen the latest attack ad from Harry Reid&amp;#39;s front group. &amp;quot;Recycling a ...</excerpt>
+          <fti-names>'24':29 'ad':38 'attack':37 'conserv':1,18 'dean':6,11 'fight':13 'front':43 'gliddon':49 'group':44 'harri':14,40 'heller':7,12 'help':4,9 'hour':30 'jr':50 'last':28 'latest':36 'lee':47 'lie':17 'nevada':3,8 'patriot':2 'probabl':33 'recycl':45 'reid':15,41 'seen':34 'senat':5,10 'turn':22 'tv':25 've':21,32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://conpats.blogspot.com/2012/07/nevada-help-senator-dean-heller-fight.html&amp;sa=U&amp;ei=16AHUOPlMaq02AX-uPDHBA&amp;ved=0CFUQmAEwDA&amp;usg=AFQjCNEfBSvoqz7BKkh5IMAVlPFHE11n0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16718574</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lee S. Gliddon Jr.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">26887</page-views-count>
+      <unaccented-name>Dean Heller</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">89.5137668424136</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">400224</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">371</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">274</cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">306</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">298</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400017</person-id>
+        <cosponsored-bills-rank type="integer">49</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">392</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1528</votes-republican-position>
+      <fax>202-225-2193</fax>
+      <blog-article-count type="integer">6513</blog-article-count>
+      <user-approval type="float">4.62162162162162</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">168</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.bartlett.house.gov/Email_Roscoe/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">89.5137668424136</with-party-percentage>
+      <lastname>Bartlett</lastname>
+      <middlename>G.</middlename>
+      <congress-office>2412 Rayburn House Office Building</congress-office>
+      <firstname>Roscoe</firstname>
+      <website>http://bartlett.house.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1926-06-03</birthday>
+      <person-id type="integer">400017</person-id>
+      <phone>202-225-2721</phone>
+      <religion>Seventh-Day Adventist</religion>
+      <votes-democratic-position type="integer">455</votes-democratic-position>
+      <metavid-id>Roscoe_G._Bartlett</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:30:06-04:00</created-at>
+          <title>Dem poll: Challenger leads Rep. Bartlett in Maryland</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A new Democratic poll has John Delaney (D) leading Rep. Roscoe Bartlett (R-Md.) by 44 to 42 percent, the latest sign the 10-term congressman is in an uphill battle to keep his seat. Democrats targeted Bartlett in redistricting: Much of this district is new</excerpt>
+          <fti-names>'10':33 '42':27 '44':25 'bartlett':6,20,47 'battl':40 'challeng':3 'congressman':35 'd':16 'delaney':15 'dem':1 'democrat':11,45 'district':53 'john':14 'keep':42 'latest':30 'lead':4,17 'maryland':8 'md':23 'much':50 'new':10,55 'percent':28 'poll':2,12 'r':22 'r-md':21 'redistrict':49 'rep':5,18 'rosco':19 'seat':44 'sign':31 'target':46 'term':34 'thehill.com':56 'uphil':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/ballot-box/house-races/241225-dem-poll-challenger-leads-rep-bartlett-in-maryland</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T08:35:42-04:00</date>
+          <id type="integer">16965999</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:30:07-04:00</created-at>
+          <title>Staying home</title>
+          <contains-term>republican</contains-term>
+          <excerpt>U.S. Rep. Roscoe Bartlett, the Republican who represents Frederick County, recently announced through his spokesman that he's staying home to campaign, rather than attend his party's convention in Tampa, Fla., next month. Bartlett &quot;remains ...</excerpt>
+          <fti-names>'announc':14 'attend':27 'bartlett':6,37 'campaign':24 'convent':31 'counti':12 'fla':34 'frederick':11,39 'home':2,22 'month':36 'news':41 'news-post':40 'next':35 'parti':29 'post':42 'rather':25 'recent':13 'remain':38 'rep':4 'repres':10 'republican':8 'rosco':5 'spokesman':17 'stay':1,21 'tampa':33 'u.s':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.fredericknewspost.com/sections/opinion/display_editorial.htm?StoryID=138690&amp;section=ed</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:53:20-04:00</date>
+          <id type="integer">16966000</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Frederick News-Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:48-04:00</created-at>
+          <title>Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. Bartlett faces a tough fight for re-election ...</excerpt>
+          <fti-names>'ad':3,22,43 'air':17 'appeal':32 'bartlett':2,10,47 'call':4 'campaign':27 'differ':6 'district':46 'elect':26,55 'face':48 'fight':51 'first':20 'general':25 'hundr':35 'independ':7 'look':30 'md':13 'newli':42 'post':57 'r':12 'r-md':11 'radio':21 're':54 're-elect':53 'rep':8 'rosco':1,9 'thousand':37 'tough':50 'voter':39 'washington':56</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.washingtonpost.com/blogs/maryland-politics/post/roscoe-bartlett-ad-calls-him-different-independent/2012/07/26/gJQAmwORBX_blog.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:11:58-04:00</date>
+          <id type="integer">16888102</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:31:40-04:00</created-at>
+          <title>Daily Kos Elections Morning Digest: The most under-watched nominating battle in the nation</title>
+          <contains-term>republican</contains-term>
+          <excerpt>FL-18: In GOP Rep. Allen West's new TV spot ... (Either way, the map is in place for 2012, so a Republican win in court wouldn't boost Roscoe Bartlett's chances of surviving in the much-bluer MD-06.) (David Jarman) A tag is a way to search ...</excerpt>
+          <fti-names>'-06':57 '-18':17 '2012':35 'allen':21 'bartlett':46 'battl':12 'bluer':55 'boost':44 'chanc':48 'court':41 'daili':1,67 'david':58 'digest':5 'either':27 'elect':3 'fl':16 'gop':19 'jarman':59 'kos':2,68 'map':30 'md':56 'morn':4 'much':54 'much-bluer':53 'nation':15 'new':24 'nomin':11 'place':33 'rep':20 'republican':38 'rosco':45 'search':66 'spot':26 'surviv':50 'tag':61 'tv':25 'under-watch':8 'watch':10 'way':28,64 'west':22 'win':39 'wouldn':42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/26/1113754/-Daily-Kos-Elections-Morning-Digest-The-most-under-watched-nominating-battle-in-the-nation</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:04:48-04:00</date>
+          <id type="integer">16919757</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=5114c7a5388e7774b48adbf5fe89a176</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888113</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=fc31e5e7d25c4b3cc5ebbe18323f85d9</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888112</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=b95a916c9beca1a1a1dffadce4b1d6c7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888111</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=5a36f51aa0a0ce35e5a64e75222efc0a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888110</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=d549952103b05d28898ba2140dc98e4d</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888109</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:30:53-04:00</created-at>
+          <title>Rep. Roscoe Bartlett ad calls him &#8216;different,&#8217; &#8216;independent&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Roscoe Bartlett (R-Md.) is on the air with the first radio ad of his general election campaign, as he looks to appeal to the hundreds of thousands of voters who were newly added to his district. (Courtesy of CQ-Roll Call, Inc.) Bartlett faces a tough fi</excerpt>
+          <fti-names>'ad':4,22,43 'air':17 'appeal':32 'bartlett':3,10,54 'call':5,52 'campaign':27 'courtesi':47 'cq':50 'cq-roll':49 'differ':7 'district':46 'elect':26 'face':55 'fi':58 'first':20 'general':25 'hundr':35 'inc':53 'independ':8 'look':30 'md':13 'newli':42 'post':61 'r':12 'r-md':11 'radio':21 'rep':1 'roll':51 'rosco':2,9 'thousand':37 'tough':57 'voter':39 'washington':60</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=4ad40b31deac50aa051cc2de839b24ee</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888108</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>B000208</bioguide-id>
+      <name>Rep. Roscoe Bartlett [R, MD-6]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepRoscoeBartlett</youtube-id>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:30:29-04:00</created-at>
+          <title>maryland juice: CD6: Pundits Smell Trouble for Rep. Roscoe Bartlett ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Indeed, over the last few days, some high profile political oddsmakers are predicting that Tea Party Rep. Roscoe Bartlett&amp;#39;s days are numbered. See a few examples below and accept my apologies for the recent interruption of ...</excerpt>
+          <fti-names>'accept':40 'apolog':42 'bartlett':10,29 'cd6':3 'david':48 'day':16,31 'exampl':37 'high':18 'inde':11 'interrupt':46 'juic':2 'last':14 'maryland':1 'moon':49 'number':33 'oddsmak':21 'parti':26 'polit':20 'predict':23 'profil':19 'pundit':4 'recent':45 'rep':8,27 'rosco':9,28 'see':34 'smell':5 'tea':25 'troubl':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.marylandjuice.com/2012/07/cd6-pundits-smell-trouble-for-rep.html&amp;sa=U&amp;ei=RBQKUPD1KoLY2AWWz9Qm&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFjmspFlwP1gDef6NBd02vc3S-ZyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16777199</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>David Moon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:30:32-04:00</created-at>
+          <title>Latest News from over 4000 sources, including ... - LexisNexis</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Roscoe Bartlett joined a bipartisan majority of 244 House members who voted today for H.R. 6079, the &amp;quot;Repeal of Obamacare Act.&amp;quot; Congressman Bartlett said afterward, &amp;quot;Since the Supreme Court upheld ...</excerpt>
+          <fti-names>'/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100020219&amp;isrss=true':42 '244':17 '4000':5 '6079':25 'act':30 'afterward':34 'bartlett':11,32 'bipartisan':14 'congressman':9,31 'court':38 'h.r':24 'hous':18 'includ':7 'join':12 'latest':1 'lexisnexi':8 'major':15 'member':19 'news':2 'obamacar':29 'repeal':27 'rosco':10 'said':33 'sinc':35 'sourc':6 'suprem':37 'today':22 'upheld':39 'vote':21 'www6.lexisnexis.com':41 'www6.lexisnexis.com/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100020219&amp;isrss=true':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www6.lexisnexis.com/publisher/EndUser%3FAction%3DUserDisplayFullDocument%26orgId%3D574%26topicId%3D100007424%26docId%3Dl:1704460065%26Em%3D7%26start%3D22&amp;sa=U&amp;ei=RBQKUPD1KoLY2AWWz9Qm&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFBT_JdzfxNl5OfqX2tsglaaGem1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16777207</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www6.lexisnexis.com/publisher/EndUser?Action=UserDisplayCiteList&amp;orgId=574&amp;topicId=100020219&amp;isRss=true</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:30:32-04:00</created-at>
+          <title>Md. Democrats support Obama immigration plan &#8211; Roscoe Bartlett ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>But Rep. Roscoe G. Bartlett, a Republican who faces a difficult reelection this year, said he felt the decision undermined the Constitution. &#8220;President Obama&amp;#39;s decisions will encourage more illegal immigration, weaken our ...</excerpt>
+          <fti-names>'bartlett':8,13 'calvert':43 'cecil':42 'constitut':30 'decis':27,34 'democrat':2 'difficult':19 'encourag':36 'face':17 'felt':25 'g':12 'illeg':38 'immigr':5,39 'md':1 'obama':4,32 'plan':6 'presid':31 'reelect':20 'rep':10 'republican':15 'rosco':7,11 'said':23 'support':3 'undermin':28 'weaken':40 'year':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.cecilcalvert.com/%3Fp%3D6962&amp;sa=U&amp;ei=RBQKUPD1KoLY2AWWz9Qm&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNG0hcKefGCnSZG8iHOmbgvKUTCXDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16777205</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cecil Calvert</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:30:30-04:00</created-at>
+          <title>Congressman Roscoe Bartlett Invites You to RESERVE Your Space ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, DC &#8211; July 9, 2012 &#8211; (RealEstateRama) &#8212; Congressman Roscoe Bartlett said &#8220;I encourage you to sign up today to reserve your space on Monday, July 9 at the FREE community service Go Green Energy ...</excerpt>
+          <fti-names>'2012':14 '9':13,34 'bartlett':3,18 'communiti':38 'congressman':1,16 'dc':11 'encourag':21 'energi':42 'free':37 'go':40 'green':41 'invit':4 'juli':12,33 'maryland':43 'monday':32 'realestaterama':15,44 'reserv':7,28 'rosco':2,17 'said':19 'servic':39 'sign':24 'space':9,30 'today':26 'washington':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://maryland.realestaterama.com/2012/07/09/congressman-roscoe-bartlett-invites-you-to-reserve-your-space-at-the-4th-annual-go-green-energy-conference-on-mon-july-9-10-am-5pm-in-frederick-ID0355.html&amp;sa=U&amp;ei=RBQKUPD1KoLY2AWWz9Qm&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNEBnGJGeFluir2NAusIC8cpndTZzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16777200</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maryland RealEstateRama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-05T22:41:06-04:00</created-at>
+          <title>GOP Chair Mooney now working for Bartlett - Baltimore Post-Examiner</title>
+          <contains-term>republican</contains-term>
+          <excerpt>State Republican Party Chairman Alex Mooney is now working part time on the staff of U.S. Rep. Roscoe Bartlett as community outreach director. &#8220;It&amp;#39;s part time because I&amp;#39;m staying on as party chairman,&#8221; said Mooney, who was ...</excerpt>
+          <fti-names>'alex':16 'baltimor':8 'bartlett':7,30 'chair':2 'chairman':15,46 'communiti':32 'director':34 'examin':11 'gop':1 'm':41 'maryland':51 'mooney':3,17,48 'outreach':33 'part':21,37 'parti':14,45 'post':10 'post-examin':9 'rep':28 'report':52 'republican':13 'rosco':29 'said':47 'staff':25 'state':12 'stay':42 'time':22,38 'u.s':27 'work':5,20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baltimorepostexaminer.com/gop-chair-mooney-now-working-for-bartlett-jacobs-trying-to-ditch-dutch/2012/07/02&amp;sa=U&amp;ei=NlD2T6OtDoPg2gXrzanjBg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNHNLmTTi5SAZPiurgPGVIcEWATA8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16406372</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maryland Reporter</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-06-28T22:35:11-04:00</created-at>
+          <title>MDGOP News Service &#8211; 6-27-12 | Cecil County Republican Party</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Roscoe Bartlett, who is facing a competitive election in November, was one of 19 House Republicans&#8230; 4. Cummings ignores key facts while hammering Issa for selective memory on executive privilege. Daily Caller: ...</excerpt>
+          <fti-names>'-12':6 '-27':5 '19':25 '4':28 '6':4 'bartlett':13 'caller':43 'cecil':7 'competit':18 'counti':8 'cum':29 'daili':42 'elect':19 'execut':40 'face':16 'fact':32 'hammer':34 'hous':26 'ignor':30 'issa':35 'key':31 'mdgop':1 'memori':38 'news':2 'novemb':21 'one':23 'parti':10 'patterson':45 'privileg':41 'rep':11 'republican':9,27 'rosco':12 'select':37 'servic':3 'theodor':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cecilgop.com/2012/06/mdgop-news-service-6-27-12/&amp;sa=U&amp;ei=XBTtT_WBE8mr2AW1o5DOCg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGbHBOQOW1qanz1QYLf51bVrXz8xA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16277457</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Theodore Patterson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-06-28T22:35:08-04:00</created-at>
+          <title>Rep. Roscoe Bartlett Invitation to Attend FREE Go Green Energy ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Hello, I&amp;#39;m Congressman Roscoe Bartlett. I invite you to attend the FREE 4th Annual Go Green Energy Conference on Monday, July 9th from 10:00 am to 5:00 pm at the e-ventplex at the Frederick Fairgrounds in Frederick.</excerpt>
+          <fti-names>'00':36,40 '10':35 '4th':24 '5':39 '9th':33 'admin':53 'annual':25 'attend':6,21 'bartlett':3,16 'confer':29 'congressman':14 'e':45 'e-ventplex':44 'energi':10,28 'fairground':50 'frederick':49,52 'free':7,23 'go':8,26 'green':9,27 'hello':11 'invit':4,18 'juli':32 'm':13 'monday':31 'pm':41 'rep':1 'rosco':2,15 'ventplex':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.healthyhomesolution.com/ways-go-green/rep-roscoe-bartlett-invitation-to-attend-free-go-green-energy-conference-on-792012&amp;sa=U&amp;ei=XBTtT_WBE8mr2AW1o5DOCg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFKPlaeKNeNsGpY6Gq5D0oP81RikA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16277449</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:30:31-04:00</created-at>
+          <title>Rep. Roscoe Bartlett Invitation to Attend FREE Go Green Energy ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Hello, I&amp;#39;m Congressman Roscoe Bartlett. I invite you to attend the FREE 4th Annual Go Green Energy Conference on Monday, July 9th from 10:00 am to 5:00 pm at the e-ventplex at the Frederick Fairgrounds in Frederick.</excerpt>
+          <fti-names>'00':36,40 '10':35 '4th':24 '5':39 '9th':33 'annual':25 'attend':6,21 'bartlett':3,16 'confer':29 'congressman':14 'e':45 'e-ventplex':44 'energi':10,28 'fairground':50 'frederick':49,52 'free':7,23 'gerald':53 'go':8,26 'green':9,27 'hello':11 'invit':4,18 'juli':32 'm':13 'monday':31 'pm':41 'rep':1 'rosco':2,15 'ventplex':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.how-to-install-solar-panel.com/2012/06/27/rep-_roscoe_bartlett_invitation_to_attend_free_go_green_energy_conference_on_792012/&amp;sa=U&amp;ei=RBQKUPD1KoLY2AWWz9Qm&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNF5Y7QUYPwEQ-IfOkPqQKIAH7b0Uw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16777201</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gerald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-05T22:41:13-04:00</created-at>
+          <title>Rep. Roscoe Bartlett Invitation to Attend FREE Go Green Energy ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Hello, I&amp;#39;m Congressman Roscoe Bartlett. I invite you to attend the FREE 4th Annual Go Green Energy Conference on Monday, July 9th from 10:00 am to 5:00 pm at the e-ventplex at the Frederick Fairgrounds in Frederick.</excerpt>
+          <fti-names>'00':36,40 '10':35 '4th':24 '5':39 '9th':33 'annual':25 'attend':6,21 'bartlett':3,16 'confer':29 'congressman':14 'e':45 'e-ventplex':44 'energi':10,28 'fairground':50 'frederick':49,52 'free':7,23 'gerald':53 'go':8,26 'green':9,27 'hello':11 'invit':4,18 'juli':32 'm':13 'monday':31 'pm':41 'rep':1 'rosco':2,15 'ventplex':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.how-to-install-solar-panel.com/2012/06/27/rep-_roscoe_bartlett_invitation_to_attend_free_go_green_energy_conference_on_792012/&amp;sa=U&amp;ei=NlD2T6OtDoPg2gXrzanjBg&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNFn1sCNS4qKP-_StBQ11gbOwnXuoQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16406380</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gerald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400017</commentariable-id>
+          <created-at type="datetime">2012-07-05T22:40:56-04:00</created-at>
+          <title>maryland juice: CD6: Nuns to Protest at Rep. Roscoe Bartlett&amp;#39;s Office ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>CD6: Nuns to Protest at Rep. Roscoe Bartlett&amp;#39;s Office // National Pundit Calls Sen. Rob Garagiola &amp;quot;The Most Arrogant&amp;quot; Candidate. UPDATE: A number of readers in the comments below, either defend Senator Garagiola or ...</excerpt>
+          <fti-names>'arrog':31 'bartlett':10,20 'call':25 'candid':32 'cd6':3,13 'comment':40 'david':47 'defend':43 'either':42 'garagiola':28,45 'juic':2,49 'maryland':1,48 'nation':23 'number':35 'nun':4,14 'offic':12,22 'protest':6,16 'pundit':24 'reader':37 'rep':8,18 'rob':27 'rosco':9,19 'sen':26 'senat':44 'updat':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.marylandjuice.com/2012/06/cd6-nuns-to-protest-at-rep-roscoe.html&amp;sa=U&amp;ei=NlD2T6OtDoPg2gXrzanjBg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNH6RvZDNQI7SNtcOvTX1oFp4H0cWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16406366</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>David @ Maryland Juice</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">30810</page-views-count>
+      <unaccented-name>Roscoe Bartlett</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

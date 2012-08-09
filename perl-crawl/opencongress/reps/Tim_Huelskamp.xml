@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.0204081632653</party-votes-percentage>
+        <abstains-percentage type="float">0.232693426410704</abstains-percentage>
+        <votes-most-often-with-id type="integer">412431</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">4</abstains>
+        <cosponsored-bills type="integer">220</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">30</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412429</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">2</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1561</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">2202</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">17</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>CongressmanHuelskamp</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.0204081632653</with-party-percentage>
+      <lastname>Huelskamp</lastname>
+      <bioguide-id>H001057</bioguide-id>
+      <fax>202- 225-5124</fax>
+      <congress-office>126 Cannon House Office Building</congress-office>
+      <firstname>Tim</firstname>
+      <website>http://huelskamp.house.gov/</website>
+      <birthday type="date">1968-11-11</birthday>
+      <person-id type="integer">412429</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2715</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">333</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:50:41-04:00</created-at>
+          <title>Harsh weather doesn&#8217;t prove global warming, Republican lawmakers say</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...is inherently cyclical. &#8220;I think the science suggests you have to have long-term trends, not one-year droughts,&#8221; said Rep. Tim Huelskamp (R-Kan.), noting his district saw worse conditions in the 1950s and 1980s and &#8220;variability in the drought is n</excerpt>
+          <fti-names>'1950s':47 '1980s':49 'condit':44 'cyclic':13 'district':41 'doesn':3 'drought':31,54 'global':6 'harsh':1 'huelskamp':35 'inher':12 'junk':57 'kan':38 'lawmak':9 'long':24 'long-term':23 'n':56 'note':39 'one':29 'one-year':28 'prove':5 'r':37 'r-kan':36 'rep':33 'republican':8 'said':32 'saw':42 'say':10 'scienc':17,58 'suggest':18 'term':25 'think':15 'tim':34 'trend':26 'variabl':51 'warm':7 'weather':2 'wors':43 'year':30</fti-names>
+          <source-url>http://www.junkscience.com/</source-url>
+          <url>http://junkscience.com/2012/08/06/harsh-weather-doesnt-prove-global-warming-republican-lawmakers-say/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972840</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Junk Science</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:50:41-04:00</created-at>
+          <title>How Many Stupid, Stupid Lawmakers Do We Have in Congress, Imperiling Very Existence of Life on Earth?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...is inherently cyclical. &#8220;I think the science suggests you have to have long-term trends, not one-year droughts,&#8221; said Rep. Tim Huelskamp (R-Kan.), noting his district saw worse conditions in the 1950s and 1980s and &#8220;variability in the drought is n</excerpt>
+          <fti-names>'1950s':54 '1980s':56 'condit':51 'congress':10 'cyclic':20 'district':48 'drought':38,61 'earth':17 'exist':13 'huelskamp':42 'imperil':11 'inher':19 'kan':45 'lawmak':5 'life':15 'long':31 'long-term':30 'mani':2 'n':63 'note':46 'one':36 'one-year':35 'r':44 'r-kan':43 'rep':40 'said':39 'saw':49 'scienc':24 'stupid':3,4 'suggest':25 'term':32 'think':22 'tim':41 'trend':33 'variabl':58 'wonkett':64 'wors':50 'year':37</fti-names>
+          <source-url>http://www.wonkette.com/</source-url>
+          <url>http://feeds.wonkette.com/click.phdo?i=aaad2e871b408a4307d6328574744c25</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972839</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wonkette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:41:08-04:00</created-at>
+          <title>Republicans say harsh weather is cyclical</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...state does not prove a trend. &quot;I think the science suggests you have to have long-term trends, not one-year droughts,&quot; said Rep. Tim Huelskamp, R-Kan., adding that his district saw worse conditions in the 1950s and 1980s and &quot;variability in the drought </excerpt>
+          <fti-names>'1950s':47 '1980s':49 'ad':38 'condit':44 'cyclic':6 'district':41 'drought':30,54 'harsh':3 'huelskamp':34 'intern':57 'kan':37 'long':23 'long-term':22 'one':28 'one-year':27 'press':56 'prove':10 'r':36 'r-kan':35 'rep':32 'republican':1 'said':31 'saw':42 'say':2 'scienc':16 'state':7 'suggest':17 'term':24 'think':14 'tim':33 'trend':12,25 'unit':55 'variabl':51 'weather':4 'wors':43 'year':29</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://www.upi.com/Top_News/US/2012/08/05/Republicans-say-harsh-weather-is-cyclical/UPI-69741344195665/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972470</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:53:37-04:00</created-at>
+          <title>Donation to Seiwert rival raises eyebrows</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...R-Hugoton, in Tuesday's primary in the 39th Senate District. Powell also received a recent $1,000 check from Congressman Tim Huelskamp's American Freedom PAC. Corporations, individuals and PACs are making last-minute donations to Powell, Morris and othe</excerpt>
+          <fti-names>'000':25 '1':24 '39th':16 'also':20 'american':32 'check':26 'congressman':28 'corpor':35 'district':18 'donat':1,44 'eyebrow':6 'freedom':33 'huelskamp':30 'hugoton':9 'hutchnews.com':50 'individu':36 'last':42 'last-minut':41 'make':40 'minut':43 'morri':47 'oth':49 'pac':34,38 'powel':19,46 'primari':13 'r':8 'r-hugoton':7 'rais':5 'receiv':21 'recent':23 'rival':4 'seiwert':3 'senat':17 'tim':29 'tuesday':11</fti-names>
+          <source-url>http://www.hutchnews.com/</source-url>
+          <url>http://www.hutchnews.com/Localregional/late-donations--1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16971657</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HutchNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:53:38-04:00</created-at>
+          <title>Birth-control mandate like Sept. 11, Pearl Harbor?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Tim Huelskamp, R-Fowler, was among the freshmen congressmen who held a news conference at the Capitol Wednesday to label it the &#8220;Day Religious Freedom Died.&#8221; That was when the U.S. Department of Health and Human Services&#8217; birth-control coverage ma</excerpt>
+          <fti-names>'11':7 'among':16 'birth':2,49 'birth-control':1,48 'capitol':27 'confer':24 'congressmen':19 'control':3,50 'coverag':51 'day':33 'depart':42 'die':36 'fowler':14 'freedom':35 'freshmen':18 'harbor':9 'health':44 'held':21 'huelskamp':11 'human':46 'kansas.com':53 'label':30 'like':5 'ma':52 'mandat':4 'news':23 'pearl':8 'r':13 'r-fowler':12 'religi':34 'sept':6 'servic':47 'tim':10 'u.s':41 'wednesday':28</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://blogs.kansas.com/weblog/2012/08/birth-control-mandate-like-sept-11-pearl-harbor/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971658</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:49:38-04:00</created-at>
+          <title>Prediction: Primary won't lure voters</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...seats have primaries, both on the Democratic ticket. The four Republican incumbents are unopposed and one - 1st District Rep. Tim Huelskamp - has no general election opponent from the Democrats or third parties. Rep. Kevin Yoder in the 3rd District has </excerpt>
+          <fti-names>'1st':23 '3rd':44 'democrat':13,35 'district':24,45 'elect':31 'four':16 'general':30 'huelskamp':27 'hutchnews.com':47 'incumb':18 'kevin':40 'lure':5 'one':22 'oppon':32 'parti':38 'predict':1 'primari':2,9 'rep':25,39 'republican':17 'seat':7 'third':37 'ticket':14 'tim':26 'unoppos':20 'voter':6 'won':3 'yoder':41</fti-names>
+          <source-url>http://www.hutchnews.com/</source-url>
+          <url>http://www.hutchnews.com/Todaystop/A1---voter-turnout</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970687</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HutchNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:49:53-04:00</created-at>
+          <title>Craziest Republican of the Day: Mike Kelly</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...gay rights) -- this is completely ridiculous. It's hyperbole and grandstanding and insanity. (It was Kelly, but also Tim Huelskamp of Kansas, Billy Long of Missouri, Ann Marie Buerkle of New York, Jeff Fortenberry of Nebraska, Steve Pearce of New Mexico</excerpt>
+          <fti-names>'also':25 'ann':34 'billi':30 'buerkl':36 'complet':12 'craziest':1 'day':5 'fortenberri':41 'gay':8 'grandstand':18 'huelskamp':27 'hyperbol':16 'insan':20 'jeff':40 'kansa':29 'kelli':7,23 'long':31 'mari':35 'mexico':48 'mike':6 'missouri':33 'nebraska':43 'new':38,47 'pearc':45 'reaction':50 'republican':2 'ridicul':13 'right':9 'steve':44 'tim':26 'york':39</fti-names>
+          <source-url>http://www.the-reaction.blogspot.com/</source-url>
+          <url>http://the-reaction.blogspot.com/2012/08/craziest-republican-of-day-mike-kelly.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970689</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Reaction</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:49:52-04:00</created-at>
+          <title>Serving voters?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...8/1/2012 9:43 PM | Last update: 8/1/2012 9:43 PM Our esteemed Rep. Tim Huelskamp will vote for a bill to extend the tax cuts this week. It is not a Republican bill, but it would continue tax breaks for most of us while ending them for those who make ove</excerpt>
+          <fti-names>'43':5,11 '8/1/2012':3,9 '9':4,10 'bill':22,35 'break':41 'continu':39 'cut':27 'end':47 'esteem':14 'extend':24 'huelskamp':17 'hutchnews.com':54 'last':7 'make':52 'ove':53 'pm':6,12 'rep':15 'republican':34 'serv':1 'tax':26,40 'tim':16 'updat':8 'us':45 'vote':19 'voter':2 'week':29 'would':38</fti-names>
+          <source-url>http://www.hutchnews.com/</source-url>
+          <url>http://www.hutchnews.com/Westernfront/wflaird-letter-send</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970688</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HutchNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:44:37-04:00</created-at>
+          <title>Tentative deal reached to avert government shutdown</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...constituents. &quot;For conservatives like me to agree to that level, those on the left will have to compromise too,&quot; said Rep. Tim Huelskamp, R-Kan. He wants provisions attached to the bill to eliminate money for Obama's health care plan and to limit aborti</excerpt>
+          <fti-names>'aborti':53 'agre':14 'american':56 'american-statesman':55 'attach':37 'austin':54 'avert':5 'bill':40 'care':48 'compromis':25 'conserv':10 'constitu':8 'deal':2 'elimin':42 'govern':6 'health':47 'huelskamp':30 'kan':33 'left':21 'level':17 'like':11 'limit':52 'money':43 'obama':45 'plan':49 'provis':36 'r':32 'r-kan':31 'reach':3 'rep':28 'said':27 'shutdown':7 'statesman':57 'tentat':1 'tim':29 'want':35</fti-names>
+          <source-url>http://www.statesman.com/</source-url>
+          <url>http://www.statesman.com/news/nation/tentative-deal-reached-to-avert-government-shutdown-2425754.html?cxtype=rss_news</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969736</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Austin American-Statesman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:44:37-04:00</created-at>
+          <title>GOP, White House reach budget deal to avoid government shutdown</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...party constituents. &quot;For conservatives like me to agree to that level, those on the left will have to compromise too,&quot; said Rep. Tim Huelskamp (R-Kan.). He wants provisions attached to the bill to eliminate money for Obama's healthcare law and to limit </excerpt>
+          <fti-names>'agre':18 'angel':57 'attach':41 'avoid':8 'bill':44 'budget':5 'compromis':29 'conserv':14 'constitu':12 'deal':6 'elimin':46 'gop':1 'govern':9 'healthcar':51 'hous':3 'huelskamp':34 'kan':37 'law':52 'left':25 'level':21 'like':15 'limit':55 'los':56 'money':47 'obama':49 'parti':11 'provis':40 'r':36 'r-kan':35 'reach':4 'rep':32 'said':31 'shutdown':10 'tim':33 'time':58 'want':39 'white':2</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/news/~3/VMLbaJARNZI/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969735</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Tim Huelskamp [R, KS-1]</name>
+      <total-session-votes type="integer">1715</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:14-04:00</created-at>
+          <title>Agriculture Committee Voting Report on Farm Bill | Madison Project</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tim Huelskamp amendment to cut an additional $35 billion from food stamps. These cuts were actually already approved by the committee in the spring as part of the House GOP effort to replace the sequester, pursuant ...</excerpt>
+          <fti-names>'35':18 'actual':26 'addit':17 'agricultur':1 'alreadi':27 'amend':13 'approv':28 'bill':7 'billion':19 'committe':2,31 'cut':15,24 'daniel':47 'effort':41 'farm':6 'food':21 'gop':40 'horowitz':48 'hous':39 'huelskamp':12 'madison':8 'part':36 'project':9 'pursuant':46 'rep':10 'replac':43 'report':4 'sequest':45 'spring':34 'stamp':22 'tim':11 'vote':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://madisonproject.com/2012/07/agriculture-committee-voting-report-on-farm-bill/&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNG-UdOpUgGYnPIbgh1vrHRQKHUxZg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716192</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Horowitz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:13-04:00</created-at>
+          <title>Agriculture Committee Voting Report on Farm Bill | RedState</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tim Huelskamp amendment to cut an additional $35 billion from food stamps. These cuts were actually already approved by the committee in the spring as part of the House GOP effort to replace the sequester, pursuant ...</excerpt>
+          <fti-names>'35':17 'actual':25 'addit':16 'agricultur':1 'alreadi':26 'amend':12 'approv':27 'bill':7 'billion':18 'committe':2,30 'cut':14,23 'daniel':46 'diari':48 'effort':40 'farm':6 'food':20 'gop':39 'horowitz':47 'hous':38 'huelskamp':11 'part':35 'pursuant':45 'redstat':8 'rep':9 'replac':42 'report':4 'sequest':44 'spring':33 'stamp':21 'tim':10 'vote':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/dhorowitz3/2012/07/17/agriculture-committee-voting-report-on-farm-bill/&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGWoSWwQveY6FoOq_DhmR31JxUS8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716190</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Horowitz (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:36:54-04:00</created-at>
+          <title>Kansas Wheat Scoop No. 1769: Kansas Agriculture Celebrates U.S. ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... Department of Agriculture, the Kansas Grain and Feed Association and Kansas Farm Bureau, and the offices of Second District Congresswoman Lynn Jenkins and First District Congressman Tim Huelskamp were present.</excerpt>
+          <fti-names>'1769':5 'agricultur':7,12 'associ':18 'bureau':22 'celebr':8 'congressman':35 'congresswoman':29 'depart':10 'district':28,34 'farm':21 'feed':17 'first':33 'grain':15 'huelskamp':37 'jenkin':31 'kansa':1,6,14,20,40 'lynn':30 'offic':25 'present':39 'scoop':3 'second':27 'tim':36 'u.s':9 'wheat':2,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ruralmessenger.com/41077/kansas-wheat-scoop-no-1769-kansas-agriculture-celebrates-u-s-colombia-free-trade-agreement.html&amp;sa=U&amp;ei=090EUNOvBqii2gX-hNCbBQ&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNHixT8jJ5ANzINMQnQ-xI-nwCodqw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677760</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kansas Wheat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:15-04:00</created-at>
+          <title>Farm bill&amp;#39;s fate now up to Boehner | WE Blog | Wichita Eagle Blogs</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Before the House version cleared the House Agriculture Committee, Rep. Tim Huelskamp, R-Fowler, failed in an attempt to double the bill&amp;#39;s $16.5 billion cut to food stamps over the next 10 years. As it is, as many as 3 million ...</excerpt>
+          <fti-names>'10':47 '16.5':38 '3':55 'agricultur':21 'attempt':32 'bill':2,36 'billion':39 'blog':10,13 'boehner':8 'clear':18 'committe':22 'cut':40 'doubl':34 'eagl':12 'fail':29 'farm':1 'fate':4 'food':42 'fowler':28 'holman':58 'hous':16,20 'huelskamp':25 'mani':53 'million':56 'next':46 'r':27 'r-fowler':26 'rep':23 'rhonda':57 'stamp':43 'tim':24 'version':17 'wichita':11 'year':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.kansas.com/weblog/2012/07/farm-bills-fate-now-up-to-boehner/&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHDFzs8X5xTxGPkcZCQ43wrhKbeDA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16716197</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rhonda Holman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:36:53-04:00</created-at>
+          <title>Farm bill&amp;#39;s fate now up to Boehner | WE Blog | Wichita Eagle Blogs</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Before the House version cleared the House Agriculture Committee, Rep. Tim Huelskamp, R-Fowler, failed in an attempt to double the bill&amp;#39;s $16.5 billion cut to food stamps over the next 10 years. As it is, as many as 3 million ...</excerpt>
+          <fti-names>'10':47 '16.5':38 '3':55 'agricultur':21 'attempt':32 'bill':2,36 'billion':39 'blog':10,13 'boehner':8 'clear':18 'committe':22 'cut':40 'doubl':34 'eagl':12 'fail':29 'farm':1 'fate':4 'food':42 'fowler':28 'holman':58 'hous':16,20 'huelskamp':25 'mani':53 'million':56 'next':46 'r':27 'r-fowler':26 'rep':23 'rhonda':57 'stamp':43 'tim':24 'version':17 'wichita':11 'year':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.kansas.com/weblog/2012/07/farm-bills-fate-now-up-to-boehner/&amp;sa=U&amp;ei=090EUNOvBqii2gX-hNCbBQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEXT0Y6_WebpuDeJRL-dFycS0DnQQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16677756</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rhonda Holman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:14-04:00</created-at>
+          <title>Beyond the Carolinas: Huelskamp most anti-gay Congressman ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Tim Huelskamp. WASHINGTON, D.C. &#8212; According to the Center for American Progress, the most anti-gay member of Congress has been freshman Rep. Tim Huelskamp (R-KS). In his first 18 months, he has authored an ...</excerpt>
+          <fti-names>'18':41 'accord':14 'admin':47 'american':19 'anti':7,24 'anti-gay':6,23 'author':45 'beyond':1 'carolina':3 'center':17 'congress':28 'congressman':9 'd.c':13 'first':40 'freshman':31 'gay':8,25 'huelskamp':4,11,34 'ks':37 'member':26 'month':42 'progress':20 'r':36 'r-ks':35 'rep':32 'tim':10,33 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://goqnotes.com/15829/beyond-the-carolinas-huelskamp-most-anti-gay-congressman/&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGakaTR-tA4SEf5n1kzu1dA5o0rTQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16716195</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:36:53-04:00</created-at>
+          <title>Beyond the Carolinas: Huelskamp most anti-gay Congressman ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Tim Huelskamp. WASHINGTON, D.C. &#8212; According to the Center for American Progress, the most anti-gay member of Congress has been freshman Rep. Tim Huelskamp (R-KS). In his first 18 months, he has authored an ...</excerpt>
+          <fti-names>'18':41 'accord':14 'admin':47 'american':19 'anti':7,24 'anti-gay':6,23 'author':45 'beyond':1 'carolina':3 'center':17 'congress':28 'congressman':9 'd.c':13 'first':40 'freshman':31 'gay':8,25 'huelskamp':4,11,34 'ks':37 'member':26 'month':42 'progress':20 'r':36 'r-ks':35 'rep':32 'tim':10,33 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://goqnotes.com/15829/beyond-the-carolinas-huelskamp-most-anti-gay-congressman/&amp;sa=U&amp;ei=090EUNOvBqii2gX-hNCbBQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNEzqhbYl2UCPjxYdkhf3WXThMofOA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16677758</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:14-04:00</created-at>
+          <title>Republicans in Drag: Representative Tim Huelskamp, Kansas</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (181). &#9661; June (28). Representative Tim Huelskamp, Kansas &amp;middot; Representative Francisco Conseco, Texas &amp;middot; Representative Tim Murphy, Pennsylvania &amp;middot; Senator John Hoeven, North Dakota &amp;middot; Governor John Kasich, Ohio ...</excerpt>
+          <fti-names>'181':9 '2012':8 '28':11 'al':33 'conseco':18 'dakota':28 'drag':3 'francisco':17 'governor':29 'hoeven':26 'huelskamp':6,14 'john':25,30 'june':10 'kansa':7,15 'kasich':31 'murphi':22 'north':27 'ohio':32 'pennsylvania':23 'repres':4,12,16,20 'republican':1 'senat':24 'tecacca':34 'texa':19 'tim':5,13,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/06/representative-tim-huelskamp-kansas.html&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFz4l-T0BHpLyVcFCf17dY-77DD8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16716194</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:36:53-04:00</created-at>
+          <title>Republicans in Drag: Representative Tim Huelskamp, Kansas</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (181). &#9661; June (28). Representative Tim Huelskamp, Kansas &amp;middot; Representative Francisco Conseco, Texas &amp;middot; Representative Tim Murphy, Pennsylvania &amp;middot; Senator John Hoeven, North Dakota &amp;middot; Governor John Kasich, Ohio ...</excerpt>
+          <fti-names>'181':9 '2012':8 '28':11 'al':33 'conseco':18 'dakota':28 'drag':3 'francisco':17 'governor':29 'hoeven':26 'huelskamp':6,14 'john':25,30 'june':10 'kansa':7,15 'kasich':31 'murphi':22 'north':27 'ohio':32 'pennsylvania':23 'repres':4,12,16,20 'republican':1 'senat':24 'tecacca':34 'texa':19 'tim':5,13,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/06/representative-tim-huelskamp-kansas.html&amp;sa=U&amp;ei=090EUNOvBqii2gX-hNCbBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGmBhV_XQ-l2F-pclFkLhBbjKLgng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16677757</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412429</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:11:13-04:00</created-at>
+          <title>The American Spectator : Why I Voted &amp;#39;No&amp;#39; on Ryan</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>By Rep. Tim Huelskamp from the June 2012 issue. The GOP needs to make good on its promise for tax reform. Mark Twain is credited for saying, &#8220;Do the right thing. It will gratify some people and astonish the rest.&#8221; I would ...</excerpt>
+          <fti-names>'2012':17 'american':2 'astonish':47 'credit':34 'good':24 'gop':20 'gratifi':43 'huelskamp':13,54 'issu':18 'june':16 'make':23 'mark':31 'need':21 'peopl':45 'promis':27 'reform':30 'rep':11,52 'rest':49 'right':39 'ryan':9 'say':36 'spectat':3 'tax':29 'thing':40 'tim':12,53 'twain':32 'vote':6 'would':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://spectator.org/archives/2012/06/19/why-i-voted-no-on-ryan&amp;sa=U&amp;ei=z3oHUOkG0_LaBeDVuNsE&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEk_u8shth0C4lqqDtxC0eARCSPQw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16716191</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rep. Tim Huelskamp</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6157</page-views-count>
+      <unaccented-name>Tim Huelskamp</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.0873440285205</party-votes-percentage>
+        <abstains-percentage type="float">2.09424083769634</abstains-percentage>
+        <votes-most-often-with-id type="integer">412465</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">185</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">36</abstains>
+        <cosponsored-bills type="integer">225</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">271</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400406</person-id>
+        <cosponsored-bills-rank type="integer">317</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">373</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1533</votes-republican-position>
+      <middlename>J.</middlename>
+      <blog-article-count type="integer">3284</blog-article-count>
+      <user-approval type="float">4.71428571428571</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">192</oc-users-tracking>
+      <bioguide-id>T000462</bioguide-id>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">91.0873440285205</with-party-percentage>
+      <lastname>Tiberi</lastname>
+      <congress-office>106 Cannon House Office Building</congress-office>
+      <metavid-id>Patrick_J._Tiberi</metavid-id>
+      <firstname>Patrick</firstname>
+      <website>http://tiberi.house.gov/</website>
+      <birthday type="date">1962-10-21</birthday>
+      <person-id type="integer">400406</person-id>
+      <phone>202-225-5355</phone>
+      <youtube-id nil="true"></youtube-id>
+      <religion>Catholic</religion>
+      <votes-democratic-position type="integer">443</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:06:36-04:00</created-at>
+          <title>Calls, mail, email flood politicians&#8217; D.C. offices</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...spike in 2009, when Congress grappled with high-profile issues such as the economic stimulus and health care. Rep. Pat Tiberi, R-Genoa Township, has seen the increase firsthand: When he was a student at Ohio State University, he answered the phone for t</excerpt>
+          <fti-names>'2009':10 'answer':49 'call':1 'care':26 'columbus':54 'congress':12 'd.c':6 'dispatch':55 'econom':22 'email':3 'firsthand':38 'flood':4 'genoa':32 'grappl':13 'health':25 'high':16 'high-profil':15 'increas':37 'issu':18 'mail':2 'offic':7 'ohio':45 'pat':28 'phone':51 'politician':5 'profil':17 'r':31 'r-genoa':30 'rep':27 'seen':35 'spike':8 'state':46 'stimulus':23 'student':43 'tiberi':29 'township':33 'univers':47</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/08/06/calls-mail-email-flood-d-c--offices.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973008</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:00:56-04:00</created-at>
+          <title>Rep. LaTourette stepping down</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...elect a new representative this November to fight for a stronger economy and a more-accountable government,&#8221; Boehner said. Rep. Pat Tiberi, R-Genoa Township, said LaTourette&#8217;s &#8220;common-sense approach and effective leadership has produced tangible r</excerpt>
+          <fti-names>'account':21 'approach':38 'boehner':23 'columbus':46 'common':36 'common-sens':35 'dispatch':47 'economi':16 'effect':40 'elect':5 'fight':12 'genoa':30 'govern':22 'latourett':2,33 'leadership':41 'more-account':19 'new':7 'novemb':10 'pat':26 'produc':43 'r':29,45 'r-genoa':28 'rep':1,25 'repres':8 'said':24,32 'sens':37 'step':3 'stronger':15 'tangibl':44 'tiberi':27 'township':31</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/08/01/rep--latourette-stepping-down.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970016</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:19:26-04:00</created-at>
+          <title>Tiberi says Ohio should not expand Medicaid</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...recitation of who committed what offense when, or the other document were exempt from release, the court ruled. U.S. Rep. Pat Tiberi, R-Genoa Township, says Ohio should opt out of expanding Medicaid because the tax-funded health-insurance program alread</excerpt>
+          <fti-names>'alread':51 'columbus':52 'commit':11 'court':24 'dispatch':53 'document':18 'exempt':20 'expand':6,40 'fund':46 'genoa':32 'health':48 'health-insur':47 'insur':49 'medicaid':7,41 'offens':13 'ohio':3,35 'opt':37 'pat':28 'program':50 'r':31 'r-genoa':30 'recit':8 'releas':22 'rep':27 'rule':25 'say':2,34 'tax':45 'tax-fund':44 'tiberi':1,29 'township':33 'u.s':26</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/07/31/tiberi-says-ohio-should-not-expand-medicaid.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967333</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:59:57-04:00</created-at>
+          <title>General Motors Donates To Politicians Who Voted Against Auto Industry Bailout</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It has lobbied most often on a bill sponsored by Rep. Pat Tiberi (R-Ohio), which would let companies get bigger tax credits for property or equipment purchased in 2012. The automaker donated $4,000 to Tiberi's campaign this year. It has also ...</excerpt>
+          <fti-names>'000':47 '2012':42 '4':46 'also':56 'auto':9 'automak':44 'bailout':11 'bigger':33 'bill':19 'campaign':51 'compani':31 'credit':35 'donat':3,45 'equip':39 'general':1 'get':32 'huffington':57 'industri':10 'let':30 'lobbi':14 'motor':2 'often':16 'ohio':27 'pat':23 'politician':5 'post':58 'properti':37 'purchas':40 'r':26 'r-ohio':25 'rep':22 'sponsor':20 'tax':34 'tiberi':24,49 'vote':7 'would':29 'year':53</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/25/general-motors-political-donations_n_1699638.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T15:38:00-04:00</date>
+          <id type="integer">16860910</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-25T03:02:50-04:00</created-at>
+          <title>CBO Guesstimates that the Supreme Court's Impact on Obamacare is Modest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ohio), Pat Tiberi (R., Ohio), and Gene Green (D ... which are used to produce major regulations by the EPA,&#8221; said Rep. Murphy. &#8220;CBO is an outlier in an era of transparency.&#8221; Tim Murphy is right: it&#8217;s time for the CBO to join the ...</excerpt>
+          <fti-names>'cbo':1,35,53 'court':6 'd':21 'epa':31 'era':41 'forb':57 'gene':19 'green':20 'guesstim':2 'impact':8 'join':55 'major':27 'modest':12 'murphi':34,45 'obamacar':10 'ohio':13,17 'outlier':38 'pat':14 'produc':26 'r':16 'regul':28 'rep':33 'right':47 'said':32 'suprem':5 'tiberi':15 'tim':44 'time':50 'transpar':43 'use':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.forbes.com/sites/aroy/2012/07/24/cbo-guesstimates-that-obamacare-will-cover-3-million-less-people-after-the-supreme-court-saving-84-billion/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T15:53:30-04:00</date>
+          <id type="integer">16853402</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-21T01:00:15-04:00</created-at>
+          <title>UPDATE: Manufacturing Taxes Hearing Bogs Down in Partisanship</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But he said that &quot;we took the majority of the risk, that's a fact.&quot; Rep. Pat Tiberi (R, Ohio) prompted one witness to talk about how business income of more than $250,000 reported through an individual return was not the same as actual household ...</excerpt>
+          <fti-names>'000':42 '250':41 'actual':53 'bog':5 'busi':36 'fact':23 'hear':4 'household':54 'incom':37 'individu':46 'major':16 'manufactur':2 'nasdaq':55 'ohio':28 'one':30 'partisanship':8 'pat':25 'prompt':29 'r':27 'rep':24 'report':43 'return':47 'risk':19 'said':11 'talk':33 'tax':3 'tiberi':26 'took':14 'updat':1 'wit':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nasdaq.com/article/update-manufacturing-taxes-hearing-bogs-down-in-partisanship-20120719-01673</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T17:39:39-04:00</date>
+          <id type="integer">16781489</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NASDAQ</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:20:40-04:00</created-at>
+          <title>Manufacturing Taxes Hearing Bogs Down in Partisanship</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But he said that &quot;we took the majority of the risk, that's a fact.&quot; Rep. Pat Tiberi (R, Ohio) prompted one witness to talk about how business income of more than $250,000 reported through an individual return was not the same as actual household ...</excerpt>
+          <fti-names>'000':41 '250':40 'actual':52 'bog':4 'busi':35 'fact':22 'foxbusi':54 'hear':3 'household':53 'incom':36 'individu':45 'major':15 'manufactur':1 'ohio':27 'one':29 'partisanship':7 'pat':24 'prompt':28 'r':26 'rep':23 'report':42 'return':46 'risk':18 'said':10 'talk':32 'tax':2 'tiberi':25 'took':13 'wit':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.foxbusiness.com/news/2012/07/19/manufacturing-taxes-hearing-bogs-down-in-partisanship/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T15:52:17-04:00</date>
+          <id type="integer">16823255</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOXBusiness</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:49:54-04:00</created-at>
+          <title>Manufacturing Taxes Hearing Bogs Down in Partisanship</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But he said that &quot;we took the majority of the risk, that's a fact.&quot; Rep. Pat Tiberi (R, Ohio) prompted one witness to talk about how business income of more than $250,000 reported through an individual return was not the same as actual household ...</excerpt>
+          <fti-names>'000':41 '250':40 'actual':52 'bog':4 'busi':35 'fact':22 'hear':3 'household':53 'incom':36 'individu':45 'major':15 'manufactur':1 'nasdaq':54 'ohio':27 'one':29 'partisanship':7 'pat':24 'prompt':28 'r':26 'rep':23 'report':42 'return':46 'risk':18 'said':10 'talk':32 'tax':2 'tiberi':25 'took':13 'wit':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nasdaq.com/article/manufacturing-taxes-hearing-bogs-down-in-partisanship-20120719-01348</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T15:52:17-04:00</date>
+          <id type="integer">16750907</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NASDAQ</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:19:24-04:00</created-at>
+          <title>Manufacturing Taxes Hearing Bogs Down in Partisanship</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But he said that &quot;we took the majority of the risk, that's a fact.&quot; Rep. Pat Tiberi (R, Ohio) prompted one witness to talk about how business income of more than $250,000 reported through an individual return was not the same as actual household ...</excerpt>
+          <fti-names>'000':41 '250':40 'actual':52 'bog':4 'busi':35 'fact':22 'hear':3 'household':53 'incom':36 'individu':45 'major':15 'manufactur':1 'money':55 'ohio':27 'one':29 'partisanship':7 'pat':24 'prompt':28 'r':26 'rep':23 'report':42 'return':46 'risk':18 'said':10 'smart':54 'talk':32 'tax':2 'tiberi':25 'took':13 'wit':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.smartmoney.com/news/on/?story=ON-20120719-000714&amp;cid=1259</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T15:37:58-04:00</date>
+          <id type="integer">16967332</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Smart Money</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:06:47-04:00</created-at>
+          <title>Ohio Senate race is the most expensive ever</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to 1 in the last quarter, receiving $368,493 and bringing his total amount raised to $2.2 million. At the end of June, Rep. Pat Tiberi, R-Genoa Township, who has represented the 12th Congressional District since 2000, had more than $1.9 million in the b</excerpt>
+          <fti-names>'1':10 '1.9':51 '12th':43 '2.2':25 '2000':47 '368':16 '493':17 'amount':22 'b':55 'bring':19 'columbus':56 'congression':44 'dispatch':57 'district':45 'end':29 'ever':8 'expens':7 'genoa':37 'june':31 'last':13 'million':26,52 'ohio':1 'pat':33 'quarter':14 'r':36 'r-genoa':35 'race':3 'rais':23 'receiv':15 'rep':32 'repres':41 'senat':2 'sinc':46 'tiberi':34 'total':21 'township':38</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/07/16/senate-race-is-most-expensive-ever.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16972276</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-226-4523</fax>
+      <name>Rep. Patrick Tiberi [R, OH-12]</name>
+      <total-session-votes type="integer">1683</total-session-votes>
+      <sunlight-nickname>Pat</sunlight-nickname>
+      <district>12</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:37:15-04:00</created-at>
+          <title>Wind credit with bipartisan backing gets lost in election-year fray ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Pat Tiberi (R-Ohio), who chairs a Ways and Means subcommittee tasked with determining the fate of the PTC and other &#8220;tax extenders,&#8221; called the Democrats&amp;#39; bill &#8220;not helpful&#8221; and said it was &#8220;more about the November ...</excerpt>
+          <fti-names>'back':5 'bill':41 'bipartisan':4 'call':38 'chair':20 'credit':2 'democrat':40 'determin':28 'elect':10 'election-year':9 'extend':37 'fate':30 'fray':12 'get':6 'help':43 'larri':52 'lost':7 'mean':24 'novemb':51 'ohio':18 'pat':14 'pearc':53 'ptc':33 'r':17 'r-ohio':16 'rep':13 'said':45 'subcommitte':25 'task':26 'tax':36 'tiberi':15 'way':22 'wind':1 'year':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.governorswindenergycoalition.org/%3Fp%3D2762&amp;sa=U&amp;ei=agD5T_WoEqis2gWTq_mGDQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNF1RRazr49Uw0LNGiIGtu6FtAwv-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16452249</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Larry Pearce</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:21:10-04:00</created-at>
+          <title>Wind credit with bipartisan backing gets lost in election-year fray ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Pat Tiberi (R-Ohio), who chairs a Ways and Means subcommittee tasked with determining the fate of the PTC and other &#8220;tax extenders,&#8221; called the Democrats&amp;#39; bill &#8220;not helpful&#8221; and said it was &#8220;more about the November ...</excerpt>
+          <fti-names>'back':5 'bill':41 'bipartisan':4 'call':38 'chair':20 'credit':2 'democrat':40 'determin':28 'elect':10 'election-year':9 'extend':37 'fate':30 'fray':12 'get':6 'help':43 'larri':52 'lost':7 'mean':24 'novemb':51 'ohio':18 'pat':14 'pearc':53 'ptc':33 'r':17 'r-ohio':16 'rep':13 'said':45 'subcommitte':25 'task':26 'tax':36 'tiberi':15 'way':22 'wind':1 'year':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.governorswindenergycoalition.org/%3Fp%3D2762&amp;sa=U&amp;ei=5a32T-G0Oajc2QWc1M2HCg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHlN5x-IWWkWkYkJ_NJT3F_N_ZsWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16412076</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Larry Pearce</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:21:08-04:00</created-at>
+          <title>Congress&amp;#39; quick fixes are a danger &#8211; Baldwin Property Group llc</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Pat Tiberi, R-Genoa Township, said the short-term reauthorizations &#8212; and looming deadlines &#8212; aren&amp;#39;t just limited to brick-and-mortar programs. The tax code has more than its share of short-term fixes, all set to expire by ...</excerpt>
+          <fti-names>'aren':27 'baldwin':7 'brick':33 'brick-and-mortar':32 'code':39 'congress':1 'danger':6 'deadlin':26 'expir':53 'fix':3,49 'genoa':16 'group':9 'limit':30 'llc':10 'loom':25 'mortar':35 'pat':12 'program':36 'properti':8 'quick':2 'r':15 'r-genoa':14 'reauthor':23 'rep':11 'said':18 'set':51 'share':44 'short':21,47 'short-term':20,46 'sjbaldwin':55 'tax':38 'term':22,48 'tiberi':13 'township':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baldwinpropertygroup.com/congress-quick-fixes-are-a-danger/&amp;sa=U&amp;ei=5a32T-G0Oajc2QWc1M2HCg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNF7E9KyziatMmfjEtcPFdO0LLt1zQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16412074</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>sjbaldwin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:37:14-04:00</created-at>
+          <title>Bill Would Extend EHR Incentive Pay to Behavioral Care Providers ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Rep. Tim Ryan (D-Ohio);; Rep. John Sullivan (D-Okla.); and; Rep. Pat Tiberi (R-Ohio) (Goedert, Health Data Management, 6/29). Details of Senate Bill. In March 2011, Sen. Sheldon Whitehouse (D-R.I.) introduced a similar bill ...</excerpt>
+          <fti-names>'/most-popular-articles.aspx?tab=1':55 '2011':41 '6/29':34 'behavior':8 'bill':1,38,52 'care':9 'd':15,21,46 'd-ohio':14 'd-okla':20 'd-r':45 'data':32 'detail':35 'ehr':4 'extend':3 'goedert':30 'health':31 'incent':5 'introduc':49 'john':18 'manag':33 'march':40 'ohio':16,29 'okla':22 'pat':25 'pay':6 'provid':10 'r':28,47 'r-ohio':27 'rep':11,17,24 'ryan':13 'sen':42 'senat':37 'sheldon':43 'similar':51 'sullivan':19 'tiberi':26 'tim':12 'whitehous':44 'would':2 'www.ihealthbeat.org':54 'www.ihealthbeat.org/most-popular-articles.aspx?tab=1':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ihealthbeat.org/articles/2012/7/2/bill-would-give-incentive-payments-to-behavioral-health-care-providers.aspx&amp;sa=U&amp;ei=agD5T_WoEqis2gWTq_mGDQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGwr0fdiP-yX4hbP59s7fmXD8YwSQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16452241</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.ihealthbeat.org/most-popular-articles.aspx?tab=1</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:20:39-04:00</created-at>
+          <title>Bill Would Extend EHR Incentive Pay to Behavioral Care Providers ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Rep. Tim Ryan (D-Ohio);; Rep. John Sullivan (D-Okla.); and; Rep. Pat Tiberi (R-Ohio) (Goedert, Health Data Management, 6/29). Details of Senate Bill. In March 2011, Sen. Sheldon Whitehouse (D-R.I.) introduced a similar bill ...</excerpt>
+          <fti-names>'/most-popular-articles.aspx?tab=1':55 '2011':41 '6/29':34 'behavior':8 'bill':1,38,52 'care':9 'd':15,21,46 'd-ohio':14 'd-okla':20 'd-r':45 'data':32 'detail':35 'ehr':4 'extend':3 'goedert':30 'health':31 'incent':5 'introduc':49 'john':18 'manag':33 'march':40 'ohio':16,29 'okla':22 'pat':25 'pay':6 'provid':10 'r':28,47 'r-ohio':27 'rep':11,17,24 'ryan':13 'sen':42 'senat':37 'sheldon':43 'similar':51 'sullivan':19 'tiberi':26 'tim':12 'whitehous':44 'would':2 'www.ihealthbeat.org':54 'www.ihealthbeat.org/most-popular-articles.aspx?tab=1':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ihealthbeat.org/articles/2012/7/2/bill-would-give-incentive-payments-to-behavioral-health-care-providers.aspx&amp;sa=U&amp;ei=5a32T-G0Oajc2QWc1M2HCg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNFgUmdWPE6Up6dWA8D-zMOKli38uw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16412071</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.ihealthbeat.org/most-popular-articles.aspx?tab=1</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:37:15-04:00</created-at>
+          <title>Licking County&amp;#39;s Congressman Pat Tiberi&amp;#39;s statement regarding the ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Licking County&amp;#39;s Congressman Pat Tiberi released the following statement regarding the U.S. Supreme Court&amp;#39;s ruling on the constitutionality of the Democrats&amp;#39; health reform law: &#8220;Although the U.S. Supreme Court deemed the ...</excerpt>
+          <fti-names>'admin':44 'although':37 'congressman':4,14 'constitut':30 'counti':2,12 'court':25,41 'deem':42 'democrat':33 'follow':19 'health':34 'law':36 'lick':1,11 'pat':5,15 'reform':35 'regard':9,21 'releas':17 'rule':27 'statement':8,20 'suprem':24,40 'tiberi':6,16 'u.s':23,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://lickingcountyrepublicanparty.org/2012/06/28/licking-countys-congressman-pat-tiberi-statement-regarding-the-us-supreme-court%25E2%2580%2599s-ruling/&amp;sa=U&amp;ei=agD5T_WoEqis2gWTq_mGDQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGl-2AFAVHbp0ei3yIIH70lALG1ug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16452245</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:21:16-04:00</created-at>
+          <title>Licking County&amp;#39;s Congressman Pat Tiberi&amp;#39;s statement regarding the ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Licking County&amp;#39;s Congressman Pat Tiberi released the following statement regarding the U.S. Supreme Court&amp;#39;s ruling on the constitutionality of the Democrats&amp;#39; health reform law: &#8220;Although the U.S. Supreme Court deemed the ...</excerpt>
+          <fti-names>'admin':44 'although':37 'congressman':4,14 'constitut':30 'counti':2,12 'court':25,41 'deem':42 'democrat':33 'follow':19 'health':34 'law':36 'lick':1,11 'pat':5,15 'reform':35 'regard':9,21 'releas':17 'rule':27 'statement':8,20 'suprem':24,40 'tiberi':6,16 'u.s':23,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://lickingcountyrepublicanparty.org/2012/06/28/licking-countys-congressman-pat-tiberi-statement-regarding-the-us-supreme-court%25E2%2580%2599s-ruling/&amp;sa=U&amp;ei=5a32T-G0Oajc2QWc1M2HCg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNH_9LFc7AVv5ts6qFGxop0O0-k1YQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16412082</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:37:15-04:00</created-at>
+          <title>Biking and Walking Hang in the Balance &#8212; Call Congress ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Robert Menendez: (973) 645-3030; New York-24: Rep. Richard Hanna: (315) 724-9740; New York state: Sen. Charles Schumer: (212) 486-4430; Ohio-12: Rep. Pat Tiberi: (614) 523-2555; Oklahoma-5: Rep. James Lankford: ...</excerpt>
+          <fti-names>'-12':34 '-24':17 '-2555':40 '-3030':14 '-4430':32 '-5':42 '-9740':23 '212':30 '315':21 '486':31 '523':39 '614':38 '645':13 '724':22 '973':12 'balanc':7 'bike':1 'call':8 'charl':28 'congress':9 'hang':4 'hanna':20 'jame':44 'jodi':46 'lankford':45 'menendez':11 'new':15,24 'ohio':33 'oklahoma':41 'pat':36 'rep':18,35,43 'richard':19 'robert':10 'schumer':29 'sen':27 'state':26 'tiberi':37 'walk':3 'york':16,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.considerbiking.org/biking-and-walking-hang-in-the-balance-call-congress/&amp;sa=U&amp;ei=agD5T_WoEqis2gWTq_mGDQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHm3V6u_YdZlmHsfYORz2F9NVZ-lw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16452244</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jody</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:37:15-04:00</created-at>
+          <title>UPDATE: The Nuns On The Bus Go &amp;#39;Round And &amp;#39;Round | Fr. Z&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The visit yesterday at the office of U.S. Rep. Pat Tiberi, R-Genoa Township, is one of about a dozen congressional-office stops Network has on a schedule that started June?17 in Des Moines, Iowa, and ends on Monday in ...</excerpt>
+          <fti-names>'17':47 'bus':6 'congression':36 'congressional-offic':35 'des':49 'dozen':34 'end':53 'fr':11,57 'genoa':27 'go':7 'iowa':51 'john':58 'june':46 'moin':50 'monday':55 'network':39 'nun':3 'offic':19,37 'one':30 'pat':23 'r':26 'r-genoa':25 'rep':22 'round':8,10 'schedul':43 'start':45 'stop':38 'tiberi':24 'township':28 'u.s':21 'updat':1 'visit':15 'yesterday':16 'z':12 'zuhlsdorf':59</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wdtprs.com/blog/2012/06/update-the-nuns-on-the-bus-go-round-and-round/&amp;sa=U&amp;ei=agD5T_WoEqis2gWTq_mGDQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHLrxItECfbBCh6vmBD9MmNgNK4xw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16452242</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fr. John Zuhlsdorf</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400406</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:21:12-04:00</created-at>
+          <title>Biking and Walking Hang in the Balance &#8212; Call Congress ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Robert Menendez: (973) 645-3030; New York-24: Rep. Richard Hanna: (315) 724-9740; New York state: Sen. Charles Schumer: (212) 486-4430; Ohio-12: Rep. Pat Tiberi: (614) 523-2555; Oklahoma-5: Rep. James Lankford: ...</excerpt>
+          <fti-names>'-12':34 '-24':17 '-2555':40 '-3030':14 '-4430':32 '-5':42 '-9740':23 '212':30 '315':21 '486':31 '523':39 '614':38 '645':13 '724':22 '973':12 'balanc':7 'bike':1 'call':8 'charl':28 'congress':9 'hang':4 'hanna':20 'jame':44 'jodi':46 'lankford':45 'menendez':11 'new':15,24 'ohio':33 'oklahoma':41 'pat':36 'rep':18,35,43 'richard':19 'robert':10 'schumer':29 'sen':27 'state':26 'tiberi':37 'walk':3 'york':16,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.considerbiking.org/biking-and-walking-hang-in-the-balance-call-congress/&amp;sa=U&amp;ei=5a32T-G0Oajc2QWc1M2HCg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFa4tuPs_-cfxuGjAlawM6CIEQhxQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16412077</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jody</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">17987</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Patrick Tiberi</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

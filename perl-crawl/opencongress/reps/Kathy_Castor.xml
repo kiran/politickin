@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.0207443563148</party-votes-percentage>
+        <abstains-percentage type="float">4.65386852821408</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">190</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">146</cosponsored-bills-passed-rank>
+        <abstains type="integer">80</abstains>
+        <cosponsored-bills type="integer">205</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">145</party-votes-percentage-rank>
+        <sponsored-bills type="integer">7</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412195</person-id>
+        <cosponsored-bills-rank type="integer">214</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">272</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">399</votes-republican-position>
+      <fax>202-225-5652</fax>
+      <blog-article-count type="integer">6397</blog-article-count>
+      <user-approval type="float">2.1</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">185</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>https://forms.house.gov/wyr/welcome.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.0207443563148</with-party-percentage>
+      <lastname>Castor</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>C001066</bioguide-id>
+      <congress-office>137 Cannon House Office Building</congress-office>
+      <firstname>Kathy</firstname>
+      <website>http://castor.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412195</person-id>
+      <phone>202-225-3376</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1541</votes-democratic-position>
+      <metavid-id>Kathy_Castor</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:54:26-04:00</created-at>
+          <title>Rep. Castor calls for federal FCAT probe</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Castor wants some accountability of the accountability effort that keeps an eye on how well Florida's public schools are doing. The Democratic congresswoman from Tampa called on the U.S. Department of Education on Wednesday to investigate recent problem</excerpt>
+          <fti-names>'account':11,14 'bay':48 'call':3,34 'castor':2,8 'congresswoman':31 'democrat':30 'depart':38 'educ':40 'effort':15 'eye':19 'fcat':6 'feder':5 'florida':23 'investig':44 'keep':17 'onlin':49 'probe':7 'problem':46 'public':25 'recent':45 'rep':1 'school':26 'tampa':33,47 'u.s':37 'want':9 'wednesday':42 'well':22</fti-names>
+          <source-url>http://news.tbo.com/</source-url>
+          <url>http://feedproxy.google.com/~r/tbo/news/~3/fcgBRBxT4X8/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970479</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:33:32-04:00</created-at>
+          <title>U.S. Rep. Castor calls on feds to investigate FCAT</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. Kathy Castor, a Tampa Democrat, has asked U.S. Education Secretary Arne Duncan to step in and investigate Florida&#8217;s school accountability sytem, and particularly the state FCAT tests. &#8220;We need some accountability for Florida&#8217;s accountability </excerpt>
+          <fti-names>'account':31,42,46 'arn':21 'ask':17 'call':4 'castor':3,12 'democrat':15 'duncan':22 'educ':19 'fcat':9,37 'fed':6 'florida':28,44 'investig':8,27 'kathi':11 'need':40 'orlando':47 'particular':34 'rep':2,10 'school':30 'secretari':20 'sentinel':48 'state':36 'step':24 'sytem':32 'tampa':14 'test':38 'u.s':1,18</fti-names>
+          <source-url>http://www.orlandosentinel.com/</source-url>
+          <url>http://feedproxy.google.com/~r/SentinelSchoolZone/~3/OYOtr8uZBmg/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969562</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Orlando Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:33:31-04:00</created-at>
+          <title>Rep. Castor calls for investigation into FCAT</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...... After days of mourning the mass shooting at an Aurora movie theater, Coloradans ... WASHINGTON, D.C. - Congresswoman Kathy Castor will hosted a telephone news conference Wednesday regarding the Florida Comprehensive Assessment Test (FCAT) and the re</excerpt>
+          <fti-names>'assess':37 'aurora':17 'call':3 'castor':2,25 'coloradan':20 'comprehens':36 'confer':31 'congresswoman':23 'd.c':22 'day':9 'fcat':7,39 'florida':35 'host':27 'investig':5 'kathi':24 'mass':13 'mourn':11 'movi':18 'news':30 'petersburgh':47 're':42 'regard':33 'rep':1 'shoot':14 'st':46 'telephon':29 'test':38 'theater':19 'tv':45 'washington':21 'wednesday':32 'wtsp':44 'wtsp-tv':43</fti-names>
+          <source-url>http://wtsp.com/</source-url>
+          <url>http://feedproxy.google.com/~r/wtsp/politics/~3/nS4aIEvW12w/Rep-Castor-calls-for-investigation-into-FCAT</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969561</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WTSP-TV St. Petersburgh</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:33:31-04:00</created-at>
+          <title>U.S. Rep Kathy Castor calls for federal review of FCAT</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Kathy Castor, D-Tampa, plans to ask the U.S. Department of Education to review the &quot;flaws and failures&quot; of the FCAT. Castor announced today in a media call that she plans to send a letter to U.S. Education Secretary Arne Duncan requesting the indep</excerpt>
+          <fti-names>'announc':35 'arn':52 'ask':19 'call':5,40 'castor':4,13,34 'd':15 'd-tampa':14 'depart':22 'duncan':53 'educ':24,50 'failur':30 'fcat':10,33 'feder':7 'flaw':28 'indep':56 'kathi':3,12 'letter':47 'media':39 'petersburg':59 'plan':17,43 'rep':2,11 'request':54 'review':8,26 'secretari':51 'send':45 'st':58 'tampa':16 'tampabay.com':57 'time':60 'today':36 'u.s':1,21,49</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/blogs/gradebook/content/us-rep-kathy-castor-calls-federal-review-fcat</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969560</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:40-04:00</created-at>
+          <title>GOP senators say federal budget cuts threaten MacDill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>That would destroy your ability to defend the nation.&quot; U.S. Rep. Kathy Castor, a Tampa Democrat, said the sequestration cuts would affect programs other than defense. &quot;Our local economy, schools, universities, infrastructure and medical research ...</excerpt>
+          <fti-names>'abil':13 'affect':30 'bay':45 'budget':5 'castor':21 'cut':6,28 'defend':15 'defens':34 'democrat':24 'destroy':11 'economi':37 'feder':4 'gop':1 'infrastructur':40 'kathi':20 'local':36 'macdil':8 'medic':42 'nation':17 'onlin':46 'program':31 'rep':19 'research':43 'said':25 'say':3 'school':38 'senat':2 'sequestr':27 'tampa':23,44 'threaten':7 'u.s':18 'univers':39 'would':10,29</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/republican-national-convention/2012/jul/30/4/gop-senators-bring-budget-fight-to-tampa-ar-447342/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T09:25:49-04:00</date>
+          <id type="integer">16966176</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:42-04:00</created-at>
+          <title>Local teen lobbies Congress to stop cuts to Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Hunter Ratcliffe, left, talks with Rep. Gus Bilirakis about his opposition to proposed cuts to Medicaid. While many teenagers were sitting on the couch for summer vacation, a Bay area teen spent his summer lobbying members of Congress. Back in 1995, Hunt</excerpt>
+          <fti-names>'1995':50 'area':39 'back':48 'bay':38 'biliraki':17 'children':53 'congress':4,47 'couch':33 'cut':7,23 'fl':57 'gus':16 'hospit':54 'hunt':51 'hunter':10 'left':12 'lobbi':3,44 'local':1 'mani':27 'medicaid':9,25 'member':45 'opposit':20 'petersburg':56 'propos':22 'ratcliff':11 'rep':15 'sit':30 'spent':41 'st':55 'stop':6 'summer':35,43 'talk':13 'teen':2,40 'teenag':28 'vacat':36</fti-names>
+          <source-url>http://www.allkids.org/</source-url>
+          <url>http://feedproxy.google.com/~r/ACHInTheNews/~3/_5NDv6HJnR4/local_teen_lobbies_c.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966177</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>All Childrens Hospital, St. Petersburg FL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:15-04:00</created-at>
+          <title>GOP senators bring budget fight to Tampa</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>That would destroy your ability to defend the nation.&quot; U.S. Rep. Kathy Castor, a Tampa Democrat, said the sequestration cuts would affect programs other than defense. &quot;Our local economy, schools, universities, infrastructure and medical research ...</excerpt>
+          <fti-names>'abil':12 'affect':29 'bay':44 'bring':3 'budget':4 'castor':20 'cut':27 'defend':14 'defens':33 'democrat':23 'destroy':10 'economi':36 'fight':5 'gop':1 'infrastructur':39 'kathi':19 'local':35 'medic':41 'nation':16 'onlin':45 'program':30 'rep':18 'research':42 'said':24 'school':37 'senat':2 'sequestr':26 'tampa':7,22,43 'u.s':17 'univers':38 'would':9,28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/republican-national-convention/2012/jul/30/gop-senators-bring-budget-fight-to-tampa-ar-447342/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T22:05:47-04:00</date>
+          <id type="integer">16959694</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:39-04:00</created-at>
+          <title>GOP senators bring budget fight to Tampa</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>That would destroy your ability to defend the nation.&quot; U.S. Rep. Kathy Castor, a Tampa Democrat, said the sequestration cuts would affect programs other than defense. &quot;Our local economy, schools, universities, infrastructure and medical research ...</excerpt>
+          <fti-names>'abil':12 'affect':29 'bay':44 'bring':3 'budget':4 'castor':20 'cut':27 'defend':14 'defens':33 'democrat':23 'destroy':10 'economi':36 'fight':5 'gop':1 'infrastructur':39 'kathi':19 'local':35 'medic':41 'nation':16 'onlin':45 'program':30 'rep':18 'research':42 'said':24 'school':37 'senat':2 'sequestr':26 'tampa':7,22,43 'u.s':17 'univers':38 'would':9,28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/breaking-news/2012/jul/30/gop-senators-bring-budget-fight-to-tampa-ar-447342/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T21:08:31-04:00</date>
+          <id type="integer">16966175</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:15-04:00</created-at>
+          <title>NRC: Progress Energy's Fla. nuclear plant can be repaired</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>When asked by Rep. Kathy Castor, D-Fla., about the NRC's &quot;role to examine the costs,&quot; Chairwoman Allison Macfarlane said it &quot;would not be an appropriate role&quot; for the commission.</excerpt>
+          <fti-names>'allison':30 'appropri':38 'ask':12 'castor':16 'chairwoman':29 'commiss':42 'cost':28 'd':18 'd-fla':17 'energi':3 'examin':26 'fla':5,19 'kathi':15 'macfarlan':31 'nrc':1,22 'nuclear':6 'plant':7 'progress':2 'rep':14 'repair':10 'role':24,39 'said':32 'smartbrief':43 'would':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.smartbrief.com/servlet/rdrc?u=%2Fnews%2FstoryDetails.jsp%3Fissueid%3DA4E97266-1A52-4CF9-B174-01B457BB34A9%26copyid%3D5F7BC346-F782-4BA3-9CF7-D66D59A6D89E%26brief%3Dagc%26sb_code%3Drss%26%26campaign%3Drss&amp;i=A4E97266-1A52-4CF9-B174-01B457BB34A9</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T10:17:06-04:00</date>
+          <id type="integer">16959695</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SmartBrief</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:41:02-04:00</created-at>
+          <title>U.S. Rep. asks NRC about Duke Energy&#8217;s crippled Florida nuke</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Commissioner William Magwood told Rep. Kathy Castor, D-Fla., he was at Crystal River inspecting the work there just two months ago and the staff is following the situation very closely. &#8220;The repair work that is under way is very complex in ...</excerpt>
+          <fti-names>'ago':34 'ask':3 'busi':56 'castor':18 'close':43 'commission':12 'complex':53 'crippl':9 'crystal':25 'd':20 'd-fla':19 'duke':6 'energi':7 'fla':21 'florida':10 'follow':39 'inspect':27 'journal':57 'kathi':17 'magwood':14 'month':33 'nrc':4 'nuke':11 'rep':2,16 'repair':45 'river':26 'situat':41 'staff':37 'told':15 'two':32 'u.s':1 'way':50 'william':13 'work':29,46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bizjournals.com/charlotte/blog/power_city/2012/07/us-rep-asks-nrc-about-duke-energys.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:40:36-04:00</date>
+          <id type="integer">16888688</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Business Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Kathy Castor [D, FL-11]</name>
+      <total-session-votes type="integer">1639</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>11</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:40:18-04:00</created-at>
+          <title>Small Estate Affidavit Texas Harris County</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Michael Capuano [D, MA-8] Rep. Dennis Cardoza [D, CA-18] Rep. Russ Carnahan [D, MO-3] Rep. John Carney [D, DE-0] Rep. Andr&#233; Carson [D, IN-7] Rep. Bill Cassidy [R, LA-6] Rep. Kathy Castor [D, FL-11] Rep. Steven Chabot [R, OH-1] Rep ...</excerpt>
+          <fti-names>'-0':29 '-1':53 '-11':47 '-18':17 '-3':23 '-6':41 '-7':35 '-8':11 'affidavit':3 'andr&#233;':31 'bill':37 'ca':16 'capuano':8 'cardoza':14 'carnahan':20 'carney':26 'carson':32 'cassidi':38 'castor':44 'chabot':50 'counti':6 'd':9,15,21,27,33,45 'de':28 'denni':13 'estat':2 'fl':46 'harri':5 'john':25 'kathi':43 'la':40 'ma':10 'michael':7 'mo':22 'oh':52 'probatecourtco.com':55 'r':39,51 'rep':12,18,24,30,36,42,48,54 'russ':19 'small':1 'steven':49 'texa':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/small-estate-affidavit-texas-harris-county/&amp;sa=U&amp;ei=DmgLUOKXK6q02AWs8aQE&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGB3Q4XSBrWpTdZ9gZn2Ev7ghjIFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16786213</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:42:59-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Lois Capps [D, CA-23] Rep. Michael Capuano [D, MA-8] Rep. Dennis Cardoza [D, CA-18] Rep. Russ Carnahan [D, MO-3] Rep. John Carney [D, DE-0] Rep. Andr&#233; Carson [D, IN-7] Rep. Bill Cassidy [R, LA-6] Rep. Kathy Castor ...</excerpt>
+          <fti-names>'-0':34 '-18':22 '-23':10 '-3':28 '-6':46 '-7':40 '-8':16 'andr&#233;':36 'bankruptci':3 'bill':42 'ca':9,21 'capp':7 'capuano':13 'cardoza':19 'carnahan':25 'carney':31 'carson':37 'cassidi':43 'castor':49 'court':4 'd':8,14,20,26,32,38 'de':33 'denni':18 'district':2 'john':30 'kathi':48 'la':45 'loi':6 'ma':15 'michael':12 'mo':27 'oklahoma':5 'r':44 'rep':11,17,23,29,35,41,47 'russ':24 'unitedstatesbankruptcycourtco.com':50 'western':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-11/&amp;sa=U&amp;ei=sX8DUP8phpLYBfjNhZML&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGvKKFGW_2UminMiwfhMe5Jk8Mepw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647638</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:58:25-04:00</created-at>
+          <title>Local politicians seek to sway Tampa area business leaders ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>... Connie Mack collected 61 percent over incumbent and Democrat Bill Nelson in the U.S. Senate race, and Evelio &#8220;EJ&#8221; Otero won support from a plurality &#8212; 45 percent &#8212; over Democratic incumbent U.S. Rep. Kathy Castor.</excerpt>
+          <fti-names>'45':35 '61':13 'area':7 'bascom':45 'bill':19 'busi':8 'castor':43 'collect':12 'conni':10 'democrat':18,38 'ej':28 'evelio':27 'incumb':16,39 'kathi':42 'leader':9 'local':1 'mack':11 'nelson':20 'otero':29 'percent':14,36 'plural':34 'politician':2 'race':25 'rep':41 'sarah':44 'seek':3 'senat':24 'support':31 'sway':5 'tampa':6 'u.s':23,40 'won':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bascomllc.com/local-politicians-seek-to-sway-tampa-area-business-leaders/&amp;sa=U&amp;ei=zL0MUOuxMcWl2AXnns0k&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNENrQ9DGUSpciUuktCaYVCWWNuxFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16812341</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Bascom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:42:58-04:00</created-at>
+          <title>Local politicians seek to sway Tampa area business leaders ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>... Connie Mack collected 61 percent over incumbent and Democrat Bill Nelson in the U.S. Senate race, and Evelio &#8220;EJ&#8221; Otero won support from a plurality &#8212; 45 percent &#8212; over Democratic incumbent U.S. Rep. Kathy Castor.</excerpt>
+          <fti-names>'45':35 '61':13 'area':7 'bascom':45 'bill':19 'busi':8 'castor':43 'collect':12 'conni':10 'democrat':18,38 'ej':28 'evelio':27 'incumb':16,39 'kathi':42 'leader':9 'local':1 'mack':11 'nelson':20 'otero':29 'percent':14,36 'plural':34 'politician':2 'race':25 'rep':41 'sarah':44 'seek':3 'senat':24 'support':31 'sway':5 'tampa':6 'u.s':23,40 'won':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bascomllc.com/local-politicians-seek-to-sway-tampa-area-business-leaders/&amp;sa=U&amp;ei=sX8DUP8phpLYBfjNhZML&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGwzjauDShhqnHhDFVTQHM-H2xyLg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16647633</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Bascom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:58:25-04:00</created-at>
+          <title>The Expertise of Long Term Care Professionals Goes to Congress at</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Kathy Castor: &#8220;Quality suffers if we continue to cut the resources available to long term care facilities as 77 million will retire. The elephant in the room is the threat of these severe Medicaid cuts.&#8221; ...</excerpt>
+          <fti-names>'77':31 'ahca/ncal':48 'avail':24 'care':6,28 'castor':14 'congress':10 'continu':19 'cut':21,47 'eleph':36 'expertis':2 'facil':29 'goe':8 'kathi':13 'long':4,26 'medicaid':46 'million':32 'profession':7 'qualiti':15 'repres':12 'resourc':23 'retir':34 'room':39 'sever':45 'suffer':16 'term':5,27 'threat':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://longtermcareleader.blogspot.com/2012/07/expertise-of-long-term-care.html&amp;sa=U&amp;ei=zL0MUOuxMcWl2AXnns0k&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHfOVo8HiiL90xbQ5JQmCE6Y3958g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16812340</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AHCA/NCAL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:40:19-04:00</created-at>
+          <title>The Expertise of Long Term Care Professionals Goes to Congress at</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Kathy Castor: &#8220;Quality suffers if we continue to cut the resources available to long term care facilities as 77 million will retire. The elephant in the room is the threat of these severe Medicaid cuts.&#8221; ...</excerpt>
+          <fti-names>'77':31 'ahca/ncal':48 'avail':24 'care':6,28 'castor':14 'congress':10 'continu':19 'cut':21,47 'eleph':36 'expertis':2 'facil':29 'goe':8 'kathi':13 'long':4,26 'medicaid':46 'million':32 'profession':7 'qualiti':15 'repres':12 'resourc':23 'retir':34 'room':39 'sever':45 'suffer':16 'term':5,27 'threat':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://longtermcareleader.blogspot.com/2012/07/expertise-of-long-term-care.html&amp;sa=U&amp;ei=DmgLUOKXK6q02AWs8aQE&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGyRGvw-Vi9DHWZ3iuttqXIrBd3cw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16786216</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AHCA/NCAL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:42:59-04:00</created-at>
+          <title>The Expertise of Long Term Care Professionals Goes to Congress in</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Kathy Castor: &#8220;Quality suffers if we continue to cut the resources available to long term care facilities as 77 million will retire. The elephant in the room is the threat of these severe Medicaid cuts.&#8221; ...</excerpt>
+          <fti-names>'77':31 'ahca/ncal':48 'avail':24 'care':6,28 'castor':14 'congress':10 'continu':19 'cut':21,47 'eleph':36 'expertis':2 'facil':29 'goe':8 'kathi':13 'long':4,26 'medicaid':46 'million':32 'profession':7 'qualiti':15 'repres':12 'resourc':23 'retir':34 'room':39 'sever':45 'suffer':16 'term':5,27 'threat':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://longtermcareleader.blogspot.com/2012/07/expertise-of-long-term-care.html&amp;sa=U&amp;ei=sX8DUP8phpLYBfjNhZML&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNGVe8iQg6hl0asQJCSffJHaCr7RbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16647635</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AHCA/NCAL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:42:59-04:00</created-at>
+          <title>White House Visit Promotes HCC Partnership with DAS - Doctors ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Mayor Bob Buckhorn attended the meeting and a welcoming reception was held at the Florida House with Senator Bill Nelson and Representative Kathy Castor as hosts following a tour of the White House. One of the reasons ...</excerpt>
+          <fti-names>'attend':13 'bill':28 'bob':11 'buckhorn':12 'castor':33 'das':8 'doctor':9 'florida':24 'follow':36 'hcc':5 'held':21 'host':35 'hous':2,25,42 'kathi':32 'malloryt':47 'mayor':10 'meet':15 'nelson':29 'one':43 'partnership':6 'promot':4 'reason':46 'recept':19 'repres':31 'senat':27 'tour':38 'visit':3 'welcom':18 'white':1,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dr-solutions.com/white-house-visit-promotes-hcc-partnership-with-das/&amp;sa=U&amp;ei=sX8DUP8phpLYBfjNhZML&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGWs7VMNqq6DIV7rwR0bY1CFvXXRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16647636</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>malloryt</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:58:24-04:00</created-at>
+          <title>You&amp;#39;re invited: Fundraiser for US Rep. Kathy Castor tonight | Saint ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>You&amp;#39;re invited: Fundraiser for US Rep. Kathy Castor tonight. Share this article: Email &amp;middot; Print. Related Posts. Sunburn for 6/13: A morning read of what&amp;#39;s hot in Florida politics &amp;middot; You&amp;#39;re invited: Fundraiser for US Rep. Kathy Casto</excerpt>
+          <fti-names>'6/13':31 'articl':24 'casto':50 'castor':9,20 'email':25 'florida':40 'fundrais':4,15,45 'hot':38 'invit':3,14,44 'kathi':8,19,49 'morn':33 'peter':51 'polit':41 'post':28 'print':26 're':2,13,43 'read':34 'relat':27 'rep':7,18,48 'saint':11 'schorsch':52 'share':22 'sunburn':29 'tonight':10,21 'us':6,17,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://saintpetersblog.com/2012/06/youre-invited-fundraiser-for-us-rep-kathy-castor-tonight/&amp;sa=U&amp;ei=zL0MUOuxMcWl2AXnns0k&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNG6oXpW3_fyxSYZeKIr-GuAIghRSw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">16812337</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Peter Schorsch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412195</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:40:18-04:00</created-at>
+          <title>You&amp;#39;re invited: Fundraiser for US Rep. Kathy Castor tonight | Saint ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>You&amp;#39;re invited: Fundraiser for US Rep. Kathy Castor tonight. Share this article: Email &amp;middot; Print. Related Posts. Sunburn for 6/13: A morning read of what&amp;#39;s hot in Florida politics &amp;middot; You&amp;#39;re invited: Fundraiser for US Rep. Kathy Casto</excerpt>
+          <fti-names>'6/13':31 'articl':24 'casto':50 'castor':9,20 'email':25 'florida':40 'fundrais':4,15,45 'hot':38 'invit':3,14,44 'kathi':8,19,49 'morn':33 'peter':51 'polit':41 'post':28 'print':26 're':2,13,43 'read':34 'relat':27 'rep':7,18,48 'saint':11 'schorsch':52 'share':22 'sunburn':29 'tonight':10,21 'us':6,17,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://saintpetersblog.com/2012/06/youre-invited-fundraiser-for-us-rep-kathy-castor-tonight/&amp;sa=U&amp;ei=DmgLUOKXK6q02AWs8aQE&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFl3xIGwe2a59y9bMfgeXIdirMVTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">16786212</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Peter Schorsch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21879</page-views-count>
+      <unaccented-name>Kathy Castor</unaccented-name>
+      <oc-user-comments type="integer">11</oc-user-comments>
+    </person>
+  </people>
+</hash>

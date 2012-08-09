@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.6144578313253</party-votes-percentage>
+        <abstains-percentage type="float">3.43222803955788</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">179</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">339</cosponsored-bills-passed-rank>
+        <abstains type="integer">59</abstains>
+        <cosponsored-bills type="integer">238</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">286</party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">400237</votes-least-often-with-id>
+        <person-id type="integer">400010</person-id>
+        <cosponsored-bills-rank type="integer">274</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">373</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">11</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1554</votes-republican-position>
+      <fax>202-225-2082</fax>
+      <blog-article-count type="integer">10441</blog-article-count>
+      <user-approval type="float">2.88235294117647</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">180</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/writerep/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.6144578313253</with-party-percentage>
+      <lastname>Bachus</lastname>
+      <middlename>Thomas</middlename>
+      <bioguide-id>B000013</bioguide-id>
+      <congress-office>2246 Rayburn House Office Building</congress-office>
+      <firstname>Spencer</firstname>
+      <website>http://bachus.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1947-12-28</birthday>
+      <person-id type="integer">400010</person-id>
+      <phone>202-225-4921</phone>
+      <religion>Baptist</religion>
+      <votes-democratic-position type="integer">438</votes-democratic-position>
+      <metavid-id>Spencer_Bachus</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:27-04:00</created-at>
+          <title>Debate over Adviser SRO Heats Up Again</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Spencer Bachus, Chairman of the House Financial Services Committee, has an op-ed piece in today's Wall St. Journal called &quot;Financial Advisers, Police Yourselves,&quot; in which he calls for support of the Investment Adviser Oversight Bill that would authoriz</excerpt>
+          <fti-names>'advis':3,31,43 'authoriz':48 'bachus':9 'bill':45 'blog':51 'call':29,37 'chairman':10 'committe':16 'debat':1 'ed':21 'financi':14,30 'heat':5 'hous':13 'invest':42 'journal':28 'law':49 'op':20 'op-':19 'oversight':44 'piec':22 'polic':32 'professor':50 'servic':15 'spencer':8 'sro':4 'st':27 'support':39 'today':24 'wall':26 'would':47</fti-names>
+          <source-url>http://www.lawprofessorblogs.com/</source-url>
+          <url>http://lawprofessors.typepad.com/securities/2012/08/debate-over-adviser-sro-heats-up-again.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972696</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Law Professor Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:28:57-04:00</created-at>
+          <title>UAB, Congressman Bachus raising palliative care's profile on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...grants and fellowships for education and training. One of the bills already has bipartisan support from sponsors Rep. Spencer Bachus, R-Vestavia Hills, and Rep. Emanuel Cleaver, D-Mo. &quot;Right now, thousands of patients who are suffering from pain, shortn</excerpt>
+          <fti-names>'alabama':55 'alreadi':23 'bachus':3,31 'bill':22 'bipartisan':25 'capitol':10 'care':6 'cleaver':39 'congressman':2 'd':41 'd-mo':40 'educ':16 'emanuel':38 'everyth':54 'fellowship':14 'grant':12 'hill':11,35 'mo':42 'one':19 'pain':52 'palliat':5 'patient':47 'profil':8 'r':33 'r-vestavia':32 'rais':4 'rep':29,37 'right':43 'shortn':53 'spencer':30 'sponsor':28 'suffer':50 'support':26 'thousand':45 'train':18 'uab':1 'vestavia':34</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/sweethome/2012/08/uab_congressman_bachus_raising.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972407</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:28:57-04:00</created-at>
+          <title>Spencer Bachus: Financial Advisers, Police Yourselves</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Spencer Bachus Bernie Madoff. Matthew Hutcheson. Mark Spangler. If these names don't ring a bell, you are lucky. Reports indicate that thousands of investors lost billions in savings&#8212;in some cases an entire lifetime's worth&#8212;investing with these fina</excerpt>
+          <fti-names>'advis':4 'bachus':2,8 'bell':22 'berni':9 'billion':33 'case':38 'entir':40 'fina':47 'financi':3 'hutcheson':12 'indic':27 'invest':44 'investor':31 'journal':50 'lifetim':41 'lost':32 'lucki':25 'madoff':10 'mark':13 'matthew':11 'name':17 'polic':5 'report':26 'ring':20 'save':35 'spangler':14 'spencer':1,7 'street':49 'thousand':29 'wall':48 'worth':43</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390443687504577563322135223892.html?mod=WSJ_topics_obama</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972406</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:30:44-04:00</created-at>
+          <title>Wall Street trading debacle raises fears</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...for us to gather all the facts before determining a course of action,&#8221; House Financial Services Committee Chairman Spencer Bachus, R-Ala., said. Rep. Maxine Waters, D-Los Angeles, the top Democrat on the panel&#8217;s subcommittee that oversees capital ma</excerpt>
+          <fti-names>'action':19 'ala':29 'angel':37 'bachus':26 'capit':48 'chairman':24 'committe':23 'cours':17 'd':35 'd-los':34 'daili':51 'debacl':4 'democrat':40 'determin':15 'fact':13 'fear':6 'financi':21 'gather':10 'herald':52 'hous':20 'los':36 'ma':49 'maxin':32 'morri':50 'overse':47 'panel':43 'r':28 'r-ala':27 'rais':5 'rep':31 'said':30 'servic':22 'spencer':25 'street':2 'subcommitte':45 'top':39 'trade':3 'us':8 'wall':1 'water':33</fti-names>
+          <source-url>http://www.morrisdailyherald.com/</source-url>
+          <url>http://www.morrisdailyherald.com/2012/08/03/wall-street-trading-debacle-raises-fears/aope7hk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971453</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Morris Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:30:41-04:00</created-at>
+          <title>Bachus, ABA Urge Regulators to Extend Basel Comment Deadline</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...impact. &quot;As you know, this rule is extremely complex, so additional time for commenting is certainly justified,&quot; Rep. Spencer Bachus, an Alabama Republican, wrote in a letter Thursday to Federal Reserve Chairman Ben Bernanke. &quot;Additionally, I feel the l</excerpt>
+          <fti-names>'aba':2 'addit':20,44 'alabama':31 'american':49 'bachus':1,29 'banker':50 'basel':7 'ben':42 'bernank':43 'certain':25 'chairman':41 'comment':8,23 'complex':18 'deadlin':9 'extend':6 'extrem':17 'feder':39 'feel':46 'impact':10 'justifi':26 'know':13 'l':48 'letter':36 'regul':4 'rep':27 'republican':32 'reserv':40 'rule':15 'spencer':28 'thursday':37 'time':21 'urg':3 'wrote':33</fti-names>
+          <source-url>http://www.americanbanker.com/</source-url>
+          <url>http://www.americanbanker.com/issues/177_150/bachus-aba-urge-regulators-extend-basel-comment-deadline-1051574-1.html?CMP=OTC-RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971452</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Banker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:29:07-04:00</created-at>
+          <title>TheStreet: Facebook to Apple?; Bernie Madoff Laughing?; College Admissions Confessions</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...advisers go down in flames thanks to an all-out industry lobbying effort. House Financial Services Committee chairman Spencer Bachus (R-Ala.) dropped efforts to push the Investment Adviser Oversight Act of 2012 to the House floor after he realized that </excerpt>
+          <fti-names>'2012':45 'act':43 'admiss':9 'advis':11,41 'ala':34 'all-out':19 'appl':4 'bachus':31 'berni':5 'chairman':29 'colleg':8 'committe':28 'confess':10 'daili':54 'drop':35 'effort':24,36 'facebook':2 'financi':26 'flame':15 'floor':49 'freeman':55 'go':12 'hous':25,48 'industri':22 'invest':40 'laugh':7 'lobbi':23 'madoff':6 'oversight':42 'push':38 'r':33 'r-ala':32 'realiz':52 'servic':27 'spencer':30 'thank':16 'thestreet':1</fti-names>
+          <source-url>http://www.dailyfreeman.com/</source-url>
+          <url>http://www.dailyfreeman.com/articles/2012/08/01/news/doc50191724aa835243877188.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969461</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Freeman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:29:06-04:00</created-at>
+          <title>SEC 'monitoring' Knight Capital After Glitch</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...it was reviewing potentially erroneous trades in 140 symbols that took place between 9:30 a.m. and 10:15 a.m. Eastern. Rep. Spencer Bachus, Republican from Alabama and chairman of the House Financial Services Committee, said the panel is awaiting an upd</excerpt>
+          <fti-names>'10':24 '140':14 '15':25 '30':21 '9':20 'a.m':22,26 'alabama':33 'await':46 'bachus':30 'busi':50 'capit':4 'chairman':35 'committe':41 'eastern':27 'erron':11 'financi':39 'fox':49 'glitch':6 'hous':38 'knight':3 'monitor':2 'panel':44 'place':18 'potenti':10 'rep':28 'republican':31 'review':9 'said':42 'sec':1 'servic':40 'spencer':29 'symbol':15 'took':17 'trade':12 'upd':48</fti-names>
+          <source-url>http://www.foxbusiness.com/</source-url>
+          <url>http://feeds.foxbusiness.com/~r/foxbusiness/economy/~3/s9KNywieung/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969460</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX Business</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:29:06-04:00</created-at>
+          <title>Flowers: NW Alabama runs red, except for president</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Democrat. Both of our U.S. senators are Republican. Therefore, our total delegation on the Potomac is eight-to-one Republican. Spencer Bachus and Robert Aderholt are our two most prominent and promising congressmen. Our senior senator, Richard Shelby, h</excerpt>
+          <fti-names>'aderholt':34 'alabama':3 'bachus':31 'congressmen':42 'deleg':20 'democrat':9 'eight':26 'eight-to-on':25 'except':6 'flower':1 'h':48 'nw':2 'oanow':49 'one':28 'potomac':23 'presid':8 'promin':39 'promis':41 'red':5 'republican':16,29 'richard':46 'robert':33 'run':4 'senat':14,45 'senior':44 'shelbi':47 'spencer':30 'therefor':17 'total':19 'two':37 'u.s':13</fti-names>
+          <source-url>http://www2.oanow.com/</source-url>
+          <url>http://www2.oanow.com/news/2012/aug/01/flowers-nw-alabama-runs-red-except-president-ar-4247667/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969459</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oanow</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:29:05-04:00</created-at>
+          <title>Bernie Madoff Is Laughing: Street Whispers</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Zimmer Holdings took different paths following strong second-quarter results. House Financial Services Committee chairman Spencer Bachus (R-Ala.) dropped efforts to push the Investment Adviser Oversight Act of 2012 to the House floor after he realized t</excerpt>
+          <fti-names>'2012':38 'act':36 'advis':34 'ala':27 'bachus':24 'berni':1 'chairman':22 'committe':21 'differ':10 'drop':28 'effort':29 'financi':19 'floor':42 'follow':12 'hold':8 'hous':18,41 'invest':33 'laugh':4 'madoff':2 'oversight':35 'path':11 'push':31 'quarter':16 'r':26 'r-ala':25 'realiz':45 'result':17 'second':15 'second-quart':14 'servic':20 'spencer':23 'street':5,48 'strong':13 'took':9 'whisper':6 'zimmer':7</fti-names>
+          <source-url>http://thestreet.com/</source-url>
+          <url>http://feeds.thestreet.com/~r/tsc/feeds/rss/top-read-stories/~3/aOkokkzz964/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969458</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Street</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:29:33-04:00</created-at>
+          <title>Regulator Rebuffs Obama on Plan to Ease Housing Debt</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;The administration put incredible political pressure on Director DeMarco, and he deserves praise for standing up for the best interests of the American people,&#8221; said Representative Spencer Bachus, an Alabama Republican who is chairman of ...</excerpt>
+          <fti-names>'administr':11 'alabama':39 'american':32 'bachus':37 'best':28 'chairman':43 'debt':9 'demarco':18 'deserv':21 'director':17 'eas':7 'hous':8 'incred':13 'interest':29 'new':45 'obama':3 'peopl':33 'plan':5 'polit':14 'prais':22 'pressur':15 'put':12 'rebuff':2 'regul':1 'repres':35 'republican':40 'said':34 'spencer':36 'stand':24 'time':47 'york':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nytimes.com/2012/08/01/business/us-agency-bars-fannie-and-freddie-from-reducing-principal.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T20:45:51-04:00</date>
+          <id type="integer">16965956</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Spencer Bachus [R, AL-6]</name>
+      <total-session-votes type="integer">1660</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>CongressmanBachus</youtube-id>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:30:10-04:00</created-at>
+          <title>Which U.S. Representatives signed the letter to President Obama ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>These are the U.S. Representatives who signed the letter to President Obama. If one of these is your Representative, call and thank them! Everyone likes ... Charles Dent (PA) Henry Waxman (CA) Ileana Ros-Lehtinen (FL) Chaka Fattah (PA) Joe   Crowley (NY) D</excerpt>
+          <fti-names>'azi':53 'ca':40 'call':29 'chaka':46 'charl':35 'crowley':50 'd':52 'dent':36 'everyon':33 'fattah':47 'fl':45 'groth':54 'henri':38 'ileana':41 'joe':49 'lehtinen':44 'letter':6,18 'like':34 'ny':51 'obama':9,21 'one':23 'pa':37,48 'presid':8,20 'repres':3,14,28 'ros':43 'ros-lehtinen':42 'sign':4,16 'thank':31 'u.s':2,13 'waxman':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.invisiblechildren.com/2012/07/30/which-u-s-representatives-have-signed-the-letter-to-president-obama/&amp;sa=U&amp;ei=LkMXUIKqJYGE8QT744GIBA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGsdGnqpkiVNtjx1EmZz80YzNZu1w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959262</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Azy Groth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:30:07-04:00</created-at>
+          <title>To Thwart SRO, Rep. Waters Introduces User Fee Bill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>user fee approach, rather than the establishment of an SRO to examine advisors as put forth in a bill by her committee&amp;#39;s chairman, Rep. Spencer Bachus, R-Ala., &#8220;provides the simplest, most efficient solution to the problem of ...</excerpt>
+          <fti-names>'admin':50 'advisor':22 'ala':39 'approach':12 'bachus':36 'bill':9,28 'chairman':33 'committe':31 'effici':44 'establish':16 'examin':21 'fee':8,11 'forth':25 'introduc':6 'problem':48 'provid':40 'put':24 'r':38 'r-ala':37 'rather':13 'rep':4,34 'simplest':42 'solut':45 'spencer':35 'sro':3,19 'thwart':2 'user':7,10 'water':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/al-moc/spencer-bachus-alabama-representative/to-thwart-sro-rep-waters-introduces-user-fee-bill-lifehealthpro/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dto-thwart-sro-rep-waters-introduces-user-fee-bill-lifehealthpro&amp;sa=U&amp;ei=LkMXUIKqJYGE8QT744GIBA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGUYjmzAz6_YE_McDVpMy0Uhyo7Iw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959255</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:30:10-04:00</created-at>
+          <title>Considering Filing for Bankruptcy? Check Out FindLaw&amp;#39;s Guide ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria [R, OH-7] Rep. Joe Baca [D, CA-43] Rep. Spencer Bachus [R, AL-6] Rep. Tammy Baldwin [D, WI-2] Rep. Lou Barletta [R, PA-11] Rep. John Barrow [D, GA-12] Rep.</excerpt>
+          <fti-names>'-1':20 '-11':50 '-12':56 '-2':14,44 '-43':32 '-6':38 '-7':26 'admin':58 'al':37 'amodei':11 'andrew':17 'austria':23 'baca':29 'bachus':35 'baldwin':41 'bankruptci':4 'barletta':47 'barrow':53 'ca':31 'check':5 'consid':1 'd':18,30,42,54 'file':2 'findlaw':7 'ga':55 'guid':9 'joe':28 'john':52 'lou':46 'mark':10 'nj':19 'nv':13 'oh':25 'pa':49 'r':12,24,36,48 'rep':15,21,27,33,39,45,51,57 'robert':16 'spencer':34 'steve':22 'tammi':40 'wi':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bankruptcysolutionssite.com/chapter-7-bankruptcy/considering-filing-for-bankruptcy-check-out-findlaws-guide.html&amp;sa=U&amp;ei=LkMXUIKqJYGE8QT744GIBA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNH3Z0HUhQ2EXWkHxb3c9qalun71PQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959261</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:30:08-04:00</created-at>
+          <title>Ivy Harper: Been There, Done That or The Year of the Lamb of God ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Alabama Democrat Penny Bailey, a retired Air Force colonel, is running in one of the most Republican-leaning districts in the nation. Although she&amp;#39;s the first Democrat to challenge GOP Rep. Spencer Bachus since 1998, ...</excerpt>
+          <fti-names>'1998':51 'air':21 'alabama':15 'although':38 'bachus':49 'bailey':18 'challeng':45 'colonel':23 'democrat':16,43 'district':34 'done':5 'first':42 'forc':22 'god':14 'gop':46 'harper':2 'iharpers':52 'ivi':1 'lamb':12 'lean':33 'nation':37 'one':27 'penni':17 'rep':47 'republican':32 'republican-lean':31 'retir':20 'run':25 'sinc':50 'spencer':48 'year':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://iharperse.wordpress.com/2012/07/29/ivy-harper-been-there-done-that-or-the-year-of-the-lamb-of-god-land-grant-us-peace/&amp;sa=U&amp;ei=LkMXUIKqJYGE8QT744GIBA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEPFE1seAalQwsEWePrsl-n1jLR2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959258</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>iharperse</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:37:18-04:00</created-at>
+          <title>House candidates embrace role as sacrificial lambs</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Alabama Democrat Penny Bailey, a retired Air Force colonel, is running in one of the most Republican-leaning districts in the nation. Although she&amp;#39;s the first Democrat to challenge GOP Rep. Spencer Bachus since 1998, ...</excerpt>
+          <fti-names>'/news/politics-elections':47 '1998':44 'air':14 'alabama':8 'although':31 'bachus':42 'bailey':11 'candid':2 'challeng':38 'colonel':16 'democrat':9,36 'district':27 'embrac':3 'first':35 'forc':15 'gop':39 'hous':1 'lamb':7 'lean':26 'nation':30 'one':20 'penni':10 'rep':40 'republican':25 'republican-lean':24 'retir':13 'role':4 'run':18 'sacrifici':6 'sinc':43 'spencer':41 'townhall.com':46 'townhall.com/news/politics-elections':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://townhall.com/news/politics-elections/2012/07/28/house_candidates_embrace_role_as_sacrificial_lambs&amp;sa=U&amp;ei=VPMVUK2xDoT48gSXy4G4Cg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNGxVXUBwoe1hQvEhyk41lgYs9bgeA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944813</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://townhall.com/news/politics-elections</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:37:16-04:00</created-at>
+          <title>House candidates embrace role as sacrificial lambs &#8211; San Francisco ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Bailey, a retired Air Force officer and Alabama Democrat, is running against Rep. Spencer Bachus, R-Ala., in one of the most Republican-leaning districts in the nation. Bailey is one of the hundreds of sacrificial lambs who will ...</excerpt>
+          <fti-names>'admin':51 'air':13 'ala':27 'alabama':17 'bachus':24 'bailey':10,40 'candid':2 'democrat':18 'district':36 'embrac':3 'forc':14 'francisco':9 'hous':1 'hundr':45 'lamb':7,48 'lean':35 'nation':39 'offic':15 'one':29,42 'r':26 'r-ala':25 'rep':22 'republican':34 'republican-lean':33 'retir':12 'role':4 'run':20 'sacrifici':6,47 'san':8 'spencer':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/al-moc/spencer-bachus-alabama-representative/house-candidates-embrace-role-as-sacrificial-lambs-san-francisco-chronicle/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dhouse-candidates-embrace-role-as-sacrificial-lambs-san-francisco-chronicle&amp;sa=U&amp;ei=VPMVUK2xDoT48gSXy4G4Cg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHMXVE0smGOHH6aGsVpSFhkB0K2jg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944809</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:37:15-04:00</created-at>
+          <title>Considering Filing for Bankruptcy? Check Out FindLaw&amp;#39;s Guide ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria [R, OH-7] Rep. Joe Baca [D, CA-43] Rep. Spencer Bachus [R, AL-6] Rep. Tammy Baldwin [D, WI-2] Rep. Lou Barletta [R, PA-11] Rep. John Barrow [D, GA-12] Rep.</excerpt>
+          <fti-names>'-1':20 '-11':50 '-12':56 '-2':14,44 '-43':32 '-6':38 '-7':26 'admin':58 'al':37 'amodei':11 'andrew':17 'austria':23 'baca':29 'bachus':35 'baldwin':41 'bankruptci':4 'barletta':47 'barrow':53 'ca':31 'check':5 'consid':1 'd':18,30,42,54 'file':2 'findlaw':7 'ga':55 'guid':9 'joe':28 'john':52 'lou':46 'mark':10 'nj':19 'nv':13 'oh':25 'pa':49 'r':12,24,36,48 'rep':15,21,27,33,39,45,51,57 'robert':16 'spencer':34 'steve':22 'tammi':40 'wi':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bankruptcysolutionssite.com/chapter-7-bankruptcy/considering-filing-for-bankruptcy-check-out-findlaws-guide.html&amp;sa=U&amp;ei=VPMVUK2xDoT48gSXy4G4Cg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNH39cYgy9QgZRH2RcIkre96XvibVw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944806</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:37:15-04:00</created-at>
+          <title>Ivy Harper: Been There, Done That or The Year of the Lamb of God ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Alabama Democrat Penny Bailey, a retired Air Force colonel, is running in one of the most Republican-leaning districts in the nation. Although she&amp;#39;s the first Democrat to challenge GOP Rep. Spencer Bachus since 1998, ...</excerpt>
+          <fti-names>'1998':51 'air':21 'alabama':15 'although':38 'bachus':49 'bailey':18 'challeng':45 'colonel':23 'democrat':16,43 'district':34 'done':5 'first':42 'forc':22 'god':14 'gop':46 'harper':2 'iharpers':52 'ivi':1 'lamb':12 'lean':33 'nation':37 'one':27 'penni':17 'rep':47 'republican':32 'republican-lean':31 'retir':20 'run':25 'sinc':50 'spencer':48 'year':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://iharperse.wordpress.com/2012/07/29/ivy-harper-been-there-done-that-or-the-year-of-the-lamb-of-god-land-grant-us-peace/&amp;sa=U&amp;ei=VPMVUK2xDoT48gSXy4G4Cg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHHM--YrdZzDXZwLYkEpJTk61EJew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944805</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>iharperse</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:31:40-04:00</created-at>
+          <title>House candidates embrace role as sacrificial lambs &#8211; San Francisco ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Bailey, a retired Air Force officer and Alabama Democrat, is running against Rep. Spencer Bachus, R-Ala., in one of the most Republican-leaning districts in the nation. Bailey is one of the hundreds of sacrificial lambs who will ...</excerpt>
+          <fti-names>'admin':51 'air':13 'ala':27 'alabama':17 'bachus':24 'bailey':10,40 'candid':2 'democrat':18 'district':36 'embrac':3 'forc':14 'francisco':9 'hous':1 'hundr':45 'lamb':7,48 'lean':35 'nation':39 'offic':15 'one':29,42 'r':26 'r-ala':25 'rep':22 'republican':34 'republican-lean':33 'retir':12 'role':4 'run':20 'sacrifici':6,47 'san':8 'spencer':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/al-moc/spencer-bachus-alabama-representative/house-candidates-embrace-role-as-sacrificial-lambs-san-francisco-chronicle/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dhouse-candidates-embrace-role-as-sacrificial-lambs-san-francisco-chronicle&amp;sa=U&amp;ei=h6AUUL6tHYqg8gSIwIGgCg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHuXVmeQqpoRN7KJXGASzVgncjmNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928781</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400010</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:31:40-04:00</created-at>
+          <title>House candidates embrace role as sacrificial lambs ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Alabama Democrat Penny Bailey, a retired Air Force colonel, is running in one of the most Republican-leaning districts in the nation. Although she&amp;#39;s the first Democrat to challenge GOP Rep. Spencer Bachus since 1998, ...</excerpt>
+          <fti-names>'1998':44 'air':14 'alabama':8 'although':31 'bachus':42 'bailey':11 'beltrettginnie9':45 'candid':2 'challeng':38 'colonel':16 'democrat':9,36 'district':27 'embrac':3 'first':35 'forc':15 'gop':39 'hous':1 'lamb':7 'lean':26 'nation':30 'one':20 'penni':10 'rep':40 'republican':25 'republican-lean':24 'retir':13 'role':4 'run':18 'sacrifici':6 'sinc':43 'spencer':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://beltrettginnie9.typepad.com/blog/2012/07/house-candidates-embrace-role-as-sacrificial-lambs.html&amp;sa=U&amp;ei=h6AUUL6tHYqg8gSIwIGgCg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNEpDGowDlRTQdbdpI_k40pVHedvGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928779</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Beltrettginnie9</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">32018</page-views-count>
+      <unaccented-name>Spencer Bachus</unaccented-name>
+      <oc-user-comments type="integer">12</oc-user-comments>
+    </person>
+  </people>
+</hash>

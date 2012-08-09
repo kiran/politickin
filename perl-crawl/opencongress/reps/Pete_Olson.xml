@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">96.061140505585</party-votes-percentage>
+        <abstains-percentage type="float">1.04712041884817</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">90</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">210</cosponsored-bills-passed-rank>
+        <abstains type="integer">18</abstains>
+        <cosponsored-bills type="integer">235</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">226</party-votes-percentage-rank>
+        <sponsored-bills type="integer">15</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412302</person-id>
+        <cosponsored-bills-rank type="integer">250</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">358</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">12</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1634</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">4240</blog-article-count>
+      <user-approval type="float">4.84</user-approval>
+      <url nil="true"></url>
+      <middlename nil="true"></middlename>
+      <oc-users-tracking type="integer">155</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/olson/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">96.061140505585</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Olson</lastname>
+      <congress-office>312 Cannon House Office Building</congress-office>
+      <firstname>Pete</firstname>
+      <website>http://olson.house.gov/</website>
+      <metavid-id nil="true"></metavid-id>
+      <birthday type="date">1962-12-09</birthday>
+      <person-id type="integer">412302</person-id>
+      <phone>202-225-5951</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>O000168</bioguide-id>
+      <votes-democratic-position type="integer">369</votes-democratic-position>
+      <youtube-id>PeteOlsonTX22</youtube-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:50:43-04:00</created-at>
+          <title>The United States Of America ... All Ten Of Them</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In 92 days, we will either re-elect President Obama or replace him with his Republican opponent, Mitt Romney . On paper, at least, voters in all 50 states and the District of Columbia will make that decision. But if you look at the travel schedules and c</excerpt>
+          <fti-names>'50':37 '92':11 'america':5 'c':57 'columbia':43 'day':12 'decis':47 'district':41 'either':15 'elect':18 'least':33 'look':51 'make':45 'mitt':28 'new':59 'obama':20 'oppon':27 'paper':31 'presid':19 'public':61 'radio':62 're':17 're-elect':16 'replac':22 'republican':26 'romney':29 'schedul':55 'state':3,38 'ten':7 'travel':54 'unit':2 'voter':34 'wnyc':58 'york':60</fti-names>
+          <source-url>http://www.wnyc.org/</source-url>
+          <url>http://feeds.wnyc.org/~r/wnyc_home/~3/DslGhIjKtaE/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973522</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WNYC | New York Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:05-04:00</created-at>
+          <title>The United States Of America ... All Ten Of Them</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Stockman; he lost his seat in 2004, came back to win Tom DeLay's former seat in 2006, but then was defeated by Pete Olson (R) in 2008. Former Texas Secretary of State Roger Williams (R) is the almost-certain next congressman in the new 25th CD. For the </excerpt>
+          <fti-names>'2004':16 '2006':27 '2008':37 '25th':56 'almost':49 'almost-certain':48 'america':5 'back':18 'broadcast':62 'came':17 'cd':57 'certain':50 'congressman':52 'defeat':31 'delay':22 'former':24,38 'georgia':60 'lost':12 'new':55 'next':51 'olson':34 'pete':33 'public':61 'r':35,45 'roger':43 'seat':14,25 'secretari':40 'state':3,42 'stockman':10 'ten':7 'texa':39 'tom':21 'unit':2 'william':44 'win':20</fti-names>
+          <source-url>http://www.gpb.org/</source-url>
+          <url>http://feedproxy.google.com/~r/GPBNewsFeed/~3/SA-QM7jZh2c/the-united-states-of-america-all-ten-of-them</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972926</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Georgia Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:16-04:00</created-at>
+          <title>Randy Weber wins GOP nod in race for U.S. House District 14 in Texas</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...fought back by receiving support of several Republican members of the Texas congressional delegation: Ted Poe of Jefferson County, Pete Olson of Sugar Land, Bill Flores of Bryan, Jeb Hensarling of Athens, Kay Granger of Fort Worth, and Francisco Canseco</excerpt>
+          <fti-names>'14':12 'athen':46 'back':16 'bill':39 'bryan':42 'canseco':54 'congression':27 'counti':33 'deleg':28 'district':11 'flore':40 'fort':50 'fought':15 'francisco':53 'gop':4 'granger':48 'hensarl':44 'hous':10 'jeb':43 'jefferson':32 'kay':47 'land':38 'member':23 'nod':5 'olson':35 'pete':34 'poe':30 'race':7 'randi':1 'receiv':18 'republican':22 'sever':21 'sugar':37 'support':19 'ted':29 'texa':14,26,55 'u.s':9 'watchdog':56 'weber':2 'win':3 'worth':51</fti-names>
+          <source-url>http://www.texaswatchdog.org/</source-url>
+          <url>http://www.texaswatchdog.org/2012/07/randy-weber-house-district-14-texas-felicia-harris/1343784411.column</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969862</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Texas Watchdog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:16-04:00</created-at>
+          <title>Power companies might get a break during a crisis</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...from environmental fines when the federal government orders them to keep generating electricity. The bill, sponsored by Rep. Pete Olson, R-Sugar Land, aims to protect energy utilities that may run afoul of federal, state and local environmental laws whe</excerpt>
+          <fti-names>'afoul':42 'aim':34 'bill':24 'break':6 'chronicl':52 'compani':2 'crisi':9 'electr':22 'energi':37 'environment':11,48 'feder':15,44 'fine':12 'generat':21 'get':4 'govern':16 'houston':51 'keep':20 'land':33 'law':49 'local':47 'may':40 'might':3 'olson':29 'order':17 'pete':28 'power':1 'protect':36 'r':31 'r-sugar':30 'rep':27 'run':41 'sponsor':25 'state':45 'sugar':32 'util':38 'whe':50</fti-names>
+          <source-url>http://www.chron.com/</source-url>
+          <url>http://fuelfix.com/blog/2012/08/01/house-poised-to-pass-legislation-to-keep-power-flowing/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969861</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:16-04:00</created-at>
+          <title>Lawmakers kick in $1.5 million-plus to NRCC at meeting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...(R-Mich.), who was recently diagnosed with a form of non-Hodgkins Lymphoma. Other big donors to the NRCC include Texas Rep. Pete Olson ($119,000), Louisiana Rep. Steve Scalise ($117,000), Agriculture Chair Frank Lucas ($113,000), Rep. Lynn Jenkins of Ka</excerpt>
+          <fti-names>'000':39,45,51 '1.5':4 '113':50 '117':44 '119':38 'agricultur':46 'big':28 'chair':47 'diagnos':18 'donor':29 'form':21 'frank':48 'hodgkin':25 'includ':33 'jenkin':54 'ka':56 'kick':2 'lawmak':1 'louisiana':40 'luca':49 'lymphoma':26 'lynn':53 'meet':11 'mich':14 'million':6 'million-plus':5 'non':24 'non-hodgkin':23 'nrcc':9,32 'olson':37 'pete':36 'plus':7 'politico':58 'r':13 'r-mich':12 'recent':17 'rep':35,41,52 'scalis':43 'steve':42 'texa':34</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=2147e675b3073f70d549dc5a2dbe7bbc</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969860</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:03:38-04:00</created-at>
+          <title>In Congress, South Texas Dem Filemon Vela will draw on lessons from marriage to a GOP judge</title>
+          <contains-term>congress</contains-term>
+          <excerpt>If I can get along with her, I can get along with them,&#8221; he said. He also went to law school with Rep. Pete Olson, R-Sugar Land, and he&#8217;s known and had a friendly relationship with freshman Rep. Blake Farenthold, R-Corpus Christi, for two decades.</excerpt>
+          <fti-names>'along':22,28 'also':34 'blake':59 'blog':71 'christi':64 'congress':2 'corpus':63 'dalla':68 'decad':67 'dem':5 'draw':9 'farenthold':60 'filemon':6 'freshman':57 'friend':54 'get':21,27 'gop':16 'judg':17 'known':50 'land':46 'law':37 'lesson':11 'marriag':13 'morn':69 'news':70 'olson':42 'pete':41 'r':44,62 'r-corpus':61 'r-sugar':43 'relationship':55 'rep':40,58 'said':32 'school':38 'south':3 'sugar':45 'texa':4 'two':66 'vela':7 'went':35</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://trailblazersblog.dallasnews.com/2012/07/in-congress-south-texas-dem-filemon-vela-will-draw-on-lessons-from-marriage-to-a-gop-judge.html/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:11:45-04:00</date>
+          <id type="integer">16967012</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dallas Morning News (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:03:39-04:00</created-at>
+          <title>Proposed tax increase concerns area small business owners</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;President Obama has a very different vision of America than most of us have in this room,&#8221; Congressman Pete Olson (R-Sugar Land) told a gathering of local business owners in Pearland recently. &#8220;It&#8217;s an America where if you&#8217;ve got a busine ...</excerpt>
+          <fti-names>'america':17,46 'area':5 'busi':7,38 'busin':53 'concern':4 'congressman':26 'differ':14 'gather':35 'got':51 'houston':55 'increas':3 'land':32 'local':37 'news':56 'obama':10 'olson':28 'owner':8,39 'pearland':41 'pete':27 'presid':9 'propos':1 'r':30 'r-sugar':29 'recent':42 'room':25 'small':6 'sugar':31 'tax':2 'told':33 'us':21 've':50 'vision':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.yourhoustonnews.com/pearland/news/proposed-tax-increase-concerns-area-small-business-owners/article_21c01001-5806-5087-82ab-221c635d433a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T17:39:44-04:00</date>
+          <id type="integer">16967013</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Your Houston News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:22:28-04:00</created-at>
+          <title>Study: Taxes on the rich will cost 700,000 jobs</title>
+          <contains-term>congress</contains-term>
+          <excerpt>FOX 26 business reporter, Tom Zizka, says that was the framework for a discussion between Fort Bend County small business owners and Texas Congressman Pete Olson.</excerpt>
+          <fti-names>'000':9 '26':12 '700':8 'bend':27 'busi':13,30 'congressman':34 'cost':7 'counti':28 'discuss':24 'fort':26 'fox':11 'framework':21 'houston':38 'job':10 'myfox':37 'olson':36 'owner':31 'pete':35 'report':14 'rich':5 'say':17 'small':29 'studi':1 'tax':2 'texa':33 'tom':15 'zizka':16</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.myfoxhouston.com/story/19134527/2012/07/27/study-taxes-on-the-rich-will-cost-700000-jobs</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:10:23-04:00</date>
+          <id type="integer">16922867</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MyFox Houston</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:22:27-04:00</created-at>
+          <title>AACE Applauds Introduction of New Diabetes Legislation in the U.S. Senate</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The National Diabetes Clinical Care Commission Act was also introduced by Congressman Pete Olson (R-22-TX) last September in the U.S. House of Representatives. HR 2960 currently has 26 co-sponsors, with many being members of the Physician Caucus.</excerpt>
+          <fti-names>'-22':27 '26':41 '2960':38 'aac':1 'act':18 'also':20 'applaud':2 'care':16 'caucus':52 'clinic':15 'co':43 'co-sponsor':42 'commiss':17 'congressman':23 'current':39 'diabet':6,14 'financ':54 'hous':34 'hr':37 'introduc':21 'introduct':3 'last':29 'legisl':7 'mani':46 'member':48 'nation':13 'new':5 'olson':25 'pete':24 'physician':51 'r':26 'repres':36 'senat':11 'septemb':30 'sponsor':44 'tx':28 'u.s':10,33 'yahoo':53</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://finance.yahoo.com/news/aace-applauds-introduction-diabetes-legislation-154200687.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T13:20:49-04:00</date>
+          <id type="integer">16922866</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo Finance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:18:46-04:00</created-at>
+          <title>AACE Applauds Introduction of New Diabetes Legislation in the U.S. Senate</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The National Diabetes Clinical Care Commission Act was also introduced by Congressman Pete Olson (R-22-TX) last September in the U.S. House of Representatives. HR 2960 currently has 26 co-sponsors, with many being members of the Physician Caucus.</excerpt>
+          <fti-names>'-22':27 '26':41 '2960':38 'aac':1 'act':18 'also':20 'applaud':2 'care':16 'caucus':52 'clinic':15 'co':43 'co-sponsor':42 'commiss':17 'congressman':23 'current':39 'diabet':6,14 'hous':34 'hr':37 'introduc':21 'introduct':3 'last':29 'legisl':7 'mani':46 'member':48 'nation':13 'new':5 'olson':25 'pete':24 'physician':51 'r':26 'repres':36 'reuter':53 'senat':11 'septemb':30 'sponsor':44 'tx':28 'u.s':10,33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.reuters.com/article/2012/07/26/idUS195179+26-Jul-2012+BW20120726</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:40:36-04:00</date>
+          <id type="integer">16961367</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Reuters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Pete Olson [R, TX-22]</name>
+      <total-session-votes type="integer">1701</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-225-5241</fax>
+      <district>22</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:53:06-04:00</created-at>
+          <title>TX Speaker Joe Straus stiff-arms Rick Perry on budget pledge | Trail ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>&amp;quot;I hear that all the time,&amp;quot; Rep. Pete Olson, R-Houston, said afterward. But he blamed Senate Democrats for failing to act on budget and other issues in a way that would give both sides to negotiate their way to common ground.</excerpt>
+          <fti-names>'act':36 'afterward':27 'arm':7 'blame':30 'budget':11,38 'common':55 'democrat':32 'fail':34 'gillman/reporter':59 'give':47 'ground':56 'hear':15 'houston':25 'issu':41 'j':58 'joe':3 'negoti':51 'olson':22 'perri':9 'pete':21 'pledg':12 'r':24 'r-houston':23 'rep':20 'rick':8 'said':26 'senat':31 'side':49 'speaker':2 'stiff':6 'stiff-arm':5 'straus':4 'time':19 'todd':57 'trail':13 'tx':1 'way':44,53 'would':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://trailblazersblog.dallasnews.com/archives/2012/04/tx-speaker-joe-straus-stiffarm.html&amp;sa=U&amp;ei=8p-NT536A8aY8AHXvemSBw&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNE_Oiao9iYfo4rWcE96M3gloUY0Aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14542663</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Todd J. Gillman/Reporter</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:53:06-04:00</created-at>
+          <title>Seventy-two (and Counting) Representatives Support Earmark Ban ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. David Cicilline (D-RI) Rep. Tim Scott (R-SC) Rep. Phil Roe (R-TN) Rep. Scott DesJarlais (R-TN) Rep. Ralph Hall (R-TX) Rep. Kevin Brady (R-TX) Rep. K. Michael Conaway (R-TX) Rep. Pete Olson (R-TX) Rep. Michael ...</excerpt>
+          <fti-names>'ban':9 'bradi':42 'cicillin':12 'conaway':49 'count':5 'd':14 'd-ri':13 'david':11 'desjarlai':30 'earmark':8 'hall':36 'k':47 'kevin':41 'michael':48,60 'olson':55 'pete':54 'phil':23 'r':20,26,32,38,44,51,57 'r-sc':19 'r-tn':25,31 'r-tx':37,43,50,56 'ralph':35 'rep':10,16,22,28,34,40,46,53,59 'repres':6 'ri':15 'roe':24 'roman':62 'sarah':61 'sc':21 'scott':18,29 'seventi':2 'seventy-two':1 'support':7 'tim':17 'tn':27,33 'two':3 'tx':39,45,52,58</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usamericanfreedom.com/2012/04/17/seventy-two-and-counting-representatives-support-earmark-ban/&amp;sa=U&amp;ei=8p-NT536A8aY8AHXvemSBw&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNEIw6-xNLSobH27UZ0jOWM6N5FHtw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14542662</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Roman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:19:14-04:00</created-at>
+          <title>Government continues to block solutions &#171; Mike Rowse</title>
+          <contains-term>congress</contains-term>
+          <excerpt>13 Congressman lead by Pete Olson from Texas are trying to introduce a bill allowing ethanol made from sources other than plant based materials to be used to meet the 2007 requirements. You can imagine it is meeting with some resistance ...</excerpt>
+          <fti-names>'13':8 '2007':38 'allow':22 'base':30 'bill':21 'block':4 'congressman':9 'continu':2 'ethanol':23 'govern':1 'imagin':42 'introduc':19 'lead':10 'made':24 'materi':31 'meet':36,45 'mike':6,49 'olson':13 'pete':12 'plant':29 'requir':39 'resist':48 'rows':7 'solut':5 'sourc':26 'texa':15 'tri':17 'use':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mikerowse.com/%3Fp%3D4925&amp;sa=U&amp;ei=MOGMT42aEIWy2QXR0KmdDA&amp;ved=0CE8QmAEwCQ&amp;usg=AFQjCNETApEgn46p7Sjhg7i1L0wSeXHCQQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14524190</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mike</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-16T12:45:17-04:00</created-at>
+          <title>Government continues to block solutions &#171; Mike Rowse</title>
+          <contains-term>congress</contains-term>
+          <excerpt>13 Congressman lead by Pete Olson from Texas are trying to introduce a bill allowing ethanol made from sources other than plant based materials to be used to meet the 2007 requirements. You can imagine it is meeting with some resistance ...</excerpt>
+          <fti-names>'13':8 '2007':38 'allow':22 'base':30 'bill':21 'block':4 'congressman':9 'continu':2 'ethanol':23 'govern':1 'imagin':42 'introduc':19 'lead':10 'made':24 'materi':31 'meet':36,45 'mike':6,49 'olson':13 'pete':12 'plant':29 'requir':39 'resist':48 'rows':7 'solut':5 'sourc':26 'texa':15 'tri':17 'use':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mikerowse.com/%3Fp%3D4925&amp;sa=U&amp;ei=m0yMT4uuAaL62AXn0P24CQ&amp;ved=0CEUQmAEwBw&amp;usg=AFQjCNEx7S3SOW4ngteeeLR9qklqeZIpnQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14504473</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mike</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-16T12:45:17-04:00</created-at>
+          <title>Great Response from Representative Pete Olson - Some Random ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Through his web site, I sent Representative Olson my concerns about the inconsistent wheels-off times for the United Airlines 9/11 flights. (8:23 vs. 8:14 for UA175, 8:28 vs. 8:42 for UA93.) I received a reply, which I excerpt ...</excerpt>
+          <fti-names>'14':36 '23':33 '28':40 '42':43 '8':32,35,39,42 '9/11':30 'airlin':29 'concern':18 'excerpt':52 'flight':31 'great':1 'inconsist':21 'john':53 'm':54 'olson':6,16 'pete':5 'random':8 'receiv':47 'repli':49 'repres':4,15 'respons':2 'sent':14 'site':12 'time':25 'ua175':38 'ua93':45 'unit':28 'vs':34,41 'web':11 'wheel':23 'wheels-off':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://johnm2.typepad.com/blog/2012/04/great-response-from-representative-pete-olson.html&amp;sa=U&amp;ei=m0yMT4uuAaL62AXn0P24CQ&amp;ved=0CEkQmAEwCA&amp;usg=AFQjCNEQ8LzN3xvA3o0z8EeaVUvBEavpcQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14504474</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John M</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-15T12:28:24-04:00</created-at>
+          <title>Great Response from Representative Pete Olson - Some Random ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Through his web site, I sent Representative Olson my concerns about the inconsistent wheels-off times for the United Airlines 9/11 flights. (8:23 vs. 8:14 for UA175, 8:28 vs. 8:42 for UA93.) I received a reply, which I excerpt ...</excerpt>
+          <fti-names>'14':36 '23':33 '28':40 '42':43 '8':32,35,39,42 '9/11':30 'airlin':29 'concern':18 'excerpt':52 'flight':31 'great':1 'inconsist':21 'john':53 'm':54 'olson':6,16 'pete':5 'random':8 'receiv':47 'repli':49 'repres':4,15 'respons':2 'sent':14 'site':12 'time':25 'ua175':38 'ua93':45 'unit':28 'vs':34,41 'web':11 'wheel':23 'wheels-off':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://johnm2.typepad.com/blog/2012/04/great-response-from-representative-pete-olson.html&amp;sa=U&amp;ei=JveKT5GtOOLy2QXjhdzJBQ&amp;ved=0CEoQmAEwCA&amp;usg=AFQjCNFh2T81dyG6wxdpNMDToJ73pyJjyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14466325</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John M</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-15T23:26:57-04:00</created-at>
+          <title>Great Response from Representative Pete Olson - Some Random ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Through his web site, I sent Representative Olson my concerns about the inconsistent wheels-off times for the United Airlines 9/11 flights. (8:23 vs. 8:14 for UA175, 8:28 vs. 8:42 for UA93.) I received a reply, which I excerpt ...</excerpt>
+          <fti-names>'14':36 '23':33 '28':40 '42':43 '8':32,35,39,42 '9/11':30 'airlin':29 'concern':18 'excerpt':52 'flight':31 'great':1 'inconsist':21 'john':53 'm':54 'olson':6,16 'pete':5 'random':8 'receiv':47 'repli':49 'repres':4,15 'respons':2 'sent':14 'site':12 'time':25 'ua175':38 'ua93':45 'unit':28 'vs':34,41 'web':11 'wheel':23 'wheels-off':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://johnm2.typepad.com/blog/2012/04/great-response-from-representative-pete-olson.html&amp;sa=U&amp;ei=fZGLT7XkEIPi2QXWz93QCQ&amp;ved=0CEoQmAEwCA&amp;usg=AFQjCNEZnNBpAIBDkJwRZ0UqLA_lyqyvRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14487432</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John M</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-15T12:28:24-04:00</created-at>
+          <title>2012 GOP Lawmaker Endorsements for President ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. John Mica (R-Fla.) Rep. Candice Miller (R-Mich.) (endorsed Giuliani in 2008 and initially endorsed Perry in 2012) Rep. Jeff Miller (R-Fla.) (endorsed Thompson and later McCain in 2008) Rep. Pete Olson (R-Texas) Rep.</excerpt>
+          <fti-names>'2008':22,41 '2012':1,28 'candic':14 'eli':49 'endors':4,19,25,35 'fla':12,34 'giuliani':20 'gop':2 'initi':24 'jeff':30 'john':8 'later':38 'lawmak':3 'mccain':39 'mica':9 'mich':18 'miller':15,31 'olson':44 'perri':26 'pete':43 'presid':6 'r':11,17,33,46 'r-fla':10,32 'r-mich':16 'r-texa':45 'rep':7,13,29,42,48 'texa':47 'thompson':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.happyjewishnews.com/2012-gop-lawmaker-endorsements-for-president/&amp;sa=U&amp;ei=JveKT5GtOOLy2QXjhdzJBQ&amp;ved=0CE4QmAEwCQ&amp;usg=AFQjCNG1UqmA5oxGnc95RaMdzP0NBZnD4w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14466326</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>eli</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-14T23:33:01-04:00</created-at>
+          <title>Great Response from Representative Pete Olson - Some Random ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Through his web site, I sent Representative Olson my concerns about the inconsistent wheels-off times for the United Airlines 9/11 flights. (8:23 vs. 8:14 for UA175, 8:28 vs. 8:42 for UA93.) I received a reply, which I excerpt ...</excerpt>
+          <fti-names>'14':36 '23':33 '28':40 '42':43 '8':32,35,39,42 '9/11':30 'airlin':29 'concern':18 'excerpt':52 'flight':31 'great':1 'inconsist':21 'john':53 'm':54 'olson':6,16 'pete':5 'random':8 'receiv':47 'repli':49 'repres':4,15 'respons':2 'sent':14 'site':12 'time':25 'ua175':38 'ua93':45 'unit':28 'vs':34,41 'web':11 'wheel':23 'wheels-off':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://johnm2.typepad.com/blog/2012/04/great-response-from-representative-pete-olson.html&amp;sa=U&amp;ei=bEGKT_eMGIjU2AXo0t26CQ&amp;ved=0CE4QmAEwCQ&amp;usg=AFQjCNEsuZ-kZfruTFc0yABNstCm3ahvGQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14448574</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John M</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412302</commentariable-id>
+          <created-at type="datetime">2012-04-14T12:21:20-04:00</created-at>
+          <title>TexMessage: Who is the most conservative, liberal member of the ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The conservative members of congress ranged from 60 to 92 percent, and included Lamar Smith, Kay Granger, Pete Olson, Ralph Hall, John Carter, Joe Barton, John Culberson, Blake Farenthold, Michael McCaul, Francisco ...</excerpt>
+          <fti-names>'60':18 '92':20 'barton':35 'blake':38 'carolin':43 'carter':33 'congress':15 'conserv':6,12 'culberson':37 'farenthold':39 'francisco':42 'granger':27 'hall':31 'includ':23 'joe':34 'john':32,36 'kay':26 'lamar':24 'liber':7 'mccaul':41 'member':8,13 'michael':40 'olson':29 'percent':21 'pete':28 'ralph':30 'rang':16 'smith':25 'texmessag':1 'ward':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.mysanantonio.com/texas-on-the-potomac/2012/04/texmessage-who-is-the-most-conservative-liberal-member-of-the-texas-delegation/&amp;sa=U&amp;ei=_qOJT7FM5NTYBeiH2dcJ&amp;ved=0CFMQmAEwCg&amp;usg=AFQjCNH4RA2zjPyZ4GHYJoivi1qoqPvaUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14428178</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Caroline Ward</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">15175</page-views-count>
+      <unaccented-name>Pete Olson</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

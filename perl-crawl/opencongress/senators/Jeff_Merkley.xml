@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.1518987341772</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">400064</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">270</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">21</party-votes-percentage-rank>
+        <sponsored-bills type="integer">36</sponsored-bills>
+        <votes-least-often-with-id type="integer">400105</votes-least-often-with-id>
+        <person-id type="integer">412325</person-id>
+        <cosponsored-bills-rank type="integer">11</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">31</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">147</votes-republican-position>
+      <bioguide-id>M001176</bioguide-id>
+      <blog-article-count type="integer">7849</blog-article-count>
+      <user-approval type="float">3.17721518987342</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">804</oc-users-tracking>
+      <contact-webform>http://www.merkley.senate.gov/contact/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.1518987341772</with-party-percentage>
+      <metavid-id nil="true"></metavid-id>
+      <lastname>Merkley</lastname>
+      <congress-office>313 Hart Senate Office Building</congress-office>
+      <firstname>Jeff</firstname>
+      <website>http://www.merkley.senate.gov</website>
+      <youtube-id>senatorjeffmerkley</youtube-id>
+      <birthday type="date">1956-10-24</birthday>
+      <person-id type="integer">412325</person-id>
+      <phone>202-224-3753</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">364</votes-democratic-position>
+      <fax>202-228-3997</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:06:45-04:00</created-at>
+          <title>New Senate Bill Seeks to Crack Down on One of For-Profit Colleges&#8217; Worst Abuses</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...programmatic accreditation. &#8220;Taxpayers have no place funding programs that hurt students more than they help,&#8221; said Sen. Jeff Merkley of Oregon, who joined Maryland Senator Barbara Mikulski and Harkin in sponsoring the measure. For example, the Sena</excerpt>
+          <fti-names>'abus':16 'accredit':18 'barbara':42 'bill':3 'colleg':14 'crack':6 'ed':55 'exampl':51 'for-profit':11 'fund':23 'harkin':45 'help':31 'higher':54 'hurt':26 'jeff':34 'join':39 'maryland':40 'measur':49 'merkley':35 'mikulski':43 'new':1 'one':9 'oregon':37 'place':22 'profit':13 'program':24 'programmat':17 'said':32 'seek':4 'sen':33 'sena':53 'senat':2,41 'sponsor':47 'student':27 'taxpay':19 'watch':56 'worst':15</fti-names>
+          <source-url>http://higheredwatch.newamerica.net/</source-url>
+          <url>http://higheredwatch.newamerica.net/blogposts/2012/new_senate_bill_seeks_to_crack_down_on_one_of_for_profit_colleges_worst_abuses-70262</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973841</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Higher Ed Watch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:06:45-04:00</created-at>
+          <title>New Hemp Bill Introduced in US Senate</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Bill 3501, was introduced last week by Sen. Ron Wyden (D-OR) and cosponsored by Sens. Rand Paul (R-KY), Bernie Sanders (I-VT), and Jeff Merkley (D-OR). It would amend the Controlled Substances Act to make clear that hemp is not a drug, even though it is</excerpt>
+          <fti-names>'3501':9 'act':47 'amend':43 'berni':30 'bill':3,8 'chronicl':63 'clear':50 'control':45 'cosponsor':22 'd':19,39 'd-or':18,38 'drug':56,61 'even':57 'hemp':2,52 'i-vt':32 'introduc':4,11 'jeff':36 'ky':29 'last':12 'make':49 'merkley':37 'new':1 'paul':26 'r':28 'r-ki':27 'rand':25 'ron':16 'sander':31 'sen':15,24 'senat':7 'substanc':46 'though':58 'us':6 'vt':34 'war':62 'week':13 'would':42 'wyden':17</fti-names>
+          <source-url>http://stopthedrugwar.org/chronicle/</source-url>
+          <url>http://stopthedrugwar.org/chronicle/2012/aug/07/new_hemp_bill_introduced_us_sena</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973840</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Drug War Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:06:44-04:00</created-at>
+          <title>Smith: I'm not planning to run for office</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...again. Smith was a two-term member of the U.S. Senate from Oregon when he lost a close, emotionally draining race to Democrat Jeff Merkley in 2008. Republicans were abuzz about Smith running for something, such as governor, after he went to the annual D</excerpt>
+          <fti-names>'2008':37 'abuzz':40 'annual':54 'chronicl':58 'close':28 'd':55 'democrat':33 'drain':30 'emot':29 'francisco':57 'governor':48 'jeff':34 'lost':26 'm':3 'member':17 'merkley':35 'offic':9 'oregon':23 'plan':5 'race':31 'republican':38 'run':7,43 'san':56 'senat':21 'smith':1,11,42 'someth':45 'term':16 'two':15 'two-term':14 'u.s':20 'went':51</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Smith-I-m-not-planning-to-run-for-office-3770046.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973839</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:32-04:00</created-at>
+          <title>Gordon Smith says he's content in the private sector, has no plans to return to politics</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...said today that he had no intention of running for office so soon after his close, emotionally draining loss to Democrat Jeff Merkley. &quot;When I went to Dorchester two years ago, it was essentially to say thank you and good-bye,&quot; Smith said. Smith, who se</excerpt>
+          <fti-names>'ago':48 'bye':59 'close':33 'content':6 'democrat':38 'dorchest':45 'drain':35 'emot':34 'essenti':51 'good':58 'good-by':57 'gordon':1 'intent':24 'jeff':39 'live':66 'loss':36 'merkley':40 'offic':28 'oregon':65 'plan':13 'polit':17 'privat':9 'return':15 'run':26 'said':18,61 'say':3,53 'se':64 'sector':10 'smith':2,60,62 'soon':30 'thank':54 'today':19 'two':46 'went':43 'year':47</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/politics/index.ssf/2012/08/gordon_smith_says_hes_content.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973206</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:01:30-04:00</created-at>
+          <title>Agreement reached for Central Oregon water use</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...It guarantees water for irrigators and Prineville but also allows additional water for fish and wildlife habitat. U.S. Sen. Jeff Merkley says the agreement contains a framework for working out allocation demands during &quot;dry years.&quot; A spokesman for Repub</excerpt>
+          <fti-names>'addit':18 'agreement':1,31 'alloc':38 'allow':17 'also':16 'central':4 'chronicl':49 'contain':32 'demand':39 'dri':41 'fish':21 'framework':34 'francisco':48 'guarante':9 'habitat':24 'irrig':12 'jeff':27 'merkley':28 'oregon':5 'prinevill':14 'reach':2 'repub':46 'san':47 'say':29 'sen':26 'spokesman':44 'u.s':25 'use':7 'water':6,10,19 'wildlif':23 'work':36 'year':42</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Agreement-reached-for-Central-Oregon-water-use-3764349.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972650</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:01:29-04:00</created-at>
+          <title>Agreement reached for Central Oregon water use</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...the economy in central Oregon by allowing water certainty for all users who depend on and use the Crooked River,&quot; said Sen. Jeff Merkley, D-Ore., the bill's prime sponsor. Merkley said the agreement includes a way to allocate water during &quot;dry years&quot; th</excerpt>
+          <fti-names>'agreement':1,43 'alloc':48 'allow':14 'antonio':55 'bill':36 'central':4,11 'certainti':16 'crook':26 'd':33 'd-ore':32 'depend':21 'dri':51 'economi':9 'express':56 'includ':44 'jeff':30 'merkley':31,40 'ore':34 'oregon':5,12 'prime':38 'reach':2 'river':27 'said':28,41 'san':54 'sen':29 'sponsor':39 'th':53 'use':7,24 'user':19 'water':6,15,49 'way':46 'year':52</fti-names>
+          <source-url>http://www.mysanantonio.com/</source-url>
+          <url>http://www.mysanantonio.com/news/article/Agreement-reached-for-Central-Oregon-water-use-3764349.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972649</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Antonio Express</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:32-04:00</created-at>
+          <title>Refinancing underwater mortgages: Why not help people keep their homes?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...foreclosures and holds big Wall Street banks accountable. Already, the bill is having a positive impact. A proposal by U.S. Sen. Jeff Merkley could put responsible homeowners back on a stable path. Homeowners who are current on their mortgages could ref</excerpt>
+          <fti-names>'account':18 'alreadi':19 'back':38 'bank':17 'big':14 'bill':21 'could':34,50 'current':46 'foreclosur':11 'help':6 'hold':13 'home':10 'homeown':37,43 'impact':26 'jeff':32 'keep':8 'live':53 'merkley':33 'mortgag':3,49 'oregon':52 'path':42 'peopl':7 'posit':25 'propos':28 'put':35 'ref':51 'refinanc':1 'respons':36 'sen':31 'stabl':41 'street':16 'u.s':30 'underwat':2 'wall':15</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/opinion/index.ssf/2012/08/refinancing_underwater_mortgag.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16973207</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:26:31-04:00</created-at>
+          <title>Pedestrian deaths: Federal transportation bill bypasses local safety concerns - OregonLive.com</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...shouldn't be a life-and-death proposition. Champions such as Oregon's Reps. Earl Blumenauer and Peter DeFazio and Sen. Jeff Merkley called for a better federal transportation bill and will continue the fight for one in 2014. Until then, we will pray for</excerpt>
+          <fti-names>'2014':50 'america':59 'better':38 'bill':5,41 'blueprint':58 'blumenau':27 'bypass':6 'call':35 'champion':20 'concern':9 'continu':44 'death':2,18 'defazio':30 'earl':26 'feder':3,39 'fight':46 'jeff':33 'life':16 'life-and-death':15 'local':7 'merkley':34 'one':48 'oregon':23 'oregonlive.com':10 'pbs':57 'pedestrian':1 'peter':29 'pray':55 'proposit':19 'rep':25 'safeti':8 'sen':32 'shouldn':11 'transport':4,40</fti-names>
+          <source-url>http://www.pbs.org/wnet/blueprintamerica/</source-url>
+          <url>http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEFrVKzghnsjy8mCCmyo1d0QHp64Q&amp;url=http://www.oregonlive.com/opinion/index.ssf/2012/08/pedestrian_deaths_federal_tran.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972381</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PBS: Blueprint America</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:26:31-04:00</created-at>
+          <title>SOU sees biomass horizons</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...it added. &quot;This grant is great news for Southern Oregon University and the future of biomass energy in the region,&quot; said U.S. Sen. Jeff Merkley, D-Ore., in a release. &quot;I am a strong supporter of investment in alternative forms of energy, and the woody-b</excerpt>
+          <fti-names>'ad':6 'altern':44 'ashland':53 'b':52 'biomass':3,20 'd':31 'd-ore':30 'daili':54 'energi':21,47 'form':45 'futur':18 'grant':8 'great':10 'horizon':4 'invest':42 'jeff':28 'merkley':29 'news':11 'ore':32 'oregon':14 'region':24 'releas':35 'said':25 'see':2 'sen':27 'sou':1 'southern':13 'strong':39 'support':40 'tide':55 'u.s':26 'univers':15 'woodi':51 'woody-b':50</fti-names>
+          <source-url>http://www.dailytidings.com/</source-url>
+          <url>http://www.dailytidings.com/apps/pbcs.dll/article?AID=/20120804/NEWS02/208040307/-1/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972380</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Ashland Daily Tidings</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:26:29-04:00</created-at>
+          <title>Senator Moves to Rein In Warrantess Spying</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...Moves to Rein In Warrantess Spying Posted on Aug 4, 2012 A bill put forward by Sen. Jeff Merkley, D-Ore., proposes to slap some limits on the U.S. government&#8217;s collecting of information on Americans under its warrantless electronic spying program and </excerpt>
+          <fti-names>'2012':18 '4':17 'american':44 'aug':16 'bill':20 'collect':40 'd':28 'd-ore':27 'dig':53 'electron':48 'forward':22 'govern':38 'inform':42 'jeff':25 'limit':34 'merkley':26 'move':2,8 'ore':29 'post':14 'program':50 'propos':30 'put':21 'rein':4,10 'sen':24 'senat':1 'slap':32 'spi':7,13,49 'truth':52 'u.s':37 'warrantess':6,12 'warrantless':47</fti-names>
+          <source-url>http://www.truthdig.com/</source-url>
+          <url>http://feedproxy.google.com/~r/Truthdig/~3/aosmGhwDgK8/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972379</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Truth Dig</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Jeff Merkley [D, OR]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname>Jeff</sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:08:21-04:00</created-at>
+          <title>implode-explode.com - Implosion News Pick-ups: Oregon Senator ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Jeff Merkley (D-OR) has proposed a new, limited term program to assist underwater homeowners unable to refinance traditionally or through the Home Affordable Refinancing Program (HARP) available Freddie Mac ...</excerpt>
+          <fti-names>'afford':34 'assist':23 'avail':38 'd':13 'd-or':12 'freddi':39 'harp':37 'home':33 'homeown':25 'implode-explode.com':1,41 'implos':2 'jeff':10 'limit':19 'mac':40 'merkley':11 'new':18 'news':3 'oregon':7 'pick':5 'pick-up':4 'program':21,36 'propos':16 'refin':28 'refinanc':35 'senat':8,9 'term':20 'tradit':29 'unabl':26 'underwat':24 'up':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://implode-explode.com/viewnews/2012-07-30_OregonSenatorSuggestsInnovativeHomeRefinancingPlan.html&amp;sa=U&amp;ei=S3YXUIfgNeGN6wH3kYHoAw&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNE_zebnqzKB3pmFI9oaYWo5ztcKsQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962819</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://implode-explode.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:08:19-04:00</created-at>
+          <title>Geithner to help senator with mortgage refinance plan | HomeFinder ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Jeff Merkley recently set forth a new mortgage refinance plan to help American borrowers underwater on their mortgages, which has now been endorsed by.</excerpt>
+          <fti-names>'american':23 'borrow':24 'endors':33 'forth':15 'geithner':1 'help':3,22 'homefind':9 'homefinder.com':35 'jeff':11 'merkley':12 'mortgag':6,18,28 'new':17 'news':36 'plan':8,20 'recent':13 'refin':7,19 'senat':4,10 'set':14 'underwat':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.homefinder.com/news/real-estate/2012/07/30/geithner-to-help-senator-with-mortgage-refinance-plan/&amp;sa=U&amp;ei=S3YXUIfgNeGN6wH3kYHoAw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFbN8g43izWb_ornh2GQEkn_qLqkQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962815</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>HomeFinder.com News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:08:21-04:00</created-at>
+          <title>Senator Merkley&amp;#39;s Letter to President Obama 7/26/2012 &#8211; supported ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Jeff Merkley (D-Oregon) wrote this letter addressed to Presidnet Obama on Thursday July 26, 2012. It is an excellent piece on what is needed for crowdfunding investment to become an effective law &#8211; The Soho Loft ...</excerpt>
+          <fti-names>'2012':27 '26':26 '7/26/2012':8 'address':19 'admin':48 'becom':41 'crowdfund':38 'd':14 'd-oregon':13 'effect':43 'excel':31 'invest':39 'jeff':11 'juli':25 'law':44 'letter':4,18 'loft':47 'merkley':2,12 'need':36 'obama':7,22 'oregon':15 'piec':32 'presid':6 'presidnet':21 'senat':1,10 'soho':46 'support':9 'thursday':24 'wrote':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thesoholoft.com/2012/07/28/senator-merkleys-letter-to-president-obama-7262012-supported-by-the-soho-loft/&amp;sa=U&amp;ei=S3YXUIfgNeGN6wH3kYHoAw&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNEvPX2qUzTRysQtiB0qjWiuQL_sbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962820</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:19:08-04:00</created-at>
+          <title>Senator unveils plan to refi 8 million underwater borrowers |</title>
+          <contains-term>senator</contains-term>
+          <excerpt>There is another refinancing plan. Sen. Jeff Merkley, D-Ore., detailed how a government trust could sell bonds and use the money to buy current, underwater.</excerpt>
+          <fti-names>'8':6 'admin':37 'anoth':12 'bond':28 'borrow':9 'buy':34 'could':26 'current':35 'd':19 'd-ore':18 'detail':21 'govern':24 'jeff':16 'merkley':17 'million':7 'money':32 'ore':20 'plan':3,14 'refi':5 'refinanc':13 'sell':27 'sen':15 'senat':1 'trust':25 'underwat':8,36 'unveil':2 'use':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bankersforeclosures.com/senator-unveils-plan-to-refi-8-million-underwater-borrowers/&amp;sa=U&amp;ei=vokWUPC4HYOm8ASl5oGADA&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNEVPWZI5nZ7b9emaobKrVwI9tjerg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952515</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:19:03-04:00</created-at>
+          <title>Senator Merkley&amp;#39;s Letter to President Obama 7/26/2012 &#8211; supported ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Jeff Merkley (D-Oregon) wrote this letter addressed to Presidnet Obama on Thursday July 26, 2012. It is an excellent piece on what is needed for crowdfunding investment to become an effective law &#8211; The Soho Loft ...</excerpt>
+          <fti-names>'2012':27 '26':26 '7/26/2012':8 'address':19 'admin':48 'becom':41 'crowdfund':38 'd':14 'd-oregon':13 'effect':43 'excel':31 'invest':39 'jeff':11 'juli':25 'law':44 'letter':4,18 'loft':47 'merkley':2,12 'need':36 'obama':7,22 'oregon':15 'piec':32 'presid':6 'presidnet':21 'senat':1,10 'soho':46 'support':9 'thursday':24 'wrote':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thesoholoft.com/2012/07/28/senator-merkleys-letter-to-president-obama-7262012-supported-by-the-soho-loft/&amp;sa=U&amp;ei=vokWUPC4HYOm8ASl5oGADA&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNFaDplA1BB9ysJBAq5wMcasAp5YKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952509</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:08:18-04:00</created-at>
+          <title>Sen. Jeff Merkley&amp;#39;s mortgage plan is too much, too late | onlyfresh</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Jeff Merkley&amp;#39;s mortgage plan is too much, too late. In his latest effort, Merkley proposes that the U.S. &amp;quot;act boldly now to throw a lifeline to American families&amp;quot; by offering government-backed 4 percent mortgage refinancing ...</excerpt>
+          <fti-names>'4':48 'act':33 'admin':52 'american':41 'back':47 'bold':34 'effort':27 'famili':42 'govern':46 'government-back':45 'jeff':2,14 'late':11,23 'latest':26 'lifelin':39 'merkley':3,15,28 'mortgag':5,17,50 'much':9,21 'offer':44 'onlyfresh':12 'percent':49 'plan':6,18 'propos':29 'refinanc':51 'sen':1,13 'throw':37 'u.s':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://onlyfreshnews.com/sen-jeff-merkleys-mortgage-plan-is-too-much-too-late/&amp;sa=U&amp;ei=S3YXUIfgNeGN6wH3kYHoAw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFlCxauuPIWTg6P75BRFsM6UbYCew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16962813</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:08:13-04:00</created-at>
+          <title>Sen. Jeff Merkley goes to St. Johns, Jefferson High School ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Plus today&amp;#39;s roundup includes news about Held Vegan Belts, the Portland Festival Symphony kick-off and a 65-unit apartment complex.</excerpt>
+          <fti-names>'65':30 'apart':32 'belt':20 'casey':34 'complex':33 'festiv':23 'goe':4 'held':18 'high':9 'includ':15 'jeff':2 'jefferson':8 'john':7 'kick':26 'kick-off':25 'merkley':3 'news':16 'oregonian':37 'park':35 'plus':11 'portland':22 'roundup':14 'school':10 'sen':1 'st':6 'symphoni':24 'today':12 'unit':31 'vegan':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.oregonlive.com/portland/index.ssf/2012/07/sen_jeff_merkley_goes_to_st_jo.html&amp;sa=U&amp;ei=S3YXUIfgNeGN6wH3kYHoAw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFJhXbWX-NcI7OLp_vu3F0CFMqA8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16962811</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Casey Parks, The Oregonian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:19:07-04:00</created-at>
+          <title>Senator Urges Streamline Process for Crowdfunding | Crowdfunding ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Sen. Jeff Merkley. Washington, D.C. (June 27, 2012) Equity crowdfunding needs &#8220;smart, effective rules&#8221; Senator Jeff Merkley (D-Oregon) urged the White House today in a statement. Senator Merkley co-sponsored Senate Bill ...</excerpt>
+          <fti-names>'2012':15 '27':14 'bill':42 'brian':43 'co':39 'co-sponsor':38 'crowdfund':6,7,17 'd':26 'd-oregon':25 'd.c':12 'effect':20 'equiti':16 'hous':31 'jeff':9,23 'june':13 'merkley':10,24,37 'need':18 'oregon':27 'process':4 'rule':21 'sen':8 'senat':1,22,36,41 'smart':19 'sponsor':40 'statement':35 'streamlin':3 'today':32 'urg':2,28 'washington':11 'white':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crowdfundingprofessional.org/senator-urges-streamline-process-for-crowdfunding/&amp;sa=U&amp;ei=vokWUPC4HYOm8ASl5oGADA&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGQeqRdPDK8Tsqo3CVZvQ98j_QvtA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952514</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:19:06-04:00</created-at>
+          <title>Oregon Sen. Merkley Announces Plan to Assist Underwater ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Oregon Sen. Jeff Merkley has offered a new plan to tackle underwater mortgages. In a white paper containing the proposal, called &#8220;The 4% Mortgage: Rebuilding American Homeownership,&#8221; Sen. Merkley lays out a plan to ...</excerpt>
+          <fti-names>'4':31 'american':34 'announc':4 'assist':7 'call':29 'contain':26 'homeownership':35 'jeff':11 'lay':38 'merkley':3,12,37 'mortgag':21,32 'nationalmortgageprofessional.com':43 'new':16 'offer':14 'oregon':1,9 'paper':25 'plan':5,17,41 'propos':28 'rebuild':33 'sen':2,10,36 'tackl':19 'underwat':8,20 'white':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nationalmortgageprofessional.com/news30618/oregon-sen-merkley-announces-plan-assist-underwater-homeowners&amp;sa=U&amp;ei=vokWUPC4HYOm8ASl5oGADA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHOJe_kExb3uHKYEHPI-F0kV0gH7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952513</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NationalMortgageProfessional.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412325</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:19:01-04:00</created-at>
+          <title>Senator Jeff Merkley Proposes Government Help for Homeowners ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Jeff Merkley Proposes Government Help for Homeowners The Skanner When Rev. Fredi Jackson bought her home in the East Portland, in 2009, she could easily afford the mortgage. But after her renters moved out, ...</excerpt>
+          <fti-names>'2009':31 'admin':44 'afford':35 'bought':23 'could':33 'easili':34 'east':28 'fredi':21 'govern':5,13 'help':6,14 'home':25 'homeown':8,16 'jackson':22 'jeff':2,10 'merkley':3,11 'mortgag':37 'move':42 'portland':29 'propos':4,12 'renter':41 'rev':20 'senat':1,9 'skanner':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/or-moc/jeff-merkley-oregon-senator/senator-jeff-merkley-proposes-government-help-for-homeowners-the-skanner/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dsenator-jeff-merkley-proposes-government-help-for-homeowners-the-skanner&amp;sa=U&amp;ei=vokWUPC4HYOm8ASl5oGADA&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNHxiZztMxs6bjmw1MtImeSaEZVr6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952507</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">25603</page-views-count>
+      <unaccented-name>Jeff Merkley</unaccented-name>
+      <middlename nil="true"></middlename>
+      <oc-user-comments type="integer">13</oc-user-comments>
+    </person>
+  </people>
+</hash>

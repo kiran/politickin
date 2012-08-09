@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-09-29T23:16:33-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">49.3647912885662</party-votes-percentage>
+        <abstains-percentage type="float">3.83944153577661</abstains-percentage>
+        <votes-most-often-with-id type="integer">400345</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">122</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">66</abstains>
+        <cosponsored-bills type="integer">274</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">362</party-votes-percentage-rank>
+        <sponsored-bills type="integer">15</sponsored-bills>
+        <votes-least-often-with-id type="integer">400237</votes-least-often-with-id>
+        <person-id type="integer">400645</person-id>
+        <cosponsored-bills-rank type="integer">176</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400237</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">81</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412415</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1168</votes-republican-position>
+      <metavid-id>Dan_Boren</metavid-id>
+      <blog-article-count type="integer">7997</blog-article-count>
+      <user-approval type="float">3.51282051282051</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">157</oc-users-tracking>
+      <contact-webform>http://www.house.gov/boren/emailsignup.shtml</contact-webform>
+      <youtube-id>CongressmanBoren</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">49.3647912885662</with-party-percentage>
+      <lastname>Boren</lastname>
+      <fax>202-225-3038</fax>
+      <congress-office>2447 Rayburn House Office Building</congress-office>
+      <firstname>Dan</firstname>
+      <website>http://boren.house.gov/</website>
+      <birthday type="date">1973-08-02</birthday>
+      <person-id type="integer">400645</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2701</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>B001254</bioguide-id>
+      <votes-democratic-position type="integer">816</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:32:48-04:00</created-at>
+          <title>Oklahoma: Ex-Sen. Boren Backs Rob Wallace to Succeed Son</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...only helps Wallace&#8217;s endeavor. The 2nd district seat is open following the retirement of the former Senator&#8217;s son, Rep. Dan Boren (D-Okla.). National Democrats face an uphill race to hold this &#8220;Little Dixie&#8221; House seat in November, and Roll Call</excerpt>
+          <fti-names>'2nd':18 'back':6 'boren':5,34 'call':55,57 'd':36 'd-okla':35 'dan':33 'democrat':39 'district':19 'dixi':48 'endeavor':16 'ex':3 'ex-sen':2 'face':40 'follow':23 'former':28 'help':13 'hold':45 'hous':49 'littl':47 'nation':38 'novemb':52 'okla':37 'oklahoma':1 'open':22 'race':43 'rep':32 'retir':25 'rob':7 'roll':54,56 'seat':20,50 'sen':4 'senat':29 'son':11,31 'succeed':10 'uphil':42 'wallac':8,14</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/oklahoma_ex_sen_boren_backs_rob_wallace_to_succeed_son-216763-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973315</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:36:22-04:00</created-at>
+          <title>Truthland Goes to Washington</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...week was certainly no exception. Thankfully, though, thanks to the help and support of U.S. Reps. Tim Murphy (R-Pa.) and Dan Boren (D-Okla.) &#8211; co-chairs of the Natural Gas Caucus &#8212; EID was able to secure a spot on an otherwise packed congressional a</excerpt>
+          <fti-names>'abl':42 'boren':28 'caucus':39 'certain':7 'chair':34 'co':33 'co-chair':32 'congression':51 'd':30 'd-okla':29 'dan':27 'eid':40 'except':9 'gas':38 'goe':2 'help':15 'junk':53 'murphi':22 'natur':37 'okla':31 'otherwis':49 'pa':25 'pack':50 'r':24 'r-pa':23 'rep':20 'scienc':54 'secur':44 'spot':46 'support':17 'thank':10,12 'though':11 'tim':21 'truthland':1 'u.s':19 'washington':4 'week':5</fti-names>
+          <source-url>http://www.junkscience.com/</source-url>
+          <url>http://junkscience.com/2012/08/03/truthland-goes-to-washington/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971504</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Junk Science</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:42-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...is retiring) 19 Democrats voted with Republicans to approve the bill: Rep. John Barrow (D-Ga.) Rep. Sanford Bishop (D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D</excerpt>
+          <fti-names>'19':13 'approv':19 'barrow':24 'ben':47 'bill':21 'bishop':30 'boren':36 'boswel':42 'chandler':48 'connolli':55 'costa':61 'cut':9 'd':26,32,38,44,50,57,62 'd-ga':25,31 'd-iowa':43 'd-ki':49 'd-okla':37 'd-va':56 'dan':35 'democrat':2,14 'e':54 'ga':27,33 'gerald':53 'hous':6 'iowa':45 'jim':60 'john':23 'ky':51 'leonard':41 'okla':39 'plan':10 'post':65 'rep':22,28,34,40,46,52,59 'republican':7,17 'retir':12 'sanford':29 'tax':8 'va':58 'vote':3,15 'washington':64</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970435</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:36-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...is retiring) 19 Democrats voted with Republicans to approve the bill: Rep. John Barrow (D-Ga.) Rep. Sanford Bishop (D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D</excerpt>
+          <fti-names>'19':13 'approv':19 'barrow':24 'ben':47 'bill':21 'bishop':30 'boren':36 'boswel':42 'chandler':48 'connolli':55 'costa':61 'cut':9 'd':26,32,38,44,50,57,62 'd-ga':25,31 'd-iowa':43 'd-ki':49 'd-okla':37 'd-va':56 'dan':35 'democrat':2,14 'e':54 'ga':27,33 'gerald':53 'hous':6 'iowa':45 'jim':60 'john':23 'ky':51 'leonard':41 'okla':39 'plan':10 'post':65 'rep':22,28,34,40,46,52,59 'republican':7,17 'retir':12 'sanford':29 'tax':8 'va':58 'vote':3,15 'washington':64</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970434</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:35:31-04:00</created-at>
+          <title>Natural Gas Show Will Go On at the CVC</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Tim Murphy (R-Pa.) is a co-chairman of the Congressional Natural Gas Caucus. Was it a partisan dispute over natural gas? Or just a lot of hot air? Who the frack knows? After some huffing and puffing, plans for a screening of a pro-hydraulic fracturi</excerpt>
+          <fti-names>'air':41 'call':62 'caucus':26 'chairman':20 'co':19 'co-chairman':18 'congression':23 'cvc':9 'disput':31 'frack':44 'fracturi':60 'gas':2,25,34 'go':5 'hot':40 'huf':48 'hydraul':59 'know':45 'lot':38 'murphi':12 'natur':1,24,33 'pa':15 'partisan':30 'plan':51 'pro':58 'pro-hydraul':57 'puf':50 'r':14 'r-pa':13 'rep':10 'roll':61 'screen':54 'show':3 'tim':11</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/natural_gas_show_will_go_on_at_the_cvc-216534-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920032</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:32:28-04:00</created-at>
+          <title>StephenCLE's House Ratings - Part 4</title>
+          <contains-term>representative</contains-term>
+          <excerpt>James Clyburn is the representative here, and at D+17 ... Does Barrow have what it takes to be the next Jim Matheson or Dan Boren? I say yes, based on his mammoth cash lead and the fact that he&#8217;s no stranger to tough races.</excerpt>
+          <fti-names>'+17':16 '4':6 'barrow':18 'base':35 'boren':31 'cash':39 'clyburn':8 'd':15 'daili':52 'dan':30 'fact':43 'hous':3 'jame':7 'jim':27 'kos':53 'lead':40 'mammoth':38 'matheson':28 'next':26 'part':5 'race':51 'rate':4 'repres':11 'say':33 'stephencl':1 'stranger':48 'take':22 'tough':50 'yes':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/26/1113841/-StephenCLE-s-House-Ratings-Part-4</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:04:48-04:00</date>
+          <id type="integer">16966088</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:32:28-04:00</created-at>
+          <title>House Defeats Bill Giving Turkey Preferential Treatment on US Tribal Lands</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representatives Doc Hastings (R-WA), Tom Cole (R-OK), Virginia Foxx (R-NC), James Moran (D-VA), Dan Boren (D-OK) along with Delegate ... Sarbanes spearheaded a letter along with Rep. Gus Bilirakis (R-FL) as did Representatives Berman, Gary ...</excerpt>
+          <fti-names>'along':38,45 'armenian':59 'berman':56 'biliraki':49 'bill':3 'boren':34 'cole':19 'd':31,36 'd-ok':35 'd-va':30 'dan':33 'defeat':2 'deleg':40 'doc':13 'fl':52 'foxx':24 'gari':57 'give':4 'gus':48 'hast':14 'hous':1 'jame':28 'land':11 'letter':44 'mirror':61 'mirror-spect':60 'moran':29 'nc':27 'ok':22,37 'preferenti':6 'r':16,21,26,51 'r-fl':50 'r-nc':25 'r-ok':20 'r-wa':15 'rep':47 'repres':12,55 'sarban':41 'spearhead':42 'spectat':62 'tom':18 'treatment':7 'tribal':10 'turkey':5 'us':9 'va':32 'virginia':23 'wa':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mirrorspectator.com/2012/07/26/house-defeats-bill-giving-turkey-preferential-treatment-on-us-tribal-lands/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T08:48:48-04:00</date>
+          <id type="integer">16966089</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Armenian Mirror-Spectator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:34:36-04:00</created-at>
+          <title>Bill singling out Turkey for preferential treatment rejected</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representatives Doc Hastings (R-WA), Tom Cole (R-OK), Virginia Foxx (R-NC), James Moran (D-VA), Dan Boren (D-OK) along with Delegate ... According to campaign contribution records, Representative Cole has received $6,000 in Turkish PAC money this cycle ...</excerpt>
+          <fti-names>'000':48 '6':47 'a1':55 'accord':38 'along':35 'bill':1 'boren':31 'campaign':40 'cole':16,44 'contribut':41 'cycl':54 'd':28,33 'd-ok':32 'd-va':27 'dan':30 'deleg':37 'doc':10 'foxx':21 'hast':11 'jame':25 'money':52 'moran':26 'nc':24 'news':57 'ok':19,34 'pac':51 'plus':56 'preferenti':6 'r':13,18,23 'r-nc':22 'r-ok':17 'r-wa':12 'receiv':46 'record':42 'reject':8 'repres':9,43 'singl':2 'tom':15 'treatment':7 'turkey':4 'turkish':50 'va':29 'virginia':20 'wa':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.a1plus.am/en/politics/2012/07/25/aaa</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T04:39:26-04:00</date>
+          <id type="integer">16888334</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>A1 Plus News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-23T22:36:10-04:00</created-at>
+          <title>No Dem debates in 2nd District</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Gott said every candidate who filed for the 2nd District seat being vacated by U.S. Rep. Dan Boren &#8212; except Herriman &#8212; had participated in a debate. &#8220;After nearly a year into Herriman&#8217;s campaign, he still refuses to debate the issues,&#8221; Gott said.</excerpt>
+          <fti-names>'2nd':5,15 'boren':24 'campaign':39 'candid':10 'daili':50 'dan':23 'debat':3,31,44 'dem':2 'district':6,16 'everi':9 'except':25 'file':12 'gott':7,47 'herriman':26,37 'issu':46 'muskoge':49 'near':33 'particip':28 'phoenix':51 'refus':42 'rep':22 'said':8,48 'seat':17 'still':41 'u.s':21 'vacat':19 'year':35</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://muskogeephoenix.com/local/x228005155/No-Dem-debates-in-2nd-District</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T00:32:27-04:00</date>
+          <id type="integer">16821059</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Muskogee Daily Phoenix</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-24T22:42:03-04:00</created-at>
+          <title>LG increases dispatcher pay, accepts resignations</title>
+          <contains-term>senator</contains-term>
+          <excerpt>He showed the council maps and photos of his property. Town attorney Tammy Ward told McKinney he should contact Rep. Dan Boren&#8217;s Claremore office or Senators Coburn and Inhofe.&#160; Ward said this is a matter for federal representatives and not the town.</excerpt>
+          <fti-names>'accept':5 'attorney':18 'boren':28 'claremor':30 'coburn':34 'contact':25 'council':10 'daili':51 'dan':27 'dispatch':3 'feder':44 'increas':2 'inhof':36 'lg':1 'map':11 'matter':42 'mckinney':22 'offic':31 'pay':4 'photo':13 'properti':16 'pryor':50 'rep':26 'repres':45 'resign':6 'said':38 'senat':33 'show':8 'tammi':19 'time':52 'told':21 'town':17,49 'ward':20,37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://pryordailytimes.com/local/x825330541/LG-increases-dispatcher-pay-accepts-resignations</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T15:28:26-04:00</date>
+          <id type="integer">16847920</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pryor Daily Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Dan Boren [D, OK-2]</name>
+      <total-session-votes type="integer">1653</total-session-votes>
+      <sunlight-nickname>Dan</sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:45:28-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor&amp;#39;s Weekly ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>(Sponsored by Rep. Dan Boren / Oversight and Government Reform Committee). TUESDAY, JULY 24TH, AND THE BALANCE OF THE WEEK On Tuesday and Wednesday, the House will meet at 10:00 a.m. for morning hour ...</excerpt>
+          <fti-names>'00':38 '10':37 '24th':21 'a.m':39 'american':1 'balanc':24 'barbara':4,43 'boren':13 'cantor':6 'committe':18 'dan':12 'eric':5 'freedom':2 'govern':16 'hour':42 'hous':33 'juli':20 'meet':35 'morn':41 'oversight':14 'reform':17 'rep':11 'sponsor':9 'tuesday':19,29 'wednesday':31 'week':8,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantors-weekly-schedule-july-23.html&amp;sa=U&amp;ei=x7oMUJHoIMjc2QXDwxE&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGWgc2hgSQCe2mASV_RYqie-d868g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16811912</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:45:31-04:00</created-at>
+          <title>Daily Schedule - The Republican Cloakroom</title>
+          <contains-term>republican</contains-term>
+          <excerpt>H.R. 5958 - To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica Bay Wildlife Refuge unit of Gateway National Recreation Area in honor of James L. Buckley (Sponsored by Rep. Bob Turner / Natural Resources   Committee) ... 19. H.R.</excerpt>
+          <fti-names>'19':44 '5958':7 'area':29 'bay':12,21 'bob':39 'buckley':35 'cloakroom':5 'committe':43 'contact':16 'daili':1 'gateway':26 'h.r':6,45 'honor':31 'jamaica':11,20 'jame':33 'l':34 'name':9 'nation':27 'natur':41 'recreat':28 'refug':14,23 'rep':38 'repcloakroom.house.gov':46 'republican':4 'resourc':42 'schedul':2 'sponsor':36 'station':17 'turner':40 'unit':24 'visitor':15 'wildlif':13,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://repcloakroom.house.gov/News/DocumentSingle.aspx%3FDocumentID%3D304023&amp;sa=U&amp;ei=x7oMUJHoIMjc2QXDwxE&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEeXBFySeeZIqF-rUfHhZ5fUPorKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16811918</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://repcloakroom.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:45:33-04:00</created-at>
+          <title>Vote &amp;#39;Em Out: Entire MA Congressional Delegation Voted NO On ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Granted, only 5 Democrats in the House of Representatives voted to repeal Obamacare: Reps. Dan Boren (D-Okla.), Mike McIntyre (D-N.C.), Jim Matheson (D-Utah), Mike Ross (D-Ark.), Larry Kissell (D-N.C.). It goes without ...</excerpt>
+          <fti-names>'5':13 'ark':45 'boren':26 'c':35,51 'congression':6 'd':28,33,39,44,49 'd-ark':43 'd-n':32,48 'd-okla':27 'd-utah':38 'dan':25 'deleg':7 'democrat':14 'em':2 'entir':4 'fleme':55 'goe':53 'grant':11 'hay':57 'hous':17 'jim':36 'kissel':47 'larri':46 'ma':5 'matheson':37 'mcintyr':31 'mike':30,41 'n':34,50 'obamacar':23 'okla':29 'rep':24 'repeal':22 'repres':19 'ross':42 'utah':40 'vote':1,8,20 'without':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fleming-hayes.com/2012/07/vote-em-out-entire-ma-congressional-delegation-voted-no-on-obamacare-repeal/&amp;sa=U&amp;ei=x7oMUJHoIMjc2QXDwxE&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNE7Qiqsd0FiEVs4wZMtJCcJqHBevw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16811922</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fleming and Hayes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-19T22:35:04-04:00</created-at>
+          <title>The Latest on the Healthcare Bill (from Humana Healthcare Newsletter</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The Democrats who sided with the GOP included Reps. Larry Kissell and Mike McIntyre of North Carolina, Dan Boren of Oklahoma, Mike Ross of Arkansas and Jim Matheson of Utah. The repeal vote marked the 33rd attempt ...</excerpt>
+          <fti-names>'33rd':46 'arkansa':35 'attempt':47 'bill':6 'boren':29 'carolina':27 'dan':28 'democrat':12 'gop':17 'gudka':52 'healthcar':5,9 'humana':8 'includ':18 'jean':49 'jean-paul':48 'jim':37 'jp':51 'kissel':21 'larri':20 'latest':2 'mark':44 'matheson':38 'mcintyr':24 'mike':23,32 'newslett':10 'north':26 'oklahoma':31 'paul':50 'rep':19 'repeal':42 'ross':33 'side':14 'utah':40 'vote':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.insuranceagentdenver.com/the-latest-on-the-healthcare-bill-from-humana-healthcare-newsletter-dated-7-19-12/&amp;sa=U&amp;ei=18MIUJ6kGe3k2wWkmsDABw&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEJL_d2lzB0vh3TtuwnJv4spZ9HDA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16747795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jean-Paul JP Gudka</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-19T22:35:04-04:00</created-at>
+          <title>NSSGA Special Legislative Update 7/12/12 | ARIZONA ROCK ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Introduced by Rep. Mark Amodei (R-Nev.), H.R. 4402, the National Strategic and Critical Minerals Production Act, would require the secretaries of Agriculture and the Interior to more effectively develop domestic sources of minerals of &#8220;strategic   and cr</excerpt>
+          <fti-names>'4402':17 '7/12/12':5 'act':25 'admin':47 'agricultur':31 'amodei':12 'arizona':6 'cr':46 'critic':22 'develop':38 'domest':39 'effect':37 'h.r':16 'interior':34 'introduc':8 'legisl':3 'mark':11 'miner':23,42 'nation':19 'nev':15 'nssga':1 'product':24 'r':14 'r-nev':13 'rep':10 'requir':27 'rock':7 'secretari':29 'sourc':40 'special':2 'strateg':20,44 'updat':4 'would':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://azrockproducts.org/nssga-special-legislative-update-71212/&amp;sa=U&amp;ei=18MIUJ6kGe3k2wWkmsDABw&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNF3IvbTc9D-hIzYDei-JmJGVqIohw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16747794</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-19T22:35:03-04:00</created-at>
+          <title>Schornick elected to state leadership role : Oologah Lake Leader</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Oologah High School Principal Robert Schornick (left) and Kingfisher High School Principal Sammy Jackson meet with U.S. Representative Dan Boren (center) June 27 in Washington, D.C. Schornick attended a three day ...</excerpt>
+          <fti-names>'27':32 'attend':37 'boren':29 'center':30 'd.c':35 'dan':28 'day':40 'elect':2 'high':11,19 'jackson':23 'june':31 'kingfish':18 'lake':8 'leader':9,41 'leadership':5 'left':16 'meet':24 'oologah':7,10 'princip':13,21 'repres':27 'robert':14 'role':6 'sammi':22 'school':12,20 'schornick':1,15,36 'state':4 'three':39 'u.s':26 'washington':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oologahonline.com/%3Fp%3D3288&amp;sa=U&amp;ei=18MIUJ6kGe3k2wWkmsDABw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEUE9Gb0hQo4uSFJSWgQo6qfvpUZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16747793</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Leader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-19T22:35:04-04:00</created-at>
+          <title>Meet the 112th | Shoring up support</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Among the visitors were representatives of the Oklahoma Department of Transportation, Department of Environmental Quality, cities of Tulsa and Okmulgee ,and Congressman Dan Boren&amp;#39;s office. Arranging boulders, grading ...</excerpt>
+          <fti-names>'112th':3 'among':7 'arrang':33 'boren':30 'boulder':34 'citi':22 'congressman':28 'daili':37 'dan':29 'depart':15,18 'environment':20 'grade':35 'meet':1 'offic':32 'oklahoma':14 'okmulge':26 'press':38 'qualiti':21 'repres':11 'shore':4 'support':6 'tahlequah':36 'transport':17 'tulsa':24 'visitor':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/shoring-up-support/&amp;sa=U&amp;ei=18MIUJ6kGe3k2wWkmsDABw&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNGTlcM7GphiUDWiWMYxOOZBIr6TMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16747798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tahlequah Daily Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:38:43-04:00</created-at>
+          <title>House votes to repeal ACA - - Travel Nursing</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Two of them &#8211; Reps. Dan Boren (D-Okla.) and Mike Ross (D-Ark.) &#8211; lean conservative and are not seeking re-election. The other three Democrats who voted for the bill &#8211; Reps. Larry Kissell (D-N.C.), Jim Matheson (D-Utah) ...</excerpt>
+          <fti-names>'aca':5 'ark':22 'bill':40 'boren':13 'c':47 'conserv':24 'd':15,21,45,51 'd-ark':20 'd-n':44 'd-okla':14 'd-utah':50 'dan':12 'democrat':35 'elect':31 'healthcaretraveler.modernmedicine.com':53 'hous':1 'jim':48 'kissel':43 'larri':42 'lean':23 'matheson':49 'mike':18 'n':46 'nurs':7 'okla':16 're':30 're-elect':29 'rep':11,41 'repeal':4 'ross':19 'seek':28 'three':34 'travel':6 'two':8 'utah':52 'vote':2,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://healthcaretraveler.modernmedicine.com/healthcaretraveler/House-votes-to-repeal-ACA/ArticleStandard/Article/detail/781808%3Fref%3D25&amp;sa=U&amp;ei=L3MHUKKFFImO2wWl9aivBA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNFfqUWSADWXAHe-tb7g-mp_ZGlu-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16715148</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://healthcaretraveler.modernmedicine.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:38:39-04:00</created-at>
+          <title>Meet the 112th | Shoring up support</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Among the visitors were representatives of the Oklahoma Department of Transportation, Department of Environmental Quality, cities of Tulsa and Okmulgee ,and Congressman Dan Boren&amp;#39;s office. Arranging boulders, grading ...</excerpt>
+          <fti-names>'112th':3 'among':7 'arrang':33 'boren':30 'boulder':34 'citi':22 'congressman':28 'daili':37 'dan':29 'depart':15,18 'environment':20 'grade':35 'meet':1 'offic':32 'oklahoma':14 'okmulge':26 'press':38 'qualiti':21 'repres':11 'shore':4 'support':6 'tahlequah':36 'transport':17 'tulsa':24 'visitor':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/shoring-up-support/&amp;sa=U&amp;ei=L3MHUKKFFImO2wWl9aivBA&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHZ0oX0N1MYfG87t-yfxfcdQV9eTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16715139</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tahlequah Daily Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400645</commentariable-id>
+          <created-at type="datetime">2012-07-17T22:44:46-04:00</created-at>
+          <title>Meet the 112th | Shoring up support</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Among the visitors were representatives of the Oklahoma Department of Transportation, Department of Environmental Quality, cities of Tulsa and Okmulgee ,and Congressman Dan Boren&amp;#39;s office. Arranging boulders, grading ...</excerpt>
+          <fti-names>'112th':3 'among':7 'arrang':33 'boren':30 'boulder':34 'citi':22 'congressman':28 'daili':37 'dan':29 'depart':15,18 'environment':20 'grade':35 'meet':1 'offic':32 'oklahoma':14 'okmulge':26 'press':38 'qualiti':21 'repres':11 'shore':4 'support':6 'tahlequah':36 'transport':17 'tulsa':24 'visitor':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/shoring-up-support/&amp;sa=U&amp;ei=HSMGUIq5Eqbs2QW43Om5BQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNEjY7Riw7h6ZgeP8SQuQSnPO-XVXw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16693781</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tahlequah Daily Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">31584</page-views-count>
+      <unaccented-name>Dan Boren</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

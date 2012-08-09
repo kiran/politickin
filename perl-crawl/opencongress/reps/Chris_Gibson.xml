@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">76.5907764156451</party-votes-percentage>
+        <abstains-percentage type="float">0.349040139616056</abstains-percentage>
+        <votes-most-often-with-id type="integer">400648</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">156</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">412453</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412438</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1312</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">2076</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">31</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>RepChrisGibson</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">76.5907764156451</with-party-percentage>
+      <lastname>Gibson</lastname>
+      <bioguide-id>G000564</bioguide-id>
+      <fax>202-225-1168</fax>
+      <congress-office>502 Cannon House Office Building</congress-office>
+      <firstname>Chris</firstname>
+      <website>http://gibson.house.gov/</website>
+      <birthday type="date">1964-05-13</birthday>
+      <person-id type="integer">412453</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-5614</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">680</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>P.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:41:11-04:00</created-at>
+          <title>Washington Avenue sinkhole breaks water main joint in Kingston</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...but more towards state Route 32, commonly referred to as The Boulevard. Noble along with Mayor Shayne Gallo and U.S. Rep. Chris Gibson, R-Kinderhook, visited the site on Monday, Noble said. Hansen said the water department and City Engineer Ralph Swenso</excerpt>
+          <fti-names>'32':15 'along':23 'avenu':2 'boulevard':21 'break':4 'chris':31 'citi':49 'common':16 'daili':53 'depart':47 'engin':50 'freeman':54 'gallo':27 'gibson':32 'hansen':43 'joint':7 'kinderhook':35 'kingston':9 'main':6 'mayor':25 'monday':40 'nobl':22,41 'r':34 'r-kinderhook':33 'ralph':51 'refer':17 'rep':30 'rout':14 'said':42,44 'shayn':26 'sinkhol':3 'site':38 'state':13 'swenso':52 'toward':12 'u.s':29 'visit':36 'washington':1 'water':5,46</fti-names>
+          <source-url>http://www.dailyfreeman.com/</source-url>
+          <url>http://www.freemanonline.com/articles/2012/08/06/news/doc502071ea5e922599696942.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973399</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Freeman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:41:11-04:00</created-at>
+          <title>House Speaker John Boehner has dinner at Savona's Trattoria in Kingston</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...reservation was for, but he suspected it was Boehner because there were rumors he would be hosting a fundraiser for U.S. Rep. Chris Gibson, R-Kinderhook. Gibson is running against Julian Schreibman, a Democrat from Stone Ridge, for the 19th Congressiona</excerpt>
+          <fti-names>'19th':53 'boehner':4,21 'chris':35 'congressiona':54 'daili':55 'democrat':47 'dinner':6 'freeman':56 'fundrais':31 'gibson':36,40 'host':29 'hous':1 'john':3 'julian':44 'kinderhook':39 'kingston':12 'r':38 'r-kinderhook':37 'rep':34 'reserv':13 'ridg':50 'rumor':25 'run':42 'savona':8 'schreibman':45 'speaker':2 'stone':49 'suspect':18 'trattoria':10 'u.s':33 'would':27</fti-names>
+          <source-url>http://www.dailyfreeman.com/</source-url>
+          <url>http://www.dailyfreeman.com/articles/2012/08/07/news/doc50205ef69b8c2091156199.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973398</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Freeman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:41:11-04:00</created-at>
+          <title>Boehner jokes about staying in eatery biz</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...located in a former opera house in a waterfront historic district, Saturday night after hosting a fundraiser for Rep. Chris Gibson, R-N.Y., in a private residence a few miles outside the city. Gibson, of the 20th Congressional District, is running again</excerpt>
+          <fti-names>'20th':46 'biz':7 'boehner':1 'chris':27 'citi':42 'congression':47 'district':18,48 'eateri':6 'former':11 'fundrais':24 'gibson':28,43 'histor':17 'host':22 'hous':13 'intern':54 'joke':2 'locat':8 'mile':39 'n':31 'night':20 'opera':12 'outsid':40 'press':53 'privat':35 'r':30 'r-n':29 'rep':26 'resid':36 'run':50 'saturday':19 'stay':4 'unit':52 'waterfront':16 'y':32</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://www.upi.com/Top_News/US/2012/08/07/Boehner-jokes-about-staying-in-eatery-biz/UPI-22411344371060/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973397</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:46:23-04:00</created-at>
+          <title>Veterans gather for Greenport picnic</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...available to veterans returning home for the first time and those who have long since hung up their uniforms. U.S. Rep. Chris Gibson, R-Kinderhook, spoke with veterans during the picnic about those services. A veteran himself, Gibson said he knew of the</excerpt>
+          <fti-names>'avail':6 'chris':27 'first':13 'gather':2 'gibson':28,44 'greenport':4 'home':10 'hung':21 'kinderhook':31 'knew':47 'long':19 'onlin':53 'picnic':5,37 'r':30 'r-kinderhook':29 'regist':51 'rep':26 'return':9 'said':45 'servic':40 'sinc':20 'spoke':32 'star':52 'time':14 'u.s':25 'uniform':24 'veteran':1,8,34,42</fti-names>
+          <source-url>http://www.registerstar.com/</source-url>
+          <url>http://www.registerstar.com/articles/2012/08/06/news/doc501f0d1e8558e227352476.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972813</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Register Star Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:46:22-04:00</created-at>
+          <title>Mid-Hudson Political Report: Tax-cut debates continue to rage</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...after the vote. This area's representatives split on party lines on the tax vote, with Reps. Hayworth, R-Mount Kisco; and Chris Gibson, R-Kinderhook voting in favor; and Rep. Maurice Hinchey, D-Saugerties, voting against. Gibson said he wants to keep th</excerpt>
+          <fti-names>'area':17 'chris':36 'continu':10 'cut':8 'd':49 'd-saugerti':48 'debat':9 'favor':43 'gibson':37,53 'hayworth':30 'herald':62 'herald-record':61 'hinchey':47 'hudson':3 'keep':58 'kinderhook':40 'kisco':34 'line':23 'mauric':46 'mid':2 'mid-hudson':1 'mount':33 'parti':22 'polit':4 'r':32,39 'r-kinderhook':38 'r-mount':31 'rage':12 'record':63 'rep':29,45 'report':5 'repres':19 'said':54 'saugerti':50 'split':20 'tax':7,26 'tax-cut':6 'th':59 'time':60 'vote':15,27,41,51 'want':56</fti-names>
+          <source-url>http://www.recordonline.com/</source-url>
+          <url>http://recordonline.com/apps/pbcs.dll/article?AID=/20120806/NEWS/208060318/-1/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972812</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Times Herald-Record</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:49:17-04:00</created-at>
+          <title>Boehner&#8217;s Upstate Swing</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...and later to Monroe County for Republican candidate Maggie Brooks. Later he&#8217;ll travel to the Hudson Valley to help Rep. Chris Gibson (both Gibson and Buerkle are freshman). The trip comes in part because New York is a heavily competitive state for Hou</excerpt>
+          <fti-names>'boehner':1 'brook':14 'buerkl':31 'candid':12 'capit':49 'chris':26 'come':36 'competit':45 'counti':9 'freshman':33 'gibson':27,29 'heavili':44 'help':24 'hou':48 'hudson':21 'later':6,15 'll':17 'maggi':13 'monro':8 'new':40 'part':38 'rep':25 'republican':11 'state':46 'swing':4 'tonight':50 'travel':18 'trip':35 'upstat':3 'valley':22 'york':41</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/boehners-upstate-swing/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971632</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:32:10-04:00</created-at>
+          <title>News: Reed has given to other hopefuls</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of West Virginia. Unlike New York Republican incumbents in toss-up races &#194; such as Reps. Ann Marie Buerkle, of Onondaga, Chris Gibson, of Kinderhook, and Nan Hayworth, of Westchester County &#194; Reed is running in a redrawn district rated &#194;likely Republ</excerpt>
+          <fti-names>'ann':25 'buerkl':27 'chris':30 'counti':39 'district':47 'gazett':54 'gibson':31 'given':4 'hayworth':36 'hope':7 'incumb':15 'kinderhook':33 'mari':26 'nan':35 'new':12 'news':1 'onondaga':29 'race':20 'rate':48 'redrawn':46 'reed':2,41 'rep':24 'republ':50 'republican':14 'run':43 'star':53 'star-gazett':52 'toss':18 'toss-up':17 'unlik':11 'virginia':10 'west':9 'westchest':38 'york':13 '&#226;':21,40 '&#226;like':49</fti-names>
+          <source-url>http://www.stargazette.com/</source-url>
+          <url>http://www.stargazette.com/article/20120801/NEWS01/308010078/-1/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970636</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Star-Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:39:28-04:00</created-at>
+          <title>Rep. Tom Reed donates to fellow Republican candidates</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of West Virginia. Unlike New York Republican incumbents in tossup races  such as Reps. Ann Marie Buerkle of Onondaga, Chris Gibson of Kinderhook and Nan Hayworth of Westchester County  Reed is running in a redrawn district rated likely Republican by the</excerpt>
+          <fti-names>'ann':23 'buerkl':25 'candid':8 'chris':28 'chronicl':53 'counti':37 'democrat':51 'district':44 'donat':4 'fellow':6 'gibson':29 'hayworth':34 'incumb':16 'kinderhook':31 'like':46 'mari':24 'nan':33 'new':13 'onondaga':27 'race':19 'rate':45 'redrawn':43 'reed':3,38 'rep':1,22 'republican':7,15,47 'rochest':50 'run':40 'tom':2 'tossup':18 'unlik':12 'virginia':11 'west':10 'westchest':36 'york':14</fti-names>
+          <source-url>http://www.democratandchronicle.com/</source-url>
+          <url>http://www.democratandchronicle.com/article/20120801/NEWS01/308010029/1100/RSS08</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969672</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rochester Democrat and Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:39:28-04:00</created-at>
+          <title>GOP poll shows Rep. Gibson up big on Schreibman in congressional race</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...4:14 PM - 08/01/12 Last updated: 4:19 PM - 08/01/12 An internal poll commissioned by U.S. Rep. Chris Gibson, R-Kinderhoook, shows him with a 17-point lead over challenger Julian Schreibman, D-Stone Ridge. The July 25-26 poll of 400 likely voters showed </excerpt>
+          <fti-names>'-26':53 '08/01/12':16,22 '14':14 '17':39 '19':20 '25':52 '4':13,19 '400':56 'big':7 'challeng':43 'chris':30 'commiss':26 'congression':11 'd':47 'd-stone':46 'gibson':5,31 'gop':1 'herald':62 'herald-record':61 'intern':24 'juli':51 'julian':44 'kinderhoook':34 'last':17 'lead':41 'like':57 'pm':15,21 'point':40 'poll':2,25,54 'r':33 'r-kinderhoook':32 'race':12 'record':63 'rep':4,29 'ridg':49 'schreibman':9,45 'show':3,35,59 'stone':48 'time':60 'u.s':28 'updat':18 'voter':58</fti-names>
+          <source-url>http://www.recordonline.com/</source-url>
+          <url>http://recordonline.com/apps/pbcs.dll/article?AID=/20120801/NEWS/120809980/-1/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969671</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Times Herald-Record</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:56-04:00</created-at>
+          <title>Rep. Gibson up big in internal poll</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Chris Gibson (R-N.Y.) holds a sizeable 17-point lead over attorney Julian Schreibman (D), according to an internal poll released by his campaign. Gibson, a top Democratic target in the Democratic-leaning district, leads Schreibman by 53 to 36 percent </excerpt>
+          <fti-names>'17':18 '36':51 '53':49 'accord':26 'attorney':22 'big':4 'campaign':34 'chris':9 'd':25 'democrat':38,43 'democratic-lean':42 'district':45 'gibson':2,10,35 'hold':15 'intern':6,29 'julian':23 'lead':20,46 'lean':44 'n':13 'percent':52 'point':19 'poll':7,30 'r':12 'r-n':11 'releas':31 'rep':1,8 'schreibman':24,47 'sizeabl':17 'target':39 'thehill.com':53 'top':37 'y':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/ballot-box/house-races/241235-rep-gibson-up-big-in-internal-poll</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T09:40:08-04:00</date>
+          <id type="integer">16966489</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Chris Gibson [R, NY-20]</name>
+      <total-session-votes type="integer">1713</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>20</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:44-04:00</created-at>
+          <title>Letter to Rep. Chris Gibson: &#8220;I Have Heard Nothing About This from ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>DOES CONGRESS KNOW THE MEANING OF NATURAL BORN CITIZEN...OR CARE? July 18, 2012 To: Rep.Chris.Gibson Rep.Chris.Gibson@mail.house.gov Thank you for this.</excerpt>
+          <fti-names>'18':25 '2012':26 'born':20 'care':23 'chris':4 'citizen':21 'congress':14 'gibson':5 'heard':8 'juli':24 'know':15 'letter':1 'mean':17 'natur':19 'noth':9 'rep':3 'rep.chris.gibson':28 'rep.chris.gibson@mail.house.gov':29 'rondeau':35 'sharon':34 'thank':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thepostemail.com/2012/07/18/letter-to-rep-chris-gibson-i-have-heard-nothing-about-this-from-your-office/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHwrV1LMcSq8iePCZbC1rPsSYzpIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16786633</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sharon Rondeau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>Gibson says he plans to run for re-election on his record (video ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Gibson said Monday he plans to run on his record. Gibson, R-Kinderhook, is a first-term congressman in the 20th Congressional District who will face Democrat Julian Schreibman of Stone Ridge in this fall&amp;#39;s campaign to ...</excerpt>
+          <fti-names>'20th':38 'campaign':54 'chris':15 'congression':39 'congressman':35 'democrat':44 'district':40 'elect':10 'face':43 'fall':52 'first':33 'first-term':32 'gibson':1,16,26 'julian':45 'kinderhook':29 'monday':18 'plan':4,20 'r':28 'r-kinderhook':27 're':9 're-elect':8 'record':13,25 'ridg':49 'run':6,22 'said':17 'say':2 'schreibman':46 'stone':48 'term':34 'video':14 'www.dailyfreeman.com':56</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailyfreeman.com/articles/2012/07/17/news/doc5004b72ef4231956837758.txt/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CFMQmAEwCw&amp;usg=AFQjCNFhGrCtEY-VLX5CFTccO6eJxHrrwg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16786641</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.dailyfreeman.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>Capitol Confidential &#187; Schreibman rakes in over $181K</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Julian Schreibman raised $181234 in the last three weeks of June, as he pivoted from a primary victory over Dutchess County Legislator Joel Tyner to his general election contest with Rep. Chris Gibson, R-Kinderhook.</excerpt>
+          <fti-names>'181234':11 '181k':7 'bureau':47 'capitol':1,46 'chris':39 'confidenti':2 'contest':36 'counti':28 'dutchess':27 'elect':35 'general':34 'gibson':40 'jimmi':44 'joel':30 'julian':8 'june':18 'kinderhook':43 'last':14 'legisl':29 'pivot':21 'primari':24 'r':42 'r-kinderhook':41 'rais':10 'rake':4 'rep':38 'schreibman':3,9 'three':15 'tyner':31 'victori':25 'vielkind':45 'week':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/capitol/archives/140456/schreibman-rakes-in-over-176k/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CEkQmAEwCQ&amp;usg=AFQjCNHfTG_JDsrzYW0Tln1Q6VZxLmrgew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16786639</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jimmy Vielkind, Capitol bureau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:46-04:00</created-at>
+          <title>House Agriculture Committee Approves Farm Bill&#8212;What&amp;#39;s Next ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>An amendment offered by Rep. Chris Gibson (R-NY) was rejected (25-19) that would have allowed USDA to award loans in combination with grants when lending for broadband telecommunications services in rural areas.</excerpt>
+          <fti-names>'-19':23 '25':22 'admin':46 'agricultur':2 'allow':27 'amend':11 'approv':4 'area':44 'award':30 'bill':6 'broadband':39 'chris':15 'combin':33 'committe':3 'farm':5 'gibson':16 'grant':35 'hous':1 'lend':37 'loan':31 'nado':45 'next':9 'ny':19 'offer':12 'r':18 'r-ni':17 'reject':21 'rep':14 'rural':43 'servic':41 'telecommun':40 'usda':28 'would':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nado.org/house-agriculture-committee-approves-farm-bill-whats-next/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CFcQmAEwDA&amp;usg=AFQjCNEt7Mc2yl7iBevmLx-BrfDSWFiMjA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16786642</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NADO Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>New York: Chris Gibson, Julian Schreibman Release Fundraising ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>New York: Chris Gibson, Julian Schreibman Release Fundraising Numbers. By Joshua Miller Posted at 5 a.m. on July 11. In a tossup race in upstate New York&amp;#39;s 19th district, freshman Rep. Chris Gibson (R) and Democratic nominee Julian ...</excerpt>
+          <fti-names>'11':27 '19th':37 '5':23 'a.m':24 'chris':3,11,41 'democrat':45 'district':38 'freshman':39 'fundrais':8,16 'gibson':4,12,42 'joshua':19,49 'joshuamiller@rollcall.com':48 'juli':26 'julian':5,13,47 'miller':20,50 'new':1,9,34 'nomine':46 'number':17 'post':21 'r':43 'race':31 'releas':7,15 'rep':40 'schreibman':6,14 'tossup':30 'upstat':33 'york':2,10,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://atr.rollcall.com/new-york-chris-gibson-julian-schreibman-release-fundraising-numbers/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNHXhRQ6udY5OJ530aFdxFSSWclbtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16786638</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JoshuaMiller@rollcall.com (Joshua Miller)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>WGXC interviews U.S. Representative Chris Gibson on the power ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>INTERVIEWS Interview by Tom Roe June 30, 2012. WGXC talked with several local officials and others about the new library and other issues. Chris Gibson, U.S. Representative (R-Kinderhook), discusses Cairo Library, ...</excerpt>
+          <fti-names>'2012':17 '30':16 'cairo':41 'chris':5,33 'discuss':40 'ghent':44 'gibson':6,34 'interview':2,10,11 'issu':32 'june':15 'kinderhook':39 'librari':29,42 'local':22 'new':28 'offici':23 'other':25 'power':9 'protect':43 'r':38 'r-kinderhook':37 'repres':4,36 'roe':14 'sever':21 'talk':19 'tom':13 'u.s':3,35 'wgxc':1,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://protectghent.com/2012/07/10/wgxc-interviews-u-s-representative-chris-gibson-on-the-power-line/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNGV7I4r8nX89jx5UnhGQIYzHTThCQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16786637</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Protect Ghent</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>Mitchell Langbert&amp;#39;s Blog: Congressman Chris Gibson&amp;#39;s Campaign ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Chris Gibson&amp;#39;s Campaign Donors. In March federal judges, declaring the failure of New York State&amp;#39;s government, redrew the dying state&amp;#39;s congressional districts. Ulster County is now in the 19th congressional ...</excerpt>
+          <fti-names>'19th':42 'blog':4 'campaign':9,14 'chris':6,11 'congression':34,43 'congressman':5,10 'counti':37 'declar':20 'die':31 'district':35 'donor':15 'failur':22 'feder':18 'gibson':7,12 'govern':28 'judg':19 'langbert':2,45 'march':17 'mitchel':1,44 'new':24 'redrew':29 'state':26,32 'ulster':36 'york':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mitchell-langbert.blogspot.com/2012/07/congressman-chris-gibsons-congressional.html&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNGTjHevDXN5WxO9dn7uR6sxJkuiCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16786640</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mitchell Langbert</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>U.S. Rep. Chris Gibson to speak to Rensselaer County Chamber ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Chris Gibson will hold what&amp;#39;s being described as an in-depth question and answer session with members of the local business community during an event sponsored by the Rensselaer County Regional Chamber of ...</excerpt>
+          <fti-names>'anderson':49 'answer':28 'busi':35 'chamber':10,46 'chris':3,13 'communiti':36 'counti':9,44 'depth':25 'describ':20 'eric':48 'event':39 'gibson':4,14 'hold':16 'in-depth':23 'local':34 'member':31 'question':26 'region':45 'renssela':8,43 'rep':2,12 'session':29 'speak':6 'sponsor':40 'u.s':1,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/business/u-s-rep-chris-gibson-to-speak-to-rensselaer-county-chamber/54325/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNFCUDd1xbonSGXIF8dahsCM4j526w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16786635</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric Anderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:51:45-04:00</created-at>
+          <title>Rep. Chris Gibson exits North Country, battles for career &#171; The In Box</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>A lot of North Country In Box readers won&amp;#39;t have had the opportunity to get to know Chris Gibson, the Republican former Army officer from the Hudson Valley who defeated Glens Falls Democrat Scott Murphy in 2010. Gibson ...</excerpt>
+          <fti-names>'2010':50 'armi':36 'battl':7 'box':12,19 'brian':52 'career':9 'chris':2,31 'countri':6,17 'defeat':43 'democrat':46 'exit':4 'fall':45 'former':35 'get':28 'gibson':3,32,51 'glen':44 'hudson':40 'know':30 'lot':14 'mann':53 'murphi':48 'north':5,16 'offic':37 'opportun':26 'reader':20 'rep':1 'republican':34 'scott':47 'valley':41 'won':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.northcountrypublicradio.org/inbox/2012/06/27/rep-chris-gibson-exits-north-country-battles-for-career/&amp;sa=U&amp;ei=wGoLUIDLEcje2AWKhbEK&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNHm-ReKcjjXv8g20s_CzfiQRz9N7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16786636</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian Mann</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412453</commentariable-id>
+          <created-at type="datetime">2012-06-20T23:00:45-04:00</created-at>
+          <title>Mayor Bloomberg And Governor Cuomo Applaud $10 Million ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>U.S. Representative Chris Gibson said, &#8220;I was pleased to join with my colleagues from across New York State and the Governor&amp;#39;s Office to support my Upstate farmers. This project is vital for ensuring they continue to expand ...</excerpt>
+          <fti-names>'10':7 'across':23 'administr':47 'applaud':6 'bloomberg':2 'chris':11 'colleagu':21 'continu':44 'cuomo':5 'ensur':42 'expand':46 'farmer':36 'gibson':12 'governor':4,29 'join':18 'mayor':1 'million':8 'new':24 'offic':31 'pleas':16 'project':38 'repres':10 'said':13 'state':26 'support':33 'u.s':9 'upstat':35 'vital':40 'york':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ecoanchornyc.com/2012/06/mayor-bloomberg-and-governor-cuomo-applaud-10-million-federal-grant-to-support-hunts-point-produce-market/&amp;sa=U&amp;ei=W47iT4GsFOji2AWqqs2xCw&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFbBTsKFNQ63xV5oa9qxXdtf6aLeQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16082768</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>administrator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5762</page-views-count>
+      <unaccented-name>Chris Gibson</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

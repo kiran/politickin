@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-22T21:50:52-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.0693069306931</party-votes-percentage>
+        <abstains-percentage type="float">0.116346713205352</abstains-percentage>
+        <votes-most-often-with-id type="integer">400655</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">378</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">2</abstains>
+        <cosponsored-bills type="integer">152</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">302</party-votes-percentage-rank>
+        <sponsored-bills type="integer">32</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">400643</person-id>
+        <cosponsored-bills-rank type="integer">229</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">296</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1598</votes-republican-position>
+      <blog-article-count type="integer">7415</blog-article-count>
+      <fax>202-225-2995</fax>
+      <user-approval type="float">3.40816326530612</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">198</oc-users-tracking>
+      <bioguide-id>F000450</bioguide-id>
+      <contact-webform>http://www.house.gov/formfoxx/IMA/issue_subscribe.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.0693069306931</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Foxx</lastname>
+      <congress-office>1230 Longworth House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Virginia</firstname>
+      <website>http://foxx.house.gov/</website>
+      <birthday type="date">1943-06-29</birthday>
+      <person-id type="integer">400643</person-id>
+      <phone>202-225-2071</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">347</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:03-04:00</created-at>
+          <title>Drought Spreads In US Midwest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...price of corn - the US leads the world in corn production - has risen 50 percent since June because of the drought, said Rep. Virginia Foxx. But some anti-tax groups see the disaster relief as another government bailout. The new drought survey, based on</excerpt>
+          <fti-names>'50':19 'anoth':42 'anti':34 'anti-tax':33 'bailout':44 'base':49 'bulletin':52 'corn':8,15 'disast':39 'drought':1,26,47 'foxx':30 'govern':43 'group':36 'june':22 'lead':11 'manila':51 'midwest':5 'new':46 'percent':20 'price':6 'product':16 'relief':40 'rep':28 'risen':18 'said':27 'see':37 'sinc':21 'spread':2 'survey':48 'tax':35 'us':4,10 'virginia':29 'world':13</fti-names>
+          <source-url>http://www.mb.com.ph/</source-url>
+          <url>http://www.mb.com.ph/articles/368777/drought-spreads-in-us-midwest</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972801</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Manila Bulletin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:48:24-04:00</created-at>
+          <title>Drought getting worse in parched Plains states</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of drought. Some 83 percent of Nebraska was in the two worst classifications of drought, up from 64.07 percent. Republican Rep. Virginia Foxx, of North Carolina, said the price of corn has risen 50 percent since June because of the drought, heightening </excerpt>
+          <fti-names>'50':41 '64.07':25 '83':11 'carolina':33 'classif':20 'corn':38 'drought':1,9,22,48 'foxx':30 'gazett':52 'get':2 'heighten':49 'june':44 'nebraska':14 'north':32 'parch':5 'percent':12,26,42 'plain':6 'price':36 'rep':28 'republican':27 'risen':40 'said':34 'sinc':43 'state':7 'telegram':51 'two':18 'virginia':29 'worcest':50 'wors':3 'worst':19</fti-names>
+          <source-url>http://www.telegram.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.telegram.com/article/20120803/NEWS/108039780/1052/RSS01&amp;source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971626</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Worcester Telegram &amp; Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:48:25-04:00</created-at>
+          <title>Crop-Withering Drought Intensifies In Plains</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...drought. Some 83 percent of Nebraska was in the two worst classifications of drought, up from 64.07 percent. Republican Rep. Virginia Foxx, of North Carolina, said the price of corn has risen 50 percent since June because of the drought, heightening the</excerpt>
+          <fti-names>'50':40 '64.07':24 '83':10 'carolina':32 'classif':19 'corn':37 'crop':2 'crop-with':1 'drought':4,8,21,47 'foxx':29 'heighten':48 'intensifi':5 'june':43 'nebraska':13 'news':51 'north':31 'percent':11,25,41 'plain':7 'price':35 'rep':27 'report':53 'republican':26 'risen':39 'said':33 'sinc':42 'two':17 'u.s':50 'virginia':28 'wither':3 'world':52 'worst':18</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://money.usnews.com/news/us/articles/2012/8/2/report-drought-intensifies-in-plains-states?s_cid=rss:report-drought-intensifies-in-plains-states</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971627</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:45-04:00</created-at>
+          <title>Crop-withering drought intensifies in Plains</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of drought. Some 83 percent of Nebraska was in the two worst classifications of drought, up from 64.07 percent. Republican Rep. Virginia Foxx, of North Carolina, said the price of corn has risen 50 percent since June because of the drought, heightening </excerpt>
+          <fti-names>'50':41 '64.07':25 '83':11 'carolina':33 'classif':20 'corn':38 'crop':2 'crop-with':1 'drought':4,9,22,48 'foxx':30 'heighten':49 'intensifi':5 'june':44 'kiro':50 'nebraska':14 'north':32 'percent':12,26,42 'plain':7 'price':36 'rep':28 'republican':27 'risen':40 'said':34 'sinc':43 'two':18 'virginia':29 'wither':3 'worst':19</fti-names>
+          <source-url>http://www.kirotv.com/</source-url>
+          <url>http://www.kirotv.com/ap/ap/indiana/report-drought-intensifies-in-plains-states/nP8wW/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970616</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KIRO</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:44-04:00</created-at>
+          <title>Congress Stalls on Summer Drought Assistance</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...but also for the entire nation. &#8220;It&#8217;s important to remember that it&#8217;s not just farmers affected by this drought,&#8221; Rep. Virginia Foxx, R-N.C., said. &#8221;The consequences of this disaster impact all Americans from those living in the biggest cities</excerpt>
+          <fti-names>'abc':51 'affect':24 'also':8 'american':43 'assist':6 'biggest':49 'c':34 'citi':50 'congress':1 'consequ':37 'disast':40 'drought':5,27 'entir':11 'farmer':23 'foxx':30 'impact':41 'import':15 'live':46 'n':33 'nation':12 'news':52 'r':32 'r-n':31 'rememb':17 'rep':28 'said':35 'stall':2 'summer':4 'virginia':29</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=68b6beb7d750773d6174b155b4bd9a3c</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970615</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:43-04:00</created-at>
+          <title>Drought conditions worsen in U.S. Midwest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...of corn &#8212; the U.S. leads the world in corn production &#8212; has risen 50 per cent since June because of the drought, said Rep. Virginia Foxx. But some anti-tax groups see the disaster relief as another government bailout, and it was unlikely to receive </excerpt>
+          <fti-names>'50':19 'anoth':43 'anti':35 'anti-tax':34 'bailout':45 'cent':21 'condit':2 'corn':8,15 'disast':40 'drought':1,27 'foxx':31 'govern':44 'group':37 'june':23 'lead':11 'midwest':6 'per':20 'product':16 'receiv':51 'relief':41 'rep':29 'risen':18 'said':28 'see':38 'sinc':22 'star':53 'tax':36 'toronto':52 'u.s':5,10 'unlik':49 'virginia':30 'world':13 'worsen':3</fti-names>
+          <source-url>http://www.thestar.com/</source-url>
+          <url>http://www.thestar.com/news/world/article/1236232--drought-conditions-worsen-in-u-s-midwest</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970614</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Toronto Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:42-04:00</created-at>
+          <title>Crop-Withering Drought Intensifies In Plains</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...drought. Some 83 percent of Nebraska was in the two worst classifications of drought, up from 64.07 percent. Republican Rep. Virginia Foxx, of North Carolina, said the price of corn has risen 50 percent since June because of the drought, heightening the</excerpt>
+          <fti-names>'50':40 '64.07':24 '83':10 'carolina':32 'classif':19 'corn':37 'crop':2 'crop-with':1 'drought':4,8,21,47 'foxx':29 'heighten':48 'intensifi':5 'june':43 'nebraska':13 'news':51 'north':31 'percent':11,25,41 'plain':7 'price':35 'rep':27 'report':53 'republican':26 'risen':39 'said':33 'sinc':42 'two':17 'u.s':50 'virginia':28 'wither':3 'world':52 'worst':18</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/news/us/articles/2012/8/2/report-drought-intensifies-in-plains-states?s_cid=rss:report-drought-intensifies-in-plains-states</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970613</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:36-04:00</created-at>
+          <title>The 2012 Farm Bill Goes on Summer Vacation</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...challenged by outside forces like rain or bad weather would need help next. On the other side of the aisle, Rep. Virginia Foxx (R-NC) implored her colleagues to &#8220;respond to fellow human beings, whose need is exacerbated by the job climate in this coun</excerpt>
+          <fti-names>'2012':2 'aisl':28 'bad':16 'be':43 'bill':4 'challeng':9 'climat':51 'colleagu':37 'coun':54 'exacerb':47 'farm':3 'fellow':41 'forc':12 'fork':57 'foxx':31 'goe':5 'green':56 'help':20 'human':42 'implor':35 'job':50 'like':13 'nc':34 'need':19,45 'next':21 'outsid':11 'r':33 'r-nc':32 'rain':14 'rep':29 'respond':39 'side':25 'summer':7 'vacat':8 'virginia':30 'weather':17 'whose':44 'would':18</fti-names>
+          <source-url>http://blog.eatwellguide.org/</source-url>
+          <url>http://feedproxy.google.com/~r/thegreenfork/~3/IFzOJ11lOuU/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970612</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Green Fork</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:23:48-04:00</created-at>
+          <title>Editorial: A grim week for law enforcement officers who give their all</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Virginia Foxx said in a prepared statement that &quot; &#8230; people like Deputy Mast volunteer to place themselves in harm's way for our protection.&quot; Mitchell reported that &quot;Deputies and police officers from surrounding counties came to ...</excerpt>
+          <fti-names>'came':48 'counti':47 'deputi':25,41 'editori':1 'enforc':7 'foxx':16 'give':10 'grim':3 'harm':32 'journal':53 'law':6 'like':24 'mast':26 'mitchel':38 'offic':8,44 'peopl':23 'place':29 'polic':43 'prepar':20 'protect':37 'rep':14 'report':39 'said':17 'salem':52 'statement':21 'surround':46 'u.s':13 'virginia':15 'volunt':27 'way':34 'week':4 'winston':51 'winston-salem':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.journalnow.com/news/opinion/2012/jul/29/wsopin01-editorial-a-grim-week-for-law-enforcement-ar-2472108/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T23:34:03-04:00</date>
+          <id type="integer">16946817</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Winston-Salem Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:53:22-04:00</created-at>
+          <title>Lead organizer of CHANGE interfaith group in Forsyth County leaves</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Eller is working as a political consultant for Democrat Elisabeth Motsinger, a member of the Winston-Salem/Forsyth County Board of Education who is running for Congress against U.S. Rep. Virginia Foxx, the Republican incumbent. Fowler said Eller ...</excerpt>
+          <fti-names>'/forsyth':29 'board':31 'chang':4 'congress':38 'consult':17 'counti':9,30 'democrat':19 'educ':33 'elisabeth':20 'eller':11,49 'forsyth':8 'fowler':47 'foxx':43 'group':6 'incumb':46 'interfaith':5 'journal':53 'lead':1 'leav':10 'member':23 'motsing':21 'organ':2 'polit':16 'rep':41 'republican':45 'run':36 'said':48 'salem':28,52 'u.s':40 'virginia':42 'winston':27,51 'winston-salem':26,50 'work':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.journalnow.com/news/2012/jul/27/lead-organizer-of-change-interfaith-group-in-forsy-ar-2470283/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:46:10-04:00</date>
+          <id type="integer">16921124</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Winston-Salem Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Virginia_Foxx</metavid-id>
+      <name>Rep. Virginia Foxx [R, NC-5]</name>
+      <total-session-votes type="integer">1717</total-session-votes>
+      <sunlight-nickname>Virginia</sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:52:56-04:00</created-at>
+          <title>Virginia Foxx for Congress &#8211; Kernersville Reception</title>
+          <contains-term>congress</contains-term>
+          <excerpt>You are Cordially Invited To a Reception Honoring Congresswoman Virginia Foxx on Thursday, September 6, 2012 from 5:30 p.m. &#8211; 7:00 p.m. At the home of Ray &amp;amp; Joyce Krawiec (7030 Interlaken Drive, Kernersville, NC ...</excerpt>
+          <fti-names>'00':28 '2012':22 '30':25 '5':24 '6':21 '7':27 '7030':37 'congress':4 'congresswoman':15 'cordial':9 'drive':39 'foxx':2,17 'home':32 'honor':14 'interlaken':38 'invit':10 'joyc':35 'kernersvill':5,40 'krawiec':36 'nc':41 'p.m':26,29 'ray':34 'recept':6,13 'septemb':20 'thursday':19 'virginia':1,16 'virginiafoxx':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://virginiafoxx.com/kernersville-reception/&amp;sa=U&amp;ei=h0gXUKj7LpCy8QT7tIHwDA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNG65vGbnV6AzKeF8QiQyEKVTND4BQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960145</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>virginiafoxx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:52:56-04:00</created-at>
+          <title>Virginia Foxx Goes There: Invokes Aurora Massacre on House Floor ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Watch -- Rep. Virginia Foxx (R-NC) invoked the Aurora, Colorado massacre to try and get a Republican bill passed that would have put a moratorium on regulatory.</excerpt>
+          <fti-names>'aurora':6,20 'bill':29 'colorado':21 'floor':10 'foxx':2,14 'get':26 'goe':3 'hous':9 'invok':5,18 'massacr':7,22 'moratorium':36 'nc':17 'pass':30 'put':34 'r':16 'r-nc':15 'regulatori':38 'rep':12 'republican':28 'stewstev':39 'tri':24 'virginia':1,13 'watch':11 'would':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://current.com/community/93857762_virginia-foxx-goes-there-invokes-aurora-massacre-on-house-floor-video.htm%3Fxid%3DRSSfeed&amp;sa=U&amp;ei=h0gXUKj7LpCy8QT7tIHwDA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGdARkJvCL6F43j_CyhUyMpaQhAYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960144</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>StewSteve</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:52:56-04:00</created-at>
+          <title>Virginia Foxx Goes There: Invokes Aurora Massacre on House Floor ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>So, it can come as no surprise that Rep. Virginia Foxx (R-NC) invoked the Aurora massacre to try and get a Republican bill passed that would have put a moratorium on regulatory action. Foxx even got misty as she begged for ...</excerpt>
+          <fti-names>'action':45 'aurora':6,27 'beg':52 'beth':54 'bill':35 'come':14 'even':47 'floor':10 'foxx':2,21,46 'get':32 'goe':3 'got':48 'hous':9 'invok':5,25 'massacr':7,28 'misti':49 'moratorium':42 'nc':24 'pass':36 'put':40 'r':23 'r-nc':22 'regulatori':44 'rep':19 'republican':34 'surpris':17 'tri':30 'virginia':1,20 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://veracitystew.com/2012/07/30/virginia-foxx-goes-there-invokes-aurora-massacre-on-house-floor-video/&amp;sa=U&amp;ei=h0gXUKj7LpCy8QT7tIHwDA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGk9IDwqXGtxNQ29qIUpHeCbMkxdw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Beth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:52:57-04:00</created-at>
+          <title>Crisis resilience lessons from Virginia Tech - Denver Post by volisader</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Virginia Foxx Slammed For Seeking Political Gain Off Aurora Tragedy &#8211; Huffington Post WASHINGTON&#8212;Rep. Virginia Foxx R-N.C. had no business invoking the Aurora, Colo., shootings to advance a completely unrelated ...</excerpt>
+          <fti-names>'advanc':40 'aurora':19,36 'busi':33 'c':30 'colo':37 'complet':42 'crisi':1 'denver':7 'foxx':12,26 'gain':17 'huffington':21 'invok':34 'lesson':3 'n':29 'polit':16 'post':8,22 'r':28 'r-n':27 'rep':24 'resili':2 'seek':15 'shoot':38 'slam':13 'tech':6 'tragedi':20 'unrel':43 'virginia':5,11,25 'volisad':10,44 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/volisader/view_entry/78451&amp;sa=U&amp;ei=h0gXUKj7LpCy8QT7tIHwDA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHLoRJ3u3clgFV79jYd0ptOdYeO6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16960147</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>volisader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:20:42-04:00</created-at>
+          <title>Crisis resilience lessons from Virginia Tech - Denver Post by volisader</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Virginia Foxx Slammed For Seeking Political Gain Off Aurora Tragedy &#8211; Huffington Post WASHINGTON&#8212;Rep. Virginia Foxx R-N.C. had no business invoking the Aurora, Colo., shootings to advance a completely unrelated ...</excerpt>
+          <fti-names>'advanc':40 'aurora':19,36 'busi':33 'c':30 'colo':37 'complet':42 'crisi':1 'denver':7 'foxx':12,26 'gain':17 'huffington':21 'invok':34 'lesson':3 'n':29 'polit':16 'post':8,22 'r':28 'r-n':27 'rep':24 'resili':2 'seek':15 'shoot':38 'slam':13 'tech':6 'tragedi':20 'unrel':43 'virginia':5,11,25 'volisad':10,44 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/volisader/view_entry/78451&amp;sa=U&amp;ei=mBkWUJz0Bsbh0QHo5YGICA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHfBfijXwe9WnyUG1BBOrz1y4HHDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16946766</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>volisader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:20:44-04:00</created-at>
+          <title>Rep. Virginia Foxx defends typos in bill &#171; Wilkes News</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Virginia Foxx defends typos in bill. Posted on July 27, 2012 by Wilkes County News | Leave a reply. (WASHINGTON, D.C.) &#8212; A two-letter typo in a GOP bill in which the word &#8220;employment&#8221; mistakenly appeared instead of &#8220;unemployment&#8221; ...</excerpt>
+          <fti-names>'2012':21 '27':20 'appear':46 'bill':7,16,39 'counti':24,51 'd.c':30 'defend':4,13 'employ':44 'foxx':3,12 'gop':38 'instead':47 'juli':19 'leav':26 'letter':34 'mistaken':45 'news':9,25,52 'post':17 'rep':1,10 'repli':28 'two':33 'two-lett':32 'typo':5,14,35 'unemploy':49 'virginia':2,11 'washington':29 'wilk':8,23,50 'word':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wilkes-news.com/archives/2012/07/27/rep-virginia-foxx-defends-typos-in-bill/&amp;sa=U&amp;ei=mBkWUJz0Bsbh0QHo5YGICA&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNHVxtCgm7dDWgy2SzNCgmRthECl2g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16946768</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Wilkes County News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:20:24-04:00</created-at>
+          <title>Virginia Foxx Slammed For Seeking Political Gain Off Aurora Tragedy</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>WASHINGTON -- Rep. Virginia Foxx (R-N.C.) had no business invoking the Aurora, Colo., shootings to advance a completely unrelated partisan bill, her Democratic challenger declared on Thursday. &amp;quot;Using a painful national ...</excerpt>
+          <fti-names>'advanc':28 'aurora':9,24 'bill':33 'busi':21 'c':18 'challeng':36 'colo':25 'complet':30 'declar':37 'democrat':35 'editor':48 'foxx':2,14 'gain':7 'huffington':45 'invok':22 'n':17 'nation':43 'news':47 'pain':42 'partisan':32 'polit':6 'post':46 'r':16 'r-n':15 'rep':12 'seek':5 'shoot':26 'slam':3 'thursday':39 'tragedi':10 'unrel':31 'use':40 'virginia':1,13 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/virginia-foxx-aurora-shooting_n_1710101.html&amp;sa=U&amp;ei=mBkWUJz0Bsbh0QHo5YGICA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGCuGlQVFXjhGuHq1J0wbvVrV8xDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16946763</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:52:56-04:00</created-at>
+          <title>Virginia Foxx Slammed For Seeking Political Gain Off Aurora Tragedy</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>WASHINGTON -- Rep. Virginia Foxx (R-N.C.) had no business invoking the Aurora, Colo., shootings to advance a completely unrelated partisan bill, her Democratic challenger declared on Thursday. &amp;quot;Using a painful national ...</excerpt>
+          <fti-names>'advanc':28 'aurora':9,24 'bill':33 'busi':21 'c':18 'challeng':36 'colo':25 'complet':30 'declar':37 'democrat':35 'editor':48 'foxx':2,14 'gain':7 'huffington':45 'invok':22 'n':17 'nation':43 'news':47 'pain':42 'partisan':32 'polit':6 'post':46 'r':16 'r-n':15 'rep':12 'seek':5 'shoot':26 'slam':3 'thursday':39 'tragedi':10 'unrel':31 'use':40 'virginia':1,13 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/virginia-foxx-aurora-shooting_n_1710101.html&amp;sa=U&amp;ei=h0gXUKj7LpCy8QT7tIHwDA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFqLZ_67kYR-W7PGBz6pfEz6_fS_A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16960142</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:20:45-04:00</created-at>
+          <title>Daily Kos: Republican House clown show continues</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep Virginia Foxx (R-NC): &amp;quot;In the attempt to make one correction, another mistake was made&amp;quot; &#8212; @jamiedupree via TweetDeck. Here&amp;#39;s the original mistake, and it&amp;#39;s kind of a doozy. The latest Republican &amp;quot;jobs bill&amp;quot; that really ...</excerpt>
+          <fti-names>'anoth':21 'attempt':16 'bill':44 'clown':5 'continu':7 'correct':20 'daili':1 'doozi':39 'foxx':10 'hous':4 'jamiedupre':25 'joan':48 'job':43 'kind':36 'kos':2 'latest':41 'made':24 'make':18 'mccarter':49 'mistak':22,32 'nc':13 'one':19 'origin':31 'r':12 'r-nc':11 'realli':46 'rep':8 'republican':3,42 'rss@dailykos.com':47 'show':6 'tweetdeck':27 'via':26 'virginia':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/07/26/1113852/-Republican-House-clown-show-continues&amp;sa=U&amp;ei=mBkWUJz0Bsbh0QHo5YGICA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHuIOf1gPXEYKO7Fwjw9fdTFHm20g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946770</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (Joan McCarter)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400643</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:20:43-04:00</created-at>
+          <title>Another typo ties up GOP regulations bill, briefly - Oversight ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Virginia Foxx, R-N.C. Charles Dharapak/AP. The Republican Red Tape Reduction Act, which stalled briefly on Wednesday because of a typo, hit another snag on Thursday: The measure to fix the error also contained a ...</excerpt>
+          <fti-names>'act':24 'also':45 'anoth':1,35 'bill':7 'briefli':8,27 'c':16 'catalini':49 'charl':17 'contain':46 'dharapak/ap':18 'error':44 'fix':42 'foxx':12 'gop':5 'hit':34 'journal':51 'measur':40 'michael':48 'n':15 'nation':50 'oversight':9 'r':14 'r-n':13 'red':21 'reduct':23 'regul':6 'rep':10 'republican':20 'snag':36 'stall':26 'tape':22 'thursday':38 'tie':3 'typo':2,33 'virginia':11 'wednesday':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.govexec.com/oversight/2012/07/another-typo-ties-gop-regulations-bill-briefly/57026/&amp;sa=U&amp;ei=mBkWUJz0Bsbh0QHo5YGICA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHi_neY311ILPvTjOZh1WqIqMh--g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946767</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michael Catalini, National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">28180</page-views-count>
+      <youtube-id>RepVirginiaFoxx</youtube-id>
+      <unaccented-name>Virginia Foxx</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

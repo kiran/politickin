@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">65.8909981628904</party-votes-percentage>
+        <abstains-percentage type="float">5.00290866783013</abstains-percentage>
+        <votes-most-often-with-id type="integer">400657</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">126</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">90</cosponsored-bills-passed-rank>
+        <abstains type="integer">86</abstains>
+        <cosponsored-bills type="integer">169</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">228</party-votes-percentage-rank>
+        <sponsored-bills type="integer">20</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400618</person-id>
+        <cosponsored-bills-rank type="integer">227</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400227</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">255</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412466</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">855</votes-republican-position>
+      <fax>202-225-9308</fax>
+      <blog-article-count type="integer">7790</blog-article-count>
+      <user-approval type="float">2.52631578947368</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">56</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/formcosta/issue.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">65.8909981628904</with-party-percentage>
+      <lastname>Costa</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>C001059</bioguide-id>
+      <congress-office>1314 Longworth House Office Building</congress-office>
+      <firstname>Jim</firstname>
+      <website>http://www.costa.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1952-04-13</birthday>
+      <person-id type="integer">400618</person-id>
+      <phone>202-225-3341</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1076</votes-democratic-position>
+      <metavid-id>Jim_Costa</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:42:00-04:00</created-at>
+          <title>House OKs livestock disaster aid</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...programs would be restored for the 2012 budget year. . The current long-term farm bill expires at the end of September. Rep. Jim Costa , D-Hanford (Kings County), said he opposed the bill. &quot;The drought relief package that we are voting on I believe is s</excerpt>
+          <fti-names>'2012':12 'aid':5 'believ':51 'bill':21,40 'budget':13 'chronicl':56 'costa':30 'counti':35 'current':16 'd':32 'd-hanford':31 'disast':4 'drought':42 'end':25 'expir':22 'farm':20 'francisco':55 'hanford':33 'hous':1 'jim':29 'king':34 'livestock':3 'long':18 'long-term':17 'ok':2 'oppos':38 'packag':44 'program':6 'relief':43 'rep':28 'restor':9 'said':36 'san':54 'septemb':27 'term':19 'vote':48 'would':7 'year':14</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/nation/article/House-OKs-livestock-disaster-aid-3759013.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971557</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:42:00-04:00</created-at>
+          <title>House passes drought-aid bill for ranchers, not farmers</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...producers struggling through the worst drought in more than 50 years. &quot;We have a crisis and we ought to respond,&quot; said Rep. Jim Costa, D-Calif. &quot;No wonder no one likes Congress anymore,&quot; said Rep. Collin Peterson of Minnesota, the ranking Democrat on th</excerpt>
+          <fti-names>'50':20 'aid':5 'anymor':44 'bill':6 'calif':37 'collin':47 'congress':43 'costa':34 'crisi':25 'd':36 'd-calif':35 'democrat':53 'detroit':56 'drought':4,16 'drought-aid':3 'farmer':10 'hous':1 'jim':33 'like':42 'minnesota':50 'news':57 'one':41 'onlin':58 'ought':28 'pass':2 'peterson':48 'produc':11 'rancher':8 'rank':52 'rep':32,46 'respond':30 'said':31,45 'struggl':12 'th':55 'wonder':39 'worst':15 'year':21</fti-names>
+          <source-url>http://detnews.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.detroitnews.com/article/20120802/NATION/208020507/1020/rss09</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971556</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:42:00-04:00</created-at>
+          <title>Valley Real Estate Log: Fresno homes selling quickly</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...will be held from 9 a.m. to 1 p.m. at the Fresno Convention Center, 700 M St., on Aug. 18. The event is presented by Rep. Jim Costa, D-Fresno, Fresno City Council Member Oliver Baines, the city of Fresno, the California Partnership for San Joaquin Valle</excerpt>
+          <fti-names>'1':16 '18':28 '700':23 '9':13 'a.m':14 'aug':27 'bain':45 'bee':58 'california':51 'center':22 'citi':41,47 'convent':21 'costa':36 'council':42 'd':38 'd-fresno':37 'estat':3 'event':30 'fresno':5,20,39,40,49,57 'held':11 'home':6 'jim':35 'joaquin':55 'log':4 'm':24 'member':43 'oliv':44 'p.m':17 'partnership':52 'present':32 'quick':8 'real':2 'rep':34 'san':54 'sell':7 'st':25 'vall':56 'valley':1</fti-names>
+          <source-url>http://www.fresnobee.com/</source-url>
+          <url>http://www.fresnobee.com/2012/08/02/2934989/valley-real-estate-log-fresno.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971555</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fresno Bee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:07:56-04:00</created-at>
+          <title>Feds oppose Calif. immigrant's law bid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...jobs and proceeds from a self-help book. Then he passed the state law exam on the first try. Two years ago, Democratic Rep. Jim Costa escaped with a razor-thin win in his bid for a fourth term in Congress. Romney had mixed record on immigration in Mass.</excerpt>
+          <fti-names>'ago':30 'bee':60 'bid':7,44 'book':16 'calif':3 'congress':50 'costa':34 'democrat':31 'escap':35 'exam':23 'fed':1 'first':26 'fourth':47 'fresno':59 'help':15 'immigr':4,56 'jim':33 'job':8 'law':6,22 'mass':58 'mix':53 'oppos':2 'pass':19 'proceed':10 'razor':39 'razor-thin':38 'record':54 'rep':32 'romney':51 'self':14 'self-help':13 'state':21 'term':48 'thin':40 'tri':27 'two':28 'win':41 'year':29</fti-names>
+          <source-url>http://www.fresnobee.com/</source-url>
+          <url>http://www.fresnobee.com/2012/08/02/2934426/feds-oppose-calif-immigrants-law.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970521</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fresno Bee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:07:54-04:00</created-at>
+          <title>House passes livestock disaster relief bill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...will be left hurting and there is no assistance for pork and poultry producers.&quot; Another Agriculture Committee Democrat, Jim Costa of California, said he opposed the bill. &quot;The drought relief package that we are voting on I believe is sadly more about g</excerpt>
+          <fti-names>'agricultur':22 'anoth':21 'assist':15 'believ':44 'bill':6,33 'california':28 'committe':23 'costa':26 'democrat':24 'disast':4 'drought':35 'g':49 'hous':1 'hurt':10 'jim':25 'left':9 'livestock':3 'oppos':31 'packag':37 'pass':2 'pork':17 'poultri':19 'produc':20 'relief':5,36 'sad':46 'said':29 'sifi':50 'vote':41</fti-names>
+          <source-url>http://www.sify.com/</source-url>
+          <url>http://www.sify.com/finance/house-passes-livestock-disaster-relief-bill-news-environment+and+nature-micm4vgbcec.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970520</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sify</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:07:53-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D-Calif.) Rep. Mark Critz (D-Pa.) Rep. Henry Cuellar (D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.)</excerpt>
+          <fti-names>'ben':27 'boren':16 'boswel':22 'c':69 'calif':44 'chandler':28 'connolli':35 'costa':41 'critz':47 'cuellar':53 'cut':9 'd':12,18,24,30,37,43,49,55,61,67 'd-calif':42 'd-ga':11 'd-ind':60 'd-iowa':23 'd-ki':29 'd-n':66 'd-okla':17 'd-pa':48 'd-tex':54 'd-va':36 'dan':15 'democrat':2 'donnelli':59 'e':34 'ga':13 'gerald':33 'henri':52 'hous':6 'ind':62 'iowa':25 'jim':40 'joe':58 'kissel':65 'ky':31 'larri':64 'leonard':21 'mark':46 'n':68 'okla':19 'pa':50 'plan':10 'post':72 'rep':14,20,26,32,39,45,51,57,63 'republican':7 'tax':8 'tex':56 'va':38 'vote':3 'washington':71</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970519</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:07:44-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D-Calif.) Rep. Mark Critz (D-Pa.) Rep. Henry Cuellar (D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.)</excerpt>
+          <fti-names>'ben':27 'boren':16 'boswel':22 'c':69 'calif':44 'chandler':28 'connolli':35 'costa':41 'critz':47 'cuellar':53 'cut':9 'd':12,18,24,30,37,43,49,55,61,67 'd-calif':42 'd-ga':11 'd-ind':60 'd-iowa':23 'd-ki':29 'd-n':66 'd-okla':17 'd-pa':48 'd-tex':54 'd-va':36 'dan':15 'democrat':2 'donnelli':59 'e':34 'ga':13 'gerald':33 'henri':52 'hous':6 'ind':62 'iowa':25 'jim':40 'joe':58 'kissel':65 'ky':31 'larri':64 'leonard':21 'mark':46 'n':68 'okla':19 'pa':50 'plan':10 'post':72 'rep':14,20,26,32,39,45,51,57,63 'republican':7 'tax':8 'tex':56 'va':38 'vote':3 'washington':71</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970518</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:34:31-04:00</created-at>
+          <title>Lawmakers urge EPA to lower ethanol target amid drought</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...send the letter Thursday and hold a morning press conference to discuss the issue. Goodlatte has sponsored a bill with Rep. Jim Costa (D-Calif.) that would let the EPA reduce the ethanol targets by as much as 50 percent when corn supplies run low. Costa</excerpt>
+          <fti-names>'50':49 'amid':8 'bill':28 'calif':35 'confer':19 'corn':52 'costa':32,56 'd':34 'd-calif':33 'discuss':21 'drought':9 'epa':3,40 'ethanol':6,43 'goodlatt':24 'hill':58 'hold':15 'issu':23 'jim':31 'lawmak':1 'let':38 'letter':12 'low':55 'lower':5 'morn':17 'much':47 'percent':50 'press':18 'reduc':41 'rep':30 'run':54 'send':10 'sponsor':26 'suppli':53 'target':7,44 'thursday':13 'urg':2 'would':37</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/241601-lawmakers-sign-letter-urging-epa-to-lower-corn-ethanol-target</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969582</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:37:54-04:00</created-at>
+          <title>Fresno to get $1M federal grant for Fulton Mall work</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...help in continuing the restoration of the Fulton Mall. Also attending a news conference on the mall with Swearengin were Rep. Jim Costa, D-Fresno, and Downtown Fresno Partnership Chief Executive Kate Borders. Borders said the grant is another key step i</excerpt>
+          <fti-names>'1m':4 'also':20 'anoth':50 'attend':21 'bee':55 'border':44,45 'chief':41 'confer':24 'continu':13 'costa':33 'd':35 'd-fresno':34 'downtown':38 'execut':42 'feder':5 'fresno':1,36,39,54 'fulton':8,18 'get':3 'grant':6,48 'help':11 'jim':32 'kate':43 'key':51 'mall':9,19,27 'news':23 'partnership':40 'rep':31 'restor':15 'said':46 'step':52 'swearengin':29 'work':10</fti-names>
+          <source-url>http://www.fresnobee.com/</source-url>
+          <url>http://www.fresnobee.com/2012/07/30/2929721/fresno-to-get-1m-federal-grant.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966247</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fresno Bee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:43:34-04:00</created-at>
+          <title>Fresno to get $1M federal grant for Fulton Mall work</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Swearengin announced the grant at a news conference near the mall's clock tower. Fresno Congressman Jim Costa and Downtown Fresno Partnership Chief Executive Kate Borders joined Swearengin at the announcement. Swearengin has been working since ...</excerpt>
+          <fti-names>'1m':4 'announc':12,41 'bee':48 'border':36 'chief':33 'clock':23 'confer':18 'congressman':26 'costa':28 'downtown':30 'execut':34 'feder':5 'fresno':1,25,31,47 'fulton':8 'get':3 'grant':6,14 'jim':27 'join':37 'kate':35 'mall':9,21 'near':19 'news':17 'partnership':32 'sinc':46 'swearengin':11,38,42 'tower':24 'work':10,45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.fresnobee.com/2012/07/30/v-print/2929721/fresno-to-get-1m-federal-grant.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T21:37:09-04:00</date>
+          <id type="integer">16959849</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fresno Bee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jim Costa [D, CA-20]</name>
+      <total-session-votes type="integer">1633</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepJimCostaCA20</youtube-id>
+      <district>20</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:43-04:00</created-at>
+          <title>So which Democrats are playing Convention Hookie? Or: My dog ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Here&amp;#39;s a Three-Fer: Congressman Nick Rahall, Governor Earl Ray Tomblin and Senator Joe Manchin of West Virginia collectively seem to have prior commitments, especially given that Barack Obama is about as popular in West Virginia right   now .... Cardoz</excerpt>
+          <fti-names>'barack':40 'cardoz':51 'collect':31 'commit':36 'congressman':17 'convent':6 'democrat':3 'dog':10 'earl':21 'especi':37 'fer':16 'given':38 'governor':20 'hooki':7 'joe':26 'manchin':27 'nick':18 'obama':41 'play':5 'popular':45 'prior':35 'rahal':19 'ray':22 'right':49 'seem':32 'senat':25 'three':15 'three-fer':14 'tomblin':23 'uppiti':52 'virginia':30,48 'west':29,47 'woman':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uppitywoman08.wordpress.com/2012/07/15/so-which-democrats-will-be-playing-democratic-convention-hookie/&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CCcQmAEwAw&amp;usg=AFQjCNFWn8eUnoZZnTGdL09OE2ir2FBK7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647748</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Uppity Woman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:41-04:00</created-at>
+          <title>Allysia Finley: How Insider Politics Saved California&amp;#39;s Train to ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The project&amp;#39;s godfather is Democratic Congressman Jim Costa, who as a state senator in the 1990s wrote legislation creating California&amp;#39;s High-Speed Rail Authority and helped plan the 500-mile route between San Francisco ...</excerpt>
+          <fti-names>'1990s':27 '500':42 'allysia':1 'author':37 'california':7,31 'congressman':17 'costa':19 'creat':30 'democrat':16 'dewroc':48 'finley':2 'francisco':47 'godfath':14 'help':39 'high':34 'high-spe':33 'insid':4 'jim':18 'legisl':29 'mile':43 'plan':40 'polit':5 'project':12 'rail':36 'rout':44 'san':46 'save':6 'senat':24 'speed':35 'state':23 'train':9 'wrote':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://asianculturalfestival.org/allysia-finley-how-insider-politics-saved-californias-train-to-nowhere&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNE75yepDXNu3XmXeVLJpb9FSlYKyg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647746</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DewRoc</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:43-04:00</created-at>
+          <title>How Insider Politics Saved California&amp;#39;s Train to Nowhere &#8212; News ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The project&amp;#39;s godfather is Democratic Congressman Jim Costa, who as a state senator in the 1990s wrote legislation creating California&amp;#39;s High-Speed Rail Authority and helped plan the 500-mile route between San Francisco ...</excerpt>
+          <fti-names>'1990s':27 '500':42 'admin':48 'author':37 'california':5,31 'congressman':17 'costa':19 'creat':30 'democrat':16 'francisco':47 'godfath':14 'help':39 'high':34 'high-spe':33 'insid':2 'jim':18 'legisl':29 'mile':43 'news':10 'nowher':9 'plan':40 'polit':3 'project':12 'rail':36 'rout':44 'san':46 'save':4 'senat':24 'speed':35 'state':23 'train':7 'wrote':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.newstonews.com/2012/07/14/how-insider-politics-saved-californias-train-to-nowhere/&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNHmuMluj2Jl1dduEZ7Qj0gKHpxzwg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16647747</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:44-04:00</created-at>
+          <title>The HSUS and HSLF Applaud House Agriculture Committee for ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Humane Society of the United States and the Humane Society Legislative Fund applaud Rep. Jim McGovern, D-Mass., and other members of the House Agriculture Committee who voted in favor of his amendment to the ...</excerpt>
+          <fti-names>'agricultur':7,36 'amend':44 'applaud':5,23 'committe':8,37 'd':28 'd-mass':27 'favor':41 'fund':22 'hous':6,35 'hslf':4 'hsus':2 'human':11,19 'jim':25 'legisl':21 'mass':29 'mcgovern':26 'member':32 'rep':24 'societi':12,20 'state':16 'unit':15 'vote':39 'www.humanesociety.org':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.humanesociety.org/news/press_releases/2012/07/Farm_Bill_dogfighting_cockfighting_071212.html&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CDUQmAEwBg&amp;usg=AFQjCNGCoF1StVstNQW1gLdtIjRUg1j_zw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16647751</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.humanesociety.org/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:44-04:00</created-at>
+          <title>Path to the 2012 Farm Bill: NSAC Assessment of House Committee ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>An amendment offered during markup by Rep. Jim Costa (D-CA) to restore funding for the program failed. Retaining and improving the cost share program will be a major rallying point for the organic community on the House ...</excerpt>
+          <fti-names>'2012':4 'amend':13 'assess':8 'bill':6 'ca':23 'committe':11 'communiti':47 'cost':35 'costa':20 'd':22 'd-ca':21 'fail':30 'farm':5 'ferd':51 'fund':26 'hoefner':52 'hous':10,50 'improv':33 'jim':19 'major':41 'markup':16 'nsac':7 'offer':14 'organ':46 'path':1 'point':43 'program':29,37 'ralli':42 'rep':18 'restor':25 'retain':31 'share':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sustainableagriculture.net/blog/nsac-assessment-of-house-bill/&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CCwQmAEwBA&amp;usg=AFQjCNHdxFKSTgCoRTiWV5PQLsnalAtQ0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16647749</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ferd Hoefner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:45-04:00</created-at>
+          <title>Hydro power regulatory act to help power producers in Nebraska ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>OMAHA, Neb. (AP) &#8212; Rep. Adrian Smith of Nebraska is lauding the passage of a hydropower regulatory act in the House that includes a measure he says will help rural power producers in Nebraska and other states. Smith, a Republican, and   Rep. Jim Costa, a</excerpt>
+          <fti-names>'act':4,27 'adrian':15 'allen':56 'ap':13 'costa':53 'help':6,38 'hous':30 'hydro':1 'hydropow':25 'includ':32 'jim':52 'kris':55 'laud':20 'measur':34 'neb':12 'nebraska':10,18,43 'omaha':11 'passag':22 'power':2,7,40 'produc':8,41 'regulatori':3,26 'rep':14,51 'republican':49 'rural':39 'say':36 'smith':16,47 'state':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.northplattepost.com/2012/07/11/hydro-power-regulatory-act-to-help-power-producers-in-nebraska/&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNF3X980f6PwWx_Zyhh8gTze9GYNbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16647753</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kris Allen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:45-04:00</created-at>
+          <title>Veteran House Dems gear up for competitive races ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jim Costa, one of Capps&amp;#39; California colleagues, has prepared for a potentially tougher race by raising more than $800000. Capps has not faced such opposition since her first election to a full House term in 2000.</excerpt>
+          <fti-names>'2000':45 '800000':28 'california':15 'capp':14,29 'colleagu':16 'competit':7 'costa':11 'dem':3 'elect':38 'face':32 'first':37 'full':41 'gear':4 'hous':2,42 'jim':10 'one':12 'opposit':34 'potenti':21 'prepar':18 'race':8,23 'rais':25 'rep':9 'sinc':35 'term':43 'tougher':22 'veteran':1 'washingtonexaminer.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtonexaminer.com/veteran-house-dems-gear-up-for-competitive-races/article/feed/2010593&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNF9DlBxuQKNiecciBsTtzN_7UdrVw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16647752</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://washingtonexaminer.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:44-04:00</created-at>
+          <title>Celebration for Old Navy Funnovation Nation contest winner: BBBS ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Special Guests: Congressman Jim Costa will be attending to present the $10000 check to BBBS. Fleet of Fun: Old Navy trucks will parade through Fresno&amp;#39;s streets to Woodward Park, spreading the news and inviting the community to the party ...</excerpt>
+          <fti-names>'10000':21 'attend':17 'bbbs':9,24 'celebr':1 'check':22 'communiti':46 'congressman':12 'contest':7 'costa':14 'fleet':25 'fresno':34 'fun':27 'funnov':5 'guest':11 'invit':44 'jim':13 'kelvinalfaro':50 'nation':6 'navi':4,29 'news':42 'old':3,28 'parad':32 'park':39 'parti':49 'present':19 'special':10 'spread':40 'street':36 'truck':30 'winner':8 'woodward':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fresnoah.org/%3Fp%3D388&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNHoHO9uth7ORm3DLkQ630c4oimodg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16647750</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>kelvinalfaro</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:46:45-04:00</created-at>
+          <title>HR.726 | Providing for consideration of the bill (H.R. 4402) to require ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Ben Chandler (KY Democrat), No. Rep. Brian Bilbray (CA Republican), Yes. Rep. George Butterfield (NC Democrat), No. Rep. Daniel Lungren (CA Republican), Yes. Rep. Jim Costa (CA Democrat), No. Rep. Connie Mack (FL Republican) ...</excerpt>
+          <fti-names>'4402':9 'ben':13 'bilbray':20 'bill':7 'brian':19 'butterfield':26 'ca':21,33,39 'chandler':14 'conni':43 'consider':4 'costa':38 'daniel':31 'democrat':16,28,40 'fl':45 'georg':25 'h.r':8 'hr.726':1 'jim':37 'ky':15 'lungren':32 'mack':44 'nc':27 'provid':2 'rep':12,18,24,30,36,42 'republican':22,34,46 'requir':11 'www.votetocracy.com':47 'yes':23,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr726-providing-for-consideration-of-the-bill-hr-4402-to-require-the-secretary-of-the-interior-and-the-secretary-of-agriculture-to-more-efficiently-develop-domestic-sources-of-the-minerals-and-mineral-materials-of-strategic-and-critical-importance-to-united-states-economic-and-national-security-and-manufacturing-competitiveness-41522&amp;sa=U&amp;ei=kYADUIaVAqb22AWr9ZSnCw&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNFpoo0WBlaq3jkcEmQsw73E_1-U5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-19T01:00:00-04:00</date>
+          <id type="integer">16647754</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400618</commentariable-id>
+          <created-at type="datetime">2012-04-17T11:53:30-04:00</created-at>
+          <title>Top 10 Corporate Tax Dodgers &amp;amp; Their Paid Politicians : Veracity ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jim Costa (D-Calif.): $5000. Rep. Kevin McCarthy (R-Calif.): $5500. Rep. Fred Upton (R-Mich.): $5000. Rep. Jeff Denham (R-Calif.): $3500. Apache: Houston-based oil and gas company. Profits: $6 billion Effective tax ...</excerpt>
+          <fti-names>'10':2 '3500':37 '5000':16,30 '5500':23 '6':47 'administr':51 'apach':38 'base':41 'billion':48 'calif':15,22,36 'compani':45 'corpor':3 'costa':12 'd':14 'd-calif':13 'denham':33 'dodger':5 'effect':49 'fred':25 'gas':44 'houston':40 'houston-bas':39 'jeff':32 'jim':11 'kevin':18 'mccarthi':19 'mich':29 'oil':42 'paid':7 'politician':8 'profit':46 'r':21,28,35 'r-calif':20,34 'r-mich':27 'rep':10,17,24,31 'tax':4,50 'top':1 'upton':26 'verac':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://veracityvoice.com/%3Fp%3D14466&amp;sa=U&amp;ei=-ZGNT7KgDea62wXj89SQDA&amp;ved=0CC4QmAEwAg&amp;usg=AFQjCNG1NHGFQZ9gTTLDpi9scfb7nm8fQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14539420</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Administrator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19216</page-views-count>
+      <unaccented-name>Jim Costa</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

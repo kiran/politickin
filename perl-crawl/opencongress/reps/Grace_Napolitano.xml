@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.7765890497168</party-votes-percentage>
+        <abstains-percentage type="float">7.56253635834788</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">231</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">59</cosponsored-bills-passed-rank>
+        <abstains type="integer">130</abstains>
+        <cosponsored-bills type="integer">306</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">129</party-votes-percentage-rank>
+        <sponsored-bills type="integer">4</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400290</person-id>
+        <cosponsored-bills-rank type="integer">71</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">333</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">303</votes-republican-position>
+      <fax>202-225-0027</fax>
+      <blog-article-count type="integer">3745</blog-article-count>
+      <user-approval type="float">2.06666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">58</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.napolitano.house.gov/contact/feedback.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.7765890497168</with-party-percentage>
+      <lastname>Napolitano</lastname>
+      <middlename>Flores</middlename>
+      <bioguide-id>N000179</bioguide-id>
+      <congress-office>1610 Longworth House Office Building</congress-office>
+      <firstname>Grace</firstname>
+      <website>http://napolitano.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1936-12-04</birthday>
+      <person-id type="integer">400290</person-id>
+      <phone>202-225-5256</phone>
+      <religion>Roman Catholic</religion>
+      <votes-democratic-position type="integer">1506</votes-democratic-position>
+      <metavid-id>Grace_F._Napolitano</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:50:16-04:00</created-at>
+          <title>Report calls for reassessment of federal cellphone radiation standards</title>
+          <contains-term>legislation</contains-term>
+          <excerpt>...as well as the government standards. The legislation also called for development of a research program to study cell phones and for the EPA to update its standards. It is cosponsored by Reps. Grace Napolitano (D-Calif.) and Chellie Pingree (D-Maine)....</excerpt>
+          <fti-names>'also':18 'calif':47 'call':2,19 'cell':28 'cellphon':7 'chelli':49 'cosponsor':40 'd':46,52 'd-calif':45 'd-main':51 'develop':21 'epa':33 'feder':6 'govern':14 'grace':43 'hill':55 'legisl':17 'main':53 'napolitano':44 'phone':29 'pingre':50 'program':25 'radiat':8 'reassess':4 'rep':42 'report':1 'research':24 'standard':9,15,37 'studi':27 'updat':35 'well':11</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/hillicon-valley/technology/242565-report-calls-for-reassessment-of-cell-phone-radiation-standards</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973518</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:07:08-04:00</created-at>
+          <title>It's Politics: Filing begins for school, water board races</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>If Najera or Robles don't run, the deadline will be extended until 5 p.m. Aug. 15. EQUALITY FOR MENTAL HEALTH: Rep. Grace Napolitano has written three members of the Cabinet, asking them to issue a rule that will ensure mental health and ...</excerpt>
+          <fti-names>'15':27 '5':24 'ask':42 'aug':26 'begin':5 'board':9 'cabinet':41 'daili':55 'deadlin':19 'ensur':50 'equal':28 'extend':22 'file':4 'grace':33 'health':31,52 'issu':45 'member':38 'mental':30,51 'najera':12 'napolitano':34 'news':56 'p.m':25 'polit':3 'race':10 'rep':32 'robl':14 'rule':47 'run':17 'school':7 'three':37 'water':8 'whittier':54 'written':36</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.whittierdailynews.com/ci_21123953/its-politics-filing-begins-school-water-board-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T23:14:54-04:00</date>
+          <id type="integer">16822774</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Whittier Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:07:20-04:00</created-at>
+          <title>It's Politics: Filing begins for school, water board races</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>EQUALITY FOR MENTAL HEALTH: Rep. Grace Napolitano has written three members of the Cabinet, asking them to issue a rule that will ensure mental health and addiction treatment are covered the same as treatment for other medical illnesses.</excerpt>
+          <fti-names>'addict':37 'ask':25 'begin':5 'board':9 'breez':50 'cabinet':24 'cover':40 'daili':49 'ensur':33 'equal':11 'file':4 'grace':16 'health':14,35 'ill':48 'issu':28 'medic':47 'member':21 'mental':13,34 'napolitano':17 'polit':3 'race':10 'rep':15 'rule':30 'school':7 'three':20 'treatment':38,44 'water':8 'written':19</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailybreeze.com/california/ci_21123953/its-politics-filing-begins-school-water-board-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T23:14:54-04:00</date>
+          <id type="integer">16787300</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Breeze</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:35:20-04:00</created-at>
+          <title>Representative Grace Napolitano, 2011 - 2012</title>
+          <contains-term>representative</contains-term>
+          <excerpt>NOTE: All the numbers on this page are for the 2011-2012 election cycle and based on Federal Election Commission data available electronically on Thursday, July 05, 2012. (&quot;Help! The numbers don't add up...&quot;) Feel free to distribute or cite this material .</excerpt>
+          <fti-names>'-2012':17 '05':32 '2011':4,16 '2012':5,33 'add':39 'avail':27 'base':21 'cite':46 'commiss':25 'cycl':19 'data':26 'distribut':44 'elect':18,24 'electron':28 'feder':23 'feel':41 'free':42 'grace':2 'help':34 'juli':31 'materi':48 'napolitano':3 'note':6 'number':9,36 'opensecrets.org':49 'page':12 'repres':1 'thursday':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.opensecrets.org/politicians/expend.php?cycle=2012&amp;cid=N00006789&amp;type=I</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T12:31:51-04:00</date>
+          <id type="integer">16891602</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Opensecrets.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:13-04:00</created-at>
+          <title>Representative Grace Napolitano 2011 - 2012</title>
+          <contains-term>representative</contains-term>
+          <excerpt>This table lists the top donors to this candidate in the 2011-2012 election cycle. The organizations themselves did not donate, rather the money came from the organizations' PACs, their individual members or employees or owners, and those individuals ...</excerpt>
+          <fti-names>'-2012':18 '2011':4,17 '2012':5 'came':30 'candid':14 'cycl':20 'donat':26 'donor':11 'elect':19 'employe':39 'grace':2 'individu':36,44 'list':8 'member':37 'money':29 'napolitano':3 'opensecrets.org':45 'organ':22,33 'owner':41 'pac':34 'rather':27 'repres':1 'tabl':7 'top':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.opensecrets.org/politicians/contrib.php?cycle=2012&amp;cid=N00006789&amp;type=I</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T12:31:51-04:00</date>
+          <id type="integer">16780173</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Opensecrets.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:47-04:00</created-at>
+          <title>Debbie Wasserman Schultz, DNC Chair, Backs Marriage Equality In Party Platform</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>When asked for comment, Rep. Debbie Wasserman Schultz confirmed the sentiment ... Susan Davis, Janice Hahn, Judy Chu, Grace Napolitano, Howard Berman, George Miller, Linda Sanchez, Loretta Sanchez, Xavier Becerra, Henry Waxman, Sam Farr ...</excerpt>
+          <fti-names>'ask':13 'back':6 'becerra':40 'berman':32 'chair':5 'chu':28 'comment':15 'confirm':20 'davi':24 'debbi':1,17 'dnc':4 'equal':8 'farr':44 'georg':33 'grace':29 'hahn':26 'henri':41 'howard':31 'huffington':45 'janic':25 'judi':27 'linda':35 'loretta':37 'marriag':7 'miller':34 'napolitano':30 'parti':10 'platform':11 'post':46 'rep':16 'sam':43 'sanchez':36,38 'schultz':3,19 'sentiment':22 'susan':23 'wasserman':2,18 'waxman':42 'xavier':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/19/debbie-wasserman-schultz-gay-marriage_n_1686016.html?ncid=edlinkusaolp00000003</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T12:10:22-04:00</date>
+          <id type="integer">16750298</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:52-04:00</created-at>
+          <title>Debbie Wasserman Schultz, DNC Chair, Backs Marriage Equality In Party Platform</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Zoe Lofgren, Lucille Roybal-Allard, Lynn Woolsey, Mike Thompson, Anna Eshoo, Jackie Speier, Susan Davis, Janice Hahn, Judy Chu, Grace Napolitano, Howard Berman, George Miller, Linda Sanchez, Loretta Sanchez, Xavier Becerra, Henry Waxman, Sam Farr, Pete </excerpt>
+          <fti-names>'allard':17 'anna':22 'back':6 'becerra':43 'berman':35 'chair':5 'chu':31 'davi':27 'debbi':1 'dnc':4 'equal':8 'eshoo':23 'farr':47 'georg':36 'grace':32 'hahn':29 'henri':44 'howard':34 'huffington':50 'jacki':24 'janic':28 'judi':30 'linda':38 'lofgren':13 'loretta':40 'lucill':14 'lynn':18 'marriag':7 'mike':20 'miller':37 'napolitano':33 'parti':10 'pete':48 'platform':11 'post':51 'roybal':16 'roybal-allard':15 'sam':46 'sanchez':39,41 'schultz':3 'speier':25 'susan':26 'thompson':21 'wasserman':2 'waxman':45 'woolsey':19 'xavier':42 'zoe':12</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/07/19/debbie-wasserman-schultz-gay-marriage_n_1686016.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750299</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-14T04:11:48-04:00</created-at>
+          <title>Politicians Who Look Like Disney Characters (PHOTOS)</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Owl (House of Mouse) Photo credit: AP/Disney Rep. Jason Chaffetz (R-Utah) &amp; Russell (Up) Photo credit: AP/Disney Rep. Grace Napolitano (D-Calif.) &amp; Ursula (The Little Mermaid) Photo credit: AP/Disney Rep. George Miller (D-Calif.) &amp; Mister Geppetto (Pino</excerpt>
+          <fti-names>'ap/disney':14,25,38 'calif':31,44 'chaffetz':17 'charact':6 'credit':13,24,37 'd':30,43 'd-calif':29,42 'disney':5 'georg':40 'geppetto':46 'grace':27 'hous':9 'huffington':49 'jason':16 'like':4 'littl':34 'look':3 'mermaid':35 'miller':41 'mister':45 'mous':11 'napolitano':28 'owl':8 'photo':7,12,23,36 'pino':47 'politician':1 'post':50 'r':19 'r-utah':18 'rep':15,26,39 'russel':21 'ursula':32 'utah':20</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/07/13/politicians-disney-characters-photos_n_1670736.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16599739</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-11T23:25:02-04:00</created-at>
+          <title>A dangerous combination: Politicians, Wikipedia</title>
+          <contains-term>representative</contains-term>
+          <excerpt>They include some by Southern California-area representatives or their staffs: Rep. Grace Napolitano, D-Santa Fe Springs (something about a loan); Rep. Adam Schiff, D-Pasadena (something about a canceled House vote), and Rep. Darrell Issa ...</excerpt>
+          <fti-names>'adam':31 'angel':47 'area':13 'california':12 'california-area':11 'cancel':39 'combin':3 'd':22,34 'd-pasadena':33 'd-santa':21 'daili':48 'danger':2 'darrel':44 'fe':24 'grace':19 'hous':40 'includ':7 'issa':45 'loan':29 'los':46 'napolitano':20 'news':49 'pasadena':35 'politician':4 'rep':18,30,43 'repres':14 'santa':23 'schiff':32 'someth':26,36 'southern':10 'spring':25 'staff':17 'vote':41 'wikipedia':5</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailynews.com/opinions/ci_21054885/dangerous-combination-politicians-wikipedia</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T21:38:12-04:00</date>
+          <id type="integer">16552590</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-04T23:30:13-04:00</created-at>
+          <title>4,000 pounds of illegal fireworks seized in East L.A.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Proponents of incorporation include California State Senator Gloria Romero and Congresswoman Grace Napolitano. Since East Los Angeles is an unincorporated area, fire protection in East Los Angeles is provided by the Los Angeles County Fire ...</excerpt>
+          <fti-names>'000':2 '4':1 'angel':27,37,43 'area':31 'california':15 'congresswoman':21 'counti':44 'east':9,25,35 'fire':32,45 'firework':6 'gloria':18 'grace':22 'illeg':5 'includ':14 'incorpor':13 'l.a':10 'los':26,36,42 'napolitano':23 'pound':3 'propon':11 'protect':33 'provid':39 'romero':19 'seiz':7 'senat':17 'sinc':24 'state':16 'unincorpor':30 'worldnews.com':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://article.wn.com/view/2012/07/03/4000_pounds_of_illegal_fireworks_seized_in_East_LA/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T22:52:07-04:00</date>
+          <id type="integer">16388589</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Worldnews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Grace Napolitano [D, CA-38]</name>
+      <total-session-votes type="integer">1589</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>38</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:39:41-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=_LsQUI-7BIWS9QSBuIHIDg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHiBrafNtrvU-CYEuAuvnB1DBwzTQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860017</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:39:41-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Bennie Thompson: Removed Thompson&amp;#39;s entire &#8220;Controversies&#8221; section. 4. Rep. Grace Napolitano: Added information noting that a controversial loan she made to her campaign, which was being repaid with interest, ...</excerpt>
+          <fti-names>'4':17 'ad':21 'benni':9 'campaign':32 'congression':2 'controversi':15,26 'edit':3 'embarrass':1 'entir':14 'grace':19 'inform':22 'interest':38 'loan':27 'made':29 'member':5 'napolitano':20 'note':23 'page':7 'remov':11 'rep':8,18 'repaid':36 'section':16 'stranger':40 'thompson':10,12 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pcrcollective.org/%3Fp%3D2400&amp;sa=U&amp;ei=_LsQUI-7BIWS9QSBuIHIDg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG5UUI3dp3HTUeNvtPlGObcnCb3rg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16860019</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Stranger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:10-04:00</created-at>
+          <title>Small Estate Affidavit Texas Harris County</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Grace Napolitano [D, CA-38] Rep. Richard Neal [D, MA-2] Rep. Randy Neugebauer [R, TX-19] Rep. Richard Nugent [R, FL-5] Rep. Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] ...</excerpt>
+          <fti-names>'-1':41,53 '-19':23 '-2':17 '-21':35 '-22':47 '-38':11 '-5':29 'affidavit':3 'alan':37 'ca':10,34 'counti':6 'd':9,15,51 'devin':31 'estat':2 'fl':28 'grace':7 'harri':5 'john':49 'ma':16,52 'ms':40 'napolitano':8 'neal':14 'neugebau':20 'nugent':26 'nune':32 'nunnele':38 'olson':44 'olver':50 'pete':43 'probatecourtco.com':54 'r':21,27,33,39,45 'randi':19 'rep':12,18,24,30,36,42,48 'richard':13,25 'small':1 'texa':4 'tx':22,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/small-estate-affidavit-texas-harris-county/&amp;sa=U&amp;ei=PSIKUIfALqqW2AXFzOn6Dw&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNFhm1i9W7JavBkM-Nx2WIabHZc0Sg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780169</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:06-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Bennie Thompson: Removed Thompson&amp;#39;s entire &#8220;Controversies&#8221; section. 4. Rep. Grace Napolitano: Added information noting that a controversial loan she made to her campaign, which was being repaid with interest, ...</excerpt>
+          <fti-names>'4':17 'ad':21 'benni':9 'campaign':32 'congression':2 'controversi':15,26 'edit':3 'embarrass':1 'entir':14 'grace':19 'inform':22 'interest':38 'jacobsloan':39 'loan':27 'made':29 'member':5 'napolitano':20 'note':23 'page':7 'remov':11 'rep':8,18 'repaid':36 'section':16 'thompson':10,12 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.disinfo.com/2012/07/embarrassing-congressional-edits-to-members-wikipedia-pages/&amp;sa=U&amp;ei=PSIKUIfALqqW2AXFzOn6Dw&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNGpM_Cf16s-05q-g6kIidwkYFBTfg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780163</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JacobSloan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:39:42-04:00</created-at>
+          <title>An Election Bulletin from A Lewisville Sports Bar | DaddyO&amp;#39;s Pub</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Pinocchio (Pinocchio) Rep. Emanuel Cleaver (D-Mo.) - Mr. Potato Head (Toy Story) Rep. Maxine Waters (D-Calif.) - Professor Owl (House of Mouse) Rep. Jason Chaffetz (R-Utah) - Russell (Up) Rep. Grace Napolitano (D-Calif ...</excerpt>
+          <fti-names>'bar':8 'bulletin':3 'calif':30,49 'chaffetz':38 'cleaver':16 'd':18,29,48 'd-calif':28,47 'd-mo':17 'daddyo':9,50 'elect':2 'emanuel':15 'grace':45 'head':22 'hous':33 'jason':37 'lewisvill':6 'maxin':26 'mo':19 'mous':35 'mr':20 'napolitano':46 'owl':32 'pinocchio':12,13 'potato':21 'professor':31 'pub':11 'r':40 'r-utah':39 'rep':14,25,36,44 'russel':42 'sport':7 'stori':24 'toy':23 'utah':41 'water':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.whosyourdaddyo.com/blog/election-bulletin-lewisville-sports-bar&amp;sa=U&amp;ei=_LsQUI-7BIWS9QSBuIHIDg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNH7FhsNcNcHr0lqGbjPVdm_hBjo4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16860021</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>daddyo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:39:41-04:00</created-at>
+          <title>WeAreChangeLA questions Rep. Grace Napolitano about Treason</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Attending this event, among others were a few Congresspeople. I got a chance to catch up with Representative Grace Napolitano, from Norwalk, CA, and let her know about the information we had delivered to federal judge ...</excerpt>
+          <fti-names>'among':11 'attend':8 'ca':30 'catch':22 'chanc':20 'congresspeopl':16 'deliv':40 'event':10 'feder':42 'got':18 'grace':4,26 'inform':37 'judg':43 'know':34 'let':32 'napolitano':5,27 'norwalk':29 'other':12 'question':2 'rep':3 'repres':25 'sager':45 'treason':7 'wayn':44 'wearechangela':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://youradfree.com/whitehouse/archives/10111&amp;sa=U&amp;ei=_LsQUI-7BIWS9QSBuIHIDg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNGktEefZrnPTUZekRcPgcmQ48x7JQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16860020</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Wayne Sager</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:09-04:00</created-at>
+          <title>WeAreChangeLA questions Rep. Grace Napolitano about Treason</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Attending this event, among others were a few Congresspeople. I got a chance to catch up with Representative Grace Napolitano, from Norwalk, CA, and let her know about the information we had delivered to federal judge ...</excerpt>
+          <fti-names>'among':11 'attend':8 'ca':30 'catch':22 'chanc':20 'congresspeopl':16 'deliv':40 'event':10 'feder':42 'got':18 'grace':4,26 'inform':37 'judg':43 'know':34 'let':32 'napolitano':5,27 'norwalk':29 'other':12 'question':2 'rep':3 'repres':25 'sager':45 'treason':7 'wayn':44 'wearechangela':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://youradfree.com/whitehouse/archives/10111&amp;sa=U&amp;ei=PSIKUIfALqqW2AXFzOn6Dw&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGmUvQlIQnBNxRDgZ6QM5oD_clD6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16780167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Wayne Sager</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:11-04:00</created-at>
+          <title>Kentucky School News and Commentary</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Barney Frank (D-Mass.) &amp;amp; Mr. Smee (Peter Pan). Rep. Ron Paul (R-Texas) &amp;amp; Claude Frollo (The Hunchback of Notre Dame). Rep. Grace Napolitano (D-Calif.) &amp;amp; Ursula (The Little Mermaid). Rep. George Miller (D-Calif.) ...</excerpt>
+          <fti-names>'barney':7 'calif':34,44 'claud':22 'commentari':5 'd':10,33,43 'd-calif':32,42 'd-mass':9 'dame':28 'day':46 'frank':8 'frollo':23 'georg':40 'grace':30 'hunchback':25 'kentucki':1 'littl':37 'mass':11 'mermaid':38 'miller':41 'mr':12 'napolitano':31 'news':3 'notr':27 'pan':15 'paul':18 'peter':14 'r':20 'r-texa':19 'rep':6,16,29,39 'richard':45 'ron':17 'school':2 'smee':13 'texa':21 'ursula':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theprincipal.blogspot.com/2012/07/this-from-huffington-post-just-as-life.html&amp;sa=U&amp;ei=PSIKUIfALqqW2AXFzOn6Dw&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNH65jtJovZu9V5jnXkvgTao9oUpzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16780171</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Richard Day</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:30:11-04:00</created-at>
+          <title>Women&amp;#39;s Health Policy Report: Blogs Comment on Miss. TRAP Law ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>PREGNANT WORKERS FAIRNESS ACT: &amp;quot;The Pregnant Workers Fairness Act: What it Means for Low-Wage Working Women,&amp;quot; Liz Watson, National Women&amp;#39;s Law Center&amp;#39;s &amp;quot;Womenstake&amp;quot;: Rep. Grace Napolitano (D-Calif.) ...</excerpt>
+          <fti-names>'/site/news2?lcmd=pub.date.desc&amp;cmd=search':47 'act':15,20 'blog':6 'calif':44 'center':36 'comment':7 'd':43 'd-calif':42 'fair':14,19 'grace':40 'health':3 'law':11,35 'liz':30 'low':26 'low-wag':25 'mean':23 'miss':9 'napolitano':41 'nation':32 'polici':4 'pregnant':12,17 'rep':39 'report':5 'trap':10 'wage':27 'watson':31 'women':1,29,33 'womenstak':38 'work':28 'worker':13,18 'www.nationalpartnership.org':46 'www.nationalpartnership.org/site/news2?lcmd=pub.date.desc&amp;cmd=search':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nationalpartnership.org/site/News2%3Fabbr%3Ddaily2_%26page%3DNewsArticle%26id%3D34503&amp;sa=U&amp;ei=PSIKUIfALqqW2AXFzOn6Dw&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNGT5zBOKpe5EUs0Z49UJDrRC9yecg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16780170</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.nationalpartnership.org/site/News2?lcmd=pub.date.desc&amp;cmd=search</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400290</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:39:42-04:00</created-at>
+          <title>Race Matters: Letter from Congressional Asian Pacific American ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Joseph Crowley Rep. Susan Davis Rep. Bob Filner Rep. RaulM. Grijalva Rep. Janice Hahn Rep. Zoe Lofgren Rep. Carolyn Maloney Rep. Betty McCollum. Rep. Jerry McNerney. Rep. Grace Napolitano Rep. Charlie ...</excerpt>
+          <fti-names>'american':8 'asian':6 'betti':31 'bob':16 'carolyn':28 'charli':40 'congression':5 'crowley':11 'davi':14 'filner':17 'grace':37 'grijalva':20 'hahn':23 'janic':22 'jerri':34 'joseph':10 'letter':3 'lofgren':26 'maloney':29 'matter':2,42 'mccollum':32 'mcnerney':35 'napolitano':38 'pacif':7 'race':1,41 'raulm':19 'rep':9,12,15,18,21,24,27,30,33,36,39 'susan':13 'zoe':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://endnseers.blogspot.com/2012/07/letter-from-congressional-asian-pacific.html&amp;sa=U&amp;ei=_LsQUI-7BIWS9QSBuIHIDg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNH01HzXqweLLhTYcYDp9bQr3fml0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16860022</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Race Matters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">18669</page-views-count>
+      <unaccented-name>Grace Napolitano</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

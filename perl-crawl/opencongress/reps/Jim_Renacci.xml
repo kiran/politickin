@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.1458699472759</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">412463</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">124</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">412462</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1590</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">1487</blog-article-count>
+      <user-approval type="float">2.16666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">31</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>RepJimRenacci</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.1458699472759</with-party-percentage>
+      <lastname>Renacci</lastname>
+      <bioguide-id>R000586</bioguide-id>
+      <fax>202-225-3059</fax>
+      <congress-office>130 Cannon House Office Building</congress-office>
+      <firstname>Jim</firstname>
+      <website>http://renacci.house.gov/</website>
+      <birthday type="date">1958-12-03</birthday>
+      <person-id type="integer">412462</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-3876</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">428</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:53:07-04:00</created-at>
+          <title>16th District voters don&#8217;t know who&#8217;s running in congressional race, poll finds</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a poll released Monday by Jefferson Action, a nonpartisan Minnesota group that is focusing on the race. Republican U.S. Rep. Jim Renacci has better name recognition than U.S. Rep. Betty Sutton, his Democratic opponent. More voters thought U.S. Sen. Sher</excerpt>
+          <fti-names>'16th':1 'action':21 'akron':55 'beacon':56 'better':38 'betti':44 'congression':11 'democrat':47 'district':2 'find':14 'focus':28 'group':25 'jefferson':20 'jim':35 'journal':57 'know':6 'minnesota':24 'monday':18 'name':39 'nonpartisan':23 'oppon':48 'poll':13,16 'race':12,31 'recognit':40 'releas':17 'renacci':36 'rep':34,43 'republican':32 'run':9 'sen':53 'sher':54 'sutton':45 'thought':51 'u.s':33,42,52 'voter':3,50</fti-names>
+          <source-url>http://www.ohio.com/</source-url>
+          <url>http://www.ohio.com/news/local/16th-district-voters-don-t-know-who-s-running-in-congressional-race-poll-finds-1.325345?localLinksEnabled=false</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973564</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Akron Beacon Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:01:58-04:00</created-at>
+          <title>Hotline Sort: Quayle's Last Stand</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...$280,000 ad buy hitting two GOP Senate candidates (Dean Heller in Nevada and Denny Rehberg in Montana) and three GOP Reps. (Jim Renacci in Ohio, Dan Lungren in California, and Steve King in Iowa) on voting to extend the Bush tax cuts. 2) The first round</excerpt>
+          <fti-names>'000':8 '2':50 '280':7 'ad':9 'bush':47 'buy':10 'california':36 'candid':15 'cut':49 'dan':33 'dean':16 'denni':21 'extend':45 'first':52 'gop':13,27 'heller':17 'hit':11 'hotlin':1 'iowa':41 'jim':29 'journal':55 'king':39 'last':5 'lungren':34 'montana':24 'nation':54 'nevada':19 'ohio':32 'quayl':3 'rehberg':22 'renacci':30 'rep':28 'round':53 'senat':14 'sort':2 'stand':6 'steve':38 'tax':48 'three':26 'two':12 'vote':43</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-qu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972959</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:01:57-04:00</created-at>
+          <title>Poll Shows Betty Sutton Competitive with Jim Renacci</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...addresses this race, saying, For example, in 2012, if I were the GOP, I'd be a touch nervous about freshman Rep. Jim Renacci in Ohio. When the GOP gerrymandered Ohio so artfully in 2011, they threw Renacci in with fellow incumbent Betty Sutton (a Democr</excerpt>
+          <fti-names>'2011':43 '2012':16 'address':9 'art':41 'betti':3,51 'competit':5 'd':23 'daili':56 'democr':54 'exampl':14 'fellow':49 'freshman':29 'gerrymand':38 'gop':21,37 'incumb':50 'jim':7,31 'nervous':27 'ohio':34,39,55 'poll':1 'race':11 'renacci':8,32,46 'rep':30 'say':12 'show':2 'sutton':4,52 'threw':45 'touch':26</fti-names>
+          <source-url>http://www.ohiodailyblog.com/</source-url>
+          <url>http://www.ohiodailyblog.com/content/poll-shows-betty-sutton-competitive-jim-renacci</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972958</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Ohio Daily</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:01:58-04:00</created-at>
+          <title>New ad hits GOP over tax cuts</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...targeted in the new ad buy, each ad will feature the name and picture of the respective lawmaker. They are: &#8211; Sen. Dean Heller, R-Nevada &#8211; Rep. Jim Renacci, R-Ohio &#8211; Rep. Denny Rehberg, R-Montana &#8211; Rep. Steve King, R-Iowa &#8211; Rep. Dan Lungren, R</excerpt>
+          <fti-names>'ad':2,12,15 'buy':13 'cnn':56 'cut':7 'dan':53 'dean':29 'denni':41 'featur':17 'gop':4 'heller':30 'hit':3 'iowa':51 'jim':35 'king':48 'lawmak':25 'lungren':54 'montana':45 'name':19 'nevada':33 'new':1,11 'ohio':39 'pictur':21 'r':32,38,44,50,55 'r-iowa':49 'r-montana':43 'r-nevada':31 'r-ohio':37 'rehberg':42 'renacci':36 'rep':34,40,46,52 'respect':24 'sen':28 'steve':47 'target':8 'tax':6</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://politicalticker.blogs.cnn.com/2012/08/06/new-ad-hits-gop-over-tax-cuts/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972960</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:33-04:00</created-at>
+          <title>GOP and women's rights: letter to the editor</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...right protected for women in the Constitution is the right to vote. You'd think Romney, House Speaker John Boehner and Rep. Jim Renacci would be climbing over one another to support and co-sponsor the Equal Rights Amendment to change the idea that women</excerpt>
+          <fti-names>'amend':49 'anoth':39 'boehner':29 'chang':51 'cleveland':56 'climb':36 'co':44 'co-sponsor':43 'constitut':16 'd':23 'dealer':58 'editor':9 'equal':47 'gop':1 'hous':26 'idea':53 'jim':32 'john':28 'letter':6 'one':38 'plain':57 'protect':11 'renacci':33 'rep':31 'right':5,10,19,48 'romney':25 'speaker':27 'sponsor':45 'support':41 'think':24 'vote':21 'women':3,13,55 'would':34</fti-names>
+          <source-url>http://www.cleveland.com/plaindealer/</source-url>
+          <url>http://blog.cleveland.com/letters/2012/08/gop_and_womens_rights_editoria.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972518</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland Plain Dealer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:50:32-04:00</created-at>
+          <title>House passes plan for Pro Football Hall of Fame commemorative coins</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>...Pro Football Hall of Fame The U.S. House of Representatives on Wednesday adopted a bill authored by Wadsworth GOP Rep. Jim Renacci that would allow the U.S. Mint to issue commemorative coins whose sales would benefit the Pro Football Hall of Fame and Mu</excerpt>
+          <fti-names>'adopt':24 'allow':36 'author':27 'benefit':47 'bill':26 'cleveland.com':56 'coin':11,43 'commemor':10,42 'fame':9,16,53 'footbal':6,13,50 'gop':30 'hall':7,14,51 'hous':1,19 'issu':41 'jim':32 'mint':39 'mu':55 'pass':2 'plan':3 'pro':5,12,49 'renacci':33 'rep':31 'repres':21 'sale':45 'u.s':18,38 'wadsworth':29 'wednesday':23 'whose':44 'would':35,46</fti-names>
+          <source-url>http://www.cleveland.com/</source-url>
+          <url>http://www.cleveland.com/open/index.ssf/2012/08/house_passes_plan_for_pro_foot.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970890</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:26-04:00</created-at>
+          <title>Sutton Internal Poll: Dead Heat With Renacci</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...District, confirming the results of early Democratic surveys. Sutton took 42 percent to freshman Republican Rep. Jim Renacci's 40 percent in her poll. Repeat Libertarian candidate Jeffrey Blevins took 12 percent of likely voters. The poll was conducted </excerpt>
+          <fti-names>'12':38 '40':27 '42':18 'blevin':36 'candid':34 'conduct':46 'confirm':9 'dead':4 'democrat':14 'district':8 'earli':13 'freshman':21 'heat':5 'intern':2 'jeffrey':35 'jim':24 'journal':48 'libertarian':33 'like':41 'nation':47 'percent':19,28,39 'poll':3,31,44 'renacci':7,25 'rep':23 'repeat':32 'republican':22 'result':11 'survey':15 'sutton':1,16 'took':17,37 'voter':42</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/sutton-internal.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969918</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:26-04:00</created-at>
+          <title>Democratic poll shows Rep. Betty Sutton with slim lead over Rep. Jim Renacci</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...-- November's congressional contest between GOP Rep. Jim Renacci of Wadsworth and Democratic Rep. Betty Sutton of Copley Township remains tight, according to poll results that Sutton's campaign released this morning. The incumbents were put into the sam</excerpt>
+          <fti-names>'accord':35 'betti':5,28 'campaign':42 'cleveland.com':53 'congression':16 'contest':17 'copley':31 'democrat':1,26 'gop':19 'incumb':47 'jim':12,21 'lead':9 'morn':45 'novemb':14 'poll':2,37 'put':49 'releas':43 'remain':33 'renacci':13,22 'rep':4,11,20,27 'result':38 'sam':52 'show':3 'slim':8 'sutton':6,29,40 'tight':34 'township':32 'wadsworth':24</fti-names>
+          <source-url>http://www.cleveland.com/</source-url>
+          <url>http://www.cleveland.com/open/index.ssf/2012/08/democratic_poll_shows_rep_bett.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969917</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:26-04:00</created-at>
+          <title>Ohio legislators, voters react to Rep. LaTourette's retirement</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...think that it may hopefully send a message to everybody to cut it out,&quot; said Rob Falls. That's what Republican Representative Jim Renacci says freshman legislators are trying to do. &quot;Republicans, democrats, they say they same thing. We need to be able t</excerpt>
+          <fti-names>'abl':52 'cleveland':55 'cut':21 'democrat':42 'everybodi':19 'fall':26 'freshman':35 'hope':14 'jim':32 'latourett':7 'legisl':2,36 'may':13 'messag':17 'need':49 'oh':56 'ohio':1 'react':4 'renacci':33 'rep':6 'repres':31 'republican':30,41 'retir':9 'rob':25 'said':24 'say':34,44 'send':15 'thing':47 'think':10 'tri':38 'voter':3 'wkyc':54</fti-names>
+          <source-url>http://www.wkyc.com/</source-url>
+          <url>http://www.wkyc.com/rss/article/254462/45/Ohio-legislators-voters-react-to-Rep-LaTourettes-retirement</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969916</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WKYC | Cleveland, OH</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:12-04:00</created-at>
+          <title>Republicans Outraising Democratic Rivals in House Races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Representative Allen West of Florida ... in the bank as of June 30 compared with $473,550 for Democrat Leonard Boswell. Ohio Republican Jim Renacci reported $1.5 million cash on hand compared with $903,710 for Democrat Betty Sutton.</excerpt>
+          <fti-names>'1.5':33 '30':19 '473':22 '550':23 '710':41 '903':40 'allen':9 'bank':15 'betti':44 'bloomberg':46 'boswel':27 'cash':35 'compar':20,38 'democrat':3,25,43 'florida':12 'hand':37 'hous':6 'jim':30 'june':18 'leonard':26 'million':34 'ohio':28 'outrais':2 'race':7 'renacci':31 'report':32 'repres':8 'republican':1,29 'rival':4 'sutton':45 'west':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-31/republicans-outraising-democratic-rivals-in-house-races.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:21:47-04:00</date>
+          <id type="integer">16967132</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jim Renacci [R, OH-16]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>16</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:15-04:00</created-at>
+          <title>Ohio GOP Candidates Return Sketchy Lucre | US Senators</title>
+          <contains-term>republican</contains-term>
+          <excerpt>U.S. Rep. Jim Renacci says he has returned $100000 in questionable campaign cash, reversing plans to keep the money pending the outcome of a federal probe. Renacci, a Republican from Wadsworth, disclosed his decision late Friday in ...</excerpt>
+          <fti-names>'100000':17 'campaign':20 'candid':3 'cash':21 'decis':42 'disclos':40 'feder':33 'friday':44 'gop':2 'jim':11 'keep':25 'late':43 'lucr':6 'money':27 'ohio':1 'outcom':30 'pend':28 'plan':23 'probe':34 'question':19 'renacci':12,35 'rep':10 'republican':37 'return':4,16 'revers':22 'say':13 'senat':8 'senatorsadmin':47 'sketchi':5 'u.s':9 'us':7,46 'wadsworth':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://us-senators.com/2012/07/ohio-gop-candidates-return-sketchy-lucre/&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNG9O7SN-Lx_q2QXv6O_z3VoErHdPQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852118</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>US_SenatorsAdmin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:12-04:00</created-at>
+          <title>Election Advantage: NPA (D) OH-16: Sutton With Slight Lead</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>NPA (D) OH-16: Sutton With Slight Lead. Normington Petts &amp;amp; Associates (D) OH-16/June 26-28/400 LVs: Rep. Betty Sutton (D) 41% Rep. Jim Renacci (R) 38% Caveat: this poll was taken for Sutton&amp;#39;s campaign. It looks like a ...</excerpt>
+          <fti-names>'-16':6,14,24 '-28':27 '/400':28 '/june':25 '26':26 '38':39 '41':34 'advantag':2 'associ':21 'betti':31 'campaign':48 'caveat':40 'd':4,12,22,33 'elect':1 'jim':36 'lead':10,18 'like':51 'look':50 'lvs':29 'matt':53 'normington':19 'npa':3,11 'oh':5,13,23 'pett':20 'poll':42 'r':38 'renacci':37 'rep':30,35 'slight':9,17 'sutton':7,15,32,46 'taken':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.electionadvantage.net/2012/07/npa-d-oh-16-sutton-with-slight-lead.html&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNF9WrPMpm4rNB6llA8hiRD4_l6LBA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16852114</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:10-04:00</created-at>
+          <title>The DCCC IS Behind the Stalking Videos &#8211; and More | RedState</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>But if you&amp;#39;re a sleazy, Democratic political operative, this looks like juicy, salacious oppo research, because the nursing home is owned by Rep. Jim Renacci (R-OH), who&amp;#39;s locked in a tight race with rank liberal, Betty Sutton ...</excerpt>
+          <fti-names>'behind':4 'betti':50 'dccc':2 'democrat':17 'diari':53 'home':30 'jim':35 'juici':23 'liber':49 'like':22 'lock':42 'look':21 'nurs':29 'oh':39 'oper':19 'oppo':25 'own':32 'paula':52 'polit':18 'r':38 'r-oh':37 'race':46 'rank':48 're':14 'redstat':10 'renacci':36 'rep':34 'research':26 'salaci':24 'sleazi':16 'stalk':6 'sutton':51 'tight':45 'video':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/paulkib/2012/07/15/the-dccc-is-behind-the-stalking-videos/&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEBt5d0YxxSnrwEwpOgaxdnVCSG4Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16852110</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Paula (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:18-04:00</created-at>
+          <title>Disgusting!&#8230; Dem &amp;#39;Trackers&amp;#39; Tape &amp;amp; Post Video of GOP Incumbant&amp;#39;s ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Two of the recent targets this year have been Ohio Rep. Jim Renacci and Wisconsin Rep. Reid Ribble, whose homes appear in roughly 30-second video clips posted online. &#8220;It really crosses a line,&#8221; Ribble told Fox News.</excerpt>
+          <fti-names>'30':34 'appear':31 'clip':37 'cross':42 'dem':2 'disgust':1 'fox':47 'gop':8 'hoft':50 'home':30 'incumb':9 'jim':22,49 'line':44 'news':48 'ohio':20 'onlin':39 'post':5,38 'realli':41 'recent':14 'reid':27 'renacci':23 'rep':21,26 'ribbl':28,45 'rough':33 'second':35 'tape':4 'target':15 'told':46 'tracker':3 'two':11 'video':6,36 'whose':29 'wisconsin':25 'year':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thegatewaypundit.com/2012/07/disgusting-dem-trackers-tape-post-video-of-gop-incumbants-homes-online/&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNE2chcbqBpmD-9XB2RSMsocwBrJ6A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16852121</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Hoft</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:04-04:00</created-at>
+          <title>Rep. Jim Renacci Questions John Corzine about MF Global ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Yesterday, US Representative Jim Renacci (OH-16) asked John Corzine, the former head of MF Global, about some of the internal controls.</excerpt>
+          <fti-names>'-16':16 'ask':17 'control':31 'corzin':6,19 'former':21 'global':9,25 'head':22 'intern':30 'jim':2,13 'john':5,18 'mf':8,24 'oh':15 'question':4 'renacci':3,14 'rep':1 'repres':12 'snapwire.com':32 'us':11 'yesterday':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://snapwire.com/breaking_news/financial-scandals/m-f-global/rep-jim-renacci-questions-john-corzine-about-mf-global.html%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-jim-renacci-questions-john-corzine-about-mf-global&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEeBCDOGSh1ur3nxsliKgk_Halbfg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16852109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://snapwire.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:14-04:00</created-at>
+          <title>WKSU News: How far is too far in tracking candidates&amp;#39; private lives?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Videos of Congressman Jim Renacci&amp;#39;s Wadsworth home and businesses can be seen on a YouTube page called &#8220;O-H 16 Raw Footage&#8221;along with recordings of his campaign stops and appearances in the media. Renacci&amp;#39;s ...</excerpt>
+          <fti-names>'16':34 'along':37 'appear':45 'busi':22 'call':30 'campaign':42 'candid':10 'congressman':15 'far':4,7 'footag':36 'h':33 'home':20 'jasen':51 'jim':16 'live':12 'm.l':54 'media':48 'news':2 'o':32 'o-h':31 'page':29 'privat':11 'raw':35 'record':39 'renacci':17,49 'schultz':55 'seen':25 'sokol':52 'stop':43 'track':9 'video':13 'wadsworth':19 'wksu':1 'youtub':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wksu.org/news/story/32350&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNE4xexPdGJhRejjVr_WK-_2793a7w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16852116</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JASEN SOKOL AND M.L. SCHULTZE</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:16-04:00</created-at>
+          <title>Weapons of Mass Discussion: REP. JIM RENACCI: PRESIDENT ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>JIM RENACCI: PRESIDENT OBAMA&amp;#39;S SAME FAILED POLICIES WON&amp;#39;T HELP THE ECONOMY. Statement: Boston, MA &#8211; Congressman Jim Renacci made the following statement on President Obama&amp;#39;s visit to Cleveland: ...</excerpt>
+          <fti-names>'boston':23 'cleveland':38 'congressman':25 'discuss':4 'economi':21 'fail':15 'follow':30 'help':19 'hurley':40 'jim':6,9,26 'ma':24 'made':28 'mass':3 'matt':39 'obama':12,34 'polici':16 'presid':8,11,33 'renacci':7,10,27 'rep':5 'statement':22,31 'visit':36 'weapon':1 'won':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://massdiscussion.blogspot.com/2012/06/rep-jim-renacci-president-obamas-same.html&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGM_VLP_UmvKM_2lG5mMQgNyO7IzQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-14T01:00:00-04:00</date>
+          <id type="integer">16852119</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Hurley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:15-04:00</created-at>
+          <title>FBI confirms campaign investigation of U.S. Rep. Jim Renacci &#171; The ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>By Julie Carr Smyth. COLUMBUS &#8212; The Federal Bureau of Investigation has confirmed its involvement in an investigation of questionable campaign contributions to two Ohio officeholders, freshman U.S. Rep. James Renacci ...</excerpt>
+          <fti-names>'associ':41 'bureau':18 'campaign':3,30 'carr':13 'columbus':15 'confirm':2,22 'contribut':31 'fbi':1 'feder':17 'freshman':36 'investig':4,20,27 'involv':24 'jame':39 'jim':8 'juli':12 'officehold':35 'ohio':34 'press':42 'question':29 'renacci':9,40 'rep':7,38 'smyth':14 'two':33 'u.s':6,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://medinagazette.northcoastnow.com/2012/05/23/fbi-confirms-campaign-investigation-of-u-s-rep-jim-renacci/&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNEBSvGpJBKGF8zn52RJ7cfiB40ERQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-23T01:00:00-04:00</date>
+          <id type="integer">16852117</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:18-04:00</created-at>
+          <title>Justice Department probing campaign donations to Rep. Jim ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Plain Dealer &#8211; The U.S. Department of Justice has sought records from the campaigns of U.S. Rep. Jim Renacci&amp;#39;s and U.S. Senate candidate Josh Mandel about donations they received from employees of a North Canton direct-marketing firm ...</excerpt>
+          <fti-names>'campaign':4,21 'candid':31 'canton':43 'darci':48 'dealer':10 'depart':2,13 'direct':45 'direct-market':44 'donat':5,35 'employe':39 'firm':47 'jim':8,25 'josh':32 'justic':1,15 'mandel':33 'market':46 'north':42 'plain':9 'probe':3 'receiv':37 'record':18 'renacci':26 'rep':7,24 'senat':30 'sought':17 'u.s':12,23,29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sherrodbrown.com/blog/news/2012/justice-department-probing-campaign-donations-to-rep-jim-renacci-u-s-senate-candidate-josh-mandel/&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFlgQXXwT4ntuUQ1GA-CFlwIW214w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-22T01:00:00-04:00</date>
+          <id type="integer">16852120</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>darci</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412462</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:55:11-04:00</created-at>
+          <title>Sutton Calls on Rep. Jim Renacci to Return Suspect Donations ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>PARMA HEIGHTS, OH - Following reports that Congressman Jim Renacci&amp;#39;s largest donor and his employees are at the center of an FBI investigation, Betty Sutton today called on Renacci to return more than $100000 in ...</excerpt>
+          <fti-names>'100000':44 'betti':34 'call':2,37 'center':29 'congressman':17 'dave':46 'donat':10 'donor':22 'employe':25 'fbi':32 'follow':14 'height':12 'investig':33 'jim':5,18 'largest':21 'oh':13 'parma':11 'renacci':6,19,39 'rep':4 'report':15 'return':8,41 'suspect':9 'sutton':1,35 'today':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.progressohio.org/blog/2012/05/sutton-calls-on-rep-jim-renacci-to-return-suspect-donations.html&amp;sa=U&amp;ei=N4oPUMeWLuXM6wH74IHQAw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHi4BlkxIQyUrkwQnsplCc7s-2o3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-22T01:00:00-04:00</date>
+          <id type="integer">16852112</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dave</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">4398</page-views-count>
+      <unaccented-name>Jim Renacci</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

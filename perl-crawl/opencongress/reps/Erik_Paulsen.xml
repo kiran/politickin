@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.2313125367863</party-votes-percentage>
+        <abstains-percentage type="float">1.16346713205352</abstains-percentage>
+        <votes-most-often-with-id type="integer">400224</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">355</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">392</cosponsored-bills-passed-rank>
+        <abstains type="integer">20</abstains>
+        <cosponsored-bills type="integer">180</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">280</party-votes-percentage-rank>
+        <sponsored-bills type="integer">34</sponsored-bills>
+        <votes-least-often-with-id type="integer">400237</votes-least-often-with-id>
+        <person-id type="integer">412303</person-id>
+        <cosponsored-bills-rank type="integer">276</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">231</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1584</votes-republican-position>
+      <blog-article-count type="integer">4530</blog-article-count>
+      <fax>202-225-6351</fax>
+      <user-approval type="float">3.17391304347826</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">163</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/paulsen/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.2313125367863</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Paulsen</lastname>
+      <congress-office>127 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Erik</firstname>
+      <website>http://paulsen.house.gov/</website>
+      <birthday type="date">1965-05-14</birthday>
+      <person-id type="integer">412303</person-id>
+      <phone>202-225-2871</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">435</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:18-04:00</created-at>
+          <title>The Daily Digest</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...government has expired and won't be renewed, the Associated Press reports. Third Congressional District Republican Rep. Erik Paulsen is disputing a quote attributed to him on a flier paid for by GOP state Rep. Connie Doepke's campaign, Patch reports. Pa</excerpt>
+          <fti-names>'associ':13 'attribut':27 'campaign':42 'congression':17 'conni':39 'daili':2 'digest':3 'disput':24 'district':18 'doepk':40 'erik':21 'expir':6 'flier':32 'gop':36 'govern':4 'minnesota':47 'mpr':46 'pa':45 'paid':33 'patch':43 'paulsen':22 'press':14 'public':48 'quot':26 'radio':49 'renew':11 'rep':20,38 'report':15,44 'republican':19 'state':37 'third':16 'won':8</fti-names>
+          <source-url>http://www.mpr.org/</source-url>
+          <url>http://minnesota.publicradio.org/collections/special/columns/polinaut/archive/2012/08/the_daily_diges_1347.shtml?refid=0</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973527</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MPR | Minnesota Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:18-04:00</created-at>
+          <title>U.S. Rep. Paulsen gets police support in 3rd District re-election bid</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Erik Paulsen has received three law enforcement endorsements in his bid for a third term. His campaign said the the Fraternal Order of Police, the Minnesota Police and Peace Officers Association and the Police Officers Federation of Minneapolis all</excerpt>
+          <fti-names>'3rd':8 'associ':45 'bid':13,25 'campaign':31 'district':9 'elect':12 'endors':22 'enforc':21 'erik':15 'feder':50 'fratern':35 'get':4 'law':20 'minneapoli':52 'minnesota':40 'minnpost.com':54 'offic':44,49 'order':36 'paulsen':3,16 'peac':43 'polic':5,38,41,48 're':11 're-elect':10 'receiv':18 'rep':2,14 'said':32 'support':6 'term':29 'third':28 'three':19 'u.s':1</fti-names>
+          <source-url>http://www.minnpost.com/</source-url>
+          <url>http://www.minnpost.com/political-agenda/2012/08/us-rep-paulsen-gets-police-support-3rd-district-re-election-bid</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973526</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MinnPost.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:57:42-04:00</created-at>
+          <title>The Real Impact of Obamacare Taxes</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Obamacare taxes will also slam the medical device industry. At the GOP-led House Taxes Committee hearing last Monday, Rep. Erik Paulsen, R-MN, defended his efforts to repeal a 2.3% excise tax set to hit the medical device industry under Obamacare. The p</excerpt>
+          <fti-names>'2.3':39 'also':10 'committe':23 'defend':33 'devic':14,47 'effort':35 'erik':28 'examin':55 'excis':40 'gop':19 'gop-l':18 'hear':24 'hit':44 'hous':21 'impact':3 'industri':15,48 'last':25 'led':20 'medic':13,46 'mn':32 'monday':26 'obamacar':5,7,50 'p':52 'paulsen':29 'r':31 'r-mn':30 'real':2 'rep':27 'repeal':37 'set':42 'slam':11 'street':54 'tax':6,8,22,41 'wall':53</fti-names>
+          <source-url>http://wallstreetexaminer.com/</source-url>
+          <url>http://wallstreetexaminer.com/2012/08/04/the-real-impact-of-obamacare-taxes/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972231</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:25:11-04:00</created-at>
+          <title>Paulsen gets a temporary promotion</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...- Erik Paulsen's rapid rise on Capitol Hill continued Thursday after the two-term Republican Congressman was appointed the temporary chairman of a subcommittee on the House Ways and Means Committee. Paulsen will take the helm of the Human Resources Subc</excerpt>
+          <fti-names>'appoint':24 'capitol':12 'chairman':27 'committe':37 'congressman':22 'continu':14 'erik':6 'get':2 'helm':42 'hill':13 'hous':33 'human':45 'mean':36 'minnesota':49 'mpr':48 'paulsen':1,7,38 'promot':5 'public':50 'radio':51 'rapid':9 'republican':21 'resourc':46 'rise':10 'subc':47 'subcommitte':30 'take':40 'temporari':4,26 'term':20 'thursday':15 'two':19 'two-term':18 'way':34</fti-names>
+          <source-url>http://www.mpr.org/</source-url>
+          <url>http://minnesota.publicradio.org/collections/special/columns/polinaut/archive/2012/08/paulsen_gets_a.shtml?refid=0</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970843</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MPR | Minnesota Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:24:54-04:00</created-at>
+          <title>Bill Introduced To Help Lower Medicare Costs By Keeping Seniors Healthy</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...the need for innovative and cost-effective solutions to deal with the growing cost of Medicare, U.S. Representatives Erik Paulsen (R-MN), Ron Kind (D-WI), Tim Griffin (R-AR), and Marcia Fudge (D-OH), today introduced legislation that experts say could s</excerpt>
+          <fti-names>'ar':45 'arra':60 'bill':1 'cost':7,18,26 'cost-effect':17 'could':58 'd':39,50 'd-oh':49 'd-wi':38 'deal':22 'effect':19 'erik':31 'expert':56 'fudg':48 'griffin':42 'grow':25 'healthi':11 'help':4 'innov':15 'introduc':2,53 'keep':9 'kind':37 'legisl':54 'lower':5 'marcia':47 'medicar':6,28 'mn':35 'need':13 'news':61 'oh':51 'paulsen':32 'r':34,44 'r-ar':43 'r-mn':33 'repres':30 'ron':36 'say':57 'senior':10 'servic':62 'solut':20 'tim':41 'today':52 'u.s':29 'wi':40</fti-names>
+          <source-url>http://arkansasgopwing.blogspot.com/</source-url>
+          <url>http://arkansasgopwing.blogspot.com/2012/08/bill-introduced-to-help-lower-medicare.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970842</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ARRA News Service</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:04:28-04:00</created-at>
+          <title>Rep. Erik Paulsen denounces government red tape</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...a short speech on the floor of the US House of Representatives, Rep. Erik Paulsen, a Republican representing Minnesota's third district, expresses dismay at recent growth in federal business regulation and calls for simplifying regulations on small busi</excerpt>
+          <fti-names>'busi':37,46 'call':40 'denounc':4 'dismay':31 'district':29 'erik':2,21 'express':30 'feder':36 'floor':13 'govern':5 'growth':34 'hous':17 'minnesota':26 'minnpost.com':47 'paulsen':3,22 'recent':33 'red':6 'regul':38,43 'rep':1,20 'repres':19,25 'republican':24 'short':9 'simplifi':42 'small':45 'speech':10 'tape':7 'third':28 'us':16</fti-names>
+          <source-url>http://www.minnpost.com/</source-url>
+          <url>http://www.minnpost.com/minnclips/2012/07/rep-erik-paulsen-denounces-government-red-tape</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967044</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MinnPost.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:19:48-04:00</created-at>
+          <title>House roommates: A lot like college</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&quot;People think we have a glamorous life,&quot; said Rep. Kevin Brady of Texas. &quot;It's a lot like college.&quot; That's because he lives with three other Republican House members, Steve Scalise of Louisiana, John Shimkus of Illinois and and Erik Paulsen of Minnesota.</excerpt>
+          <fti-names>'bradi':17 'colleg':6,25 'erik':47 'examin':52 'glamor':12 'hous':1,35 'illinoi':44 'john':41 'kevin':16 'life':13 'like':5,24 'live':30 'lot':4,23 'louisiana':40 'member':36 'minnesota':50 'paulsen':48 'peopl':7 'rep':15 'republican':34 'roommat':2 'said':14 'scalis':38 'shimkus':42 'steve':37 'texa':19 'think':8 'three':32 'washington':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://washingtonexaminer.com/house-roommates-a-lot-like-college/article/2503492</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T12:04:29-04:00</date>
+          <id type="integer">16961388</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:04:28-04:00</created-at>
+          <title>MN-02: A tale of two emails: Kline vs. Obermueller</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...to see the condemnation of Bachmann's comments came from both sides of the aisle. Speaker John Boehner, Sen. John McCain, Rep. Erik Paulsen, and even Bachmann's former campaign manager Ed Rollins all said that she was out of line. There was an exception</excerpt>
+          <fti-names>'-02':2 'aisl':25 'bachmann':16,37 'boehner':28 'came':19 'campaign':40 'comment':18 'condemn':14 'ed':42 'email':7 'erik':33 'even':36 'except':55 'former':39 'john':27,30 'kline':8 'line':51 'manag':41 'mccain':31 'mn':1,56 'obermuel':10 'paulsen':34 'progress':57 'project':58 'rep':32 'rollin':43 'said':45 'see':12 'sen':29 'side':22 'speaker':26 'tale':4 'two':6 'vs':9</fti-names>
+          <source-url>http://mncampaignreport.com/</source-url>
+          <url>http://www.mnprogressiveproject.com/diary/11851/mn02-a-tale-of-two-emails-kline-vs-obermueller</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16967045</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MN Progressive Project</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:29:37-04:00</created-at>
+          <title>For Dems, Virginia is for abortion</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&quot;People think we have a glamorous life,&quot; said Rep. Kevin Brady of Texas. &quot;It's a lot like college.&quot; That's because he lives with three other Republican House members, Steve Scalise of Louisiana, John Shimkus of Illinois and Erik Paulsen of Minnesota.</excerpt>
+          <fti-names>'abort':6 'bradi':17 'colleg':25 'dem':2 'erik':46 'examin':51 'glamor':12 'hous':35 'illinoi':44 'john':41 'kevin':16 'life':13 'like':24 'live':30 'lot':23 'louisiana':40 'member':36 'minnesota':49 'paulsen':47 'peopl':7 'rep':15 'republican':34 'said':14 'scalis':38 'shimkus':42 'steve':37 'texa':19 'think':8 'three':32 'virginia':3 'washington':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://washingtonexaminer.com/for-dems-virginia-is-for-abortion/article/2503457</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T19:58:07-04:00</date>
+          <id type="integer">16949282</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:30:15-04:00</created-at>
+          <title>For Dems, Virginia is for abortion</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...That's because he lives with three other Republican House members, Steve Scalise of Louisiana, John Shimkus of Illinois and Erik Paulsen of Minnesota. They recently huddled with members of the GOP Ripon Society to talk taxes, but revealed what it's like</excerpt>
+          <fti-names>'abort':6 'dem':2 'erik':27 'examin':51 'gop':38 'hous':16 'huddl':33 'illinoi':25 'john':22 'like':49 'live':11 'louisiana':21 'member':17,35 'minnesota':30 'paulsen':28 'recent':32 'republican':15 'reveal':45 'ripon':39 'scalis':19 'shimkus':23 'societi':40 'steve':18 'talk':42 'tax':43 'three':13 'virginia':3 'washington':50</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/for-dems-virginia-is-for-abortion/article/2503457?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949288</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>P000594</bioguide-id>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Erik Paulsen [R, MN-3]</name>
+      <total-session-votes type="integer">1699</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Congressman Erik Paulsen : Press Releases : Paulsen: FDA ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>FOR IMMEDIATE RELEASE: June 20th, 2012 Paulsen: FDA Approval Process Must be Rigorous and Relevant Paulsen Provision Included in House Pass ...</excerpt>
+          <fti-names>'2012':13 '20th':12 'approv':16 'congressman':1 'erik':2 'fda':7,15 'hous':27 'immedi':9 'includ':25 'june':11 'must':18 'pass':28 'paulsen':3,6,14,23 'paulsen.house.gov':29 'press':4 'process':17 'provis':24 'releas':5,10 'relev':22 'rigor':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paulsen.house.gov/press-releases/paulsen-fda-approval-process-must-be-rigorous-and-relevant/&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNENF32pVKWYXDgBoBsB7NzTzDRh2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16281577</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://paulsen.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>MNpublius &#183; Erik Paulsen votes to increase the value of his stock ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Minnesota Congressman Erik Paulsen has a major conflict of interest, and his recent actions have the appearance of impropriety big-time. He didn&amp;#39;t just vote on legislation he has a financial interest in, he sponsored it.</excerpt>
+          <fti-names>'action':25 'appear':28 'big':32 'big-tim':31 'conflict':19 'congressman':13 'didn':35 'erik':2,14 'financi':44 'improprieti':30 'increas':6 'interest':21,45 'legisl':40 'major':18 'minnesota':12 'mnpublius':1 'mnpublius.com':50 'paulsen':3,15 'recent':24 'sponsor':48 'stock':11 'time':33 'valu':8 'vote':4,38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mnpublius.com/post/25444538349/erik-paulsen-votes-to-increase-the-value-of-his-stock&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CDsQmAEwCA&amp;usg=AFQjCNHByomrHk5zdZoMEGhVxfghqyXwdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16281585</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://mnpublius.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Congressman Erik Paulsen : Press Releases : Paulsen Statement ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>FOR IMMEDIATE RELEASE: June 19th, 2012 Paulsen Statement on Invitation for Canada to Join Trans-Pacific Partnership Washington, ...</excerpt>
+          <fti-names>'19th':12 '2012':13 'canada':19 'congressman':1 'erik':2 'immedi':9 'invit':17 'join':21 'june':11 'pacif':24 'partnership':25 'paulsen':3,6,14 'paulsen.house.gov':27 'press':4 'releas':5,10 'statement':7,15 'tran':23 'trans-pacif':22 'washington':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paulsen.house.gov/press-releases/paulsen-statement-on-invitation-for-canada-to-join-transpacific-partnership/&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CCMQmAEwAg&amp;usg=AFQjCNEslcjbble0_gluWBI8nxJL8KDetg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16281579</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://paulsen.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Weekly Republican Address 6/9/12: Rep. Erik Paulsen (R-MN)</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In this week&amp;#39;s address, Rep. Erik Paulsen (R-MN) discusses the House&amp;#39;s recent vote to repeal the medical device tax included in the president&amp;#39;s health care law. We cannot raise taxes on anyone&#8211;especially when the May jobs ...</excerpt>
+          <fti-names>'6/9/12':4 'address':3,15 'anyon':47 'cannot':43 'care':40 'devic':32 'discuss':22 'erik':6,17 'especi':48 'health':39 'hous':24 'includ':34 'job':52 'law':41 'may':51 'medic':31 'mn':10,21 'paulsen':7,18 'presid':37 'r':9,20 'r-mn':8,19 'rais':44 'recent':26 'rep':5,16 'repeal':29 'republican':2 'rmsp':53 'tax':33,45 'vote':27 'week':1,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.republicanmainstreet.org/2012/06/weekly-republican-address-6912-rep-erik-paulsen-r-mn/&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CDcQmAEwBw&amp;usg=AFQjCNERCyk60zEGbNU-PHPYinQS1sGpxA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-14T01:00:00-04:00</date>
+          <id type="integer">16281584</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RMSP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>The Argo Journal: Rep. Erik Paulsen (R-MN) Delivers Weekly ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Poll Watch: Gallup 2012 Daily Presidential Trackin... Poll Watch: Rasmussen (R) 2012 Daily Presidential ... President Obama Delivers Weekly Address: &amp;quot;Congress... Rep. Erik Paulsen (R-MN) Delivers Weekly Republica.</excerpt>
+          <fti-names>'2012':15,23 'address':30 'argo':2,41 'congress':31 'daili':16,24 'deliv':10,28,38 'erik':5,33 'gallup':14 'journal':3,42 'mn':9,37 'obama':27 'paulsen':6,34 'poll':12,19 'presid':26 'presidenti':17,25 'r':8,22,36 'r-mn':7,35 'rasmussen':21 'rep':4,32 'republica':40 'trackin':18 'watch':13,20 'week':11,29,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://argojournal.blogspot.com/2012/06/rep-erik-paulsen-r-mn-delivers-weekly.html&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CDMQmAEwBg&amp;usg=AFQjCNHJ8TZRb41DlD2oiq7oqxAeHDWm0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-09T01:00:00-04:00</date>
+          <id type="integer">16281583</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Argo Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Rep. Erik Paulsen (R-MN) Delivers Weekly Republican Address | C ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Minnesota Congressman Erik Paulsen delivers this week&amp;#39;s Republican address. He focuses on the GOP&amp;#39;s pledge to repeal &amp;quot;Obamacare,&amp;quot; their name for the Affordable Care Act. The Supreme Court is expected to rule on ...</excerpt>
+          <fti-names>'/johnrouda.com':49 'act':38 'address':10,21 'afford':36 'c':11 'care':37 'congressman':13 'court':41 'deliv':7,16 'erik':2,14 'expect':43 'focus':23 'gop':26 'minnesota':12 'mn':6 'name':33 'obamacar':31 'paulsen':3,15 'pledg':28 'r':5 'r-mn':4 'rep':1 'repeal':30 'republican':9,20 'rule':45 'suprem':40 'week':8,18 'www.c-span.org':48 'www.c-span.org/johnrouda.com':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Erik-Paulsen-R-MN-Delivers-Weekly-Republican-Address/10737431421/&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CCsQmAEwBA&amp;usg=AFQjCNElu8q7CMOxKv7BMh9NQgzuxAnjxA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-09T01:00:00-04:00</date>
+          <id type="integer">16281581</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Weekly Republican Address: Rep. Erik Paulsen on Repealing ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Delivering the Weekly Republican Address, Rep. Erik Paulsen (R-MN) highlights the House&amp;#39;s focus on jobs as the president&amp;#39;s policies continue to make our economy worse. &#8220;His health care law may well be the worst offender, ...</excerpt>
+          <fti-names>'/rss.xml':50 'address':3,13 'care':40 'continu':32 'deliv':9 'economi':36 'erik':5,15 'focus':24 'health':39 'highlight':20 'hous':22 'job':26 'law':41 'make':34 'may':42 'mn':19 'offend':47 'paulsen':6,16 'polici':31 'presid':29 'r':18 'r-mn':17 'rep':4,14 'repeal':8 'republican':2,12 'speaker.house.gov':49 'speaker.house.gov/rss.xml':48 'week':1,11 'well':43 'wors':37 'worst':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.speaker.gov/press-release/weekly-republican-address-rep-erik-paulsen-repealing-obamacare-protect-jobs-sma&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNHzl2KuNxw5HysZKKvPn9gvmhVSJg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-08T01:00:00-04:00</date>
+          <id type="integer">16281578</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://speaker.house.gov/rss.xml</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>House passes Paulsen&amp;#39;s repeal of medical-device tax | MinnPost</title>
+          <contains-term>republican</contains-term>
+          <excerpt>WASHINGTON &#8212; The U.S. House of Representatives passed Minnesota Republican Rep. Erik Paulsen&amp;#39;s bill to repeal a tax on the medical-device industry on Thursday, 270-146.Passage was expected, given Republican ...</excerpt>
+          <fti-names>'-146':39 '270':38 'bill':25 'devic':9,34 'devin':45 'erik':22 'expect':42 'given':43 'henri':46 'hous':1,15 'industri':35 'medic':8,33 'medical-devic':7,32 'minnesota':19 'minnpost':11 'pass':2,18 'passag':40 'paulsen':3,23 'rep':21 'repeal':5,27 'repres':17 'republican':20,44 'tax':10,29 'thursday':37 'u.s':14 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.minnpost.com/dc-dispatches/2012/06/house-passes-paulsens-repeal-medical-device-tax&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CD8QmAEwCQ&amp;usg=AFQjCNFvY4L6DoQFbrgKyh_Bhpzi8b9ChA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-07T01:00:00-04:00</date>
+          <id type="integer">16281586</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Devin Henry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Rep. Paulsen expects device tax repeal on the House floor this ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MASSDEVICE ON CALL &#8212; Rep. Erik Paulsen&amp;#39;s long-running effort to repeal the medical device excise tax is nearing a climax in the House, the Congressman said during a recent episode of his regular &amp;quot;Correspondence ...</excerpt>
+          <fti-names>'call':14 'climax':33 'congressman':38 'correspond':47 'devic':4,27 'effort':22 'episod':43 'erik':16 'excis':28 'expect':3 'floor':10 'hous':9,36 'long':20 'long-run':19 'massdevic':12,48 'medic':26 'near':31 'paulsen':2,17 'recent':42 'regular':46 'rep':1,15 'repeal':6,24 'run':21 'said':39 'staff':49 'tax':5,29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.massdevice.com/news/rep-paulsen-expects-device-tax-repeal-house-floor-week-video-massdevicecom-call&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CCcQmAEwAw&amp;usg=AFQjCNGfc3_glpchi-PlCTG8PGazkaO2Dg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16281580</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MassDevice staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412303</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:22:18-04:00</created-at>
+          <title>Congressman Erik Paulsen : Press Releases : Paulsen Leads ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>FOR IMMEDIATE RELEASE: May 16th, 2012 Paulsen Leads Bipartisan Letter Pressing For Increased European Trade Includes steps to st ...</excerpt>
+          <fti-names>'16th':12 '2012':13 'bipartisan':16 'congressman':1 'erik':2 'european':21 'immedi':9 'includ':23 'increas':20 'lead':7,15 'letter':17 'may':11 'paulsen':3,6,14 'paulsen.house.gov':27 'press':4,18 'releas':5,10 'st':26 'step':24 'trade':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paulsen.house.gov/press-releases/paulsen-leads-bipartisan-letter-pressing-for-increased-european-trade/&amp;sa=U&amp;ei=aR_tT4OkHOXw2gWP4PitCg&amp;ved=0CC8QmAEwBQ&amp;usg=AFQjCNELnOVEyE_SWBdbMjbxBQ6PRwUIKg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-16T01:00:00-04:00</date>
+          <id type="integer">16281582</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://paulsen.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">15937</page-views-count>
+      <youtube-id>reperikpaulsen</youtube-id>
+      <unaccented-name>Erik Paulsen</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

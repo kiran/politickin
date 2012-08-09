@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-10-06T11:10:04-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.2926533090467</party-votes-percentage>
+        <abstains-percentage type="float">4.18848167539267</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">8</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">88</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">72</abstains>
+        <cosponsored-bills type="integer">442</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">48</party-votes-percentage-rank>
+        <sponsored-bills type="integer">64</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400251</person-id>
+        <cosponsored-bills-rank type="integer">19</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-26T17:38:33-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">5</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">13</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">349</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">12851</blog-article-count>
+      <user-approval type="float">2.42307692307692</user-approval>
+      <url nil="true"></url>
+      <middlename>B.</middlename>
+      <oc-users-tracking type="integer">179</oc-users-tracking>
+      <contact-webform>http://maloney.house.gov/index.php?option=com_email_form&amp;Itemid=73</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.2926533090467</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Maloney</lastname>
+      <congress-office>2332 Rayburn House Office Building</congress-office>
+      <firstname>Carolyn</firstname>
+      <website>http://maloney.house.gov/</website>
+      <metavid-id>Carolyn_B._Maloney</metavid-id>
+      <birthday type="date">1948-02-19</birthday>
+      <person-id type="integer">400251</person-id>
+      <phone>202-225-7944</phone>
+      <religion>Presbyterian</religion>
+      <bioguide-id>M000087</bioguide-id>
+      <votes-democratic-position type="integer">1553</votes-democratic-position>
+      <youtube-id nil="true"></youtube-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:47:46-04:00</created-at>
+          <title>&#8216;Romney Hood,&#8217; Then &#8216;Obamaloney&#8217;: Dumb Daily Wordplay Race Now a Dead Heat</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...on a dish never tasted so bad, derpa derp. Or perhaps Romney, being weird, intended to draw a comparison between the president and Rep. Carolyn Maloney, to highlight his opposition to generic Democratic policy stances? Yesterday was more fun. [ ABC News</excerpt>
+          <fti-names>'abc':52 'bad':19 'carolyn':37 'comparison':31 'daili':6 'dead':11 'democrat':45 'derp':21 'derpa':20 'dish':15 'draw':29 'dumb':5 'fun':51 'generic':44 'heat':12 'highlight':40 'hood':2 'intend':27 'maloney':38 'never':16 'news':53 'obamaloney':4 'opposit':42 'perhap':23 'polici':46 'presid':34 'race':8 'rep':36 'romney':1,24 'stanc':47 'tast':17 'weird':26 'wonkett':54 'wordplay':7 'yesterday':48</fti-names>
+          <source-url>http://www.wonkette.com/</source-url>
+          <url>http://feeds.wonkette.com/click.phdo?i=f86149b9e565a467cd984f988d070e87</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973488</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wonkette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:47:45-04:00</created-at>
+          <title>Bank scandals tarnish London's reputation</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the company takes with its own money. &quot;It seems to be that every big trading disaster happens in London,&quot; U.S. Rep. Carolyn Maloney, D-N.Y., told the House Financial Services Committee as it investigated JPMorgan's losses. And now Standard Chartered, th</excerpt>
+          <fti-names>'american':53 'american-statesman':52 'austin':51 'bank':1 'big':20 'carolyn':28 'charter':49 'committe':39 'compani':8 'd':31 'd-n':30 'disast':22 'everi':19 'financi':37 'happen':23 'hous':36 'investig':42 'jpmorgan':43 'london':4,25 'loss':45 'maloney':29 'money':13 'n':32 'rep':27 'reput':6 'scandal':2 'seem':15 'servic':38 'standard':48 'statesman':54 'take':9 'tarnish':3 'th':50 'told':34 'trade':21 'u.s':26 'y':33</fti-names>
+          <source-url>http://www.statesman.com/</source-url>
+          <url>http://www.statesman.com/business/bank-scandals-tarnish-londons-reputation-2430271.html?cxtype=rss_business</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973487</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Austin American-Statesman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:03:26-04:00</created-at>
+          <title>House wants to be clear: IRS can levy your TSP funds</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...accounts and private sector 401(k) plans receive equal treatment in the area of tax administration and enforcement,&#8221; said Rep. Carolyn Maloney, D-N.Y., during floor debate. Want to contribute to this story? Share your addition in comments. By using th</excerpt>
+          <fti-names>'401':16 'account':12 'addit':49 'administr':27 'area':24 'carolyn':32 'clear':5 'comment':51 'contribut':43 'd':35 'd-n':34 'debat':40 'enforc':29 'equal':20 'floor':39 'fund':11 'govexec.com':55 'hous':1 'ir':6 'k':17 'levi':8 'maloney':33 'n':36 'plan':18 'privat':14 'receiv':19 'rep':31 'said':30 'sector':15 'share':47 'stori':46 'tax':26 'th':54 'treatment':21 'tsp':10 'use':53 'want':2,41 'y':37</fti-names>
+          <source-url>http://govexec.com/</source-url>
+          <url>http://www.govexec.com/pay-benefits/2012/08/house-wants-be-clear-irs-can-levy-your-tsp-funds/57209/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971730</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GovExec.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:28-04:00</created-at>
+          <title>NOW backs Jersey girls on 'debate' crusade</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...endorsement of the trio&#8217;s cause came after several local elected officials, including New York Sen. Kirsten Gillibrand, Rep. Carolyn Maloney and City Council Speaker Christine Quinn, also voiced support. Axelrod, Siegel and Tsemberis hatched their gra</excerpt>
+          <fti-names>'also':35 'axelrod':38 'back':2 'came':14 'carolyn':27 'caus':13 'christin':33 'citi':30 'council':31 'crusad':7 'daili':47 'debat':6 'elect':18 'endors':8 'gillibrand':25 'girl':4 'gra':44 'hatch':42 'includ':20 'jersey':3 'kirsten':24 'local':17 'maloney':28 'new':21,45 'news':48 'offici':19 'quinn':34 'rep':26 'sen':23 'sever':16 'siegel':39 'speaker':32 'support':37 'trio':11 'tsemberi':41 'voic':36 'york':22,46</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://feedproxy.google.com/~r/nydnrss/sports/hockey/devils/~3/8GOwbt5KxfQ/national-organization-women-backs-new-jersey-teens-pushing-a-female-selected-moderate-year-presidential-debates-article-1.1128001</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970763</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:28-04:00</created-at>
+          <title>Craziest Republican of the Day: Mike Kelly</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...reverse is true. The law is a strike for freedom against religious intolerance and authoritarianism. And as Democratic Rep. Carolyn Maloney of New York said, &quot;[s]afe, accessible contraception is a fundamental part of virtually every woman's health care </excerpt>
+          <fti-names>'access':35 'afe':34 'authoritarian':22 'care':47 'carolyn':27 'contracept':36 'craziest':1 'day':5 'democrat':25 'everi':43 'freedom':17 'fundament':39 'health':46 'intoler':20 'kelli':7 'law':12 'maloney':28 'mike':6 'new':30 'part':40 'reaction':49 'religi':19 'rep':26 'republican':2 'revers':8 'said':32 'strike':15 'true':10 'virtual':42 'woman':44 'york':31</fti-names>
+          <source-url>http://www.the-reaction.blogspot.com/</source-url>
+          <url>http://the-reaction.blogspot.com/2012/08/craziest-republican-of-day-mike-kelly.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970764</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Reaction</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:27-04:00</created-at>
+          <title>Dingell bill aims to reinstate limits on corporate PAC donations</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to make unlimited donations to political action committees. Dingell and others including Reps. John Conyers of Detroit, Carolyn Maloney of New York, Robert Andrews of New Jersey, Diana DeGette of Colorado, Jim McGovern of Massachusetts, Chris Van Hollen</excerpt>
+          <fti-names>'action':17 'aim':3 'andrew':34 'bill':2 'carolyn':28 'chris':46 'colorado':41 'committe':18 'conyer':25 'corpor':8 'degett':39 'detroit':27,49 'diana':38 'dingel':1,19 'donat':10,14 'hollen':48 'includ':22 'jersey':37 'jim':42 'john':24 'limit':6 'make':12 'maloney':29 'massachusett':45 'mcgovern':43 'new':31,36 'news':50 'onlin':51 'other':21 'pac':9 'polit':16 'reinstat':5 'rep':23 'robert':33 'unlimit':13 'van':47 'york':32</fti-names>
+          <source-url>http://detnews.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.detroitnews.com/article/20120802/POLITICS01/208020463/1022/rss10</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970762</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:26-04:00</created-at>
+          <title>A Trifecta Of Gay Support For Johnson</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...isn&#8217;t the first time Frank, who is retiring at the end of the year, has picked sides in a New York race. In January, he and Rep. Carolyn Maloney co-hosted a fund-raiser for Wappingers Falls Mayor Matt Alexander, who was hoping to take on GOP Rep. Nan </excerpt>
+          <fti-names>'alexand':50 'capit':60 'carolyn':36 'co':39 'co-host':38 'end':19 'fall':47 'first':11 'frank':13 'fund':43 'fund-rais':42 'gay':4 'gop':57 'hope':53 'host':40 'isn':8 'januari':32 'johnson':7 'maloney':37 'matt':49 'mayor':48 'nan':59 'new':28 'pick':24 'race':30 'raiser':44 'rep':35,58 'retir':16 'side':25 'support':5 'take':55 'time':12 'tonight':61 'trifecta':2 'wapping':46 'year':22 'york':29</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/a-trifecta-of-gay-support-for-johnson/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970761</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:25-04:00</created-at>
+          <title>GOP Congressman Defends Comparison of 9/11, Free Birth Control</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...him especially harsh attacks from members in Hawaii and New York whose districts include the sites of the two attacks. Rep. Carolyn Maloney (D-N.Y.) called the comment &#8220;shameful,&#8221; and Rep. Jerry Nadler (D-N.Y.), whose district includes Ground Zero, </excerpt>
+          <fti-names>'9/11':6 'attack':13,29 'birth':8 'call':37 'carolyn':31 'comment':39 'comparison':4 'congressman':2 'control':9 'd':34,46 'd-n':33,45 'defend':3 'dig':55 'district':22,50 'especi':11 'free':7 'gop':1 'ground':52 'harsh':12 'hawaii':17 'includ':23,51 'jerri':43 'maloney':32 'member':15 'n':35,47 'nadler':44 'new':19 'rep':30,42 'shame':40 'site':25 'truth':54 'two':28 'whose':21,49 'y':36,48 'york':20 'zero':53</fti-names>
+          <source-url>http://www.truthdig.com/</source-url>
+          <url>http://feedproxy.google.com/~r/Truthdig/~3/6PYv6PrEXGA/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970760</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Truth Dig</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:24-04:00</created-at>
+          <title>U.S. House can&#8217;t muster votes to pass Franks bill limiting abortions in Washington</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...pro-life groups. &#8220;The bill has no provision whatsoever for a woman that has been the victim of rape or incest,&#8221; said Rep. Carolyn Maloney, D-N.Y., who said that a girl who was a victim of incest could conceivably be compelled to &#8220;bear her sibling.</excerpt>
+          <fti-names>'abort':12 'az':64 'bear':61 'bill':10,20 'capitol':65 'carolyn':39 'compel':59 'conceiv':57 'could':56 'd':42 'd-n':41 'frank':9 'girl':49 'group':18 'hous':2 'incest':36,55 'life':17 'limit':11 'maloney':40 'muster':5 'n':43 'pass':8 'pro':16 'pro-lif':15 'provis':23 'rape':34 'rep':38 'said':37,46 'sibl':63 'time':66 'u.s':1 'victim':32,53 'vote':6 'washington':14 'whatsoev':24 'woman':27 'y':44</fti-names>
+          <source-url>http://azcapitoltimes.com/</source-url>
+          <url>http://azcapitoltimes.com/news/2012/08/02/u-s-house-cant-muster-votes-to-pass-trent-franks-bill-limiting-abortions-in-washington/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970759</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AZ Capitol Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:41:07-04:00</created-at>
+          <title>Rep. Mike Kelly Stands Behind Remark Comparing Birth Control Mandate To Pearl Harbor, 9/11</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...him especially harsh attacks from members in Hawaii and New York whose districts include the sites of the two attacks. Rep. Carolyn Maloney (D-N.Y.) called the comment &quot;shameful,&quot; and Rep. Jerry Nadler (D-N.Y.), whose district includes Ground Zero, said</excerpt>
+          <fti-names>'9/11':14 'attack':18,34 'behind':5 'birth':8 'call':42 'carolyn':36 'comment':44 'compar':7 'control':9 'd':39,51 'd-n':38,50 'district':27,55 'especi':16 'ground':57 'harbor':13 'harsh':17 'hawaii':22 'huffington':61 'includ':28,56 'jerri':48 'kelli':3 'maloney':37 'mandat':10 'member':20 'mike':2 'n':40,52 'nadler':49 'new':24 'pearl':12 'post':62 'remark':6 'rep':1,35,47 'said':59 'shame':45 'site':30 'stand':4 'two':33 'whose':26,54 'y':41,53 'york':25 'zero':58</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/02/mike-kelly-birth-control-pearl-harbor-911_n_1733105.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970758</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Carolyn Maloney [D, NY-14]</name>
+      <total-session-votes type="integer">1647</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-225-4709</fax>
+      <district>14</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:57:23-04:00</created-at>
+          <title>The Nightly Daily: Brian Williams &amp;amp; NBC Nightly News Show Notes ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>I would like to commend the Nightly News producers for correctly identifying Rep. McCarthy. On March 17, 2009, a Nightly News graphic identified Rep. McCarthy as Rep. Carolyn Maloney. I guess you&amp;#39;d call that progress.</excerpt>
+          <fti-names>'17':27 '2009':28 'brian':4 'call':44 'carolyn':38 'charl':48 'commend':15 'correct':21 'd':43 'daili':3 'graphic':32 'guess':41 'identifi':22,33 'like':13 'maloney':39 'march':26 'mccarthi':24,35 'nbc':6 'news':8,18,31 'night':2,7,17,30 'norman':47 'note':10 'produc':19 'progress':46 'rep':23,34,37 'show':9 'william':5 'would':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nightly-daily.blogspot.com/2012/07/brian-williams-nbc-nightly-news-show_28.html&amp;sa=U&amp;ei=rNAUUI_wEIeN0QH4koHoCQ&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGcrCksjwMTgoUl7a3EnkurqiC8KQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930297</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Norman Charles</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:14:55-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor the Leader&amp;#39;s ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. George Miller Amendment Rep. Lynn Woolsey Amendment Rep. Maxine Waters Amendment Reps. Mike Fitzpatrick / Scott Garrett Amendment Rep. Bill Posey Amendment #50. Rep. Carolyn Maloney Amendment Rep.</excerpt>
+          <fti-names>'50':32 'amend':13,17,21,27,31,36 'american':1 'barbara':4,38 'bill':29 'cantor':6 'carolyn':34 'eric':5 'fitzpatrick':24 'freedom':2 'garrett':26 'georg':11 'leader':8 'lynn':15 'maloney':35 'maxin':19 'mike':23 'miller':12 'posey':30 'rep':10,14,18,22,28,33,37 'scott':25 'water':20 'woolsey':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantor-leaders-daily-schedule-72612.html&amp;sa=U&amp;ei=LFkTUPbFCpHy9gThnoHoBA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNENPorPJ4gReggfd5u5q2iHGDNt_Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16922377</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:24:13-04:00</created-at>
+          <title>Wall Street Legend Sandy Weill Stuns the Financial World: &amp;#39;Break ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Carolyn Maloney (D-NY) mentioned Weill&amp;#39;s comment in her opening statement to Geithner and that got the ball rolling. She said that his words were &#8220;absolutely huge,&#8221; and asked Geithner to write a report on ...</excerpt>
+          <fti-names>'absolut':39 'ask':42 'ball':31 'break':10 'carolyn':12 'comment':20 'd':15 'd-ni':14 'financi':8 'geithner':26,43 'got':29 'huge':40 'legend':3 'maloney':13 'mention':17 'ny':16 'open':23 'report':47 'repres':11 'roll':32 'said':34 'sandi':4 'statement':24 'street':2 'stun':6 'wall':1 'weill':5,18 'wendydavi':49 'word':37 'world':9 'write':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://my.firedoglake.com/wendydavis/2012/07/26/former-citigroup-sandy-weill-stuns-the-financial-world-break-up-the-big-banks/&amp;sa=U&amp;ei=2wkSUNDkJYmm8ATGroHQCg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNGVowoLuih8OYsd8LCG1ARjF52IQQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16891109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>wendydavis</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:24:13-04:00</created-at>
+          <title>Suddenly, Everyone Is Talking About Breaking Up the Big Banks ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Carolyn Maloney (D-NY) mentioned Weill&amp;#39;s comment in her opening statement to Geithner and that got the ball rolling. She said that his words were &#8220;absolutely huge,&#8221; and asked Geithner to write a report on ...</excerpt>
+          <fti-names>'absolut':39 'ask':42 'ball':31 'bank':10 'big':9 'break':6 'carolyn':12 'comment':20 'd':15 'd-ni':14 'everyon':2 'geithner':26,43 'got':29 'huge':40 'maloney':13 'mari':49 'mention':17 'ny':16 'open':23 'report':47 'repres':11 'roll':32 'said':34 'statement':24 'sudden':1 'talk':4 'weill':18 'word':37 'write':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thedeflationtimes.com/2012/07/26/suddenly-everyone-is-talking-about-breaking-up-the-big-banks/&amp;sa=U&amp;ei=2wkSUNDkJYmm8ATGroHQCg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNG79xWWYV6EyEwB8EUhL8OOcc19hQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16891107</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mary</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:24:13-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor the Leader&amp;#39;s ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. George Miller Amendment Rep. Lynn Woolsey Amendment Rep. Maxine Waters Amendment Reps. Mike Fitzpatrick / Scott Garrett Amendment Rep. Bill Posey Amendment #50. Rep. Carolyn Maloney Amendment Rep.</excerpt>
+          <fti-names>'50':32 'amend':13,17,21,27,31,36 'american':1 'barbara':4,38 'bill':29 'cantor':6 'carolyn':34 'eric':5 'fitzpatrick':24 'freedom':2 'garrett':26 'georg':11 'leader':8 'lynn':15 'maloney':35 'maxin':19 'mike':23 'miller':12 'posey':30 'rep':10,14,18,22,28,33,37 'scott':25 'water':20 'woolsey':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantor-leaders-daily-schedule-72612.html&amp;sa=U&amp;ei=2wkSUNDkJYmm8ATGroHQCg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNExxyvn1-jGIkG6oqwrSn5BjgYYGQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16891105</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:30:36-04:00</created-at>
+          <title>All Of The Sudden, Congressmen Were Talking About Reinstating ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Carolyn Maloney (D-NY) mentioned Weill&amp;#39;s comment in her opening statement to Geithner and that got the ball rolling. She said that his words were &#8220;absolutely huge,&#8221; and asked Geithner to write a report on ...</excerpt>
+          <fti-names>'absolut':38 'ask':41 'ball':30 'carolyn':11 'comment':19 'congressmen':5 'd':14 'd-ni':13 'geithner':25,42 'got':28 'huge':39 'jean':48 'maloney':12 'mention':16 'ny':15 'open':22 'reinstat':9 'report':46 'repres':10 'roll':31 'said':33 'statement':23 'sudden':4 'talk':7 'weill':17 'word':36 'write':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jhaines6.wordpress.com/2012/07/25/all-of-the-sudden-congressmen-were-talking-about-reinstating-glass-steagall-on-the-hill-today/&amp;sa=U&amp;ei=2LkQUOjhOvGQ0QHY_YCIAQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGplHAgmPGAPndui6Rrkf-xSlvN6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859759</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jean</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:30:36-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor The Leader&amp;#39;s ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Maxine Waters Amendment (10 minutes of debate) Reps. Mike Fitzpatrick / Scott Garrett Amendment (10 minutes of debate) Rep. Bill Posey Amendment #50 (10 minutes of debate) Rep. Carolyn Maloney Amendment (10 ...</excerpt>
+          <fti-names>'10':14,24,33,41 '50':32 'amend':13,23,31,40 'american':1 'barbara':4,42 'bill':29 'cantor':6 'carolyn':38 'debat':17,27,36 'eric':5 'fitzpatrick':20 'freedom':2 'garrett':22 'leader':8 'maloney':39 'maxin':11 'mike':19 'minut':15,25,34 'posey':30 'rep':10,18,28,37 'scott':21 'water':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantor-leaders-daily-schedule-72512.html&amp;sa=U&amp;ei=2LkQUOjhOvGQ0QHY_YCIAQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGKzYTzsGXWJSvvju1QT13dOnmG3w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859757</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:24:13-04:00</created-at>
+          <title>Here Come the Lunatic Calls to Disarm You: &#8220;There Is No Reason ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Carolyn Maloney. &#8220;It&amp;#39;s time for Congress to act&#8230; and I&amp;#39;m a co-sponsor of a bill that would ban the high capacity ammunition magazines that are attached to these guns.&#8221; &#8211; Congresswoman Carolyn Maloney ...</excerpt>
+          <fti-names>'act':22 'ammunit':39 'attach':43 'ban':35 'bill':32 'call':5 'capac':38 'carolyn':14,48 'co':28 'co-sponsor':27 'come':2 'congress':20 'congresswoman':47 'disarm':7 'gun':46 'high':37 'lunat':4 'm':25 'magazin':40 'maloney':15,49 'reason':12 'rep':13 'sgt':50 'sponsor':29 'time':18 'would':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sgtreport.com/2012/07/here-come-the-lunatic-calls-to-disarm-you-there-is-no-reason-why-you-have-a-hundred-rounds-of-ammunition-rep-maloney/&amp;sa=U&amp;ei=2wkSUNDkJYmm8ATGroHQCg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFOofpyOSSXX5Cy0O9dVAuepKHTcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16891103</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>SGT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:30:35-04:00</created-at>
+          <title>Here Come the Lunatic Calls to Disarm You: &#8220;There Is No Reason ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Carolyn Maloney. &#8220;It&amp;#39;s time for Congress to act&#8230; and I&amp;#39;m a co-sponsor of a bill that would ban the high capacity ammunition magazines that are attached to these guns.&#8221; &#8211; Congresswoman Carolyn Maloney ...</excerpt>
+          <fti-names>'act':22 'ammunit':39 'attach':43 'ban':35 'bill':32 'call':5 'capac':38 'carolyn':14,48 'co':28 'co-sponsor':27 'come':2 'congress':20 'congresswoman':47 'disarm':7 'gun':46 'high':37 'lunat':4 'm':25 'magazin':40 'maloney':15,49 'reason':12 'rep':13 'sgt':50 'sponsor':29 'time':18 'would':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sgtreport.com/2012/07/here-come-the-lunatic-calls-to-disarm-you-there-is-no-reason-why-you-have-a-hundred-rounds-of-ammunition-rep-maloney/&amp;sa=U&amp;ei=2LkQUOjhOvGQ0QHY_YCIAQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHZeKJhorNUD4mXxp11EHbV_OgenA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16859755</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>SGT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400251</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:41:00-04:00</created-at>
+          <title>Rallying Together Around Issues Critical to Women and Families at ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>The annual conference is the largest gathering of women&amp;#39;s groups and advocates in the country and attracted several accomplished leaders in women&amp;#39;s policy and advocacy, including Representative Carolyn Maloney, Dr.</excerpt>
+          <fti-names>'accomplish':30 'advoc':23 'advocaci':37 'annual':12 'around':3 'attract':28 'carolyn':40 'confer':13 'countri':26 'critic':5 'dr':42 'famili':9 'gather':17 'group':21 'includ':38 'issu':4 'iwprfemchat':43 'largest':16 'leader':31 'maloney':41 'polici':35 'ralli':1 'repres':39 'sever':29 'togeth':2 'women':7,19,33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://femchat-iwpr.org/2012/07/24/rallying-together-around-issues-critical-to-women-and-families-at-now-conference-2012/&amp;sa=U&amp;ei=xmoPULbDF8a42wWU7YCQAg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNECp1JWT3niQABRlKTjgazpb5Q1ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16850674</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>iwprfemchat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">26217</page-views-count>
+      <unaccented-name>Carolyn Maloney</unaccented-name>
+      <oc-user-comments type="integer">13</oc-user-comments>
+    </person>
+  </people>
+</hash>

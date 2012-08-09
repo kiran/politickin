@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-08T15:58:23-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.0614729153987</party-votes-percentage>
+        <abstains-percentage type="float">4.42117510180337</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">104</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">76</abstains>
+        <cosponsored-bills type="integer">383</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">130</party-votes-percentage-rank>
+        <sponsored-bills type="integer">31</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400074</person-id>
+        <cosponsored-bills-rank type="integer">95</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">132</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">336</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">6013</blog-article-count>
+      <user-approval type="float">2.30434782608696</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">105</oc-users-tracking>
+      <contact-webform>http://lacyclay.house.gov/contact.htm</contact-webform>
+      <metavid-id>William_L_Jr_Clay</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.0614729153987</with-party-percentage>
+      <lastname>Clay</lastname>
+      <congress-office>2418 Rayburn House Office Building</congress-office>
+      <youtube-id>CongressmanClay</youtube-id>
+      <firstname>William</firstname>
+      <website>http://lacyclay.house.gov/</website>
+      <birthday type="date">1956-07-27</birthday>
+      <person-id type="integer">400074</person-id>
+      <fax>202-226-3717</fax>
+      <phone>202-225-2406</phone>
+      <religion>Roman Catholic</religion>
+      <bioguide-id>C001049</bioguide-id>
+      <votes-democratic-position type="integer">1529</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Ballot measure, primary races to be decided today</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...William Lacy Clay Jr. and Russ Carnahan. When redistricting eliminated Carnahan's former 3rd District, he chose to challenge Clay instead of seeking a seat in the 2nd District being vacated by Republican Rep. Todd Akin, who's running for U.S. Senate. Al</excerpt>
+          <fti-names>'2nd':36 '3rd':22 'akin':44 'al':51 'ballot':1 'busi':54 'carnahan':15,19 'challeng':27 'chose':25 'clay':11,28 'decid':7 'district':23,37 'elimin':18 'former':21 'instead':29 'journal':55 'jr':12 'laci':10 'loui':53 'measur':2 'primari':3 'race':4 'redistrict':17 'rep':42 'republican':41 'run':47 'russ':14 'seat':33 'seek':31 'senat':50 'st':52 'today':8 'todd':43 'u.s':49 'vacat':39 'william':9</fti-names>
+          <source-url>http://stlouis.bizjournals.com/stlouis/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_stlouis/~3/g4FW94YB0ts/ballot-measures-primary-races-to-be.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973348</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>St. Louis Business Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Representatives Clay, Carnahan face off for 1st District</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...feature contested primaries on Tuesday, few have grabbed as much attention as the 1st District, where incumbent William Lacy Clay Jr. will face 3rd District Rep. Russ Carnahan. The unusual battle came about after Missouri&#8217;s Legislature was faced with </excerpt>
+          <fti-names>'1st':7,22 '3rd':32 'attent':19 'battl':39 'came':40 'carnahan':3,36 'clay':2,28 'contest':10 'district':8,23,33 'face':4,31,47 'featur':9 'grab':16 'incumb':25 'jr':29 'kmov':49 'laci':27 'legislatur':45 'missouri':43 'much':18 'primari':11 'rep':34 'repres':1 'russ':35 'tuesday':13 'unusu':38 'william':26</fti-names>
+          <source-url>http://www.kmov.com/</source-url>
+          <url>http://www.kmov.com/news/local/Congressional-candidates-Clay-Carnahan-face-off-for-1st-District-cast-their-votes-165301186.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973347</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KMOV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Carnahan, Clay make final push in new first district</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of two Democratic U.S. Representatives after polls close Tuesday in Missouri&#8217;s new First Congressional District. U.S. Rep.&#8217;s Lacy Clay and Russ Carnahan are competing for the Democratic nomination in the new district after their previous districts w</excerpt>
+          <fti-names>'carnahan':1,33 'clay':2,30 'close':17 'compet':35 'congression':24 'democrat':12,38 'district':9,25,43,47 'final':4 'first':8,23 'laci':29 'make':3 'missouri':20 'new':7,22,42 'nomin':39 'politicmo':49 'poll':16 'previous':46 'push':5 'rep':27 'repres':14 'russ':32 'tuesday':18 'two':11 'u.s':13,26 'w':48</fti-names>
+          <source-url>http://politicmo.com/</source-url>
+          <url>http://politicmo.com/2012/08/07/carnahan-clay-make-final-push-in-new-first-district/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973346</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PoliticMo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>GOP picking a nominee for Missouri's Senate race</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Agriculture Committee; a showdown between two of Missouri's most prominent Democratic families, as Reps. Russ Carnahan and William Lacy Clay vie for a St. Louis-area seat in a race brought on by congressional redistricting; and a Democratic congressiona</excerpt>
+          <fti-names>'abc':52 'abc-kvu':51 'agricultur':10 'area':37 'austin':54 'brought':42 'carnahan':26 'clay':30 'committe':11 'congression':45 'congressiona':50 'democrat':21,49 'famili':22 'gop':1 'kvue':53 'laci':29 'loui':36 'louis-area':35 'missouri':6,17 'nomine':4 'pick':2 'promin':20 'race':9,41 'redistrict':46 'rep':24 'russ':25 'seat':38 'senat':8 'showdown':13 'st':34 'two':15 'vie':31 'william':28</fti-names>
+          <source-url>http://www.kvue.com/</source-url>
+          <url>http://www.kvue.com/news/politics/165233136.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973345</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC-KVUE Austin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Races to Watch: Missouri, Kansas, Wash., Mich.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...she is running targeting her potential opponents. Another race to watch for is the battle between Reps. Russ Carnahan and William Lacy Clay for a new redistricted St. Louis-area seat, the First District of Missouri. Kansas The question in Kansas on Tues</excerpt>
+          <fti-names>'anoth':15 'area':38 'battl':22 'blog':55 'carnahan':26 'clay':30 'district':42 'first':41 'journal':54 'kansa':5,45,49 'laci':29 'loui':37 'louis-area':36 'mich':7 'missouri':4,44 'new':33 'oppon':14 'potenti':13 'question':47 'race':1,16 'redistrict':34 'rep':24 'run':10 'russ':25 'seat':39 'st':35 'street':53 'target':11 'tue':51 'wall':52 'wash':6 'watch':3,18 'william':28</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/washwire/2012/08/07/races-to-watch-missouri-kansas-wash-mich/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973344</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Battle St. Louis: Political Scions Face Off in Redistricting Matchup</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...St. Louis is a reelection Thunderdome for two political scions. Two men enter, one man leaves. Democratic Reps. Russ Carnahan and Lacy Clay, Jr. will square off for the whole of the city, which they&#8217;ve shared in Congress for almost a decade, in a prim</excerpt>
+          <fti-names>'abc':57 'almost':51 'battl':1 'carnahan':30 'citi':43 'clay':33 'congress':49 'decad':53 'democrat':27 'enter':23 'face':6 'jr':34 'laci':32 'leav':26 'loui':3,12 'man':25 'matchup':10 'men':22 'news':58 'one':24 'polit':4,19 'prim':56 'redistrict':9 'reelect':15 'rep':28 'russ':29 'scion':5,20 'share':47 'squar':36 'st':2,11 'thunderdom':16 'two':18,21 've':46 'whole':40</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=ea57c669f803aaa7fde01919b13ef7a5</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973343</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:28-04:00</created-at>
+          <title>Carnahan-Clay race tops Mo. slate for Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...state. Russ Carnahan won election to the U.S. House of Representatives in 2004. Clay is the namesake of his father, William Lacy Clay Sr., who represented St. Louis in the House for 32 years and was succeeded by his son after the 2000 election. Those pa</excerpt>
+          <fti-names>'2000':52 '2004':22 '32':42 'bellevill':56 'carnahan':2,12 'carnahan-clay':1 'clay':3,23,32 'congress':9 'democrat':59 'elect':14,53 'father':29 'hous':18,40 'laci':31 'loui':37 'mo':6 'namesak':26 'news':58 'news-democrat':57 'pa':55 'race':4 'repres':20,35 'russ':11 'slate':7 'son':49 'sr':33 'st':36 'state':10 'succeed':46 'top':5 'u.s':17 'william':30 'won':13 'year':43</fti-names>
+          <source-url>http://www.bnd.com/</source-url>
+          <url>http://www.bnd.com/2012/08/07/2274635/carnahan-clay-race-tops-mo-slate.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973342</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Belleville News-Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:35:34-04:00</created-at>
+          <title>Poll: Clay Leads Carnahan In Missouri Dem Showdown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. William Lacy Clay is heavily favored to win his Democratic primary Tuesday, in a match-up with fellow Democratic Rep. Russ Carnahan that was triggered by redistricting, according to a new SurveyUSA poll. Clay leads Carnahan 56 percent to 35 percent</excerpt>
+          <fti-names>'35':50 '56':47 'accord':38 'carnahan':4,32,46 'clay':2,12,44 'dem':7 'democrat':19,29 'favor':15 'fellow':28 'heavili':14 'laci':11 'lead':3,45 'match':25 'match-up':24 'memo':54 'missouri':6 'new':41 'percent':48,51 'point':53 'poll':1,43 'primari':20 'redistrict':37 'rep':9,30 'russ':31 'showdown':8 'surveyusa':42 'talk':52 'trigger':35 'tuesday':21 'william':10 'win':17</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://livewire.talkingpointsmemo.com/entries/poll-clay-leads-carnahan-in-missouri-dem-showdown</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972748</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:33:35-04:00</created-at>
+          <title>Russ Carnahan ad with soul music on urban radio stations</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...voters. The district has long had a large and dominant block of black voters. Carnahan, who is white, and U.S. Rep. William Lacy Clay, who is black, are battling in Tuesday's Democratic primary. The two were put into the same district after Missouri los</excerpt>
+          <fti-names>'ad':3 'battl':39 'black':23,37 'block':21 'carnahan':2,25 'clay':34 'democrat':43 'dispatch':60 'district':13,52 'domin':20 'laci':33 'larg':18 'long':15 'los':55 'loui':57 'missouri':54 'music':6 'post':59 'post-dispatch':58 'primari':44 'put':48 'radio':9 'rep':31 'russ':1 'soul':5 'st':56 'station':10 'tuesday':41 'two':46 'u.s':30 'urban':8 'voter':11,24 'white':28 'william':32</fti-names>
+          <source-url>http://www.stltoday.com/</source-url>
+          <url>http://www.stltoday.com/news/local/govt-and-politics/political-fix/russ-carnahan-ad-with-soul-music-on-urban-radio-stations/article_f3eb43ce-deb0-11e1-af3b-0019bb30f31a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972433</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>St. Louis Post-Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:36:41-04:00</created-at>
+          <title>New districts and testy races for House incumbents</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...- In this April 19, 2010, file photo Rep. Russ Carnahan, D-Mo., left, and Rep. William Lacy Clay, D-Mo., attend a groundbreaking ceremony in St. Louis. As colleagues in Congress and heirs of prominent political families, Carnahan and Clay have cordially</excerpt>
+          <fti-names>'19':12 '2010':13 'april':11 'attend':31 'carnahan':18,48 'ceremoni':34 'clay':27,50 'colleagu':39 'congress':41 'cordial':52 'd':20,29 'd-mo':19,28 'district':2 'famili':47 'file':14 'groundbreak':33 'heir':43 'hous':7 'incumb':8 'laci':26 'left':22 'loui':37 'madison.com':53 'mo':21,30 'new':1 'photo':15 'polit':46 'promin':45 'race':5 'rep':16,24 'russ':17 'st':36 'testi':4 'william':25</fti-names>
+          <source-url>http://host.madison.com/</source-url>
+          <url>http://host.madison.com/news/national/government-and-politics/new-districts-and-testy-races-for-house-incumbents/article_1386e1ad-9e13-5d53-bbd7-44aad74e0e66.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972149</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Madison.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. William Clay [D, MO-1]</name>
+      <total-session-votes type="integer">1643</total-session-votes>
+      <sunlight-nickname>Lacy</sunlight-nickname>
+      <district>1</district>
+      <middlename>Lacy</middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:15-04:00</created-at>
+          <title>Missouri Candidates Look to Turn Supreme Court Decision Into ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Meanwhile, Democratic U.S. Rep. Russ Carnahan&amp;#39;s campaign trumpeted his support for the law and asked for help in the Democratic primary against U.S. Rep. William Lacy Clay. Appeals to help grow campaign bank ...</excerpt>
+          <fti-names>'appeal':38 'ask':25 'bank':43 'button':45 'campaign':17,42 'candid':2 'carnahan':15 'clay':37 'court':7 'decis':8 'democrat':11,30 'ed':44 'grow':41 'help':27,40 'laci':36 'law':23 'look':3 'meanwhil':10 'missouri':1 'primari':31 'rep':13,34 'russ':14 'support':20 'suprem':6 'trumpet':18 'turn':5 'u.s':12,33 'william':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ozarkareanetwork.com/localnews/%3Fp%3D4779&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFdu_FGKsD-HkE8npVY4dwEK1FrjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16386657</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ed Button</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:14-04:00</created-at>
+          <title>Police group backs Carnahan in contested first district primary</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Russ Carnahan has received support from an influential police union behind his challenge to Rep. Lacy Clay. The Missouri Fraternal Order of Police &#8211; a group of over 5300 Missouri police officers &#8211; endorsed ...</excerpt>
+          <fti-names>'5300':39 'back':3 'behind':22 'carnahan':4,13 'challeng':24 'clay':28 'contest':6 'district':8 'eli':44 'endors':43 'first':7 'fratern':31 'group':2,36 'influenti':19 'laci':27 'missouri':30,40 'offic':42 'order':32 'polic':1,20,34,41 'primari':9 'receiv':15 'rep':11,26 'russ':12 'support':16 'u.s':10 'union':21 'yokley':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicmo.com/2012/07/02/police-group-backs-carnahan-in-contested-first-district-primary/&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGGytlzvPLkTclKYS3H4A-2491URA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16386651</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eli Yokley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:15-04:00</created-at>
+          <title>Merry Poppet: Politicked Off!: MLK Would Be Appalled</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>William Lacy Clay, Jr., D-MO., the son of Rep. William Lacy Clay Sr., D-MO., a co-founder of the caucus, is quoted as saying, &#8220;Mr. Cohen asked for admission, and he got his answer. He&amp;#39;s white and the caucus is black. It&amp;#39;s time ...</excerpt>
+          <fti-names>'admiss':42 'answer':47 'appal':8 'ask':40 'black':55 'caucus':33,53 'clay':11,22 'co':29 'co-found':28 'cohen':39 'd':14,25 'd-mo':13,24 'founder':30 'got':45 'jr':12 'laci':10,21 'merri':1,59 'mlk':5 'mo':15,26 'mr':38 'politick':3 'poppet':2,60 'quot':35 'rep':19 'say':37 'son':17 'sr':23 'time':58 'white':50 'william':9,20 'would':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://themerrypoppins.blogspot.com/2012/07/mlk-would-be-appalled.html&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEn0NPMPIsX3qK456MUYgFY0WLe9Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16386656</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Merry Poppet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:15-04:00</created-at>
+          <title>Remedies for Republican Voter Suppression : Congressional Black ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The first individual efforts by a CBC member will be a voter symposium hosted by Rep. Lacy Clay (D-Mo.). Clay will be joined by Rev. Al Sharpton for an event on March 16 in his St. Louis district on voter suppression.</excerpt>
+          <fti-names>'16':42 'al':35 'black':7 'cbc':14 'clay':25,29 'congression':6 'd':27 'd-mo':26 'district':47 'effort':11 'event':39 'first':9 'host':21 'individu':10 'join':32 'laci':24 'loui':46 'march':41 'member':15 'mo':28 'remedi':1 'rep':23 'republican':3 'rev':34 'sharpton':36 'st':45 'suppress':5,50 'symposium':20 'votebeam':51 'voter':4,19,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://votebeam.wordpress.com/2012/06/29/remedies-for-republican-voter-suppression-congressional-black-caucus-leads-march-with-eric-holder-against-voter-suppression/&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHxZG3I8tapdfVAzSKEAJHTvHBNCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16386658</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>votebeam</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:14-04:00</created-at>
+          <title>St. Louis Lawmakers, Health Officials Respond to Obamacare ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. William Lacy Clay. &amp;quot;This is not a political triumph, but a victory for the American people,&amp;quot; U.S. Rep. William Lacy Clay said in response to the healthcare law. Courtesy the office of Rep. William Lacy Clay. context ...</excerpt>
+          <fti-names>'aja':48 'american':25 'clay':13,31,46 'context':47 'courtesi':39 'health':4 'healthcar':37 'j':49 'junior':50 'laci':12,30,45 'law':38 'lawmak':3 'loui':2 'obamacar':8 'offic':41 'offici':5 'peopl':26 'polit':18 'rep':10,28,43 'respond':6 'respons':34 'said':32 'st':1 'triumph':19 'u.s':9,27 'victori':22 'william':11,29,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ladue-frontenac.patch.com/articles/st-louis-lawmakers-health-officials-respond-to-obamacare-decision&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFTMUlEhzMLk4RfOboZ7Vc_tQqWqw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16386653</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Aja J. Junior</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:14-04:00</created-at>
+          <title>Congressman Clay Joins Bosnian Caucus | Advisory Council for ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>June 28, 2012 &#8211; Washington, D.C. - The Advisory Council for Bosnia and Herzegovina (ACBH) is pleased to announce that Congressman William Lacy Clay Jr., Ranking Member of the Subcommittee on Domestic Monetary ...</excerpt>
+          <fti-names>'2012':11 '28':10 'acbh':21 'advisori':6,15 'ajla':40 'announc':25 'bosnia':18 'bosnian':4 'caucus':5 'clay':2,30 'congressman':1,27 'council':7,16 'd.c':13 'domest':38 'herzegovina':20 'join':3 'jr':31 'june':9 'laci':29 'member':33 'monetari':39 'pleas':23 'rank':32 'subcommitte':36 'washington':12 'william':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.acbih.org/wp/%3Fp%3D2660&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHZcUTpipbv9kzPT0a8lQq6Ovo6iQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16386652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ajla</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:14-04:00</created-at>
+          <title>Congressman Clay &amp;#39;extremely pleased&amp;#39; with SCOTUS ruling on ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;I am extremely pleased by the Court&amp;#39;s ruling that the health care reform law is constitutional,&#8221; St. Louis Congressman Lacy Clay says. &#8220;This is not a political triumph, but a victory for the American people. I was, and continue to ...</excerpt>
+          <fti-names>'american':43 'care':21 'clay':2,30 'congressman':1,28 'constitut':25 'continu':48 'court':15 'extrem':3,11 'health':20 'jessica':50 'laci':29 'law':23 'loui':27 'machetta':51 'peopl':44 'pleas':4,12 'polit':36 'reform':22 'rule':7,17 'say':31 'scotus':6 'st':26 'triumph':37 'victori':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.missourinet.com/2012/06/28/congressman-clay-extremely-pleased-with-scotus-ruling-on-healthcare-act/&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHwSGXhM2zN4_qUdZdXjUrqLfspRw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16386650</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jessica Machetta</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-06-22T22:37:14-04:00</created-at>
+          <title>Quote of the Day: &#8220;1st Congressional District Result of a Coalition of</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Former Congressman Bill Clay gives a history lesson on the Missouri Democrat[ic]Party: Clay said he ... Video: Lacy Clay: #1 Progressive in Congress ... Similar posts: None Found. Tags: Rep. Lacy Clay &#183; Rep. Russ Carnahan ...</excerpt>
+          <fti-names>'1':33 '1st':5 'bill':15 'carnahan':47 'clay':16,27,32,44 'coalit':11 'congress':36 'congression':6 'congressman':14 'day':4 'democrat':24 'district':7 'former':13 'found':40 'give':17 'histori':19 'ic':25 'laci':31,43 'lesson':20 'missouri':23 'mopn':48 'none':39 'parti':26 'post':38 'progress':34 'quot':1 'rep':42,45 'result':8 'russ':46 'said':28 'similar':37 'tag':41 'video':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mopns.com/2012/06/21/quote-of-the-day-1st-congressional-district-result-of-a-coalition-of-republicans-and-black-democrats/&amp;sa=U&amp;ei=2CvlT-PKJ-ns2gW_3KjaCQ&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNEX92waQ_NZ5NSNhTt8acWCLyNtyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-21T01:00:00-04:00</date>
+          <id type="integer">16125538</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mopns</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-06-21T22:40:54-04:00</created-at>
+          <title>Quote of the Day: &#8220;1st Congressional District Result of a Coalition of ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Former Congressman Bill Clay gives a history lesson on the Missouri Democrat[ic]Party: Clay said he ... Video: Lacy Clay: #1 Progressive in Congress ... Similar posts: None Found. Tags: Rep. Lacy Clay &#183; Rep. Russ Carnahan ...</excerpt>
+          <fti-names>'1':33 '1st':5 'bill':15 'carnahan':47 'clay':16,27,32,44 'coalit':11 'congress':36 'congression':6 'congressman':14 'day':4 'democrat':24 'district':7 'former':13 'found':40 'give':17 'histori':19 'ic':25 'laci':31,43 'lesson':20 'missouri':23 'mopn':48 'none':39 'parti':26 'post':38 'progress':34 'quot':1 'rep':42,45 'result':8 'russ':46 'said':28 'similar':37 'tag':41 'video':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mopns.com/2012/06/21/quote-of-the-day-1st-congressional-district-result-of-a-coalition-of-republicans-and-black-democrats/&amp;sa=U&amp;ei=NdvjT9qsC4r48gSXmfTaCQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGGsGkOwkmYmU5QTOTZTuXtzQqAzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-21T01:00:00-04:00</date>
+          <id type="integer">16095122</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mopns</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400074</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:48:14-04:00</created-at>
+          <title>St. Louis Activist Hub: Congressman Clay Blasts Partisan Witch-hunt ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON, DC &#8211; Congressman Wm. Lacy Clay (D) Missouri blasted a partisan contempt citation issued by the House Oversight and Government Reform Committee today. In his opening statement Mr. Clay said: ...</excerpt>
+          <fti-names>'activist':3 'adam':42 'blast':7,20 'citat':24 'clay':6,17,40 'committe':33 'congressman':5,14 'contempt':23 'd':18 'dc':13 'govern':31 'hous':28 'hub':4 'hunt':11 'issu':25 'laci':16 'loui':2 'missouri':19 'mr':39 'open':37 'oversight':29 'partisan':8,22 'reform':32 'said':41 'st':1 'statement':38 'today':34 'washington':12 'witch':10 'witch-hunt':9 'wm':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://stlactivisthub.blogspot.com/2012/06/congressman-clay-blasts-partisan-witch.html&amp;sa=U&amp;ei=bQD1T6WkKY762AW_nfj1Bg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNG-mdCwv47JhBvXnoBKSdsCEdyNEw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16386654</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Adam</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22693</page-views-count>
+      <unaccented-name>William Clay</unaccented-name>
+      <oc-user-comments type="integer">14</oc-user-comments>
+    </person>
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float" nil="true"></party-votes-percentage>
+        <abstains-percentage type="float" nil="true"></abstains-percentage>
+        <votes-most-often-with-id type="integer" nil="true"></votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer" nil="true"></abstains>
+        <cosponsored-bills type="integer" nil="true"></cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer" nil="true"></sponsored-bills>
+        <votes-least-often-with-id type="integer" nil="true"></votes-least-often-with-id>
+        <person-id type="integer">402626</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer" nil="true"></same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer" nil="true"></sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer" nil="true"></cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer" nil="true"></opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position nil="true"></votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count nil="true"></blog-article-count>
+      <user-approval nil="true"></user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">0</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <metavid-id nil="true"></metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">0.0</with-party-percentage>
+      <lastname>Clay</lastname>
+      <congress-office nil="true"></congress-office>
+      <youtube-id nil="true"></youtube-id>
+      <firstname>William</firstname>
+      <website nil="true"></website>
+      <birthday type="date">1931-04-30</birthday>
+      <person-id type="integer">402626</person-id>
+      <fax nil="true"></fax>
+      <phone nil="true"></phone>
+      <religion nil="true"></religion>
+      <bioguide-id>C000488</bioguide-id>
+      <votes-democratic-position nil="true"></votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array"/>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>William Clay</name>
+      <total-session-votes nil="true"></total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <middlename>Lacy</middlename>
+      <recent-blogs type="array"/>
+      <page-views-count type="integer">354</page-views-count>
+      <unaccented-name>William Clay</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

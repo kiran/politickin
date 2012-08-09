@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-31T15:01:33-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.1916167664671</party-votes-percentage>
+        <abstains-percentage type="float">2.85049447353112</abstains-percentage>
+        <votes-most-often-with-id type="integer">400103</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">273</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">90</cosponsored-bills-passed-rank>
+        <abstains type="integer">49</abstains>
+        <cosponsored-bills type="integer">246</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">25</party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412228</person-id>
+        <cosponsored-bills-rank type="integer">38</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">230</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">397</votes-republican-position>
+      <fax>202-225-2266</fax>
+      <blog-article-count type="integer">7138</blog-article-count>
+      <user-approval type="float">3.42857142857143</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">144</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://sutton.house.gov/about/emailform.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.1916167664671</with-party-percentage>
+      <lastname>Sutton</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>S001174</bioguide-id>
+      <congress-office>1519 Longworth House Office Building</congress-office>
+      <firstname>Betty</firstname>
+      <website>http://sutton.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412228</person-id>
+      <phone>202-225-3401</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1573</votes-democratic-position>
+      <metavid-id>Betty_Sue_Sutton</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:57:34-04:00</created-at>
+          <title>16th District voters don&#8217;t know who&#8217;s running in congressional race, poll finds</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Minnesota group that is focusing on the race. Republican U.S. Rep. Jim Renacci has better name recognition than U.S. Rep. Betty Sutton, his Democratic opponent. More voters thought U.S. Sen. Sherrod Brown, who is actually defending his Senate seat, was </excerpt>
+          <fti-names>'16th':1 'actual':49 'akron':55 'beacon':56 'better':29 'betti':35 'brown':46 'congression':11 'defend':50 'democrat':38 'district':2 'find':14 'focus':19 'group':16 'jim':26 'journal':57 'know':6 'minnesota':15 'name':30 'oppon':39 'poll':13 'race':12,22 'recognit':31 'renacci':27 'rep':25,34 'republican':23 'run':9 'seat':53 'sen':44 'senat':52 'sherrod':45 'sutton':36 'thought':42 'u.s':24,33,43 'voter':3,41</fti-names>
+          <source-url>http://www.ohio.com/</source-url>
+          <url>http://www.ohio.com/news/local/16th-district-voters-don-t-know-who-s-running-in-congressional-race-poll-finds-1.325345?localLinksEnabled=false</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973603</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Akron Beacon Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:06:19-04:00</created-at>
+          <title>Poll Shows Betty Sutton Competitive with Jim Renacci</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Jim Renacci in Ohio. When the GOP gerrymandered Ohio so artfully in 2011, they threw Renacci in with fellow incumbent Betty Sutton (a Democrat) in a GOP-leaning district. Since then, Sutton or supportive groups have released three polls, the latter two </excerpt>
+          <fti-names>'2011':21 'art':19 'betti':3,29 'competit':5 'daili':53 'democrat':32 'district':38 'fellow':27 'gerrymand':16 'gop':15,36 'gop-lean':35 'group':44 'incumb':28 'jim':7,9 'latter':50 'lean':37 'ohio':12,17,52 'poll':1,48 'releas':46 'renacci':8,10,24 'show':2 'sinc':39 'support':43 'sutton':4,30,41 'three':47 'threw':23 'two':51</fti-names>
+          <source-url>http://www.ohiodailyblog.com/</source-url>
+          <url>http://www.ohiodailyblog.com/content/poll-shows-betty-sutton-competitive-jim-renacci</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973006</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Ohio Daily</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:15:53-04:00</created-at>
+          <title>Google launches congressional district ad targeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...against five Democratic House incumbents: West Virginia Rep. Nick Rahall, California Rep. John Garamendi (CA-03), Iowa Rep. Bruce Braley, Maine Rep. Mike Michaud and Ohio Rep. Betty Sutton. *The text of this post has been updated. Read more about: Googl</excerpt>
+          <fti-names>'-03':22 'ad':5 'betti':34 'braley':26 'bruce':25 'ca':21 'california':17 'congression':3 'democrat':9 'district':4 'five':8 'garamendi':20 'googl':1,47 'hous':10 'incumb':11 'iowa':23 'john':19 'launch':2 'main':27 'michaud':30 'mike':29 'nick':15 'ohio':32 'politico':49 'post':40 'rahal':16 'read':44 'rep':14,18,24,28,33 'sutton':35 'target':6 'text':37 'updat':43 'virginia':13 'west':12</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=b22a70b02a905e54595515b2ecc05b1f</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971856</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:35:08-04:00</created-at>
+          <title>NRCC uses tax vote against five key House Democrats</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...1st District, Garamendi of California's 3rd District, Mike Michaud of Maine's 2nd, Nick Rahall of West Virginia's 3rd, and Betty Sutton of Ohio's 13th, who is currently running in the 16th. All five lawmakers voted Wednesday with a majority of Democrats</excerpt>
+          <fti-names>'13th':37 '16th':44 '1st':10 '2nd':23 '3rd':16,30 'abc':55 'betti':32 'california':14 'current':40 'democrat':9,54 'district':11,17 'five':6,46 'garamendi':12 'hous':8 'key':7 'lawmak':47 'main':21 'major':52 'michaud':19 'mike':18 'news':56 'nick':24 'nrcc':1 'ohio':35 'rahal':25 'run':41 'sutton':33 'tax':3 'use':2 'virginia':28 'vote':4,48 'wednesday':49 'west':27</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/nrcc-tax-vote-key-house-democrats/story?id=16916034</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970996</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:00:08-04:00</created-at>
+          <title>Sutton Internal Poll: Dead Heat With Renacci</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...internal poll conducted two weeks ago for Democratic Rep. Betty Sutton's campaign found a deadlocked member-versus-member race in Ohio's 16th Congressional District, confirming the results of early Democratic surveys. Sutton took 42 percent to freshman </excerpt>
+          <fti-names>'16th':32 '42':44 'ago':13 'betti':17 'campaign':20 'conduct':10 'confirm':35 'congression':33 'dead':4 'deadlock':23 'democrat':15,40 'district':34 'earli':39 'found':21 'freshman':47 'heat':5 'intern':2,8 'journal':49 'member':25,27 'member-versus-memb':24 'nation':48 'ohio':30 'percent':45 'poll':3,9 'race':28 'renacci':7 'rep':16 'result':37 'survey':41 'sutton':1,18,42 'took':43 'two':11 'versus':26 'week':12</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/sutton-internal.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970015</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:00:07-04:00</created-at>
+          <title>Democratic poll shows Rep. Betty Sutton with slim lead over Rep. Jim Renacci</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...-- November's congressional contest between GOP Rep. Jim Renacci of Wadsworth and Democratic Rep. Betty Sutton of Copley Township remains tight, according to poll results that Sutton's campaign released this morning. The incumbents were put into the sam</excerpt>
+          <fti-names>'accord':35 'betti':5,28 'campaign':42 'cleveland.com':53 'congression':16 'contest':17 'copley':31 'democrat':1,26 'gop':19 'incumb':47 'jim':12,21 'lead':9 'morn':45 'novemb':14 'poll':2,37 'put':49 'releas':43 'remain':33 'renacci':13,22 'rep':4,11,20,27 'result':38 'sam':52 'show':3 'slim':8 'sutton':6,29,40 'tight':34 'township':32 'wadsworth':24</fti-names>
+          <source-url>http://www.cleveland.com/</source-url>
+          <url>http://www.cleveland.com/open/index.ssf/2012/08/democratic_poll_shows_rep_bett.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970014</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:33-04:00</created-at>
+          <title>Republicans Outraising Democratic Rivals in House Races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;Congresswoman Hayworth has spent her time in Washington ... Ohio Republican Jim Renacci reported $1.5 million cash on hand compared with $903,710 for Democrat Betty Sutton. The Republican financial advantage has been amplified by spending ...</excerpt>
+          <fti-names>'1.5':21 '710':29 '903':28 'advantag':37 'amplifi':40 'betti':32 'bloomberg':43 'cash':23 'compar':26 'congresswoman':8 'democrat':3,31 'financi':36 'hand':25 'hayworth':9 'hous':6 'jim':18 'million':22 'ohio':16 'outrais':2 'race':7 'renacci':19 'report':20 'republican':1,17,35 'rival':4 'spend':42 'spent':11 'sutton':33 'time':13 'washington':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-31/republicans-outraising-democratic-rivals-in-house-races.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:21:47-04:00</date>
+          <id type="integer">16967319</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:35:31-04:00</created-at>
+          <title>Republican Rep. Steve LaTourette unexpectedly retires</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...over all. Was also almost a Congresswoman herself, she came in second in the primary in OH-13 in 2006, behind Betty Sutton. Not trustworthy. A nominal Dem who has her own personal agenda and is more comfortable with Republicans than Dems. &quot;We must not c</excerpt>
+          <fti-names>'-13':24 '2006':26 'agenda':40 'almost':11 'also':10 'behind':27 'betti':28 'c':52 'came':16 'comfort':44 'congresswoman':13 'daili':53 'dem':34,48 'kos':54 'latourett':4 'must':50 'nomin':33 'oh':23 'person':39 'primari':21 'rep':2 'republican':1,46 'retir':6 'second':18 'steve':3 'sutton':29 'trustworthi':31 'unexpect':5</fti-names>
+          <source-url>http://www.dailykos.com/</source-url>
+          <url>http://feeds.dailykos.com/~r/dailykos/index/~3/FJUBbgEagVs/-Republican-Rep-Steve-LaTourette-unexpectedly-retires</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961753</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Kos</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:35:28-04:00</created-at>
+          <title>Citizens group highlights issues for Renacci, Sutton</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Renacci&#8217;s campaign had a representative at the event on Friday and Sunday ... Jim Renacci has implored Betty Sutton to cease hiding her record behind false personal attacks and to finally join him in a serious and substantive debate on our economy ...</excerpt>
+          <fti-names>'akron':50 'attack':35 'beacon':51 'behind':32 'betti':25 'campaign':10 'ceas':28 'citizen':1 'debat':46 'economi':49 'event':16 'fals':33 'final':38 'friday':18 'group':2 'hide':29 'highlight':3 'implor':24 'issu':4 'jim':21 'join':39 'journal':52 'person':34 'record':31 'renacci':6,8,22 'repres':13 'serious':43 'substant':45 'sunday':20 'sutton':7,26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ohio.com/news/politics/citizens-group-highlights-issues-for-renacci-sutton-1.323372?localLinksEnabled=false</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T22:57:04-04:00</date>
+          <id type="integer">16961752</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Akron Beacon Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:40:31-04:00</created-at>
+          <title>Citizens group highlights issues for Renacci, Sutton</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Renacci&#8217;s campaign had a representative at the event on Friday and Sunday ... Jim Renacci has implored Betty Sutton to cease hiding her record behind false personal attacks and to finally join him in a serious and substantive debate on our economy ...</excerpt>
+          <fti-names>'akron':50 'attack':35 'beacon':51 'behind':32 'betti':25 'campaign':10 'ceas':28 'citizen':1 'debat':46 'economi':49 'event':16 'fals':33 'final':38 'friday':18 'group':2 'hide':29 'highlight':3 'implor':24 'issu':4 'jim':21 'join':39 'journal':52 'person':34 'record':31 'renacci':6,8,22 'repres':13 'serious':43 'substant':45 'sunday':20 'sutton':7,26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ohio.com/business/citizens-group-highlights-issues-for-renacci-sutton-1.323372</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T22:57:04-04:00</date>
+          <id type="integer">16950625</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Akron Beacon Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Betty Sutton [D, OH-13]</name>
+      <total-session-votes type="integer">1670</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepBettySutton</youtube-id>
+      <district>13</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:38:48-04:00</created-at>
+          <title>DownWithTyranny!: &amp;quot;Ex&amp;quot;-Blue Dog Steve Israel Is Trying To Use The ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Similar situation in Israel&amp;#39;s second pick, AZ-2, a new district where a primary will determine if Israel&amp;#39;s Republican-leaning fake Democrat, Ron Barber, is the nominee or if progressive state Rep. Matt Heinz represents the party against ... Well, I</excerpt>
+          <fti-names>'-2':20 'az':19 'barber':38 'blue':3 'democrat':36 'determin':28 'district':23 'dog':4 'downwithtyranni':1,55 'ex':2 'fake':35 'heinz':48 'israel':6,15,30 'lean':34 'matt':47 'new':22 'nomine':41 'parti':51 'pick':18 'primari':26 'progress':44 'rep':46 'repres':49 'republican':33 'republican-lean':32 'ron':37 'second':17 'similar':12 'situat':13 'state':45 'steve':5 'tri':8 'use':10 'well':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/ex-blue-dog-steve-israel-is-trying-to.html&amp;sa=U&amp;ei=ImQWUOiJMY-Q8wSXm4HQBQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHfDfeak-rnApwFRGZQcr5Cwc_wbQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950606</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:03:24-04:00</created-at>
+          <title>DownWithTyranny!: &amp;quot;Ex&amp;quot;-Blue Dog Steve Israel Is Trying To Use The ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Similar situation in Israel&amp;#39;s second pick, AZ-2, a new district where a primary will determine if Israel&amp;#39;s Republican-leaning fake Democrat, Ron Barber, is the nominee or if progressive state Rep. Matt Heinz represents the party against ... Well, I</excerpt>
+          <fti-names>'-2':20 'az':19 'barber':38 'blue':3 'democrat':36 'determin':28 'district':23 'dog':4 'downwithtyranni':1,55 'ex':2 'fake':35 'heinz':48 'israel':6,15,30 'lean':34 'matt':47 'new':22 'nomine':41 'parti':51 'pick':18 'primari':26 'progress':44 'rep':46 'repres':49 'republican':33 'republican-lean':32 'ron':37 'second':17 'similar':12 'situat':13 'state':45 'steve':5 'tri':8 'use':10 'well':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/ex-blue-dog-steve-israel-is-trying-to.html&amp;sa=U&amp;ei=Se4UUJ2BK8js0gGFkoG4CA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFZLmUed3zuwMgyp01BSxmu0iFC0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931274</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:03:25-04:00</created-at>
+          <title>Renacci announces he&amp;#39;s giving back tainted donations in whiny ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>But unlike Mandel, who quietly gave the money back without any comment or fanfare , Renacci made the announcement in a two page letter attacking his opponent, Representative Betty Sutton, accusing her of &#8220;empty ...</excerpt>
+          <fti-names>'accus':40 'announc':2,28 'attack':34 'back':6,19 'betti':38 'comment':22 'donat':8 'empti':43 'fanfar':24 'gave':16 'give':5 'joseph':44 'letter':33 'made':26 'mandel':13 'money':18 'oppon':36 'page':32 'quiet':15 'renacci':1,25 'repres':37 'sutton':39 'taint':7 'two':31 'unlik':12 'whini':10 'without':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.plunderbund.com/2012/07/25/renacci-announces-hes-giving-back-tainted-donations-in-whiny-letter-to-opponent/&amp;sa=U&amp;ei=Se4UUJ2BK8js0gGFkoG4CA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGz2uZONarRbtHrBOxU0PDP9ETNFw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16931278</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:35:24-04:00</created-at>
+          <title>Tea Party at Perrysburg: Ohio&amp;#39;s Contribution To Occupy Wall Street</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Related to my partner&amp;#39;s post about the organizations which support Occupy Wall Street I feel we would be remiss if we did not recognize Ohio Congresswoman Betty Sutton for her contributions to the decline of civil behavior ...</excerpt>
+          <fti-names>'behavior':49 'betti':39 'civil':48 'congresswoman':38 'contribut':7,43 'declin':46 'feel':27 'hoosierman':50 'occupi':9,23 'ohio':5,37 'organ':20 'parti':2 'partner':15 'perrysburg':4 'post':17 'recogn':36 'relat':12 'remiss':31 'street':11,25 'support':22 'sutton':40 'tea':1 'wall':10,24 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://teapartyatperrysburg.blogspot.com/2012/07/ohios-contribution-to-occupy-wall-street.html&amp;sa=U&amp;ei=-l0TUOzIN4-x0QHY_oGACw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNE6Aujl-fCykMEXcnsOY1Zxlox8SA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923974</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Hoosierman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:42:45-04:00</created-at>
+          <title>Tea Party at Perrysburg: Ohio&amp;#39;s Contribution To Occupy Wall Street</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Related to my partner&amp;#39;s post about the organizations which support Occupy Wall Street I feel we would be remiss if we did not recognize Ohio Congresswoman Betty Sutton for her contributions to the decline of civil behavior ...</excerpt>
+          <fti-names>'behavior':49 'betti':39 'civil':48 'congresswoman':38 'contribut':7,43 'declin':46 'feel':27 'hoosierman':50 'occupi':9,23 'ohio':5,37 'organ':20 'parti':2 'partner':15 'perrysburg':4 'post':17 'recogn':36 'relat':12 'remiss':31 'street':11,25 'support':22 'sutton':40 'tea':1 'wall':10,24 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://teapartyatperrysburg.blogspot.com/2012/07/ohios-contribution-to-occupy-wall-street.html&amp;sa=U&amp;ei=SSoSULnNCYie8gSAwoHYCA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHKA37Q1LmYRG5-YRHW4vSrzmELPQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893388</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Hoosierman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:42:42-04:00</created-at>
+          <title>Renacci announces he&amp;#39;s giving back tainted donations in whiny ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>But unlike Mandel, who quietly gave the money back without any comment or fanfare , Renacci made the announcement in a two page letter attacking his opponent, Representative Betty Sutton, accusing her of &#8220;empty ...</excerpt>
+          <fti-names>'accus':40 'announc':2,28 'attack':34 'back':6,19 'betti':38 'comment':22 'donat':8 'empti':43 'fanfar':24 'gave':16 'give':5 'joseph':44 'letter':33 'made':26 'mandel':13 'money':18 'oppon':36 'page':32 'quiet':15 'renacci':1,25 'repres':37 'sutton':39 'taint':7 'two':31 'unlik':12 'whini':10 'without':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.plunderbund.com/2012/07/25/renacci-announces-hes-giving-back-tainted-donations-in-whiny-letter-to-opponent/&amp;sa=U&amp;ei=SSoSULnNCYie8gSAwoHYCA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNH0EPPp4f9qke92ua34RVZjqh1v5w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893384</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:38:39-04:00</created-at>
+          <title>Higgins, Great Lakes Colleagues Warn of Immediate Need - NY-27</title>
+          <contains-term>representative</contains-term>
+          <excerpt>... Robert Latta, Representative Gary Peters, Representative Mike Quigley, Representative Mike Rogers, Representative Paul Ryan, Representative Betty Sutton, Representative Fred Upton, and Representative Tim Walberg.</excerpt>
+          <fti-names>'-27':10 'betti':26 'colleagu':4 'fred':29 'gari':14 'great':2 'higgin':1 'higgins.house.gov':35 'immedi':7 'lake':3 'latta':12 'mike':17,20 'need':8 'ny':9 'paul':23 'peter':15 'quigley':18 'repres':13,16,19,22,25,28,32 'robert':11 'roger':21 'ryan':24 'sutton':27 'tim':33 'upton':30 'walberg':34 'warn':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://higgins.house.gov/2012/07/higgins-great-lakes-colleagues-warn-of-immediate-need-to-act-on-asian-carp-in-great-lakes.shtml&amp;sa=U&amp;ei=ImQWUOiJMY-Q8wSXm4HQBQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEWgw6J0P2ID6DHERBDJ35gX9s0YQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16950600</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://higgins.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:03:24-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Betty Sutton (OH Democrat), Yes. Rep. C. Thompson (CA Democrat), Yes. Rep. Bennie Thompson (MS Democrat), Yes. Rep. John Tierney (MA Democrat), Yes. Rep. Paul Tonko (NY Democrat), Yes. Rep. Edolphus Towns (NY Democrat), Yes ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'benni':22 'betti':10 'c':16 'ca':18 'democrat':13,19,25,31,37,43 'drill':9 'edolphus':40 'hr.6168':1 'john':28 'ma':30 'ms':24 'ny':36,42 'obama':3 'offshor':8 'oh':12 'paul':34 'presid':2 'propos':5 'rep':15,21,27,33,39 'sutton':11 'thompson':17,23 'tierney':29 'tonko':35 'town':41 'www.votetocracy.com':45 'yes':14,20,26,32,38,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=Se4UUJ2BK8js0gGFkoG4CA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGWrNTqlocAHosFISMU4P7a4KbecQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16931276</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:03:23-04:00</created-at>
+          <title>Higgins, Great Lakes Colleagues Warn of Immediate Need - NY-27</title>
+          <contains-term>representative</contains-term>
+          <excerpt>... Robert Latta, Representative Gary Peters, Representative Mike Quigley, Representative Mike Rogers, Representative Paul Ryan, Representative Betty Sutton, Representative Fred Upton, and Representative Tim Walberg.</excerpt>
+          <fti-names>'-27':10 'betti':26 'colleagu':4 'fred':29 'gari':14 'great':2 'higgin':1 'higgins.house.gov':35 'immedi':7 'lake':3 'latta':12 'mike':17,20 'need':8 'ny':9 'paul':23 'peter':15 'quigley':18 'repres':13,16,19,22,25,28,32 'robert':11 'roger':21 'ryan':24 'sutton':27 'tim':33 'upton':30 'walberg':34 'warn':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://higgins.house.gov/2012/07/higgins-great-lakes-colleagues-warn-of-immediate-need-to-act-on-asian-carp-in-great-lakes.shtml&amp;sa=U&amp;ei=Se4UUJ2BK8js0gGFkoG4CA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHpiUqvfxbLWOeBlSovKDV7EkntJQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16931273</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://higgins.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412228</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:35:24-04:00</created-at>
+          <title>Renacci announces he&amp;#39;s giving back tainted donations in whiny ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>But unlike Mandel, who quietly gave the money back without any comment or fanfare , Renacci made the announcement in a two page letter attacking his opponent, Representative Betty Sutton, accusing her of &#8220;empty ...</excerpt>
+          <fti-names>'accus':40 'announc':2,28 'attack':34 'back':6,19 'betti':38 'comment':22 'donat':8 'empti':43 'fanfar':24 'gave':16 'give':5 'joseph':44 'letter':33 'made':26 'mandel':13 'money':18 'oppon':36 'page':32 'quiet':15 'renacci':1,25 'repres':37 'sutton':39 'taint':7 'two':31 'unlik':12 'whini':10 'without':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.plunderbund.com/2012/07/25/renacci-announces-hes-giving-back-tainted-donations-in-whiny-letter-to-opponent/&amp;sa=U&amp;ei=-l0TUOzIN4-x0QHY_oGACw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNE7jSirdH8lLrgAknL482tyQonwjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20984</page-views-count>
+      <unaccented-name>Betty Sutton</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

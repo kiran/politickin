@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.9448441247002</party-votes-percentage>
+        <abstains-percentage type="float">2.96684118673647</abstains-percentage>
+        <votes-most-often-with-id type="integer">400175</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">145</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">274</cosponsored-bills-passed-rank>
+        <abstains type="integer">51</abstains>
+        <cosponsored-bills type="integer">186</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">278</party-votes-percentage-rank>
+        <sponsored-bills type="integer">16</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400046</person-id>
+        <cosponsored-bills-rank type="integer">288</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">201</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">11</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1567</votes-republican-position>
+      <blog-article-count type="integer">7794</blog-article-count>
+      <fax>202-225-5524</fax>
+      <user-approval type="float">3.22727272727273</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">191</oc-users-tracking>
+      <contact-webform>http://www.house.gov/brady/contact_page.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.9448441247002</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Brady</lastname>
+      <congress-office>301 Cannon House Office Building</congress-office>
+      <middlename>P.</middlename>
+      <firstname>Kevin</firstname>
+      <website>http://www.house.gov/brady/</website>
+      <birthday type="date">1955-04-11</birthday>
+      <person-id type="integer">400046</person-id>
+      <phone>202-225-4901</phone>
+      <religion>Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">325</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:37:19-04:00</created-at>
+          <title>Republican Response to July Jobs Report</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...transcript below to create clip This term does not appear Click text to jump within video Rep. Kevin Brady, (R-TX), discusses the GOP's reaction to the jobs report and weighs in on how to increase employment, avoid the fiscal cliff and work out a bipart</excerpt>
+          <fti-names>'appear':16 'avoid':46 'bipart':54 'bradi':25 'click':17 'cliff':49 'clip':11 'cnbc':55 'creat':10 'discuss':29 'employ':45 'fiscal':48 'gop':31 'increas':44 'job':5,36 'juli':4 'jump':20 'kevin':24 'r':27 'r-tx':26 'reaction':33 'rep':23 'report':6,37 'republican':1 'respons':2 'term':13 'text':18 'transcript':7 'tx':28 'video':22 'weigh':39 'within':21 'work':51</fti-names>
+          <source-url>http://www.cnbc.com/</source-url>
+          <url>http://www.cnbc.com/id/15840232?video=3000106598&amp;play=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971508</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNBC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:47:11-04:00</created-at>
+          <title>Rep. Brady: House to Pass Bill With Timetable for Tax Reform</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Kevin Brady of Texas told Newsmax.TV that President Barack Obama is obsessed with tax increases and is dug in so heavily on the issue that real progress on the tax question won&#8217;t be made until after the election. Brady, a Republican representing the 8</excerpt>
+          <fti-names>'8':56 'barack':20 'bill':6 'bradi':2,13,51 'dug':29 'elect':50 'heavili':32 'hous':3 'increas':26 'issu':35 'kevin':12 'made':46 'newsmax':57 'newsmax.tv':17 'obama':21 'obsess':23 'pass':5 'presid':19 'progress':38 'question':42 'real':37 'reform':11 'rep':1 'repres':54 'republican':53 'tax':10,25,41 'texa':15 'timet':8 'told':16 'won':43</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/US/brady-obama-tax-increases/2012/08/02/id/447346</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970445</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:47:15-04:00</created-at>
+          <title>Global IT trade barriers threaten cloud, software providers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...and the industries they serve as they hammer out new trade agreements or revise existing ones. Also on hand was Rep. Kevin Brady (R-Texas), who chairs the House Ways and Means Committee's subcommittee on trade. Brady professed concern at the numerous in</excerpt>
+          <fti-names>'agreement':20 'also':25 'barrier':4 'bradi':31,47 'chair':36 'cloud':6 'committe':42 'concern':49 'exist':23 'global':1 'hammer':16 'hand':27 'hous':38 'industri':11 'itworld.com':54 'kevin':30 'mean':41 'new':18 'numer':52 'one':24 'profess':48 'provid':8 'r':33 'r-texa':32 'rep':29 'revis':22 'serv':13 'softwar':7 'subcommitte':44 'texa':34 'threaten':5 'trade':3,19,46 'way':39</fti-names>
+          <source-url>http://www.itworld.com/</source-url>
+          <url>http://www.itworld.com/cloud-computing/288256/global-it-trade-barriers-threaten-cloud-software-providers</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970446</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ITWorld.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:04-04:00</created-at>
+          <title>Federal Reserve announces no new steps on economy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...only when the private sector is confident that Washington will not continue to spend, tax and over-regulate it,&quot; said Rep. Kevin Brady (R-Texas), the vice chairman of the Joint Economic Committee. &quot;Absent a Eurozone collapse, the Fed has effectively rea</excerpt>
+          <fti-names>'absent':44 'announc':3 'bradi':32 'chairman':38 'collaps':47 'committe':43 'confid':15 'continu':20 'econom':42 'economi':8 'effect':51 'eurozon':46 'fed':49 'feder':1 'hill':54 'joint':41 'kevin':31 'new':5 'over-regul':25 'privat':12 'r':34 'r-texa':33 'rea':52 'regul':27 'rep':30 'reserv':2 'said':29 'sector':13 'spend':22 'step':6 'tax':23 'texa':35 'vice':37 'washington':17</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/on-the-money/economy/241593-federal-reserve-announces-no-new-steps-on-economy</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969525</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:03-04:00</created-at>
+          <title>Why The Death Tax Is The Dumb Tax</title>
+          <contains-term>republican</contains-term>
+          <excerpt>So begins &#8220;Cost and Consequences of the Federal Estate Tax&#8221; published last week by the Republican Staff of the Joint Economic Committee, whose vice chairman, Representative Kevin Brady of Texas, continues to make his mark as a leader of the ...</excerpt>
+          <fti-names>'begin':10 'bradi':36 'chairman':33 'committe':30 'consequ':13 'continu':39 'cost':11 'death':3 'dumb':7 'econom':29 'estat':17 'feder':16 'forb':49 'joint':28 'kevin':35 'last':20 'leader':46 'make':41 'mark':43 'publish':19 'repres':34 'republican':24 'staff':25 'tax':4,8,18 'texa':38 'vice':32 'week':21 'whose':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.forbes.com/sites/charleskadlec/2012/07/30/why-the-death-tax-is-the-dumb-tax/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T18:52:30-04:00</date>
+          <id type="integer">16959493</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:04-04:00</created-at>
+          <title>House roommates: A lot like college</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&quot;People think we have a glamorous life,&quot; said Rep. Kevin Brady of Texas. &quot;It's a lot like college.&quot; That's because he lives with three other Republican House members, Steve Scalise of Louisiana, John Shimkus of Illinois and and Erik Paulsen of Minnesota.</excerpt>
+          <fti-names>'bradi':17 'colleg':6,25 'erik':47 'examin':52 'glamor':12 'hous':1,35 'illinoi':44 'john':41 'kevin':16 'life':13 'like':5,24 'live':30 'lot':4,23 'louisiana':40 'member':36 'minnesota':50 'paulsen':48 'peopl':7 'rep':15 'republican':34 'roommat':2 'said':14 'scalis':38 'shimkus':42 'steve':37 'texa':19 'think':8 'three':32 'washington':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://washingtonexaminer.com/house-roommates-a-lot-like-college/article/2503492</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T12:04:29-04:00</date>
+          <id type="integer">16959494</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:09:00-04:00</created-at>
+          <title>For Dems, Virginia is for abortion</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...House members sometimes feels a little more like a frat house than royalty. &quot;People think we have a glamorous life,&quot; said Rep. Kevin Brady of Texas. &quot;It's a lot like college.&quot; That's because he lives with three other Republican House members, Steve Scal</excerpt>
+          <fti-names>'abort':6 'bradi':30 'colleg':38 'dem':2 'examin':53 'feel':10 'frat':16 'glamor':25 'hous':7,17,48 'kevin':29 'life':26 'like':14,37 'littl':12 'live':43 'lot':36 'member':8,49 'peopl':20 'rep':28 'republican':47 'royalti':19 'said':27 'scal':51 'sometim':9 'steve':50 'texa':32 'think':21 'three':45 'virginia':3 'washington':52</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/for-dems-virginia-is-for-abortion/article/2503457?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945326</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:32:48-04:00</created-at>
+          <title>Warren&#8217;s star rose in D.C. battles</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;I thought her leadership was lacking,&#8221; said Representative Kevin Brady, a Texas Republican who called for Warren&#8217;s resignation. &#8220;At the end, ultimately, I determined her focus was about her, not about the oversight.&#8221;</excerpt>
+          <fti-names>'battl':7 'boston':42 'bradi':17 'call':22 'd.c':6 'determin':32 'end':29 'focus':34 'globe':43 'kevin':16 'lack':13 'leadership':11 'oversight':41 'repres':15 'republican':20 'resign':26 'rose':4 'said':14 'star':3 'texa':19 'thought':9 'ultim':30 'warren':1,24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://articles.boston.com/2012-07-29/news/32925890_1_elizabeth-warren-timothy-geithner-treasury-secretary</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T19:59:18-04:00</date>
+          <id type="integer">16966098</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston Globe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:41:52-04:00</created-at>
+          <title>Brady addresses possible tax hikes</title>
+          <contains-term>representative</contains-term>
+          <excerpt>ORANGE &#8212; U.S. Representative Kevin Brady (Texas - 8th District) made an appearance in Orange County Friday to address growing concerns over government spending and possible tax hikes. Brady made a special appearance during a luncheon at the Brown Center </excerpt>
+          <fti-names>'8th':12 'address':2,22 'appear':16,36 'bradi':1,10,32 'brown':42 'center':43 'concern':24 'counti':19 'district':13 'friday':20 'govern':26 'grow':23 'hike':5,31 'kevin':9 'leader':45 'luncheon':39 'made':14,33 'orang':6,18,44 'possibl':3,29 'repres':8 'special':35 'spend':27 'tax':4,30 'texa':11 'u.s':7</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://orangeleader.com/local/x328556250/Brady-addresses-possible-tax-hikes</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T10:05:10-04:00</date>
+          <id type="integer">16928948</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Orange Leader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:08:20-04:00</created-at>
+          <title>NCBA: House tackles death tax, Senate strays</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Bacus gave some good news to cattlemen seeking permanent relief from the estate tax. Bacus reported that Congressman Kevin Brady (R-Texas) has 218 cosponsors on his Death Tax Repeal Permanency Act. This legislation would essentially provide full ...</excerpt>
+          <fti-names>'218':32 'act':40 'bacus':8,22 'bradi':27 'cattlemen':14 'cattlenetwork.com':47 'congressman':25 'cosponsor':33 'death':4,36 'essenti':44 'estat':20 'full':46 'gave':9 'good':11 'hous':2 'kevin':26 'legisl':42 'ncba':1 'news':12 'perman':16,39 'provid':45 'r':29 'r-texa':28 'relief':17 'repeal':38 'report':23 'seek':15 'senat':6 'stray':7 'tackl':3 'tax':5,21,37 'texa':30 'would':43</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.cattlenetwork.com/cattle-news/association/ncba/NCBA-House-tackles-death-tax-Senate-strays-164072376.html?view=all</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:46:10-04:00</date>
+          <id type="integer">16945318</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CattleNetwork.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>B000755</bioguide-id>
+      <metavid-id>Kevin_Brady</metavid-id>
+      <name>Rep. Kevin Brady [R, TX-8]</name>
+      <total-session-votes type="integer">1668</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>8</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:06:01-04:00</created-at>
+          <title>Texas Department of Agriculture: Death Tax is Killing Texas Farms</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Kevin Brady of Texas has been vigorously advocating a repeal of the death tax for quite some time, and I couldn&amp;#39;t agree with him more. Taxing farm families out of business jeopardizes our nation&amp;#39;s food, fiber and timber ...</excerpt>
+          <fti-names>'advoc':19 'agre':34 'agricultur':4,55 'bradi':13 'busi':43 'couldn':32 'death':5,24 'depart':2,53 'famili':40 'farm':10,39 'fiber':49 'food':48 'jeopard':44 'kevin':12 'kill':8 'nation':46 'quit':27 'rep':11 'repeal':21 'tax':6,25,38 'texa':1,9,15,52 'timber':51 'time':29 'vigor':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://commissionertoddstaples.blogspot.com/2012/07/death-tax-is-killing-texas-farms.html&amp;sa=U&amp;ei=DfoVUMjaLpC30QHT74C4CQ&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGVffAQVycBnZCiZoxAEoJhWi4UTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16945271</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Texas Department of Agriculture</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:06:03-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Dan Boren (OK Democrat), No. Rep. Charles Boustany (LA Republican), No. Rep. Kevin Brady (TX Republican), No. Rep. Mo Brooks (AL Republican), No. Rep. Paul Broun (GA Republican), No. Rep. Vern Buchanan (FL Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'al':31 'boren':12 'boustani':18 'bradi':24 'brook':30 'broun':36 'buchanan':42 'charl':17 'dan':11 'democrat':14 'drill':9 'fl':43 'ga':37 'hr.6168':1 'kevin':23 'la':19 'mo':29 'obama':3 'offshor':8 'ok':13 'paul':35 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'republican':20,26,32,38,44 'tx':25 'vern':41 'www.votetocracy.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=DfoVUMjaLpC30QHT74C4CQ&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEFkdTdaUG39OtPhYuAkigq9Yfn6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16945275</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:05:58-04:00</created-at>
+          <title>Rep. Kevin Brady at Ways &amp;amp; Means Full Cmte hearing on Tax ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Kevin Brady questions witnesses on how the current tax system affects U.S. manufacturers and the impact of comprehensive Tax Reform on job creation during a House Ways and Means Full Committee hearing ...</excerpt>
+          <fti-names>'admin':45 'affect':23 'bradi':3,14 'cmte':8 'committe':43 'comprehens':30 'congressman':12 'creation':35 'current':20 'full':7,42 'hear':9,44 'hous':38 'impact':28 'job':34 'kevin':2,13 'manufactur':25 'mean':6,41 'question':15 'reform':32 'rep':1 'system':22 'tax':11,21,31 'u.s':24 'way':5,39 'wit':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yzgtax.com/tax-reform/rep-kevin-brady-at-ways-means-full-cmte-hearing-on-tax-reform-u-s-manufacturing-sector-7-19-12&amp;sa=U&amp;ei=DfoVUMjaLpC30QHT74C4CQ&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNGRXPUNZKn8QkcEtopZgHVclt9-BA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16945268</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:46:39-04:00</created-at>
+          <title>Updates from Congressman Kevin Brady | the Net economy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Kevin Brady Townhall with McDermott International Employees 07-16-2012, YouTube [VIDEO 50:00]; Rep. Kevin Brady Cyberonics Employee Town Hall Meeting 07-16-2012, YouTube [VIDEO 33:23]; Rep. Kevin Brady ...</excerpt>
+          <fti-names>'-16':17,32 '-2012':18,33 '00':22 '07':16,31 '23':37 '33':36 '50':21 'bradi':5,10,25,40 'congressman':3 'cyberon':26 'economi':8,43 'employe':15,27 'hall':29 'intern':14 'kevin':4,9,24,39 'mcdermott':13 'meet':30 'net':7,42 'rep':23,38 'town':28 'townhal':11 'updat':1 'video':20,35 'youtub':19,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theneteconomy.wordpress.com/2012/07/22/updates-from-congressman-kevin-brady-21/&amp;sa=U&amp;ei=DLsMULSsHYfY2QX_tHk&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNFtk2kktxmiklE89Ed5ybcsNd3KQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16811968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>the Net economy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:39:17-04:00</created-at>
+          <title>Local GOP candidates face runoff election July 31 &#8211; Your Houston ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The new Congressman will replace the previous ones which were U.S. Rep. Kevin Brady and U.S. Rep. Ted Poe. The winner of the race will face Democratic candidate Max Martin in November. Read: Local GOP candidates ...</excerpt>
+          <fti-names>'31':8 'bradi':24 'candid':3,38,46 'congressman':13 'democrat':37 'elect':6 'face':4,36 'gop':2,45 'houston':10 'juli':7 'kevin':23 'local':1,44 'martin':40 'max':39 'new':12 'novemb':42 'one':18 'poe':29 'previous':17 'race':34 'read':43 'rep':22,27 'replac':15 'rick':47 'runoff':5 'ted':28 'u.s':21,26 'winner':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://libertycountygop.org/2012/07/local-gop-candidates-face-runoff-election-july-31-your-houston-news-news/&amp;sa=U&amp;ei=UdAEUMHgIYOZ2QWvoMmxBQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHPy8ZIb5nptcw21d5gutBrtJb6Zg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16676010</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rick</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:05:50-04:00</created-at>
+          <title>Rep. Kevin Brady (R-TX) on This Week&amp;#39;s Newsmakers | C-SPAN</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Kevin Brady(R-TX) , one of the top-ranking House Republicans on economic issues, talks about the future of the Bush-era tax cuts and tax and spending legislation, GOP reaction to President Obama&amp;#39;s tax plan and jobs ...</excerpt>
+          <fti-names>'/johnrouda.com':60 'bradi':3,17 'bush':39 'bush-era':38 'c':13 'c-span':12 'cut':42 'econom':30 'era':40 'futur':35 'gop':48 'hous':27 'issu':31 'job':57 'kevin':2,16 'legisl':47 'newsmak':11 'obama':52 'one':21 'plan':55 'presid':51 'r':5,19 'r-tx':4,18 'rank':26 'reaction':49 'rep':1,15 'republican':28 'span':14 'spend':46 'talk':32 'tax':41,44,54 'top':25 'top-rank':24 'tx':6,20 'week':9 'www.c-span.org':59 'www.c-span.org/johnrouda.com':58</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Kevin-Brady-R-TX-on-This-Week39s-Newsmakers/10737432297/&amp;sa=U&amp;ei=DfoVUMjaLpC30QHT74C4CQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGoebiA9pvh8Uq8X8py5GVRG_Jv5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16945265</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:46:37-04:00</created-at>
+          <title>Rep. Kevin Brady (R-TX) on This Week&amp;#39;s Newsmakers | C-SPAN</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Kevin Brady(R-TX) , one of the top-ranking House Republicans on economic issues, talks about the future of the Bush-era tax cuts and tax and spending legislation, GOP reaction to President Obama&amp;#39;s tax plan and jobs ...</excerpt>
+          <fti-names>'/johnrouda.com':60 'bradi':3,17 'bush':39 'bush-era':38 'c':13 'c-span':12 'cut':42 'econom':30 'era':40 'futur':35 'gop':48 'hous':27 'issu':31 'job':57 'kevin':2,16 'legisl':47 'newsmak':11 'obama':52 'one':21 'plan':55 'presid':51 'r':5,19 'r-tx':4,18 'rank':26 'reaction':49 'rep':1,15 'republican':28 'span':14 'spend':46 'talk':32 'tax':41,44,54 'top':25 'top-rank':24 'tx':6,20 'week':9 'www.c-span.org':59 'www.c-span.org/johnrouda.com':58</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Kevin-Brady-R-TX-on-This-Weeks-Newsmakers/10737432297/&amp;sa=U&amp;ei=DLsMULSsHYfY2QX_tHk&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNEpD2DgnDZeZ5nkjxlZ_pMaLS9Mhw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16811965</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:39:14-04:00</created-at>
+          <title>Rep. Kevin Brady (R-TX) on This Week&amp;#39;s Newsmakers | C-SPAN</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Kevin Brady(R-TX) , one of the top-ranking House Republicans on economic issues, talks about the future of the Bush-era tax cuts and tax and spending legislation, GOP reaction to President Obama&amp;#39;s tax plan and jobs ...</excerpt>
+          <fti-names>'/johnrouda.com':60 'bradi':3,17 'bush':39 'bush-era':38 'c':13 'c-span':12 'cut':42 'econom':30 'era':40 'futur':35 'gop':48 'hous':27 'issu':31 'job':57 'kevin':2,16 'legisl':47 'newsmak':11 'obama':52 'one':21 'plan':55 'presid':51 'r':5,19 'r-tx':4,18 'rank':26 'reaction':49 'rep':1,15 'republican':28 'span':14 'spend':46 'talk':32 'tax':41,44,54 'top':25 'top-rank':24 'tx':6,20 'week':9 'www.c-span.org':59 'www.c-span.org/johnrouda.com':58</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Kevin-Brady-R-TX-on-This-Week39s-Newsmakers/10737432297/&amp;sa=U&amp;ei=UdAEUMHgIYOZ2QWvoMmxBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHXg2lFXOQ2l83xmef835cm_TgL8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16676004</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:39:19-04:00</created-at>
+          <title>Texas Insider &#187; BRADY: Obama Economy Downgrades the Blue ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;The President has continued to make poor economic policy decisions that are generating uncertainty,&#8221; says Rep. Kevin Brady (R-TX), Vice Chairman of the Joint Economic Committee. The Blue Chip consensus downgraded ...</excerpt>
+          <fti-names>'admin':42 'blue':8,38 'bradi':3,26 'chairman':31 'chip':39 'committe':36 'consensus':40 'continu':12 'decis':18 'downgrad':6,41 'econom':16,35 'economi':5 'generat':21 'insid':2 'joint':34 'kevin':25 'make':14 'obama':4 'polici':17 'poor':15 'presid':10 'r':28 'r-tx':27 'rep':24 'say':23 'texa':1 'tx':29 'uncertainti':22 'vice':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texasinsider.org/%3Fp%3D64954&amp;sa=U&amp;ei=UdAEUMHgIYOZ2QWvoMmxBQ&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNHXwmPj4g35AmwN_nWC4WrcrAg5LA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16676016</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400046</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:00:30-04:00</created-at>
+          <title>Texas Insider &#187; BRADY: Obama Economy Downgrades the Blue ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;The President has continued to make poor economic policy decisions that are generating uncertainty,&#8221; says Rep. Kevin Brady (R-TX), Vice Chairman of the Joint Economic Committee. The Blue Chip consensus downgraded ...</excerpt>
+          <fti-names>'admin':42 'blue':8,38 'bradi':3,26 'chairman':31 'chip':39 'committe':36 'consensus':40 'continu':12 'decis':18 'downgrad':6,41 'econom':16,35 'economi':5 'generat':21 'insid':2 'joint':34 'kevin':25 'make':14 'obama':4 'polici':17 'poor':15 'presid':10 'r':28 'r-tx':27 'rep':24 'say':23 'texa':1 'tx':29 'uncertainti':22 'vice':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texasinsider.org/%3Fp%3D64954&amp;sa=U&amp;ei=x-AAUI6PLISi2wXUmZS2Cw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG4QWkr4ax_erQymuqonZEyPBh4NA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16595499</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">24370</page-views-count>
+      <youtube-id>KBrady8</youtube-id>
+      <unaccented-name>Kevin Brady</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

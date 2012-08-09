@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-06-01T11:11:58-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.4073560027759</party-votes-percentage>
+        <abstains-percentage type="float">16.1721931355439</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:25-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">304</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">278</abstains>
+        <cosponsored-bills type="integer">557</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">103</party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">412431</votes-least-often-with-id>
+        <person-id type="integer">400198</person-id>
+        <cosponsored-bills-rank type="integer">57</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-21T10:29:37-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">230</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">277</votes-republican-position>
+      <middlename>Louis</middlename>
+      <blog-article-count type="integer">17956</blog-article-count>
+      <user-approval type="float">2.03389830508475</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">127</oc-users-tracking>
+      <bioguide-id>J000283</bioguide-id>
+      <contact-webform>http://www.house.gov/jackson/ContactByEMail.shtml</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">93.4073560027759</with-party-percentage>
+      <lastname>Jackson</lastname>
+      <congress-office>2419 Rayburn House Office Building</congress-office>
+      <metavid-id>Jesse_L._Jr.Jackson</metavid-id>
+      <firstname>Jesse</firstname>
+      <website>http://jackson.house.gov/</website>
+      <birthday type="date">1965-03-11</birthday>
+      <person-id type="integer">400198</person-id>
+      <phone>202-225-0773</phone>
+      <youtube-id>JesseJrTube</youtube-id>
+      <religion>Baptist</religion>
+      <votes-democratic-position type="integer">1346</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:48-04:00</created-at>
+          <title>Jesse Jackson Jr. responding to treatment, his father says</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...their son this week at the Mayo Clinic, where they offered &quot;positive reinforcement&quot; and did not discuss politics. U.S. Rep. Jesse Jackson Jr., who is being treated for physical and emotional problems, is responding to therapy, according to his father, w</excerpt>
+          <fti-names>'accord':46 'clinic':17 'detroit':51 'discuss':26 'emot':40 'father':8,49 'jackson':2,31 'jess':1,30 'jr':3,32 'mayo':16 'news':52 'offer':20 'onlin':53 'physic':38 'polit':27 'posit':21 'problem':41 'reinforc':22 'rep':29 'respond':4,43 'say':9 'son':11 'therapi':45 'treat':36 'treatment':6 'u.s':28 'w':50 'week':13</fti-names>
+          <source-url>http://detnews.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.detroitnews.com/article/20120807/POLITICS01/208070446/1022/rss10</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973449</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:47-04:00</created-at>
+          <title>Rev. Jesse Jackson Sr. said son is 'responding' to treatment</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...responding as he seeks to regain his strength,&#8221; Rev. Jackson said. &#8220;He has the best treatment and he is responding.&#8221; Rep. Jesse Jackson Jr., 47, began a medical leave for &#8220;exhaustion&#8221; on June 10. Five days later, he entered Sierra Tucson, an A</excerpt>
+          <fti-names>'10':44 '47':35 'began':36 'best':25 'chicago':54 'day':46 'enter':49 'exhaust':41 'five':45 'jackson':3,20,33 'jess':2,32 'jr':34 'june':43 'later':47 'leav':39 'medic':38 'regain':16 'rep':31 'respond':8,11,30 'rev':1,19 'said':5,21 'seek':14 'sierra':50 'son':6 'sr':4 'strength':18 'treatment':10,26 'tribun':55 'tucson':51</fti-names>
+          <source-url>http://www.chicagotribune.com/</source-url>
+          <url>http://feeds.chicagotribune.com/~r/chicagotribune/offtopic/~3/B1mscrN-udc/chi-jesse-jackson-jr-gets-visit-from-parents-at-mayo-clinic-20120807,0,6661281.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973448</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:51-04:00</created-at>
+          <title>Jesse Jackson Jr. has depression. What is that, exactly?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Jesse Jackson Jr . (D-Ill.) is reportedly being treated for what his wife describes as debilitating depression. The CDC&#8217;s most recent estimate says about 1 in 10 U.S. adults have some form of depression, a treatable mental illness that can range in se</excerpt>
+          <fti-names>'1':36 '10':38 'adult':40 'cdc':29 'd':14 'd-ill':13 'debilit':26 'depress':5,27,45 'describ':24 'estim':33 'exact':9 'form':43 'ill':15,49 'jackson':2,11 'jess':1,10 'jr':3,12 'mental':48 'post':57 'rang':52 'recent':32 'report':17 'say':34 'se':54 'treat':19 'treatabl':47 'u.s':39 'washington':56 'wife':23</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=49763cd00406d2ac4915fb20f9efedd6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972849</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:50-04:00</created-at>
+          <title>Jesse Jackson Jr.&#8217;s Wife Claims He is &#8216;Completely Debilitated&#8221;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...wife of ailing U.S. Rep. Jesse Jackson Jr. is finally talking. In an exclusive interview, Chicago City Council member Sandi Jackson dispelled rumors that her husband, who has been off the job for nearly eight weeks while being treated for depression, at</excerpt>
+          <fti-names>'ail':13 'chicago':26 'citi':27 'claim':6 'complet':9 'council':28 'debilit':10 'depress':51 'dispel':32 'eight':45 'eurweb':53 'exclus':24 'final':20 'husband':36 'interview':25 'jackson':2,17,31 'jess':1,16 'job':42 'jr':3,18 'member':29 'near':44 'rep':15 'rumor':33 'sandi':30 'talk':21 'treat':49 'u.s':14 'week':46 'wife':5,11</fti-names>
+          <source-url>http://eurweb.com/</source-url>
+          <url>http://www.eurweb.com/2012/08/jesse-jackson-jr-s-wife-claims-he-is-completely-debilitated/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972848</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>EURweb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:49-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. &#8216;debilitated by depression,&#8217; wife says</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Jesse Jackson Jr. &#8217;s wife has shed some light on the Illinois Democrat&#8217;s sudden disappearance and ongoing health problems. The congressman is &#8220;completely debilitated by depression,&#8221; Sandi Jackson told the Chicago Sun-Times . She said her husband</excerpt>
+          <fti-names>'chicago':41 'complet':33 'congressman':31 'debilit':5,34 'democrat':22 'depress':7,36 'disappear':25 'health':28 'husband':48 'illinoi':21 'jackson':3,11,38 'jess':2,10 'jr':4,12 'light':18 'ongo':27 'post':51 'problem':29 'rep':1 'said':46 'sandi':37 'say':9 'shed':16 'sudden':24 'sun':43 'sun-tim':42 'time':44 'told':39 'washington':50 'wife':8,14</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=e04f2a2ef3953d39a48183db17983d8b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972847</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:49-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. &#8216;debilitated by depression,&#8217; wife says</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Jesse Jackson Jr. &#8217;s wife has shed some light on the Illinois Democrat&#8217;s sudden disappearance and ongoing health problems. The congressman is &#8220;completely debilitated by depression,&#8221; Sandi Jackson told the Chicago Sun-Times . She said her husband</excerpt>
+          <fti-names>'chicago':41 'complet':33 'congressman':31 'debilit':5,34 'democrat':22 'depress':7,36 'disappear':25 'health':28 'husband':48 'illinoi':21 'jackson':3,11,38 'jess':2,10 'jr':4,12 'light':18 'ongo':27 'post':51 'problem':29 'rep':1 'said':46 'sandi':37 'say':9 'shed':16 'sudden':24 'sun':43 'sun-tim':42 'time':44 'told':39 'washington':50 'wife':8,14</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=942cb568dd4374820140ac760a151a75</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972846</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:48-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. &#8216;debilitated by depression,&#8217; wife says</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Jesse Jackson Jr. &#8217;s wife has shed some light on the Illinois Democrat&#8217;s sudden disappearance and ongoing health problems. The congressman is &#8220;completely debilitated by depression,&#8221; Sandi Jackson told the Chicago Sun-Times . She said her husband</excerpt>
+          <fti-names>'chicago':41 'complet':33 'congressman':31 'debilit':5,34 'democrat':22 'depress':7,36 'disappear':25 'health':28 'husband':48 'illinoi':21 'jackson':3,11,38 'jess':2,10 'jr':4,12 'light':18 'ongo':27 'post':51 'problem':29 'rep':1 'said':46 'sandi':37 'say':9 'shed':16 'sudden':24 'sun':43 'sun-tim':42 'time':44 'told':39 'washington':50 'wife':8,14</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=020405ba98a8815207479d915d4dd88e</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972845</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:41:35-04:00</created-at>
+          <title>Rev. Jackson: No plans for son to quit Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...D-Ill., has been on an extended leave of absence from his job while he gets treatment at the Mayo Clinic. The wife of Rep. Jesse Jackson Jr. says he is &#8220;completely debilitated&#8221; by depression but Jackson&#8217;s father says the Illinois congressman has n</excerpt>
+          <fti-names>'absenc':20 'clinic':31 'complet':42 'congress':9 'congressman':53 'd':11 'd-ill':10 'debilit':43 'depress':45 'extend':17 'father':49 'get':26 'ill':12 'illinoi':52 'jackson':2,37,47 'jess':36 'job':23 'jr':38 'leav':18 'mayo':30 'msnbc':56 'n':55 'plan':4 'quit':8 'rep':35 'rev':1 'say':39,50 'son':6 'treatment':27 'wife':33</fti-names>
+          <source-url>http://www.msnbc.msn.com/</source-url>
+          <url>http://nbcpolitics.nbcnews.com/_news/2012/08/05/13130080-jesse-jackson-jr-debilitated-by-depression-but-no-plans-to-step-down-family-says?lite</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972472</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:41:34-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. in 'news blackout'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Jesse Jackson Jr. (D-IL) (L) and talks with his wife, Chicago Ald. Cheryle Jackson before Rahm Emanuel's inauguration as mayor of Chicago during an in inaugural ceremony at Millennium Park on May 16, 2011. Emanuel takes over for Richard M. Daley, w</excerpt>
+          <fti-names>'16':44 '2011':45 'ald':22 'blackout':7 'ceremoni':38 'cheryl':23 'chicago':21,33 'd':13 'd-il':12 'daley':52 'emanuel':27,46 'il':14 'inaugur':29,37 'intern':56 'jackson':3,10,24 'jess':2,9 'jr':4,11 'l':15 'm':51 'may':43 'mayor':31 'millennium':40 'news':6 'park':41 'press':55 'rahm':26 'rep':1,8 'richard':50 'take':47 'talk':17 'unit':54 'w':53 'wife':20</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://www.upi.com/Top_News/US/2012/08/04/Rep-Jesse-Jackson-Jr-in-news-blackout/UPI-39701344131340/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972471</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:46:49-04:00</created-at>
+          <title>Wife: Rep. Jesse Jackson Jr. getting treatment but 'still very depressed'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...HIGHLIGHTS Rep. Jesse Jackson Jr. hasn't been at work on Capitol Hill since May His office had announced he's at the Mayo Clinic for depression and GI issues His wife tells a newspaper her husband collapsed and had &quot;debilitating&quot; depression &quot;My husband </excerpt>
+          <fti-names>'announc':30 'capitol':23 'clinic':36 'cnn':56 'collaps':49 'debilit':52 'depress':11,38,53 'get':6 'gi':40 'hasn':17 'highlight':12 'hill':24 'husband':48,55 'issu':41 'jackson':4,15 'jess':3,14 'jr':5,16 'may':26 'mayo':35 'newspap':46 'offic':28 'rep':2,13 'sinc':25 'still':9 'tell':44 'treatment':7 'wife':1,43 'work':21</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://rss.cnn.com/~r/rss/cnn_latest/~3/tO2_XGdlwzI/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972191</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-225-0899</fax>
+      <name>Rep. Jesse Jackson [D, IL-2]</name>
+      <total-session-votes type="integer">1441</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:32-04:00</created-at>
+          <title>Rep Jessie Jackson, Jr Is Maxing And Relaxing On The Taxpayers ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jesse Jackson Jr. (D-IL) has been found. He may or may not be a raging drunk, but he is definitely in rehab. The Mayo Clinic claims he&amp;#39;s there indefinitely for depression and gastrointestinal issues. CHICAGO &#8212; The Rev.</excerpt>
+          <fti-names>'chicago':50 'claim':40 'clinic':39 'd':17 'd-il':16 'definit':34 'depress':46 'doug':53 'drunk':30 'found':21 'gastrointestin':48 'il':18 'indefinit':44 'issu':49 'jackson':3,14 'jess':13 'jessi':2 'johnson':54 'jr':4,15 'max':6 'may':23,25 'mayo':38 'rage':29 'rehab':36 'relax':8 'rep':1,12 'rev':52 'taxpay':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wizbangblog.com/2012/07/30/rep-jessie-jackson-jr-is-maxing-and-relaxing-on-the-taxpayers-dime/&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNF78k8uSW6nmldqVeG_0yIVsSUz7w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960678</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Doug Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:43:56-04:00</created-at>
+          <title>The dreadful PR amateurs who surround Jesse Jackson Jr.</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On Friday, when the Sun-Times first reported that [Democratic U.S. Rep Jesse Jackson Jr. of Chicago] was at [the Mayo Clinic] based on sources, Jackson chief of staff Rick Bryant told the Tribune, &amp;quot;I would not report that.&amp;quot; ...</excerpt>
+          <fti-names>'amateur':4 'base':33 'bryant':41 'chicago':27 'chief':37 'clinic':32 'democrat':20 'dread':2 'eric':50 'first':17 'friday':11 'jackson':8,24,36 'jess':7,23 'jr':9,25 'mayo':31 'pr':3 'rep':22 'report':18,48 'rick':40 'sourc':35 'staff':39 'sun':15 'sun-tim':14 'surround':6 'time':16 'told':42 'tribun':44 'u.s':21 'would':46 'zorn':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.chicagotribune.com/news_columnists_ezorn/2012/07/the-dreadful-pr-amateurs-who-surround-jesse-jackson-jr.html&amp;sa=U&amp;ei=Ii0WUNqBEIKE8AS-xYCQDQ&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNHWkAP9ESs9c7TEMUrUB8fg0GYmlg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947865</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric Zorn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:43:49-04:00</created-at>
+          <title>Rep. Jesse Jackson being treated at Mayo Clinic for depression ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jesse Jackson Jr. is at the Mayo Clinic undergoing an &amp;quot;extensive inpatient evaluation for depression and gastrointestinal issues.</excerpt>
+          <fti-names>'clinic':8,19 'depress':10,26 'dutton':31 'evalu':24 'extens':22 'gastrointestin':28 'inpati':23 'issu':29 'jackson':3,13 'jess':2,12 'jr':14 'mayo':7,18 'nick':30 'rep':1,11 'treat':5 'undergo':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wtvr.com/2012/07/28/rep-jesse-jackson-being-treated-at-mayo-clinic-for-depression/&amp;sa=U&amp;ei=Ii0WUNqBEIKE8AS-xYCQDQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHmURYZ8ZpMYO4-RVFrKWQ7YnccVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947858</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nick Dutton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:43:46-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. in Mayo Clinic for depression | theGrio</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(AP) &#8212; Illinois Congressman Jesse Jackson Jr., whose whereabouts haven&amp;#39;t been disclosed since he quietly took a medical leave from Congress several weeks ago, is being treated for depression at the Mayo Clinic in ...</excerpt>
+          <fti-names>'ago':34 'ap':11 'associ':45 'clinic':7,43 'congress':31 'congressman':13 'depress':9,39 'disclos':22 'haven':19 'illinoi':12 'jackson':3,15 'jess':2,14 'jr':4,16 'leav':29 'mayo':6,42 'medic':28 'press':46 'quiet':25 'rep':1 'sever':32 'sinc':23 'thegrio':10 'took':26 'treat':37 'week':33 'whereabout':18 'whose':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thegrio.com/2012/07/28/rep-jesse-jackson-jr-in-mayo-clinic-for-depression/&amp;sa=U&amp;ei=Ii0WUNqBEIKE8AS-xYCQDQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG5QhR0qDSuaHRyaLtlWugLdYLIWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947855</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:32-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. being treated in Mayo Clinic | Yes, But ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MINNEAPOLIS (Reuters) &#8211; U.S. Representative Jesse Jackson Jr. has been admitted to the renowned Mayo Clinic in Rochester, Minnesota, to be evaluated for depression and gastrointestinal ailments, the congressman&amp;#39;s ...</excerpt>
+          <fti-names>'admit':21 'ailment':37 'clinic':9,26 'congressman':39 'depress':34 'evalu':32 'gastrointestin':36 'jackson':3,17 'jess':2,16 'jr':4,18 'mayo':8,25 'minneapoli':12 'minnesota':29 'renown':24 'rep':1 'repres':15 'reuter':13,41 'rochest':28 'treat':6 'u.s':14 'yes':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yesbuthowever.com/rep-jesse-jackson-jr-being-treated-in-mayo-clinic/&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFdCyFDIT0eVnkpvju0mXeuIgT-9Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960676</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Reuters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:31-04:00</created-at>
+          <title>Jesse Jackson Jr. Being Treated at Mayo Clinic | NBC Chicago</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jesse Jackson Jr., struggling with an undefined illness in an undisclosed location for nearly a month, has left treatment in Arizona and has entered the world-renowned Mayo Clinic. In a statement released through the ...</excerpt>
+          <fti-names>'ahern':50 'ann':49 'arizona':32 'bj':52 'chicago':10 'clinic':8,41 'enter':35 'ill':19 'jackson':2,13 'jess':1,12 'jr':3,14 'left':29 'locat':23 'lutz':53 'mari':48 'mayo':7,40 'month':27 'nbc':9 'near':25 'releas':45 'renown':39 'rep':11 'statement':44 'struggl':15 'treat':5 'treatment':30 'undefin':18 'undisclos':22 'world':38 'world-renown':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nbcchicago.com/blogs/ward-room/jesse-jackson-jr-mayor-clinic-164083316.html&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGV62mCLdVFuj1byy_oPJFGOPOhLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960675</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mary Ann Ahern and BJ Lutz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:31-04:00</created-at>
+          <title>Jesse Jackson Jr. At Mayo Clinic: Congressman To Be Evaluated ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(Adds details on ethics probe, 2004 surgery) By David Bailey MINNEAPOLIS, July 27 (Reuters) - U.S. Representative Jesse Jackson Jr. has been admitted to the renowned Mayo Clinic in Rochester, Minnesota, to be ...</excerpt>
+          <fti-names>'2004':16 '27':23 'add':11 'admit':32 'bailey':20 'clinic':6,37 'congressman':7 'david':19 'detail':12 'editor':47 'ethic':14 'evalu':10 'huffington':44 'jackson':2,28 'jess':1,27 'jr':3,29 'juli':22 'mayo':5,36 'minneapoli':21 'minnesota':40 'news':46 'post':45 'probe':15 'renown':35 'repres':26 'reuter':24 'rochest':39 'surgeri':17 'u.s':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/28/jesse-jackson-jr-mayo-clinic_n_1712416.html&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNG49hN-2JNWPlt6b23b5WGYbotKEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960672</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:31-04:00</created-at>
+          <title>Rep. Jesse Jackson being treated at Mayo Clinic for depression ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jesse Jackson Jr. is at the Mayo Clinic undergoing an &amp;quot;extensive inpatient evaluation for depression and gastrointestinal issues.</excerpt>
+          <fti-names>'clinic':8,19 'depress':10,26 'dutton':31 'evalu':24 'extens':22 'gastrointestin':28 'inpati':23 'issu':29 'jackson':3,13 'jess':2,12 'jr':14 'mayo':7,18 'nick':30 'rep':1,11 'treat':5 'undergo':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wtvr.com/2012/07/28/rep-jesse-jackson-being-treated-at-mayo-clinic-for-depression/&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNF8-tqxJPlMJG1LM5WA3tufBb7Jbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960671</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nick Dutton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:30-04:00</created-at>
+          <title>Rep. Jesse Jackson Jr. in Mayo Clinic for depression | theGrio</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(AP) &#8212; Illinois Congressman Jesse Jackson Jr., whose whereabouts haven&amp;#39;t been disclosed since he quietly took a medical leave from Congress several weeks ago, is being treated for depression at the Mayo Clinic in ...</excerpt>
+          <fti-names>'ago':34 'ap':11 'associ':45 'clinic':7,43 'congress':31 'congressman':13 'depress':9,39 'disclos':22 'haven':19 'illinoi':12 'jackson':3,15 'jess':2,14 'jr':4,16 'leav':29 'mayo':6,42 'medic':28 'press':46 'quiet':25 'rep':1 'sever':32 'sinc':23 'thegrio':10 'took':26 'treat':37 'week':33 'whereabout':18 'whose':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thegrio.com/2012/07/28/rep-jesse-jackson-jr-in-mayo-clinic-for-depression/&amp;sa=U&amp;ei=AUsXUP7CMIee8QS79YHICg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEwSWR6uI3ZhgajY4ihe2dcjOYS7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960669</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400198</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:43:54-04:00</created-at>
+          <title>Rep. Jackson At Mayo Clinic For Depression, Internal Disorder ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;Congressman Jesse Jackson Jr. has arrived at Mayo Clinic in Rochester, Minn., for extensive inpatient evaluation for depression and gastrointestinal issues,&#8221; the clinic said in a written statement Friday. &#8220;Congressman ...</excerpt>
+          <fti-names>'arriv':15 'clinic':5,18,32 'congressman':10,39 'depress':7,27 'disord':9 'evalu':25 'extens':23 'friday':38 'gastrointestin':29 'inpati':24 'intern':8 'issu':30 'jackson':2,12 'jess':11 'jr':13 'mayo':4,17 'mike':40 'minn':21 'ramsey':41 'rep':1 'rochest':20 'said':33 'statement':37 'written':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chicago.cbslocal.com/2012/07/27/rep-jackson-being-treated-at-mayor-clinic/&amp;sa=U&amp;ei=Ii0WUNqBEIKE8AS-xYCQDQ&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNFRqwoolxlb3AjpkizSEV-UczTbyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16947864</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mike Ramsey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">29641</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Jesse Jackson</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

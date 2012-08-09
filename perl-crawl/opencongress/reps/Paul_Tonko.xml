@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.0963222416813</party-votes-percentage>
+        <abstains-percentage type="float">0.349040139616056</abstains-percentage>
+        <votes-most-often-with-id type="integer">412440</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">377</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">3</cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">310</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">19</party-votes-percentage-rank>
+        <sponsored-bills type="integer">19</sponsored-bills>
+        <votes-least-often-with-id type="integer">400643</votes-least-often-with-id>
+        <person-id type="integer">412319</person-id>
+        <cosponsored-bills-rank type="integer">101</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">358</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">11</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">349</votes-republican-position>
+      <blog-article-count type="integer">5281</blog-article-count>
+      <fax>202-225-5077</fax>
+      <user-approval type="float">2.22727272727273</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">82</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/tonko/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.0963222416813</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Tonko</lastname>
+      <congress-office>422 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Paul</firstname>
+      <website>http://tonko.house.gov/</website>
+      <birthday type="date">1949-06-18</birthday>
+      <bioguide-id>T000469</bioguide-id>
+      <person-id type="integer">412319</person-id>
+      <phone>202-225-5076</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1629</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:58:10-04:00</created-at>
+          <title>Saratoga County: Peer-to-peer help on the way for veterans suffering from post-traumatic stress disorder</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...High School auditorium, Davis said, and the guest list includes McDonald; Assemblyman Tony Jordan, R-Jackson; and U.S. Rep. Paul Tonko. A commemorative video will be shown and surviving family members of the veterans will be presented with a special med</excerpt>
+          <fti-names>'assemblyman':31 'auditorium':22 'commemor':43 'counti':2 'davi':23 'disord':19 'famili':50 'guest':27 'help':7 'high':20 'includ':29 'jackson':36 'jordan':33 'list':28 'mcdonald':30 'med':61 'member':51 'paul':40 'peer':4,6 'peer-to-p':3 'post':16 'post-traumat':15 'present':57 'r':35 'r-jackson':34 'rep':39 'said':24 'saratoga':1 'saratogian':63 'school':21 'shown':47 'special':60 'stress':18 'suffer':13 'surviv':49 'toni':32 'tonko':41 'traumat':17 'u.s':38 'veteran':12,54 'video':44 'way':10</fti-names>
+          <source-url>http://www.saratogian.com/</source-url>
+          <url>http://www.saratogian.com/articles/2012/08/06/news/doc502071b09cdd0298232061.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973611</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Saratogian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:58:08-04:00</created-at>
+          <title>Too vulnerable to a disaster</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...region. Some of our businesses, homeowners and farmers are still suffering. How are we helping them? Can we use U.S. Rep. Paul Tonko's Mighty Waters initiative as a springboard for sensible use of our floodplains and emergency preparedness? We need to p</excerpt>
+          <fti-names>'albani':49 'busi':10 'disast':5 'emerg':43 'farmer':13 'floodplain':41 'help':20 'homeown':11 'initi':32 'mighti':30 'need':46 'p':48 'paul':27 'prepared':44 'region':6 'rep':26 'sensibl':37 'springboard':35 'still':15 'suffer':16 'time':51 'times-union':50 'tonko':28 'u.s':25 'union':52 'use':24,38 'vulner':2 'water':31</fti-names>
+          <source-url>http://www.timesunion.com/</source-url>
+          <url>http://www.timesunion.com/opinion/article/Too-vulnerable-to-a-disaster-3767179.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973610</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albany Times-Union</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:01:10-04:00</created-at>
+          <title>Tonko well-received by constituents at recent town meeting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...newsroom@troyrecord Twitter.com/TroyRecord ALBANY &#8212; The region&#8217;s largest city proved to be friendly territory for U.S. Rep. Paul Tonko (D-Amsterdam) as he spoke to an audience of several hundred constituents Monday evening. Focusing on the need to e</excerpt>
+          <fti-names>'/troyrecord':15 'albani':16 'amsterdam':34 'audienc':40 'citi':21 'constitu':6,44 'd':33 'd-amsterdam':32 'e':52 'even':46 'focus':47 'friend':25 'hundr':43 'largest':20 'meet':10 'monday':45 'need':50 'newsroom':11 'paul':30 'prove':22 'receiv':4 'recent':8 'record':55 'region':18 'rep':29 'sever':42 'spoke':37 'territori':26 'tonko':1,31 'town':9 'troy':54 'troyrecord':12 'twitter.com':14 'twitter.com/troyrecord':13 'u.s':28 'well':3 'well-receiv':2</fti-names>
+          <source-url>http://www.troyrecord.com/</source-url>
+          <url>http://troyrecord.com/articles/2012/07/31/news/doc5018b24d1c324402342835.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970020</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Troy Record</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:19:39-04:00</created-at>
+          <title>Tonko holds public meeting on voter IDs</title>
+          <contains-term>congress</contains-term>
+          <excerpt>ALBANY - Capital Region Congressman Paul Tonko says requiring voter IDs would be quite a vulgar attack on American democracy and Republicans won't give President Obama a lick of credit. Tonko was at another town hall last night. Tonko told a ...</excerpt>
+          <fti-names>'albani':8 'american':25 'anoth':41 'attack':23 'capit':9 'congressman':11 'credit':37 'democraci':26 'give':31 'hall':43 'hold':2 'id':7,17 'last':44 'lick':35 'meet':4 'night':45 'obama':33 'paul':12 'presid':32 'public':3 'quit':20 'region':10 'republican':28 'requir':15 'say':14 'told':47 'tonko':1,13,38,46 'town':42 'voter':6,16 'vulgar':22 'wnyt':49 'won':29 'would':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://wnyt.com/article/stories/S2710385.shtml?cat=10114</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:44:33-04:00</date>
+          <id type="integer">16967339</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WNYT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-26T02:01:27-04:00</created-at>
+          <title>Capital Region congressmen all vote to audit the Fed</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The measure, sponsored by libertarian Republican Rep. Ron Paul of Texas, passed the House with bipartisan support. Reps. Paul Tonko, Chris Gibson and Bill Owens all joined the majority supporters. Here&#8217;s how they explained their votes: Tonko, D-Amsterdam</excerpt>
+          <fti-names>'albani':51 'amsterdam':50 'audit':7 'bill':33 'bipartisan':25 'blog':54 'capit':1 'chris':30 'congressmen':3 'd':49 'd-amsterdam':48 'explain':44 'fed':9 'gibson':31 'hous':23 'join':36 'libertarian':14 'major':38 'measur':11 'owen':34 'pass':21 'paul':18,28 'region':2 'rep':16,27 'republican':15 'ron':17 'sponsor':12 'support':26,39 'texa':20 'time':52 'tonko':29,47 'union':53 'vote':5,46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.timesunion.com/capitol/archives/141830/capital-region-congressmen-all-vote-to-audit-the-fed/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T16:28:07-04:00</date>
+          <id type="integer">16860920</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albany Times Union (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:18:18-04:00</created-at>
+          <title>As campaigns heat up, Owens tops Doheny in funds</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>BALLSTON SPA -- U.S. Rep. Paul Tonko, D-Amsterdam, announced he and Rep. Bill Owens, D-Plattsburgh, will visit the Saratoga County Fair together Sunday. SARATOGA SPRINGS -- A float plane tipped over Saturday in Saratoga Lake, forcing its pilot and a ...</excerpt>
+          <fti-names>'amsterdam':18 'announc':19 'ballston':10 'bill':23 'campaign':2 'counti':32 'd':17,26 'd-amsterdam':16 'd-plattsburgh':25 'doheni':7 'fair':33 'float':39 'forc':47 'fund':9 'heat':3 'lake':46 'owen':5,24 'paul':14 'pilot':49 'plane':40 'plattsburgh':27 'post':53 'post-star':52 'rep':13,22 'saratoga':31,36,45 'saturday':43 'spa':11 'spring':37 'star':54 'sunday':35 'tip':41 'togeth':34 'tonko':15 'top':6 'u.s':12 'visit':29</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://poststar.com/news/local/article_bac8ecd6-d389-11e1-ab12-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T19:03:11-04:00</date>
+          <id type="integer">16787530</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Post-Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:20:55-04:00</created-at>
+          <title>House-Passed Defense Spending Bill Silent on Civilian Pay Raise</title>
+          <contains-term>senate</contains-term>
+          <excerpt>The bill also scrapped an amendment authored by Rep. Paul Tonko, D-N.Y., which would have capped defense contractor salary reimbursements at $230,700, the same level&#160;proposed by the Senate last month. The provision was dismissed on the procedural grounds </excerpt>
+          <fti-names>'230':36 '700':37 'also':14 'amend':17 'author':18 'bill':6,13 'cap':30 'civilian':9 'contractor':32 'd':24 'd-n':23 'defens':4,31 'dismiss':50 'ground':54 'hous':2 'house-pass':1 'last':45 'level':40 'month':46 'n':25 'pass':3 'paul':21 'pay':10 'procedur':53 'propos':41 'provis':48 'rais':11 'reimburs':34 'rep':20 'salari':33 'scrap':15 'senat':44 'silent':7 'spend':5 'tonko':22 'would':28 'y':26 'yahoo':55</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://news.yahoo.com/house-passed-defense-spending-bill-silent-civilian-pay-171030663.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T23:00:35-04:00</date>
+          <id type="integer">16823264</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>YAHOO!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-23T03:05:35-04:00</created-at>
+          <title>AIP FYI Number 101: An Update on the Nation's Weather Satellite Program</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ranking Member Paul Tonko (D-NY) wanted to &quot;come away from this hearing with ... success of the proposed transfer of the weather satellite program from NOAA to NASA. Rep. Harris was interested in whether NOAA could pursue a program similar to NASA's ...</excerpt>
+          <fti-names>'101':4 'aip':1 'away':24 'come':23 'could':50 'd':19 'd-ni':18 'fyi':2 'harri':44 'hear':27 'interest':46 'member':15 'nasa':42,56 'nation':9 'noaa':40,49 'number':3 'ny':20 'paul':16 'program':13,38,53 'propos':32 'pursu':51 'rank':14 'rep':43 'satellit':12,37 'similar':54 'spaceref':58 'success':29 'tonko':17 'transfer':33 'updat':6 'want':21 'weather':11,36 'whether':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.spaceref.com/news/viewsr.html?pid=41421</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T18:21:25-04:00</date>
+          <id type="integer">16816261</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SpaceRef</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-25T03:04:57-04:00</created-at>
+          <title>AIP FYI Number 101: An Update on the Nation's Weather Satellite Program</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ranking Member Paul Tonko (D-NY) wanted to &quot;come away from this hearing with ... success of the proposed transfer of the weather satellite program from NOAA to NASA. Rep. Harris was interested in whether NOAA could pursue a program similar to NASA's ...</excerpt>
+          <fti-names>'101':4 'aip':1 'away':24 'come':23 'could':50 'd':19 'd-ni':18 'fyi':2 'harri':44 'hear':27 'interest':46 'member':15 'nasa':42,56 'nation':9 'noaa':40,49 'number':3 'ny':20 'paul':16 'program':13,38,53 'propos':32 'pursu':51 'rank':14 'rep':43 'satellit':12,37 'similar':54 'spaceref':58 'success':29 'tonko':17 'transfer':33 'updat':6 'want':21 'weather':11,36 'whether':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.spaceref.com/news/viewsr.rss.spacewire.html?pid=41421</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T17:45:37-04:00</date>
+          <id type="integer">16853438</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SpaceRef</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-07-21T01:04:04-04:00</created-at>
+          <title>House-Passed Defense Spending Bill Silent on Civilian Pay Raise</title>
+          <contains-term>senate</contains-term>
+          <excerpt>The bill also scrapped an amendment authored by Rep. Paul Tonko, D-N.Y., which would have capped Defense contractor salary reimbursements at $230,700, the same level proposed by the Senate last month. The provision was dismissed on the ...</excerpt>
+          <fti-names>'230':36 '700':37 'also':14 'amend':17 'author':18 'bill':6,13 'cap':30 'civilian':9 'contractor':32 'd':24 'd-n':23 'defens':4,31 'dismiss':50 'hous':2 'house-pass':1 'last':45 'level':40 'month':46 'n':25 'nationaljournal.com':53 'pass':3 'paul':21 'pay':10 'propos':41 'provis':48 'rais':11 'reimburs':34 'rep':20 'salari':33 'scrap':15 'senat':44 'silent':7 'spend':5 'tonko':22 'would':28 'y':26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://nationaljournal.com/congress-legacy/house-passed-defense-spending-bill-silent-on-civilian-pay-raise-20120720</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T17:09:50-04:00</date>
+          <id type="integer">16781512</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NationalJournal.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Paul Tonko [D, NY-21]</name>
+      <total-session-votes type="integer">1713</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>21</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:42-04:00</created-at>
+          <title>Capitol Confidential &#187; Gibson, Tonko, react to Obama&amp;#39;s speech</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Paul Tonko, D-Amsterdam, called Obama&amp;#39;s speech a &#8220;good challenge &#8212; because we have no time to waste&#8221; but handicapped some of the items on the list. He said he would support the plans advanced by the president, ...</excerpt>
+          <fti-names>'advanc':46 'amsterdam':15 'bureau':53 'call':16 'capitol':1,52 'challeng':22 'confidenti':2 'd':14 'd-amsterdam':13 'gibson':3 'good':21 'handicap':31 'item':35 'jimmi':50 'list':38 'obama':7,17 'paul':11 'plan':45 'presid':49 'react':5 'rep':10 'said':40 'speech':9,19 'support':43 'time':27 'tonko':4,12 'vielkind':51 'wast':29 'would':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/capitol/archives/130659/gibson-tonko-react-to-obamas-speech/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CDYQmAEwAw&amp;usg=AFQjCNEftSnsOLGwDSSjeEXyroA4Q1xuzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-10T01:00:00-04:00</date>
+          <id type="integer">15292257</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jimmy Vielkind, Capitol bureau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:43-04:00</created-at>
+          <title>&amp;quot;Dieterich takes Tonko&amp;#39;s Independence Party petitions to court&amp;quot; by ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The 20th Congressional race is heading to court. Republican challenger Bob Dieterich has filed a civil lawsuit against U.S. Rep. Paul Tonko, D-Amsterdam. The suit, filed in Saratoga County on April 27 by attorney James ...</excerpt>
+          <fti-names>'/weblogs/':50 '20th':12 '27':44 'amsterdam':35 'april':43 'attorney':46 'bob':21 'challeng':20 'civil':26 'congression':13 'counti':41 'court':9,18 'd':34 'd-amsterdam':33 'dieterich':1,22 'file':24,38 'head':16 'independ':5 'jame':47 'lawsuit':27 'parti':6 'paul':31 'petit':7 'race':14 'rep':30 'republican':19 'saratoga':40 'suit':37 'take':2 'tonko':3,32 'u.s':29 'www.dailygazette.com':49 'www.dailygazette.com/weblogs':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailygazette.com/weblogs/capital-region-scene/2012/may/09/50912_poliblog/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CE0QmAEwCA&amp;usg=AFQjCNFET1ABqJ552EaX9GV47W8VZO5EaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-09T01:00:00-04:00</date>
+          <id type="integer">15292262</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.dailygazette.com/weblogs/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:43-04:00</created-at>
+          <title>Tonko: What I&amp;#39;d tell Obama - The Observation Deck - timesunion ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Paul Tonko writes about the region&amp;#39;s challenges and what he&amp;#39;d like to say to the president, with whom he&amp;#39;s traveling about Air Force One today. Nothing is more humbling than earning the trust of the constituents of the ...</excerpt>
+          <fti-names>'air':36 'challeng':19 'constitu':50 'd':4,23 'deck':9 'earn':45 'editor':57 'editori':55 'forc':37 'humbl':43 'jay':53 'jochnowitz':54 'like':24 'noth':40 'obama':6 'observ':8 'one':38 'page':56 'paul':12 'presid':29 'region':17 'rep':11 'say':26 'tell':5 'timesunion':10 'today':39 'tonko':1,13 'travel':34 'trust':47 'write':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/opinion/tonko-what-id-tell-obama/19470/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CEgQmAEwBw&amp;usg=AFQjCNHwff0YKn17zM3lv9xmsCYnU3wpaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-08T01:00:00-04:00</date>
+          <id type="integer">15292261</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jay Jochnowitz, Editorial page editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:42-04:00</created-at>
+          <title>Who was the audience for Memphis (besides Paul Tonko ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Sitting three rows in front of me was Congressman Paul Tonko. Lots of people calling to him before and after the show. I didn&amp;#39;t speak to him, except to point out the easiest way to exit, but he seemed to be having a good time.</excerpt>
+          <fti-names>'audienc':4 'besid':7 'call':24 'congressman':18 'didn':33 'easiest':43 'except':38 'exit':46 'front':14 'good':54 'green':57 'lot':21 'memphi':6 'paul':8,19 'peopl':23 'point':40 'roger':56 'row':12 'seem':49 'show':31 'sit':10 'speak':35 'three':11 'time':55 'tonko':9,20 'way':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/rogergreen/who-was-the-audience-for-memphis-besides-paul-tonko/2852/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CD4QmAEwBQ&amp;usg=AFQjCNF9zqKJYcZYSQpOQr_p2oszuHSM1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-28T01:00:00-04:00</date>
+          <id type="integer">15292259</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Roger Green</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:37-04:00</created-at>
+          <title>NY Drug Rehab Salutes Congressman Paul D. Tonko | Phoenix ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Phoenix Houses of New York Salutes Congressman Paul D. Tonko. Tuesday, April 24th, 2012. Print this page: Congressman Paul Tonko. Congressman Paul D. Tonko, Vice co-Chair of the House Addiction, Treatment and Recovery Caucus, ...</excerpt>
+          <fti-names>'2012':23 '24th':22 'addict':41 'april':21 'caucus':45 'chair':37 'co':36 'co-chair':35 'congressman':5,16,27,30 'd':7,18,32 'drug':2 'hous':11,40 'ljuliano':46 'new':13 'ny':1 'page':26 'paul':6,17,28,31 'phoenix':9,10 'print':24 'recoveri':44 'rehab':3 'salut':4,15 'tonko':8,19,29,33 'treatment':42 'tuesday':20 'vice':34 'york':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.phoenixhouse.org/news-and-events/phoenix-houses-of-new-york-salutes-congressman-paul-d-tonko/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNEub04nDJayBCbKaztzmckvA9bIzg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">15292254</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ljuliano</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-05-17T00:25:42-04:00</created-at>
+          <title>US Rep Paul Tonko on Advocacy in Mental Health &#171; About ...</title>
+          <contains-term>legislative</contains-term>
+          <excerpt>Rep Paul Tonko received an award for his legislative leadership at the American Psychological Association Practice Organization&#8221;s State Leadership Conference 2012. This clip captures his comments on the power of ...</excerpt>
+          <fti-names>'2012':32 'admin':42 'advocaci':6 'american':23 'associ':25 'award':16 'captur':35 'clip':34 'comment':37 'confer':31 'health':9 'leadership':20,30 'legisl':19 'mental':8 'organ':27 'paul':3,12 'power':40 'practic':26 'psycholog':24 'receiv':14 'rep':2,11 'state':29 'tonko':4,13 'us':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://aboutpsychology.nu/us-rep-paul-tonko-on-advocacy-in-mental-health/&amp;sa=U&amp;ei=wH20T9bfCZCK8QTCtuXpDw&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNEL7bIHNEZTYGr9_ksU_tgJTakG4Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-20T01:00:00-04:00</date>
+          <id type="integer">15292258</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:40:04-04:00</created-at>
+          <title>Edolphus Towns Officially Announces Retirement - The Church Report</title>
+          <contains-term>congress</contains-term>
+          <excerpt>As expected, New York Democratic Rep. Edolphus Towns today ... The safe Democratic nature of the 8th district means the party&amp;#39;s nominee is almost certain to be the new Congressman. Also in the primary: New York City ...</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':48 '8th':24 'almost':32 'also':39 'announc':4 'certain':33 'church':7 'citi':45 'congressman':38 'democrat':13,20 'district':25 'edolphus':1,15 'expect':10 'mean':26 'natur':21 'new':11,37,43 'nomine':30 'offici':3 'parti':28 'primari':42 'rep':14 'report':8 'retir':5 'safe':19 'thechurchreport.com':47 'thechurchreport.com/?q=save+us+from+berlusconi':46 'today':17 'town':2,16 'york':12,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thechurchreport.com/index.cfm%3FobjectID%3D152675&amp;sa=U&amp;ei=EuaMT4nsNqGe2QXF6oCfDA&amp;ved=0CEgQmAEwBw&amp;usg=AFQjCNG0_Dt2fgMzqGit6O5jwYJv83CRKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14525827</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thechurchreport.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:25:43-04:00</created-at>
+          <title>Indy Party Authorizes Congressional Candidates</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Steve Israel, Rep. Peter King, Rep. Carolyn McCarthy, Assemblywoman Grace Meng (running in a four-way Democratic primary in NY-6), Rep. Mike Grimm, Rep. Nita Lowey, Rep. Nan Hayworth, Rep. Chris Gibson, Rep. Paul Tonko, Matt ...</excerpt>
+          <fti-names>'-6':28 'assemblywoman':15 'author':3 'benjamin':46 'candid':5 'carolyn':13 'chris':39 'congression':4 'democrat':24 'four':22 'four-way':21 'gibson':40 'grace':16 'grimm':31 'hayworth':37 'indi':1 'israel':8 'king':11 'liz':45 'lowey':34 'matt':44 'mccarthi':14 'meng':17 'mike':30 'nan':36 'nita':33 'ny':27 'parti':2 'paul':42 'peter':10 'primari':25 'rep':6,9,12,29,32,35,38,41 'run':18 'steve':7 'tonko':43 'way':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitaltonight.com/2012/04/indy-party-authorizes-congressional-candidates/&amp;sa=U&amp;ei=l6eNT8DdEdKK8AHFl5GTBw&amp;ved=0CDEQmAEwAg&amp;usg=AFQjCNHat0i9ABuIHa_f-cHu6zXFMMLtCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14544544</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Liz Benjamin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:40:03-04:00</created-at>
+          <title>Indy Party Authorizes Congressional Candidates</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Steve Israel, Rep. Peter King, Rep. Carolyn McCarthy, Assemblywoman Grace Meng (running in a four-way Democratic primary in NY-6), Rep. Mike Grimm, Rep. Nita Lowey, Rep. Nan Hayworth, Rep. Chris Gibson, Rep. Paul Tonko, Matt ...</excerpt>
+          <fti-names>'-6':28 'assemblywoman':15 'author':3 'benjamin':46 'candid':5 'carolyn':13 'chris':39 'congression':4 'democrat':24 'four':22 'four-way':21 'gibson':40 'grace':16 'grimm':31 'hayworth':37 'indi':1 'israel':8 'king':11 'liz':45 'lowey':34 'matt':44 'mccarthi':14 'meng':17 'mike':30 'nan':36 'nita':33 'ny':27 'parti':2 'paul':42 'peter':10 'primari':25 'rep':6,9,12,29,32,35,38,41 'run':18 'steve':7 'tonko':43 'way':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitaltonight.com/2012/04/indy-party-authorizes-congressional-candidates/&amp;sa=U&amp;ei=EuaMT4nsNqGe2QXF6oCfDA&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNEApmY53TwoQ3AYDx-CwtFdxtY6lQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14525822</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Liz Benjamin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412319</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:10:43-04:00</created-at>
+          <title>Indy Party Authorizes Congressional Candidates</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Steve Israel, Rep. Peter King, Rep. Carolyn McCarthy, Assemblywoman Grace Meng (running in a four-way Democratic primary in NY-6), Rep. Mike Grimm, Rep. Nita Lowey, Rep. Nan Hayworth, Rep. Chris Gibson, Rep. Paul Tonko, Matt ...</excerpt>
+          <fti-names>'-6':28 'assemblywoman':15 'author':3 'benjamin':46 'candid':5 'carolyn':13 'chris':39 'congression':4 'democrat':24 'four':22 'four-way':21 'gibson':40 'grace':16 'grimm':31 'hayworth':37 'indi':1 'israel':8 'king':11 'liz':45 'lowey':34 'matt':44 'mccarthi':14 'meng':17 'mike':30 'nan':36 'nita':33 'ny':27 'parti':2 'paul':42 'peter':10 'primari':25 'rep':6,9,12,29,32,35,38,41 'run':18 'steve':7 'tonko':43 'way':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitaltonight.com/2012/04/indy-party-authorizes-congressional-candidates/&amp;sa=U&amp;ei=k1KMT6SdCsTg2gWDirXODg&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNGvxXPKijEQKgEMn7kywTDpqTHMrw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14506095</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Liz Benjamin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">16271</page-views-count>
+      <youtube-id>reppaultonko</youtube-id>
+      <unaccented-name>Paul Tonko</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

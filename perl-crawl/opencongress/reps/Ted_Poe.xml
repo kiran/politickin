@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.7847346451998</party-votes-percentage>
+        <abstains-percentage type="float">2.44328097731239</abstains-percentage>
+        <votes-most-often-with-id type="integer">412431</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">233</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">42</abstains>
+        <cosponsored-bills type="integer">298</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">337</party-votes-percentage-rank>
+        <sponsored-bills type="integer">33</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">400652</person-id>
+        <cosponsored-bills-rank type="integer">124</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">16</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1556</votes-republican-position>
+      <fax>202-225-5547</fax>
+      <bioguide-id>P000592</bioguide-id>
+      <blog-article-count type="integer">7285</blog-article-count>
+      <user-approval type="float">4.71875</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">209</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://poe.house.gov/email/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.7847346451998</with-party-percentage>
+      <lastname>Poe</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>430 Cannon House Office Building</congress-office>
+      <firstname>Ted</firstname>
+      <website>http://poe.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1948-10-13</birthday>
+      <person-id type="integer">400652</person-id>
+      <phone>202-225-6565</phone>
+      <religion>Unknown</religion>
+      <votes-democratic-position type="integer">340</votes-democratic-position>
+      <metavid-id>Ted_Poe</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:41:50-04:00</created-at>
+          <title>Congress considers recognizing Jewish refugees</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the hands of their former compatriots.&#8221; Joining Nadler as cosponsors are Ileana Ros-Lehtinen (R-Fla.), Howard Berman (D-Cal.), Ted Poe (R-Texas), Joe Crowley (D-N.Y.) and Bob Turner (R-N.Y.). &#8220;Jewish refugees who were forced to flee Arab countries a</excerpt>
+          <fti-names>'arab':54 'berman':25 'bob':41 'cal':28 'compatriot':11 'congress':1 'consid':2 'cosponsor':15 'countri':55 'crowley':35 'd':27,37 'd-cal':26 'd-n':36 'fla':23 'flee':53 'forc':51 'former':10 'hand':7 'howard':24 'ileana':17 'jerusalem':57 'jewish':4,47 'joe':34 'join':12 'lehtinen':20 'n':38,45 'nadler':13 'poe':30 'post':58 'r':22,32,44 'r-fla':21 'r-n':43 'r-texa':31 'recogn':3 'refuge':5,48 'ros':19 'ros-lehtinen':18 'ted':29 'texa':33 'turner':42 'y':39,46</fti-names>
+          <source-url>http://www.jpost.com/</source-url>
+          <url>http://www.jpost.com/JewishWorld/JewishFeatures/Article.aspx?ID=279865&amp;R=R1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970871</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jerusalem Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:41:40-04:00</created-at>
+          <title>Twitter Terrorism: Hizballah Averages 250 Tweets Per Day</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Ted Poe (R-Texas) is the lead sponsor of a House resolution urging Secretary of State Hillary Clinton to remove the Iranian group MEK fro its list of terrorist organizations. (CNSNews.com/Penny Starr) (CNSNews.com) - Based on information gathered by the</excerpt>
+          <fti-names>'/penny':42 '250':5 'averag':4 'base':45 'clinton':27 'cnsnews.com':41,44,51 'cnsnews.com/penny':40 'day':8 'fro':34 'gather':48 'group':32 'hillari':26 'hizballah':3 'hous':20 'inform':47 'iranian':31 'lead':16 'list':36 'mek':33 'organ':39 'per':7 'poe':10 'r':12 'r-texa':11 'remov':29 'resolut':21 'secretari':23 'sponsor':17 'starr':43 'state':25 'ted':9 'terror':2 'terrorist':38 'texa':13 'tweet':6 'twitter':1 'urg':22</fti-names>
+          <source-url>http://www.cnsnews.com/</source-url>
+          <url>http://cnsnews.com/news/article/twitter-terrorism-hizballah-averages-250-tweets-day</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970870</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNSNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:53:34-04:00</created-at>
+          <title>Randy Weber wins GOP nod in race for U.S. House District 14 in Texas</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...fought back by receiving support of several Republican members of the Texas congressional delegation: Ted Poe of Jefferson County, Pete Olson of Sugar Land, Bill Flores of Bryan, Jeb Hensarling of Athens, Kay Granger of Fort Worth, and Francisco Canseco</excerpt>
+          <fti-names>'14':12 'athen':46 'back':16 'bill':39 'bryan':42 'canseco':54 'congression':27 'counti':33 'deleg':28 'district':11 'flore':40 'fort':50 'fought':15 'francisco':53 'gop':4 'granger':48 'hensarl':44 'hous':10 'jeb':43 'jefferson':32 'kay':47 'land':38 'member':23 'nod':5 'olson':35 'pete':34 'poe':30 'race':7 'randi':1 'receiv':18 'republican':22 'sever':21 'sugar':37 'support':19 'ted':29 'texa':14,26,55 'u.s':9 'watchdog':56 'weber':2 'win':3 'worth':51</fti-names>
+          <source-url>http://www.texaswatchdog.org/</source-url>
+          <url>http://www.texaswatchdog.org/2012/07/randy-weber-house-district-14-texas-felicia-harris/1343784411.column</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969899</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Texas Watchdog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:53:33-04:00</created-at>
+          <title>House considering Jewish refugees bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...hands of their former compatriots.&#8221; Joining Nadler as cosponsors are Ileana Ros-Lehtinen (R-Fla.), Howard Berman (D-Cal.), Ted Poe (R-Texas), Joe Crowley (D-N.Y.) and Bob Turner (R-N.Y.). &#8220;Jewish refugees who were forced to flee Arab countries and I</excerpt>
+          <fti-names>'arab':53 'berman':24 'bill':5 'bob':40 'cal':27 'compatriot':10 'consid':2 'cosponsor':14 'countri':54 'crowley':34 'd':26,36 'd-cal':25 'd-n':35 'fla':22 'flee':52 'forc':50 'former':9 'hand':6 'hous':1 'howard':23 'ileana':16 'jewish':3,46 'joe':33 'join':11 'jta':57 'lehtinen':19 'n':37,44 'nadler':12 'poe':29 'r':21,31,43 'r-fla':20 'r-n':42 'r-texa':30 'refuge':4,47 'ros':18 'ros-lehtinen':17 'ted':28 'texa':32 'turner':41 'y':38,45</fti-names>
+          <source-url>http://jta.org/</source-url>
+          <url>http://www.jta.org/news/article/2012/08/01/3102536/house-considers-jewish-refugees-bill</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969898</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>JTA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:06:13-04:00</created-at>
+          <title>The drones are coming</title>
+          <contains-term>congress</contains-term>
+          <excerpt>For years, the United States has used drones to track foreign terrorists overseas and catch outlaws along the border. But now, thousands of drones are heading to the homeland. Drones are already used for certain purposes here in the United ...</excerpt>
+          <fti-names>'along':21 'alreadi':36 'blog':47 'border':23 'catch':19 'certain':39 'come':4 'drone':2,12,28,34 'event':46 'foreign':15 'head':30 'homeland':33 'human':45 'outlaw':20 'oversea':17 'purpos':40 'state':9 'terrorist':16 'thousand':26 'track':14 'unit':8,44 'use':11,37 'year':6</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.humanevents.com/2012/07/31/rep-ted-poe-the-drones-are-coming/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:26:04-04:00</date>
+          <id type="integer">16967092</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Human Events (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:06:15-04:00</created-at>
+          <title>Ted Poe: Obama Immigration Policy Endangering Public Safety</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Obama administration&#8217;s policy of not deporting illegal immigrants arrested for criminal activity &#8220;is not working for public safety in the United States,&#8221; Texas Rep. Ted Poe tells Newsmax.TV in an exclusive interview. &#8220;That&#8217;s a lot ...</excerpt>
+          <fti-names>'activ':22 'administr':11 'arrest':19 'crimin':21 'deport':16 'endang':6 'exclus':41 'illeg':17 'immigr':4,18 'interview':42 'lot':46 'newsmax.com':47 'newsmax.tv':38 'obama':3,10 'poe':2,36 'polici':5,13 'public':7,27 'rep':34 'safeti':8,28 'state':32 'ted':1,35 'tell':37 'texa':33 'unit':31 'work':25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.newsmax.com/US/immigration-criminals-deportation-poe/2012/07/31/id/447161</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T17:18:16-04:00</date>
+          <id type="integer">16967093</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:06:15-04:00</created-at>
+          <title>House members seek recognition for Jewish refugees from Arab countries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representatives Jerrold Nadler (D-NY), Ileana Ros-Lehtinen (R-FL), Howard Berman (D-CA), Ted Poe (R-TX), Joe Crowley (D-NY), and ... there can be no meaningful justice and thus no legitimate peace.&quot; Congressman Poe argued that &quot;every refugee, regardless ..</excerpt>
+          <fti-names>'arab':9 'argu':53 'berman':25 'ca':28 'congressman':51 'countri':10 'crowley':35 'd':15,27,37 'd-ca':26 'd-ni':14,36 'everi':55 'fl':23 'hous':1 'howard':24 'ileana':17 'jerrold':12 'jewish':6 'joe':34 'justic':45 'legitim':49 'lehtinen':20 'meaning':44 'member':2 'nadler':13 'news':59 'ny':16,38 'peac':50 'poe':30,52 'r':22,32 'r-fl':21 'r-tx':31 'recognit':4 'refuge':7,56 'regardless':57 'repres':11 'ros':19 'ros-lehtinen':18 'seek':3 'ted':29 'thus':47 'tx':33 'ynet':58</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ynetnews.com/articles/0,7340,L-4262885,00.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:00:34-04:00</date>
+          <id type="integer">16967094</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>YNET News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:59:37-04:00</created-at>
+          <title>Republicans propose formal limits on use of drones in the US</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Ted Poe (R-Texas) and 23 other Republicans introduced the Preserving American Privacy Act, H.R. 6199, which would require the Federal Aviation Administration from issuing permits allowing a drone to fly in U.S. airspace for law enforcement purposes ..</excerpt>
+          <fti-names>'23':19 '6199':29 'act':27 'administr':36 'airspac':47 'allow':40 'american':25 'aviat':35 'drone':8,42 'enforc':50 'feder':34 'fli':44 'formal':3 'h.r':28 'introduc':22 'issu':38 'law':49 'limit':4 'permit':39 'poe':14 'preserv':24 'privaci':26 'propos':2 'purpos':51 'r':16 'r-texa':15 'rep':12 'republican':1,21 'requir':32 'ted':13 'texa':17 'thehill.com':52 'u.s':46 'us':11 'use':6 'would':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/floor-action/house/240791-republicans-propose-formal-limits-on-use-of-drones-in-the-us</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T16:04:16-04:00</date>
+          <id type="integer">16930672</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:47:47-04:00</created-at>
+          <title>EDITORIAL: Poe's anti-drone bill could undermine police</title>
+          <contains-term>congress</contains-term>
+          <excerpt>It's not surprising that some members of Congress are uneasy about the growing use of surveillance drone aircraft by law enforcement and government agencies. The trend does raise concerns about individual privacy rights, and that resonates with the few m</excerpt>
+          <fti-names>'agenc':35 'aircraft':29 'anti':5 'anti-dron':4 'beaumont':52 'bill':7 'concern':40 'congress':19 'could':8 'drone':6,28 'editori':1 'enforc':32 'enterpris':53 'govern':34 'grow':24 'individu':42 'law':31 'm':51 'member':17 'poe':2 'polic':10 'privaci':43 'rais':39 'reson':47 'right':44 'surpris':14 'surveil':27 'trend':37 'undermin':9 'uneasi':21 'use':25</fti-names>
+          <source-url>http://beaumontenterprise.com/</source-url>
+          <url>http://www.beaumontenterprise.com/opinions/editorials/article/EDITORIAL-Poe-s-anti-drone-bill-could-undermine-3735527.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16891968</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beaumont Enterprise</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:48-04:00</created-at>
+          <title>New Drone Bill Highlights Growing Privacy Concerns</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Law360, New York (July 25, 2012, 7:16 PM ET) -- Rep. Ted Poe, R-Texas, on Tuesday unveiled a bill that would extend restrictions on the use of unmanned aircraft systems by the private sector, as the debate heats up among lawmakers over the impact that the </excerpt>
+          <fti-names>'16':15 '2012':13 '25':12 '7':14 'aircraft':38 'among':49 'bill':3,28 'concern':7 'debat':46 'drone':2 'et':17 'extend':31 'grow':5 'heat':47 'highlight':4 'impact':53 'juli':11 'law360':8 'lawmak':50 'new':1,9 'pm':16 'poe':20 'privaci':6 'privat':42 'r':22 'r-texa':21 'rep':18 'restrict':32 'sector':43 'site.law360.com':56 'system':39 'ted':19 'texa':23 'tuesday':25 'unman':37 'unveil':26 'use':35 'would':30 'york':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.law360.com/topnews/articles/363648</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:12:45-04:00</date>
+          <id type="integer">16923104</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>site.law360.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Ted Poe [R, TX-2]</name>
+      <total-session-votes type="integer">1677</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>CongressmanTedPoe</youtube-id>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:31-04:00</created-at>
+          <title>US House votes to cut USD 650mn in military aid to Pak | AAJ News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The amendment to cut the aid, which was proposed by Republican Congressman Ted Poe, passed on the floor in a voice vote. Poe had demanded a USD 1.3 billion cut, but settled for the 650 million cut. It will now go to ...</excerpt>
+          <fti-names>'1.3':42 '650':49 '650mn':7 'aaj':13 'aid':10,20 'amend':16 'billion':43 'congressman':26 'cut':5,18,44,51 'demand':39 'fawad':57 'floor':32 'go':55 'hous':2 'khan':58 'militari':9 'million':50 'news':14 'pak':12 'pass':29 'poe':28,37 'propos':23 'republican':25 'settl':46 'ted':27 'us':1 'usd':6,41 'voic':35 'vote':3,36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.aaj.tv/2012/07/us-house-votes-to-cut-usd-650mn-in-military-aid-to-pak/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNFAm_HJEei5IoBQT-1yVMpc_1oZAA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780464</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fawad Khan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:31-04:00</created-at>
+          <title>US House votes to cut aid to &amp;#39;traitor&amp;#39; Pak by USD 650 mn | IndiaPost</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The amendment to cut the aid, which was proposed by Republican Congressman Ted Poe, passed on the floor of the House with a voice vote. Poe had demanded a USD 1.3 billion cut, but settled for the USD 650 million cut.</excerpt>
+          <fti-names>'1.3':45 '650':12,53 'aid':6,20 'amend':16 'billion':46 'congressman':26 'cut':5,18,47,55 'demand':42 'floor':32 'ghanshyam':56 'hous':2,35 'indiapost':14 'million':54 'mn':13 'pak':9 'pass':29 'poe':28,40 'propos':23 'republican':25 'settl':49 'ted':27 'traitor':8 'us':1 'usd':11,44,52 'voic':38 'vote':3,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.indiapost.com/us-house-votes-to-cut-aid-to-traitor-pak-by-usd-650-mn/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFst8uxx03NsWYK6eH8aoBRBV5AYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780463</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ghanshyam</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:30-04:00</created-at>
+          <title>US House approves $650m cut in Pakistan aid &#8211; The Express Tribune</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The move, led by Republican Congressman Ted Poe, took place when the House was debating the Department of Defence Appropriations Act for 2013, which allocates money for the US military budget. Addressing the House ...</excerpt>
+          <fti-names>'2013':34 '650m':4 'act':32 'address':43 'aid':8 'alloc':36 'appropri':31 'approv':3 'budget':42 'congressman':17 'cut':5 'debat':26 'defenc':30 'depart':28 'express':10 'hous':2,24,45 'huma':47 'imtiaz':48 'led':14 'militari':41 'money':37 'move':13 'noreply@tribune.com.pk':46 'pakistan':7 'place':21 'poe':19 'republican':16 'ted':18 'took':20 'tribun':11 'us':1,40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tribune.com.pk/story/410812/us-house-approves-650m-cut-in-pakistan-aid/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNEu3NKpH5kh-PYSk5DVxoMJttKEVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780456</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>noreply@tribune.com.pk (Huma Imtiaz)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:30-04:00</created-at>
+          <title>Baloch Human Rights Council (BHRC): Pakistan proven to be ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Addressing the House floor, Rep. Ted Poe, said it was time for a new strategy with Pakistan, while describing Pakistan as a &#8220;Benedict Arnold&#8221; nation. Benedict Arnold was an American general who defected to the British side ...</excerpt>
+          <fti-names>'address':10 'american':39 'arnold':33,36 'baloch':1,47 'benedict':32,35 'bhrc':5 'british':45 'council':4 'defect':42 'describ':28 'floor':13 'general':40 'hous':12 'human':2 'nation':34 'new':23 'pakistan':6,26,29 'poe':16 'proven':7 'rep':14 'right':3 'said':17 'side':46 'strategi':24 'ted':15 'time':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://balochistanhcr.blogspot.com/2012/07/pakistan-proven-to-be-deceptive-and.html&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNF5RaITw9zcmqrnCJfzN6mC9F5lyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780455</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>baloch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:31-04:00</created-at>
+          <title>Rand Paul Review | House votes to cut $650M in Pakistan aid</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The amendment to cut aid by $650 million, proposed by Rep. Ted Poe (R-Texas), passed on the floor in a voice vote. Initially, Poe had proposed cutting the aid by $1.3 billion, but he withdrew that amendment and agreed ...</excerpt>
+          <fti-names>'1.3':44 '650':18 '650m':8 'agre':52 'aid':11,16,42 'amend':13,50 'billion':45 'cut':7,15,40 'floor':31 'hous':4 'initi':36 'million':19 'pakistan':10 'pass':28 'paul':2,54 'poe':24,37 'propos':20,39 'r':26 'r-texa':25 'rand':1,53 'rep':22 'review':3,55 'ted':23 'texa':27 'voic':34 'vote':5,35 'withdrew':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.randpaulreview.com/2012/07/house-votes-to-cut-650m-in-pakistan-aid/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNG-SDnc8OYkQ3uC85K5GNID2fCuIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16780461</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rand Paul Review</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:30-04:00</created-at>
+          <title>Weasel Zippers &#187; Blog Archive &#187; House Slashes $650 Million In Aid ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Ted Poe (R-Texas) first came to the floor demanding a $1.3 billion cut and initially won the endorsement of Rep. Bill Young (R-Fla.), who was managing the defense bill on the floor. But ultimately a cut of $650 million was ...</excerpt>
+          <fti-names>'1.3':24 '650':7,53 'aid':10 'archiv':4 'bill':34,44 'billion':25 'blog':3 'came':18 'cut':26,51 'defens':43 'demand':22 'endors':31 'first':17 'fla':38 'floor':21,47 'hous':5 'initi':28 'manag':41 'million':8,54 'poe':13 'r':15,37 'r-fla':36 'r-texa':14 'rep':11,33 'slash':6 'ted':12 'texa':16 'ultim':49 'weasel':1 'won':29 'young':35 'zip':56 'zipper':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://weaselzippers.us/2012/07/19/house-slashes-650-million-in-aid-to-pakistan-to-punish-benedict-arnold-nation/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGhtGI_wV3Q2K1fvhbRbtQGwwNIug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16780458</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ZIP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:30-04:00</created-at>
+          <title>&#8230;And The Horse You Rode In On&#8230; &#171; A Nod To The Gods</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Ted Poe (R-Texas) first came to the floor demanding a $1.3 billion cut and initially won the endorsement of Rep. Bill Young (R-Fla.), who was managing the defense bill on the floor. But ultimately a cut of $650 million was ...</excerpt>
+          <fti-names>'1.3':26 '650':55 'bill':36,46 'billion':27 'came':20 'cut':28,53 'defens':45 'demand':24 'endors':33 'first':19 'fla':40 'floor':23,49 'god':12 'hors':3 'initi':30 'jeffli6':58 'manag':43 'million':56 'nod':9 'poe':15 'r':17,39 'r-fla':38 'r-texa':16 'rep':13,35 'rode':5 'ted':14 'texa':18 'ultim':51 'won':31 'young':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://anodtothegods.com/%3Fp%3D2258&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGmPMpoCklCzpfK39EljSKSEgRI6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16780457</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jeffli6</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:35:28-04:00</created-at>
+          <title>Ted Poe Is Not The Solution. Ted Poe Is The Problem. | Irregular Times</title>
+          <contains-term>congress</contains-term>
+          <excerpt>[0] comments. Today in the U.S. House of Representatives, Congressman Ted Poe stood up and gave an angry speech with the recurring theme &#8220;Government isn&amp;#39;t the answer. Government is the problem.&#8221; Then, this afternoon ...</excerpt>
+          <fti-names>'0':14 'afternoon':48 'angri':31 'answer':41 'comment':15 'congressman':23 'gave':29 'govern':37,42 'hous':20 'irregular':12 'isn':38 'peregrin':49 'poe':2,8,25 'problem':11,45 'recur':35 'repres':22 'solut':6 'speech':32 'stood':26 'ted':1,7,24 'theme':36 'time':13 'today':16 'u.s':19 'wood':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://irregulartimes.com/index.php/archives/2012/07/19/ted-poe-is-not-the-solution-ted-poe-is-the-problem/&amp;sa=U&amp;ei=gCMKUPyBH6Xs2QXAr_QS&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGOm3r24Vhp_Trrku7gmJdY6WvJmQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16780454</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Peregrin Wood</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:58:00-04:00</created-at>
+          <title>Morning Briefing for April 17, 2012 | RedState</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Got any questions for Rep. Ra&#250;l Labrador (ID-01), Rep. Tim Huelskamp (KS-01), Rep. Jeff Landry (LA-03), Rep. Allen West (FL-22), Rep. Mick Mulvaney (SC-05), Rep. Jeff Duncan (SC-03), Rep. Ted Poe (TX-02), Rep.</excerpt>
+          <fti-names>'-01':16,21 '-02':46 '-03':26,41 '-05':36 '-22':31 '17':5 '2012':6 'allen':28 'april':4 'brief':2 'diari':50 'duncan':39 'erick':48 'erickson':49 'fl':30 'got':8 'huelskamp':19 'id':15 'jeff':23,38 'ks':20 'la':25 'labrador':14 'landri':24 'mick':33 'morn':1 'mulvaney':34 'poe':44 'question':10 'ra&#250;l':13 'redstat':7 'rep':12,17,22,27,32,37,42,47 'sc':35,40 'ted':43 'tim':18 'tx':45 'west':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/erick/2012/04/17/morning-briefing-for-april-17-2012/&amp;sa=U&amp;ei=F6GNT9WrGYPg2QX2o6iUDA&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNE4QvfIm-r4Qm3orJix9TIksKWZCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14542983</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erick Erickson (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400652</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:58:01-04:00</created-at>
+          <title>Day of tax deadline, hear Idaho&amp;#39;s Labrador join other House ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>First District GOP Rep. Ra&#250;l Labrador is one of three co-chairs of the new group of &amp;quot;free-market and liberty-minded&amp;quot; members of Congress holding monthly meetings with the media. The inaugural meeting last month earned coverage for GOP ...   Reps</excerpt>
+          <fti-names>'chair':24 'co':23 'co-chair':22 'congress':39 'coverag':52 'dan':56 'day':1 'deadlin':4 'district':13 'earn':51 'first':12 'free':31 'free-market':30 'gop':14,54 'group':28 'hear':5 'hold':40 'hous':11 'idaho':6 'inaugur':47 'join':9 'labrador':8,17 'last':49 'liberti':35 'liberty-mind':34 'market':32 'media':45 'meet':42,48 'member':37 'mind':36 'month':41,50 'new':27 'one':19 'popkey':57 'ra&#250;l':16 'rep':15,55 'tax':3 'three':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://voices.idahostatesman.com/2012/04/16/idahopolitics/on_tax_deadline_day_hear_idahos_labrador_join_other_house_conser&amp;sa=U&amp;ei=F6GNT9WrGYPg2QX2o6iUDA&amp;ved=0CFUQmAEwCg&amp;usg=AFQjCNGXGUas14arePA2bpgd1EjQ_5lQLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14542989</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dan Popkey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23825</page-views-count>
+      <unaccented-name>Ted Poe</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

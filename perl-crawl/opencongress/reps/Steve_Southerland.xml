@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.7026239067055</party-votes-percentage>
+        <abstains-percentage type="float">0.232693426410704</abstains-percentage>
+        <votes-most-often-with-id type="integer">412431</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">4</abstains>
+        <cosponsored-bills type="integer">198</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">7</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412408</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1607</votes-republican-position>
+      <fax>202-225-5615</fax>
+      <blog-article-count type="integer">1640</blog-article-count>
+      <user-approval type="float">1.33333333333333</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">34</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <bioguide-id>S001186</bioguide-id>
+      <with-party-percentage type="float">93.7026239067055</with-party-percentage>
+      <lastname>Southerland</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1229 Longworth House Office Building</congress-office>
+      <firstname>Steve</firstname>
+      <website>http://southerland.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1965-10-10</birthday>
+      <person-id type="integer">412408</person-id>
+      <phone>202-225-5235</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">347</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:56:49-04:00</created-at>
+          <title>Bembry leads in Florida 2nd Congressional District fundraising</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...finance reports filed on Thursday. The four are fighting to win the Aug. 14 primary and go on to face GOP incumbent Steve Southerland, of Panama City. The finance reports recorded contributions and expenditures for each campaign from July 1 to July 25 a</excerpt>
+          <fti-names>'1':48 '14':22 '25':51 '2nd':5 'aug':21 'bembri':1 'campaign':45 'citi':35 'congression':6 'contribut':40 'district':7 'expenditur':42 'face':28 'fight':17 'file':11 'financ':9,37 'florida':4 'four':15 'fundrais':8 'go':25 'gop':29 'incumb':30 'juli':47,50 'lead':2 'panama':34 'primari':23 'record':39 'report':10,38 'southerland':32 'steve':31 'tallahassee.com':53 'thursday':13 'win':19</fti-names>
+          <source-url>http://www.tallahassee.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.tallahassee.com/article/20120807/NEWS01/308070009/1103/RSS18</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973598</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tallahassee.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:05:47-04:00</created-at>
+          <title>Cornyn to get down with the Commodores - Cantor bolts to sunshine state for recess cash hunt - Texas Democrat digging for cash at Tortilla Coast - Third Way to party in Charlotte</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Leader Eric Cantor is slated to catch some rays Thursday with a trip to Florida to help fill the campaign coffers of Rep. Steve Southerland (R-Fla.). The event, scheduled for 8 p.m. Thursday at the Florida Realtors office in Tallahassee, Fla., requires </excerpt>
+          <fti-names>'8':63 'bolt':9 'campaign':50 'cantor':8,33 'cash':15,21 'catch':37 'charlott':30 'coast':24 'coffer':51 'commodor':7 'cornyn':1 'democrat':18 'dig':19 'eric':32 'event':60 'fill':48 'fla':58,73 'florida':45,68 'get':3 'help':47 'hunt':16 'leader':31 'offic':70 'p.m':64 'parti':28 'politico':76 'r':57 'r-fla':56 'ray':39 'realtor':69 'recess':14 'rep':53 'requir':74 'schedul':61 'slate':35 'southerland':55 'state':12 'steve':54 'sunshin':11 'tallahasse':72 'texa':17 'third':25 'thursday':40,65 'tortilla':23 'trip':43 'way':26</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/politicoinfluence/0812/politicoinfluence319.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973001</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:52:04-04:00</created-at>
+          <title>Job growth drowning from rising tide of regulations</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...of small businesses surveyed werent hiring and about half cited government regulations as the principal reason. U.S. Rep. Steve Southerland, himself a business owner in Panama City, said the bill HR 10, Regulations From the Executive in Need of Scrutiny</excerpt>
+          <fti-names>'10':40 'bill':38 'busi':11,31 'cite':18 'citi':35 'drown':3 'execut':44 'govern':19 'growth':2 'half':17 'hire':14 'hr':39 'job':1 'need':46 'owner':32 'panama':34 'princip':23 'reason':24 'regul':8,20,41 'rep':26 'rise':5 'said':36 'scrutini':48 'small':10 'southerland':28 'steve':27 'survey':12 'tallahassee.com':49 'tide':6 'u.s':25 'werent':13</fti-names>
+          <source-url>http://www.tallahassee.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.tallahassee.com/article/20120804/BUSINESS/308040025/1103/RSS18</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972539</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tallahassee.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:05:45-04:00</created-at>
+          <title>Federal bill filed for Magnuson changes</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...was introduced late Thursday by Rep. Jon Runyon, R-New Jersey. Co-sponsors include Republicans Frank Guinta of New Hampshire, Steve Southerland II, David Rivera and Ileana Ros-Lehtinen, all of Florida. Writing more flexibility into Magnuson has been the</excerpt>
+          <fti-names>'bill':2 'chang':6 'co':20 'co-sponsor':19 'daili':51 'david':32 'feder':1 'file':3 'flexibl':44 'florida':41 'frank':24 'gloucest':50 'guinta':25 'hampshir':28 'ii':31 'ileana':35 'includ':22 'introduc':8 'jersey':18 'jon':13 'late':9 'lehtinen':38 'magnuson':5,46 'new':17,27 'r':16 'r-new':15 'rep':12 'republican':23 'rivera':33 'ros':37 'ros-lehtinen':36 'runyon':14 'southerland':30 'sponsor':21 'steve':29 'thursday':10 'time':52 'write':42</fti-names>
+          <source-url>http://www.gloucestertimes.com/</source-url>
+          <url>http://www.gloucestertimes.com/local/x614302212/Federal-bill-filed-for-Magnuson-changes</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972272</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Gloucester Daily Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:58-04:00</created-at>
+          <title>Six Florida congressional candidates have at least $1,000,000 cash in hand</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a list of candidates, with cash-on-hand figures updated to July 25: District 1 Jeff Miller, R $112,059.00 District 2 Steve Southerland R $716,650.00 District 2 Al Lawson, D $101,733.00 District 3 Cliff Stearns, R $2,080,850.00 District 3 James Jett, R $</excerpt>
+          <fti-names>'000':9,10 '059.00':34 '080':55 '1':8,29 '101':47 '112':33 '2':36,43,54 '25':27 '3':50,58 '650.00':41 '716':40 '733.00':48 '850.00':56 'al':44 'candid':4,17 'cash':11,20 'cash-on-hand':19 'cliff':51 'congression':3 'd':46 'district':28,35,42,49,57 'figur':23 'florida':2 'hand':13,22 'jame':59 'jeff':30 'jett':60 'juli':26 'lawson':45 'least':7 'list':15 'miller':31 'news':64 'news-press':63 'press':65 'r':32,39,53,61 'six':1 'southerland':38 'stearn':52 'steve':37 'updat':24</fti-names>
+          <source-url>http://www.news-press.com/</source-url>
+          <url>http://www.news-press.com/article/20120803/NEWS0107/120803025/1002/RSS01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971847</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The News-Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:28:42-04:00</created-at>
+          <title>Florida Morning: Crist backs Nelson; IRS steps up Miccosukee investigation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...opponent, Mike Weinstein. Florida Times-Union http://bit.ly/OHe9OX CD2: The Democratic challengers to Republican U.S. Rep. Steve Southerland in the Second Congressional District agree they must unify to beat him &#8211; but lingering bad blood from their pa</excerpt>
+          <fti-names>'/ohe9ox':20 'agre':36 'back':4 'bad':45 'beat':41 'bit.ly':19 'bit.ly/ohe9ox':18 'blood':46 'cd2':21 'challeng':24 'congression':34 'crist':3 'democrat':23 'district':35 'florida':1,14 'investig':10 'ir':6 'jacksonville.com':50 'linger':44 'miccosuke':9 'mike':12 'morn':2 'must':38 'nelson':5 'oppon':11 'pa':49 'rep':28 'republican':26 'second':33 'southerland':30 'step':7 'steve':29 'time':16 'times-union':15 'u.s':27 'unifi':39 'union':17 'weinstein':13</fti-names>
+          <source-url>http://www.jacksonville.com/</source-url>
+          <url>http://feeds.jacksonville.com/~r/JacksonvillecomNews/~3/hrpbX-Xbb_c/florida-morning-crist-backs-nelson-irs-steps-miccosukee</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970984</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jacksonville.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:59:34-04:00</created-at>
+          <title>Regulator: Peregrine case is isolated event</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...The bad news is that Peregrine is part of a larger financial services industry plagued by misconduct in recent years. Rep. Steve Southerland, R-Fla., described it as an industry with an integrity crisis last week. Incidents like the one at Peregrine, th</excerpt>
+          <fti-names>'bad':8 'case':3 'crisi':41 'des':51 'describ':33 'event':6 'financi':18 'fla':32 'incid':44 'industri':20,37 'integr':40 'isol':5 'larger':17 'last':42 'like':45 'misconduct':23 'moin':52 'news':9 'one':47 'part':14 'peregrin':2,12,49 'plagu':21 'r':31 'r-fla':30 'recent':25 'regist':53 'regul':1 'rep':27 'servic':19 'southerland':29 'steve':28 'th':50 'week':43 'year':26</fti-names>
+          <source-url>http://desmoinesregister.com/</source-url>
+          <url>http://feedproxy.google.com/~r/desmoinesregister/Business/~3/HLDRgvPpjSk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970006</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Des Moines Register</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:17:31-04:00</created-at>
+          <title>Regulator: Peregrine case is isolated event</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...The bad news is that Peregrine is part of a larger financial services industry plagued by misconduct in recent years. Rep. Steve Southerland, R-Fla., described it as an industry with an integrity crisis last week. Incidents like the one at Peregrine, th</excerpt>
+          <fti-names>'bad':8 'case':3 'crisi':41 'des':51 'describ':33 'event':6 'financi':18 'fla':32 'incid':44 'industri':20,37 'integr':40 'isol':5 'larger':17 'last':42 'like':45 'misconduct':23 'moin':52 'news':9 'one':47 'part':14 'peregrin':2,12,49 'plagu':21 'r':31 'r-fla':30 'recent':25 'regist':53 'regul':1 'rep':27 'servic':19 'southerland':29 'steve':28 'th':50 'week':43 'year':26</fti-names>
+          <source-url>http://desmoinesregister.com/</source-url>
+          <url>http://feedproxy.google.com/~r/desmoinesregister/IowaEnergy/~3/r5dStDAEoP0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16967309</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Des Moines Register</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:17:20-04:00</created-at>
+          <title>Bad Economy, Bad Policy, More Poverty and Welfare Dependency</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representatives Jim Jordan and Steve Southerland II suggested, &#8220;Congress should block-grant the [welfare] funds to states and let them innovate. Grass-roots organizations and state and local leaders know better than Congress what works in their communiti</excerpt>
+          <fti-names>'bad':1,3 'better':42 'block':21 'block-grant':20 'canada':50 'communiti':49 'congress':18,44 'depend':9 'economi':2 'free':51 'fund':25 'grant':22 'grass':33 'grass-root':32 'ii':16 'innov':31 'jim':11 'jordan':12 'know':41 'leader':40 'let':29 'local':39 'organ':35 'polici':4 'poverti':6 'press':52 'repres':10 'root':34 'southerland':15 'state':27,37 'steve':14 'suggest':17 'welfar':8,24 'work':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.canadafreepress.com/index.php/article/48458</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T16:42:28-04:00</date>
+          <id type="integer">16967308</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Canada Free Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:17:18-04:00</created-at>
+          <title>Jett vies for U.S. Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Because of district realignment, Rep. Steve Southerland, who represents Florida&#8217;s 2nd Congressional District, will no longer represent Suwannee and Lafayette counties after November. Following the general election and installment of officials ...</excerpt>
+          <fti-names>'2nd':17 'congress':5 'congression':18 'counti':27 'democrat':39 'district':8,19 'elect':33 'florida':15 'follow':30 'general':32 'instal':35 'jett':1 'lafayett':26 'longer':22 'novemb':29 'offici':37 'realign':9 'rep':10 'repres':14,23 'southerland':12 'steve':11 'suwanne':24,38 'u.s':4 'vie':2</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://suwanneedemocrat.com/election-2012-local-headquarters/x1402340468/Jett-vies-for-U-S-Congress</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T15:38:03-04:00</date>
+          <id type="integer">16967305</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Suwannee Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Steve Southerland [R, FL-2]</name>
+      <total-session-votes type="integer">1715</total-session-votes>
+      <sunlight-nickname>Steve</sunlight-nickname>
+      <youtube-id>RepSteveSoutherland</youtube-id>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:49-04:00</created-at>
+          <title>(Probate Issues 1 of 5) Will the Probate Court Investigate Improper ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Steve Southerland [R, FL-2] Rep. Jackie Speier [D, CA-12] Rep. Fortney Stark [D, CA-13] Rep. Clifford Stearns [R, FL-6] Rep. Steve Stivers [R, OH-15] Rep. Marlin Stutzman [R, IN-3] Rep. John Sullivan [R, OK-1] Rep.</excerpt>
+          <fti-names>'-1':52 '-12':22 '-13':28 '-15':40 '-2':16 '-3':46 '-6':34 '1':3 '5':5 'ca':21,27 'clifford':30 'court':9 'd':20,26 'fl':15,33 'fortney':24 'improp':11 'investig':10 'issu':2 'jacki':18 'john':48 'marlin':42 'oh':39 'ok':51 'probat':1,8 'probatecourtco.com':54 'r':14,32,38,44,50 'rep':17,23,29,35,41,47,53 'southerland':13 'speier':19 'stark':25 'stearn':31 'steve':12,36 'stiver':37 'stutzman':43 'sullivan':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/probate-issues-1-of-5-will-the-probate-court-investigate-improper-actions-of-the-executor-3/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGY5w3m6YlfoDda3Kx_ubssoxQ2tQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16282906</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:48-04:00</created-at>
+          <title>HR.697 | Providing for consideration of the bill (HR 5973) - Votetocracy</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Steve Southerland (FL Republican), Yes. Rep. Richard Nugent (FL Republican), Yes. Rep. Daniel Webster (FL Republican), Yes. Rep. Dennis Ross (FL Republican), Yes. Rep. Frederica Wilson (FL Democrat), No Vote. Rep. Allen West (FL ...</excerpt>
+          <fti-names>'5973':9 'allen':42 'bill':7 'consider':4 'daniel':23 'democrat':38 'denni':29 'fl':13,19,25,31,37,44 'frederica':35 'hr':8 'hr.697':1 'nugent':18 'provid':2 'rep':16,22,28,34,41 'republican':14,20,26,32 'richard':17 'ross':30 'southerland':12 'steve':11 'vote':40 'votetocraci':10 'webster':24 'west':43 'wilson':36 'www.votetocracy.com':45 'yes':15,21,27,33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr697-providing-for-consideration-of-the-bill-hr-5973-making-appropriations-for-agriculture-rural-development-food-and-drug-administration-and-related-agencies-programs-for-the-fiscal-year-ending-september-30-2013-and-for-other-purposes%3B-and-providing-for-consideration-of-the-bill-hr-5972-making-appropriations-for-the-departments-of-transportation-and-housing-and-urban-development-and-related-agencies-for-the-fiscal-year-ending-september-30-2013-and-for-other-purposes-41350&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNHP2stVuHDVzax1uE0Ws7OLeAQGAw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16282902</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:48-04:00</created-at>
+          <title>Highways-student loan deal poised for votes | WSLS 10</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Florida Republican Rep. Steve Southerland, one of the deal&amp;#39;s negotiators, said he expects the package to win passage, explaining that no one has argued a short-term extension is in the nation&amp;#39;s best interest and that ...</excerpt>
+          <fti-names>'10':10 'argu':35 'best':46 'deal':5,19 'expect':24 'explain':30 'extens':40 'florida':11 'highway':2 'highways-stud':1 'interest':47 'loan':4 'nation':44 'negoti':21 'one':16,33 'packag':26 'passag':29 'pois':6 'rep':13 'republican':12 'said':22 'short':38 'short-term':37 'southerland':15 'steve':14 'student':3 'term':39 'vote':8 'win':28 'wsls':9 'www2.wsls.com':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.wsls.com/news/2012/jun/28/highways-student-loan-deal-poised-for-votes-ar-2021234/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNFpMZgtblfDM_yL9OWXcimFlc6uGw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16282901</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.wsls.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:48-04:00</created-at>
+          <title>Oyster Radio News: SOUTHERLAND REQUESTS EXTENSION OF ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>WASHINGTON, D.C. &#8211; Representative Steve Southerland, II made a direct appeal this week for an immediate extension of the red snapper season to replace the fishing days potentially lost due to Tropical Storm Debby and ...</excerpt>
+          <fti-names>'appeal':17 'd.c':9 'day':33 'debbi':40 'direct':16 'due':36 'extens':6,23 'fish':32 'ii':13 'immedi':22 'lost':35 'made':14 'news':3 'oyster':1 'potenti':34 'radio':2 'red':26 'replac':30 'repres':10 'request':5 'season':28 'snakeman':42 'snapper':27 'southerland':4,12 'steve':11 'storm':39 'tropic':38 'washington':8 'week':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oysterradio.blogspot.com/2012/06/southerland-requests-extension-of-red.html&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNHxnRvbcam2_-hCWTXOKq8TCn1Vrw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16282897</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Snakeman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:48-04:00</created-at>
+          <title>Biking and Walking Hang in the Balance &#8212; Call Congress ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Alaska: Rep. Don Young: (907) 271-5978; California state: Sen. Barbara Boxer: (510) 286-8537; Florida 2: Rep. Steve Southerland: (850) 785-0812; Illinois state: Sen. Dick Durbin: (312) 353-4952; Indiana-8: Rep.</excerpt>
+          <fti-names>'-0812':32 '-4952':40 '-5978':16 '-8':42 '-8537':24 '2':26 '271':15 '286':23 '312':38 '353':39 '510':22 '785':31 '850':30 '907':14 'alaska':10 'balanc':7 'barbara':20 'bike':1 'boxer':21 'california':17 'call':8 'congress':9 'dick':36 'durbin':37 'florida':25 'hang':4 'illinoi':33 'indiana':41 'jodi':44 'rep':11,27,43 'sen':19,35 'southerland':29 'state':18,34 'steve':28 'walk':3 'young':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.considerbiking.org/biking-and-walking-hang-in-the-balance-call-congress/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNEayj-EfU_oG0K5Ae1RBq7nr5qflA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16282899</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jody</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:49-04:00</created-at>
+          <title>Making Lawmakers Answer For Pedestrian Deaths In Their Districts ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. James Lankford, a Tea Party Republican representing Oklahoma City, probably wasn&amp;#39;t responsible for any of the 118 pedestrian deaths in his district between 2001 to 2010. And it&amp;#39;s unlikely Rep. Steve Southerland of ...</excerpt>
+          <fti-names>'118':28 '2001':35 '2010':37 'answer':3 'citi':19 'death':6,30 'district':9,33 'jame':11 'lankford':12 'lawmak':2 'make':1 'oklahoma':18 'parti':15 'pedestrian':5,29 'probabl':20 'rep':10,42 'repres':17 'republican':16 'respons':23 'snyder':47 'southerland':44 'steve':43 'tanya':46 'tea':14 'unlik':41 'wasn':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dc.streetsblog.org/2012/06/21/making-lawmakers-answer-for-pedestrian-deaths-in-their-districts/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGrCcg6HTpjuG5Vucra1qwk8pVaNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-21T01:00:00-04:00</date>
+          <id type="integer">16282908</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tanya Snyder</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:49-04:00</created-at>
+          <title>QUOTES: GOP Lawmakers React to Obama&amp;#39;s Assertion of Executive ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve Southerland (R-FL): &#8220;When the president exerts an executive order, that&amp;#39;s a home alarm going off at 1600 Pennsylvania Avenue. There&amp;#39;s something they don&amp;#39;t want us to know. &#8230; He owns it &#8230; You all are going to ...</excerpt>
+          <fti-names>'1600':32 'alarm':28 'assert':8 'avenu':34 'execut':10,22 'exert':20 'fl':16 'fox':53 'go':29,51 'gop':2 'home':27 'insid':55 'know':44 'lawmak':3 'news':54 'obama':6 'order':23 'own':46 'pennsylvania':33 'presid':19 'quot':1 'r':15 'r-fl':14 'react':4 'rep':11 'someth':37 'southerland':13 'steve':12 'us':42 'want':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://foxnewsinsider.com/2012/06/20/quotes-gop-lawmakers-react-to-obamas-assertion-of-executive-privilege-he-said-he-was-going-to-drain-the-swamp-hes-turned-it-into-a-cesspool/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNEBhsQwLDSY07UFziwaY_lc_DbFEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16282907</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fox News Insider</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:34:49-04:00</created-at>
+          <title>Script, Audio of Radio Ads Urging Passage of Transportation Bill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>TCC Ad in Rep. Dave Camp&amp;#39;s Michigan District (Audio) (Script). TCC Ad in Rep. James Lankford&amp;#39;s Oklahoma District (Audio) (Script). TCC Ad in Rep. Steve Southerland&amp;#39;s Florida District (Audio) (Script). TCC Ad in Rep.</excerpt>
+          <fti-names>'ad':5,12,23,34,45 'audio':2,20,31,42 'bill':10 'camp':16 'dave':15 'district':19,30,41 'ehl':49 'florida':40 'jame':26 'lankford':27 'larri':48 'michigan':18 'oklahoma':29 'passag':7 'radio':4 'rep':14,25,36,47 'script':1,21,32,43 'southerland':38 'steve':37 'tcc':11,22,33,44 'transport':9 'urg':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.transportationissuesdaily.com/script-audio-of-radio-ads-urging-passage-of-transportation-bill/&amp;sa=U&amp;ei=VyLtT8G4NrPq2wW51uSMAg&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNHsgCW96_Qly9jKtMbC6qty0arvPg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16282904</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Larry Ehl</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:21:04-04:00</created-at>
+          <title>Seventy-two (and Counting) Representatives Support Earmark Ban ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. Jeff Flake (R-AZ) Rep. Devin Nunes (R-CA) Rep. Howard McKeon (R-CA) Rep. Mary Bono Mack (R-CA) Rep. John Campbell (R-CA) Rep. Duncan Hunter (R-CA) Rep. Doug Lamborn (R-CO) Rep. Steve Southerland ...</excerpt>
+          <fti-names>'az':15 'ban':9 'bono':30 'ca':21,27,34,40,46 'campbel':37 'co':52 'count':5 'devin':17 'doug':48 'duncan':42 'earmark':8 'flake':12 'howard':23 'hunter':43 'jeff':11 'john':36 'lamborn':49 'mack':31 'mari':29 'mckeon':24 'nune':18 'r':14,20,26,33,39,45,51 'r-az':13 'r-ca':19,25,32,38,44 'r-co':50 'rep':10,16,22,28,35,41,47,53 'repres':6 'roman':57 'sarah':56 'seventi':2 'seventy-two':1 'southerland':55 'steve':54 'support':7 'two':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usamericanfreedom.com/2012/04/17/seventy-two-and-counting-representatives-support-earmark-ban/&amp;sa=U&amp;ei=gKaNT4fpJIri2AWHp7HyCw&amp;ved=0CCsQmAEwAQ&amp;usg=AFQjCNGhkg7RFWcHVCK6wLW4jND8yMhivg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14544268</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Roman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412408</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:06:55-04:00</created-at>
+          <title>noe4accountability: April 16, 2012 MUC Selects Three Candidates ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The Five asked our two local state legislators (Rep. Don Miller and Sen. Steve Southerland) to push a bill through the state legislature to change the current appointment process that was put in place by 3202 people (72%) in ...</excerpt>
+          <fti-names>'16':3 '2012':4 '3202':44 '72':46 'appoint':36 'april':2 'ask':11 'bill':27 'candid':8 'chang':33 'current':35 'five':10 'legisl':16 'legislatur':31 'linda':48 'local':14 'miller':19 'muc':5 'noe4accountability':1 'peopl':45 'place':42 'process':37 'push':25 'put':40 'rep':17 'select':6 'sen':21 'southerland':23 'state':15,30 'steve':22 'three':7 'two':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lindanoe.blogspot.com/2012/04/april-16-2012-muc-selects-three.html&amp;sa=U&amp;ei=rlGMT8DEIumo2wX1vejHCQ&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNFWha4N1dhCyQ2bkKkNoXhIPQEvyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14505795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Linda</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5681</page-views-count>
+      <unaccented-name>Steve Southerland</unaccented-name>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

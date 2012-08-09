@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T07:26:32-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.1319796954315</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">300076</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">44</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">156</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">23</party-votes-percentage-rank>
+        <sponsored-bills type="integer">34</sponsored-bills>
+        <votes-least-often-with-id type="integer">400105</votes-least-often-with-id>
+        <person-id type="integer">300018</person-id>
+        <cosponsored-bills-rank type="integer">50</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">34</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">2</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412384</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">159</votes-republican-position>
+      <blog-article-count type="integer">13458</blog-article-count>
+      <fax>202-228-0514</fax>
+      <user-approval type="float">4.0738255033557</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">1584</oc-users-tracking>
+      <contact-webform>http://www.cantwell.senate.gov/contact/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.1319796954315</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Cantwell</lastname>
+      <congress-office>311 Hart Senate Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Maria</firstname>
+      <website>http://www.cantwell.senate.gov</website>
+      <birthday type="date">1958-10-13</birthday>
+      <person-id type="integer">300018</person-id>
+      <phone>202-224-3441</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <bioguide-id>C000127</bioguide-id>
+      <votes-democratic-position type="integer">363</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:04-04:00</created-at>
+          <title>Voters decide primary for governor, other races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...They are vying to replace Democratic Gov. Chris Gregoire, who is not seeking a third term. In another statewide race, U.S. Maria Cantwell is seeking her third term and is expected to easily advance to the November ballot, along with Republican state Sen</excerpt>
+          <fti-names>'advanc':41 'along':46 'anoth':25 'ballot':45 'cantwel':30 'chris':15 'decid':2 'democrat':13 'easili':40 'expect':38 'gov':14 'governor':5 'gregoir':16 'maria':29 'novemb':44 'primari':3 'race':7,27 'replac':12 'republican':48 'seattl':52 'seek':20,32 'sen':50 'state':49 'statewid':26 'term':23,35 'third':22,34 'time':53 'u.s':28 'voter':1 'vy':10</fti-names>
+          <source-url>http://www.seattletimes.com/</source-url>
+          <url>http://seattletimes.nwsource.com/html/localnews/2018869326_apwaprimaryrdp2ndldwritethru.html?syndication=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973699</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Seattle Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:07-04:00</created-at>
+          <title>Voters decide primary for governor, other races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a crowded ticket for the 1st Congressional District, the seat that Inslee resigned to focus on the governor's race. U.S. Maria Cantwell is seeking her third term, and is expected to easily advance to the November ballot along with Republican state Sen. </excerpt>
+          <fti-names>'1st':13 'advanc':41 'along':46 'ballot':45 'cantwel':30 'congression':14 'crowd':9 'decid':2 'district':15 'easili':40 'expect':38 'focus':22 'governor':5,25 'insle':19 'maria':29 'novemb':44 'primari':3 'race':7,27 'readingeagle.com':51 'republican':48 'resign':20 'seat':17 'seek':32 'sen':50 'state':49 'term':35 'third':34 'ticket':10 'u.s':28 'voter':1</fti-names>
+          <source-url>http://www.readingeagle.com/</source-url>
+          <url>http://hosted.ap.org/dynamic/stories/W/WA_PRIMARY_RDP_WAOL-?SITE=PAREA&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973706</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ReadingEagle.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:07-04:00</created-at>
+          <title>Iraq War not justified and power misplaced</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Baumgartner airs first ad vs. Sen. Cantwell WASHINGTON - Michael Baumgartner , who's trying to unseat Democratic Sen. Maria Cantwell , released his first television ad today. Turkey, Iraqi Kurds to act against Kurdish rebels Turkey and Iraq's autonomous</excerpt>
+          <fti-names>'act':37 'ad':11,31 'air':9 'autonom':45 'baumgartn':8,17 'cantwel':14,26 'democrat':23 'first':10,29 'iraq':1,43 'iraqi':34 'justifi':4 'kurd':35 'kurdish':39 'maria':25 'michael':16 'misplac':7 'olympian':47 'power':6 'rebel':40 'releas':27 'sen':13,24 'televis':30 'today':32 'tri':20 'turkey':33,41 'unseat':22 'vs':12 'war':2 'washington':15</fti-names>
+          <source-url>http://www.theolympian.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://feedproxy.google.com/~r/theolympian-LettersToTheEditor/~3/xK1G2YSUq4U/iraq-war-not-justified-and-power.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973705</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Olympian </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:06-04:00</created-at>
+          <title>Washington: All Eyes on 1st District Primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...primaries today in each of its 10 House districts and to decide who will be the GOP&#8217;s sacrificial lamb this fall against Sen. Maria Cantwell (D). The state is expected to have just a couple of competitive House races in November. The new Congressional</excerpt>
+          <fti-names>'10':14 '1st':5 'call':54 'cantwel':33 'competit':45 'congression':52 'coupl':43 'd':34 'decid':19 'district':6,16 'expect':38 'eye':3 'fall':29 'gop':24 'hous':15,46 'lamb':27 'maria':32 'new':51 'novemb':49 'primari':7,8 'race':47 'roll':53 'sacrifici':26 'sen':31 'state':36 'today':9 'washington':1</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/Washington-All-Eyes-on-First-District-Primary-216756-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973704</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:06-04:00</created-at>
+          <title>Letter: Support Safe Chemicals Act</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...products that get into the hands of our children. That is why I am pleased to see Sen. Patty Murray, D-Wash., and Sen. Maria Cantwell, D-Wash., co-sponsor the Safe Chemicals Act. The Safe Chemicals Act, which recently passed the Senate Environment and P</excerpt>
+          <fti-names>'act':5,42,46 'cantwel':32 'chemic':4,41,45 'children':14 'co':37 'co-sponsor':36 'columbian':56 'd':27,34 'd-wash':26,33 'environ':52 'get':8 'hand':11 'letter':1 'maria':31 'murray':25 'p':54 'pass':49 'patti':24 'pleas':20 'product':6 'recent':48 'safe':3,40,44 'see':22 'sen':23,30 'senat':51 'sponsor':38 'support':2 'wash':28,35</fti-names>
+          <source-url>http://www.columbian.com/</source-url>
+          <url>http://www.columbian.com/news/2012/aug/07/letter-support-safe-chemicals-act/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973703</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Columbian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:06-04:00</created-at>
+          <title>Voters weigh in on crowded primary ballot Tuesday</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in a special election for the final month of Inslee's term for his seat before redistricting. In statewide races, U.S. Maria Cantwell is seeking her third term and is expected to easily advance to the November ballot, along with Republican state Sen. Mi</excerpt>
+          <fti-names>'advanc':42 'along':47 'ballot':7,46 'cantwel':31 'crowd':5 'easili':41 'elect':12 'expect':39 'final':15 'insle':18 'komonews.com':53 'maria':30 'mi':52 'month':16 'novemb':45 'primari':6 'race':28 'redistrict':25 'republican':49 'seat':23 'seek':33 'sen':51 'special':11 'state':50 'statewid':27 'term':20,36 'third':35 'tuesday':8 'u.s':29 'voter':1 'weigh':2</fti-names>
+          <source-url>http://www.komonews.com/</source-url>
+          <url>http://www.komonews.com/news/local/Voters-weigh-in-on-crowded-primary-ballot-Tuesday-165280766.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973702</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KomoNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:06-04:00</created-at>
+          <title>Voters decide primary for governor, other races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...They are vying to replace Democratic Gov. Chris Gregoire, who is not seeking a third term. In another statewide race, U.S. Maria Cantwell is seeking her third term and is expected to easily advance to the November ballot, along with Republican state Sen</excerpt>
+          <fti-names>'advanc':41 'along':46 'anoth':25 'ballot':45 'cantwel':30 'chris':15 'decid':2 'democrat':13 'easili':40 'expect':38 'gov':14 'governor':5 'gregoir':16 'maria':29 'novemb':44 'primari':3 'race':7,27 'replac':12 'republican':48 'seattl':52 'seek':20,32 'sen':50 'state':49 'statewid':26 'term':23,35 'third':22,34 'time':53 'u.s':28 'voter':1 'vy':10</fti-names>
+          <source-url>http://www.seattletimes.com/</source-url>
+          <url>http://seattletimes.nwsource.com/html/localnews/2018865987_apwaprimaryrdp1stldwritethru.html?syndication=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973701</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Seattle Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:06-04:00</created-at>
+          <title>Missouri GOP Senate Primary Goes Down to the Wire</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to the November election rather than holding separate Republican and Democratic primary elections. Incumbent Democratic Sen. Maria Cantwell is expected to cruise into the top two for the November election over a crowded but little-known field of challen</excerpt>
+          <fti-names>'cantwel':27 'challen':49 'crowd':42 'cruis':31 'democrat':20,24 'elect':13,22,39 'expect':29 'field':47 'goe':5 'gop':2 'hold':16 'incumb':23 'known':46 'littl':45 'little-known':44 'maria':26 'missouri':1 'newsmax':50 'novemb':12,38 'primari':4,21 'rather':14 'republican':18 'sen':25 'senat':3 'separ':17 'top':34 'two':35 'wire':9</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/Missouri-Senate-Republican-Primary/2012/08/07/id/447787</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973700</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:27-04:00</created-at>
+          <title>Wash. voters weigh in on crowded primary ballot</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in a special election for the final month of Inslee's term for his seat before redistricting. In statewide races, U.S. Maria Cantwell is seeking her third term and is expected to easily advance to the November ballot, along with Republican state Sen. Mi</excerpt>
+          <fti-names>'advanc':42 'along':47 'ballot':8,46 'cantwel':31 'chronicl':55 'crowd':6 'easili':41 'elect':12 'expect':39 'final':15 'francisco':54 'insle':18 'maria':30 'mi':52 'month':16 'novemb':45 'primari':7 'race':28 'redistrict':25 'republican':49 'san':53 'seat':23 'seek':33 'sen':51 'special':11 'state':50 'statewid':27 'term':20,36 'third':35 'u.s':29 'voter':2 'wash':1 'weigh':3</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Wash-voters-weigh-in-on-crowded-primary-ballot-3766171.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973069</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:26-04:00</created-at>
+          <title>Sierra Club doubles down for Inslee</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...which used to endorse candidates in both parties, is backing a all-Democrat lineup in Washington this year &#8212; Sen. Maria Cantwell, five Democrats for Congress, and 59 Democrats for statewide office and the Legislature. &#8220;An Inslee administration will </excerpt>
+          <fti-names>'59':34 'administr':44 'all-democrat':18 'back':16 'candid':11 'cantwel':28 'club':2 'congress':32 'democrat':20,30,35 'doubl':3 'endors':10 'five':29 'insle':6,43 'intelligenc':48 'legislatur':41 'lineup':21 'maria':27 'offic':38 'parti':14 'post':47 'seattl':46 'sen':26 'sierra':1 'statewid':37 'use':8 'washington':23 'year':25</fti-names>
+          <source-url>http://seattlepi.nwsource.com/</source-url>
+          <url>http://blog.seattlepi.com/seattlepolitics/2012/08/06/sierra-club-doubles-down-for-inslee/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973068</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Seattle Post Intelligencer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Maria_Cantwell</metavid-id>
+      <name>Sen. Maria Cantwell [D, WA]</name>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:15:36-04:00</created-at>
+          <title>GRUBB STREET: Political Desk: The Jeff Recommends</title>
+          <contains-term>congress</contains-term>
+          <excerpt>United States Senator - Maria Cantwell United States Representative Congressional District No. 9 - Adam Smith ... Insurance Commissioner - Mike Kreidler State Legislative District No. 11, State Senator - Bob Hasegawa ...</excerpt>
+          <fti-names>'11':30 '9':19 'adam':20 'bob':33 'cantwel':12 'commission':23 'congression':16 'desk':4 'district':17,28 'grubb':1,36 'hasegawa':34 'insur':22 'jeff':6,35 'kreidler':25 'legisl':27 'maria':11 'mike':24 'polit':3 'recommend':7 'repres':15 'senat':10,32 'smith':21 'state':9,14,26,31 'street':2 'unit':8,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://grubbstreet.blogspot.com/2012/07/political-desk-jeff-recommends.html&amp;sa=U&amp;ei=v1sXULTVJY6c8gTL2IGgDQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFXI5uvAYdpSqX4SFCZ5s1FARjKSw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962007</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jeff_Grubb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:15:33-04:00</created-at>
+          <title>Judge defends breaking rules to support Amanda Knox, despite ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>After his support was echoed by U.S. Sen. Maria Cantwell and Donald Trump, the Italian embassy began looking into the matter and a new judge eventually was appointed to preside over the case. But last week, Heavey was ...</excerpt>
+          <fti-names>'amanda':7 'appoint':37 'began':26 'break':3 'cantwel':19 'case':42 'defend':2 'despit':9 'donald':21 'echo':14 'embassi':25 'eventu':35 'heavey':46 'italian':24 'judg':1,34 'knox':8 'last':44 'look':27 'maria':18 'matter':30 'new':33 'presid':39 'rule':4 'sen':17 'support':6,12 'trump':22 'u.s':16 'week':45 'www.sott.net':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sott.net/articles/show/248907-Judge-defends-breaking-rules-to-support-Amanda-Knox-despite-allegations-of-misconduct&amp;sa=U&amp;ei=v1sXULTVJY6c8gTL2IGgDQ&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEbHX_HZgeB-16e5GWB5a31qPHnmA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962004</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sott.net/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:15:08-04:00</created-at>
+          <title>Editorial: Cantwell, Baumgartner best choices for Senate &#8211; Sun, 29 Jul</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Eight names appear on the ballot in the U.S Senate race, but voters need only concern themselves with three. Incumbent U.S. Sen. Maria Cantwell, a Democrat, is vying for a third term, having first gained office in 2000 in a ...</excerpt>
+          <fti-names>'2000':48 '29':9 'admin':51 'appear':13 'ballot':16 'baumgartn':3 'best':4 'cantwel':2,34 'choic':5 'concern':26 'democrat':36 'editori':1 'eight':11 'first':44 'gain':45 'incumb':30 'jul':10 'maria':33 'name':12 'need':24 'offic':46 'race':21 'sen':32 'senat':7,20 'sun':8 'term':42 'third':41 'three':29 'u.s':19,31 'voter':23 'vy':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/wa-moc/maria-cantwell-washington-senator/editorial-cantwell-baumgartner-best-choices-for-senate-sun-29-jul-2012-pst/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Deditorial-cantwell-baumgartner-best-choices-for-senate-sun-29-jul-2012-pst&amp;sa=U&amp;ei=v1sXULTVJY6c8gTL2IGgDQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNH4fWiGSPQIFO1WIE8EMO0xaOjs9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962002</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:14:57-04:00</created-at>
+          <title>Baumgartner airs first ad vs. Sen. Cantwell - The Politics Blog - The ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>&amp;#39;Underdog&amp;#39; takes aim at Cantwell&amp;#39;s Senate seat. SPOKANE &#8211; Senate hopeful Michael Baumgartner doesn&amp;#39;t so much speak as blurt out a torrent of words. Sen. Maria Cantwell safe barring hit to Obama&amp;#39;s popularity ...</excerpt>
+          <fti-names>'/newsupdates/':49 'ad':4 'aim':14 'air':2 'bar':41 'baumgartn':1,24 'blog':10 'blurt':31 'cantwel':7,16,39 'doesn':25 'first':3 'hit':42 'hope':22 'maria':38 'michael':23 'much':28 'obama':44 'polit':9 'popular':46 'safe':40 'seat':19 'sen':6,37 'senat':18,21 'speak':29 'spokan':20 'take':13 'torrent':34 'underdog':12 'vs':5 'word':36 'www.theolympian.com':48 'www.theolympian.com/newsupdates':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theolympian.com/2012/07/30/2192917/baumgartner-airs-first-ad-vs-sen.html&amp;sa=U&amp;ei=v1sXULTVJY6c8gTL2IGgDQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG4eYz2n7te_3JKN3797bJopmf7HA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962001</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.theolympian.com/newsupdates/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:15:32-04:00</created-at>
+          <title>Editorial: Cantwell, Baumgartner best choices for Senate ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Eight names appear on the ballot in the U.S Senate race, but voters need only concern themselves with three. Incumbent U.S. Sen. Maria Cantwell, a Democrat, is vying for a third term, having first gained office in 2000 in a ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':50 '2000':45 'appear':10 'ballot':13 'baumgartn':3 'best':4 'cantwel':2,31 'choic':5 'concern':23 'democrat':33 'editori':1 'eight':8 'first':41 'gain':42 'incumb':27 'maria':30 'name':9 'need':21 'offic':43 'race':18 'sen':29 'senat':7,17 'term':39 'third':38 'three':26 'u.s':16,28 'voter':20 'vy':35 'www.spokesman.com':49 'www.spokesman.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.spokesman.com/stories/2012/jul/29/editorial-cantwell-baumgartner-best-choices-for/&amp;sa=U&amp;ei=v1sXULTVJY6c8gTL2IGgDQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEubnKmRlzIFVYNMKA02xAXMCkxEw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962003</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.spokesman.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:58:07-04:00</created-at>
+          <title>A Different Washington</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>One of the premier races is for the U.S. Senate. Maria Cantwell is running for reelection. She has only token Democratic 68 opposition, but there are five Republican candidates. Michael Baumgartner includes this in his ...</excerpt>
+          <fti-names>'68':25 'baumgartn':34 'candid':32 'cantwel':15 'day':40 'democrat':24 'differ':2 'five':30 'gerald':39 'includ':35 'maria':14 'michael':33 'one':4 'opposit':26 'premier':7 'race':8 'reelect':19 'republican':31 'run':17 'senat':13 'token':23 'u.s':12 'washington':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://geraldday.blogspot.com/2012/07/july-29-2012-voters-pamphlet-for.html&amp;sa=U&amp;ei=yXYWUJrlH4-i8QTgm4HoDw&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNGsLA48tCyFsKCtBbgb7oQijXGuag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951474</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gerald Day</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:58:05-04:00</created-at>
+          <title>Don&amp;#39;t Allow Hunting of Endangered Antelope - ForceChange</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Target: U.S. Senator Maria Cantwell. Goal: Don&amp;#39;t allow hunting of endangered African antelope. An amendment to the Interior Appropriations bill has passed the House of Representatives that will allow &amp;#39;canned&amp;#39; hunting of ...</excerpt>
+          <fti-names>'african':21 'allison':42 'allow':3,17,38 'amend':24 'antelop':7,22 'appropri':28 'bill':29 'can':39 'cantwel':13 'endang':6,20 'forcechang':8 'goal':14 'hous':33 'hunt':4,18,40 'interior':27 'johnson':43 'maria':12 'pass':31 'repres':35 'senat':11 'target':9 'u.s':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://forcechange.com/27894/dont-allow-hunting-of-endangered-antelope/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Ddont-allow-hunting-of-endangered-antelope&amp;sa=U&amp;ei=yXYWUJrlH4-i8QTgm4HoDw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEMV_CCcjRATSXKZC26qTma-ThaOQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951472</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Allison Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:58:02-04:00</created-at>
+          <title>Editorial: Cantwell, Baumgartner best choices for Senate ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Eight names appear on the ballot in the U.S Senate race, but voters need only concern themselves with three. Incumbent U.S. Sen. Maria Cantwell, a Democrat, is vying for a third term, having first gained office in 2000 in a ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':50 '2000':45 'appear':10 'ballot':13 'baumgartn':3 'best':4 'cantwel':2,31 'choic':5 'concern':23 'democrat':33 'editori':1 'eight':8 'first':41 'gain':42 'incumb':27 'maria':30 'name':9 'need':21 'offic':43 'race':18 'sen':29 'senat':7,17 'term':39 'third':38 'three':26 'u.s':16,28 'voter':20 'vy':35 'www.spokesman.com':49 'www.spokesman.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.spokesman.com/stories/2012/jul/29/editorial-cantwell-baumgartner-best-choices-for/&amp;sa=U&amp;ei=yXYWUJrlH4-i8QTgm4HoDw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFvaz7NzeMjN0Npuf5Ho_Rzjhzv8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951470</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.spokesman.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:58:09-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=yXYWUJrlH4-i8QTgm4HoDw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNEmyZp2ad7w2TbELykBdidQG0_Lxg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951477</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300018</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:58:08-04:00</created-at>
+          <title>URLs for Democratic US Senate Candidates &#171; weywerdSun</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Everything has consequences. Nothing happens that doesn&amp;#39;t affect us. We all are interconnected and interdependent. URLs for Democratic US Senate Candidates. 2012/07/27. State, Candidate, Web Site.</excerpt>
+          <fti-names>'2012/07/27':30 'affect':16 'candid':6,29,32 'consequ':10 'democrat':3,26 'doesn':14 'everyth':8 'happen':12 'interconnect':21 'interdepend':23 'noth':11 'senat':5,28 'site':34 'state':31 'url':1,24 'us':4,17,27 'web':33 'weywerdsun':7,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://weywerdsun.com/2012/07/27/urls-for-democratic-us-senate-candidates/&amp;sa=U&amp;ei=yXYWUJrlH4-i8QTgm4HoDw&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNG6p7tdLJDpZaU54bZteWZxdbcm2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951476</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>weywerdSun</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">43158</page-views-count>
+      <youtube-id>SenatorCantwell</youtube-id>
+      <unaccented-name>Maria Cantwell</unaccented-name>
+      <oc-user-comments type="integer">36</oc-user-comments>
+    </person>
+  </people>
+</hash>

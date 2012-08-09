@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">85.978835978836</party-votes-percentage>
+        <abstains-percentage type="float">4.30379746835443</abstains-percentage>
+        <votes-most-often-with-id type="integer">412496</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">17</abstains>
+        <cosponsored-bills type="integer">257</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">27</sponsored-bills>
+        <votes-least-often-with-id type="integer">400050</votes-least-often-with-id>
+        <person-id type="integer">412491</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412391</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">325</votes-republican-position>
+      <middlename nil="true"></middlename>
+      <blog-article-count type="integer">2754</blog-article-count>
+      <user-approval type="float">4.20731707317073</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">490</oc-users-tracking>
+      <contact-webform>http://www.rubio.senate.gov/public/index.cfm/contact</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">85.978835978836</with-party-percentage>
+      <lastname>Rubio</lastname>
+      <congress-office>317 Hart Senate Office Building</congress-office>
+      <metavid-id nil="true"></metavid-id>
+      <firstname>Marco</firstname>
+      <website>http://www.rubio.senate.gov</website>
+      <birthday type="date">1971-05-28</birthday>
+      <person-id type="integer">412491</person-id>
+      <bioguide-id>R000595</bioguide-id>
+      <phone>202-224-3041</phone>
+      <youtube-id>MarcoRubio</youtube-id>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">130</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:48-04:00</created-at>
+          <title>Obama campaign looks for dirt on Rubio, Portman</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Obama campaign launched a pre-emptive strike Tuesday on Florida Sen. Marco Rubio, attempting to gather dirt on the potential vice presidential pick by asking Floridians to share with the campaign &#8220;the good, bad and ugly&#8221; about him. Ashley Walker, di</excerpt>
+          <fti-names>'ashley':48 'ask':34 'attempt':23 'bad':43 'campaign':2,10,40 'di':50 'dirt':5,26 'emptiv':15 'florida':19 'floridian':35 'fox':51 'gather':25 'good':42 'launch':11 'look':3 'marco':21 'news':52 'obama':1,9 'pick':32 'portman':8 'potenti':29 'pre':14 'pre-empt':13 'presidenti':31 'rubio':7,22 'sen':20 'share':37 'strike':16 'tuesday':17 'ugli':45 'vice':30 'walker':49</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/foxnews/politics/~3/HhOQTYFu964/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973879</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:30-04:00</created-at>
+          <title>Will Mitt Romney Go Bold Or Go Boring With V.P. Pick?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Portman and former Minnesota Gov. Tim Pawlenty) for the job against a couple of potentially riskier choices (Florida Sen. Marco Rubio and Wisconsin Rep. Paul Ryan). There are advocates on both sides, but lately momentum seems to have shifted toward the </excerpt>
+          <fti-names>'abc':53 'advoc':40 'bold':5 'bore':8 'choic':28 'coupl':24 'florida':29 'former':14 'go':4,7 'gov':16 'job':21 'late':45 'marco':31 'minnesota':15 'mitt':2 'momentum':46 'news':54 'paul':36 'pawlenti':18 'pick':11 'portman':12 'potenti':26 'rep':35 'riskier':27 'romney':3 'rubio':32 'ryan':37 'seem':47 'sen':30 'shift':50 'side':43 'tim':17 'toward':51 'v.p':10 'wisconsin':34</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/mitt-romney-bold-boring-vp-pick/story?id=16938042</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973241</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:30-04:00</created-at>
+          <title>Obama campaign targets Portman</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...the Minnesota campaign writes: Both Romney and Pawlenty left their states worse than they found them. And on Sen. Marco Rubio (R-Fla.), the campaign writes: You see, we know Marco Rubio -- all the way from his time in the Florida House of Representative</excerpt>
+          <fti-names>'campaign':2,7,30 'fla':28 'florida':46 'found':19 'hous':47 'know':35 'left':13 'marco':24,36 'minnesota':6 'obama':1 'pawlenti':12 'politico':51 'portman':4 'r':27 'r-fla':26 'repres':49 'romney':10 'rubio':25,37 'see':33 'sen':23 'state':15 'target':3 'time':43 'way':40 'wors':16 'write':8,31</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=183cbf67aa2a8eee411337f873ab7e73</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973240</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:30-04:00</created-at>
+          <title>RNC headliners: Rick Scott, McCain, Haley, Huckabee.... Marco Rubio to keynote?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...stars, who have governed and led effectively and admirably in their respective roles.&quot; It's a no-brainer that Florida Sen. Marco Rubio, a vice-presidential shortlister, is in contention for the keynoter post. The GOP faithful love him, he's Hispanic, he</excerpt>
+          <fti-names>'admir':20 'brainer':30 'content':43 'effect':18 'faith':50 'florida':32 'gop':49 'govern':15 'haley':6 'headlin':2 'herald':58 'hispan':55 'huckabe':7 'keynot':11,46 'led':17 'love':51 'marco':8,34 'mccain':5 'miami':57 'no-brain':28 'post':47 'presidenti':39 'respect':23 'rick':3 'rnc':1 'role':24 'rubio':9,35 'scott':4 'sen':33 'shortlist':40 'star':12 'vice':38 'vice-presidenti':37</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://miamiherald.typepad.com/nakedpolitics/2012/08/rnc-headliners-rick-scott-mccain-haley-huckabee-marco-rubio-to-keynote.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973239</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:02:34-04:00</created-at>
+          <title>Priebus: Romney ticket will offer 'bold choice'</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Hayes and William Kristol in the conservative &quot;Weekly Standard,&quot; urging Romney to &#8220;go for the gold&#8221; and pick either Sen. Marco Rubio (R-Fla.) or Rep. Paul Ryan (R-Wis.) &#8211; two prospects who would fire up conservatives. &#8220;Well, Paul is one of my be</excerpt>
+          <fti-names>'bold':6 'choic':7 'conserv':14,46 'either':26 'fire':44 'fla':32 'go':20 'gold':23 'hay':8 'kristol':11 'marco':28 'offer':5 'one':50 'paul':35,48 'pick':25 'politico':55 'priebus':1 'prospect':41 'r':31,38 'r-fla':30 'r-wis':37 'rep':34 'romney':2,18 'rubio':29 'ryan':36 'sen':27 'standard':16 'ticket':3 'two':40 'urg':17 'week':15 'well':47 'william':10 'wis':39 'would':43</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=74c6e4117fdddf94a812789ef2f40598</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972660</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:46:45-04:00</created-at>
+          <title>Sen. Marco Rubio To IRS: Stop Taxing Olympic Medals</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator Marco Rubio wants the IRS to stay out of the pockets of our Olympic athletes. Rubio, rumored to be on former Gov. Mitt Romney&#8216;s short list for vice president on the GOP ticket, has introduced legislation that would end federal income taxes o</excerpt>
+          <fti-names>'athlet':26 'end':51 'feder':52 'former':32 'gop':44 'gov':33 'incom':53 'inquisitr':57 'introduc':47 'ir':5,16 'legisl':48 'list':38 'marco':2,12 'medal':9 'mitt':34 'o':55 'olymp':8,25 'pocket':22 'presid':41 'romney':35 'rubio':3,13,27 'rumor':28 'sen':1 'senat':11 'short':37 'stay':18 'stop':6 'tax':7,54 'ticket':45 'u.s':10 'vice':40 'want':14 'would':50</fti-names>
+          <source-url>http://www.inquisitr.com/</source-url>
+          <url>http://www.inquisitr.com/291130/sen-marco-rubio-to-irs-stop-taxing-olympic-medals/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971387</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Inquisitr</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:46:44-04:00</created-at>
+          <title>Marco Rubio stumps for Mitt Romney in Orlando</title>
+          <contains-term>republican</contains-term>
+          <excerpt>U.S. Sen. Marco Rubio spoke to supporters of presumptive Republican presidential candidate Mitt Romney in Orlando just hours before President Barack Obama will hold a campaign event in Winter Park. Rubio attended a Romney rally at Harbco General Contract</excerpt>
+          <fti-names>'attend':40 'barack':29 'campaign':34 'candid':20 'contract':47 'event':35 'general':46 'harbco':45 'hold':32 'hour':26 'local6.com':48 'marco':1,11 'mitt':5,21 'obama':30 'orlando':8,24 'park':38 'presid':28 'presidenti':19 'presumpt':17 'ralli':43 'republican':18 'romney':6,22,42 'rubio':2,12,39 'sen':10 'spoke':13 'stump':3 'support':15 'u.s':9 'winter':37</fti-names>
+          <source-url>http://www.local6.com/index.html</source-url>
+          <url>http://www.clickorlando.com/news/Marco-Rubio-stumps-for-Mitt-Romney-in-Orlando/-/1637132/15937514/-/dj126wz/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971386</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Local6.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:46:44-04:00</created-at>
+          <title>Why Marco Rubio Is Wrong on Olympic Winnings</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The impulse to exempt them from taxes isn't a stand for simplification -- it's exactly the sort of thing that makes the tax code a complicated mess. Senator Marco Rubio has long made tax simplification one of his talking points. And who (besides the ultr</excerpt>
+          <fti-names>'atlant':56 'besid':52 'code':33 'complic':35 'exact':24 'exempt':12 'impuls':10 'isn':16 'long':41 'made':42 'make':30 'marco':2,38 'mess':36 'olymp':7 'one':45 'point':49 'rubio':3,39 'senat':37 'simplif':21,44 'sort':26 'stand':19 'talk':48 'tax':15,32,43 'thing':28 'ultr':54 'win':8 'wrong':5</fti-names>
+          <source-url>http://www.theatlantic.com/</source-url>
+          <url>http://feedproxy.google.com/~r/ConorFriedersdorf/~3/25zFadfSP78/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971385</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Atlantic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:46:43-04:00</created-at>
+          <title>Why Marco Rubio Is Wrong on Olympic Winnings</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The impulse to exempt them from taxes isn't a stand for simplification -- it's exactly the sort of thing that makes the tax code a complicated mess. Senator Marco Rubio has long made tax simplification one of his talking points. And who (besides the ultr</excerpt>
+          <fti-names>'atlant':56 'besid':52 'code':33 'complic':35 'exact':24 'exempt':12 'impuls':10 'isn':16 'long':41 'made':42 'make':30 'marco':2,38 'mess':36 'olymp':7 'one':45 'point':49 'rubio':3,39 'senat':37 'simplif':21,44 'sort':26 'stand':19 'talk':48 'tax':15,32,43 'thing':28 'ultr':54 'win':8 'wrong':5</fti-names>
+          <source-url>http://www.theatlantic.com/</source-url>
+          <url>http://feedproxy.google.com/~r/theatlantic/TZRn/~3/d0yNGmHoaA0/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971384</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Atlantic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:46:42-04:00</created-at>
+          <title>Sen. Marco Rubio on comparisons with Ted Cruz</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Florida Sen. Marco Rubio, a tea party darling whom Mitt Romney is eyeing as a possible running-mate said today that he welcomes comparisons with Ted Cruz. Cruz&#8217; win in the Texas GOP primary runoff Tuesday means he&#8217;ll likely join Rubio in the U.S. Senat</excerpt>
+          <fti-names>'comparison':5,33 'cruz':8,36,37 'dalla':56 'darl':16 'eye':21 'florida':9 'gop':42 'join':50 'like':49 'll':48 'marco':2,11 'mate':27 'mean':46 'mitt':18 'morn':57 'news':58 'parti':15 'possibl':24 'primari':43 'romney':19 'rubio':3,12,51 'run':26 'running-m':25 'runoff':44 'said':28 'sen':1,10 'senat':55 'tea':14 'ted':7,35 'texa':41 'today':29 'tuesday':45 'u.s':54 'welcom':32 'win':38</fti-names>
+          <source-url>http://www.dallasnews.com/news/blogs/</source-url>
+          <url>http://trailblazersblog.dallasnews.com/2012/08/sen-marco-rubio-on-comparisons-with-ted-cruz.html/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971383</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dallas Morning News </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-224-3041</fax>
+      <name>Sen. Marco Rubio [R, FL]</name>
+      <total-session-votes type="integer">378</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:56-04:00</created-at>
+          <title>Rubio picks up more VP endorsements</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Politics. Share via Email Print This Post. Iowa&amp;#39;s Governor became the latest Republican to say publicly that Senator Marco Rubio would be a good voice for Vice President. (Photo/Getty Images ) ...</excerpt>
+          <fti-names>'becam':17 'email':10 'endors':6 'good':31 'governor':16 'imag':37 'iowa':14 'latest':19 'lilley':39 'marco':26 'photo/getty':36 'pick':2 'polit':7 'post':13 'presid':35 'print':11 'public':23 'republican':20 'rubio':1,27 'sandra':38 'say':22 'senat':25 'share':8 'via':9 'vice':34 'voic':32 'vp':5 'would':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nbclatino.com/2012/07/29/rubio-picks-up-more-vp-endorsements/&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNElAuoqmN5WllqVty8hj9o4CZDC7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962987</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sandra Lilley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:55-04:00</created-at>
+          <title>Senator Marco Rubio opens up to 10 News Anchor Heather Van ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Tonight, Senator Marco Rubio sits down with 10 News Heather Van Nest for a candid interview about next month&amp;#39;s convention and if he hopes to be the first Cuban American president. Tonight at 11:00 on 10 News right after ...</excerpt>
+          <fti-names>'/news/topstories/default.aspx':55 '00':47 '10':7,19,49 '11':46 'american':42 'anchor':9 'candid':26 'convent':32 'cuban':41 'first':40 'heather':10,21 'hope':36 'interview':27 'marco':2,14 'month':30 'nest':23 'news':8,20,50 'next':29 'open':4 'presid':43 'right':51 'rubio':3,15 'senat':1,13 'sit':16 'tonight':12,44 'van':11,22 'www.wtsp.com':54 'www.wtsp.com/news/topstories/default.aspx':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wtsp.com/rss/article/266171/250/Watch-tonight-Senator-Rubio-speaks-with-Heather-Van-Nest&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNGHSGxnkkxdJBBQ_rQ7LUaHL-ggdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962984</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wtsp.com/news/topstories/default.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:54-04:00</created-at>
+          <title>Plane carrying Sen. Marco Rubio forced to make emergency landing ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>(CNN) -- Sen. Marco Rubio delivered a speech by telephone Saturday, July 28th after his plane made an &amp;quot;emergency landing&amp;quot; in Albuquerque, New Mexico, preventing him from physically making it to a Mitt Romney rally in ...</excerpt>
+          <fti-names>'28th':22 'albuquerqu':31 'carri':2 'cnn':11 'deliv':15 'delong':47 'emerg':9,28 'forc':6 'juli':21 'kati':46 'land':10,29 'made':26 'make':8,38 'marco':4,13 'mexico':33 'mitt':42 'new':32 'physic':37 'plane':1,25 'prevent':34 'ralli':44 'romney':43 'rubio':5,14 'saturday':20 'sen':3,12 'speech':17 'telephon':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fox6now.com/2012/07/29/plane-carrying-sen-marco-rubio-forced-to-make-emergency-landing/&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNEj9xCfdIkTkLTDlbSXkj2wLTo_eg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962983</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Katie DeLong</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:53-04:00</created-at>
+          <title>Sen. Marco Rubio&amp;#39;s plane makes emergency landing amidst ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Marco Rubio&amp;#39;s plane makes emergency landing amidst electrical issues. WBRC (CNN) &#8211; A plane carrying Florida senator Marco Rubio had to make an emergency landing Saturday. Rubio was flying from a Mitt Romney ...</excerpt>
+          <fti-names>'admin':44 'amidst':9,18 'carri':25 'cnn':22 'electr':19 'emerg':7,16,34 'fli':39 'florida':26 'issu':20 'land':8,17,35 'make':6,15,32 'marco':2,11,28 'mitt':42 'plane':5,14,24 'romney':43 'rubio':3,12,29,37 'saturday':36 'sen':1,10 'senat':27 'wbrc':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/fl-moc/marco-rubio-florida-senator/sen-marco-rubios-plane-makes-emergency-landing-amidst-electrical-issues-wbrc/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dsen-marco-rubios-plane-makes-emergency-landing-amidst-electrical-issues-wbrc&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNEl3jdsnwTpjJfuqSQu9yrGEGolXQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962981</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:53-04:00</created-at>
+          <title>Gov Bill Richardson &#8220;afraid&#8221; if Senator Marco Rubio? &#171; Gretawire</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Ssee email below from FNC colleague Serafim Gomez: Miami herald sourcing Univision &#8220;I like him. And yes, I&amp;#39;m afraid of him because I think he is an attractive [...]</excerpt>
+          <fti-names>'afraid':4,29 'attract':38 'bill':2 'colleagu':15 'email':11 'fnc':14 'gomez':17 'gov':1 'greta':39 'gretawir':9 'herald':19 'like':23 'm':28 'marco':7 'miami':18 'richardson':3 'rubio':8 'senat':6 'serafim':16 'sourc':20 'ssee':10 'susteren':41 'think':34 'univis':21 'van':40 'yes':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gretawire.foxnewsinsider.com/2012/07/30/gov-bill-richardson-afraid-if-senator-marco-rubio/&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEefqQeMSgJpk7NUhBqRlrnMLNfng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962979</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Greta Van Susteren</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:20:52-04:00</created-at>
+          <title>Tease: 10 News speaks with Senator Marco Rubio | Video | wtsp.com</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Tease: 10 News speaks with Senator Marco Rubio. Tonight, Senator Marco Rubio sits down with 10 News Heather Van Nest for a candid interview about next month&amp;#39;s convention and if he hopes to be the first Cuban American President.</excerpt>
+          <fti-names>'/video/default.aspx':53 '10':2,12,26 'american':49 'candid':33 'convent':39 'cuban':48 'first':47 'heather':28 'hope':43 'interview':34 'marco':7,17,21 'month':37 'nest':30 'news':3,13,27 'next':36 'presid':50 'rubio':8,18,22 'senat':6,16,20 'sit':23 'speak':4,14 'teas':1,11 'tonight':19 'van':29 'video':9 'wtsp.com':10 'www.wtsp.com':52 'www.wtsp.com/video/default.aspx':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wtsp.com/video/default.aspx%3Fbctid%3D1762434659001&amp;sa=U&amp;ei=Q3kXUOjFPJKm8QS6xYBY&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGQoh2qFQf4NbL3Bdni2iGlWuDl9g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962978</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wtsp.com/video/default.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:41:22-04:00</created-at>
+          <title>Senator&amp;#39;s plane makes emergency landing</title>
+          <contains-term>senator</contains-term>
+          <excerpt>ALBUQUERQUE (KRQE) - Florida Sen. Marco Rubio, barnstorming for presidential candidate Mitt Romney, made an unexpected stop in Albuquerque Saturday when his plane developed in-flight problems and made an ...</excerpt>
+          <fti-names>'albuquerqu':7,24 'barnstorm':13 'bill':37 'candid':16 'develop':29 'diven':38 'emerg':5 'flight':32 'florida':9 'in-flight':30 'krqe':8 'land':6 'made':19,35 'make':4 'marco':11 'mitt':17 'plane':3,28 'presidenti':15 'problem':33 'romney':18 'rubio':12 'saturday':25 'sen':10 'senat':1 'stop':22 'unexpect':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.krqe.com/dpp/news/politics/senators-plane-makes-emergency-landing&amp;sa=U&amp;ei=9o4WUPf4H5Oi8ATvxoHIDg&amp;ved=0CFEQmAEwCw&amp;usg=AFQjCNHtJH-95YGK4LVxN6IUj77VX9M-ug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bill Diven</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:41:21-04:00</created-at>
+          <title>Rubio Returns To NV Roots, Rallies Romney Backers &#171; CBS Las ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>U.S. Sen. Marco Rubio returned Saturday to his old grade school in Las Vegas, where he rallied hundreds of supporters of Republican presidential candidate Mitt Romney and criticized President Barack Obama.</excerpt>
+          <fti-names>'backer':8 'barack':40 'bonilla':44 'candid':34 'cbs':9 'critic':38 'grade':20 'hundr':28 'las':10,23 'marco':13 'mark':42 'mitt':35 'nv':4 'obama':41 'old':19 'presid':39 'presidenti':33 'ralli':6,27 'republican':32 'return':2,15 'romney':7,36 'root':5 'rubio':1,14 'saturday':16 'school':21 'sen':12 'support':30 'u.s':11 'vega':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lasvegas.cbslocal.com/2012/07/29/rubio-returns-to-nv-roots-rallies-romney-backers/&amp;sa=U&amp;ei=9o4WUPf4H5Oi8ATvxoHIDg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGVG8NnpKcp5e5UnITGpbLhh2Yqyg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952821</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark A. Bonilla</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:41:18-04:00</created-at>
+          <title>Rubio picks up more VP endorsements</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Politics. Share via Email Print This Post. Iowa&amp;#39;s Governor became the latest Republican to say publicly that Senator Marco Rubio would be a good voice for Vice President. (Photo/Getty Images ) ...</excerpt>
+          <fti-names>'becam':17 'email':10 'endors':6 'good':31 'governor':16 'imag':37 'iowa':14 'latest':19 'lilley':39 'marco':26 'photo/getty':36 'pick':2 'polit':7 'post':13 'presid':35 'print':11 'public':23 'republican':20 'rubio':1,27 'sandra':38 'say':22 'senat':25 'share':8 'via':9 'vice':34 'voic':32 'vp':5 'would':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nbclatino.com/2012/07/29/rubio-picks-up-more-vp-endorsements/&amp;sa=U&amp;ei=9o4WUPf4H5Oi8ATvxoHIDg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHZev6PCcGvCQT3RScO9S-mq0XEVw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952818</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sandra Lilley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412491</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:41:11-04:00</created-at>
+          <title>Plane carrying Sen. Marco Rubio forced to make emergency landing ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>(CNN) -- Sen. Marco Rubio delivered a speech by telephone Saturday, July 28th after his plane made an &amp;quot;emergency landing&amp;quot; in Albuquerque, New Mexico, preventing him from physically making it to a Mitt Romney rally in ...</excerpt>
+          <fti-names>'28th':22 'albuquerqu':31 'carri':2 'cnn':11 'deliv':15 'delong':47 'emerg':9,28 'forc':6 'juli':21 'kati':46 'land':10,29 'made':26 'make':8,38 'marco':4,13 'mexico':33 'mitt':42 'new':32 'physic':37 'plane':1,25 'prevent':34 'ralli':44 'romney':43 'rubio':5,14 'saturday':20 'sen':3,12 'speech':17 'telephon':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fox6now.com/2012/07/29/plane-carrying-sen-marco-rubio-forced-to-make-emergency-landing/&amp;sa=U&amp;ei=9o4WUPf4H5Oi8ATvxoHIDg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNHw1bnHAD3O4Pq0jCBCbS7DXgXvrg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952812</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Katie DeLong</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">14985</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Marco Rubio</unaccented-name>
+      <oc-user-comments type="integer">12</oc-user-comments>
+    </person>
+  </people>
+</hash>

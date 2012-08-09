@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-30T05:29:28-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.4802910855064</party-votes-percentage>
+        <abstains-percentage type="float">4.07213496218732</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:24-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">3</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">138</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">76</cosponsored-bills-passed-rank>
+        <abstains type="integer">70</abstains>
+        <cosponsored-bills type="integer">323</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">152</party-votes-percentage-rank>
+        <sponsored-bills type="integer">30</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400140</person-id>
+        <cosponsored-bills-rank type="integer">44</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:55-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">33</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">322</votes-republican-position>
+      <blog-article-count type="integer">27276</blog-article-count>
+      <fax>202-225-0182</fax>
+      <user-approval type="float">3.03597122302158</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">404</oc-users-tracking>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.4802910855064</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Frank</lastname>
+      <congress-office>2252 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Barney</firstname>
+      <website>http://www.house.gov/frank/</website>
+      <birthday type="date">1940-03-31</birthday>
+      <person-id type="integer">400140</person-id>
+      <phone>202-225-5931</phone>
+      <religion>Jewish</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1525</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:40-04:00</created-at>
+          <title>New Newspaper Contributors for 08/07/2012</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...hashing out differences among officials over the weekend at a platform-drafting meeting in Minneapolis. Retiring U.S. Rep. Barney Frank, D-Mass., the most prominent openly gay lawmaker in the country, is a member of the platform-drafting committee. Fran</excerpt>
+          <fti-names>'08/07/2012':5 'among':9 'barney':25 'committe':47 'contributor':3 'countri':38 'creator':49 'd':28 'd-mass':27 'differ':8 'draft':18,46 'fran':48 'frank':26 'gay':34 'hash':6 'lawmak':35 'mass':29 'meet':19 'member':41 'minneapoli':21 'new':1 'newspap':2 'offici':10 'open':33 'platform':17,45 'platform-draft':16,44 'promin':32 'rep':24 'retir':22 'syndic':50 'u.s':23 'weekend':13</fti-names>
+          <source-url>http://www.creators.com/</source-url>
+          <url>http://creators.com/opinion/daily-editorials/democrats-make-a-bold-move-on-gay-marriage-in-party-platform.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973393</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Creators Syndicate</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:40-04:00</created-at>
+          <title>Berman enlists help from Barney Frank to dispute Sherman claims</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...increasingly nasty, race between Democratic Reps. Howard Berman and Brad Sherman in the San Fernando Valley. And so, Rep. Barney Frank of Massachusetts, the pro-Berman former chairman and now ranking member of the House Financial Services Committee, was</excerpt>
+          <fti-names>'angel':52 'barney':5,30 'berman':1,18,37 'brad':20 'chairman':39 'claim':10 'committe':49 'democrat':15 'disput':8 'enlist':2 'fernando':25 'financi':47 'former':38 'frank':6,31 'help':3 'hous':46 'howard':17 'increas':11 'los':51 'massachusett':33 'member':43 'nasti':12 'pro':36 'pro-berman':35 'race':13 'rank':42 'rep':16,29 'san':24 'servic':48 'sherman':9,21 'time':53 'valley':26</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://latimesblogs.latimes.com/california-politics/2012/08/berman-enlists-help-from-barney-frank-to-quarrel-with-sherman-claims.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973392</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:40-04:00</created-at>
+          <title>Frank rips 'superficial' Sherman</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in California&#8217;s 30th District: In a conference call Tuesday organized by Rep. Howard Berman&#8217;s campaign, Massachusetts Rep. Barney Frank slammed fellow Democratic Rep. Brad Sherman in unusually sharp and personal terms. My colleague Katie Glueck, who</excerpt>
+          <fti-names>'30th':8 'barney':24 'berman':19 'brad':30 'california':6 'call':13 'campaign':21 'colleagu':39 'confer':12 'democrat':28 'district':9 'fellow':27 'frank':1,25 'glueck':41 'howard':18 'kati':40 'massachusett':22 'organ':15 'person':36 'politico':44 'rep':17,23,29 'rip':2 'sharp':34 'sherman':4,31 'slam':26 'superfici':3 'term':37 'tuesday':14 'unusu':33</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=ae418bbab326a0ae5d343e91c3129300</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973391</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:39-04:00</created-at>
+          <title>California: Barney Frank Tees Off on Brad Sherman</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Barney Frank (above) has endorsed Rep. Howard Berman over Rep. Brad Sherman. (Tom Williams/CQ Roll Call File Photo) House Financial Services ranking member Barney Frank (D-Mass.) today heavily criticized Rep. Brad Sherman for comments the California Dem</excerpt>
+          <fti-names>'barney':2,9,32 'berman':16 'brad':7,19,41 'california':1,46 'call':24,49 'comment':44 'critic':39 'd':35 'd-mass':34 'dem':47 'endors':13 'file':25 'financi':28 'frank':3,10,33 'heavili':38 'hous':27 'howard':15 'mass':36 'member':31 'photo':26 'rank':30 'rep':14,18,40 'roll':23,48 'servic':29 'sherman':8,20,42 'tee':4 'today':37 'tom':21 'williams/cq':22</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/california_barney_frank_tees_off_on_brad_sherman-216766-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973390</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:18-04:00</created-at>
+          <title>Gay Rights Group Donates $250,000 to Maine's Gay Marriage Fight</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...voters if they want to legalize same-sex marriage is inaccurate and misleading, gay marriage supporters said Wednesday. U.S. Rep. Barney Frank is calling upon Mainers to legalize same-sex marriage so he and his longtime partner can get married next year</excerpt>
+          <fti-names>'000':6 '250':5 'barney':34 'boston':58 'call':37 'donat':4 'edg':57 'fight':12 'frank':35 'gay':1,10,27 'get':53 'group':3 'inaccur':24 'legal':18,41 'longtim':50 'main':8 'mainer':39 'marri':54 'marriag':11,22,28,45 'mislead':26 'next':55 'partner':51 'rep':33 'right':2 'said':30 'same-sex':19,42 'sex':21,44 'support':29 'u.s':32 'upon':38 'voter':13 'want':16 'wednesday':31 'year':56</fti-names>
+          <source-url>http://www.edgeboston.com/</source-url>
+          <url>http://www.edgeonthenet.com/index.php?ch=news&amp;sc=national&amp;sc2=news&amp;sc3=&amp;id=135761</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972803</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>EDGE Boston</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:14-04:00</created-at>
+          <title>New House Bill Tries To Save Medical Marijuana Dispensaries From Justice Department Lawsuits</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...bill comes on the heels of the bipartisan Truth In Trials Act, sponsored by Rep. Sam Farr (D-CA), Rep. Barney Frank (D-MA), Rep. Ron Paul (R-TX) and Rep. Dana Rohrabacher (R-CA), among others. More extensive than Lee&#8217;s measure, the bill would allow st</excerpt>
+          <fti-names>'act':25 'allow':64 'among':53 'barney':35 'bill':3,14,62 'bipartisan':21 'ca':33,52 'come':15 'd':32,38 'd-ca':31 'd-ma':37 'dana':48 'depart':12 'dispensari':9 'extens':56 'farr':30 'frank':36 'heel':18 'hous':2 'justic':11 'lawsuit':13 'lee':58 'ma':39 'marijuana':8 'measur':60 'medic':7 'new':1 'other':54 'paul':42 'progress':67 'r':44,51 'r-ca':50 'r-tx':43 'rep':28,34,40,47 'rohrabach':49 'ron':41 'sam':29 'save':6 'sponsor':26 'st':65 'think':66 'tri':4 'trial':24 'truth':22 'tx':45 'would':63</fti-names>
+          <source-url>http://thinkprogress.org/</source-url>
+          <url>http://thinkprogress.org/justice/2012/08/06/644121/new-house-bill-tries-to-save-medical-marijuana-dispensaries-from-justice-department-lawsuits/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972802</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:37:24-04:00</created-at>
+          <title>Eliot Spitzer: Romney tax plan is a Robin Hood scheme</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the question Rep. Barney Frank, D-Mass., wisely suggests we ask when evaluating different pieces of legislation, or for that matter any public policy proposal. That question seems especially appropriate when tax issues are back on the table before Co</excerpt>
+          <fti-names>'appropri':42 'ask':23 'back':47 'barney':15 'co':52 'd':18 'd-mass':17 'differ':26 'eliot':1 'especi':41 'evalu':25 'frank':16 'hood':9 'issu':45 'legisl':29 'madison.com':53 'mass':19 'matter':33 'piec':27 'plan':5 'polici':36 'propos':37 'public':35 'question':13,39 'rep':14 'robin':8 'romney':3 'scheme':10 'seem':40 'spitzer':2 'suggest':21 'tabl':50 'tax':4,44 'wise':20</fti-names>
+          <source-url>http://host.madison.com/</source-url>
+          <url>http://host.madison.com/news/opinion/column/eliot-spitzer-romney-tax-plan-is-a-robin-hood-scheme/article_9792199a-ddb6-11e1-92c6-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972459</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Madison.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:37:23-04:00</created-at>
+          <title>Academy Award-winner Black&#8217;s &#8216;8&#8217; and Rep. Frank draw big audience</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...California&#8217;s amendment banning same-sex marriage. Both Black, an Academy Award-winning screenwriter, and Massachusetts Rep. Barney Frank were to take center stage Saturday night in Salt Lake City for a reading of &quot;8&quot; at the Rose Wagner Performing Arts</excerpt>
+          <fti-names>'8':7,50 'academi':1,25 'amend':16 'art':56 'audienc':13 'award':3,27 'award-win':26 'award-winn':2 'ban':17 'barney':33 'big':12 'black':5,23 'california':14 'center':38 'citi':45 'draw':11 'frank':10,34 'lake':44,58 'marriag':21 'massachusett':31 'night':41 'perform':55 'read':48 'rep':9,32 'rose':53 'salt':43,57 'same-sex':18 'saturday':40 'screenwrit':29 'sex':20 'stage':39 'take':37 'tribun':59 'wagner':54 'win':28 'winner':4</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/entertainment/54631614-81/black-frank-issue-partisan.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972458</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:28:02-04:00</created-at>
+          <title>GOP contender Bielat mocks Kennedy III with campaign gift registry</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...for Kennedy. Kennedy raised $1.6 million from April 1 to June 30, and is running to succeed retiring Democratic Rep. Barney Frank. &#8220;Joe believes in spending what we must and saving what we can, which is the kind of smart budgeting he&#8217;ll bring to Con</excerpt>
+          <fti-names>'1':19 '1.6':15 '30':22 'april':18 'barney':31 'believ':34 'bielat':3 'bring':54 'budget':51 'caller':59 'campaign':8 'con':56 'contend':2 'daili':58 'democrat':29 'frank':32 'gift':9 'gop':1 'iii':6 'joe':33 'june':21 'kennedi':5,12,13 'kind':48 'll':53 'million':16 'mock':4 'must':39 'rais':14 'registri':10 'rep':30 'retir':28 'run':25 'save':41 'smart':50 'spend':36 'succeed':27</fti-names>
+          <source-url>http://dailycaller.com/</source-url>
+          <url>http://dailycaller.com/2012/08/02/gop-contender-bielat-mocks-kennedy-iii-with-campaign-gift-registry/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970619</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Daily Caller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:27:56-04:00</created-at>
+          <title>PICKET:(AUDIO)REP. Barney Frank - Gov't shouldn't discriminate against Chick fil A</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Barney Frank, Massachusetts Democrat, gave me his thoughts on Thursday about the Chick fil A debate. &quot;I think it&#8217;s entirely legitimate for individuals to say, 'I don&#8217;t want to eat there.' I don&#8217;t think government should discriminate against Chick </excerpt>
+          <fti-names>'audio':2 'barney':4,15 'blog':59 'chick':12,27,56 'debat':30 'democrat':18 'discrimin':10,54 'eat':46 'entir':35 'fil':13,28 'frank':5,16 'gave':19 'gov':6 'govern':52 'individu':38 'legitim':36 'massachusett':17 'picket':1 'rep':3 'say':40 'shouldn':8 'think':32,51 'thought':22 'thursday':24 'time':58 'want':44 'washington':57</fti-names>
+          <source-url>http://www3.washingtontimes.com/blogs/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629239/s/21fc033b/l/0L0Swashingtontimes0N0Cblog0Cwatercooler0C20A120Caug0C20Cpicket0Erep0Ebarney0Efrank0Egovt0Eshouldnt0Ediscriminate0C/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970617</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Barney_Frank</metavid-id>
+      <name>Rep. Barney Frank [D, MA-4]</name>
+      <bioguide-id>F000339</bioguide-id>
+      <total-session-votes type="integer">1649</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:53:12-04:00</created-at>
+          <title>Democratic platform draft includes marriage equality plank: sources ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Barney Frank confirmed Monday that a marriage equality plank will appear in the Democratic Party platform (Blade file photo by Michael Key). The Democratic Party platform drafting committee approved on Sunday ...</excerpt>
+          <fti-names>'appear':20 'approv':38 'barney':10 'blade':26 'chris':41 'committe':37 'confirm':12 'democrat':1,23,33 'draft':3,36 'equal':6,17 'file':27 'frank':11 'includ':4 'johnson':42 'key':31 'marriag':5,16 'michael':30 'monday':13 'parti':24,34 'photo':28 'plank':7,18 'platform':2,25,35 'rep':9 'sourc':8 'sunday':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.washingtonblade.com/2012/07/30/democratic-platform-draft-includes-marriage-equality-plank-sources/&amp;sa=U&amp;ei=lkgXUL7AKYb68gT-vIDgCA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNEr1CIWXUqS7Sbcw7hhpo0fQJL9ew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960159</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:53:11-04:00</created-at>
+          <title>Promises, Promises: Barney Frank&amp;#39;s Marriage Pledge (And: Palin ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>This from The Advocate, who chatted with Rep. Barney Frank about preparations for the Democratic National Convention: &#8220;Congressman Barney Frank of Massachusetts said in a telephone interview Monday that the ...</excerpt>
+          <fti-names>'advoc':13 'barney':3,18,28 'borgen':41 'chat':15 'congressman':27 'convent':26 'daniel':40 'democrat':24 'frank':4,19,29 'interview':36 'marriag':6 'massachusett':31 'monday':37 'nation':25 'palin':9 'pledg':7 'prepar':21 'promis':1,2 'rep':17 'said':32 'telephon':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pqmonthly.com/2012/07/promises-promises-barney-franks-marriage-pledge-and-palin-stocks-up-on-fried-chickens/&amp;sa=U&amp;ei=lkgXUL7AKYb68gT-vIDgCA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNEfO-rGP1KtWllZl2wzL-XzPJ-gWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960157</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Borgen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:53:11-04:00</created-at>
+          <title>Joe. My. God.: Barney Frank: The Democratic Platform Draft Includes ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Retiring gay Rep. Barney Frank (D-Mass.), who sits on the committee, told the Washington Blade on Monday that the 15-member panel unanimously backed the inclusion of a marriage equality plank after a national hearing ...</excerpt>
+          <fti-names>'15':32 'back':36 'barney':4,14 'blade':27 'committe':23 'd':17 'd-mass':16 'democrat':7 'draft':9 'equal':42 'frank':5,15 'gay':12 'god':3 'hear':47 'includ':10 'inclus':38 'joe':1,48 'marriag':41 'mass':18 'member':33 'monday':29 'nation':46 'panel':34 'plank':43 'platform':8 'rep':13 'retir':11 'sit':20 'told':24 'unanim':35 'washington':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://joemygod.blogspot.com/2012/07/barney-frank-democratic-platform-draft.html&amp;sa=U&amp;ei=lkgXUL7AKYb68gT-vIDgCA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNGNLaxvN8dwTuALKPSs64HA-Z32zg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960155</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:53:11-04:00</created-at>
+          <title>Gay Rep. Barney Frank Says Democratic Platform Includes Marriage ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Recently wed Massachusetts gay Rep. Barney Frank told the Washington Blade that the Democratic Party unanimously backed the inclusion of a gay marriage plank. &#8220;I was part of a unanimous decision to.</excerpt>
+          <fti-names>'back':26 'barney':3,15 'blade':20 'candido':45 'decis':40 'democrat':6,23 'frank':4,16 'gay':1,13,31 'includ':8 'inclus':28 'marriag':9,32 'massachusett':12 'n':44 'part':36 'parti':24 'plank':33 'platform':7 'recent':10 'rep':2,14 'say':5 'sergio':43 'sfgn.daily@southfloridagaynews.com':42 'told':17 'unanim':25,39 'washington':19 'wed':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.southfloridagaynews.com/news/politics/6734-gay-rep-barney-frank-says-democratic-platform-includes-marriage-equality-plank.html&amp;sa=U&amp;ei=lkgXUL7AKYb68gT-vIDgCA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFjq2bqOugGJhSOMBNaOVj3k9ktaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960152</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>SFGN.Daily@southfloridagaynews.com (Sergio N. Candido)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:53:11-04:00</created-at>
+          <title>Rep. Barney Frank Defending NY Rep. Louise Slaughter From ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Barney Frank Defending NY Rep. Louise Slaughter From &amp;#39;Crazy Tea Party Republicans&amp;#39;. BY James Arkin. Rep. Barney Frank, D-Mass., is stepping up to defend New York Rep. Louise Slaughter from &amp;quot;these crazy tea party ...</excerpt>
+          <fti-names>'/blogs/':48 'arkin':24 'barney':2,10,26 'crazi':18,43 'd':29 'd-mass':28 'defend':4,12,35 'frank':3,11,27 'jame':23 'louis':7,15,39 'mass':30 'new':36 'ny':5,13 'parti':20,45 'rep':1,6,14,25,38 'republican':21 'slaughter':8,16,40 'step':32 'tea':19,44 'www.nydailynews.com':47 'www.nydailynews.com/blogs':46 'york':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nydailynews.com/blogs/dailypolitics/2012/07/rep-barney-frank-defending-ny-rep-louise-slaughter-from-crazy-tea-party-republ&amp;sa=U&amp;ei=lkgXUL7AKYb68gT-vIDgCA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNF4Q_4XZWMN2E-Qawt4KlYny66cFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960151</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.nydailynews.com/blogs/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:19:29-04:00</created-at>
+          <title>Barney Frank weds Jim Ready to become first congressman in same ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>It was by choice that Rep. Barney Frank came out of the closet 25 years ago &#8212; not the first gay congressman, but the first to announce voluntarily that he was gay. On Saturday, he took another deliberate first step: By ...</excerpt>
+          <fti-names>'25':25 'admin':52 'ago':27 'announc':37 'anoth':47 'barney':1,18 'becom':7 'came':20 'choic':15 'closet':24 'congressman':9,32 'deliber':48 'first':8,30,35,49 'frank':2,19 'gay':31,42 'jim':4 'readi':5 'rep':17 'saturday':44 'step':50 'took':46 'voluntarili':38 'wed':3 'year':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ma-moc/barney-frank-massachusetts-representative/barney-frank-weds-jim-ready-to-become-first-congressman-in-same-sex-washington-post-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dbarney-frank-weds-jim-ready-to-become-first-congressman-in-same-sex-washington-post-blog&amp;sa=U&amp;ei=uqsUUL2bKeGr6wGOnYGgCw&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNEhxld4O4QCESO9k122HXFCpuOkRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929558</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:24:54-04:00</created-at>
+          <title>Today, Congressman Barney Frank and Maria Bartiromo Yelled at ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Today, Congressman Barney Frank and Maria Bartiromo Yelled at Each Other Like an Old Not It was a ten minute interview. Here are four of the most overheated minutes. &amp;quot;You&amp;#39;re a fiscal cliff!&amp;quot; &amp;quot;No, YOU&amp;#39;RE a fiscal cliff!</excerpt>
+          <fti-names>'a.j':50 'barney':3,12 'bartiromo':7,16 'cliff':43,49 'congressman':2,11 'daulerio':51 'fiscal':42,48 'four':33 'frank':4,13 'interview':30 'like':21 'maria':6,15 'minut':29,38 'old':23 'overh':37 're':40,46 'ten':28 'today':1,10 'yell':8,17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gawker.com/5929463/today-congressman-barney-frank-and-maria-bartiromo-yelled-at-each-other-like-an-old-not-gay%2Bmarried-couple&amp;sa=U&amp;ei=lxoWULzBE6fz0gHo3ICwCA&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNHO9f38zVpe1ssK8rcMyXBpHJ-xvA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946825</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>A.J. Daulerio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:24:52-04:00</created-at>
+          <title>Gay activists Dustin Lance Black and Rep. Barney Frank to visit Utah ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Few know the intersection of film art and gay-rights activism as intimately as Dustin Lance Black. He graduated with honors from UCLA&amp;#39;s School of Theater, Film and Television and went on to win the 2008 Academy Award for ...</excerpt>
+          <fti-names>'2008':50 'academi':51 'activ':24 'activist':2 'art':19 'award':52 'barney':8 'black':5,30 'dustin':3,28 'film':18,41 'frank':9 'gay':1,22 'gay-right':21 'graduat':32 'honor':34 'intersect':16 'intim':26 'know':14 'lanc':4,29 'rep':7 'right':23 'school':38 'televis':43 'theater':40 'ucla':36 'utah':12 'visit':11 'went':45 'win':48 'www.sltrib.com':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sltrib.com/sltrib/entertainment/54529913-81/black-frank-gay-reading.html.csp&amp;sa=U&amp;ei=lxoWULzBE6fz0gHo3ICwCA&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNHcCMVsoBN6CkVU_cyYsdCJX7tbXA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sltrib.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:24:51-04:00</created-at>
+          <title>Rep. Barney Frank: Given &amp;#39;conscious deception,&amp;#39; letting banks self ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&amp;quot;I did not expect &#8230; the kind of blatant lying in their own self-interest and complete misrepresentation.&amp;quot; &#8212;Rep. Barney Frank on the banks that may be involved in the Libor scandal.</excerpt>
+          <fti-names>'/?xid=rssfeed':44 'bank':8,33 'barney':2,29 'blatant':17 'complet':26 'conscious':5 'current.com':43 'current.com/?xid=rssfeed':42 'decept':6 'expect':13 'frank':3,30 'given':4 'interest':24 'involv':37 'kind':15 'let':7 'libor':40 'lie':18 'may':35 'misrepresent':27 'rep':1,28 'scandal':41 'self':9,23 'self-interest':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://current.com/shows/viewpoint/videos/rep-barney-frank-given-conscious-deception-letting-banks-self-regulate-doesnt-work/&amp;sa=U&amp;ei=lxoWULzBE6fz0gHo3ICwCA&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNEVCm4UmKWQ6nA5m8sOBMrqxjStCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946822</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://current.com/?xid=RSSfeed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400140</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:19:30-04:00</created-at>
+          <title>Maria Bartiromo, Barney Frank Get Heated - TVNewser</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Maria Bartiromo, Barney Frank Get Heated. By Alex Weprin on July 27, 2012 10:12 AM. CNBC anchor Maria Bartiromo and Rep. Barney Frank (D-Mass.) got into a heated debate on &#8220;Closing Bell.&#8221; The topic of discussion was the Volcker Rule, ...</excerpt>
+          <fti-names>'10':21 '12':22 '2012':20 '27':19 'alex':15,51 'anchor':25 'barney':3,10,30 'bartiromo':2,9,27 'bell':42 'close':41 'cnbc':24 'd':33 'd-mass':32 'debat':39 'discuss':46 'frank':4,11,31 'get':5,12 'got':35 'heat':6,13,38 'juli':18 'maria':1,8,26 'mass':34 'rep':29 'rule':50 'topic':44 'tvnewser':7 'volcker':49 'weprin':16,52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediabistro.com/tvnewser/maria-bartiromo-barney-frank-get-heated_b139374&amp;sa=U&amp;ei=uqsUUL2bKeGr6wGOnYGgCw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNE5aovSzksnOg7lP9LQYQi-XGWOeg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929559</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alex Weprin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">66517</page-views-count>
+      <youtube-id>barneyfrank</youtube-id>
+      <unaccented-name>Barney Frank</unaccented-name>
+      <oc-user-comments type="integer">39</oc-user-comments>
+    </person>
+  </people>
+</hash>

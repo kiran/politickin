@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.3853427895981</party-votes-percentage>
+        <abstains-percentage type="float">1.57068062827225</abstains-percentage>
+        <votes-most-often-with-id type="integer">400154</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">27</abstains>
+        <cosponsored-bills type="integer">120</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">4</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412484</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1597</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">3210</blog-article-count>
+      <user-approval type="float">2.25</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">34</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>RepRobertHurt</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.3853427895981</with-party-percentage>
+      <lastname>Hurt</lastname>
+      <bioguide-id>H001060</bioguide-id>
+      <fax>202-225-5681</fax>
+      <congress-office>1516 Longworth House Office Building</congress-office>
+      <firstname>Robert</firstname>
+      <website>http://hurt.house.gov/</website>
+      <birthday type="date">1969-06-16</birthday>
+      <person-id type="integer">412484</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-4711</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">355</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:27-04:00</created-at>
+          <title>Challenger pushes Hurt for federal ban on mining</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Gen. John Douglass has sent a letter to U.S. Rep. Robert Hurt, R-5th District, asking him to introduce federal legislation banning uranium mining near residential communities and wants Hurt to step up his stance on the uranium mining issue in Pittsylvan</excerpt>
+          <fti-names>'5th':23 'ask':25 'ban':6,31 'challeng':1 'communiti':36 'district':24 'douglass':11 'feder':5,29 'gen':9 'godanriver.com':52 'hurt':3,20,39 'introduc':28 'issu':49 'john':10 'legisl':30 'letter':15 'mine':8,33,48 'near':34 'pittsylvan':51 'push':2 'r':22 'r-5th':21 'rep':18 'residenti':35 'robert':19 'sent':13 'stanc':44 'step':41 'u.s':17 'uranium':32,47 'want':38</fti-names>
+          <source-url>http://www2.godanriver.com/</source-url>
+          <url>http://www2.godanriver.com/news/2012/aug/07/challenger-pushes-hurt-federal-ban-mining-ar-2115494/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973442</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GoDanRiver.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:28-04:00</created-at>
+          <title>Tuesday letters</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...again, Rep. Robert Hurt, R-Pittsylvania County, dismisses the wishes of his constituency in order to placate his few wealthy donors, this time, by holding hostage the middle-class tax cut by refusing to allow it to pass without cuts for the wealthy as w</excerpt>
+          <fti-names>'allow':39 'class':33 'constitu':16 'counti':10 'cut':35,44 'dismiss':11 'donor':24 'hold':28 'hostag':29 'hurt':6 'letter':2 'middl':32 'middle-class':31 'order':18 'pass':42 'pittsylvania':9 'placat':20 'r':8 'r-pittsylvania':7 'refus':37 'rep':4 'roanoke.com':50 'robert':5 'tax':34 'time':26 'tuesday':1 'w':49 'wealthi':23,47 'wish':13 'without':43</fti-names>
+          <source-url>http://www.roanoke.com/</source-url>
+          <url>http://blogs.roanoke.com/roundtable/2012/08/tuesday-letters-77/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973443</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roanoke.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:45:01-04:00</created-at>
+          <title>Hurt stops in Danville</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Robert Hurt stopped in Danville on Saturday, where he rallied the GOP faithful and said he will take &#8220;take common sense to Washington.&#8221; About 40-50 of his Republican supporters showed up at the event at GOP Victory Center located at the Forum at 625</excerpt>
+          <fti-names>'-50':30 '40':29 '625':49 'center':43 'common':24 'danvill':4,9 'event':39 'faith':17 'forum':47 'godanriver.com':50 'gop':16,41 'hurt':1,6 'locat':44 'ralli':14 'republican':33 'robert':5 'said':19 'saturday':11 'sens':25 'show':35 'stop':2,7 'support':34 'take':22,23 'victori':42 'washington':27</fti-names>
+          <source-url>http://www2.godanriver.com/</source-url>
+          <url>http://www2.godanriver.com/news/2012/aug/04/hurt-stops-danville-ar-2109102/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972188</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GoDanRiver.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:52:10-04:00</created-at>
+          <title>EPA proposal expands Clean Water Act regulation</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...programs, USA Rice Federation and 48 other agricultural and agribusiness organizations said in a letter to U.S. Rep. Robert Hurt (R-Va.) and the House Committee on Transportation and Infrastructure. It is extremely important to prevent EPA and the U.S. </excerpt>
+          <fti-names>'48':13 'act':6 'agribusi':17 'agricultur':15 'clean':4 'committe':34 'delta':49 'epa':1,45 'expand':3 'extrem':41 'farm':50 'feder':11 'hous':33 'hurt':27 'import':42 'infrastructur':38 'letter':22 'organ':18 'press':51 'prevent':44 'program':8 'propos':2 'r':29 'r-va':28 'regul':7 'rep':25 'rice':10 'robert':26 'said':19 'transport':36 'u.s':24,48 'usa':9 'va':30 'water':5</fti-names>
+          <source-url>http://deltafarmpress.com/</source-url>
+          <url>http://feedproxy.google.com/~r/WesternFarmPress/~3/sDRHH0l-xa0/epa-proposal-expands-clean-water-act-regulation</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970691</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Delta Farm Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:50:27-04:00</created-at>
+          <title>UVA Photos from High in the Sky Come at Low Price</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Monday night, John Douglass, the Democrat trying to unseat 5th District Congressman Robert Hurt has some tough words for the incumbent Republican. There's a new tool for you to keep up with all of the projects and plans Charlottesville and Albemarle have .</excerpt>
+          <fti-names>'29':56 '5th':21 'albemarl':53 'charlottesvill':51 'come':8 'congressman':23 'democrat':17 'district':22 'douglass':15 'high':4 'hurt':25 'incumb':32 'john':14 'keep':42 'low':10 'monday':12 'nbc':55 'new':37 'news':57 'night':13 'photo':2 'plan':50 'price':11 'project':48 'republican':33 'robert':24 'sky':7 'tool':38 'tough':28 'tri':18 'unseat':20 'uva':1 'word':29</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nbc29.com/story/19161482/uva-photos-from-high-in-the-sky-come-at-low-price</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T18:22:41-04:00</date>
+          <id type="integer">16966655</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBC 29 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:50:35-04:00</created-at>
+          <title>Douglass holds town hall meeting (VA-5)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...which Robert Hurt is doing now and for the last almost two years. One of the main points Mr. Douglass made was that due to Mr. Hurt&#8217;s family interest in uranium mining in Virginia, Mr. Hurt should not be taking money from those interests in his campai</excerpt>
+          <fti-names>'-5':7 'almost':18 'campai':55 'douglass':1,27 'due':31 'famili':36 'hall':4 'hold':2 'hurt':10,34,44 'interest':37,52 'j':57 'last':17 'made':28 'main':24 'meet':5 'mine':40 'money':49 'mr':26,33,43 'one':21 'page':58 'point':25 'robert':9 'take':48 'town':3 'two':19 'uranium':39 'va':6 'virginia':42 'vivian':56 'year':20</fti-names>
+          <source-url>http://blog.vivianpaige.com/</source-url>
+          <url>http://blog.vivianpaige.com/2012/07/31/douglass-holds-town-hall-meeting-va-5/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966656</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Vivian J. Page</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:50:25-04:00</created-at>
+          <title>Douglass Attacks Hurt on Uranium Mining Money, Medicare</title>
+          <contains-term>congress</contains-term>
+          <excerpt>John Douglass, the Democrat trying to unseat 5th District Congressman Robert Hurt had some tough words for the incumbent Republican Monday night. At a town hall panel discussion at C'ville Coffee in Charlottesville, Douglass said Hurt has no business ...</excerpt>
+          <fti-names>'29':50 '5th':16 'attack':2 'busi':48 'c':38 'charlottesvill':42 'coffe':40 'congressman':18 'democrat':12 'discuss':36 'district':17 'douglass':1,10,43 'hall':34 'hurt':3,20,45 'incumb':27 'john':9 'medicar':8 'mine':6 'monday':29 'money':7 'nbc':49 'news':51 'night':30 'panel':35 'republican':28 'robert':19 'said':44 'tough':23 'town':33 'tri':13 'unseat':15 'uranium':5 'vill':39 'word':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nbc29.com/story/19151901/douglass-attacks-hurt-on-uranium-mining-money-medicare</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:21:47-04:00</date>
+          <id type="integer">16966651</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBC 29 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:08-04:00</created-at>
+          <title>Republicans get new headquarters in Danville</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The headquarters is a few doors down from the Republican Victory Office, where phone bankers and organizers work to get Republicans elected &#8212; specifically U.S. Rep. Robert Hurt, R-5th District, U.S. Senate candidate George Allen, and ...</excerpt>
+          <fti-names>'5th':36 'allen':42 'banker':21 'candid':40 'danvill':6 'district':37 'door':12 'elect':28 'georg':41 'get':2,26 'godanriver.com':44 'headquart':4,8 'hurt':33 'new':3 'offic':18 'organ':23 'phone':20 'r':35 'r-5th':34 'rep':31 'republican':1,16,27 'robert':32 'senat':39 'specif':29 'u.s':30,38 'victori':17 'work':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.godanriver.com/news/2012/jul/30/republicans-get-new-headquarters-danville-ar-2096204/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T19:21:08-04:00</date>
+          <id type="integer">16960630</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GoDanRiver.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:50:26-04:00</created-at>
+          <title>At C'ville Coffee event, Douglass warns federal budget cuts would hit Virginia hard</title>
+          <contains-term>congress</contains-term>
+          <excerpt>It&#8217;s the responsibility of Congress to set those priorities and they have failed to do it.&#8221; Douglass is challenging Rep. Robert Hurt, R-Chatham, in the 5th District, which stretches through the middle of the state from Southside Virginia to ...</excerpt>
+          <fti-names>'5th':43 'budget':9 'c':2 'challeng':34 'charlottesvill':57 'chatham':40 'coffe':4 'congress':20 'cut':10 'daili':58 'district':44 'douglass':6,32 'event':5 'fail':28 'feder':8 'hard':14 'hit':12 'hurt':37 'middl':49 'prioriti':24 'progress':59 'r':39 'r-chatham':38 'rep':35 'respons':18 'robert':36 'set':22 'southsid':54 'state':52 'stretch':46 'vill':3 'virginia':13,55 'warn':7 'would':11</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.dailyprogress.com/news/2012/jul/30/cville-coffee-event-douglass-warns-federal-budget--ar-2096315/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T19:13:59-04:00</date>
+          <id type="integer">16966653</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Charlottesville Daily Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:50:26-04:00</created-at>
+          <title>Republicans get new headquarters in Danville</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The headquarters is a few doors down from the Republican Victory Office, where phone bankers and organizers work to get Republicans elected &#8212; specifically U.S. Rep. Robert Hurt, R-5th District, U.S. Senate candidate George Allen, and ...</excerpt>
+          <fti-names>'5th':36 'allen':42 'banker':21 'candid':40 'danvill':6 'district':37 'door':12 'elect':28 'georg':41 'get':2,26 'headquart':4,8 'hurt':33 'new':3 'offic':18 'organ':23 'phone':20 'r':35 'r-5th':34 'rep':31 'republican':1,16,27 'robert':32 'senat':39 'specif':29 'u.s':30,38 'victori':17 'work':24 'wsls.com':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.wsls.com/news/2012/jul/30/republicans-get-new-headquarters-danville-ar-2096204/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T19:58:07-04:00</date>
+          <id type="integer">16966654</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WSLS.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Robert Hurt [R, VA-5]</name>
+      <total-session-votes type="integer">1692</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:03-04:00</created-at>
+          <title>GOP fears ex-lawmaker&amp;#39;s candidacy will help Obama win swing ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>for president in 2008, lost his 2008 reelection race to former Democratic Rep. Tom Perriello. Before he had a chance to enter the race in 2010, Republicans had already endorsed Rep. Robert Hurt&amp;#39;s bid to win the seat.</excerpt>
+          <fti-names>'2008':16,19 '2010':38 'alreadi':41 'bid':47 'candidaci':7 'chanc':32 'democrat':24 'endors':42 'enter':34 'ex':4 'ex-lawmak':3 'fear':2 'former':23 'gop':1 'help':9 'hooper':54 'hurt':45 'k':53 'lawmak':5 'lost':17 'molli':52 'obama':10 'perriello':27 'presid':14 'race':21,36 'reelect':20 'rep':25,43 'republican':39 'robert':44 'seat':51 'swing':12 'tom':26 'win':11,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/campaign/240903-gop-fears-ex-lawmakers-candidacy-will-help-obama-win-swing-state-virginia&amp;sa=U&amp;ei=5koXUNy_BfKF0QH48IHoDg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNETeTUTWZ0my0V0D9SKaYo0_-cM_w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16960621</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Molly K. Hooper</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:34:34-04:00</created-at>
+          <title>Health care bill good for small businesses | Health</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I was very disappointed to see that Congressman Robert Hurt voted for repeal of the Affordable Care Act. The health care bill has been good news for small businesses like mine. One provision says that insurance companies ...</excerpt>
+          <fti-names>'act':26 'admin':46 'afford':24 'bill':3,30 'busi':7,37 'care':2,25,29 'compani':45 'congressman':16 'disappoint':12 'good':4,33 'health':1,8,28 'hurt':18 'insur':44 'like':38 'mine':39 'news':34 'one':40 'provis':41 'repeal':21 'robert':17 'say':42 'see':14 'small':6,36 'vote':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://healthtipsblogspot.com/health-care-bill-good-for-small-businesses/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dhealth-care-bill-good-for-small-businesses&amp;sa=U&amp;ei=7yoWUKrYHoWt0AG-kIDwCA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEGJCNHEsiyX9SHV_dNjHzvR40UkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947758</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:34:29-04:00</created-at>
+          <title>GOP fears ex-lawmaker&amp;#39;s candidacy will help Obama win swing ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>for president in 2008, lost his 2008 reelection race to former Democratic Rep. Tom Perriello. Before he had a chance to enter the race in 2010, Republicans had already endorsed Rep. Robert Hurt&amp;#39;s bid to win the seat.</excerpt>
+          <fti-names>'2008':16,19 '2010':38 'alreadi':41 'bid':47 'candidaci':7 'chanc':32 'democrat':24 'endors':42 'enter':34 'ex':4 'ex-lawmak':3 'fear':2 'former':23 'gop':1 'help':9 'hooper':54 'hurt':45 'k':53 'lawmak':5 'lost':17 'molli':52 'obama':10 'perriello':27 'presid':14 'race':21,36 'reelect':20 'rep':25,43 'republican':39 'robert':44 'seat':51 'swing':12 'tom':26 'win':11,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/campaign/240903-gop-fears-ex-lawmakers-candidacy-will-help-obama-win-swing-state-virginia&amp;sa=U&amp;ei=7yoWUKrYHoWt0AG-kIDwCA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNFeAAczW49_N9wIDhN7wYE8ATQ0Uw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947754</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Molly K. Hooper</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:34:32-04:00</created-at>
+          <title>Chick-fil-A, Clyde, And The General &#8211; Bearing Drift: Virginia&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Except Robert&amp;#39;s not in a costume. The 5th is pretty rural. The website does have a &#8220;statement on senate&amp;#39;s passage of middle class tax relief&#8221; Typical liberal talking points, even referring to &amp;#39;Corporate Congressman&amp;#39; Robert Hurt.</excerpt>
+          <fti-names>'5th':21 'bear':9 'chick':2 'chick-fil-a':1 'class':37 'clyde':5 'congressman':48 'corpor':47 'costum':19 'drift':10 'even':44 'except':13 'fil':3 'general':8 'hoeft':53 'hurt':50 'j.r':52 'jr@bearingdrift.com':51 'liber':41 'middl':36 'passag':34 'point':43 'pretti':23 'refer':45 'relief':39 'robert':14,49 'rural':24 'senat':32 'statement':30 'talk':42 'tax':38 'typic':40 'virginia':11 'websit':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bearingdrift.com/2012/07/27/chick-fil-a-clyde-and-the-general/&amp;sa=U&amp;ei=7yoWUKrYHoWt0AG-kIDwCA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHrKWATd5bkJCtz_ZCtuLQpYz5hhQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16947756</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jr@bearingdrift.com (J.R. Hoeft)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:03-04:00</created-at>
+          <title>Chick-fil-A, Clyde, And The General &#8211; Bearing Drift: Virginia&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Except Robert&amp;#39;s not in a costume. The 5th is pretty rural. The website does have a &#8220;statement on senate&amp;#39;s passage of middle class tax relief&#8221; Typical liberal talking points, even referring to &amp;#39;Corporate Congressman&amp;#39; Robert Hurt.</excerpt>
+          <fti-names>'5th':21 'bear':9 'chick':2 'chick-fil-a':1 'class':37 'clyde':5 'congressman':48 'corpor':47 'costum':19 'drift':10 'even':44 'except':13 'fil':3 'general':8 'hoeft':53 'hurt':50 'j.r':52 'jr@bearingdrift.com':51 'liber':41 'middl':36 'passag':34 'point':43 'pretti':23 'refer':45 'relief':39 'robert':14,49 'rural':24 'senat':32 'statement':30 'talk':42 'tax':38 'typic':40 'virginia':11 'websit':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bearingdrift.com/2012/07/27/chick-fil-a-clyde-and-the-general/&amp;sa=U&amp;ei=5koXUNy_BfKF0QH48IHoDg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEYO_O5bvvwoGwq5FaDotrDQYF-bA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16960623</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jr@bearingdrift.com (J.R. Hoeft)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:22:36-04:00</created-at>
+          <title>Chick-fil-A, Clyde, And The General &#8211; Bearing Drift: Virginia&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Except Robert&amp;#39;s not in a costume. The 5th is pretty rural. The website does have a &#8220;statement on senate&amp;#39;s passage of middle class tax relief&#8221; Typical liberal talking points, even referring to &amp;#39;Corporate Congressman&amp;#39; Robert Hurt.</excerpt>
+          <fti-names>'5th':21 'bear':9 'chick':2 'chick-fil-a':1 'class':37 'clyde':5 'congressman':48 'corpor':47 'costum':19 'drift':10 'even':44 'except':13 'fil':3 'general':8 'hoeft':53 'hurt':50 'j.r':52 'jr@bearingdrift.com':51 'liber':41 'middl':36 'passag':34 'point':43 'pretti':23 'refer':45 'relief':39 'robert':14,49 'rural':24 'senat':32 'statement':30 'talk':42 'tax':38 'typic':40 'virginia':11 'websit':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bearingdrift.com/2012/07/27/chick-fil-a-clyde-and-the-general/&amp;sa=U&amp;ei=froUUOriI4ym8gTyqYGABg&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNE5aOClFbPWEKdYoHmcRWpNR8Xc2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929864</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jr@bearingdrift.com (J.R. Hoeft)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:03:49-04:00</created-at>
+          <title>Regional Job Fair: August 6 &#171; Harrisonburg, Virginia, in the ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Bob Goodlatte, along with Congressman Robert Hurt, will host a Regional Job Fair,on August 6th at the Liberty Mountain Conference Center in Lynchburg. This is a district wide event &#8211; anyone seeking employment is invited ...</excerpt>
+          <fti-names>'6':5 '6th':25 'along':12 'anyon':40 'august':4,24 'bob':10 'center':31 'confer':30 'congressman':14 'district':37 'employ':42 'event':39 'fair':3,22 'fred':45 'goodlatt':11 'harrisonburg':6 'host':18 'hurt':16 'invit':44 'job':2,21 'liberti':28 'lynchburg':33 'mountain':29 'region':1,20 'robert':15 'seek':41 'virginia':7 'wide':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.harrisonburg.org/2012/07/regional-job-fair-august-6/&amp;sa=U&amp;ei=lFYTUMPXK6X20gG4-4CACQ&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNFjUv-rriemqClGShlaAqCaUtrINw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16921736</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:03:49-04:00</created-at>
+          <title>Chick-fil-A, Clyde, And The General &#8211; Bearing Drift: Virginia&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Except Robert&amp;#39;s not in a costume. The 5th is pretty rural. The website does have a &#8220;statement on senate&amp;#39;s passage of middle class tax relief&#8221; Typical liberal talking points, even referring to &amp;#39;Corporate Congressman&amp;#39; Robert Hurt.</excerpt>
+          <fti-names>'5th':21 'bear':9 'chick':2 'chick-fil-a':1 'class':37 'clyde':5 'congressman':48 'corpor':47 'costum':19 'drift':10 'even':44 'except':13 'fil':3 'general':8 'hoeft':53 'hurt':50 'j.r':52 'jr@bearingdrift.com':51 'liber':41 'middl':36 'passag':34 'point':43 'pretti':23 'refer':45 'relief':39 'robert':14,49 'rural':24 'senat':32 'statement':30 'talk':42 'tax':38 'typic':40 'virginia':11 'websit':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bearingdrift.com/2012/07/27/chick-fil-a-clyde-and-the-general/&amp;sa=U&amp;ei=lFYTUMPXK6X20gG4-4CACQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEZfVDsfCiPNVv3OoRbsRGH5tGs1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16921731</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jr@bearingdrift.com (J.R. Hoeft)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:34:38-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Robert Hurt (VA Republican), No. Rep. Darrell Issa (CA Republican), No. Rep. Lynn Jenkins (KS Republican), No. Rep. Bill Johnson (OH Republican), No. Rep. Samuel Johnson (TX Republican), No. Rep. Walter Jones (NC Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'bill':28 'ca':18 'darrel':16 'drill':9 'hr.6168':1 'hurt':11 'issa':17 'jenkin':23 'johnson':29,35 'jone':41 'ks':24 'lynn':22 'nc':42 'obama':3 'offshor':8 'oh':30 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,31,37,43 'robert':10 'samuel':34 'tx':36 'va':12 'walter':40 'www.votetocracy.com':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=7yoWUKrYHoWt0AG-kIDwCA&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNH-E7xvnhEbfzbvkiKHY4uIuI_rcQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16947761</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412484</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:22:38-04:00</created-at>
+          <title>Northeast-Midwest Institute&amp;#39;s Mississippi River Basin Blog: House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-VA) and Jason Altmire (D-PA), which would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. H.R. 5961, sponsored by Rep. Shelley Moore Capito (R-WV), ...</excerpt>
+          <fti-names>'5961':40 'act':35 'activ':38 'agricultur':37 'altmir':18 'basin':8 'blog':9 'capito':46 'clean':33 'd':20 'd-pa':19 'elimin':24 'exempt':29 'gorman':51 'h.r':39 'hous':10 'hurt':12 'institut':4 'jason':17 'limit':25 'mark':50 'midwest':3 'mississippi':6 'moor':45 'northeast':2 'northeast-midwest':1 'pa':21 'provid':30 'r':14,48 'r-va':13 'r-wv':47 'regulatori':28 'rep':43 'river':7 'robert':11 'shelley':44 'sponsor':41 'va':15 'water':34 'would':23 'wv':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nemwuppermiss.blogspot.com/2012/07/house-transportation-and-infrastructure.html&amp;sa=U&amp;ei=froUUOriI4ym8gTyqYGABg&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNHrmKtz5NAT3paSvRKR6sOLkmyRaA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16929865</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Gorman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5246</page-views-count>
+      <unaccented-name>Robert Hurt</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

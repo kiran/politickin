@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.2129514321295</party-votes-percentage>
+        <abstains-percentage type="float">6.57358929610238</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">78</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">199</cosponsored-bills-passed-rank>
+        <abstains type="integer">113</abstains>
+        <cosponsored-bills type="integer">432</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">201</party-votes-percentage-rank>
+        <sponsored-bills type="integer">14</sponsored-bills>
+        <votes-least-often-with-id type="integer">412473</votes-least-often-with-id>
+        <person-id type="integer">400661</person-id>
+        <cosponsored-bills-rank type="integer">56</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">144</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">318</votes-republican-position>
+      <metavid-id>Gwen_Moore</metavid-id>
+      <blog-article-count type="integer">5414</blog-article-count>
+      <user-approval type="float">2.55</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">108</oc-users-tracking>
+      <contact-webform>http://www.house.gov/gwenmoore/contact.shtml</contact-webform>
+      <youtube-id>RepGwenMoore</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.2129514321295</with-party-percentage>
+      <lastname>Moore</lastname>
+      <bioguide-id>M001160</bioguide-id>
+      <fax>202-225-8135</fax>
+      <congress-office>2245 Longworth House Office Building</congress-office>
+      <firstname>Gwen</firstname>
+      <website>http://gwenmoore.house.gov/</website>
+      <birthday type="date">1951-04-18</birthday>
+      <person-id type="integer">400661</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-4572</phone>
+      <religion>Unknown</religion>
+      <votes-democratic-position type="integer">1497</votes-democratic-position>
+      <gender>F</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:14-04:00</created-at>
+          <title>U.S. Rep. Moore: Gwen Moore announces $900,000 grant for Wisconsin Department of Transportation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Milwaukee, WI &#8211; Today, Congresswoman Gwen Moore (WI-4), along with the Wisconsin Department of Transportation (DOT) announced the release of $900,000 in grant funding to support transportation operation efforts in the Great Lakes region. This grant was .</excerpt>
+          <fti-names>'-4':22 '000':8,36 '900':7,35 'along':23 'announc':6,31 'congresswoman':18 'depart':12,27 'dot':30 'effort':44 'fund':39 'grant':9,38,51 'great':47 'gwen':4,19 'lake':48 'milwauke':15 'moor':3,5,20 'oper':43 'region':49 'releas':33 'rep':2 'support':41 'today':17 'transport':14,29,42 'u.s':1 'wi':16,21 'wisconsin':11,26 'wispolitics.com':53</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://wispolitics.com/index.iml?Article=276015</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T12:31:56-04:00</date>
+          <id type="integer">16966977</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WisPolitics.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:15-04:00</created-at>
+          <title>U.S. Rep. Moore: Statement on Boehner appointment of Violence Against Women Act Conference Committee</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, DC &#8211; Today, Congresswoman Gwen Moore (WI-4), released this statement following news that Speaker John Boehner appointed eight members of the House Republican caucus to a nonexistent conference committee on the Violence Against Women Act ...</excerpt>
+          <fti-names>'-4':22 'act':12,50 'appoint':7,32 'boehner':6,31 'caucus':39 'committe':14,44 'confer':13,43 'congresswoman':18 'dc':16 'eight':33 'follow':26 'gwen':19 'hous':37 'john':30 'member':34 'moor':3,20 'news':27 'nonexist':42 'releas':23 'rep':2 'republican':38 'speaker':29 'statement':4,25 'today':17 'u.s':1 'violenc':9,47 'washington':15 'wi':21 'wispolitics.com':51 'women':11,49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://wispolitics.com/index.iml?Article=275990</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:58:52-04:00</date>
+          <id type="integer">16966978</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WisPolitics.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:20:54-04:00</created-at>
+          <title>The Liberal 'Right' to Violence</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Planned Parenthood enthusiast and &quot;Women are Watching&quot; video star Representative Gwen Moore (D-WI) contends that &quot;Planned Parenthood is healthy for women, is healthy for children, and is healthy for our society.&quot; Contrary to Gwen Moore's ...</excerpt>
+          <fti-names>'american':44 'children':32 'contend':21 'contrari':39 'd':19 'd-wi':18 'enthusiast':8 'gwen':16,41 'healthi':26,30,35 'liber':2 'moor':17,42 'parenthood':7,24 'plan':6,23 'repres':15 'right':3 'societi':38 'star':14 'thinker':45 'video':13 'violenc':5 'watch':12 'wi':20 'women':10,28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.americanthinker.com/blog/2012/07/m-the_liberal_right_to_violence.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T11:32:15-04:00</date>
+          <id type="integer">16922722</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Thinker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:07:46-04:00</created-at>
+          <title>Mark Pocan and Kelda Helen Roys spar over progressive values</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Perhaps as a result, they're each fighting to be seen as the &quot;genuine&quot; progressive in the race to replace liberal U.S. Rep. Tammy Baldwin ... only the second and the fourth, Gwen Moore's seat in Milwaukee, are reliably Democratic, he says.</excerpt>
+          <fti-names>'baldwin':35 'daili':54 'democrat':50 'fight':18 'fourth':41 'genuin':24 'gwen':42 'helen':5 'isthmus':53 'kelda':4 'liber':31 'mark':1 'milwauke':47 'moor':43 'page':55 'perhap':11 'pocan':2 'progress':9,25 'race':28 're':16 'reliabl':49 'rep':33 'replac':30 'result':14 'roy':6 'say':52 'seat':45 'second':38 'seen':21 'spar':7 'tammi':34 'u.s':32 'valu':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.thedailypage.com/isthmus/article.php?article=37351</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16949003</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Isthmus Daily Page</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:25:38-04:00</created-at>
+          <title>Democratic vote hardest hit by Voter ID, opponents say ID requirement jeopardizes same-day voter registration</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Gaskins, U.S. Rep. Gwen Moore (D-Wisc.) and U.S. Rep. Keith Ellison (D-Minn.) recently discussed voter suppression legislation in a media conference call co-sponsored by New America Media and the Brennan Center for reporters from around the ...</excerpt>
+          <fti-names>'america':49 'around':58 'brennan':53 'call':43 'center':54 'citi':61 'co':45 'co-sponsor':44 'confer':42 'd':24,32 'd-minn':31 'd-wisc':23 'day':15 'democrat':1 'discuss':35 'ellison':30 'gaskin':18 'gwen':21 'hardest':3 'hit':4 'id':7,10 'jeopard':12 'keith':29 'legisl':38 'media':41,50 'minn':33 'moor':22 'new':48 'oppon':8 'planet':62 'recent':34 'registr':17 'rep':20,28 'report':56 'requir':11 'same-day':13 'say':9 'sponsor':46 'suppress':37 'twin':60 'u.s':19,27 'vote':2 'voter':6,16,36 'wisc':25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tcdailyplanet.net/news/2012/07/26/democratic-vote-hardest-hit-voter-id-opponents-say-id-requirement-jeopardizes-same-d</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16930475</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Twin Cities Planet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-25T00:33:17-04:00</created-at>
+          <title>U.S. Rep. Moore: Applauds CMS approval of continuation of Wisconsin Family Care</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, D.C. &#8211; Today, Congresswoman Gwen Moore (WI-4) applauded the Centers for Medicare and Medicare Services (CMS) decision to renew the State of Wisconsin&#8217;s Family Care waiver agreement. Additionally, she was pleased that CMS upheld the Family .</excerpt>
+          <fti-names>'-4':20 'addit':42 'agreement':41 'applaud':4,21 'approv':6 'care':12,39 'center':23 'cms':5,29,47 'congresswoman':16 'continu':8 'd.c':14 'decis':30 'famili':11,38,50 'gwen':17 'medicar':25,27 'moor':3,18 'pleas':45 'renew':32 'rep':2 'servic':28 'state':34 'today':15 'u.s':1 'upheld':48 'waiver':40 'washington':13 'wi':19 'wisconsin':10,36 'wispolitics.com':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://wispolitics.com/index.iml?Article=275440</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T15:32:02-04:00</date>
+          <id type="integer">16851191</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WisPolitics.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-25T00:33:38-04:00</created-at>
+          <title>Glenda Vian: Congress should reauthorize Violence Against Women Act</title>
+          <contains-term>congress</contains-term>
+          <excerpt>There is a bipartisan bill, HR 4271, and it is currently at the committee level. The sponsor of this bill is Rep. Gwen Moore, D-Milwaukee. This bill is very important to the growth of society because it protects all populations. HR 4271 includes a ...</excerpt>
+          <fti-names>'4271':16,53 'act':9 'bill':14,29,38 'bipartisan':13 'committe':23 'congress':3 'current':20 'd':35 'd-milwauke':34 'glenda':1 'growth':44 'gwen':32 'hr':15,52 'import':41 'includ':54 'level':24 'madison':56 'milwauke':36 'moor':33 'popul':51 'protect':49 'reauthor':5 'rep':31 'societi':46 'sponsor':26 'vian':2 'violenc':6 'women':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://host.madison.com/news/opinion/mailbag/article_817db06d-9154-5f8b-a92e-6c836be0b271.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T05:02:06-04:00</date>
+          <id type="integer">16851198</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>madison</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:25:36-04:00</created-at>
+          <title>Glenda Vian: Congress should reauthorize Violence Against Women Act</title>
+          <contains-term>congress</contains-term>
+          <excerpt>There is a bipartisan bill, HR 4271, and it is currently at the committee level. The sponsor of this bill is Rep. Gwen Moore, D-Milwaukee. This bill is very important to the growth of society because it protects all populations. HR 4271 includes a ...</excerpt>
+          <fti-names>'4271':16,53 'act':9 'bill':14,29,38 'bipartisan':13 'committe':23 'congress':3 'current':20 'd':35 'd-milwauke':34 'glenda':1 'growth':44 'gwen':32 'hr':15,52 'import':41 'includ':54 'level':24 'madison':56 'milwauke':36 'moor':33 'popul':51 'protect':49 'reauthor':5 'rep':31 'societi':46 'sponsor':26 'vian':2 'violenc':6 'women':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://host.madison.com/ct/news/opinion/mailbag/article_817db06d-9154-5f8b-a92e-6c836be0b271.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T04:54:57-04:00</date>
+          <id type="integer">16930474</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>madison</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-25T00:34:22-04:00</created-at>
+          <title>Glenda Vian: Congress should reauthorize Violence Against Women Act</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of 1994. There is a bipartisan bill, HR 4271, and it is currently at the committee level. The sponsor of this bill is Rep. Gwen Moore, D-Milwaukee. This bill is very important to the growth of society because it protects all populations. HR 4271 include</excerpt>
+          <fti-names>'1994':11 '4271':18,55 'act':9 'bill':16,31,40 'bipartisan':15 'committe':25 'congress':3 'current':22 'd':37 'd-milwauke':36 'glenda':1 'growth':46 'gwen':34 'hr':17,54 'import':43 'includ':56 'level':26 'madison.com':57 'milwauke':38 'moor':35 'popul':53 'protect':51 'reauthor':5 'rep':33 'societi':48 'sponsor':28 'vian':2 'violenc':6 'women':8</fti-names>
+          <source-url>http://host.madison.com/</source-url>
+          <url>http://host.madison.com/news/opinion/mailbag/glenda-vian-congress-should-reauthorize-violence-against-women-act/article_817db06d-9154-5f8b-a92e-6c836be0b271.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16851208</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Madison.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:06:05-04:00</created-at>
+          <title>State Waivers for TANF Can Provide True Pathway Out of Poverty</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Recently the Obama Administration took a common sense step in reforming a program that has long been in need of repair -- the Temporary Assistance for Needy Families (TANF) program. Through a recent rule change, the Administration will now allow ...</excerpt>
+          <fti-names>'administr':15,47 'allow':50 'assist':35 'chang':45 'common':18 'famili':38 'huffington':51 'long':27 'need':30 'needi':37 'obama':14 'pathway':8 'post':52 'poverti':11 'program':24,40 'provid':6 'recent':12,43 'reform':22 'repair':32 'rule':44 'sens':19 'state':1 'step':20 'tanf':4,39 'temporari':34 'took':16 'true':7 'waiver':2</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/rep-gwen-moore/state-waivers-for-tanf-ca_b_1695515.html?utm_hp_ref=celebrity</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T14:28:47-04:00</date>
+          <id type="integer">16822727</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Gwen Moore [D, WI-4]</name>
+      <total-session-votes type="integer">1606</total-session-votes>
+      <sunlight-nickname>Gwen</sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:32:16-04:00</created-at>
+          <title>Rep. Gwen Moore: State Waivers for TANF Can Provide True ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As a former recipient of these services I can honestly say that the overwhelming majority of TANF recipients are hard-working Americans who are down on their luck, and just want an opportunity to better their lives and those of ...</excerpt>
+          <fti-names>'american':33 'better':46 'former':13 'gwen':2,53 'hard':31 'hard-work':30 'honest':20 'live':48 'luck':39 'major':25 'moor':3,54 'opportun':44 'overwhelm':24 'provid':9 'recipi':14,28 'rep':1,52 'say':21 'servic':17 'state':4 'tanf':7,27 'true':10 'waiver':5 'want':42 'work':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/rep-gwen-moore/state-waivers-for-tanf-ca_b_1695515.html&amp;sa=U&amp;ei=wAsSUKLFIMbY6wH4x4BI&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGOohTX3LpbT_Kjushf2v57tg3vcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16891499</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rep. Gwen Moore</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:32:17-04:00</created-at>
+          <title>Gwen Moore applauds permanent injunction of Wisconsin Voter ID ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, D.C. &#8211; Congresswoman Gwen Moore (WI-4) released the following statement applauding the decision of Circuit Judge David Flanagan to grant a permanent injunction against Wisconsin&amp;#39;s voter identification law.</excerpt>
+          <fti-names>'-4':16 'admin':40 'applaud':3,21 'circuit':25 'congresswoman':12 'd.c':11 'david':27 'decis':23 'flanagan':28 'follow':19 'grant':30 'gwen':1,13 'id':9 'identif':38 'injunct':5,33 'judg':26 'law':39 'moor':2,14 'perman':4,32 'releas':17 'statement':20 'voter':8,37 'washington':10 'wi':15 'wisconsin':7,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://milwaukeecourieronline.com/index.php/2012/07/21/gwen-moore-applauds-permanent-injunction-of-wisconsin-voter-id-law/&amp;sa=U&amp;ei=wAsSUKLFIMbY6wH4x4BI&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNEEOILz4zHPfEcBBbH_Po_npsfOwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16891506</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:27:32-04:00</created-at>
+          <title>Updated! 57 Co-sponsors for the HEART for Women Act. Can we get ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Todd Platts (R-PA-19). Sen. Tim Johnson (D-SD). Rep. Charlie Gonzalez (D-TX-20). Rep. Silvestre Reyes (D-TX-16). Rep. James Moran (D-VA-08). Rep. Cathy McMorris Rodgers (R-WA-05). Rep. Gwen Moore (D-WI-04) ...</excerpt>
+          <fti-names>'04':63 '05':56 '08':48 '16':41 '19':21 '20':34 '57':2 'act':11 'admin':64 'cathi':50 'charli':29 'co':4 'co-sponsor':3 'd':26,32,39,46,61 'd-sd':25 'd-tx':31,38 'd-va':45 'd-wi':60 'get':14 'gonzalez':30 'gwen':58 'heart':8 'jame':43 'johnson':24 'mcmorri':51 'moor':59 'moran':44 'pa':20 'platt':17 'r':19,54 'r-pa':18 'r-wa':53 'rep':15,28,35,42,49,57 'rey':37 'rodger':52 'sd':27 'sen':22 'silvestr':36 'sponsor':5 'tim':23 'todd':16 'tx':33,40 'updat':1 'va':47 'wa':55 'wi':62 'women':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yourethecureblog.heart.org/2012/07/20/updated-57-co-sponsors-for-the-heart-for-women-act-can-we-get-to-100/&amp;sa=U&amp;ei=pCEKUKXtIuiK2gX-9J0t&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNHYTyYFm55aCBz1nEI4qNQsmynK1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16780043</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:32:17-04:00</created-at>
+          <title>Wisconsin Dem slams passage of House &amp;#39;Obamacare&amp;#39; repeal bill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;Same crap, different day,&#8221; Rep. Gwen Moore (D-WI) told Raw Story. &#8220;They&amp;#39;ve always been against Social Security, against Medicare, Medicaid. This is just a different day in their history of not wanting to expand the social ...</excerpt>
+          <fti-names>'alway':25 'bill':9 'crap':11 'd':18 'd-wi':17 'day':13,38 'dem':2 'differ':12,37 'expand':46 'gwen':15 'histori':41 'hous':6 'kay':49 'medicaid':32 'medicar':31 'moor':16 'obamacar':7 'passag':4 'raw':21 'rep':14 'repeal':8 'secur':29 'slam':3 'social':28,48 'steiger':50 'stori':22 'told':20 've':24 'want':44 'wi':19 'wisconsin':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rawstory.com/rs/2012/07/11/wisconsin-dem-slams-passage-of-house-obamacare-repeal-bill/&amp;sa=U&amp;ei=wAsSUKLFIMbY6wH4x4BI&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNGimU5Wog7PJbSiY_hcqUu1E4FlkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16891504</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kay Steiger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:27:36-04:00</created-at>
+          <title>Wisconsin Dem slams passage of House &amp;#39;Obamacare&amp;#39; repeal bill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;Same crap, different day,&#8221; Rep. Gwen Moore (D-WI) told Raw Story. &#8220;They&amp;#39;ve always been against Social Security, against Medicare, Medicaid. This is just a different day in their history of not wanting to expand the social ...</excerpt>
+          <fti-names>'alway':25 'bill':9 'crap':11 'd':18 'd-wi':17 'day':13,38 'dem':2 'differ':12,37 'expand':46 'gwen':15 'histori':41 'hous':6 'kay':49 'medicaid':32 'medicar':31 'moor':16 'obamacar':7 'passag':4 'raw':21 'rep':14 'repeal':8 'secur':29 'slam':3 'social':28,48 'steiger':50 'stori':22 'told':20 've':24 'want':44 'wi':19 'wisconsin':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rawstory.com/rs/2012/07/11/wisconsin-dem-slams-passage-of-house-obamacare-repeal-bill/&amp;sa=U&amp;ei=pCEKUKXtIuiK2gX-9J0t&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGbNUxAqiCFUptjaCIWOwcIPQmYjg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16780047</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kay Steiger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:27:38-04:00</created-at>
+          <title>Rep. Gwen Moore Holding Town Hall Friday at UWM on Voter ID in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Gwen Moore Holding Town Hall Friday at UWM on Voter ID in Wisconsin. Filed under: Right Wing Agenda,Scott Walker,Voter Suppression &#8212; millerlf @ 9:47 am. cid:image001.jpg@01CD457D.C055CF10 ...</excerpt>
+          <fti-names>'01cd457d.c055cf10':43 '47':39 '9':38 'agenda':32 'cid':41 'file':28 'friday':7,20 'gwen':2,15 'hall':6,19 'hold':4,17 'id':12,25 'image001.jpg':42 'millerlf':37,44 'moor':3,16 'rep':1,14 'right':30 'scott':33 'suppress':36 'town':5,18 'uwm':9,22 'voter':11,24,35 'walker':34 'wing':31 'wisconsin':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://millermps.wordpress.com/2012/06/11/rep-gwen-moore-holding-town-hall-friday-at-uwm-on-voter-id-in-wisconsin/&amp;sa=U&amp;ei=pCEKUKXtIuiK2gX-9J0t&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNGXOqphOnQsmMGQstNa4des5o0I6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-11T01:00:00-04:00</date>
+          <id type="integer">16780052</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>millerlf</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:32:17-04:00</created-at>
+          <title>Rep. Gwen Moore touts Wisconsin Dems&amp;#39; &amp;#39;tremendous ground game ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Gwen Moore says Wisconsin Democrats&amp;#39; &amp;quot;tremendous ground game&amp;quot; will help Milwaukee mayor Tom Barrett pull off an upset Tuesday in the state&amp;#39;s recall election for Gov. Scott Walker. &#8220;I do think that people have ...</excerpt>
+          <fti-names>'barrett':24 'dem':6 'democrat':15 'elect':35 'game':9,18 'gov':37 'ground':8,17 'gwen':2,11 'help':20 'mayor':22 'milwauke':21 'moor':3,12 'peopl':44 'pull':25 'recal':34 'rep':1,10 'roth':47 'say':13 'scott':38 'state':32 'think':42 'tom':23 'tout':4 'tremend':7,16 'tuesday':29 'upset':28 'walker':39 'wisconsin':5,14 'zachari':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://leanforward.msnbc.msn.com/_news/2012/06/04/12050983-rep-gwen-moore-touts-wisconsin-dems-tremendous-ground-game%3Flite&amp;sa=U&amp;ei=wAsSUKLFIMbY6wH4x4BI&amp;ved=0CDsQmAEwBg&amp;usg=AFQjCNGbEO08LKxtYDQBP2MYx04ZZUfCdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-04T01:00:00-04:00</date>
+          <id type="integer">16891508</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Zachary Roth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:27:37-04:00</created-at>
+          <title>Rep. Gwen Moore touts Wisconsin Dems&amp;#39; &amp;#39;tremendous ground game ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Gwen Moore says Wisconsin Democrats&amp;#39; &amp;quot;tremendous ground game&amp;quot; will help Milwaukee mayor Tom Barrett pull off an upset Tuesday in the state&amp;#39;s recall election for Gov. Scott Walker. &#8220;I do think that people have ...</excerpt>
+          <fti-names>'barrett':24 'dem':6 'democrat':15 'elect':35 'game':9,18 'gov':37 'ground':8,17 'gwen':2,11 'help':20 'mayor':22 'milwauke':21 'moor':3,12 'peopl':44 'pull':25 'recal':34 'rep':1,10 'roth':47 'say':13 'scott':38 'state':32 'think':42 'tom':23 'tout':4 'tremend':7,16 'tuesday':29 'upset':28 'walker':39 'wisconsin':5,14 'zachari':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://leanforward.msnbc.msn.com/_news/2012/06/04/12050983-rep-gwen-moore-touts-wisconsin-dems-tremendous-ground-game%3Flite&amp;sa=U&amp;ei=pCEKUKXtIuiK2gX-9J0t&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGzr8orum_bMlSuLt_M1XWMMsoGew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-04T01:00:00-04:00</date>
+          <id type="integer">16780050</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Zachary Roth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:32:18-04:00</created-at>
+          <title>Congresswoman Gwen Moore Speaks Out Against Watered Down ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Gwen Moore D-Wisconsin railed against the Republican-led House version of the watered down Violence Against Women Act VAWA as an affront to herself as a woman of color and victim of rape during a ...</excerpt>
+          <fti-names>'act':30 'affront':34 'color':41 'congresswoman':1,9 'd':13 'd-wisconsin':12 'gwen':2,10 'hous':21 'ictmn':48 'led':20 'moor':3,11 'rail':15 'rape':45 'republican':19 'republican-l':18 'speak':4 'staff':49 'vawa':31 'version':22 'victim':43 'violenc':27 'water':7,25 'wisconsin':14 'woman':39 'women':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://indiancountrytodaymedianetwork.com/2012/05/20/congresswoman-gwen-moore-speaks-out-against-watered-down-vawa-as-rape-victim-woman-of-color-114046&amp;sa=U&amp;ei=wAsSUKLFIMbY6wH4x4BI&amp;ved=0CEAQmAEwBw&amp;usg=AFQjCNHQCid0Wy_N8sGSiWg_VHm6Xxtp0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-20T01:00:00-04:00</date>
+          <id type="integer">16891509</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ICTMN Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400661</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:27:36-04:00</created-at>
+          <title>Congresswoman Gwen Moore Speaks Out Against Watered Down ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Gwen Moore D-Wisconsin railed against the Republican-led House version of the watered down Violence Against Women Act VAWA as an affront to herself as a woman of color and victim of rape during a ...</excerpt>
+          <fti-names>'act':30 'affront':34 'color':41 'congresswoman':1,9 'd':13 'd-wisconsin':12 'gwen':2,10 'hous':21 'ictmn':48 'led':20 'moor':3,11 'rail':15 'rape':45 'republican':19 'republican-l':18 'speak':4 'staff':49 'vawa':31 'version':22 'victim':43 'violenc':27 'water':7,25 'wisconsin':14 'woman':39 'women':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://indiancountrytodaymedianetwork.com/2012/05/20/congresswoman-gwen-moore-speaks-out-against-watered-down-vawa-as-rape-victim-woman-of-color-114046&amp;sa=U&amp;ei=pCEKUKXtIuiK2gX-9J0t&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHivAw3ZxAq8bX2cbfslDtCj0XbcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-20T01:00:00-04:00</date>
+          <id type="integer">16780048</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ICTMN Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19328</page-views-count>
+      <unaccented-name>Gwen Moore</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

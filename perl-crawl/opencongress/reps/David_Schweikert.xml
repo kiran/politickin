@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.5644028103044</party-votes-percentage>
+        <abstains-percentage type="float">0.639906922629436</abstains-percentage>
+        <votes-most-often-with-id type="integer">400175</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">11</abstains>
+        <cosponsored-bills type="integer">186</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">21</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412399</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1581</votes-republican-position>
+      <blog-article-count type="integer">2053</blog-article-count>
+      <fax nil="true"></fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">45</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.5644028103044</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Schweikert</lastname>
+      <congress-office>1205 Longworth House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>David</firstname>
+      <website>http://schweikert.house.gov/</website>
+      <birthday type="date">1962-03-03</birthday>
+      <person-id type="integer">412399</person-id>
+      <phone>202-225-2190</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">354</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:41-04:00</created-at>
+          <title>Ben Quayle Demands Apology For David Schweikert Mailer With Bisexual Connotation</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Ben Quayle's (R-Ariz.) campaign is arguing that a mailer from his primary opponent, fellow GOP Rep. David Schweikert, has sexual connotations and is demanding an apology. Rep. Ben Quayle's (R-Ariz.) campaign is arguing that a mailer from his primary opp</excerpt>
+          <fti-names>'apolog':4,40 'argu':20,50 'ariz':17,47 'ben':1,12,42 'bisexu':10 'campaign':18,48 'connot':11,35 'david':6,31 'demand':3,38 'fellow':28 'gop':29 'huffington':59 'mailer':8,23,53 'opp':57 'oppon':27 'post':60 'primari':26,56 'quayl':2,13,43 'r':16,46 'r-ariz':15,45 'rep':30,41 'schweikert':7,32 'sexual':34</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/07/ben-quayle-david-schweikert_n_1751112.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973587</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:40-04:00</created-at>
+          <title>Ben Quayle Says Opponent Alleged What No One Was Thinking</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>...to suggest he's bisexual: Mr. Quayle, meet the Streisand Effect. Quayle's opponent for a House of Representatives seat, Rep. David Schweikert, sent out a campaign mailer that reads Quayle &quot;goes both ways&quot; and on the back and completes the thought with &quot;</excerpt>
+          <fti-names>'alleg':5 'atlant':55 'back':48 'ben':1 'bisexu':15 'campaign':37 'complet':50 'david':32 'effect':21 'goe':42 'hous':27 'mailer':38 'meet':18 'mr':16 'one':8 'oppon':4,24 'quayl':2,17,22,41 'read':40 'rep':31 'repres':29 'say':3 'schweikert':33 'seat':30 'sent':34 'streisand':20 'suggest':12 'think':10 'thought':52 'way':44</fti-names>
+          <source-url>http://www.theatlantic.com/</source-url>
+          <url>http://feedproxy.google.com/~r/TheAtlanticWire/~3/cX_FRYeRgSk/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973586</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Atlantic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:40-04:00</created-at>
+          <title>Parallel Currencies And The Roadmap To Monetary Freedom</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...value greater than zero. That is why I oppose legal tender laws, Mr. Gray. Then, a bit of bitcoin drama occurred when Rep. David Schweikert (R-Arizona) initially referred to the cryptocurrency as &#8220;um&#8230;.what was one of them called?&#8230;.something&#8230;.coi</excerpt>
+          <fti-names>'arizona':36 'bit':25 'bitcoin':27 'call':49 'coi':51 'cryptocurr':41 'currenc':2 'david':32 'drama':28 'forb':52 'freedom':8 'gray':22 'greater':10 'initi':37 'law':20 'legal':18 'monetari':7 'mr':21 'occur':29 'one':46 'oppos':17 'parallel':1 'r':35 'r-arizona':34 'refer':38 'rep':31 'roadmap':5 'schweikert':33 'someth':50 'tender':19 'um':43 'valu':9 'zero':12</fti-names>
+          <source-url>http://www.forbes.com/</source-url>
+          <url>http://www.forbes.com/sites/jonmatonis/2012/08/07/parallel-currencies-and-the-roadmap-to-monetary-freedom/?utm_source=allactivity&amp;utm_medium=rss&amp;utm_campaign=20120807</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973585</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:40-04:00</created-at>
+          <title>Sen. Kyl blasts sexual connotation of &#8216;goes both ways' House ad</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...new campaign ad from Arizona Rep. David Schweikert is causing a stir for appearing to suggest fellow Republican congressman Ben Quayle is bisexual. &quot;Ben Quayle. He goes both ways...&quot; reads one side of the mailer. On the flip side, it clarifies: &quot;...on i</excerpt>
+          <fti-names>'abc':55 'ad':11,14 'appear':25 'arizona':16 'ben':31,35 'bisexu':34 'blast':3 'campaign':13 'caus':21 'clarifi':52 'congressman':30 'connot':5 'david':18 'fellow':28 'flip':49 'goe':7,38 'hous':10 'kyl':2 'mailer':46 'new':12 'news':56 'one':42 'quayl':32,36 'read':41 'rep':17 'republican':29 'schweikert':19 'sen':1 'sexual':4 'side':43,50 'stir':23 'suggest':27 'way':9,40</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/sen-kyl-blasts-sexual-connotation-ways-house-ad/story?id=16947617</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973584</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:40-04:00</created-at>
+          <title>Romney opens up new line of attack against Obama</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Election Day. *Arizona Republican Rep. Ben Quayle &#8217;s campaign is decrying a mailer from his opponent, fellow Republican Rep. David Schweikert , that his camp says carries sexual connotations. The mailer says Quayle is someone who &#8221;goes both ways.&#8221;</excerpt>
+          <fti-names>'arizona':12 'attack':7 'ben':15 'camp':33 'campaign':18 'carri':35 'connot':37 'david':29 'day':11 'decri':20 'elect':10 'fellow':26 'goe':45 'line':5 'mailer':22,39 'new':4 'obama':9 'open':2 'oppon':25 'post':50 'quayl':16,41 'rep':14,28 'republican':13,27 'romney':1 'say':34,40 'schweikert':30 'sexual':36 'someon':43 'washington':49 'way':47</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=e1f72426076ca6943d85912abd1e743e</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973583</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:40-04:00</created-at>
+          <title>Campaign ad says Ariz. rep 'goes both ways'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...campaign mailer targeting Rep. Ben Quayle, R-Ariz., is getting all kinds of buzz because of its sexual undertones. GOP Rep. David Schweikert charges on one side of the mail piece that Quayle &quot;goes both ways,&quot; a phrase that's sometimes used to refer to s</excerpt>
+          <fti-names>'ad':2 'ariz':4,17 'ben':13 'buzz':23 'campaign':1,9 'charg':33 'david':31 'get':19 'goe':6,43 'gop':29 'kind':21 'mail':39 'mailer':10 'one':35 'phrase':47 'piec':40 'quayl':14,42 'r':16 'r-ariz':15 'refer':53 'rep':5,12,30 'say':3 'schweikert':32 'sexual':27 'side':36 'sometim':50 'target':11 'today':57 'underton':28 'usa':56 'use':51 'way':8,45</fti-names>
+          <source-url>http://www.usatoday.com/</source-url>
+          <url>http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/49MxMsMjSIg/1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973582</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>USA Today</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:40-04:00</created-at>
+          <title>Hotline Sort: Quayle's Last Stand</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...R-S.C., said on CNN's &quot;State of the Union,&quot; that Reid is &quot;lying&quot; and &quot;making things up&quot; about the candidate's taxes. 8) Rep. David Schweikert is pulling away from Rep. Ben Quayle in Arizona's 6th District GOP primary, Roll Call reports. Roll Call: With </excerpt>
+          <fti-names>'6th':46 '8':32 'arizona':44 'away':38 'ben':41 'c':10 'call':51,54 'candid':29 'cnn':13 'david':34 'district':47 'gop':48 'hotlin':1 'journal':57 'last':5 'lie':22 'make':24 'nation':56 'primari':49 'pull':37 'quayl':3,42 'r':8 'r-s':7 'reid':20 'rep':33,40 'report':52 'roll':50,53 'said':11 'schweikert':35 'sort':2 'stand':6 'state':15 'tax':31 'thing':25 'union':18</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-qu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972988</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:40-04:00</created-at>
+          <title>Rep. Quayle says opponent should apologize for mailer with sexual undertones</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is August 28. Rep. Ben Quayle's (R-Ariz.) campaign is arguing that a mailer from his primary opponent, fellow GOP Rep. David Schweikert, has sexual connotations and is demanding an apology. Schweikert's campaign is not backing down from the controversia</excerpt>
+          <fti-names>'28':14 'apolog':6,44 'argu':24 'ariz':21 'august':13 'back':50 'ben':16 'campaign':22,47 'connot':39 'controversia':54 'david':35 'demand':42 'fellow':32 'gop':33 'hill':56 'mailer':8,27 'oppon':4,31 'primari':30 'quayl':2,17 'r':20 'r-ariz':19 'rep':1,15,34 'say':3 'schweikert':36,45 'sexual':10,38 'underton':11</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/ballot-box/house-races/242449-rep-quayle-says-opponent-should-apologize-for-mailer-with-sexual-undertones</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972987</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:04:17-04:00</created-at>
+          <title>District 6 race: David Schweikert says 'I like the fight' in D.C.</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. David Schweikert is a natural politician, effortlessly connecting with voters while going door to door. During a recent Arizona Republic/12 News debate with primary rival U.S. Rep. Ben Quayle, Schweikert offered to connect with voters by phone, giv</excerpt>
+          <fti-names>'6':2 'arizona':32 'az':52 'ben':41 'central.com':53 'connect':21,46 'd.c':12 'david':4,14 'debat':35 'district':1 'door':26,28 'effortless':20 'fight':10 'giv':51 'go':25 'like':8 'natur':18 'news':34 'offer':44 'phone':50 'politician':19 'primari':37 'quayl':42 'race':3 'recent':31 'rep':13,40 'republic/12':33 'rival':38 'say':6 'schweikert':5,15,43 'u.s':39 'voter':23,48</fti-names>
+          <source-url>http://www.azcentral.com/</source-url>
+          <url>http://www.azcentral.com/news/articles/2012/08/03/20120803district-6-schweikert-like-fight-in-dc.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972264</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AZ Central.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:39-04:00</created-at>
+          <title>David Schweikert Up in Arizona</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...David Schweikert (above) remains confident in internal polling that shows him leading fellow freshman Rep. Ben Quayle. Rep. is pulling away from Rep. Ben Quayle in Arizona&#8217;s 6th district Republican primary, state and national sources have concluded. W</excerpt>
+          <fti-names>'6th':34 'arizona':5,32 'away':26 'ben':21,29 'call':46 'conclud':43 'confid':10 'david':1,6 'district':35 'fellow':18 'freshman':19 'intern':12 'lead':17 'nation':40 'poll':13 'primari':37 'pull':25 'quayl':22,30 'remain':9 'rep':20,23,28 'republican':36 'roll':45 'schweikert':2,7 'show':15 'sourc':41 'state':38 'w':44</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_17/David-Schweikert-Up-in-Arizona-216740-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972986</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. David Schweikert [R, AZ-5]</name>
+      <bioguide-id>S001183</bioguide-id>
+      <total-session-votes type="integer">1708</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:58:04-04:00</created-at>
+          <title>[EDITORIAL] Schweikert has the experience - Rose Law Group</title>
+          <contains-term>republican</contains-term>
+          <excerpt>[EDITORIAL] Schweikert has the experience. Posted on: July 29th, 2012 by priske@roselawgroup.com No Comments. Rep. David Schweikert. The Arizona Republic. For Arizona Republicans, the most frustrating outcome of redistricting was ...</excerpt>
+          <fti-names>'2012':18 '29th':17 'arizona':27,30 'comment':22 'david':24 'editori':1,9 'experi':5,13 'frustrat':34 'group':8 'juli':16 'law':7 'outcom':35 'post':14 'priske@roselawgroup.com':20,39 'redistrict':37 'rep':23 'republ':28 'republican':31 'rose':6 'schweikert':2,10,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.roselawgroup.com/blog/wordpress/%3Fp%3D56135&amp;sa=U&amp;ei=lVoWUNORG4Ws8ASXtYCgCg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNGcizgpYHinqpLBSKF_uBYZPRqTag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950151</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>priske@roselawgroup.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:57:58-04:00</created-at>
+          <title>Politics 2012: Redistricting turns comrades into competitors ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>... now more politically balanced district &#8212; and face potentially tough biennial re-election efforts &#8212; or move into a more friendly district, setting up a primary challenge to fellow Republican freshman Rep. David Schweikert, 50.</excerpt>
+          <fti-names>'2012':2 '50':41 'admin':42 'balanc':11 'biennial':17 'challeng':33 'competitor':7 'comrad':5 'david':39 'district':12,28 'effort':21 'elect':20 'face':14 'fellow':35 'freshman':37 'friend':27 'move':23 'polit':1,10 'potenti':15 'primari':32 're':19 're-elect':18 'redistrict':3 'rep':38 'republican':36 'schweikert':40 'set':29 'tough':16 'turn':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.efinditnow.com/news/politics-2012-redistricting-turns-comrades-into-competitors/&amp;sa=U&amp;ei=lVoWUNORG4Ws8ASXtYCgCg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEXODf6stuq2KXr8TKzP5qG0MBOVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950146</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:58:05-04:00</created-at>
+          <title>Poll: Schweikert up double digits over Quayle in Arizona &#8211; The Hill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. David Schweikert (R-Ariz.) has a 13-point lead over Rep. Ben Quayle (R-Ariz.) in their member-vs.-member primary, according to a poll commissioned by Citizens United, a group backing Schweikert in the race.</excerpt>
+          <fti-names>'13':20 'accord':37 'admin':52 'ariz':17,29 'arizona':9 'back':47 'ben':25 'citizen':43 'commiss':41 'david':13 'digit':5 'doubl':4 'group':46 'hill':11 'lead':22 'member':33,35 'member-v':32 'point':21 'poll':1,40 'primari':36 'quayl':7,26 'r':16,28 'r-ariz':15,27 'race':51 'rep':12,24 'schweikert':2,14,48 'unit':44 'vs':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/az-moc/david-schweikert-arizona-representative/poll-schweikert-up-double-digits-over-quayle-in-arizona-the-hill-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dpoll-schweikert-up-double-digits-over-quayle-in-arizona-the-hill-blog&amp;sa=U&amp;ei=lVoWUNORG4Ws8ASXtYCgCg&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNEbfx3ODLSsszGG5PKAaspc2_gPdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16950152</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:47:26-04:00</created-at>
+          <title>Poll: Schweikert up double digits over Quayle in Arizona &#8211; The Hill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. David Schweikert (R-Ariz.) has a 13-point lead over Rep. Ben Quayle (R-Ariz.) in their member-vs.-member primary, according to a poll commissioned by Citizens United, a group backing Schweikert in the race.</excerpt>
+          <fti-names>'13':20 'accord':37 'admin':52 'ariz':17,29 'arizona':9 'back':47 'ben':25 'citizen':43 'commiss':41 'david':13 'digit':5 'doubl':4 'group':46 'hill':11 'lead':22 'member':33,35 'member-v':32 'point':21 'poll':1,40 'primari':36 'quayl':7,26 'r':16,28 'r-ariz':15,27 'race':51 'rep':12,24 'schweikert':2,14,48 'unit':44 'vs':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/az-moc/david-schweikert-arizona-representative/poll-schweikert-up-double-digits-over-quayle-in-arizona-the-hill-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dpoll-schweikert-up-double-digits-over-quayle-in-arizona-the-hill-blog&amp;sa=U&amp;ei=hOoUUPq8MIfX0QHt74GICQ&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNHdREQqcBJbbBQmJf4XI_ljRSdo2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931076</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:31:05-04:00</created-at>
+          <title>Daily Kos Elections Weekend Digest: New data contradicts recent ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>PENNSYLVANIA (GOP Internal Poll): Obama d. Romney (46-43). DOWNBALLOT POLLING: AZ-SEN&#8212;R (Magellan): Jeff Flake 45, Wil Cardon 23. AZ-06&#8212;R (National Research for Schweikert): Rep. David Schweikert 49, Rep. Ben Quayle 33 ...</excerpt>
+          <fti-names>'-06':33 '-43':18 '23':31 '33':46 '45':28 '46':17 '49':42 'az':22,32 'az-sen':21 'ben':44 'cardon':30 'contradict':8 'd':15 'daili':1 'dailyko':47 'data':7 'david':40 'digest':5 'downballot':19 'elect':3 'flake':27 'gop':11 'intern':12 'jeff':26 'kos':2 'magellan':25 'nation':35 'new':6 'obama':14 'pennsylvania':10 'poll':13,20 'quayl':45 'r':24,34 'recent':9 'rep':39,43 'research':36 'romney':16 'schweikert':38,41 'sen':23 'weekend':4 'wil':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.daily-kos.com/2012/daily-kos-elections-weekend-digest-new-data-contradicts-recent-polls-mostly-to-gops-detriment/&amp;sa=U&amp;ei=-FwTUJadC4e29gTa04DQCQ&amp;ved=0CFEQmAEwDA&amp;usg=AFQjCNEaLSsfGZURh--4YDXKZcQPpwX3yQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923712</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dailykos</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:31:04-04:00</created-at>
+          <title>AZ Views: Why the Dollar Coin Makes Sense | Western Free Press</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... not quite reached the point of searching under the sofa cushions for loose change[&#8230;] [until] a proposal by Rep. David Schweikert (R-Ariz.) for a four-year phase-out of the George Washington dollar bill in favor of a dollar coin.</excerpt>
+          <fti-names>'ariz':35 'az':1,56 'bill':49 'chang':25 'coin':6,55 'cushion':22 'david':31 'dollar':5,48,54 'favor':51 'four':39 'four-year':38 'free':10 'georg':46 'loos':24 'make':7 'phase':42 'phase-out':41 'point':16 'press':11 'propos':28 'quit':13 'r':34 'r-ariz':33 'reach':14 'rep':30 'schweikert':32 'search':18 'sens':8 'sofa':21 'view':2,57 'washington':47 'western':9 'year':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.westernfreepress.com/2012/07/27/az-views-why-the-dollar-coin-makes-sense/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Daz-views-why-the-dollar-coin-makes-sense&amp;sa=U&amp;ei=-FwTUJadC4e29gTa04DQCQ&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNGiQlT1puCTBSQo42aRtK1rB8wbbQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923708</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AZ Views</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:31:04-04:00</created-at>
+          <title>House Representatives Smith and King: the Heavyweights in ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>HR 5957, by Rep. David Schweikert (R-AZ), and HR5953, by Rep. Ben Quayle (R-AZ), would block the Secretary of Homeland Security from deferring deportations or from limiting the enforcement of our immigration laws.</excerpt>
+          <fti-names>'5957':10 'az':17,26 'ben':22 'block':28 'david':13 'defer':35 'deport':36 'enforc':41 'guzzardi':47 'heavyweight':7 'homeland':32 'hous':1 'hr':9 'hr5953':19 'immigr':44 'joe':46 'king':5 'law':45 'limit':39 'quayl':23 'r':16,25 'r-az':15,24 'rep':12,21 'repres':2 'schweikert':14 'secretari':30 'secur':33 'smith':3 'would':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.caps-blog.org/articles/2012/07/27/house-representatives-smith-and-king-the-heavyweights-in-america%25E2%2580%2599s-ongoing-battle-against-obama%25E2%2580%2599s-immigration-duplicity/&amp;sa=U&amp;ei=-FwTUJadC4e29gTa04DQCQ&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNHiJtu_mBQj5rxAhcWQkv9BEu-R-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923707</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Guzzardi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:57:42-04:00</created-at>
+          <title>Rep. David Schweikert Introduces Amendment to Dismantle Dodd ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington, D.C. &#8211; Rep. David Schweikert (R-AZ), Vice Chairman of the House Financial Services Subcommittee on Capital Markets and Government-Sponsored Enterprises, introduced the Schweikert Amendment to H.R. ...</excerpt>
+          <fti-names>'amend':5,36 'az':16 'capit':26 'chairman':18 'd.c':10 'david':2,12 'dismantl':7 'dodd':8 'enterpris':32 'financi':22 'govern':30 'government-sponsor':29 'h.r':38 'hous':21 'introduc':4,33 'market':27 'press':39 'r':15 'r-az':14 'releas':40 'rep':1,11 'schweikert':3,13,35 'servic':23 'sponsor':31 'subcommitte':24 'vice':17 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sonoranalliance.com/2012/07/25/rep-david-schweikert-introduces-amendment-to-dismantle-dodd-frank/&amp;sa=U&amp;ei=lVoWUNORG4Ws8ASXtYCgCg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEH3j56Rq4AYs7E12dvJ-vBHwl_Fw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16950143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Press Release</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:47:17-04:00</created-at>
+          <title>Rep. David Schweikert Introduces Amendment to Dismantle Dodd ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington, D.C. &#8211; Rep. David Schweikert (R-AZ), Vice Chairman of the House Financial Services Subcommittee on Capital Markets and Government-Sponsored Enterprises, introduced the Schweikert Amendment to H.R. ...</excerpt>
+          <fti-names>'amend':5,36 'az':16 'capit':26 'chairman':18 'd.c':10 'david':2,12 'dismantl':7 'dodd':8 'enterpris':32 'financi':22 'govern':30 'government-sponsor':29 'h.r':38 'hous':21 'introduc':4,33 'market':27 'press':39 'r':15 'r-az':14 'releas':40 'rep':1,11 'schweikert':3,13,35 'servic':23 'sponsor':31 'subcommitte':24 'vice':17 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sonoranalliance.com/2012/07/25/rep-david-schweikert-introduces-amendment-to-dismantle-dodd-frank/&amp;sa=U&amp;ei=hOoUUPq8MIfX0QHt74GICQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFWeMAu9jBSh3BWoXTBHuIl1dpEJA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16931068</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Press Release</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412399</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:07:00-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor The Leader&amp;#39;s ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Bill Posey Amendment #48 (10 minutes of debate) Rep. Jerrold Nadler Amendment (10 minutes of debate) Rep. David McKinley Amendment (10 minutes of debate) Rep. David Schweikert Amendment (10 minutes of ...</excerpt>
+          <fti-names>'10':15,23,31,39 '48':14 'amend':13,22,30,38 'american':1 'barbara':4,42 'bill':11 'cantor':6 'david':28,36 'debat':18,26,34 'eric':5 'freedom':2 'jerrold':20 'leader':8 'mckinley':29 'minut':16,24,32,40 'nadler':21 'posey':12 'rep':10,19,27,35 'schweikert':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantor-leaders-daily-schedule-72512.html&amp;sa=U&amp;ei=4yESUPO0F4Wu8ASv94GoAg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGPuQ6i1apaBdrQfBFReHUsIdXQAw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892861</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6352</page-views-count>
+      <youtube-id>RepDavidSchweikert</youtube-id>
+      <unaccented-name>David Schweikert</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

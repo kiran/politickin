@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.9907235621521</party-votes-percentage>
+        <abstains-percentage type="float">5.93368237347295</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">102</abstains>
+        <cosponsored-bills type="integer">268</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">412472</votes-least-often-with-id>
+        <person-id type="integer">412404</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">328</votes-republican-position>
+      <blog-article-count type="integer">1935</blog-article-count>
+      <fax>202- 225-2422</fax>
+      <user-approval type="float">0.1</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">19</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.9907235621521</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Bass</lastname>
+      <congress-office>408 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Karen</firstname>
+      <website>http://karenbass.house.gov/</website>
+      <birthday type="date">1953-10-03</birthday>
+      <bioguide-id>B001270</bioguide-id>
+      <person-id type="integer">412404</person-id>
+      <phone>202-225-7084</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1536</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:30:50-04:00</created-at>
+          <title>House Dems Battle for Social Media Supremacy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...topped several other social media savvy members, including Rep. Bruce Braley of Iowa, who gained 12,904 followers, and Rep. Karen Bass of California, who accumulated 12,879 new followers. While Bass and Braley's Twitter feeds might not be filled with Po</excerpt>
+          <fti-names>'12':23,34 '879':35 '904':24 'accumul':33 'bass':29,39 'battl':3 'braley':18,41 'bruce':17 'california':31 'dem':2 'feed':44 'fill':48 'follow':25,37 'gain':22 'hous':1 'includ':15 'iowa':20 'journal':52 'karen':28 'media':6,12 'member':14 'might':45 'nation':51 'new':36 'po':50 'rep':16,27 'savvi':13 'sever':9 'social':5,11 'supremaci':7 'top':8 'twitter':43</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://influencealley.nationaljournal.com/2012/08/house-dems-battle-for-social-m.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973295</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:30:49-04:00</created-at>
+          <title>How Jared Polis Won the Internet</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...behind Polis in the Online All-Star Competition was Democratic Iowa Rep. Bruce Braley, and Democratic California Rep. Karen Bass. What we want to know is: Where in the name of Twitter power users is Cory Booker on this list? Elizabeth Flock is a staff w</excerpt>
+          <fti-names>'all-star':12 'bass':27 'behind':7 'booker':44 'braley':21 'bruce':20 'california':24 'competit':15 'cori':43 'democrat':17,23 'elizabeth':48 'flock':49 'internet':6 'iowa':18 'jare':2 'karen':26 'know':32 'list':47 'name':37 'news':55 'onlin':11 'poli':3,8 'power':40 'rep':19,25 'report':57 'staff':52 'star':14 'twitter':39 'u.s':54 'user':41 'w':53 'want':30 'won':4 'world':56</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/blogs/washington-whispers/2012/8/7/how-jared-polis-won-the-internet?s_cid=rss:washington-whispers:how-jared-polis-won-the-internet</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973294</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:32:46-04:00</created-at>
+          <title>Africa: AGOA Action Coalition and the Whitaker Group Applaud AGOA Third Country Fabric Renewal</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Dave Camp (R-MI), Rep. Charlie Rangel (D-NY), Rep. Sander Levin (D-MI), Rep. Jim McDermott (D-WA), Rep. Chris Smith (R-NJ), Rep. Karen Bass (D-CA), Rep. Ed Royce (R-CA), Rep. Bobby Rush (D-IL) and all additional cosponsors of HR5986 and S.3326 and their</excerpt>
+          <fti-names>'action':3 'addit':64 'africa':1 'agoa':2,10 'allafrica.com':72 'applaud':9 'bass':46 'bobbi':57 'ca':49,55 'camp':16 'charli':21 'chris':39 'coalit':4 'cosponsor':65 'countri':12 'd':24,30,36,48,60 'd-ca':47 'd-il':59 'd-mi':29 'd-ni':23 'd-wa':35 'dave':15 'ed':51 'fabric':13 'group':8 'hr5986':67 'il':61 'jim':33 'karen':45 'levin':28 'mcdermott':34 'mi':19,31 'nj':43 'ny':25 'r':18,42,54 'r-ca':53 'r-mi':17 'r-nj':41 'rangel':22 'renew':14 'rep':20,26,32,38,44,50,56 'royc':52 'rush':58 's.3326':69 'sander':27 'smith':40 'third':11 'wa':37 'whitak':7</fti-names>
+          <source-url>http://allafrica.com/</source-url>
+          <url>http://allafrica.com/stories/201208031202.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971471</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AllAfrica.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:38:22-04:00</created-at>
+          <title>'Women for Berman' Group Back Congressman for Re-Election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...endorsed by both Senators Dianne Feinstein and Barbara Boxer, and has the strong support of California's Representatives Karen Bass, Lois Capps, Barbara Lee, Jackie Speier, Maxine Waters and others who have joined the group of 24 members of the U.S. Hou</excerpt>
+          <fti-names>'24':47 'back':5 'barbara':18,33 'bass':30 'berman':3 'boxer':19 'california':26 'capp':32 'congressman':6 'diann':15 'elect':10 'encino':53 'endors':11 'feinstein':16 'group':4,45 'hou':52 'jacki':35 'join':43 'karen':29 'lee':34 'loi':31 'maxin':37 'member':48 'other':40 'patch':54 're':9 're-elect':8 'repres':28 'senat':14 'speier':36 'strong':23 'support':24 'u.s':51 'water':38 'women':1</fti-names>
+          <source-url>http://encino.patch.com/</source-url>
+          <url>http://encino.patch.com/articles/women-for-berman-group-back-the-congressman-for-re-election</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970381</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Encino Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:29:51-04:00</created-at>
+          <title>Caucus Vice Chairman Slot Up for Grabs</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...support from fellow liberals who are choosing on ideological grounds. Several other names have been floated, including Reps. Karen Bass (Calif.) and Allyson Schwartz (Pa.). But it is unclear whether they will run, and Crowley, Polis and Lee have a head </excerpt>
+          <fti-names>'allyson':30 'bass':27 'calif':28 'call':50 'caucus':1 'chairman':3 'choos':14 'crowley':42 'fellow':10 'float':23 'grab':7 'ground':17 'head':48 'ideolog':16 'includ':24 'karen':26 'lee':45 'liber':11 'name':20 'pa':32 'poli':43 'rep':25 'roll':49 'run':40 'schwartz':31 'sever':18 'slot':4 'support':8 'unclear':36 'vice':2 'whether':37</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_15/Caucus-Vice-Chairman-Slot-Up-for-Grabs-216621-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969482</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:31:15-04:00</created-at>
+          <title>WMU's foster care Seita Scholars speaking to Congressional Caucus on Foster Youth</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The tour stops in four cities. The caucus is comprised by U.S. Rep. Dave Camp of Midland, Mich., Karen Bass of California, Jim McDermott of Washington, Tom Marino of Pennsylvania and Michelle Bachmann of Minnesota. The event that was set to ...</excerpt>
+          <fti-names>'bachmann':46 'bass':33 'california':35 'camp':28 'care':4 'caucus':10,21 'citi':19 'compris':23 'congression':9 'dave':27 'event':50 'foster':3,12 'four':18 'jim':36 'karen':32 'marino':41 'mcdermott':37 'mich':31 'michell':45 'midland':30 'minnesota':48 'mlive.com':55 'pennsylvania':43 'rep':26 'scholar':6 'seita':5 'set':53 'speak':7 'stop':16 'tom':40 'tour':15 'u.s':25 'washington':39 'wmu':1 'youth':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mlive.com/news/kalamazoo/index.ssf/2012/07/wmus_foster_care_seita_scholar.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:21:32-04:00</date>
+          <id type="integer">16959331</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:31:17-04:00</created-at>
+          <title>WMU's foster care Seita Scholars speaking to Congressional Caucus on Foster Youth</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the nation's foster care system. The tour stops in four cities. The caucus is comprised by U.S. Rep. Dave Camp of Midland, Mich., Karen Bass of California, Jim McDermott of Washington, Tom Marino of Pennsylvania and Michelle Bachmann of Minnesota. The e</excerpt>
+          <fti-names>'bachmann':52 'bass':39 'california':41 'camp':34 'care':4,18 'caucus':10,27 'citi':25 'compris':29 'congression':9 'dave':33 'e':56 'foster':3,12,17 'four':24 'jim':42 'karen':38 'marino':47 'mcdermott':43 'mich':37 'michell':51 'midland':36 'minnesota':54 'mlive.com':57 'nation':15 'pennsylvania':49 'rep':32 'scholar':6 'seita':5 'speak':7 'stop':22 'system':19 'tom':46 'tour':21 'u.s':31 'washington':45 'wmu':1 'youth':13</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/saginaw_news/~3/17T6iRWtp-s/wmus_foster_care_seita_scholar.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959332</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:31:14-04:00</created-at>
+          <title>Camp, Listening and Learning Tour coming to Saginaw</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Karen Bass, D-Calif., in Saginaw Monday for the third stop on the Listening and Learning Tour. Members of the Caucus will learn directly from local experts, foster youth and parents about best practices and key challenges that plague ...</excerpt>
+          <fti-names>'bass':12 'best':44 'calif':15 'camp':1 'caucus':32 'challeng':48 'come':6 'd':14 'd-calif':13 'daili':52 'direct':35 'expert':38 'foster':39 'karen':11 'key':47 'learn':4,27,34 'listen':2,25 'local':37 'member':29 'midland':51 'monday':18 'news':53 'parent':42 'plagu':50 'practic':45 'rep':10 'saginaw':8,17 'stop':22 'third':21 'tour':5,28 'u.s':9 'youth':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ourmidland.com/news/article_b208012c-d753-11e1-9701-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T15:01:01-04:00</date>
+          <id type="integer">16888137</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Midland Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:30:26-04:00</created-at>
+          <title>Allen West saved a life&#8212;Pro-Christie ad going up in NJ&#8212;DCCC highlights baggage&#8212;Warren ad introduces her as a watchdog&#8212;Mitt lands in London--Booker now a verb</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the latest news on Capitol Hill. He&#8217;ll talk budget, guns and 2012 with Barney Frank (D-MA), Rep. Jason Chaffetz (R-UT) and Rep. Karen Bass (D-CA). Watch the livestream: http://politi.co/v8OIbK . DAYS UNTIL THE ELECTION: 104. YOU DIDN&#8217;T BUILD IT, LAT</excerpt>
+          <fti-names>'/v8oibk':69 '104':74 '2012':44 'ad':9,18 'allen':1 'baggag':16 'barney':46 'bass':60 'booker':28 'budget':41 'build':78 'ca':63 'capitol':36 'chaffetz':53 'christi':8 'd':49,62 'd-ca':61 'd-ma':48 'day':70 'dccc':14 'didn':76 'elect':73 'frank':47 'go':10 'gun':42 'highlight':15 'hill':37 'introduc':19 'jason':52 'karen':59 'land':25 'lat':80 'latest':33 'life':5 'livestream':66 'll':39 'london':27 'ma':50 'mitt':24 'news':34 'nj':13 'politi.co':68 'politi.co/v8oibk':67 'politico':82 'pro':7 'pro-christi':6 'r':55 'r-ut':54 'rep':51,58 'save':3 'talk':40 'ut':56 'verb':31 'warren':17 'watch':64 'watchdog':23 'west':2</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=8660b81899dbf752a5a7e20eefcc45e3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16966008</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:35:55-04:00</created-at>
+          <title>Morning Score: Watchdog Warren</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the latest news on Capitol Hill. He&#8217;ll talk budget, guns and 2012 with Barney Frank (D-MA), Rep. Jason Chaffetz (R-UT) and Rep. Karen Bass (D-CA). Watch the livestream: http://politi.co/v8OIbK . DAYS UNTIL THE ELECTION: 104. YOU DIDN&#8217;T BUILD IT, LAT</excerpt>
+          <fti-names>'/v8oibk':42 '104':47 '2012':17 'barney':19 'bass':33 'budget':14 'build':51 'ca':36 'capitol':9 'chaffetz':26 'd':22,35 'd-ca':34 'd-ma':21 'day':43 'didn':49 'elect':46 'frank':20 'gun':15 'hill':10 'jason':25 'karen':32 'lat':53 'latest':6 'livestream':39 'll':12 'ma':23 'morn':1 'news':7 'politi.co':41 'politi.co/v8oibk':40 'politico':55 'r':28 'r-ut':27 'rep':24,31 'score':2 'talk':13 'ut':29 'warren':4 'watch':37 'watchdog':3</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=d74ef30d98f0535c6c1f8e0861f422c5</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858143</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Karen Bass [D, CA-33]</name>
+      <total-session-votes type="integer">1617</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>33</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:33:03-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Lou Barletta [R, PA-11] Rep. John Barrow [D, GA-12] Rep. Roscoe Bartlett [R, MD-6] Rep. Joe Barton [R, TX-6] Rep. Charles Bass [R, NH-2] Rep. Karen Bass [D, CA-33] Rep. Xavier Becerra [D, CA-31] Rep. Dan Benishek [R ...</excerpt>
+          <fti-names>'-11':10 '-12':16 '-2':34 '-31':46 '-33':40 '-6':22,28 'bankruptci':3 'barletta':7 'barrow':13 'bartlett':19 'barton':25 'bass':31,37 'becerra':43 'benishek':49 'ca':39,45 'charl':30 'court':4 'd':14,38,44 'dan':48 'district':2 'ga':15 'joe':24 'john':12 'karen':36 'lou':6 'md':21 'nh':33 'oklahoma':5 'pa':9 'r':8,20,26,32,50 'rep':11,17,23,29,35,41,47 'rosco':18 'tx':27 'unitedstatesbankruptcycourtco.com':51 'western':1 'xavier':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-11/&amp;sa=U&amp;ei=XX0DUOuKAuPc2gXF8JmvCw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFWgxA88Ti-UGjS1MHExsqhzLZf7w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647251</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-17T22:34:19-04:00</created-at>
+          <title>Race Matters: Letter from Congressional Asian Pacific American ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Xavier Becerra Rep. Hansen Clarke Rep. EniFaleomavaega. Rep. AlGreen. Rep. Mazie K. Hirono Rep. Barbara Lee Rep. Doris 0. Matsui Rep. Gregorio Sablan Rep. Bobby Scott Associate Members Rep. Karen Bass ...</excerpt>
+          <fti-names>'0':28 'algreen':18 'american':8 'asian':6 'associ':36 'barbara':24 'bass':40 'becerra':11 'bobbi':34 'clark':14 'congression':5 'dori':27 'enifaleomavaega':16 'gregorio':31 'hansen':13 'hirono':22 'k':21 'karen':39 'lee':25 'letter':3 'matsui':29 'matter':2,42 'mazi':20 'member':37 'pacif':7 'race':1,41 'rep':9,12,15,17,19,23,26,30,33,38 'sablan':32 'scott':35 'xavier':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://endnseers.blogspot.com/2012/07/letter-from-congressional-asian-pacific.html&amp;sa=U&amp;ei=pSAGUJSZKaPu2gWrgKWWBQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGzojun7oRJD_JRJvroamX_UbVTBQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16693584</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Race Matters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:33:04-04:00</created-at>
+          <title>Race Matters: Letter from Congressional Asian Pacific American ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Xavier Becerra Rep. Hansen Clarke Rep. EniFaleomavaega. Rep. AlGreen. Rep. Mazie K. Hirono Rep. Barbara Lee Rep. Doris 0. Matsui Rep. Gregorio Sablan Rep. Bobby Scott Associate Members Rep. Karen Bass ...</excerpt>
+          <fti-names>'0':28 'algreen':18 'american':8 'asian':6 'associ':36 'barbara':24 'bass':40 'becerra':11 'bobbi':34 'clark':14 'congression':5 'dori':27 'enifaleomavaega':16 'gregorio':31 'hansen':13 'hirono':22 'k':21 'karen':39 'lee':25 'letter':3 'matsui':29 'matter':2,42 'mazi':20 'member':37 'pacif':7 'race':1,41 'rep':9,12,15,17,19,23,26,30,33,38 'sablan':32 'scott':35 'xavier':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://endnseers.blogspot.com/2012/07/letter-from-congressional-asian-pacific.html&amp;sa=U&amp;ei=XX0DUOuKAuPc2gXF8JmvCw&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNFkWOf-ohKKUMEZ6s8J4zaDcQWSAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16647254</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Race Matters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:34:12-04:00</created-at>
+          <title>Take Five With Rep. Karen Bass | Heard on the Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Take Five With Rep. Karen Bass. By Rachael Johnson Posted at 12:01 a.m. on June 26. Take Five With Rep. Karen Bass. (Bill Clark/CQ Roll Call File Photo). Every week, HOH catches up with a Member of Congress through five questions.</excerpt>
+          <fti-names>'01':23 '12':22 '26':27 'a.m':24 'bass':6,16,33 'bill':34 'call':37 'catch':43 'clark/cq':35 'congress':49 'everi':40 'file':38 'five':2,12,29,51 'heard':7 'hill':10 'hoh':42 'johnson':19,55 'june':26 'karen':5,15,32 'member':47 'photo':39 'post':20 'question':52 'rachael':18,54 'rachaeljohnson@rollcall.com':53 'rep':4,14,31 'roll':36 'take':1,11,28 'week':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hoh.rollcall.com/take-five-with-rep-karen-bass/&amp;sa=U&amp;ei=I3IHUJv8JYeW2QXOq9nsBA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGYl4ip4kh5VXajBaSc8QmxULcx9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16714955</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RachaelJohnson@rollcall.com (Rachael Johnson)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-17T22:34:14-04:00</created-at>
+          <title>Take Five With Rep. Karen Bass | Heard on the Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Take Five With Rep. Karen Bass. By Rachael Johnson Posted at 12:01 a.m. on June 26. Take Five With Rep. Karen Bass. (Bill Clark/CQ Roll Call File Photo). Every week, HOH catches up with a Member of Congress through five questions.</excerpt>
+          <fti-names>'01':23 '12':22 '26':27 'a.m':24 'bass':6,16,33 'bill':34 'call':37 'catch':43 'clark/cq':35 'congress':49 'everi':40 'file':38 'five':2,12,29,51 'heard':7 'hill':10 'hoh':42 'johnson':19,55 'june':26 'karen':5,15,32 'member':47 'photo':39 'post':20 'question':52 'rachael':18,54 'rachaeljohnson@rollcall.com':53 'rep':4,14,31 'roll':36 'take':1,11,28 'week':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hoh.rollcall.com/take-five-with-rep-karen-bass/&amp;sa=U&amp;ei=pSAGUJSZKaPu2gWrgKWWBQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEbDLWcJWxoDqZJKaBuHLyz9AI3CQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16693574</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RachaelJohnson@rollcall.com (Rachael Johnson)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:33:01-04:00</created-at>
+          <title>Take Five With Rep. Karen Bass | Heard on the Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Take Five With Rep. Karen Bass. By Rachael Johnson Posted at 12:01 a.m. on June 26. Take Five With Rep. Karen Bass. (Bill Clark/CQ Roll Call File Photo). Every week, HOH catches up with a Member of Congress through five questions.</excerpt>
+          <fti-names>'01':23 '12':22 '26':27 'a.m':24 'bass':6,16,33 'bill':34 'call':37 'catch':43 'clark/cq':35 'congress':49 'everi':40 'file':38 'five':2,12,29,51 'heard':7 'hill':10 'hoh':42 'johnson':19,55 'june':26 'karen':5,15,32 'member':47 'photo':39 'post':20 'question':52 'rachael':18,54 'rachaeljohnson@rollcall.com':53 'rep':4,14,31 'roll':36 'take':1,11,28 'week':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hoh.rollcall.com/take-five-with-rep-karen-bass/&amp;sa=U&amp;ei=XX0DUOuKAuPc2gXF8JmvCw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFUSku3b7eHBPyGoWG0tRYeWV_Teg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16647245</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RachaelJohnson@rollcall.com (Rachael Johnson)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:34:15-04:00</created-at>
+          <title>LIRS Thanks Rep. Karen Bass for Introducing Bill to Stop Child ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Lutheran Immigration and Refugee Service on Thursday sent a letter to U.S. Rep. Karen Bass (D-CA) in support of her anti-child trafficking bill, the bipartisan Strengthening the Child Welfare Response to Trafficking Act (H.R. ...</excerpt>
+          <fti-names>'act':48 'anti':35 'anti-child':34 'bass':5,26 'bill':8,38 'bipartisan':40 'blog':51 'ca':29 'child':11,36,43 'd':28 'd-ca':27 'h.r':49 'immigr':13 'introduc':7 'karen':4,25 'letter':21 'lir':1,50 'lutheran':12 'refuge':15 'rep':3,24 'respons':45 'sent':19 'servic':16 'stop':10 'strengthen':41 'support':31 'thank':2 'thursday':18 'traffick':37,47 'u.s':23 'welfar':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.lirs.org/uncategorized/lirs-thanks-rep-karen-bass-for-introducing-bill-to-stop-child-trafficking&amp;sa=U&amp;ei=I3IHUJv8JYeW2QXOq9nsBA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNG6_m4gsQQt6wjoRF9U3CgXx5R7Tg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-15T01:00:00-04:00</date>
+          <id type="integer">16714959</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LIRS Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-17T22:34:16-04:00</created-at>
+          <title>LIRS Thanks Rep. Karen Bass for Introducing Bill to Stop Child ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Lutheran Immigration and Refugee Service on Thursday sent a letter to U.S. Rep. Karen Bass (D-CA) in support of her anti-child trafficking bill, the bipartisan Strengthening the Child Welfare Response to Trafficking Act (H.R. ...</excerpt>
+          <fti-names>'act':48 'anti':35 'anti-child':34 'bass':5,26 'bill':8,38 'bipartisan':40 'blog':51 'ca':29 'child':11,36,43 'd':28 'd-ca':27 'h.r':49 'immigr':13 'introduc':7 'karen':4,25 'letter':21 'lir':1,50 'lutheran':12 'refuge':15 'rep':3,24 'respons':45 'sent':19 'servic':16 'stop':10 'strengthen':41 'support':31 'thank':2 'thursday':18 'traffick':37,47 'u.s':23 'welfar':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.lirs.org/uncategorized/lirs-thanks-rep-karen-bass-for-introducing-bill-to-stop-child-trafficking&amp;sa=U&amp;ei=pSAGUJSZKaPu2gWrgKWWBQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGqsJxWy_UASxKI_qS0wtepMPWRZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-15T01:00:00-04:00</date>
+          <id type="integer">16693579</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LIRS Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:34:16-04:00</created-at>
+          <title>U.S. Rep. Karen Bass Receives 2012 African American Alumni ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Three outstanding honorees and 36 scholarship recipients were recognized at the AAAA 10th annual Scholarship Fundraiser &amp;amp; Distinguished Achievement...</excerpt>
+          <fti-names>'10th':22 '2012':6 '36':14 'aaaa':21 'achiev':27 'african':7 'alumni':9 'american':8 'annual':23 'bass':4 'distinguish':26 'edealva':28 'fundrais':25 'honore':12 'karen':3 'outstand':11 'receiv':5 'recipi':16 'recogn':18 'rep':2 'scholarship':15,24 'three':10 'u.s':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsletters.lmu.edu/aaaa/2012/06/13/u-s-rep-karen-bass-receives-2012-african-american-alumni-association-aaaa-award/&amp;sa=U&amp;ei=I3IHUJv8JYeW2QXOq9nsBA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEsFIZWoFR7-ODjQ-s2b9-M6VP1Mg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">16714960</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>edealva</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412404</commentariable-id>
+          <created-at type="datetime">2012-07-17T22:34:17-04:00</created-at>
+          <title>U.S. Rep. Karen Bass Receives 2012 African American Alumni ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Three outstanding honorees and 36 scholarship recipients were recognized at the AAAA 10th annual Scholarship Fundraiser &amp;amp; Distinguished Achievement...</excerpt>
+          <fti-names>'10th':22 '2012':6 '36':14 'aaaa':21 'achiev':27 'african':7 'alumni':9 'american':8 'annual':23 'bass':4 'distinguish':26 'edealva':28 'fundrais':25 'honore':12 'karen':3 'outstand':11 'receiv':5 'recipi':16 'recogn':18 'rep':2 'scholarship':15,24 'three':10 'u.s':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsletters.lmu.edu/aaaa/2012/06/13/u-s-rep-karen-bass-receives-2012-african-american-alumni-association-aaaa-award/&amp;sa=U&amp;ei=pSAGUJSZKaPu2gWrgKWWBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNF2ylBKI2ftYwoevltUFuqdu8n7Sg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">16693580</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>edealva</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6433</page-views-count>
+      <youtube-id>RepKarenBass</youtube-id>
+      <unaccented-name>Karen Bass</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

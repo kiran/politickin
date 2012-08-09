@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-25T09:09:12-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.212447636146</party-votes-percentage>
+        <abstains-percentage type="float">2.79232111692845</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">18</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">307</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">99</cosponsored-bills-passed-rank>
+        <abstains type="integer">48</abstains>
+        <cosponsored-bills type="integer">248</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">44</party-votes-percentage-rank>
+        <sponsored-bills type="integer">22</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400246</person-id>
+        <cosponsored-bills-rank type="integer">167</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">23</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">406</votes-republican-position>
+      <metavid-id>Nita_M._Lowey</metavid-id>
+      <blog-article-count type="integer">7999</blog-article-count>
+      <user-approval type="float">1.58823529411765</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">95</oc-users-tracking>
+      <contact-webform>http://lowey.house.gov/?sectionid=56&amp;sectiontree=56</contact-webform>
+      <youtube-id>NitaLowey</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.212447636146</with-party-percentage>
+      <lastname>Lowey</lastname>
+      <fax>202-225-0546</fax>
+      <congress-office>2329 Rayburn House Office Building</congress-office>
+      <firstname>Nita</firstname>
+      <website>http://lowey.house.gov</website>
+      <birthday type="date">1937-07-05</birthday>
+      <person-id type="integer">400246</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-6506</phone>
+      <religion>Jewish</religion>
+      <bioguide-id>L000480</bioguide-id>
+      <votes-democratic-position type="integer">1591</votes-democratic-position>
+      <gender>F</gender>
+      <middlename>M.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:44:04-04:00</created-at>
+          <title>On the Campaign Trail: Carvin, Lowey Open New Camapign Offices</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...supporters and volunteers to open the office. Carvin is running against 24-year incumbent Nita Lowey, D-Harrison. U.S. Rep. Nita Lowey is set to join with her supporters today for the opening of the Lowey for Congress Rockland County Headquarters. The n</excerpt>
+          <fti-names>'24':22 'camapign':9 'campaign':3 'carvin':5,18 'congress':49 'counti':51 'd':28 'd-harrison':27 'harrison':29,55 'headquart':52 'incumb':24 'join':37 'lowey':6,26,33,47 'n':54 'new':8 'nita':25,32 'offic':10,17 'open':7,15,44 'patch':56 'rep':31 'rockland':50 'run':20 'set':35 'support':11,40 'today':41 'trail':4 'u.s':30 'volunt':13 'year':23</fti-names>
+          <source-url>http://harrison.patch.com/</source-url>
+          <url>http://harrison.patch.com/articles/on-the-campaign-trail-carvin-lowey-open-new-camapign-offices</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972488</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Harrison Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:44:04-04:00</created-at>
+          <title>Vietnam Vet to Receive Silver Star on Monday</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rye Brook is finally to be honored Monday with the Silver Star medal for his efforts on the battlefield in 1966. U.S. Rep. Nita Lowey, D-Harrison, is set to present the Silver Star to Thomas Giorgi at a ceremony in White Plains. The Silver Star is the t</excerpt>
+          <fti-names>'1966':29 'battlefield':27 'brook':10 'ceremoni':49 'd':35 'd-harrison':34 'effort':24 'final':12 'giorgi':46 'harrison':36 'honor':15 'lowey':33 'medal':21 'monday':8,16 'nita':32 'patch':60 'plain':52 'portchest':59 'present':40 'receiv':4 'rep':31 'rye':9 'set':38 'silver':5,19,42,54 'star':6,20,43,55 'thoma':45 'u.s':30 'vet':2 'vietnam':1 'white':51</fti-names>
+          <source-url>http://portchester.patch.com/</source-url>
+          <url>http://portchester.patch.com/articles/vietnam-vet-to-receive-silver-star-on-monday</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972489</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Portchester Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:51:42-04:00</created-at>
+          <title>Vietnam Vet to Receive Silver Star on Monday</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rye Brook is finally to be honored Monday with the Silver Star medal for his efforts on the battlefield in 1966. U.S. Rep. Nita Lowey, D-Harrison, is set to present the Silver Star to Thomas Giorgi at a ceremony in White Plains. The Silver Star is the t</excerpt>
+          <fti-names>'1966':29 'battlefield':27 'brook':10 'ceremoni':49 'd':35 'd-harrison':34 'effort':24 'final':12 'giorgi':46 'harrison':36 'honor':15 'lowey':33 'medal':21 'monday':8,16 'nita':32 'patch':60 'plain':52 'present':40 'receiv':4 'rep':31 'rye':9,59 'set':38 'silver':5,19,42,54 'star':6,20,43,55 'thoma':45 'u.s':30 'vet':2 'vietnam':1 'white':51</fti-names>
+          <source-url>http://rye.patch.com/</source-url>
+          <url>http://rye.patch.com/articles/vietnam-vet-to-receive-silver-star-on-monday</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972211</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rye Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:51:39-04:00</created-at>
+          <title>On the Campaign Trail: Carvin Set to Open Campaign Office</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...today in Rockland County for his 2012 congressional race. Carvin, a Republican who is challenging incumbent U.S. Rep. Nita Lowey, D-Harrison for her new, redrawn district that extends from Westchester to include all of Rockland County, is opening a join</excerpt>
+          <fti-names>'2012':17 'campaign':3,9 'carvin':5,20 'challeng':25 'congression':18 'counti':14,48 'd':32 'd-harrison':31 'district':38 'extend':40 'harrison':33,53 'includ':44 'incumb':26 'join':52 'lowey':30 'new':36 'nita':29 'offic':10 'open':8,50 'patch':54 'race':19 'redrawn':37 'rep':28 'republican':22 'rockland':13,47 'set':6 'today':11 'trail':4 'u.s':27 'westchest':42</fti-names>
+          <source-url>http://harrison.patch.com/</source-url>
+          <url>http://harrison.patch.com/articles/on-the-campaign-trail-carvin-set-to-open-campaign-office</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972210</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Harrison Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:02:48-04:00</created-at>
+          <title>What's Happening In Port Chester This Weekend</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...safety, nutrition, body mass index, blood pressure, HIV, optometry, and reproductive health. At noon, Open Door will present Rep. Nita Lowey (D-Harrison) with a Community Appreciation Award in recognition of her commitment to the well-being of the Port </excerpt>
+          <fti-names>'appreci':36 'award':37 'blood':14 'bodi':11 'chester':6,54 'commit':42 'communiti':35 'd':31 'd-harrison':30 'daili':52 'door':24 'happen':3 'harrison':32 'health':20 'hiv':16 'index':13 'lowey':29 'mass':12 'nita':28 'noon':22 'nutrit':10 'open':23 'optometri':17 'port':5,50,53 'present':26 'pressur':15 'recognit':39 'rep':27 'reproduct':19 'safeti':9 'weekend':8 'well':46 'well-b':45</fti-names>
+          <source-url>http://thedailyportchester.com/</source-url>
+          <url>http://portchester.dailyvoice.com/events/whats-happening-port-chester-weekend-3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971719</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Daily Port Chester </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:34:14-04:00</created-at>
+          <title>Larkin, Carvin to open GOP headquarters in Stony Point Saturday</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican office seekers state Sen. Bill Larkin, R-Cornwall, and Rye town Supervisor Joe Carvin, who is seeking the 18th Congressional District seat, will open their campaign headquarters with a public rally at 10 a.m. Saturday. Larkin is challenged in </excerpt>
+          <fti-names>'10':45 '18th':31 'a.m':46 'bill':16 'campaign':38 'carvin':2,26 'challeng':50 'congression':32 'cornwal':20 'district':33 'gop':5 'headquart':6,39 'hudson':55 'joe':25 'larkin':1,17,48 'offic':12 'open':4,36 'point':9 'polit':52 'public':42 'r':19 'r-cornwal':18 'ralli':43 'republican':11 'rye':22 'saturday':10,47 'seat':34 'seek':29 'seeker':13 'sen':15 'state':14 'stoni':8 'supervisor':24 'town':23</fti-names>
+          <source-url>http://polhudson.lohudblogs.com/</source-url>
+          <url>http://polhudson.lohudblogs.com/2012/08/02/larkin-carvin-to-open-gop-headquarters-in-stony-point-saturday/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970746</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politics on the Hudson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:48:10-04:00</created-at>
+          <title>Elmsford Readies for Main Street Renovations</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...it is finished. Past and present village trustees are expected to show for the groundbreaking ceremony, along with Rep. Nita Lowey, Gov. Andrew Cuomo, state Sen. Andrea Stewart-Cousins, Assembly member Thomas Abinanti and county Legislator Alfreda Willi</excerpt>
+          <fti-names>'abinanti':40 'alfreda':44 'along':23 'andrea':33 'andrew':29 'assembl':37 'ceremoni':22 'counti':42 'cousin':36 'cuomo':30 'daili':47 'elmsford':1 'expect':16 'finish':9 'gov':28 'greenburgh':48 'groundbreak':21 'legisl':43 'lowey':27 'main':4 'member':38 'nita':26 'past':10 'present':12 'readi':2 'renov':6 'rep':25 'sen':32 'show':18 'state':31 'stewart':35 'stewart-cousin':34 'street':5 'thoma':39 'truste':14 'villag':13 'willi':45</fti-names>
+          <source-url>http://thedailygreenburgh.com/</source-url>
+          <url>http://greenburgh.dailyvoice.com/news/elmsford-readies-main-street-renovations</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969799</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Daily Greenburgh</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:48:10-04:00</created-at>
+          <title>Frontline health workers WORK. So let&#8217;s train more!</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...that investing in frontline health workers brings positive, measurable, life-saving results. On July 18, Representative Nita Lowey, D-N.Y., introduced H. Res. 734, a resolution recognizing the importance of frontline health workers toward accelerating p</excerpt>
+          <fti-names>'18':25 '734':36 'acceler':47 'blog':50 'bring':16 'd':30 'd-n':29 'frontlin':1,13,43 'h':34 'health':2,14,44 'import':41 'introduc':33 'invest':11 'juli':24 'let':6 'life':20 'life-sav':19 'lowey':28 'measur':18 'n':31 'nita':27 'one':49 'p':48 'posit':17 'recogn':39 'repres':26 'res':35 'resolut':38 'result':22 'save':21 'toward':46 'train':8 'work':4 'worker':3,15,45 'y':32</fti-names>
+          <source-url>http://www.one.org/blog/</source-url>
+          <url>http://feedproxy.google.com/~r/TheONEBlog/~3/XWuiIES_D_8/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969798</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>One Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:56:59-04:00</created-at>
+          <title>Carvin and Lowey Weigh in on Federal Debt</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Carvin speaks at a &quot;Youth for Joe Carvin&quot; rally addressing the debt. Rye Supervisor Joe Carvin and Rep. Nita Lowey, who will face off this November for Lowey&#8217;s congressional seat, differ on how to approach the nation&#8217;s $15.9 trillion debt. Carvin, w</excerpt>
+          <fti-names>'15.9':48 'address':18 'approach':44 'carvin':1,9,16,24,51 'congression':38 'debt':8,20,50 'differ':40 'examin':54 'face':31 'feder':7 'joe':15,23 'lowey':3,28,36 'nation':46 'news':55 'nita':27 'novemb':34 'ralli':17 'rep':26 'rye':21 'seat':39 'speak':10 'supervisor':22 'trillion':49 'w':52 'weigh':4 'youth':13</fti-names>
+          <source-url>http://www.theexaminernews.com/</source-url>
+          <url>http://www.theexaminernews.com/carvin-and-lowey-weigh-in-on-federal-debt/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966825</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Examiner News </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:56:56-04:00</created-at>
+          <title>Gay Marriage Plank Will Be In Democratic Party Platform At Convention</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>&quot;I have been blessed to have a long and happy marriage. I strongly believe all Americans deserve that same opportunity,&quot; said Rep. Nita Lowey (D-N.Y.) &quot;While President Obama has played politics on this issue, the Republican Party and our ...</excerpt>
+          <fti-names>'american':27 'believ':25 'bless':15 'convent':11 'd':37 'd-n':36 'democrat':7 'deserv':28 'gay':1 'happi':21 'huffington':54 'issu':48 'long':19 'lowey':35 'marriag':2,22 'n':38 'nita':34 'obama':42 'opportun':31 'parti':8,51 'plank':3 'platform':9 'play':44 'polit':45 'post':55 'presid':41 'rep':33 'republican':50 'said':32 'strong':24 'y':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/30/gay-marriage-democratic-convention_n_1720030.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T13:44:42-04:00</date>
+          <id type="integer">16966822</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Nita Lowey [D, NY-18]</name>
+      <total-session-votes type="integer">1671</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>18</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:21:28-04:00</created-at>
+          <title>the gop&amp;#39;s laser like focus on jobortions &#171; hip is everything</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&amp;quot;It is outrageous that the majority continues to undercut women&amp;#39;s health with attacks on Planned Parenthood and Title X and by allowing health care providers to deny women critical services,&amp;quot; Rep. Nita Lowey (D-N.</excerpt>
+          <fti-names>'allow':34 'attack':25 'care':36 'continu':18 'critic':41 'd':47 'd-n':46 'deni':39 'everyth':11 'focus':6 'gop':2 'health':23,35 'hip':9 'hipiseveryth':49 'jobort':8 'laser':4 'like':5 'lowey':45 'major':17 'n':48 'nita':44 'outrag':14 'parenthood':28 'plan':27 'provid':37 'rep':43 'servic':42 'titl':30 'undercut':20 'women':21,40 'x':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hipiseverything.wordpress.com/2012/07/18/the-gops-laser-like-focus-on-jobortions/&amp;sa=U&amp;ei=NX0HUIrbEanM2gXywcDuBA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFkkqQKpJFNnTUhtOJHci7xv2pa6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716608</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>hipiseverything</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:21:28-04:00</created-at>
+          <title>House leaves biggest spending fight for last - TheHill.com</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Nita Lowey (D-N.Y.), who is trying to become chairman of the spending panel next year, said the bill was part of a GOP &#8220;war on women,&#8221; a key Democratic talking point this year. House Appropriations Committee ...</excerpt>
+          <fti-names>'appropri':47 'becom':20 'biggest':3 'bill':30 'chairman':21 'committe':48 'd':13 'd-n':12 'democrat':41 'erik':49 'fight':5 'gop':35 'hous':1,46 'key':40 'last':7 'leav':2 'lowey':11 'n':14 'next':26 'nita':10 'panel':25 'part':32 'point':43 'rep':9 'said':28 'spend':4,24 'talk':42 'thehill.com':8 'tri':18 'war':36 'wasson':50 'women':38 'y':15 'year':27,45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/house/238803-house-leaves-biggest-spending-fight-for-last&amp;sa=U&amp;ei=NX0HUIrbEanM2gXywcDuBA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHJgMDh7GiNMe4bTj2i16GFsVCWwQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716606</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erik Wasson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:21:25-04:00</created-at>
+          <title>Carvin To Lowey: It&amp;#39;s Time To Debate | Politics on the Hudson</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican congressional candidate Joe Carvin wants six, 90-minute &#8220;economic&#8221; debates with Rep. Nita Lowey, D-Harrison, Westchester County. The new 17th District includes much of northern Westchester County and all of ...</excerpt>
+          <fti-names>'17th':35 '90':20 'candid':15 'carvin':1,17 'congression':14 'counti':32,42 'd':29 'd-harrison':28 'debat':8,23 'district':36 'econom':22 'harrison':30 'hudson':12 'includ':37 'joe':16 'joseph':46 'lowey':3,27 'minut':21 'much':38 'new':34 'nita':26 'northern':40 'polit':9 'rep':25 'republican':13 'six':19 'spector':47 'time':6 'want':18 'westchest':31,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://polhudson.lohudblogs.com/2012/07/18/carvin-to-lowey-its-time-to-debate/&amp;sa=U&amp;ei=NX0HUIrbEanM2gXywcDuBA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNG6ORcF4XcSSxZgwkXs_1Cdn1YIDQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716603</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph Spector</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:21:28-04:00</created-at>
+          <title>NY17 &#8211; Lowey Hopes to Get Top Dem Job on Approps | Gestetner ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But who that woman will be&#8211;the more-senior Rep. Marcy Kaptur, D-Ohio, or the leadership-friendly Rep. Nita Lowey, D-N.Y.&#8211;is less clear. Lowey won&amp;#39;t say outright whether she&amp;#39;s running for the spot being vacated by Rep.</excerpt>
+          <fti-names>'approp':10 'clear':42 'd':26,37 'd-n':36 'd-ohio':25 'dem':7 'friend':32 'gestetn':11,60 'get':5 'hope':3 'job':8 'kaptur':24 'leadership':31 'leadership-friend':30 'less':41 'lowey':2,35,43 'marci':23 'more-senior':19 'n':38 'nita':34 'ny17':1 'ohio':27 'outright':47 'rep':22,33,58 'run':51 'say':46 'senior':21 'spot':54 'top':6 'vacat':56 'whether':48 'woman':15 'won':44 'y':39 'yossi':59</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gestetnerupdates.com/2012/07/15/ny17-lowey-hopes-to-get-top-dem-job-on-approps/&amp;sa=U&amp;ei=NX0HUIrbEanM2gXywcDuBA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFIUqQEuskDxvwMVSwwjPcrBWhYJg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16716605</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Yossi Gestetner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>NY Reacts To SCOTUS Decision | Politics on the Hudson</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Nita Lowey, D-Harrison, Westchester County, who is being challenged by Carvin: &#8220;I am pleased the Supreme Court today upheld the Affordable Care Act, protecting access to health insurance and quality of coverage for ...</excerpt>
+          <fti-names>'access':37 'act':35 'afford':33 'care':34 'carvin':23 'challeng':21 'counti':17 'court':29 'coverag':44 'd':14 'd-harrison':13 'decis':5 'harrison':15 'health':39 'hudson':9 'insur':40 'joseph':46 'lowey':12 'nita':11 'ny':1 'pleas':26 'polit':6 'protect':36 'qualiti':42 'react':2 'rep':10 'scotus':4 'spector':47 'suprem':28 'today':30 'upheld':31 'westchest':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://polhudson.lohudblogs.com/2012/06/28/ny-reactions-to-scotus-decision/&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNEx5VLaMVngXdQdcihsyzyNIPfaYg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16326139</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph Spector</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>Supreme Court Upholds Affordable Care Act, Local Pols React | The ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;I am pleased the Supreme Court today upheld the Affordable Care Act, protecting access to health insurance and quality of coverage for millions of Americans,&#8221; Rep. Nita Lowey (D-Harrison) said in a statement released ...</excerpt>
+          <fti-names>'access':24 'act':6,22 'afford':4,20 'american':35 'andrew':47 'care':5,21 'court':2,16 'coverag':31 'd':40 'd-harrison':39 'harrison':41 'health':26 'insur':27 'local':7 'lowey':38 'million':33 'nita':37 'pleas':13 'pol':8 'protect':23 'qualiti':29 'react':9 'releas':46 'rep':36 'said':42 'statement':45 'suprem':1,15 'today':17 'upheld':18 'uphold':3 'vitelli':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theexaminernews.com/supreme-court-upholds-affordable-care-act-local-pols-react/&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNGqu5yeJNyFGen0jq8xYaoprZGBwg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16326135</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Andrew Vitelli</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>Lowey on Supreme Court Upholding Affordable Care Act - Harrison ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Nita Lowey (D-NY) today issued the following statement on the Supreme Court upholding the Affordable Care Act.</excerpt>
+          <fti-names>'act':8,29 'afford':6,27 'care':7,28 'congresswoman':10 'court':4,24 'd':14 'd-ni':13 'follow':19 'harrison':9 'issu':17 'lowey':1,12,32 'nita':11,31 'ny':15 'rep':30 'statement':20 'suprem':3,23 'today':16 'uphold':5,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://harrison.patch.com/blog_posts/lowey-statement-on-supreme-court-upholding-affordable-care-act&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEaOy-6_SfX0XtXNei6CHdjh8OZMA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16326134</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rep. Nita Lowey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>NRCC Not Impressed With Democratic Candidates</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Harrison also said he the party was keen on following the race between Rye town supervisor and longtime Democratic Rep. Nita Lowey race in Westchester County. And he called the race between Monroe County Executive ...</excerpt>
+          <fti-names>'also':8 'call':35 'candid':6 'counti':32,40 'democrat':5,25 'execut':41 'follow':16 'harrison':7 'impress':3 'keen':14 'longtim':24 'lowey':28 'monro':39 'nick':42 'nita':27 'nrcc':1 'parti':12 'race':18,29,37 'reisman':43 'rep':26 'rye':20 'said':9 'supervisor':22 'town':21 'westchest':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitaltonight.com/2012/06/nrcc-not-impressed-with-democratic-candidates/&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNENY0eOr0axHCjr3r5-BmrBxD9LDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16326143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nick Reisman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>Congressional Races Gain Clarity | Albany Watch</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republicans winners last night included: Rye Supervisor Joe Carvin (above) to face Rep. Nita Lowey, D-Harrison, Westchester County; former Erie County Executive Chris Collins to face Rep. Kathy Hochul, D-Amherst.</excerpt>
+          <fti-names>'albani':5 'amherst':40 'carvin':15 'chris':31 'clariti':4 'collin':32 'congression':1 'counti':26,29 'd':23,39 'd-amherst':38 'd-harrison':22 'eri':28 'execut':30 'face':18,34 'former':27 'gain':3 'harrison':24 'hochul':37 'includ':11 'joe':14 'joseph':41 'kathi':36 'last':9 'lowey':21 'night':10 'nita':20 'race':2 'rep':19,35 'republican':7 'rye':12 'spector':42 'supervisor':13 'watch':6 'westchest':25 'winner':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://statepolitics.lohudblogs.com/2012/06/27/congressional-races-gain-clarity/&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEda7Q3bh2qLZLXSWdBsSzPUFjW5g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16326142</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph Spector</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400246</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:56:38-04:00</created-at>
+          <title>Congressional Primary in New York Today ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Eliot Engel&amp;#39;s 17th District (Mt. Vernon and Yonkers) and the southern portion of Democratic Rep. Nita Lowey&amp;#39;s 18th District (the Sound Shore area) to form the state&amp;#39;s new 16th District. These are the choices to be made: ...</excerpt>
+          <fti-names>'16th':38 '17th':10 '18th':26 'admin':47 'area':31 'choic':43 'congression':1 'democrat':21 'district':11,27,39 'eliot':7 'engel':8 'form':33 'lowey':24 'made':46 'mt':12 'new':4,37 'nita':23 'portion':19 'primari':2 'rep':22 'shore':30 'sound':29 'southern':18 'state':35 'today':6 'vernon':13 'yonker':15 'york':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://westchesterrealestateinformation.com/congressional-primary-in-new-york-today/&amp;sa=U&amp;ei=5Q3xT_mCJ8rg2AWz6-E1&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNE__rUQExGDyyH00r-RZHWrimvP7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16326141</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19702</page-views-count>
+      <unaccented-name>Nita Lowey</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

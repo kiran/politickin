@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.822966507177</party-votes-percentage>
+        <abstains-percentage type="float">2.73414776032577</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">251</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">369</cosponsored-bills-passed-rank>
+        <abstains type="integer">47</abstains>
+        <cosponsored-bills type="integer">240</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">305</party-votes-percentage-rank>
+        <sponsored-bills type="integer">19</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400220</person-id>
+        <cosponsored-bills-rank type="integer">269</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">230</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1552</votes-republican-position>
+      <metavid-id>Steve_King</metavid-id>
+      <blog-article-count type="integer">13232</blog-article-count>
+      <user-approval type="float">4.06</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">118</oc-users-tracking>
+      <contact-webform>http://www.house.gov/steveking/email.shtm</contact-webform>
+      <youtube-id>RepSteveKing</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.822966507177</with-party-percentage>
+      <lastname>King</lastname>
+      <fax>202-225-3193</fax>
+      <congress-office>1131 Longworth House Office Building</congress-office>
+      <firstname>Steve</firstname>
+      <website>http://steveking.house.gov/</website>
+      <birthday type="date">1949-05-28</birthday>
+      <person-id type="integer">400220</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-4426</phone>
+      <religion>Roman Catholic</religion>
+      <bioguide-id>K000362</bioguide-id>
+      <votes-democratic-position type="integer">361</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>A.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:58:19-04:00</created-at>
+          <title>Video: Rep. Steve King&#8217;s crazy talk</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Key to dieting: Keep treats out of sight People who lose the most weight may be those who can overcome urges when they see, smell or dream about something tasty, researchers said this week. And their study adds to a growing body of evidence that another </excerpt>
+          <fti-names>'add':45 'anoth':53 'bodi':49 'crazi':6 'diet':10 'dream':34 'evid':51 'grow':48 'keep':11 'key':8 'king':4 'lose':18 'may':22 'msnbc':54 'overcom':27 'peopl':16 'rep':2 'research':38 'said':39 'see':31 'sight':15 'smell':32 'someth':36 'steve':3 'studi':44 'talk':7 'tasti':37 'treat':12 'urg':28 'video':1 'week':41 'weight':21</fti-names>
+          <source-url>http://www.msnbc.msn.com/</source-url>
+          <url>http://www.msnbc.msn.com/id/3036697/vp/48496648#48496648</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16971692</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:58:19-04:00</created-at>
+          <title>Craziest Republican of the Day: Steve King</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Steve King of Iowa may or may not be the craziest Republican -- it's undeniable that he's up at the top of the list, but obviously the competition is stiff -- but he leads the pack in our ongoing CRD series. By my count, it's his seventh appearance as C</excerpt>
+          <fti-names>'appear':56 'c':58 'competit':36 'count':51 'craziest':1,18 'crd':47 'day':5 'iowa':11 'king':7,9 'lead':41 'list':32 'may':12,14 'obvious':34 'ongo':46 'pack':43 'reaction':60 'republican':2,19 'seri':48 'seventh':55 'steve':6,8 'stiff':38 'top':29 'undeni':22</fti-names>
+          <source-url>http://www.the-reaction.blogspot.com/</source-url>
+          <url>http://the-reaction.blogspot.com/2012/08/craziest-republican-of-day-steve-king.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971693</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Reaction</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:58:18-04:00</created-at>
+          <title>Iowa Rep. Steve King's Week Of Insanity</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...has been an all-out week of crazy for Rep. Steve King, R-Iowa, who is currently locked in the toughest reelection fight of his political career. King's Democratic challenger is Christie Vilsack, the wife of former Iowa governor and current U.S. Secretar</excerpt>
+          <fti-names>'all-out':12 'busi':56 'career':37 'challeng':41 'christi':43 'crazi':17 'current':27,52 'democrat':40 'fight':33 'former':48 'governor':50 'insan':8 'intern':55 'iowa':1,24,49 'king':4,21,38 'lock':28 'polit':36 'r':23 'r-iowa':22 'reelect':32 'rep':2,19 'secretar':54 'steve':3,20 'time':57 'toughest':31 'u.s':53 'vilsack':44 'week':6,15 'wife':46</fti-names>
+          <source-url>http://www.ibtimes.com/</source-url>
+          <url>http://www.ibtimes.com/articles/370188/20120803/steve-king-dogfighting-week-insanity.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971691</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>International Business Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:58:18-04:00</created-at>
+          <title>Doggies Protest Rep. Steve King's Defense of Animal Cruelty</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...IA&#8212; Paws Against King and over a dozen CREDO SuperPAC volunteers protested outside of Rep. Steve King&#8217;s campaign office in Ames today to voice their concerns about King&#8217;s defense of animal cruelty. Local residents brought along their dogs and wave</excerpt>
+          <fti-names>'along':48 'ame':32 'anim':9,43 'brought':47 'cafe':54 'campaign':29 'concern':37 'credo':19 'cruelti':10,44 'defens':7,41 'dog':50 'doggi':1 'dozen':18 'ia':11 'king':5,14,27,39 'local':45 'offic':30 'outsid':23 'paw':12 'protest':2,22 'rep':3,25 'resid':46 'steve':4,26 'superpac':20 'today':33 'video':53 'voic':35 'volunt':21 'wave':52</fti-names>
+          <source-url>http://videocafe.crooksandliars.com/</source-url>
+          <url>http://crooksandliars.com/heather/doggies-protest-rep-steve-kings-defense-an</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971690</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Video Cafe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:58:17-04:00</created-at>
+          <title>Dog Days of Summer for Congressman Steve King</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...posted a follow-up reply, which you can watch here, and that is also already racking up thousands of views. It&#8217;s called &#8220;Rep. Steve King (R-IA) Clarifies Statements on Dog Fighting.&#8221; The only thing is, he doesn&#8217;t. Rep. King&#8217;s latest reply is e</excerpt>
+          <fti-names>'alreadi':24 'also':23 'call':32 'clarifi':39 'congressman':6 'day':2 'doesn':49 'dog':1,42 'e':57 'fight':43 'follow':12 'follow-up':11 'human':59 'ia':38 'king':8,35,52 'latest':54 'post':9 'r':37 'r-ia':36 'rack':25 'rep':33,51 'repli':14,55 'societi':60 'state':64 'statement':40 'steve':7,34 'summer':4 'thing':46 'thousand':27 'unit':63 'view':29 'watch':18</fti-names>
+          <source-url>http://www.humanesociety.org/</source-url>
+          <url>http://feedproxy.google.com/~r/typepad/hsus/wayne/~3/dSjRTZYkDmY/steve-king-dog-days.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971689</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Humane Society of the United States</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:13:03-04:00</created-at>
+          <title>Steve King: Idea That Diversity Strengthens America Has 'Never Been Backed Up By Logic'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...-- Rep. Steve King (R-Iowa) said Thursday that diversity has never been America's strong suit, so lawmakers should pass his bill to make English the official U.S. language in the name of unifying the nation. &quot;One of the great things about America is we'</excerpt>
+          <fti-names>'america':7,28,58 'back':11 'bill':37 'divers':5,24 'english':40 'great':55 'huffington':62 'idea':3 'iowa':20 'king':2,17 'languag':44 'lawmak':33 'logic':14 'make':39 'name':47 'nation':51 'never':9,26 'offici':42 'one':52 'pass':35 'post':63 'r':19 'r-iowa':18 'rep':15 'said':21 'steve':1,16 'strengthen':6 'strong':30 'suit':31 'thing':56 'thursday':22 'u.s':43 'unifi':49</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/02/steve-king-diversity_n_1734431.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970718</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:12:45-04:00</created-at>
+          <title>Rep. Steve King Cheers on Dogfighting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...STEVE KING doesn&#8217;t understand the difference between humans choosing to fight one another in the sport of boxing, versus dogs forced into fighting by men who get their kicks out of what amounts to torturing animals. KING: When the legislation that pas</excerpt>
+          <fti-names>'amount':40 'anim':43 'anoth':20 'box':25 'cheer':4 'choos':16 'differ':13 'doesn':9 'dog':27 'dogfight':6 'fight':18,30 'forc':28 'get':34 'human':15 'kick':36 'king':3,8,44 'legisl':47 'marsh':51 'men':32 'one':19 'pas':49 'rep':1 'sport':23 'steve':2,7 'taylor':50 'tortur':42 'understand':11 'versus':26</fti-names>
+          <source-url>http://www.taylormarsh.com/</source-url>
+          <url>http://feedproxy.google.com/~r/taylormarshcom/~3/r6knQ6hCKiE/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970717</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Taylor Marsh</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:19-04:00</created-at>
+          <title>Iowa Rep. Steve King: Why Is It Wrong To Dog-Fight If It Is Okay To Rape And Kidnap These Children?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...and take her across state lines and force her to have an abortion and then drop her back off at the swingset, perhaps Steve King has no business being employed in the body that makes the laws for the United States of America. Oh, who&#8217;re we kidding? Of</excerpt>
+          <fti-names>'abort':35 'across':26 'america':65 'back':40 'bodi':55 'busi':50 'children':22 'dog':11 'dog-fight':10 'drop':38 'employ':52 'fight':12 'forc':30 'iowa':1 'kid':70 'kidnap':20 'king':4,47 'law':59 'line':28 'make':57 'oh':66 'okay':16 'perhap':45 'rape':18 're':68 'rep':2 'state':27,63 'steve':3,46 'swingset':44 'take':24 'unit':62 'wonkett':72 'wrong':8</fti-names>
+          <source-url>http://www.wonkette.com/</source-url>
+          <url>http://feeds.wonkette.com/click.phdo?i=53e3ec74e6e4e750193633e72726018b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969773</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wonkette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:19-04:00</created-at>
+          <title>Steve King Defends Dog Fighting Comments In Bizarre Diatribe</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...ThinkProgress reported on Rep. Steve King&#8217;s (R-IA) comments that &#8220;there&#8217;s something wrong with&#8221; outlawing dogfighting when &#8220;people fighting&#8221; is legal. King has since tried to backtrack from the claim, arguing that while his words were &#8220;dis</excerpt>
+          <fti-names>'argu':43 'backtrack':39 'bizarr':8 'claim':42 'comment':6,20 'defend':3 'diatrib':9 'dis':49 'dog':4 'dogfight':28 'fight':5,31 'ia':19 'king':2,15,34 'legal':33 'outlaw':27 'peopl':30 'progress':51 'r':18 'r-ia':17 'rep':13 'report':11 'sinc':36 'someth':24 'steve':1,14 'think':50 'thinkprogress':10 'tri':37 'word':47 'wrong':25</fti-names>
+          <source-url>http://thinkprogress.org/</source-url>
+          <url>http://thinkprogress.org/politics/2012/08/01/622881/steve-king-responds-dogfighting/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969772</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:19-04:00</created-at>
+          <title>Rep. Steve King: Obama Birth Could Have Been Faked with 'Telegram from Kenya'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Steve King (R-IA) recently speculated that President Barack Obama's family could have conspired to fake his citizenship by announcing his birth with a &quot;telegram from Kenya.&quot; During a tele-townhall event recorded last week, King was asked why he wasn't &quot;</excerpt>
+          <fti-names>'announc':35 'ask':54 'barack':23 'birth':5,37 'cafe':60 'citizenship':33 'conspir':29 'could':6,27 'event':48 'fake':9,31 'famili':26 'ia':18 'kenya':13,42 'king':3,15,52 'last':50 'obama':4,24 'presid':22 'r':17 'r-ia':16 'recent':19 'record':49 'rep':1 'specul':20 'steve':2,14 'tele':46 'tele-townhal':45 'telegram':11,40 'townhal':47 'video':59 'wasn':57 'week':51</fti-names>
+          <source-url>http://videocafe.crooksandliars.com/</source-url>
+          <url>http://crooksandliars.com/david/rep-steve-king-obama-birth-could-have-been-f</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969771</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Video Cafe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Steve King [R, IA-5]</name>
+      <total-session-votes type="integer">1672</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:48-04:00</created-at>
+          <title>Rep. Steve King releases new radio ad criticizing Christie Vilsack ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Steve King releases new radio ad criticizing Christie Vilsack DesMoinesRegister.com (blog) Rep. Steve King, R-Iowa released a new radio advertisement today that criticizes Christie Vilsack, his Democratic opponent, ...</excerpt>
+          <fti-names>'ad':7,17 'admin':42 'advertis':33 'blog':22 'christi':9,19,37 'critic':8,18,36 'democrat':40 'desmoinesregister.com':21 'iowa':28 'king':3,13,25 'new':5,15,31 'oppon':41 'r':27 'r-iowa':26 'radio':6,16,32 'releas':4,14,29 'rep':1,11,23 'steve':2,12,24 'today':34 'vilsack':10,20,38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ia-moc/steve-king-iowa-representative/rep-steve-king-releases-new-radio-ad-criticizing-christie-vilsack-desmoinesregister-com-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-steve-king-releases-new-radio-ad-criticizing-christie-vilsack-desmoinesregister-com-blog&amp;sa=U&amp;ei=xUsXUJ2pPJSu8QSS6YDoDQ&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFv1MabP2-foe-kaoOR-UM78watTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960857</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:48-04:00</created-at>
+          <title>Tracy asks Congressman Steve King about Obama&amp;#39;s eligibility and ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Tracy asks Congressman Steve King about Obama&amp;#39;s eligibility and we see Congressman King&amp;#39;s true constitutional oath colors &#8212; yellow Watch the four minute video here: http://www.youtube.com/watch?v=Hm5eww1OW5E ...</excerpt>
+          <fti-names>'/watch?v=hm5eww1ow5e':39 'ask':2,12 'cfkerchner':40 'color':29 'congressman':3,13,23 'constitut':27 'elig':9,19 'four':33 'king':5,15,24 'minut':34 'oath':28 'obama':7,17 'see':22 'steve':4,14 'traci':1,11 'true':26 'video':35 'watch':31 'www.youtube.com':38 'www.youtube.com/watch?v=hm5eww1ow5e':37 'yellow':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cdrkerchner.wordpress.com/2012/07/30/tracy-asks-congressman-steve-king-about-obamas-eligibility-and-we-see-kings-true-constitutional-oath-colors-yellow/&amp;sa=U&amp;ei=xUsXUJ2pPJSu8QSS6YDoDQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNHiXEPyQkkjPmSMgWfdI-eOl-w_mA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960856</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>cfkerchner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:46-04:00</created-at>
+          <title>Congressman Steve King Addresses Obama&amp;#39;s Eligibility: Will Deal ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Steve King Addresses Obama&amp;#39;s Eligibility: Says They Will Deal With It After Election. (UPDATE). CLEAN VERSION(AUDIO): U.S. Rep. Steve King Addresses Obama&amp;#39;s Eligibility; Will Deal With It After Election ...</excerpt>
+          <fti-names>'address':4,13,33 'audio':28 'clean':26 'congressman':1,10 'deal':9,20,38 'elect':24,42 'elig':7,16,36 'king':3,12,32 'obama':5,14,34 'obamareleas':43 'rep':30 'say':17 'steve':2,11,31 'u.s':29 'updat':25 'version':27 'yourrecord':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://obamareleaseyourrecords.blogspot.com/2012/07/congressman-steve-king-addresses-obamas.html&amp;sa=U&amp;ei=xUsXUJ2pPJSu8QSS6YDoDQ&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEwxlohKrbSTWc1MrqNWI_Rtjnu4w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960852</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ObamaRelease YourRecords</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:02:43-04:00</created-at>
+          <title>Updates from Congressman Steve King | the Net economy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>King: Judiciary Committee Announces Hearing on Official English, US Congress; Congressman Steve King Interview with Fox News &#8211; English Language Unity Act, YouTube [VIDEO 4:54]; King DOMA Amendment Passes in ...</excerpt>
+          <fti-names>'4':32 '54':33 'act':29 'amend':36 'announc':12 'committe':11 'congress':18 'congressman':3,19 'doma':35 'economi':8,41 'english':16,26 'fox':24 'hear':13 'interview':22 'judiciari':10 'king':5,9,21,34 'languag':27 'net':7,40 'news':25 'offici':15 'pass':37 'steve':4,20 'uniti':28 'updat':1 'us':17 'video':31 'youtub':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theneteconomy.wordpress.com/2012/07/29/updates-from-congressman-steve-king-3/&amp;sa=U&amp;ei=gzEWUJeDLofY0QHRs4DYCA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNFaRfip7EOrjpCiwh06i0Vvpl-TAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948121</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>the Net economy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:02:28-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=gzEWUJeDLofY0QHRs4DYCA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNF4H5MY2a61uvR71A1ECnYlOAgmmw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16948116</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:48-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=xUsXUJ2pPJSu8QSS6YDoDQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNF742SLXqTN5SKJGOuOO3t--LVOJQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16960853</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:53:39-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=xMEUUKHBKIeW0QGA8IHoCg&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNH8sENoRS9OjZxHO3ZYC3Ixa9FcqQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16930025</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:08:08-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=l1cTUOuxLIyo8ASymYDgBw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFyET5o0tMOv-kOK7WQcEQzas6g1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16922012</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:17:02-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=LggSUIGxFIK56wGyy4DoCw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFZzH7XjJB6qr4Mi8OCDFBTt_MC9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16890648</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400220</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:20:10-04:00</created-at>
+          <title>GOP Rep. Steve King Makes Fifth Attempt To Make English Official ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve King (R-IA), appearing on Fox News Channel on Wednesday, discussed his most recent attempt to introduce a bill to the House that would make English the official language of the United States. He told Fox News ...</excerpt>
+          <fti-names>'appear':18 'attempt':7,29 'bill':33 'channel':22 'discuss':25 'english':10,40 'fifth':6 'fox':20,50 'gop':1 'hous':36 'ia':17 'introduc':31 'king':4,14 'languag':43 'make':5,9,39 'news':21,51 'noah':52 'offici':11,42 'r':16 'r-ia':15 'recent':28 'rep':2,12 'rothman':53 'state':47 'steve':3,13 'told':49 'unit':46 'wednesday':24 'would':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/gop-rep-steve-king-makes-fifth-attempt-to-make-english-official-language-so-more-will-get-his-jokes/&amp;sa=U&amp;ei=abcQUKD2OI-e8gTNn4CoAg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNH0gnxFrHKujyh5VnqwzORbF213bA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859500</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Noah Rothman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">29278</page-views-count>
+      <unaccented-name>Steve King</unaccented-name>
+      <oc-user-comments type="integer">17</oc-user-comments>
+    </person>
+  </people>
+</hash>

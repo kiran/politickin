@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">86.8354430379747</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">400408</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">144</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">412378</votes-least-often-with-id>
+        <person-id type="integer">412496</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412391</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">343</votes-republican-position>
+      <fax nil="true"></fax>
+      <blog-article-count type="integer">2338</blog-article-count>
+      <user-approval type="float">3.86666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">122</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.ronjohnson.senate.gov/public/index.cfm/contact</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">86.8354430379747</with-party-percentage>
+      <lastname>Johnson</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>386 Russell Senate Office Building</congress-office>
+      <firstname>Ron</firstname>
+      <website>http://www.ronjohnson.senate.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1955-04-08</birthday>
+      <person-id type="integer">412496</person-id>
+      <bioguide-id>J000293</bioguide-id>
+      <phone>202-224-5323</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">116</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:00-04:00</created-at>
+          <title>Johnson won't say who he backs in Senate race</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...announce their engagement. Carrie is the daughter of Greg and Sandy Clark, formerly ofRacine. Sea&#8230; Republican Sen. Ron Johnson says he knows who he will vote for in the GOP primary for U.S. Senate, but he's not saying. Johnson was asked about the Sena</excerpt>
+          <fti-names>'announc':11 'ask':52 'back':7 'carri':14 'clark':22 'daughter':17 'engag':13 'former':23 'gop':40 'greg':19 'johnson':1,29,50 'journaltimes.com':56 'know':32 'ofracin':24 'primari':41 'race':10 'republican':26 'ron':28 'sandi':21 'say':4,30,49 'sea':25 'sen':27 'sena':55 'senat':9,44 'u.s':43 'vote':36 'won':2</fti-names>
+          <source-url>http://www.journaltimes.com/</source-url>
+          <url>http://www.journaltimes.com/news/state-and-regional/johnson-won-t-say-who-he-backs-in-senate-race/article_83eaac34-d46e-54ff-a86b-df31526044a4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973781</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>JournalTimes.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:00-04:00</created-at>
+          <title>Johnson won't say who he backs in Senate race</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Wis. (AP) - Republican Sen. Ron Johnson says he knows who he will vote for in the GOP primary for U.S. Senate, but he's not saying. Johnson was asked about the Senate race following his appearance at a luncheon Tuesday in Madison hosted by the political</excerpt>
+          <fti-names>'ap':12 'appear':46 'ask':39 'back':7 'follow':44 'gop':27 'host':53 'johnson':1,16,37 'know':19 'luncheon':49 'madison':52 'polit':56 'primari':28 'race':10,43 'republican':13 'ron':15 'say':4,17,36 'sen':14 'senat':9,31,42 'tuesday':50 'tv':59 'u.s':30 'vote':23 'wbay':58 'wbay-tv':57 'wis':11 'won':2</fti-names>
+          <source-url>http://www.wbay.com/</source-url>
+          <url>http://www.wbay.com/story/19217436/johnson-wont-say-who-he-backs-in-senate-race</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973780</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBAY-TV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:00-04:00</created-at>
+          <title>Wisconsin: Johnson refuses to endorse in GOP Senate race</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Hovde and Thompson attacking one another and outside groups spending millions to influence the race. MADISON, Wis. -- U.S. Sen. Ron Johnson refused to inject himself into the hotly contest Republican contest for Wisconsin's other Senate seat on Tuesday,</excerpt>
+          <fti-names>'anoth':15 'attack':13 'contest':38,40 'endors':5 'gop':7 'group':18 'hot':37 'hovd':10 'influenc':22 'inject':33 'johnson':2,30 'madison':25 'million':20 'one':14 'outsid':17 'race':9,24 'refus':3,31 'republican':39 'ron':29 'seat':46 'sen':28 'senat':8,45 'spend':19 'thompson':12 'tuesday':48 'twincities.com':49 'u.s':27 'wis':26 'wisconsin':1,42</fti-names>
+          <source-url>http://www.twincities.com/</source-url>
+          <url>http://www.twincities.com/politics/ci_21255007/wisconsin-senate-race-ad-attacking-hovde-altered-after?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973779</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TwinCities.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:59-04:00</created-at>
+          <title>Three conservatives face off in the Republican Senate primary in Missouri</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Gov. Sarah Palin and the Tea Party Express have thrown their weight behind Steelman, while FreedomWorks and Wisconsin Sen. Ron Johnson as well as Oklahoma Sen. Tom Coburn are supporting Brunner. Meanwhile, Rep. Michele Bachmann as well as former Arkansa</excerpt>
+          <fti-names>'abc':52 'arkansa':51 'bachmann':46 'behind':24 'brunner':42 'coburn':39 'conserv':2 'express':19 'face':3 'former':50 'freedomwork':27 'gov':12 'johnson':32 'meanwhil':43 'michel':45 'missouri':11 'news':53 'oklahoma':36 'palin':14 'parti':18 'primari':9 'rep':44 'republican':7 'ron':31 'sarah':13 'sen':30,37 'senat':8 'steelman':25 'support':41 'tea':17 'three':1 'thrown':21 'tom':38 'weight':23 'well':34,48 'wisconsin':29</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/conservatives-face-off-republican-senate-primary-missouri/story?id=16945368</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973778</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:44-04:00</created-at>
+          <title>Ed Garvey: Let&#8217;s recapture what&#8217;s special about Wisconsin</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...thinking of packing up and leaving. This is no longer a &#8220;special&#8221; place. Instead of Russ Feingold, we have tea party Sen. Ron Johnson. Let&#8217;s work to make that a fluke &#8212; not a pattern. We need strong leaders. We need a part-time Legislature. We n</excerpt>
+          <fti-names>'ed':1 'feingold':27 'fluke':42 'garvey':2 'instead':24 'johnson':34 'leader':49 'leav':16 'legislatur':56 'let':3,35 'longer':20 'madison.com':59 'make':39 'n':58 'need':47,51 'pack':13 'part':54 'part-tim':53 'parti':31 'pattern':45 'place':23 'recaptur':5 'ron':33 'russ':26 'sen':32 'special':8,22 'strong':48 'tea':30 'think':11 'time':55 'wisconsin':10 'work':37</fti-names>
+          <source-url>http://host.madison.com/</source-url>
+          <url>http://host.madison.com/news/opinion/column/ed_garvey/ed-garvey-let-s-recapture-what-s-special-about-wisconsin/article_ea6a317e-df56-11e1-a71f-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973148</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Madison.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:43-04:00</created-at>
+          <title>Audit the Pentagon: POGO Applauds New Bipartisan Initiative</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the bill include Sens. Kelly Ayotte (R-N.H.), Scott Brown (R-Mass.), John Cornyn (R-Texas), Chuck Grassley (R-Iowa), Ron Johnson (R-Wis.), Joe Manchin (D-W.V.), Claire McCaskill (D-Mo.), and Rand Paul (R-Ky.). Unlike nearly all other government agenc</excerpt>
+          <fti-names>'agenc':62 'applaud':5 'audit':1 'ayott':15 'bill':11 'bipartisan':7 'brown':21 'chuck':30 'clair':46 'cornyn':26 'd':43,49 'd-mo':48 'd-w':42 'govern':61 'grassley':31 'h':19 'includ':12 'initi':8 'iowa':34 'joe':40 'john':25 'johnson':36 'kelli':14 'ky':56 'manchin':41 'mass':24 'mccaskil':47 'mo':50 'n':18 'near':58 'new':6 'paul':53 'pentagon':3 'pogo':4,63 'r':17,23,28,33,38,55 'r-iowa':32 'r-ki':54 'r-mass':22 'r-n':16 'r-texa':27 'r-wis':37 'rand':52 'ron':35 'scott':20 'sen':13 'texa':29 'unlik':57 'v':45 'w':44 'wis':39</fti-names>
+          <source-url>http://pogoblog.typepad.com/</source-url>
+          <url>http://pogoblog.typepad.com/pogo/2012/08/audit-the-pentagon-pogo-applauds-new-bipartisan-initiative-.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973147</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>POGO </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:59:33-04:00</created-at>
+          <title>Walker releases statement on shooting</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...enforcement and first responder professionals and praying for strength and healing for this entire community and our state.&quot; Sen. Ron Johnson also released a statement: &quot;Our thoughts and prayers are with the victims and the families of yet another sense</excerpt>
+          <fti-names>'also':27 'anoth':44 'communiti':20 'enforc':6 'entir':19 'famili':41 'first':8 'heal':16 'johnson':26 'milwauke':47 'pray':12 'prayer':34 'profession':10 'releas':2,28 'respond':9 'ron':25 'sen':24 'sens':45 'shoot':5 'state':23 'statement':3,30 'strength':14 'thought':32 'victim':38 'walker':1 'yet':43</fti-names>
+          <source-url>http://www.onmilwaukee.com/</source-url>
+          <url>http://onmilwaukee.com/buzz/articles/walkersikhstatement.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972621</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>On Milwaukee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:19:50-04:00</created-at>
+          <title>In the company of Madison -- Ted Cruz and the tea party</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...he and like-minded Republicans -- Utah's Mike Lee, Kentucky's Rand Paul, South Carolina's Jim DeMint, Wisconsin's Ron Johnson, Pennsylvania's Pat Toomey, and Florida's Marco Rubio -- can honor two exemplary senatorial predecessors by forming the small b</excerpt>
+          <fti-names>'b':54 'carolina':27 'compani':3 'cruz':7 'demint':30 'exemplari':47 'florida':40 'form':51 'honor':45 'jim':29 'johnson':34 'kentucki':22 'lee':21 'like':15 'like-mind':14 'lowel':55 'madison':5 'marco':42 'mike':20 'mind':16 'onlin':57 'parti':11 'pat':37 'paul':25 'pennsylvania':35 'predecessor':49 'rand':24 'republican':17 'ron':33 'rubio':43 'senatori':48 'small':53 'south':26 'sun':56 'tea':10 'ted':6 'toomey':38 'two':46 'utah':18 'wisconsin':31</fti-names>
+          <source-url>http://www.lowellsun.com/</source-url>
+          <url>http://www.lowellsun.com/editorials/ci_21235263/company-madison-ted-cruz-and-tea-party?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972346</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lowell Sun Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:42-04:00</created-at>
+          <title>Neumann secures Tea Party Express endorsement</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the state's welfare system and instituting school choice programs. Hovde is modeling his campaign off of Wisconsin Sen. Ron Johnson, a tea party candidate who in 2010 knocked off incumbent Democratic Sen. Russ Feingold. Johnson, like Hovde, had never ru</excerpt>
+          <fti-names>'2010':34 'campaign':21 'candid':31 'choic':15 'daili':49 'democrat':38 'endors':6 'express':5 'feingold':41 'herald':50 'hovd':17,44 'incumb':37 'institut':13 'johnson':27,42 'knock':35 'like':43 'model':19 'neumann':1 'never':46 'parti':4,30 'program':16 'ron':26 'ru':47 'russ':40 'school':14 'secur':2 'sen':25,39 'state':8 'system':11 'tea':3,29 'wausau':48 'welfar':10 'wisconsin':24</fti-names>
+          <source-url>http://www.wausaudailyherald.com/</source-url>
+          <url>http://www.wausaudailyherald.com/article/20120803/WDH010403/120803013/1580/WDH01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971986</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wausau Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:42-04:00</created-at>
+          <title>Neumann secures Tea Party Express endorsement</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the state's welfare system and instituting school choice programs. Hovde is modeling his campaign off of Wisconsin Sen. Ron Johnson, a tea party candidate who in 2010 knocked off incumbent Democratic Sen. Russ Feingold. Johnson, like Hovde, had never ru</excerpt>
+          <fti-names>'2010':34 'campaign':21 'candid':31 'choic':15 'daili':49 'democrat':38 'endors':6 'express':5 'feingold':41 'herald':50 'hovd':17,44 'incumb':37 'institut':13 'johnson':27,42 'knock':35 'like':43 'model':19 'neumann':1 'never':46 'parti':4,30 'program':16 'ron':26 'ru':47 'russ':40 'school':14 'secur':2 'sen':25,39 'state':8 'system':11 'tea':3,29 'wausau':48 'welfar':10 'wisconsin':24</fti-names>
+          <source-url>http://www.wausaudailyherald.com/</source-url>
+          <url>http://www.wausaudailyherald.com/article/20120803/WDH010403/120803013</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971985</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wausau Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Ron Johnson [R, WI]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>SenatorRonJohnson</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:18:14-04:00</created-at>
+          <title>Democurmudgeon: Ron Johnson and Paul Ryan push Appalling ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Ron Johnson and Rep. Paul Ryan arrived &#8230; and began speaking on a small stage when a few of the protesters holding signs tried to move close to the stage. Some protesters chanted &amp;quot;Ron Johnson supports China!&amp;quot; ...</excerpt>
+          <fti-names>'appal':8 'arriv':16 'began':18 'chant':41 'china':45 'close':35 'democurmudgeon':1,46 'hold':30 'johnson':3,11,43 'move':34 'paul':5,14 'protest':29,40 'push':7 'rep':13 'ron':2,10,42 'ryan':6,15 'sen':9 'sign':31 'small':22 'speak':19 'stage':23,38 'support':44 'tri':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://democurmudgeon.blogspot.com/2012/07/ron-johnson-and-paul-ryan-push.html&amp;sa=U&amp;ei=jWoXUMXbGIei8QSJsICoDw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHarRuprCM6VZ2lDpTQ2WEiUJnpRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962432</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Democurmudgeon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:18:19-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part event at GOP campaign headquarters in Waukesha.</excerpt>
+          <fti-names>'also':17 'campaign':24 'chairman':14 'committe':13 'congressman':4 'event':21 'gop':23 'headquart':25 'johnson':3 'maley':29 'mark':28 'nation':12 'part':20 'paul':5 'priebus':16 'ralli':8 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'take':19 'waukesha':10,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://menomoneefalls.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-rally-in-waukesha-county-sunday&amp;sa=U&amp;ei=jWoXUMXbGIei8QSJsICoDw&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGVC-GfjPHn4XL5mF7xOAex8PKCaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962436</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:18:15-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part in rally at GOP campaign headquarters on Pearl Street.</excerpt>
+          <fti-names>'also':17 'campaign':25 'chairman':14 'committe':13 'congressman':4 'gop':24 'headquart':26 'johnson':3 'maley':31 'mark':30 'nation':12 'part':20 'paul':5 'pearl':28 'priebus':16 'ralli':8,22 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'street':29 'take':19 'waukesha':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waukesha.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-visit-waukesha-sunday&amp;sa=U&amp;ei=jWoXUMXbGIei8QSJsICoDw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGmrGtB-Ci-9N-HCaDGKgeRCbTK4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962433</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:42:20-04:00</created-at>
+          <title>The Maritime Sentry: Sen. Ron Johnson: Weekly Report from ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Johnson Comments on Second Quarter GDP Report The miserable growth rates we are experiencing should not come as a surprise to anyone. Until consumers and job creators see real leadership in Washington that ...</excerpt>
+          <fti-names>'anyon':32 'come':27 'comment':12 'consum':34 'creator':37 'dr':44 'experienc':24 'gdp':16 'growth':20 'job':36 'johnson':6,11 'leadership':40 'maritim':2 'miser':19 'quarter':15 'rate':21 'real':39 'report':8,17 'ron':5 'second':14 'see':38 'sen':4 'senat':10 'sentri':3 'surpris':30 'washington':42 'week':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.themaritimesentry.com/2012/07/sen-ron-johnson-weekly-report-from_27.html&amp;sa=U&amp;ei=IIEWUPHxJIGg9QTt3IBg&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNGkirwRpLSpDn4IzbOskmuHdvw_mg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952063</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:42:16-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part event at GOP campaign headquarters in Waukesha.</excerpt>
+          <fti-names>'also':17 'campaign':24 'chairman':14 'committe':13 'congressman':4 'event':21 'gop':23 'headquart':25 'johnson':3 'maley':29 'mark':28 'nation':12 'part':20 'paul':5 'priebus':16 'ralli':8 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'take':19 'waukesha':10,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://menomoneefalls.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-rally-in-waukesha-county-sunday&amp;sa=U&amp;ei=IIEWUPHxJIGg9QTt3IBg&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNEk9Dos_-JEveLjDpc0Da__9ZOYog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952057</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:42:14-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part in rally at GOP campaign headquarters on Pearl Street.</excerpt>
+          <fti-names>'also':17 'campaign':25 'chairman':14 'committe':13 'congressman':4 'gop':24 'headquart':26 'johnson':3 'maley':31 'mark':30 'nation':12 'part':20 'paul':5 'pearl':28 'priebus':16 'ralli':8,22 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'street':29 'take':19 'waukesha':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waukesha.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-visit-waukesha-sunday&amp;sa=U&amp;ei=IIEWUPHxJIGg9QTt3IBg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFu4fe3XcMYhT3ZZEX8bbVb5x-XPQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952055</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:03-04:00</created-at>
+          <title>The Maritime Sentry: Sen. Ron Johnson: Weekly Report from ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Johnson Comments on Second Quarter GDP Report The miserable growth rates we are experiencing should not come as a surprise to anyone. Until consumers and job creators see real leadership in Washington that ...</excerpt>
+          <fti-names>'anyon':32 'come':27 'comment':12 'consum':34 'creator':37 'dr':44 'experienc':24 'gdp':16 'growth':20 'job':36 'johnson':6,11 'leadership':40 'maritim':2 'miser':19 'quarter':15 'rate':21 'real':39 'report':8,17 'ron':5 'second':14 'see':38 'sen':4 'senat':10 'sentri':3 'surpris':30 'washington':42 'week':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.themaritimesentry.com/2012/07/sen-ron-johnson-weekly-report-from_27.html&amp;sa=U&amp;ei=B_wUUPmJGsqa0QGpyoGACg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFEq0n36QXw2I4wbt549aoMxHvVHA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932065</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:01-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part event at GOP campaign headquarters in Waukesha.</excerpt>
+          <fti-names>'also':17 'campaign':24 'chairman':14 'committe':13 'congressman':4 'event':21 'gop':23 'headquart':25 'johnson':3 'maley':29 'mark':28 'nation':12 'part':20 'paul':5 'priebus':16 'ralli':8 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'take':19 'waukesha':10,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://menomoneefalls.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-rally-in-waukesha-county-sunday&amp;sa=U&amp;ei=B_wUUPmJGsqa0QGpyoGACg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNHWFDqRk09JCRI-gK2EFvpphWpvgA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932060</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:01:59-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part in rally at GOP campaign headquarters on Pearl Street.</excerpt>
+          <fti-names>'also':17 'campaign':25 'chairman':14 'committe':13 'congressman':4 'gop':24 'headquart':26 'johnson':3 'maley':31 'mark':30 'nation':12 'part':20 'paul':5 'pearl':28 'priebus':16 'ralli':8,22 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'street':29 'take':19 'waukesha':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waukesha.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-visit-waukesha-sunday&amp;sa=U&amp;ei=B_wUUPmJGsqa0QGpyoGACg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNGJdYzQtyd2eK9O5etsawoekG9jCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932058</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412496</commentariable-id>
+          <created-at type="datetime">2012-07-28T00:41:48-04:00</created-at>
+          <title>The Maritime Sentry: Sen. Ron Johnson: Weekly Report from ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Johnson Comments on Second Quarter GDP Report The miserable growth rates we are experiencing should not come as a surprise to anyone. Until consumers and job creators see real leadership in Washington that ...</excerpt>
+          <fti-names>'anyon':32 'come':27 'comment':12 'consum':34 'creator':37 'dr':44 'experienc':24 'gdp':16 'growth':20 'job':36 'johnson':6,11 'leadership':40 'maritim':2 'miser':19 'quarter':15 'rate':21 'real':39 'report':8,17 'ron':5 'second':14 'see':38 'sen':4 'senat':10 'sentri':3 'surpris':30 'washington':42 'week':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.themaritimesentry.com/2012/07/sen-ron-johnson-weekly-report-from_27.html&amp;sa=U&amp;ei=gW0TUIKCMaje0QGYzICwCQ&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFEpH4kQUrBXRMFHYd6ljOx7U-VZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16925351</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">8665</page-views-count>
+      <unaccented-name>Ron Johnson</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

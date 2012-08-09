@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.7943925233645</party-votes-percentage>
+        <abstains-percentage type="float">0.407213496218732</abstains-percentage>
+        <votes-most-often-with-id type="integer">412256</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">7</abstains>
+        <cosponsored-bills type="integer">220</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412464</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1640</votes-republican-position>
+      <blog-article-count type="integer">2583</blog-article-count>
+      <fax>202-226-1463</fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">22</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.7943925233645</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Lankford</lastname>
+      <congress-office>509 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>James</firstname>
+      <website>http://lankford.house.gov/</website>
+      <birthday type="date">1968-03-04</birthday>
+      <bioguide-id>L000575</bioguide-id>
+      <person-id type="integer">412464</person-id>
+      <phone>202-225-2132</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">366</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:21-04:00</created-at>
+          <title>Lawmakers urge faster approval of LNG exports</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...via pipeline now have a closer commodity at hand,&#8221; said the 44 lawmakers, led by Rep. Gene Green, D-Houston, and Rep. James Lankford, R-Okla. &#8220;As such, without the ability to market to international customers, this could have a severe impact on prod</excerpt>
+          <fti-names>'44':19 'abil':40 'antonio':55 'approv':4 'closer':13 'commod':14 'could':47 'custom':45 'd':27 'd-houston':26 'export':7 'express':56 'faster':3 'gene':24 'green':25 'hand':16 'houston':28 'impact':51 'intern':44 'jame':31 'lankford':32 'lawmak':1,20 'led':21 'lng':6 'market':42 'okla':35 'pipelin':9 'prod':53 'r':34 'r-okla':33 'rep':23,30 'said':17 'san':54 'sever':50 'urg':2 'via':8 'without':38</fti-names>
+          <source-url>http://www.mysanantonio.com/</source-url>
+          <url>http://www.mysanantonio.com/business/article/Lawmakers-urge-faster-approval-of-LNG-exports-3770145.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973466</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Antonio Express</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:24:44-04:00</created-at>
+          <title>Chick-fil-A rallying point for conservative pols</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Tim Scott and the staff of the South Carolina Republican party similarly shared their Chick-fil-A meals online. Republican Rep. James Lankford of Oklahoma also tweeted his Chick-fil-A meal, and Rep. Michele Bachmann, R-Minn., was spotted outside one of </excerpt>
+          <fti-names>'10connects.com':56 'also':36 'bachmann':47 'carolina':18 'chick':2,25,40 'chick-fil-a':1,24,39 'conserv':8 'fil':3,26,41 'jame':32 'lankford':33 'meal':28,43 'michel':46 'minn':50 'oklahoma':35 'one':54 'onlin':29 'outsid':53 'parti':20 'point':6 'pol':9 'r':49 'r-minn':48 'ralli':5 'rep':31,45 'republican':19,30 'scott':11 'share':22 'similar':21 'south':17 'spot':52 'staff':14 'tim':10 'tweet':37</fti-names>
+          <source-url>http://www.tampabays10.com/</source-url>
+          <url>http://www.wtsp.com/news/local/story.aspx?storyid=266485</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970728</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>10Connects.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:09:00-04:00</created-at>
+          <title>Tax codes in Congress: Cuts, reforms and extensions</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The GOP also plans on calling for an expedited process to do a major reform of the tax code. Congressman James Lankford (R-Oklahoma) told the news to American Family Radio's Today's Issues program last Thursday. &quot;What we're bringing to the floor in the ...</excerpt>
+          <fti-names>'also':11 'american':38 'bring':51 'call':14 'code':2,27 'congress':4 'congressman':28 'cut':5 'expedit':17 'extens':8 'famili':39 'floor':54 'gop':10 'issu':44 'jame':29 'lankford':30 'last':46 'major':22 'news':36 'oklahoma':33 'onenewsnow':57 'plan':12 'process':18 'program':45 'r':32 'r-oklahoma':31 'radio':40 're':50 'reform':6,23 'tax':1,26 'thursday':47 'today':42 'told':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.onenewsnow.com/Politics/Default.aspx?id=1639718</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T10:52:54-04:00</date>
+          <id type="integer">16960961</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>OneNewsNow</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:15:25-04:00</created-at>
+          <title>GOP Leadership Unwilling To Fight Obama Contraception Rule</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Some of the rank and file Republican members of Congress, including Representative James Lankford (R-OK), want more attention on the ruling. They plan to make a statement on August 1, but unless their leadership mans up and decides this is worth ...</excerpt>
+          <fti-names>'1':40 'attent':28 'august':39 'congress':18 'contracept':7 'decid':48 'fight':5 'file':14 'gop':1 'includ':19 'jame':21 'lankford':22 'leadership':2,44 'make':35 'man':45 'member':16 'obama':6 'ok':25 'plan':33 'r':24 'r-ok':23 'rank':12 'repres':20 'republican':15 'rule':8,31 'salon':52 'statement':37 'unless':42 'unwil':3 'want':26 'worth':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://open.salon.com/blog/political_realities/2012/07/29/gop_leadership_unwilling_to_fight_obama_contraception_rule</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T21:16:51-04:00</date>
+          <id type="integer">16948310</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:09:01-04:00</created-at>
+          <title>Ruling surprises mother of convicted Army officer from Edmond</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. James Lankford, R-Oklahoma City, said: &#8220;Vicki and Scott Behenna have demonstrated inspiring levels of love, courage and tenacious advocacy on behalf of their son Michael throughout this long process, as they should. &#8220;Throughout this challenging ..</excerpt>
+          <fti-names>'advocaci':31 'armi':6 'behalf':33 'behenna':21 'challeng':47 'citi':16 'convict':5 'courag':28 'daili':48 'demonstr':23 'edmond':9 'inspir':24 'jame':11 'lankford':12 'level':25 'long':40 'love':27 'michael':37 'mother':3 'offic':7 'oklahoma':15 'oklahoman':49 'process':41 'r':14 'r-oklahoma':13 'rep':10 'rule':1 'said':17 'scott':20 'son':36 'surpris':2 'tenaci':30 'throughout':38,45 'vicki':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://newsok.com/ruling-surprises-mother-of-convicted-army-officer-from-edmond/article/3696343</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T23:48:22-04:00</date>
+          <id type="integer">16960962</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Oklahoman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:23:17-04:00</created-at>
+          <title>GOP may let contraception rule take effect without a fight</title>
+          <contains-term>republican</contains-term>
+          <excerpt>But the meeting was described as just a listening session, and the lawmakers didn&#8217;t get any commitments. Rep. James Lankford (R-Okla.) and several other Republicans told leadership that they want to make a statement against the policy. They&#8217;ll also ...</excerpt>
+          <fti-names>'also':53 'commit':28 'contracept':4 'describ':15 'didn':24 'effect':7 'fight':10 'get':26 'gop':1 'jame':30 'lankford':31 'lawmak':23 'leadership':40 'let':3 'listen':19 'll':52 'make':45 'may':2 'meet':13 'okla':34 'polici':50 'politico.com':54 'r':33 'r-okla':32 'rep':29 'republican':38 'rule':5 'session':20 'sever':36 'statement':47 'take':6 'told':39 'want':43 'without':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/news/stories/0712/79063.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T20:57:45-04:00</date>
+          <id type="integer">16930135</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:38-04:00</created-at>
+          <title>GOP plan would put rules to prevent combustible dust blasts on hold</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;The workers in this country have a right to rely on the law to protect them.&#8221; Rep. James Lankford, R-Okla., said the GOP bill allowed emergency health and safety rules. In any case, he said, the proposed combustible dust rules are too broad and costly</excerpt>
+          <fti-names>'allow':39 'bill':38 'blast':10 'broad':57 'case':47 'combust':8,52 'cost':59 'countri':17 'dust':9,53 'emerg':40 'gop':1,37 'health':41 'hold':12 'indianapoli':60 'jame':30 'lankford':31 'law':25 'okla':34 'plan':2 'prevent':7 'propos':51 'protect':27 'put':4 'r':33 'r-okla':32 'reli':22 'rep':29 'right':20 'rule':5,44,54 'safeti':43 'said':35,49 'star':61 'worker':14 'would':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.indystar.com/article/B2/20120726/NEWS01/307260091/GOP-plan-would-put-rules-prevent-combustible-dust-blasts-hold?odyssey=nav|head</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:00:14-04:00</date>
+          <id type="integer">16922153</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Indianapolis Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:15:22-04:00</created-at>
+          <title>GOP's contraception fight fizzles</title>
+          <contains-term>republican</contains-term>
+          <excerpt>But the meeting was described as just a listening session, and the lawmakers didn't get any commitments. Rep. James Lankford (R-Okla.) and several other Republicans told leadership that they want to make a statement against the policy.</excerpt>
+          <fti-names>'commit':23 'contracept':3 'daili':47 'describ':10 'didn':19 'fight':4 'fizzl':5 'get':21 'gop':1 'jame':25 'lankford':26 'lawmak':18 'leadership':35 'listen':14 'make':40 'meet':8 'news':48 'okla':29 'philadelphia':46 'polici':45 'r':28 'r-okla':27 'rep':24 'republican':33 'session':15 'sever':31 'statement':42 'told':34 'want':38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/politics/politico/RSS_POLITICO20120727_GOP_s_contraception_fight_fizzles.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T19:54:31-04:00</date>
+          <id type="integer">16948309</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:53-04:00</created-at>
+          <title>Medicare Advantage program payments criticized as political ploy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It is, in fact, the president using $8.3 billion of unappropriated funds to buy an election&quot; that is the issue. Rep. James Lankford, R-Okla., who is a member of the committee, also questioned the administration's decision to spend billions on a ...</excerpt>
+          <fti-names>'8.3':16 'administr':45 'advantag':2 'also':42 'billion':17,50 'buy':22 'committe':41 'critic':5 'decis':47 'elect':24 'fact':12 'fund':20 'issu':28 'jame':30 'lankford':31 'medicar':1 'member':38 'okla':34 'payment':4 'ploy':8 'polit':7 'presid':14 'program':3 'question':43 'r':33 'r-okla':32 'rep':29 'spend':49 'tulsa':53 'unappropri':19 'use':15 'world':54</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120726_16_A8_CUTLIN395146&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T02:29:24-04:00</date>
+          <id type="integer">16890837</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:58-04:00</created-at>
+          <title>Medicare Advantage program payments criticized as political ploy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...to succeed. It is, in fact, the president using $8.3 billion of unappropriated funds to buy an election&quot; that is the issue. Rep. James Lankford, R-Okla., who is a member of the committee, also questioned the administration's decision to spend billions o</excerpt>
+          <fti-names>'8.3':18 'administr':47 'advantag':2 'also':44 'billion':19,52 'buy':24 'committe':43 'critic':5 'decis':49 'elect':26 'fact':14 'fund':22 'issu':30 'jame':32 'lankford':33 'medicar':1 'member':40 'o':53 'okla':36 'payment':4 'ploy':8 'polit':7 'presid':16 'program':3 'question':45 'r':35 'r-okla':34 'rep':31 'spend':51 'succeed':10 'tulsa':54 'unappropri':21 'use':17 'world':55</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120726_16_A8_CUTLIN395146&amp;rss_lnk=11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890840</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. James Lankford [R, OK-5]</name>
+      <total-session-votes type="integer">1712</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:14:33-04:00</created-at>
+          <title>Another Fiery Hate Crime, Another Christian Congressman Remains ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Category: U.S., U.S.Chick Fil A, Chick Fil AJon Ferguson, Jon FergusonOklahoma antigay hate crime, Oklahoma antigay hate crimeOklahoma City bombing, Oklahoma City bombingRep James Lankford, Rep James Lankford ...</excerpt>
+          <fti-names>'ajon':16 'anoth':1,5 'antigay':20,24 'bomb':28 'bombingrep':31 'categori':9 'chick':14 'christian':6 'citi':27,30 'congressman':7 'crime':4,22 'crimeoklahoma':26 'ferguson':17 'fergusonoklahoma':19 'fieri':2 'fil':12,15 'hate':3,21,25 'jame':32,35 'jon':18 'lankford':33,36 'lgbt':37 'oklahoma':23,29 'pinkbananaworld.com':40 'pov':38 'remain':8 'rep':34 'u.s':10 'u.s.chick':11 'via':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pinkbananaworld.com/content-detail.cfm%3FID%3D556412&amp;sa=U&amp;ei=UjQWUKK2JMWq0AHGyoGYDg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEu1NP1jPS_zfc1ZqJoFeXB-wd5Vw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16948299</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LGBT | POV via PinkBananaWorld.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:21:33-04:00</created-at>
+          <title>Another Fiery Hate Crime, Another Christian Congressman Remains ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Category: U.S., U.S.Chick Fil A, Chick Fil AJon Ferguson, Jon FergusonOklahoma antigay hate crime, Oklahoma antigay hate crimeOklahoma City bombing, Oklahoma City bombingRep James Lankford, Rep James Lankford ...</excerpt>
+          <fti-names>'ajon':16 'anoth':1,5 'antigay':20,24 'bomb':28 'bombingrep':31 'categori':9 'chick':14 'christian':6 'citi':27,30 'congressman':7 'crime':4,22 'crimeoklahoma':26 'ferguson':17 'fergusonoklahoma':19 'fieri':2 'fil':12,15 'hate':3,21,25 'jame':32,35 'jon':18 'lankford':33,36 'lgbt':37 'oklahoma':23,29 'pinkbananaworld.com':40 'pov':38 'remain':8 'rep':34 'u.s':10 'u.s.chick':11 'via':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pinkbananaworld.com/content-detail.cfm%3FID%3D556412&amp;sa=U&amp;ei=W8gUUKKnDePl0QH1noCICQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNG_Yvkxls0NcL7MTRyOcTzuh3_BbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16930120</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LGBT | POV via PinkBananaWorld.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:27-04:00</created-at>
+          <title>Democrats win top placement on November ballot | Election 2010</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>6 ballot, ahead of Robert T. Murphy, of Norman. The independents will be listed after Democrat Tom Guild, of Edmond, and U.S. Rep. James Lankford, R-Oklahoma City. Disclaimer: The opinions expressed here are the views ...</excerpt>
+          <fti-names>'2010':9 '6':10 'ahead':12 'ballot':7,11 'citi':38 'democrat':1,25 'disclaim':39 'edmond':29 'elect':8 'express':42 'guild':27 'independ':20 'jame':33 'lankford':34 'list':23 'murphi':16 'norman':18 'novemb':6 'oklahoma':37 'opinion':41 'placement':4 'postingaccount':47 'r':36 'r-oklahoma':35 'rep':32 'robert':14 'tom':26 'top':3 'u.s':31 'view':46 'win':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://election2010.illumen.org/latest-news/democrats-win-top-placement-on-november-ballot&amp;sa=U&amp;ei=IVgTUMvzEKjv0gGO54DgCQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHTE_okualx3RR6PBnpnZkeC-yvaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922145</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>postingAccount</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:22:03-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jeff Landry (LA Republican), No. Rep. James Lankford (OK Republican), No. Rep. Thomas Latham (IA Republican), No. Rep. Steven Latourette (OH Republican), No. Rep. Robert Latta (OH Republican), No. Rep. Jerry Lewis (CA Republican) ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'ca':42 'drill':9 'hr.6168':1 'ia':24 'jame':16 'jeff':10 'jerri':40 'la':12 'landri':11 'lankford':17 'latham':23 'latourett':29 'latta':35 'lewi':41 'obama':3 'offshor':8 'oh':30,36 'ok':18 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,31,37,43 'robert':34 'steven':28 'thoma':22 'www.votetocracy.com':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=W8gUUKKnDePl0QH1noCICQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNGtCcZwgEGYktZSmC6fxuqT4GKQug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930131</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:25-04:00</created-at>
+          <title>Another Fiery Hate Crime, Another Christian Congressman Remains ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Category: U.S., U.S.Chick Fil A, Chick Fil AJon Ferguson, Jon FergusonOklahoma antigay hate crime, Oklahoma antigay hate crimeOklahoma City bombing, Oklahoma City bombingRep James Lankford, Rep James Lankford ...</excerpt>
+          <fti-names>'ajon':16 'anoth':1,5 'antigay':20,24 'bomb':28 'bombingrep':31 'categori':9 'chick':14 'christian':6 'citi':27,30 'congressman':7 'crime':4,22 'crimeoklahoma':26 'ferguson':17 'fergusonoklahoma':19 'fieri':2 'fil':12,15 'hate':3,21,25 'jame':32,35 'jon':18 'lankford':33,36 'lgbt':37 'oklahoma':23,29 'pinkbananaworld.com':40 'pov':38 'remain':8 'rep':34 'u.s':10 'u.s.chick':11 'via':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pinkbananaworld.com/content-detail.cfm%3FID%3D556412&amp;sa=U&amp;ei=IVgTUMvzEKjv0gGO54DgCQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNF7-uSmb7KenyjxjBpdiPcmRMrkYg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16922140</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LGBT | POV via PinkBananaWorld.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:24:17-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=X7gQUMv4GYSk8ATYhIFA&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNH2ZsocwrzFH8yYfn2-avXvP8jI9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859610</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:32:40-04:00</created-at>
+          <title>Taking On Taxpayer Funded Human Trafficking</title>
+          <contains-term>senate</contains-term>
+          <excerpt>James Lankford (R-Okla.) and Rep. Gerry Connolly (D-Va.), and the Senate bill was sponsored by Sen. Richard Blumenthal (D-Conn.). We&amp;#39;re pleased to see that the House and Senate are taking action to prevent U.S ...</excerpt>
+          <fti-names>'action':44 'bill':22 'blumenth':28 'conn':31 'connolli':15 'd':17,30 'd-conn':29 'd-va':16 'fund':4 'gerri':14 'govern':50 'hous':39 'human':5 'jame':7 'lankford':8 'okla':11 'oversight':51 'pleas':34 'prevent':46 'project':48 'r':10 'r-okla':9 're':33 'rep':13 'richard':27 'see':36 'sen':26 'senat':21,41 'sponsor':24 'take':1,43 'taxpay':3 'traffick':6 'u.s':47 'va':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pogoblog.typepad.com/pogo/2012/07/taking-on-taxpayer-funded-human-trafficking.html&amp;sa=U&amp;ei=1GgPUO_kNsfe2AX5poCYDw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNEmmHsALFKBDeb9F2fd5iv7K6iNzw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16850323</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Project On Government Oversight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:08:53-04:00</created-at>
+          <title>Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>State of the Union &amp;middot; Misc. Saturday Address &amp;middot; World &amp;middot; &#12296; &#12297;. Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal Red Tape to Help Job Creators&#8221; &#8211; 7/20/12. July 21, 2012 &#183; Unedited Politics. Share this: Facebook &amp;middo</excerpt>
+          <fti-names>'2012':32 '21':31 '7/20/12':29 'address':14 'congressman':2,17 'creator':28 'facebook':37 'feder':7,22 'help':26 'jame':3,18 'job':27 'juli':30 'lankford':4,19 'middo':38 'misc':12 'oklahoma':1,16 'polit':34,40 'red':23 'reduc':6,21 'saturday':13 'share':35 'state':8 'tape':24 'unedit':33,39 'union':11 'video':5,20 'world':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/21/oklahoma-congressman-james-lankford-video-reducing-federal-red-tape-to-help-job-creators-72112/&amp;sa=U&amp;ei=REwXUNyeIuno0QHrj4GYCA&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNFg6OEu31FZ7pFxoFakruyHKQ2WUw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16960951</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:14:32-04:00</created-at>
+          <title>Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>State of the Union &amp;middot; Misc. Saturday Address &amp;middot; World &amp;middot; &#12296; &#12297;. Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal Red Tape to Help Job Creators&#8221; &#8211; 7/20/12. July 21, 2012 &#183; Unedited Politics. Share this: Facebook &amp;middo</excerpt>
+          <fti-names>'2012':32 '21':31 '7/20/12':29 'address':14 'congressman':2,17 'creator':28 'facebook':37 'feder':7,22 'help':26 'jame':3,18 'job':27 'juli':30 'lankford':4,19 'middo':38 'misc':12 'oklahoma':1,16 'polit':34,40 'red':23 'reduc':6,21 'saturday':13 'share':35 'state':8 'tape':24 'unedit':33,39 'union':11 'video':5,20 'world':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/21/oklahoma-congressman-james-lankford-video-reducing-federal-red-tape-to-help-job-creators-72112/&amp;sa=U&amp;ei=UjQWUKK2JMWq0AHGyoGYDg&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHxbiYr2MbIPztPUQeosvwQGm7H8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16948298</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412464</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:21:49-04:00</created-at>
+          <title>Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>State of the Union &amp;middot; Misc. Saturday Address &amp;middot; World &amp;middot; &#12296; &#12297;. Oklahoma Congressman James Lankford Video: &#8220;Reducing Federal Red Tape to Help Job Creators&#8221; &#8211; 7/20/12. July 21, 2012 &#183; Unedited Politics. Share this: Facebook &amp;middo</excerpt>
+          <fti-names>'2012':32 '21':31 '7/20/12':29 'address':14 'congressman':2,17 'creator':28 'facebook':37 'feder':7,22 'help':26 'jame':3,18 'job':27 'juli':30 'lankford':4,19 'middo':38 'misc':12 'oklahoma':1,16 'polit':34,40 'red':23 'reduc':6,21 'saturday':13 'share':35 'state':8 'tape':24 'unedit':33,39 'union':11 'video':5,20 'world':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/21/oklahoma-congressman-james-lankford-video-reducing-federal-red-tape-to-help-job-creators-72112/&amp;sa=U&amp;ei=W8gUUKKnDePl0QH1noCICQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHuvyo-XuJRThirMaLu3cs-HvIhTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16930122</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5299</page-views-count>
+      <youtube-id>RepLankford</youtube-id>
+      <unaccented-name>James Lankford</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

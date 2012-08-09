@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.7967377666248</party-votes-percentage>
+        <abstains-percentage type="float">7.2716695753345</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">138</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">146</cosponsored-bills-passed-rank>
+        <abstains type="integer">125</abstains>
+        <cosponsored-bills type="integer">189</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">67</party-votes-percentage-rank>
+        <sponsored-bills type="integer">18</sponsored-bills>
+        <votes-least-often-with-id type="integer">412473</votes-least-often-with-id>
+        <person-id type="integer">400291</person-id>
+        <cosponsored-bills-rank type="integer">374</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">255</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">319</votes-republican-position>
+      <fax>202-225-8112</fax>
+      <blog-article-count type="integer">5774</blog-article-count>
+      <user-approval type="float">2.27777777777778</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">110</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/neal/write_neal.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.7967377666248</with-party-percentage>
+      <lastname>Neal</lastname>
+      <middlename>E.</middlename>
+      <bioguide-id>N000015</bioguide-id>
+      <congress-office>2208 Rayburn House Office Building</congress-office>
+      <firstname>Richard</firstname>
+      <website>http://house.gov/neal/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1949-02-14</birthday>
+      <person-id type="integer">400291</person-id>
+      <phone>202-225-5601</phone>
+      <religion>Roman Catholic</religion>
+      <votes-democratic-position type="integer">1527</votes-democratic-position>
+      <metavid-id>Richard_E._Neal</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:56:41-04:00</created-at>
+          <title>First lady raises campaign funds at events on visit to western Massachusetts</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the $1,000-a-plate event were Massachusetts Gov. Deval Patrick, Connecticut Gov. Dannel P. Malloy, Springfield's U.S. Rep. Richard Neal and Mayor Domenic Sarno. The first lady said that while families are still struggling in a difficult economy, the cou</excerpt>
+          <fti-names>'000':15 '1':14 'a-plat':16 'campaign':4 'connecticut':25 'cou':55 'dannel':27 'deval':23 'difficult':52 'domen':38 'economi':53 'event':7,19 'famili':46 'first':1,41 'fund':5 'gov':22,26 'herald':60 'ladi':2,42 'main':58 'malloy':29 'massachusett':12,21 'mayor':37 'neal':35 'p':28 'patrick':24 'plate':18 'portland':57 'press':59 'rais':3 'rep':33 'richard':34 'said':43 'sarno':39 'springfield':30 'still':48 'struggl':49 'u.s':32 'visit':9 'western':11</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=561087&amp;44=165013366&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2Ffirst-lady-raises-campaign-funds-at-events-on-visit-to-western-mass__2012-08-05.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972226</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:56:41-04:00</created-at>
+          <title>Elizabeth Warren to meet with Rev. Talbert Swan in Springfield, visit Westfield, Pittsfield during two-day campaign swing in Western Massachusetts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Billed as an ice cream social, the gathering will take place at the campaign headquarters she shares with Democratic U.S. Rep. Richard Neal, who is running to represent the newly drawn 1st Congressional District against Berkshire Democrats Andrea Nucifo</excerpt>
+          <fti-names>'1st':54 'andrea':60 'berkshir':58 'bill':23 'campaign':18,36 'congression':55 'cream':27 'day':17 'democrat':41,59 'district':56 'drawn':53 'elizabeth':1 'gather':30 'headquart':37 'ice':26 'massachusett':22 'masslive.com':62 'meet':4 'neal':45 'newli':52 'nucifo':61 'pittsfield':13 'place':33 'rep':43 'repres':50 'rev':6 'richard':44 'run':48 'share':39 'social':28 'springfield':10 'swan':8 'swing':19 'take':32 'talbert':7 'two':16 'two-day':15 'u.s':42 'visit':11 'warren':2 'western':21 'westfield':12</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/elizabeth_warren_to_meet_with.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972225</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:56:38-04:00</created-at>
+          <title>Rep. Richard Neal labels Mitt Romney's tax plan 'deliberately vague'</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...against an independent report that concluded his policy proposal would favor big tax cuts for the wealthy. U.S. Rep. Richard Neal, a Springfield Democrat, called Romney&#8217;s tax plan &#8220;deliberately vague,&#8221; suggesting the former Massachusetts governor </excerpt>
+          <fti-names>'big':23 'boston':48 'call':36 'conclud':17 'cut':25 'deliber':10,41 'democrat':35 'favor':22 'former':45 'governor':47 'herald':49 'independ':14 'label':4 'massachusett':46 'mitt':5 'neal':3,32 'plan':9,40 'polici':19 'propos':20 'rep':1,30 'report':15 'richard':2,31 'romney':6,37 'springfield':34 'suggest':43 'tax':8,24,39 'u.s':29 'vagu':11,42 'wealthi':28 'would':21</fti-names>
+          <source-url>http://www.bostonherald.com/</source-url>
+          <url>http://feedproxy.google.com/~r/bostonherald/news/~3/_ifF2YLEiko/view.bg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972224</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:16-04:00</created-at>
+          <title>Michelle Obama attends western Mass. fundraisers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the $1,000-a-plate event were Massachusetts Gov. Deval Patrick, Connecticut Gov. Dannel P. Malloy, Springfield's U.S. Rep. Richard Neal and Mayor Domenic Sarno. The first lady said that while families are still struggling in a difficult economy, the cou</excerpt>
+          <fti-names>'000':9 '1':8 'a-plat':10 'attend':3 'boston.com':50 'connecticut':19 'cou':49 'dannel':21 'deval':17 'difficult':46 'domen':32 'economi':47 'event':13 'famili':40 'first':35 'fundrais':6 'gov':16,20 'ladi':36 'malloy':23 'mass':5 'massachusett':15 'mayor':31 'michell':1 'neal':29 'obama':2 'p':22 'patrick':18 'plate':12 'rep':27 'richard':28 'said':37 'sarno':33 'springfield':24 'still':42 'struggl':43 'u.s':26 'western':4</fti-names>
+          <source-url>http://www.boston.com/</source-url>
+          <url>http://feeds.boston.com/click.phdo?i=4ed7173f899578f60593ba5a23e995fa</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971776</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:16-04:00</created-at>
+          <title>Why I support Andrea Nuciforo</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...his time, money and energy to assure its success. His service stands in sharp contrast to the claims of his opponent, Richard Neal of Springfield, who has scrambled to take credit for the Colonial's success. While speaking on the floor of the U.S. Congr</excerpt>
+          <fti-names>'andrea':4 'assur':12 'berkshir':51 'claim':23 'coloni':39 'congr':50 'contrast':20 'credit':36 'eagl':52 'energi':10 'floor':46 'money':8 'neal':28 'nuciforo':5 'onlin':53 'oppon':26 'richard':27 'scrambl':33 'servic':16 'sharp':19 'speak':43 'springfield':30 'stand':17 'success':14,41 'support':3 'take':35 'time':7 'u.s':49</fti-names>
+          <source-url>http://www.berkshireeagle.com/</source-url>
+          <url>http://www.berkshireeagle.com/letters/ci_21229425/why-i-support-andrea-nuciforo?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971775</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Berkshire Eagle Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:13:09-04:00</created-at>
+          <title>Rep. Richard Neal jumps into charity basketball challenge between Sen. Scott Brown and Rev. Talbert Swan</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in the November election. Although it hasn't been revealed which team he will be playing for, longtime Democratic U.S. Rep. Richard Neal has dribbled his way into a charity basketball challenge initially billed as a showdown between Republican U.S. Sen.</excerpt>
+          <fti-names>'although':21 'basketbal':7,47 'bill':50 'brown':12 'challeng':8,48 'chariti':6,46 'democrat':35 'dribbl':41 'elect':20 'hasn':23 'initi':49 'jump':4 'longtim':34 'masslive.com':58 'neal':3,39 'novemb':19 'play':32 'rep':1,37 'republican':55 'rev':14 'reveal':26 'richard':2,38 'scott':11 'sen':10,57 'showdown':53 'swan':16 'talbert':15 'team':28 'u.s':36,56 'way':43</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/rep_richard_neal_jumps_into_ch.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970831</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:13:09-04:00</created-at>
+          <title>1st Congressional District live chat recap: U.S. Rep. Richard Neal, candidates Andrea Nuciforo and Bill Shein answer reader questions</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...activist and writer Bill Shein, U.S. Rep. Richard Neal and former State Sen. Andrea Nuciforo. These chats with U.S. Rep. Richard Neal, who represents the current 2nd District; former State Sen. Andrea Nuciforo Jr. and political activist and writer Bill </excerpt>
+          <fti-names>'1st':1 '2nd':46 'activist':20,56 'andrea':12,33,51 'answer':17 'bill':15,23,59 'candid':11 'chat':5,36 'congression':2 'current':45 'district':3,47 'former':30,48 'jr':53 'live':4 'masslive.com':60 'neal':10,28,41 'nuciforo':13,34,52 'polit':55 'question':19 'reader':18 'recap':6 'rep':8,26,39 'repres':43 'richard':9,27,40 'sen':32,50 'shein':16,24 'state':31,49 'u.s':7,25,38 'writer':22,58</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/1st_congressional_district_liv.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970830</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:12:51-04:00</created-at>
+          <title>U.S. Rep. Richard Neal backs Obama campaign's onslaught on Mitt Romney's tax reform plan</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Barack Obama greets members of the Irish contingent, from left, U.S. Rep. Richard E. Neal, D-MA, House Speaker Nancy Pilosi, Irish Taoisech Brian Cowen, and Vice President Joe Biden on Capitol Hill in this 2009 file photo. Democratic U.S. Senate hopeful</excerpt>
+          <fti-names>'2009':53 'back':5 'barack':17 'biden':47 'brian':41 'campaign':7 'capitol':49 'conting':24 'cowen':42 'd':33 'd-ma':32 'democrat':56 'e':30 'file':54 'greet':19 'hill':50 'hope':59 'hous':35 'irish':23,39 'joe':46 'left':26 'ma':34 'masslive.com':60 'member':20 'mitt':11 'nanci':37 'neal':4,31 'obama':6,18 'onslaught':9 'photo':55 'pilosi':38 'plan':16 'presid':45 'reform':15 'rep':2,28 'richard':3,29 'romney':12 'senat':58 'speaker':36 'taoisech':40 'tax':14 'u.s':1,27,57 'vice':44</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/rep_richard_neal_backs_obama_c.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970829</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:51:54-04:00</created-at>
+          <title>Underwater Homeowners Face a Tax Time Bomb</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to Barney [Frank] that we create an exemption for principal reductions,&#8221; Miller said. &#8220;Barney said to me, &#8216;Let&#8217;s go talk to Richie,&#8217;&#8221; meaning Richard Neal, the chairman of the tax-writing subcommittee in the House. Neal agreed to help, and t</excerpt>
+          <fti-names>'agre':46 'alternet.org':51 'barney':9,21 'bomb':7 'chairman':35 'creat':13 'exempt':15 'face':3 'frank':10 'go':27 'help':48 'homeown':2 'hous':44 'let':25 'mean':31 'miller':19 'neal':33,45 'princip':17 'reduct':18 'richard':32 'richi':30 'said':20,22 'subcommitte':41 'talk':28 'tax':5,39 'tax-writ':38 'time':6 'underwat':1 'write':40</fti-names>
+          <source-url>http://www.alternet.org/</source-url>
+          <url>http://feeds.feedblitz.com/~/32573879/0/alternet_all~Underwater-Homeowners-Face-a-Tax-Time-Bomb</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16969856</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AlterNet.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:51:55-04:00</created-at>
+          <title>Chat live with U.S. Rep. Richard Neal, running for election to 1st Congressional District</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the tornado that hit Western Massachusetts, held at the Old First Church in Court Square. Here, Congressman Richard E. Neal speaks during the service. (Republican staff photo by Don Treeger) Politics - MassLive.com stories with the most comments in t</excerpt>
+          <fti-names>'1st':12 'chat':1 'church':27 'comment':52 'congression':13 'congressman':32 'court':29 'district':14 'e':34 'elect':10 'first':26 'held':22 'hit':19 'live':2 'massachusett':21 'masslive.com':47,55 'neal':7,35 'old':25 'photo':42 'polit':46 'rep':5 'republican':40 'richard':6,33 'run':8 'servic':39 'speak':36 'squar':30 'staff':41 'stori':48 'tornado':17 'treeger':45 'u.s':4 'western':20</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/chat_live_with_us_rep_richard.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969857</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Richard Neal [D, MA-2]</name>
+      <total-session-votes type="integer">1594</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:14:35-04:00</created-at>
+          <title>Rep. Richard Neal raises $364000 this quarter, far more than his ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Richard Neal raises $ 364000 this quarter, far more than his Democratic &#8230; MassLive.com. First Congressional District Candidates View full sizeDemocratic U.S. Rep. Richard Neal, Andrea Nuciforo Jr. and Bill Shein are ...</excerpt>
+          <fti-names>'364000':5,16 'admin':43 'andrea':36 'bill':40 'candid':28 'congression':26 'democrat':23 'district':27 'far':8,19 'first':25 'full':30 'jr':38 'masslive.com':24 'neal':3,14,35 'nuciforo':37 'quarter':7,18 'rais':4,15 'rep':1,12,33 'richard':2,13,34 'shein':41 'sizedemocrat':31 'u.s':32 'view':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ma-moc/richard-neal-massachusetts-representative/rep-richard-neal-raises-364000-this-quarter-far-more-than-his-democratic-masslive-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-richard-neal-raises-364000-this-quarter-far-more-than-his-democratic-masslive-com&amp;sa=U&amp;ei=akIWUNHPOcKS0QG20ICQCg&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFQq8cz_9bNGJJW5jEDP951hC9huQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949098</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:14:47-04:00</created-at>
+          <title>This Federal Legislation Will Hurt Floridians - Sunshine State News</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Richard Neal, D-Mass., and Sen. Robert Menendez, D-N.J., are working together on HR 3157 and S 1963, which aim to levy costly tariffs on global insurance companies. These global insurance companies, which ...</excerpt>
+          <fti-names>'1963':32 '3157':29 'aim':34 'compani':42,46 'cost':37 'd':14,21 'd-mass':13 'd-n':20 'feder':2 'floridian':6 'global':40,44 'hr':28 'hurt':5 'insur':41,45 'j':23 'legisl':3 'levi':36 'mass':15 'menendez':19 'n':22 'nanci':48 'neal':12 'news':9 'rep':10 'richard':11 'robert':18 'sen':17 'smith':49 'state':8 'sunshin':7 'tariff':38 'togeth':26 'work':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sunshinestatenews.com/story/federal-legislation-will-hurt-floridians&amp;sa=U&amp;ei=akIWUNHPOcKS0QG20ICQCg&amp;ved=0CDAQmAEwBQ&amp;usg=AFQjCNEWYhfCGrVdkGcj_QKq_CWgi8J-ig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16949108</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nancy Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:14:45-04:00</created-at>
+          <title>Station to Submit Video in Iowa Missing Girls Case - ABC News by ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Transportation Secretary Ray LaHood, Democratic Rep. Richard Neal and Lt.Clicking Here, Salon, http://www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc, Return, http://theseventhlife.com/elgg/blog/view/21108/franchise-  for-putt-putt-</excerpt>
+          <fti-names>'/blog/view/48512/responsiblity-for-franchise-tax-llc,':28 '/elgg/blog/view/21108/franchise-':32 'abc':10 'case':9 'democrat':18 'for-putt-putt':33 'girl':8 'iowa':6 'lahood':17 'lt.clicking':23 'miss':7 'neal':21 'news':11 'pelkobarin':37 'putt':35,36 'ray':16 'rep':19 'return':29 'richard':20 'salon':25 'secretari':15 'station':1 'submit':3 'theseventhlife.com':31 'theseventhlife.com/elgg/blog/view/21108/franchise-':30 'transport':14 'u.s':13 'video':4 'www.alqotr.com':27 'www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/pelkobarin/view_entry/77214&amp;sa=U&amp;ei=akIWUNHPOcKS0QG20ICQCg&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNF3N9SbJ_2Bp-XZrbPCvawMWBDMmg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16949106</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pelkobarin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:33:58-04:00</created-at>
+          <title>Springfield gets $15 million in October snowstorm relief | What is ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Richard Neal mug profile 2012.jpg Richard E. ... The funding from the U.S. Federal Emergency Management Agency and a $170000 technology grant from the U.S. Justice Department were announced Friday by U.S. Rep.</excerpt>
+          <fti-names>'15':3 '170000':29 '2012.jpg':15 'agenc':26 'announc':38 'depart':36 'e':17 'emerg':24 'feder':23 'friday':39 'fund':19 'get':2 'grant':31 'justic':35 'maglec':44 'manag':25 'million':4 'mug':13 'neal':12 'octob':6 'profil':14 'relief':8 'rep':42 'richard':11,16 'snowstorm':7 'springfield':1 'steve':43 'technolog':30 'u.s':22,34,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://about2012.biz/news/springfield-gets-15-million-in-october-snowstorm-relief/&amp;sa=U&amp;ei=SNkUUOamDoH48gST4oDgAw&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNFFCEYoh6YI0LUB286DuKDkQ1l7yQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930545</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Maglecic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:33:56-04:00</created-at>
+          <title>Ask the Candidates: Put your questions to US Rep. Richard Neal ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Ask the Candidates: Put your questions to US Rep. Richard Neal MassLive.com. With Election Day just over 3 months away, The Republican is beginning a series of editorial board meetings with Western Massachusetts&amp;#39; ...</excerpt>
+          <fti-names>'3':29 'admin':45 'ask':1,12 'away':31 'begin':35 'board':40 'candid':3,14 'day':26 'editori':39 'elect':25 'massachusett':44 'masslive.com':23 'meet':41 'month':30 'neal':11,22 'put':4,15 'question':6,17 'rep':9,20 'republican':33 'richard':10,21 'seri':37 'us':8,19 'western':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ma-moc/richard-neal-massachusetts-representative/ask-the-candidates-put-your-questions-to-us-rep-richard-neal-masslive-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dask-the-candidates-put-your-questions-to-us-rep-richard-neal-masslive-com&amp;sa=U&amp;ei=SNkUUOamDoH48gST4oDgAw&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNG48GHGe562hkdcFkzPAAmhJj4rYg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930544</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:33:53-04:00</created-at>
+          <title>This Federal Legislation Will Hurt Floridians - Sunshine State News</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Richard Neal, D-Mass., and Sen. Robert Menendez, D-N.J., are working together on HR 3157 and S 1963, which aim to levy costly tariffs on global insurance companies. These global insurance companies, which ...</excerpt>
+          <fti-names>'1963':32 '3157':29 'aim':34 'compani':42,46 'cost':37 'd':14,21 'd-mass':13 'd-n':20 'feder':2 'floridian':6 'global':40,44 'hr':28 'hurt':5 'insur':41,45 'j':23 'legisl':3 'levi':36 'mass':15 'menendez':19 'n':22 'nanci':48 'neal':12 'news':9 'rep':10 'richard':11 'robert':18 'sen':17 'smith':49 'state':8 'sunshin':7 'tariff':38 'togeth':26 'work':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sunshinestatenews.com/story/federal-legislation-will-hurt-floridians&amp;sa=U&amp;ei=SNkUUOamDoH48gST4oDgAw&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNG0JoGisfNQOL_XToTrpfgoIok0KA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930540</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nancy Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:33:51-04:00</created-at>
+          <title>Station to Submit Video in Iowa Missing Girls Case - ABC News by ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Transportation Secretary Ray LaHood, Democratic Rep. Richard Neal and Lt.Clicking Here, Salon, http://www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc, Return, http://theseventhlife.com/elgg/blog/view/21108/franchise-  for-putt-putt-</excerpt>
+          <fti-names>'/blog/view/48512/responsiblity-for-franchise-tax-llc,':28 '/elgg/blog/view/21108/franchise-':32 'abc':10 'case':9 'democrat':18 'for-putt-putt':33 'girl':8 'iowa':6 'lahood':17 'lt.clicking':23 'miss':7 'neal':21 'news':11 'pelkobarin':37 'putt':35,36 'ray':16 'rep':19 'return':29 'richard':20 'salon':25 'secretari':15 'station':1 'submit':3 'theseventhlife.com':31 'theseventhlife.com/elgg/blog/view/21108/franchise-':30 'transport':14 'u.s':13 'video':4 'www.alqotr.com':27 'www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/pelkobarin/view_entry/77214&amp;sa=U&amp;ei=SNkUUOamDoH48gST4oDgAw&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEIXCtpvI92C1BHAWzErkL5xiyGcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930538</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pelkobarin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:14:48-04:00</created-at>
+          <title>Rangel Introduces &amp;quot;No Excuses&amp;quot; - Congressman Charles B. Rangel</title>
+          <contains-term>congress</contains-term>
+          <excerpt>H.R. 747, The Build America Bond Extension Act of 2011, introduced by Rep. Richard Neal would help fund needed state and local capital projects including schools, transportation infrastructure, public safety facilities and ...</excerpt>
+          <fti-names>'2011':18 '747':10 'act':16 'america':13 'b':7 'bond':14 'build':12 'capit':31 'charl':6 'congressman':5 'excus':4 'extens':15 'facil':39 'fund':26 'h.r':9 'help':25 'includ':33 'infrastructur':36 'introduc':2,19 'local':30 'neal':23 'need':27 'project':32 'public':37 'rangel':1,8 'rangel.house.gov':41 'rep':21 'richard':22 'safeti':38 'school':34 'state':28 'transport':35 'would':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rangel.house.gov/news/press-releases/2012/07/rangel-introduces-no-excuses-legislation-to-spur-job-growth.shtml&amp;sa=U&amp;ei=akIWUNHPOcKS0QG20ICQCg&amp;ved=0CDUQmAEwBg&amp;usg=AFQjCNFs6l4RlsEMP_SUj-LsDHx7GCMJXQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16949109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://rangel.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:21:43-04:00</created-at>
+          <title>Springfield gets $15 million in October snowstorm relief | What is ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Richard Neal mug profile 2012.jpg Richard E. ... The funding from the U.S. Federal Emergency Management Agency and a $170000 technology grant from the U.S. Justice Department were announced Friday by U.S. Rep.</excerpt>
+          <fti-names>'15':3 '170000':29 '2012.jpg':15 'agenc':26 'announc':38 'depart':36 'e':17 'emerg':24 'feder':23 'friday':39 'fund':19 'get':2 'grant':31 'justic':35 'maglec':44 'manag':25 'million':4 'mug':13 'neal':12 'octob':6 'profil':14 'relief':8 'rep':42 'richard':11,16 'snowstorm':7 'springfield':1 'steve':43 'technolog':30 'u.s':22,34,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://about2012.biz/news/springfield-gets-15-million-in-october-snowstorm-relief/&amp;sa=U&amp;ei=xloTUJSzMqPr0gG86ICoCA&amp;ved=0CDAQmAEwBQ&amp;usg=AFQjCNGVRHf3OWSAl-IN-X2XJar1gYxv7g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922802</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Maglecic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400291</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:21:43-04:00</created-at>
+          <title>Station to Submit Video in Iowa Missing Girls Case - ABC News by ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Transportation Secretary Ray LaHood, Democratic Rep. Richard Neal and Lt.Clicking Here, Salon, http://www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc, Return, http://theseventhlife.com/elgg/blog/view/21108/franchise-  for-putt-putt-</excerpt>
+          <fti-names>'/blog/view/48512/responsiblity-for-franchise-tax-llc,':28 '/elgg/blog/view/21108/franchise-':32 'abc':10 'case':9 'democrat':18 'for-putt-putt':33 'girl':8 'iowa':6 'lahood':17 'lt.clicking':23 'miss':7 'neal':21 'news':11 'pelkobarin':37 'putt':35,36 'ray':16 'rep':19 'return':29 'richard':20 'salon':25 'secretari':15 'station':1 'submit':3 'theseventhlife.com':31 'theseventhlife.com/elgg/blog/view/21108/franchise-':30 'transport':14 'u.s':13 'video':4 'www.alqotr.com':27 'www.alqotr.com/blog/view/48512/responsiblity-for-franchise-tax-llc':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/pelkobarin/view_entry/77214&amp;sa=U&amp;ei=xloTUJSzMqPr0gG86ICoCA&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNHjP99D1I_x7u1urGqf_JXLxrdjqg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pelkobarin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20016</page-views-count>
+      <unaccented-name>Richard Neal</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-30T13:58:00-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.3447259870359</party-votes-percentage>
+        <abstains-percentage type="float">1.27981384525887</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">217</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">22</abstains>
+        <cosponsored-bills type="integer">167</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">248</party-votes-percentage-rank>
+        <sponsored-bills type="integer">33</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400381</person-id>
+        <cosponsored-bills-rank type="integer">211</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">4</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">160</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">16</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1618</votes-republican-position>
+      <blog-article-count type="integer">10686</blog-article-count>
+      <fax>202-225-8628</fax>
+      <user-approval type="float">1.09016393442623</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">326</oc-users-tracking>
+      <contact-webform>http://lamarsmith.house.gov/contact.aspx?section=Mail</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.3447259870359</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Smith</lastname>
+      <congress-office>2409 Rayburn House Office Building</congress-office>
+      <middlename>S.</middlename>
+      <firstname>Lamar</firstname>
+      <website>http://lamarsmith.house.gov/</website>
+      <birthday type="date">1947-11-19</birthday>
+      <bioguide-id>S000583</bioguide-id>
+      <person-id type="integer">400381</person-id>
+      <phone>202-225-4236</phone>
+      <religion>Christian Scientist</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">406</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:56:42-04:00</created-at>
+          <title>Deport reprieve program nears start date</title>
+          <contains-term>congress</contains-term>
+          <excerpt>An estimated 800,000 illegal immigrants across the country can start gathering their birth certificates, high school diplomas and military records to show that they qualify for a new Obama administration program that can grant them deportation reprieves.</excerpt>
+          <fti-names>'000':10 '800':9 'across':13 'administr':37 'birth':20 'certif':21 'countri':15 'date':6 'deport':1,43 'diploma':24 'estim':8 'gather':18 'grant':41 'high':22 'illeg':11 'immigr':12 'militari':26 'near':4 'new':35 'news':47 'news-press':46 'obama':36 'press':48 'program':3,38 'qualifi':32 'record':27 'repriev':2,44 'school':23 'show':29 'start':5,17</fti-names>
+          <source-url>http://www.news-press.com/</source-url>
+          <url>http://www.news-press.com/article/20120807/NATION/120807030/1002/RSS01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973596</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The News-Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:56:43-04:00</created-at>
+          <title>SIIA-DPR: Busy Summer Continues on IP, Privacy and Trade Fronts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Despite Congress recessing late last week, there&#8217;s been much activity in Washington and around the world on IP, Privacy and Trade Fronts: On Aug. 1, NTIA announced next steps on the multistakeholder process, including an announcement of dates for the nex</excerpt>
+          <fti-names>'1':38 'activ':23 'announc':40,49 'around':27 'associ':58 'aug':37 'busi':4 'congress':14 'continu':6 'date':51 'despit':13 'dpr':3 'front':12,35 'includ':47 'industri':57 'inform':56 'ip':8,31 'last':17 'late':16 'much':22 'multistakehold':45 'nex':54 'next':41 'ntia':39 'privaci':9,32 'process':46 'recess':15 'siia':2 'siia-dpr':1 'softwar':55 'step':42 'summer':5 'trade':11,34 'washington':25 'week':18 'world':29</fti-names>
+          <source-url>http://www.siia.net/</source-url>
+          <url>http://feedproxy.google.com/~r/siia/inkV/~3/bCDtDqhCsBY/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973597</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Software &amp; Information Industry Association</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:05:36-04:00</created-at>
+          <title>White House Sets $465 Price Tag For Avoiding Deportation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Critics have denounced the program as a sweeping amnesty for lawbreakers, initiated without congressional input. Rep. Lamar Smith (R-Texas), who oversees immigration legislation from atop the House Judiciary Committee, hammered the administration in a r</excerpt>
+          <fti-names>'465':4 'administr':43 'amnesti':18 'atop':36 'avoid':8 'busi':48 'committe':40 'congression':23 'critic':10 'denounc':12 'deport':9 'hammer':41 'hous':2,38 'immigr':33 'initi':21 'input':24 'intern':47 'judiciari':39 'lamar':26 'lawbreak':20 'legisl':34 'overse':32 'price':5 'program':14 'r':29,46 'r-texa':28 'rep':25 'set':3 'smith':27 'sweep':17 'tag':6 'texa':30 'time':49 'white':1 'without':22</fti-names>
+          <source-url>http://www.ibtimes.com/</source-url>
+          <url>http://www.ibtimes.com/articles/370725/20120806/obama-immigration-deportations-dreamers-dream-deportation-deferred.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973000</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>International Business Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:05:35-04:00</created-at>
+          <title>Republicans pounce on Obama plan for young illegal immigrants</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to a backlog for legal immigrants who followed the rules, while allowing lawbreakers to skip to the front of the line,&#8221; Rep. Lamar Smith, the Texas Republican who heads the House Judiciary Committee, said in a statement. Obama administration officials</excerpt>
+          <fti-names>'administr':48 'allow':21 'backlog':12 'committe':42 'courant':51 'follow':17 'front':27 'hartford':50 'head':38 'hous':40 'illeg':8 'immigr':9,15 'judiciari':41 'lamar':32 'lawbreak':22 'legal':14 'line':30 'obama':4,47 'offici':49 'plan':5 'pounc':2 'rep':31 'republican':1,36 'rule':19 'said':43 'skip':24 'smith':33 'statement':46 'texa':35 'young':7</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623722/s/220d6b0f/l/0L0Scourant0N0Cnews0Cnation0Eworld0Cla0Epn0Erepublicans0Epounce0Eon0Eobama0Eplan0Efor0Eyoung0Eillegal0Eimmigrants0E20A120A80A40H0A0H60A493570Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972270</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:05:35-04:00</created-at>
+          <title>Deportation relief will cost eligible immigrants $465</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...that they have a legitimate humanitarian, educational or employment-related reason. U.S. House Judiciary Committee Chairman Lamar Smith, R-Texas, on Friday called the new guidance &quot;a slap in the face to the 23 million unemployed or underemployed America</excerpt>
+          <fti-names>'23':43 '465':7 'america':48 'call':32 'chairman':24 'committe':23 'cost':4 'deport':1 'educ':14 'elig':5 'employ':17 'employment-rel':16 'face':40 'friday':31 'guidanc':35 'hous':21 'humanitarian':13 'immigr':6 'jose':51 'judiciari':22 'lamar':25 'legitim':12 'mercuri':52 'million':44 'new':34 'news':53 'r':28 'r-texa':27 'reason':19 'relat':18 'relief':2 'san':50 'slap':37 'smith':26 'texa':29 'u.s':20 'underemploy':47 'unemploy':45</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/bay-area-news/ci_21228938/deportation-relief-will-cost-eligible-immigrants-465?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972271</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:05:33-04:00</created-at>
+          <title>Feds float deportation details</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...perhaps the most dogged supporter of plans to legalize illegal immigrants. &#8220;You do it at 3:30 on Friday,&quot; he said, laughing. &quot;You&#8217;ll see it and I&#8217;ll see it but&#8230;.&#8221; Read more about: Barack Obama , Immigration , Illegal Immigration , DREAM Act , </excerpt>
+          <fti-names>'3':20 '30':21 'act':46 'barack':40 'deport':3 'detail':4 'dog':8 'dream':45 'fed':1 'float':2 'friday':23 'illeg':14,43 'immigr':15,42,44 'laugh':26 'legal':13 'll':28,33 'obama':41 'perhap':5 'plan':11 'politico':48 'read':37 'said':25 'see':29,34 'support':9</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=b32f02033158ca789cc23c2299be8704</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972269</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:27-04:00</created-at>
+          <title>Deportation relief will cost eligible immigrants $465</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...or if their income is below 150 percent of the U.S. poverty level, Mayorkas said. House Judiciary Committee Chairman Lamar Smith, R-Texas, called the new guidance &quot;a slap in the face to the 23 million unemployed or underemployed Americans&quot; on the same d</excerpt>
+          <fti-names>'150':14 '23':43 '465':7 'american':48 'call':32 'chairman':26 'committe':25 'cost':4 'd':52 'deport':1 'elig':5 'face':40 'guidanc':35 'hous':23 'immigr':6 'incom':11 'jose':55 'judiciari':24 'lamar':27 'level':20 'mayorka':21 'mercuri':56 'million':44 'new':34 'news':57 'percent':15 'poverti':19 'r':30 'r-texa':29 'relief':2 'said':22 'san':54 'slap':37 'smith':28 'texa':31 'u.s':18 'underemploy':47 'unemploy':45</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/news/ci_21228938/deportation-relief-will-cost-eligible-immigrants-465?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971844</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:27-04:00</created-at>
+          <title>Deportation relief will cost eligible immigrants $465</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...or if their income is below 150 percent of the U.S. poverty level, Mayorkas said. House Judiciary Committee Chairman Lamar Smith, R-Texas, called the new guidance &quot;a slap in the face to the 23 million unemployed or underemployed Americans&quot; on the same d</excerpt>
+          <fti-names>'150':14 '23':43 '465':7 'american':48 'area':55 'bay':54 'call':32 'chairman':26 'committe':25 'cost':4 'd':52 'deport':1 'elig':5 'face':40 'guidanc':35 'hous':23 'immigr':6 'incom':11 'insid':53 'judiciari':24 'lamar':27 'level':20 'mayorka':21 'million':44 'new':34 'percent':15 'poverti':19 'r':30 'r-texa':29 'relief':2 'said':22 'slap':37 'smith':28 'texa':31 'u.s':18 'underemploy':47 'unemploy':45</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/news/ci_21228941/deportation-relief-will-cost-eligible-immigrants-465?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971843</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:26-04:00</created-at>
+          <title>Deportation relief will cost eligible immigrants $465</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...or if their income is below 150 percent of the U.S. poverty level, Mayorkas said. House Judiciary Committee Chairman Lamar Smith, R-Texas, called the new guidance &quot;a slap in the face to the 23 million unemployed or underemployed Americans&quot; on the same d</excerpt>
+          <fti-names>'150':14 '23':43 '465':7 'american':48 'call':32 'chairman':26 'committe':25 'contra':53 'cost':4 'costa':54 'd':52 'deport':1 'elig':5 'face':40 'guidanc':35 'hous':23 'immigr':6 'incom':11 'judiciari':24 'lamar':27 'level':20 'mayorka':21 'million':44 'new':34 'percent':15 'poverti':19 'r':30 'r-texa':29 'relief':2 'said':22 'slap':37 'smith':28 'texa':31 'time':55 'u.s':18 'underemploy':47 'unemploy':45</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/news/ci_21228941/deportation-relief-will-cost-eligible-immigrants-465?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971842</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:26-04:00</created-at>
+          <title>Deportation relief will cost eligible immigrants $465</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...or if their income is below 150 percent of the U.S. poverty level, Mayorkas said. House Judiciary Committee Chairman Lamar Smith, R-Texas, called the new guidance &quot;a slap in the face to the 23 million unemployed or underemployed Americans&quot; on the same d</excerpt>
+          <fti-names>'150':14 '23':43 '465':7 'american':48 'call':32 'chairman':26 'committe':25 'cost':4 'd':52 'deport':1 'elig':5 'face':40 'guidanc':35 'hous':23 'immigr':6 'incom':11 'jose':55 'judiciari':24 'lamar':27 'level':20 'mayorka':21 'mercuri':56 'million':44 'new':34 'news':57 'percent':15 'poverti':19 'r':30 'r-texa':29 'relief':2 'said':22 'san':54 'slap':37 'smith':28 'texa':31 'u.s':18 'underemploy':47 'unemploy':45</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/breaking-news/ci_21228938/deportation-relief-will-cost-eligible-immigrants-465?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971841</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Lamar_S._Smith</metavid-id>
+      <name>Rep. Lamar Smith [R, TX-21]</name>
+      <total-session-votes type="integer">1697</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>21</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-05-01T23:30:20-04:00</created-at>
+          <title>CONGRESSMAN LAMAR SMITH is still the man! | Conservatives in ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>CONGRESSMAN LAMAR SMITH is still the man! Congressman Lamar Smith is a serious and conscientious man and has recently stirred some of his constituents and angered his rivals. It always amazes me how people turn ...</excerpt>
+          <fti-names>'alway':39 'amaz':40 'anger':35 'congressman':1,10,17 'conscienti':24 'conserv':8 'constitu':33 'lamar':2,11,18 'man':7,16,25 'peopl':43 'recent':28 'red':45 'rival':37 'serious':22 'smith':3,12,19 'sonja':46 'still':5,14 'stir':29 'turn':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://redsonja-conservativesinaction.blogspot.com/2012/05/congressman-lamar-smith-is-still-man.html&amp;sa=U&amp;ei=SqqgT_TiMoi02AXI0e2_CQ&amp;ved=0CD4QmAEwBQ&amp;usg=AFQjCNEk4-z-DXhPgQePPp93rQnvLyh8mg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-01T01:00:00-04:00</date>
+          <id type="integer">14969097</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Red Sonja</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-05-01T23:30:19-04:00</created-at>
+          <title>TexMessage: Lamar Smith criticizes U.S. Justice Department for ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Lamar Smith, a Republican from San Antonio and the chairman of the House Judiciary Committee, released a report on the U.S. Justice Department&amp;#39;s &#8220;disregard of the Constitution&#8221; and accusing President Barack Obama ...</excerpt>
+          <fti-names>'accus':39 'antonio':16 'barack':41 'chairman':19 'committe':24 'constitut':37 'critic':4 'depart':7,32 'disregard':34 'emili':43 'hous':22 'judiciari':23 'justic':6,31 'lamar':2,10 'obama':42 'presid':40 'releas':25 'rep':9 'report':27 'republican':13 'san':15 'smith':3,11 'texmessag':1 'u.s':5,30 'wilkin':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.mysanantonio.com/texas-on-the-potomac/2012/05/texmessage-lamar-smith-criticizes-u-s-justice-department-for-partisan-politics/&amp;sa=U&amp;ei=SqqgT_TiMoi02AXI0e2_CQ&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNFkscOYUreqod9yjJ5jBHhEa2jtGg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-01T01:00:00-04:00</date>
+          <id type="integer">14969095</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Emily Wilkins</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-30T23:31:49-04:00</created-at>
+          <title>PJ Media &#187; Judiciary Chairman Unleashes on Holder for &amp;#39;Partisan ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;The pattern of pushing partisan ideology rather than neutrally enforcing the law began nearly as soon as the Administration took office and has continued unabated since,&#8221; the report from Rep. Lamar Smith states. The Texas ...</excerpt>
+          <fti-names>'administr':28 'began':22 'bridget':45 'chairman':4 'continu':33 'enforc':19 'holder':7 'ideolog':15 'johnson':46 'judiciari':3 'lamar':40 'law':21 'media':2 'near':23 'neutral':18 'offic':30 'partisan':9,14 'pattern':11 'pj':1 'push':13 'rather':16 'rep':39 'report':37 'sinc':35 'smith':41 'soon':25 'state':42 'texa':44 'took':29 'unab':34 'unleash':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pjmedia.com/blog/judiciary-chairman-unleashes-on-holder-for-partisan-ignorance-of-constitution/&amp;sa=U&amp;ei=JFmfT5LtMITe2QXnrtjUAg&amp;ved=0CD0QmAEwBQ&amp;usg=AFQjCNFAROgtuI2Edt_uZ3_CKF_04UEtDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-30T01:00:00-04:00</date>
+          <id type="integer">14942280</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bridget Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-29T12:50:45-04:00</created-at>
+          <title>Republican Congressman driven from Yale Physics Department by ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;In high school, I had won the Bausch &amp;amp; Lomb science award, and I aspired to be a physics major in college,&#8221; Representative Lamar Smith (R-TX) explained to attendees at the annual Forum on Science and Technology ...</excerpt>
+          <fti-names>'annual':41 'aspir':22 'attende':38 'award':19 'bausch':16 'colleg':29 'congressman':2 'cottl':48 'depart':7 'driven':3 'explain':36 'forum':42 'high':10 'lamar':31 'lomb':17 'major':27 'paul':47 'physic':6,26 'r':34 'r-tx':33 'repres':30 'republican':1 'school':11 'scienc':18,44 'smith':32 'technolog':46 'tx':35 'won':14 'yale':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bridgetotomorrow.wordpress.com/2012/04/29/republican-congressman-driven-from-yale-physics-department-by-lecture-only-course/&amp;sa=U&amp;ei=Y3GdT_HaC4Ps2QWOuLzhDg&amp;ved=0CF8QmAEwDA&amp;usg=AFQjCNFOBVtfCS82xqu4w7oUitUlWjhVIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-28T01:00:00-04:00</date>
+          <id type="integer">14899699</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Paul Cottle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-28T23:21:04-04:00</created-at>
+          <title>Republican Congressman driven from Yale Physics Department by ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;In high school, I had won the Bausch &amp;amp; Lomb science award, and I aspired to be a physics major in college,&#8221; Representative Lamar Smith (R-TX) explained to attendees at the annual Forum on Science and Technology ...</excerpt>
+          <fti-names>'annual':41 'aspir':22 'attende':38 'award':19 'bausch':16 'colleg':29 'congressman':2 'cottl':48 'depart':7 'driven':3 'explain':36 'forum':42 'high':10 'lamar':31 'lomb':17 'major':27 'paul':47 'physic':6,26 'r':34 'r-tx':33 'repres':30 'republican':1 'school':11 'scienc':18,44 'smith':32 'technolog':46 'tx':35 'won':14 'yale':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bridgetotomorrow.wordpress.com/2012/04/29/republican-congressman-driven-from-yale-physics-department-by-lecture-only-course/&amp;sa=U&amp;ei=n7OcT5P2Bqmg2gWF1vX1Dg&amp;ved=0CEcQmAEwBw&amp;usg=AFQjCNG6iYfIKWyqSl9sN08FOdhrJkqZxg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-28T01:00:00-04:00</date>
+          <id type="integer">14885521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Paul Cottle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:34:35-04:00</created-at>
+          <title>The latest small business focus House Republicans | Spoothe</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Lamar Smith, R-Texas, Chairman of the House Judiciary Committee, said, &amp;quot;job creation is key to economic recovery, and American small business job creators. In the current economic climate. .. we&amp;#39;re just not burdening ...</excerpt>
+          <fti-names>'admin':45 'american':30 'burden':44 'busi':4,32 'chairman':15 'climat':39 'committe':20 'creation':23 'creator':34 'current':37 'econom':27,38 'focus':5 'hous':6,18 'job':22,33 'judiciari':19 'key':25 'lamar':10 'latest':2 'r':13 'r-texa':12 're':41 'recoveri':28 'rep':9 'republican':7 'said':21 'small':3,31 'smith':11 'spooth':8 'texa':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.spoothe.com/business/the-latest-small-business-focus-house-republicans.html&amp;sa=U&amp;ei=yhOaT93OEqOh2QXJpemeDw&amp;ved=0CFoQmAEwCw&amp;usg=AFQjCNGgzLjfezszXyomDCIZW6JFr05-zw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14824873</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-25T12:29:43-04:00</created-at>
+          <title>Texas Takes Notice as Supreme Court Hears Arizona Case : Reform ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>At issue in the legal battle is how much leeway states should have in enforcing federal laws. Supporters of the Arizona law, including Rep. Lamar Smith, R-Texas, say the measure would not have been necessary if the Obama ...</excerpt>
+          <fti-names>'arizona':8,31 'battl':16 'case':9 'court':6 'cristina':51 'enforc':25 'feder':26 'hear':7 'includ':33 'issu':12 'lamar':35 'law':27,32 'leeway':20 'legal':15 'measur':42 'much':19 'necessari':47 'notic':3 'obama':50 'r':38 'r-texa':37 'reform':10 'rep':34 'say':40 'smith':36 'state':21 'support':28 'suprem':5 'take':2 'texa':1,39 'would':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://reformimmigrationfortexas.org/1/2012/texas-takes-notice-as-supreme-court-hears-arizona-case/&amp;sa=U&amp;ei=dCaYT5C6Iam42wXvvN39Bg&amp;ved=0CFsQmAEwCw&amp;usg=AFQjCNHeGmZ2cR68V4qcxOCwD1vPXpatPQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14778167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cristina</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-05-01T23:30:20-04:00</created-at>
+          <title>Can Reddit Vote Down a Congressman? | Mother Jones</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Test PAC/FacebookWhen Rep. Lamar Smith (R-Texas) introduced the Stop Online Piracy Act last winter, members of the online community Reddit sprang into action. They called their congressmen, spammed Twitter, and did ...</excerpt>
+          <fti-names>'act':22 'action':33 'call':35 'communiti':29 'congressman':6 'congressmen':37 'introduc':17 'jone':8 'lamar':12 'last':23 'member':25 'mother':7 'murphi':43 'onlin':20,28 'pac/facebookwhen':10 'piraci':21 'r':15 'r-texa':14 'reddit':2,30 'rep':11 'smith':13 'spam':38 'sprang':31 'stop':19 'test':9 'texa':16 'tim':42 'twitter':39 'vote':3 'winter':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.motherjones.com/politics/2012/04/reddit-lamar-smith-sopa-testpac&amp;sa=U&amp;ei=SqqgT_TiMoi02AXI0e2_CQ&amp;ved=0CFEQmAEwCQ&amp;usg=AFQjCNEZ9UJgLhYgYdgpZS7aKabCEer5Vw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">14969101</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tim Murphy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-30T23:31:49-04:00</created-at>
+          <title>Can Reddit Vote Down a Congressman? | Mother Jones</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Test PAC/FacebookWhen Rep. Lamar Smith (R-Texas) introduced the Stop Online Piracy Act last winter, members of the online community Reddit sprang into action. They called their congressmen, spammed Twitter, and did ...</excerpt>
+          <fti-names>'act':22 'action':33 'call':35 'communiti':29 'congressman':6 'congressmen':37 'introduc':17 'jone':8 'lamar':12 'last':23 'member':25 'mother':7 'murphi':43 'onlin':20,28 'pac/facebookwhen':10 'piraci':21 'r':15 'r-texa':14 'reddit':2,30 'rep':11 'smith':13 'spam':38 'sprang':31 'stop':19 'test':9 'texa':16 'tim':42 'twitter':39 'vote':3 'winter':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.motherjones.com/politics/2012/04/reddit-lamar-smith-sopa-testpac&amp;sa=U&amp;ei=JFmfT5LtMITe2QXnrtjUAg&amp;ved=0CEIQmAEwBg&amp;usg=AFQjCNGPQAKy-VCum1tdYcqBKSMxFv0XSQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">14942281</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tim Murphy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400381</commentariable-id>
+          <created-at type="datetime">2012-04-29T23:24:49-04:00</created-at>
+          <title>Can Reddit Vote Down a Congressman? | Mother Jones</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Test PAC/FacebookWhen Rep. Lamar Smith (R-Texas) introduced the Stop Online Piracy Act last winter, members of the online community Reddit sprang into action. They called their congressmen, spammed Twitter, and did ...</excerpt>
+          <fti-names>'act':22 'action':33 'call':35 'communiti':29 'congressman':6 'congressmen':37 'introduc':17 'jone':8 'lamar':12 'last':23 'member':25 'mother':7 'murphi':43 'onlin':20,28 'pac/facebookwhen':10 'piraci':21 'r':15 'r-texa':14 'reddit':2,30 'rep':11 'smith':13 'spam':38 'sprang':31 'stop':19 'test':9 'texa':16 'tim':42 'twitter':39 'vote':3 'winter':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://motherjones.com/politics/2012/04/reddit-lamar-smith-sopa-testpac&amp;sa=U&amp;ei=AAaeT9TFIcLy2QWHpvXaDg&amp;ved=0CFIQmAEwCQ&amp;usg=AFQjCNFrXUptPalz3yjQQl5hL_4yEwT2EA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">14915901</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tim Murphy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">33285</page-views-count>
+      <youtube-id>lamarsmithtexas21</youtube-id>
+      <unaccented-name>Lamar Smith</unaccented-name>
+      <oc-user-comments type="integer">20</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-06T14:41:04-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.3051869722557</party-votes-percentage>
+        <abstains-percentage type="float">3.54857475276323</abstains-percentage>
+        <votes-most-often-with-id type="integer">412319</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">176</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">59</cosponsored-bills-passed-rank>
+        <abstains type="integer">61</abstains>
+        <cosponsored-bills type="integer">458</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">128</party-votes-percentage-rank>
+        <sponsored-bills type="integer">37</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">412236</person-id>
+        <cosponsored-bills-rank type="integer">5</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">27</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">345</votes-republican-position>
+      <blog-article-count type="integer">11586</blog-article-count>
+      <user-approval type="float">3.94444444444444</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">119</oc-users-tracking>
+      <contact-webform>http://cohen.house.gov/index.php?option=com_email_form&amp;Itemid=113</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.3051869722557</with-party-percentage>
+      <metavid-id>Stephen_Cohen</metavid-id>
+      <lastname>Cohen</lastname>
+      <congress-office>1005 Longworth House Office Building</congress-office>
+      <firstname>Steve</firstname>
+      <website>http://cohen.house.gov/</website>
+      <youtube-id>RepCohen</youtube-id>
+      <birthday type="date">1949-05-24</birthday>
+      <person-id type="integer">412236</person-id>
+      <phone>202-225-3265</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1547</votes-democratic-position>
+      <fax>202-225-5663</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:41:11-04:00</created-at>
+          <title>Floor installer will face Corker in Tennessee Senate showdown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...In other U.S. House races, Republican Reps. Scott DesJarlais, Jimmy Duncan and Stephen Fincher won their primary contests, as did Democrat Steve Cohen. Republican Reps. Phil Roe and Marsha Blackburn and Democrat Jim Cooper had no primary opposition....</excerpt>
+          <fti-names>'appeal':50 'blackburn':39 'cohen':32 'commerci':49 'contest':27 'cooper':43 'corker':5 'democrat':30,41 'desjarlai':18 'duncan':20 'face':4 'fincher':23 'floor':1 'hous':13 'instal':2 'jim':42 'jimmi':19 'marsha':38 'memphi':48 'opposit':47 'phil':35 'primari':26,46 'race':14 'rep':16,34 'republican':15,33 'roe':36 'scott':17 'senat':8 'showdown':9 'stephen':22 'steve':31 'tennesse':7 'u.s':12 'won':24</fti-names>
+          <source-url>http://www.commercialappeal.com/</source-url>
+          <url>http://www.commercialappeal.com/news/2012/aug/02/floor-installer-will-face-corker-in-tennessee/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971549</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Memphis Commercial Appeal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:41:11-04:00</created-at>
+          <title>Tennessee Primaries: Not So Rocky Incumbents</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the wake of a controversial mosque built in Murfreesboro she vociferously opposed. In the Memphis-based 9th District, Rep. Steve Cohen (D) easily disposed of his usual primary challenge from an African-American challenger, as the Jewish three-term congr</excerpt>
+          <fti-names>'9th':24 'african':40 'african-american':39 'american':41 'base':23 'built':13 'challeng':36,42 'cohen':28 'congr':49 'controversi':11 'd':29 'dispos':31 'district':25 'easili':30 'incumb':6 'jewish':45 'memphi':22 'memphis-bas':21 'mosqu':12 'murfreesboro':15 'oppos':18 'polit':52 'primari':2,35 'rep':26 'report':53 'rocki':5 'rothenberg':51 'steve':27 'tennesse':1 'term':48 'three':47 'three-term':46 'usual':34 'vocifer':17 'wake':8</fti-names>
+          <source-url>http://rothenbergpoliticalreport.com/</source-url>
+          <url>http://rothenbergpoliticalreport.com/news/article/tennessee-primaries-not-so-rocky-incumbents</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971548</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Rothenberg Political Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:41:10-04:00</created-at>
+          <title>Results: Tennessee Congressional races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...faces Democrat Eric Stewart. 7th District Rep. Marsha Blackburn faces Democrat Credo Amouzouvik. 9th District Rep. Steve Cohen faces Republican George Flinn. The primaries for the opponents to Reps. Stephen Fincher, a Republican, and Jim Cooper, a Democ</excerpt>
+          <fti-names>'7th':9 '9th':18 'amouzouvik':17 'blackburn':13 'cohen':22 'congression':3 'cooper':40 'credo':16 'democ':42 'democrat':6,15 'district':10,19 'eric':7 'face':5,14,23 'fincher':35 'flinn':26 'georg':25 'jim':39 'marsha':12 'oppon':31 'primari':28 'race':4 'rep':11,20,33 'republican':24,37 'result':1 'stephen':34 'steve':21 'stewart':8 'tennesse':2 'wbir':43</fti-names>
+          <source-url>http://www.wbir.com/</source-url>
+          <url>http://www.wbir.com/rss/article/228969/2/Results-Tennessee-Congressional-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971547</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBIR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:00:15-04:00</created-at>
+          <title>4 House members defeat primary challengers</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District. Republican Reps. Chuck Fleischmann and Diane Black posted strong leads in early returns </excerpt>
+          <fti-names>'2nd':10 '4':1 '4th':23 '8th':16 '9th':32 'black':40 'challeng':6 'chronicl':49 'chuck':36 'cohen':28 'defeat':4 'democrat':25 'desjarlai':20 'dian':39 'district':11,17,24,33 'duncan':7 'earli':45 'fincher':13 'fleischmann':37 'francisco':48 'hous':2 'lead':43 'member':3 'post':41 'prevail':29 'primari':5 'rep':26,35 'republican':34 'return':46 'san':47 'scott':19 'stephen':12 'steve':27 'strong':42</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/4-House-members-defeat-primary-challengers-3756251.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970502</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:00:13-04:00</created-at>
+          <title>All 9 Tennessee congressmen win in primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...&#8212; a rematch from two years ago, when Black narrowly defeated Zelenik. n U.S. Rep. Stephen Fincher, R-Frog Jump, trounced Republican Annette Justice in the 8th District. n U.S. Rep. Steve Cohen, D-Memphis, defeated Democrat Tomeka Hart in the 9th Distr</excerpt>
+          <fti-names>'8th':34 '9':2 '9th':50 'ago':13 'annett':30 'black':15 'cohen':40 'congressmen':4 'd':42 'd-memphi':41 'defeat':17,44 'democrat':45 'distr':51 'district':35 'fincher':23 'frog':26 'hart':47 'jump':27 'justic':31 'knoxnew':52 'memphi':43 'n':19,36 'narrowli':16 'primari':7 'r':25 'r-frog':24 'rematch':9 'rep':21,38 'republican':29 'stephen':22 'steve':39 'tennesse':3 'tomeka':46 'trounc':28 'two':11 'u.s':20,37 'win':5 'year':12 'zelenik':18</fti-names>
+          <source-url>http://www.knoxnews.com/</source-url>
+          <url>http://www.knoxnews.com/news/2012/aug/02/all-9-tennessee-congressmen-win-in-primary/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970501</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KnoxNews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:00:16-04:00</created-at>
+          <title>Postal Service future in question after first-ever default, lawmakers stuck on a deal</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...act quickly in order to prevent the loss of thousands of jobs in the Postal Service and the American mailing industry,&quot; Rep. Steve Cohen, D-Tenn., said in a letter to House Speaker John Boehner. The agency is expected to miss another $5.6 billion paymen</excerpt>
+          <fti-names>'5.6':59 'act':16 'agenc':53 'american':34 'anoth':58 'billion':60 'boehner':51 'cohen':39 'd':41 'd-tenn':40 'deal':15 'default':10 'ever':9 'expect':55 'first':8 'first-ev':7 'fox':62 'futur':3 'hous':48 'industri':36 'job':27 'john':50 'lawmak':11 'letter':46 'loss':23 'mail':35 'miss':57 'news':63 'order':19 'paymen':61 'postal':1,30 'prevent':21 'question':5 'quick':17 'rep':37 'said':43 'servic':2,31 'speaker':49 'steve':38 'stuck':12 'tenn':42 'thousand':25</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/foxnews/politics/~3/bjth13-eNK8/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970503</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:34:10-04:00</created-at>
+          <title>Cohen support for Memphis school board candidates irks merger advocates</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...involved in Shelby County school board races are riled at U.S. Rep. Steve Cohen for endorsing candidates in Memphis-specific races he says had the &quot;foresight&quot; to vote against dissolving Memphis City Schools to force Shelby County schools consolidation. </excerpt>
+          <fti-names>'advoc':10 'appeal':53 'board':6,16 'candid':7,27 'citi':43 'cohen':1,24 'commerci':52 'consolid':50 'counti':14,48 'dissolv':41 'endors':26 'forc':46 'foresight':37 'involv':11 'irk':8 'memphi':4,30,42,51 'memphis-specif':29 'merger':9 'race':17,32 'rep':22 'rile':19 'say':34 'school':5,15,44,49 'shelbi':13,47 'specif':31 'steve':23 'support':2 'u.s':21 'vote':39</fti-names>
+          <source-url>http://www.commercialappeal.com/</source-url>
+          <url>http://www.commercialappeal.com/news/2012/aug/01/cohen-support-for-memphis-school-board-irks/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969574</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Memphis Commercial Appeal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:35-04:00</created-at>
+          <title>Flinn ad on his patents revolutionizing modern medicine gets the PolitiFact treatment</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The winner in Thursday&#8217;s Aug. 2 primary will face to the winner of the primary between incumbent U.S. Rep. Steve Cohen and school board member Tomeka Hart. The commercial boldly claims that Flinn is &quot;a doctor whose patents in ultrasound have ...</excerpt>
+          <fti-names>'2':19 'ad':2 'appeal':57 'aug':18 'board':37 'bold':43 'claim':44 'cohen':34 'commerci':42,56 'doctor':49 'face':22 'flinn':1,46 'get':9 'hart':40 'incumb':30 'medicin':8 'member':38 'memphi':55 'modern':7 'patent':5,51 'politifact':11 'primari':20,28 'rep':32 'revolution':6 'school':36 'steve':33 'thursday':16 'tomeka':39 'treatment':12 'u.s':31 'ultrasound':53 'whose':50 'winner':14,25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.commercialappeal.com/news/2012/jul/30/flinn-ad-his-patents-revolutionizing-modern-medici/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:21:32-04:00</date>
+          <id type="integer">16959795</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Memphis Commercial Appeal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:47:50-04:00</created-at>
+          <title>Black, Zelenik battle for 6th District again</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Jim Cooper have no primary opposition. Reps. Jimmy Duncan, Scott DesJarlais and Stephen Fincher and Democratic Rep. Steve Cohen have far outpaced their primary challengers in fundraising and organization. The Zelenik campaign, as well as some Republican ..</excerpt>
+          <fti-names>'6th':5 'battl':3 'black':1 'campaign':39 'challeng':32 'cohen':26 'cooper':9 'democrat':23 'desjarlai':18 'district':6 'duncan':16 'far':28 'fincher':21 'fundrais':34 'jim':8 'jimmi':15 'necn':45 'opposit':13 'organ':36 'outpac':29 'primari':12,31 'rep':14,24 'republican':44 'scott':17 'stephen':20 'steve':25 'well':41 'zelenik':2,38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.necn.com/07/29/12/Black-Zelenik-battle-for-6th-District-ag/landing_politics.html?&amp;apID=a3af4760fe3f4da980ba7fabfdc76b84</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T11:37:02-04:00</date>
+          <id type="integer">16945866</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NECN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:35-04:00</created-at>
+          <title>Black, Zelenik battle for 6th District again</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Jim Cooper have no primary opposition. Reps. Jimmy Duncan, Scott DesJarlais and Stephen Fincher and Democratic Rep. Steve Cohen have far outpaced their primary challengers in fundraising and organization. The Zelenik campaign, as well as some Republican ..</excerpt>
+          <fti-names>'6th':5 'battl':3 'black':1 'campaign':39 'challeng':32 'cohen':26 'cooper':9 'democrat':23 'desjarlai':18 'district':6 'duncan':16 'far':28 'fincher':21 'fundrais':34 'jim':8 'jimmi':15 'necn':45 'opposit':13 'organ':36 'outpac':29 'primari':12,31 'rep':14,24 'republican':44 'scott':17 'stephen':20 'steve':25 'well':41 'zelenik':2,38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.necn.com/07/29/12/Black-Zelenik-battle-for-6th-District-ag/landing_nation.html?&amp;apID=a3af4760fe3f4da980ba7fabfdc76b84</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T11:29:53-04:00</date>
+          <id type="integer">16959794</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NECN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Steve Cohen [D, TN-9]</name>
+      <total-session-votes type="integer">1658</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>9</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:31-04:00</created-at>
+          <title>Teknosis: Freedom Watch</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>John Duncan Jr. R - 64% TN 1 Rep. Phil Roe R - 60% TN TN Sen. Lamar Alexander R - 52% TN 5 Rep. Jim Cooper D - 27% TN 9 Rep. Steve Cohen D - 16% Source is Heritage Action Score Card, and also John Birch Society ...</excerpt>
+          <fti-names>'1':10 '16':36 '27':29 '5':24 '52':22 '60':15 '64':8 '9':31 'action':40 'alexand':20 'also':44 'birch':46 'card':42 'cohen':34 'cooper':27 'd':28,35 'duncan':5 'freedom':2 'heritag':39 'jim':26 'john':4,45 'jr':6 'lamar':19 'pc93':48 'phil':12 'r':7,14,21 'rep':11,25,32 'roe':13 'score':41 'sen':18 'societi':47 'sourc':37 'steve':33 'teknosi':1 'tn':9,16,17,23,30 'watch':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tekgnosis.typepad.com/tekgnosis/2012/07/freedom-watch-11.html&amp;sa=U&amp;ei=FEYXUOrhBank0QHFuYDoCA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNEkNiNqfEgNRU_e8qRcvkzfj_Nn8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959787</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pc93</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:53:47-04:00</created-at>
+          <title>Jeanne Richardson Soldiers On in a New District | Politics Beat Blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Campaigning hard with limited resources, Richardson saw DeBerry receive a Commercial Appeal endorsement she had hoped to get, and 9th District congressman Steve Cohen, who has epitomized pragmatic liberalism in ...</excerpt>
+          <fti-names>'9th':31 'appeal':23 'baker':43 'beat':10 'blog':11 'campaign':12 'cohen':35 'commerci':22 'congressman':33 'deberri':19 'district':8,32 'endors':24 'epitom':38 'get':29 'hard':13 'hope':27 'jackson':42 'jeann':1 'liber':40 'limit':15 'new':7 'polit':9 'pragmat':39 'receiv':20 'resourc':16 'richardson':2,17 'saw':18 'soldier':3 'steve':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.memphisflyer.com/JacksonBaker/archives/2012/07/28/jeanne-richardson-soldiers-on-in-a-new-district&amp;sa=U&amp;ei=saUUUNmsO8Le0QH6xICwCA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFRmDVCyk7q_PKI_kjyDvU8tOEH9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929214</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jackson Baker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:31-04:00</created-at>
+          <title>Congressman: Fix The Student Debt Crisis With Bankruptcy Reform ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S.Representative Steve Cohen, Democrat from Tennessee, talks with Bloomberg Law&amp;#39;s Lee Pacchia about a bill he introduced in Congress that aims to alleviate the current student debt crisis by allowing individuals to ...</excerpt>
+          <fti-names>'aim':31 'allevi':33 'allow':40 'bankruptci':8 'bill':25 'bloomberg':18,43 'cohen':12 'congress':29 'congressman':1 'crisi':6,38 'current':35 'debt':5,37 'democrat':13 'fix':2 'individu':41 'introduc':27 'law':19,44 'lee':21 'pacchia':22 'reform':9 'steve':11 'student':4,36 'talk':16 'tennesse':15 'u.s.representative':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jdsupra.com/legalnews/congressman-fix-the-student-debt-crisis-26094/&amp;sa=U&amp;ei=FEYXUOrhBank0QHFuYDoCA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNF-VYiIZCkbLHx_PERAXg_tUcedEw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16959788</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bloomberg Law</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:43:30-04:00</created-at>
+          <title>Congressman: Fix The Student Debt Crisis With Bankruptcy Reform ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S.Representative Steve Cohen, Democrat from Tennessee, talks with Bloomberg Law&amp;#39;s Lee Pacchia about a bill he introduced in Congress that aims to alleviate the current student debt crisis by allowing individuals to ...</excerpt>
+          <fti-names>'aim':31 'allevi':33 'allow':40 'bankruptci':8 'bill':25 'bloomberg':18,43 'cohen':12 'congress':29 'congressman':1 'crisi':6,38 'current':35 'debt':5,37 'democrat':13 'fix':2 'individu':41 'introduc':27 'law':19,44 'lee':21 'pacchia':22 'reform':9 'steve':11 'student':4,36 'talk':16 'tennesse':15 'u.s.representative':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jdsupra.com/legalnews/congressman-fix-the-student-debt-crisis-26094/&amp;sa=U&amp;ei=ywIWUMDOK8nr6gGC2oDQCw&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNHkAD-DLsK-FRJYEz3XFyFmi4XAWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16945829</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bloomberg Law</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:53:45-04:00</created-at>
+          <title>Congressman: Fix The Student Debt Crisis With Bankruptcy Reform ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S.Representative Steve Cohen, Democrat from Tennessee, talks with Bloomberg Law&amp;#39;s Lee Pacchia about a bill he introduced in Congress that aims to alleviate the current student debt crisis by allowing individuals to ...</excerpt>
+          <fti-names>'aim':31 'allevi':33 'allow':40 'bankruptci':8 'bill':25 'bloomberg':18,43 'cohen':12 'congress':29 'congressman':1 'crisi':6,38 'current':35 'debt':5,37 'democrat':13 'fix':2 'individu':41 'introduc':27 'law':19,44 'lee':21 'pacchia':22 'reform':9 'steve':11 'student':4,36 'talk':16 'tennesse':15 'u.s.representative':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jdsupra.com/legalnews/congressman-fix-the-student-debt-crisis-26094/&amp;sa=U&amp;ei=saUUUNmsO8Le0QH6xICwCA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFj29m_pUbiG0OJik2U48CeNaa5Jw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929212</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bloomberg Law</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:44:50-04:00</created-at>
+          <title>Congressman: Fix The Student Debt Crisis With Bankruptcy Reform ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S.Representative Steve Cohen, Democrat from Tennessee, talks with Bloomberg Law&amp;#39;s Lee Pacchia about a bill he introduced in Congress that aims to alleviate the current student debt crisis by allowing individuals to ...</excerpt>
+          <fti-names>'aim':31 'allevi':33 'allow':40 'bankruptci':8 'bill':25 'bloomberg':18,43 'cohen':12 'congress':29 'congressman':1 'crisi':6,38 'current':35 'debt':5,37 'democrat':13 'fix':2 'individu':41 'introduc':27 'law':19,44 'lee':21 'pacchia':22 'reform':9 'steve':11 'student':4,36 'talk':16 'tennesse':15 'u.s.representative':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jdsupra.com/legalnews/congressman-fix-the-student-debt-crisis-26094/&amp;sa=U&amp;ei=IFITUNjBLZSs8QSpiIGYDw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFX-VVl9Jk9pemuMSg0G728-acREg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16920523</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bloomberg Law</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:44:43-04:00</created-at>
+          <title>DownWithTyranny!: EMILY&amp;#39;S List-- Up To Their Old Tricks ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>EMILY&amp;#39;s List, which has disgraced itself by running a virulently anti-Semitic and racist corporate shill against Rep. Steve Cohen in Memphis, is telling it&amp;#39;s members in Connecticut to not vote for Donovan because he raised ...</excerpt>
+          <fti-names>'anti':22 'anti-semit':21 'cohen':31 'connecticut':40 'corpor':26 'disgrac':15 'donovan':45 'downwithtyranni':1,49 'emili':2,10 'list':4,12 'member':38 'memphi':33 'old':8 'racist':25 'rais':48 'rep':29 'run':18 'semit':23 'shill':27 'steve':30 'tell':35 'trick':9 'virul':20 'vote':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/emilys-list-up-to-their-old-tricks.html&amp;sa=U&amp;ei=mAASUK6LH4PY9AT4-oCQAQ&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGmwuiAFZQgDY1u8CyK_xD0ebIWNg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888879</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:52:50-04:00</created-at>
+          <title>The Debate Link: EMILY&amp;#39;s Lies</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>They were deeply involved in Nikki Tinker&amp;#39;s racially and religious-tinged campaign to unseat sterling progressive Rep. Steve Cohen in the 2008 Democratic primary. And right now DKos Elections is on their case adopting ...</excerpt>
+          <fti-names>'2008':30 'adopt':42 'campaign':20 'case':41 'cohen':27 'david':43 'debat':2 'deepli':9 'democrat':31 'dkos':36 'elect':37 'emili':4 'involv':10 'lie':6 'link':3 'nikki':12 'primari':32 'progress':24 'racial':15 'religi':18 'religious-ting':17 'rep':25 'right':34 'schraub':44 'sterl':23 'steve':26 'ting':19 'tinker':13 'unseat':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dsadevil.blogspot.com/2012/07/emilys-lies.html&amp;sa=U&amp;ei=_rAQUIvHHYyG8QTErIHQAQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNEsZ2B5cSe9s2q5wafDHnfV4UqwWg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858566</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>David Schraub</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:52:49-04:00</created-at>
+          <title>DownWithTyranny!: EMILY&amp;#39;S List-- Up To Their Old Tricks ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>EMILY&amp;#39;s List, which has disgraced itself by running a virulently anti-Semitic and racist corporate shill against Rep. Steve Cohen in Memphis, is telling it&amp;#39;s members in Connecticut to not vote for Donovan because he raised ...</excerpt>
+          <fti-names>'anti':22 'anti-semit':21 'cohen':31 'connecticut':40 'corpor':26 'disgrac':15 'donovan':45 'downwithtyranni':1,49 'emili':2,10 'list':4,12 'member':38 'memphi':33 'old':8 'racist':25 'rais':48 'rep':29 'run':18 'semit':23 'shill':27 'steve':30 'tell':35 'trick':9 'virul':20 'vote':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/emilys-list-up-to-their-old-tricks.html&amp;sa=U&amp;ei=_rAQUIvHHYyG8QTErIHQAQ&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNGfE_gvdyrTURps7-ccdLcXVW0_0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858563</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412236</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:52:50-04:00</created-at>
+          <title>Gov. Haslam: Internet sales tax &amp;#39;an issue of fairness&amp;#39; | The Raw Story</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... collecting sales taxes from online businesses. Senate Majority Leader Harry Reid (D-NV) has said Congress had a good chance of passing the bill this year. Watch video, uploaded to YouTube by Rep. Steve Cohen, below: ...</excerpt>
+          <fti-names>'bill':37 'busi':18 'chanc':33 'cohen':48 'collect':13 'congress':29 'd':25 'd-nv':24 'dolan':52 'eric':50 'fair':9 'good':32 'gov':1 'harri':22 'haslam':2 'internet':3 'issu':7 'leader':21 'major':20 'nv':26 'onlin':17 'pass':35 'raw':11 'reid':23 'rep':46 'said':28 'sale':4,14 'senat':19 'steve':47 'stori':12 'tax':5,15 'upload':42 'video':41 'w':51 'watch':40 'year':39 'youtub':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rawstory.com/rs/2012/07/24/gov-haslam-internet-sales-tax-an-issue-of-fairness/&amp;sa=U&amp;ei=_rAQUIvHHYyG8QTErIHQAQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNH3IRyWbMGTvuZXOKL4XxJr0xl89A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16858567</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric W. Dolan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>C001068</bioguide-id>
+      <page-views-count type="integer">29108</page-views-count>
+      <unaccented-name>Steve Cohen</unaccented-name>
+      <middlename nil="true"></middlename>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

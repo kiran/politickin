@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-02T19:34:10-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.7028604786923</party-votes-percentage>
+        <abstains-percentage type="float">0.349040139616056</abstains-percentage>
+        <votes-most-often-with-id type="integer">400175</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">120</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">406</cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">75</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">208</party-votes-percentage-rank>
+        <sponsored-bills type="integer">7</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400351</person-id>
+        <cosponsored-bills-rank type="integer">411</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">373</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1588</votes-republican-position>
+      <fax>202-225-3393</fax>
+      <blog-article-count type="integer">14169</blog-article-count>
+      <user-approval type="float">6.33333333333333</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">278</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/ryan/email.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.7028604786923</with-party-percentage>
+      <lastname>Ryan</lastname>
+      <middlename>D.</middlename>
+      <bioguide-id>R000570</bioguide-id>
+      <congress-office>1233 Longworth House Office Building</congress-office>
+      <firstname>Paul</firstname>
+      <website>http://house.gov/ryan/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1970-01-29</birthday>
+      <person-id type="integer">400351</person-id>
+      <phone>202-225-3031</phone>
+      <religion>Roman Catholic</religion>
+      <votes-democratic-position type="integer">360</votes-democratic-position>
+      <metavid-id>Paul_Ryan</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:54:42-04:00</created-at>
+          <title>Paul Ryan set to take vacation amid VP fervor</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...might choose as a running mate reaches a fever pitch, one of the Republicans rumored to be on the short list &#8212; Wisconsin Rep. Paul Ryan &#8212; is going on vacation. Ryan told reporters here that he is taking his family to Colorado, beginning Saturday, fo</excerpt>
+          <fti-names>'amid':7 'begin':51 'choos':11 'colorado':50 'famili':48 'fervor':9 'fever':18 'fo':53 'go':36 'list':30 'mate':15 'might':10 'msnbc':54 'one':20 'paul':1,33 'pitch':19 'reach':16 'rep':32 'report':41 'republican':23 'rumor':24 'run':14 'ryan':2,34,39 'saturday':52 'set':3 'short':29 'take':5,46 'told':40 'vacat':6,38 'vp':8 'wisconsin':31</fti-names>
+          <source-url>http://www.msnbc.msn.com/</source-url>
+          <url>http://firstread.nbcnews.com/_news/2012/08/07/13169966-paul-ryan-set-to-take-vacation-amid-vp-fervor?lite</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973572</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:54:43-04:00</created-at>
+          <title>Romney's VP Should Be Paul Ryan Or Marco Rubio To Help With Budget Debate: Conservative Authors</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Kristol and Stephen Hayes caused a stir this week when they encouraged Mitt Romney to pick Rep. Paul Ryan (R-Wis.) or Sen. Marco Rubio (R-Fla.) as his running mate. The conservative Weekly Standard authors based their argument for Ryan on the premise th</excerpt>
+          <fti-names>'argument':58 'author':17,55 'base':56 'budget':14 'caus':22 'conserv':16,52 'debat':15 'encourag':29 'fla':46 'hay':21 'help':12 'huffington':66 'kristol':18 'marco':9,42 'mate':50 'mitt':30 'paul':6,35 'pick':33 'post':67 'premis':63 'r':38,45 'r-fla':44 'r-wis':37 'rep':34 'romney':1,31 'rubio':10,43 'run':49 'ryan':7,36,60 'sen':41 'standard':54 'stephen':20 'stir':24 'th':64 'vp':3 'week':26,53 'wis':39</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/07/romney-vp-paul-ryan-marco-rubio_n_1751054.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973573</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:03:22-04:00</created-at>
+          <title>Romney-Ryan: Why Start Telling the Truth Now?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...pundit feels the need to push back against the growing GOP chattering-class pressure for the &#8220;bold&#8221; choice of Rep. Paul Ryan. Here&#8217;s the Washington Examiner&#8217;s Byron York: York goes on to richly document Romney&#8217;s wariness about identifying hims</excerpt>
+          <fti-names>'back':16 'bold':27 'byron':39 'chatter':22 'chattering-class':21 'choic':28 'class':23 'document':46 'examin':37 'feel':11 'goe':42 'gop':20 'grow':19 'him':52 'identifi':51 'month':54 'need':13 'paul':31 'pressur':24 'pundit':10 'push':15 'rep':30 'rich':45 'romney':2,47 'romney-ryan':1 'ryan':3,32 'start':5 'tell':6 'truth':8 'wari':49 'washington':36,53 'york':40,41</fti-names>
+          <source-url>http://www.washingtonmonthly.com/</source-url>
+          <url>http://www.washingtonmonthly.com/political-animal-a/2012_08/romneyryan_why_start_telling_t039038.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972969</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Monthly</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:03:21-04:00</created-at>
+          <title>Jared Bernstein: Paul Ryan's Budget Numbers Don't Add Up</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...wonk. (Fortunately, Ryan Lizza is not one of those stupid journalists.) The New Yorker&#8217;s Ryan Lizza provides a profile of Rep Paul Ryan, with a rich discussion of his vision for limited government. It&#8217;s a good read, but it left me thinking about wha</excerpt>
+          <fti-names>'add':10 'bernstein':2 'budget':6 'crook':58 'discuss':39 'fortun':13 'good':49 'govern':45 'jare':1 'journalist':22 'left':53 'liar':60 'limit':44 'lizza':15,28 'new':24 'number':7 'one':18 'paul':3,34 'profil':31 'provid':29 'read':50 'rep':33 'rich':38 'ryan':4,14,27,35 'stupid':21 'think':55 'vision':42 'wha':57 'wonk':12 'yorker':25</fti-names>
+          <source-url>http://www.crooksandliars.com/</source-url>
+          <url>http://crooksandliars.com/susie-madrak/jared-bernstein-paul-ryans-budget-num</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972968</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Crooks and Liars</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:49:58-04:00</created-at>
+          <title>Priebus: Romney ticket will offer 'bold choice'</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...in the conservative &quot;Weekly Standard,&quot; urging Romney to &#8220;go for the gold&#8221; and pick either Sen. Marco Rubio (R-Fla.) or Rep. Paul Ryan (R-Wis.) &#8211; two prospects who would fire up conservatives. &#8220;Well, Paul is one of my best buddies. I went to law </excerpt>
+          <fti-names>'best':49 'bold':6 'buddi':50 'choic':7 'conserv':10,42 'either':22 'fire':40 'fla':28 'go':16 'gold':19 'law':54 'marco':24 'offer':5 'one':46 'paul':31,44 'pick':21 'politico':56 'priebus':1 'prospect':37 'r':27,34 'r-fla':26 'r-wis':33 'rep':30 'romney':2,14 'rubio':25 'ryan':32 'sen':23 'standard':12 'ticket':3 'two':36 'urg':13 'week':11 'well':43 'went':52 'wis':35 'would':39</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=74c6e4117fdddf94a812789ef2f40598</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972528</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:49:58-04:00</created-at>
+          <title>&quot;Naples Daily NewsMakers with Jeff Lytle&quot;: Paul Ryan, Ted Soliday &amp; Lois Bolin</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Republican leader of the Washington budget battle, U.S. Rep. Paul Ryan of Wisconsin, joins Naples Municipal Airport Executive Director Ted Soliday and &quot;Keep the Spirit of 45 Alive&quot; director Lois Bolin on this week&#8217;s &quot;Naples Daily NewsMakers with Jeff </excerpt>
+          <fti-names>'45':39 'airport':29 'aliv':40 'battl':19 'bolin':12,43 'budget':18 'daili':2,49,54 'director':31,41 'execut':30 'jeff':5,52 'join':26 'keep':35 'leader':14 'loi':11,42 'lytl':6 'municip':28 'napl':1,27,48,53 'news':55 'newsmak':3,50 'paul':7,22 'rep':21 'republican':13 'ryan':8,23 'soliday':10,33 'spirit':37 'ted':9,32 'u.s':20 'washington':17 'week':46 'wisconsin':25</fti-names>
+          <source-url>http://www.naplesnews.com/</source-url>
+          <url>http://www.naplesnews.com/news/2012/aug/05/newsmakers-paul-ryan-ted-soliday-lois-bolin/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972527</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Naples Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:05:31-04:00</created-at>
+          <title>Former Obama Budget Head Challenges Paul Ryan To Demonstrate How His Budget Would Lower Health Costs</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Paul Ryan&#8217;s (R-WI) proposals to control health care spending by slashing the federal government&#8217;s contribution to Medicare and Medicaid and shifting that spending on to future retirees or the states, has dominated Washington&#8217;s conversation about e</excerpt>
+          <fti-names>'budget':3,12 'care':27 'challeng':5 'contribut':35 'control':25 'convers':55 'cost':16 'demonstr':9 'domin':52 'e':57 'feder':32 'former':1 'futur':46 'govern':33 'head':4 'health':15,26 'lower':14 'medicaid':39 'medicar':37 'obama':2 'paul':6,17 'progress':59 'propos':23 'r':21 'r-wi':20 'retire':47 'ryan':7,18 'shift':41 'slash':30 'spend':28,43 'state':50 'think':58 'washington':53 'wi':22 'would':13</fti-names>
+          <source-url>http://thinkprogress.org/</source-url>
+          <url>http://thinkprogress.org/health/2012/08/02/629751/former-obama-budget-head-challenges-paul-ryan-to-demonstrate-how-his-budget-would-lower-health-costs/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970924</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:05:28-04:00</created-at>
+          <title>Rep. Paul Ryan: Entrepreneurial Capitalism vs. Crony Capitalism</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...up rewarding a few while raising taxes on everyone else. We want to remove these barriers of upward mobility and opportunity to have a true entrepreneurial form of capitalism, not crony capitalism,&quot; Rep. Paul Ryan (R-Wis.) said on the House floor today.</excerpt>
+          <fti-names>'barrier':24 'capit':5,8,37,40 'clear':54 'croni':7,39 'els':18 'entrepreneuri':4,34 'everyon':17 'floor':51 'form':35 'hous':50 'mobil':27 'opportun':29 'paul':2,42 'polit':55 'r':45 'r-wis':44 'rais':14 'real':53 'remov':22 'rep':1,41 'reward':10 'ryan':3,43 'said':47 'tax':15 'today':52 'true':33 'upward':26 'vs':6 'want':20 'wis':46</fti-names>
+          <source-url>http://www.realclearpolitics.com/blog/</source-url>
+          <url>http://www.realclearpolitics.com/video/2012/08/02/rep_paul_ryan_entrepreneurial_capitalism_vs_crony_capitalism.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970923</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Real Clear Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:05:17-04:00</created-at>
+          <title>Veep Sheet: Paul Ryan in the mix</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...shortlist includes Sen. Rob Portman of Ohio, former Minn. Gov. Tim Pawlenty of Minnesota and &#8212; a recent development &#8212; Rep. Paul Ryan of Wisconsin, who&#8217;s generated considerable buzz this week as the subject of a lengthy New Yorker profile . The Vee</excerpt>
+          <fti-names>'buzz':35 'consider':34 'develop':25 'former':15 'generat':33 'gov':17 'includ':9 'lengthi':43 'minn':16 'minnesota':21 'mix':7 'new':44 'ohio':14 'paul':3,27 'pawlenti':19 'politico':50 'portman':12 'profil':46 'recent':24 'rep':26 'rob':11 'ryan':4,28 'sen':10 'sheet':2 'shortlist':8 'subject':40 'tim':18 'vee':48 'veep':1 'week':37 'wisconsin':30 'yorker':45</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79315.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970922</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:56:47-04:00</created-at>
+          <title>Kaine embraces bankrupt entitlements</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...George Allen, who threaten to scale back these protections, and diminish benefits. George Allen has repeatedly praised Rep. Paul Ryan&#8217;s budget, which would dramatically shift health care costs onto the shoulders of older Americans, and replace the cur</excerpt>
+          <fti-names>'allen':6,18 'american':39 'back':11 'bankrupt':3 'benefit':16 'budget':26 'care':32 'cost':33 'cur':43 'diminish':15 'dramat':29 'embrac':2 'entitl':4 'georg':5,17 'health':31 'kain':1 'older':38 'onto':34 'paul':23 'post':46 'prais':21 'protect':13 'rep':22 'repeat':20 'replac':41 'ryan':24 'scale':10 'shift':30 'shoulder':36 'threaten':8 'washington':45 'would':28</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=91721b938f9f1385041a5b0660c0fa44</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969962</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Paul Ryan [R, WI-1]</name>
+      <total-session-votes type="integer">1713</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepPaulRyan</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:20-04:00</created-at>
+          <title>How Paul Ryan Captured The Republican Party</title>
+          <contains-term>republican</contains-term>
+          <excerpt>One day in March, 2009, two months after the Inauguration of President Obama, Representative Paul Ryan, of Wisconsin, sat behind a small table in a cramped meeting space in his Capitol Hill office.</excerpt>
+          <fti-names>'2009':12 'behind':27 'capitol':38 'captur':4 'cramp':33 'day':9 'editor':45 'hill':39 'huffington':42 'inaugur':17 'march':11 'meet':34 'month':14 'news':44 'obama':20 'offic':40 'one':8 'parti':7 'paul':2,22 'post':43 'presid':19 'repres':21 'republican':6 'ryan':3,23 'sat':26 'small':29 'space':35 'tabl':30 'two':13 'wisconsin':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/30/paul-ryan_n_1718471.html&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNFuMR3NQIoxsDseT3UCuHa4hO_lGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961592</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:20-04:00</created-at>
+          <title>Paul Ryan: Jack Kemp for a new generation? | rip and reader</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Every week, it seems, brings speculation regarding whom Mitt Romney might pick as his running mate. The buzz right now seems to be about Wisconsin Rep. Paul Ryan. Speaking on &#8220;This Week&#8221; Sunday, ABC News&amp;#39; Jon Karl ...</excerpt>
+          <fti-names>'abc':45 'blog':49 'bring':16 'buzz':29 'everi':12 'generat':8 'jack':3 'jon':47 'karl':48 'kemp':4 'mate':27 'might':22 'mitt':20 'new':7 'news':46 'paul':1,38 'pick':23 'reader':11 'regard':18 'rep':37 'right':30 'rip':9 'romney':21 'run':26 'ryan':2,39 'seem':15,32 'speak':40 'specul':17 'sunday':44 'week':13,43 'wire':50 'wisconsin':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ripandreader.com/paul-ryan-jack-kemp-for-a-new-generation/&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNHBqcJCSZWl5luFzr2fMEXjRDyBzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961591</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>blog wire</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:19-04:00</created-at>
+          <title>Congressman Paul Ryan Showcased In The New Yorker ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>One heck of a read. Small part&#8230;.. Ryan&amp;#39;s first significant policy fight came in 2004. As President George W. Bush campaigned for a second term, largely emphasizing counter-terrorism and national-security policies, Ryan laid ...</excerpt>
+          <fti-names>'2004':24 'bush':29 'came':22 'campaign':30 'congressman':1 'counter':38 'counter-terror':37 'dekeriv':47 'emphas':36 'fight':21 'first':18 'georg':27 'heck':10 'laid':46 'larg':35 'nation':42 'national-secur':41 'new':7 'one':9 'part':15 'paul':2 'polici':20,44 'presid':26 'read':13 'ryan':3,16,45 'second':33 'secur':43 'showcas':4 'signific':19 'small':14 'term':34 'terror':39 'w':28 'yorker':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dekerivers.wordpress.com/2012/07/30/congressman-paul-ryan-showcased-in-the-new-yorker/&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGZ8uEeT9IxLkAd9EQidw9aC0QfkQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961589</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dekerivers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:19-04:00</created-at>
+          <title>How Paul Ryan Captured the G.O.P.</title>
+          <contains-term>representative</contains-term>
+          <excerpt>One day in March, 2009, two months after the Inauguration of President Obama, Representative Paul Ryan, of Wisconsin, sat behind a small table in a cramped meeting space in his Capitol Hill office. Hunched forward in his ...</excerpt>
+          <fti-names>'2009':11 'behind':26 'capitol':37 'captur':4 'cramp':32 'day':8 'forward':41 'g.o.p':6 'hill':38 'hunch':40 'inaugur':16 'lizza':45 'march':10 'meet':33 'month':13 'new':47 'obama':19 'offic':39 'one':7 'paul':2,21 'presid':18 'repres':20 'ryan':3,22,44 'sat':25 'small':28 'space':34 'tabl':29 'two':12 'wisconsin':24 'yorker':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.realclearpolitics.com/2012/07/30/how_paul_ryan_captured_the_gop_286042.html&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEaLhQEQiDdEHWqBkMtLvFuxTTsTw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961587</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ryan Lizza, The New Yorker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:19-04:00</created-at>
+          <title>Democurmudgeon: Ron Johnson and Paul Ryan push Appalling ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ron Johnson and Rep. Paul Ryan arrived &#8230; and began speaking on a small stage when a few of the protesters holding signs tried to move close to the stage. Some protesters chanted &amp;quot;Ron Johnson supports China!&amp;quot; ...</excerpt>
+          <fti-names>'appal':8 'arriv':15 'began':17 'chant':40 'china':44 'close':34 'democurmudgeon':1,45 'hold':29 'johnson':3,10,42 'move':33 'paul':5,13 'protest':28,39 'push':7 'rep':12 'ron':2,9,41 'ryan':6,14 'sign':30 'small':21 'speak':18 'stage':22,37 'support':43 'tri':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://democurmudgeon.blogspot.com/2012/07/ron-johnson-and-paul-ryan-push.html&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGHfkR3SgMR3sCuCbpcysohj4mycA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961586</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Democurmudgeon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:18-04:00</created-at>
+          <title>Look at this ridiculous photo of Rep. Paul Ryan in a tiny car ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As posted yesterday on Rep. Paul Ryan &amp;#39;s (R-Wis.) Facebook .</excerpt>
+          <fti-names>'blog':27 'car':13 'editor':28 'facebook':25 'look':1 'paul':8,19 'photo':5 'polit':26 'post':15 'r':23 'r-wis':22 'rep':7,18 'ridicul':4 'ryan':9,20 'tini':12 'wis':24 'yesterday':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americanpoliticalblogs.com/2012/07/look-at-this-ridiculous-photo-of-rep-paul-ryan-in-a-tiny-car/&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNG_U3_i113DwHz-LVsKUxWhoz5XFw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961583</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Political Blog Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:30:19-04:00</created-at>
+          <title>Rep Paul Ryan: #StopTheTaxHike</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Important vote coming up this week in the House of Representatives. Rep. Paul Ryan explains. Published on Jul 27, 2012 by RepPaulRyan You know, American businesses and families are wondering what will their tax.</excerpt>
+          <fti-names>'2012':24 '27':23 'american':29 'busi':30 'come':7 'explain':19 'famili':32 'hous':13 'import':5 'jul':22 'know':28 'paul':2,17 'publish':20 'rep':1,16 'reppaulryan':26 'repres':15 'ryan':3,18 'sibyl':39 'stopthetaxhik':4 'tax':38 'vote':6 'week':10 'west':40 'wonder':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ramparts360.com/2012/07/rep-paul-ryan-stopthetaxhike/&amp;sa=U&amp;ei=SlEXUKXXG4Ki8QS6o4GoDg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNH1-ucnFsji20-Xw3aST97qpuSAmA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16961585</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sibyl West</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:22:35-04:00</created-at>
+          <title>Paul Ryan and Ron Johnson In Janesville Today - blog*spot</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Hyper-partisan job killers Rep. Paul Ryan and Sen. Ron Johnson will be on the Mitt Romney campaign tour bus (sans Romney) when it makes a stop at Rock County GOP offices in Janesville. The visit is scheduled for today ...</excerpt>
+          <fti-names>'blog':9 'bus':31 'campaign':29 'counti':41 'gop':42 'hyper':12 'hyper-partisan':11 'janesvill':7,45 'job':14 'johnson':5,22 'kay':53 'killer':15 'lou':52 'make':36 'mitt':27 'offic':43 'partisan':13 'paul':1,17 'rep':16 'rock':40 'romney':28,33 'ron':4,21 'ryan':2,18 'san':32 'schedul':49 'sen':20 'spot':10 'stop':38 'today':8,51 'tour':30 'visit':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rocknetroots.blogspot.com/2012/07/paul-ryan-and-ron-johnson-in-janesville.html&amp;sa=U&amp;ei=I1IWUOWKC-LZ0QH7-4CYCA&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNEGn20pdWBohsoo1AwkYFccXjuRCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949909</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lou Kaye</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:22:30-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part event at GOP campaign headquarters in Waukesha.</excerpt>
+          <fti-names>'also':17 'campaign':24 'chairman':14 'committe':13 'congressman':4 'event':21 'gop':23 'headquart':25 'johnson':3 'maley':29 'mark':28 'nation':12 'part':20 'paul':5 'priebus':16 'ralli':8 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'take':19 'waukesha':10,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://menomoneefalls.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-rally-in-waukesha-county-sunday&amp;sa=U&amp;ei=I1IWUOWKC-LZ0QH7-4CYCA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNGFrcSm9Qn7FxNdKdcSBzeOi6fzkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949905</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400351</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:22:24-04:00</created-at>
+          <title>Sen. Ron Johnson, Congressman Paul Ryan to Rally in Waukesha ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican National Committee Chairman Reince Priebus also will take part in rally at GOP campaign headquarters on Pearl Street.</excerpt>
+          <fti-names>'also':17 'campaign':25 'chairman':14 'committe':13 'congressman':4 'gop':24 'headquart':26 'johnson':3 'maley':31 'mark':30 'nation':12 'part':20 'paul':5 'pearl':28 'priebus':16 'ralli':8,22 'reinc':15 'republican':11 'ron':2 'ryan':6 'sen':1 'street':29 'take':19 'waukesha':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waukesha.patch.com/articles/sen-ron-johnson-congressman-paul-ryan-to-visit-waukesha-sunday&amp;sa=U&amp;ei=I1IWUOWKC-LZ0QH7-4CYCA&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNE_q---_sZ822xRN7pmewI0_o5Pow</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949901</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Maley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">36137</page-views-count>
+      <unaccented-name>Paul Ryan</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

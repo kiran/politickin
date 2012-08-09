@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-09-15T21:17:40-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.2727272727273</party-votes-percentage>
+        <abstains-percentage type="float">4.01396160558464</abstains-percentage>
+        <votes-most-often-with-id type="integer">412327</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">255</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">17</cosponsored-bills-passed-rank>
+        <abstains type="integer">69</abstains>
+        <cosponsored-bills type="integer">313</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">155</party-votes-percentage-rank>
+        <sponsored-bills type="integer">14</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412221</person-id>
+        <cosponsored-bills-rank type="integer">66</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">179</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">310</votes-republican-position>
+      <fax>202-226-0112</fax>
+      <blog-article-count type="integer">5599</blog-article-count>
+      <user-approval type="float">1.92</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">96</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://clarke.house.gov/contactform_zipcheck.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.2727272727273</with-party-percentage>
+      <lastname>Clarke</lastname>
+      <middlename>D.</middlename>
+      <congress-office>1029 Longworth House Office Building</congress-office>
+      <firstname>Yvette</firstname>
+      <website>http://clarke.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1964-11-21</birthday>
+      <person-id type="integer">412221</person-id>
+      <phone>202-225-6231</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>C001067</bioguide-id>
+      <votes-democratic-position type="integer">1539</votes-democratic-position>
+      <metavid-id>Yvette_Clarke</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:33:28-04:00</created-at>
+          <title>Dems launch national effort to help Dream Act kids stay legally in US</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...you to be so desperate to cross that bridge [into the program] that you cross it with the wrong individuals,&quot; said Rep. Yvette Clarke (D-N.Y.). &quot;They are out there ready to profit from your anxiety.&quot; Unveiled in June by the DHS, Obama's deferred action </excerpt>
+          <fti-names>'act':8 'action':61 'anxieti':51 'bridg':22 'clark':37 'cross':20,28 'd':39 'd-n':38 'defer':60 'dem':1 'desper':18 'dhs':57 'dream':7 'effort':4 'help':6 'hill':63 'individu':33 'june':54 'kid':9 'launch':2 'legal':11 'n':40 'nation':3 'obama':58 'profit':48 'program':25 'readi':46 'rep':35 'said':34 'stay':10 'unveil':52 'us':13 'wrong':32 'y':41 'yvett':36</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/homenews/house/242241-democrats-launch-national-effort-to-help-dream-act-kids-stay-legally-in-us-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972432</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:57:00-04:00</created-at>
+          <title>Obama Names Rep. Yvette Clarke To Jamaica Delegation For 50th Anniversary Of Independence</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Obama has named Brooklyn Rep. Yvette Clarke a member of the official delegation to Jamaica to mark the nation's 50th Independence Anniversary. Former Secretary of State Colin Powell will lead the delegation, which will also include U.S. Ambassador to Ja</excerpt>
+          <fti-names>'50th':10,34 'also':49 'ambassador':52 'anniversari':11,36 'brooklyn':17 'clark':5,20 'colin':41 'daili':57 'deleg':8,26,46 'former':37 'includ':50 'independ':13,35 'ja':54 'jamaica':7,28 'lead':44 'mark':30 'member':22 'name':2,16 'nation':32 'new':55 'news':58 'obama':1,14 'offici':25 'powel':42 'rep':3,18 'secretari':38 'state':40 'u.s':51 'york':56 'yvett':4,19</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://feeds.nydailynews.com/~r/nydnrss/blogs/dailypolitics/~3/yYnbTjU8g5g/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970493</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:43:53-04:00</created-at>
+          <title>Officials Turn To Cheaper Detectors For Finding A Terrorist&#8217;s Nuclear Materials</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Yvette Clarke (NY), the committee&#8217;s senior Democrat, said &#8220;I hope that our congressional oversight has had an effect in bringing to light decisions that caused the taxpayers a lot of money with little to show,&#8221; Clarke said.</excerpt>
+          <fti-names>'bring':34 'caus':39 'cheaper':4 'clark':15,50 'committe':18 'congression':27 'decis':37 'democrat':21 'detector':5 'effect':32 'find':7 'hope':24 'light':36 'littl':47 'lot':43 'materi':12 'money':45 'nj':52 'nuclear':11 'ny':16 'offici':1 'oversight':28 'rep':13 'said':22,51 'senior':20 'show':49 'taxpay':41 'terrorist':9 'today':53 'turn':2 'yvett':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://njtoday.net/2012/07/27/officials-turn-to-cheaper-detectors-for-finding-a-terrorists-nuclear-materials/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T09:09:05-04:00</date>
+          <id type="integer">16920441</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ TODAY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:59:27-04:00</created-at>
+          <title>Timber! Buzz saws busy at ex-Met Mo Vaughn&#8217;s&#160;Brownsville apt. complex&#160;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>A 12-year-old boy died there in May when playing &#8220;chicken&#8221; on a roll-up gate. A staffer for U.S Rep. Yvette Clarke (D-Brownsville) called on the former baseball player to do one-for-one replacement of the felled trees at the Park Place complex.</excerpt>
+          <fti-names>'12':16 'apt':13 'basebal':48 'boy':20 'brownsvill':12,43 'busi':4 'buzz':2 'call':44 'chicken':27 'clark':40 'complex':14,65 'd':42 'd-brownsvill':41 'daili':68 'die':21 'ex':7 'ex-met':6 'fell':59 'former':47 'gate':33 'may':24 'met':8 'mo':9 'new':66 'news':69 'old':19 'one':53,55 'one-for-on':52 'park':63 'place':64 'play':26 'player':49 'rep':38 'replac':56 'roll':31 'roll-up':30 'saw':3 'staffer':35 'timber':1 'tree':60 'u.s':37 'vaughn':10 'year':18 'year-old':17 'york':67 'yvett':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nydailynews.com/new-york/brooklyn/timber-buzz-saws-busy-ex-met-mo-vaughn-brownsville-apt-complex-article-1.1118907</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T05:33:06-04:00</date>
+          <id type="integer">16812375</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:59:30-04:00</created-at>
+          <title>Timber! Buzz saws busy at ex-Met Mo Vaughn&#8217;s Brownsville apt. complex</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...facilities for teens. A 12-year-old boy died there in May when playing &#8220;chicken&#8221; on a roll-up gate. A staffer for U.S Rep. Yvette Clarke (D-Brownsville) called on the former baseball player to do one-for-one replacement of the felled trees at the Pa</excerpt>
+          <fti-names>'12':19 'apt':13 'basebal':51 'boy':23 'brownsvill':12,46 'busi':4 'buzz':2 'call':47 'chicken':30 'clark':43 'complex':14 'd':45 'd-brownsvill':44 'daili':69 'die':24 'ex':7 'ex-met':6 'facil':15 'fell':62 'former':50 'gate':36 'may':27 'met':8 'mo':9 'new':67 'news':70 'old':22 'one':56,58 'one-for-on':55 'pa':66 'play':29 'player':52 'rep':41 'replac':59 'roll':34 'roll-up':33 'saw':3 'staffer':38 'teen':17 'timber':1 'tree':63 'u.s':40 'vaughn':10 'year':21 'year-old':20 'york':68 'yvett':42</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://www.nydailynews.com/new-york/brooklyn/timber-buzz-saws-busy-ex-met-mo-vaughn-brownsville-apt-complex-article-1.1118907?localLinksEnabled=false</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16812376</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:59:26-04:00</created-at>
+          <title>US pledge to rebuild Haiti not being met</title>
+          <contains-term>congress</contains-term>
+          <excerpt>creates a closed process that reduces competition and prevents us from assessing the efficacy of certain taxpayer-funded projects,&quot; said Congresswoman Yvette Clarke, a New York Democrat whose district includes the second largest population of ...</excerpt>
+          <fti-names>'assess':20 'associ':45 'certain':24 'clark':32 'close':11 'competit':15 'congresswoman':30 'creat':9 'democrat':36 'district':38 'efficaci':22 'fund':27 'haiti':5 'includ':39 'largest':42 'met':8 'new':34 'pledg':2 'popul':43 'press':46 'prevent':17 'process':12 'project':28 'rebuild':4 'reduc':14 'said':29 'second':41 'taxpay':26 'taxpayer-fund':25 'us':1,18 'whose':37 'york':35 'yvett':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2012-07-21-Haiti-Promise%20Unfulfilled/id-9218deefb088499c863a351f7e45af85</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T19:24:39-04:00</date>
+          <id type="integer">16812374</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:41:29-04:00</created-at>
+          <title>US pledge to rebuild Haiti not being met</title>
+          <contains-term>congress</contains-term>
+          <excerpt>creates a closed process that reduces competition and prevents us from assessing the efficacy of certain taxpayer-funded projects,&quot; said Congresswoman Yvette Clarke, a New York Democrat whose district includes the second largest population of ...</excerpt>
+          <fti-names>'assess':20 'associ':45 'certain':24 'clark':32 'close':11 'competit':15 'congresswoman':30 'creat':9 'democrat':36 'district':38 'efficaci':22 'fund':27 'haiti':5 'includ':39 'largest':42 'met':8 'new':34 'pledg':2 'popul':43 'press':46 'prevent':17 'process':12 'project':28 'rebuild':4 'reduc':14 'said':29 'second':41 'taxpay':26 'taxpayer-fund':25 'us':1,18 'whose':37 'york':35 'yvett':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2012-07-21-Haiti-Promise%20Unfulfilled/id-8c9d3875b9f847389655b90b9a6678a5</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T12:50:57-04:00</date>
+          <id type="integer">16786253</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:41:28-04:00</created-at>
+          <title>Pols React to Colorado Shooting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Aurora #Colorado New York Rep. Yvette Clarke&#160;@YvetteClarke Today&#8217;s senseless shooting in Aurora, CO is shocking and heartbreaking. All victims and their families are in my thoughts and prayers. New York Rep. Nita Lowel @NitaLowey Thoughts and ...</excerpt>
+          <fti-names>'abc':44 'aurora':6,19 'clark':12 'co':20 'colorado':4,7 'famili':29 'heartbreak':24 'lowel':40 'new':8,36 'news':45 'nita':39 'nitalowey':41 'pol':1 'prayer':35 'react':2 'rep':10,38 'senseless':16 'shock':22 'shoot':5,17 'thought':33,42 'today':14 'victim':26 'york':9,37 'yvett':11 'yvetteclark':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://abcnews.go.com/blogs/politics/2012/07/pols-react-to-colorado-shooting/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T16:12:34-04:00</date>
+          <id type="integer">16786252</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:43:49-04:00</created-at>
+          <title>Pols React to Colorado Shooting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Hopefully, we can exemplify those revealed. Missouri Rep. Russ Carnahan @RepCarnahan More needs to be done to strengthen current legislation and increase public safety. #Aurora #Colorado New York Rep. Yvette Clarke @YvetteClarke</excerpt>
+          <fti-names>'aurora':30 'carnahan':15 'clark':36 'colorado':4,31 'current':24 'done':21 'exemplifi':9 'hope':6 'increas':27 'legisl':25 'missouri':12 'need':18 'new':32 'pol':1 'public':28 'react':2 'rep':13,34 'repcarnahan':16 'reveal':11 'russ':14 'safeti':29 'shoot':5 'strengthen':23 'yahoo':38 'york':33 'yvett':35 'yvetteclark':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://news.yahoo.com/pols-react-colorado-shooting-143012105--abc-news-politics.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T10:36:08-04:00</date>
+          <id type="integer">16777840</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>YAHOO!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:43:52-04:00</created-at>
+          <title>Pols React to Colorado Shooting</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...50 injured &amp; their families in the senseless &amp; tragic Aurora, Colorado shootings this a.m. -Michigan Rep. Hansen Clarke @RepHansenClarke So very saddened by the terrible violence in Aurora. I&#8217;m heartbroken for the victims and their families and friend</excerpt>
+          <fti-names>'50':6 'a.m':18 'abc':44 'aurora':14,32 'clark':22 'colorado':4,15 'famili':9,41 'friend':43 'hansen':21 'heartbroken':35 'injur':7 'm':34 'michigan':19 'news':45 'pol':1 'react':2 'rep':20 'rephansenclark':23 'sadden':26 'senseless':12 'shoot':5,16 'terribl':29 'tragic':13 'victim':38 'violenc':30</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=cad3e057f9dad2b9e730cb09e8a0332a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16777846</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Yvette Clarke [D, NY-11]</name>
+      <total-session-votes type="integer">1650</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepYvetteClarke</youtube-id>
+      <district>11</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:51-04:00</created-at>
+          <title>Officials turn to cheaper detectors to find a terrorist&amp;#39;s nuclear ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Yvette Clarke, D-N.Y., the committee&amp;#39;s senior Democrat, said, &#8220;I hope that our congressional oversight has had an effect in bringing to light decisions that caused the taxpayers a lot of money with little to show,&#8221; Clarke ...</excerpt>
+          <fti-names>'admin':53 'bring':36 'caus':41 'cheaper':4 'clark':14,52 'committe':20 'congression':29 'd':16 'd-n':15 'decis':39 'democrat':23 'detector':5 'effect':34 'find':7 'hope':26 'light':38 'littl':49 'lot':45 'money':47 'n':17 'nuclear':11 'offici':1 'oversight':30 'rep':12 'said':24 'senior':22 'show':51 'taxpay':43 'terrorist':9 'turn':2 'y':18 'yvett':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ny-moc/yvette-clarke-new-york-representative/officials-turn-to-cheaper-detectors-to-find-a-terrorists-nuclear-materials-iwatch-news/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dofficials-turn-to-cheaper-detectors-to-find-a-terrorists-nuclear-materials-iwatch-news&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNEp8dLvYPPEpKrrbdA3I6BaxEeD_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929145</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:53-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Kathy Castor (FL Democrat), Yes. Rep. Ben Chandler (KY Democrat), Yes. Rep. Judy Chu (CA Democrat), Yes. Rep. David Cicilline (RI Democrat), Yes. Rep. Hansen Clarke (MI Democrat), Yes. Rep. Yvette Clarke (NY Democrat), Yes ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'ben':17 'ca':25 'castor':12 'chandler':18 'chu':24 'cicillin':30 'clark':36,42 'david':29 'democrat':14,20,26,32,38,44 'drill':9 'fl':13 'hansen':35 'hr.6168':1 'judi':23 'kathi':11 'ky':19 'mi':37 'ny':43 'obama':3 'offshor':8 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'ri':31 'www.votetocracy.com':46 'yes':15,21,27,33,39,45 'yvett':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNFeI_Na29zNs4FPYnaCemenB236NQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929149</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:52:05-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Bill Cassidy [R, LA-6] Rep. Kathy Castor [D, FL-11] Rep. Steven Chabot [R, OH-1] Rep. Jason Chaffetz [R, UT-3] Rep. Ben Chandler [D, KY-6] Rep. Judy Chu [D, CA-32] Rep. David Cicilline [D, RI-1] Rep. Yvette Clarke [D, NY-11] Rep. Hansen ...</excerpt>
+          <fti-names>'-1':27,51 '-11':21,57 '-3':33 '-32':45 '-6':15,39 'ben':35 'bill':11 'ca':44 'cassidi':12 'castor':18 'chabot':24 'chaffetz':30 'chandler':36 'chu':42 'cicillin':48 'clark':54 'd':19,37,43,49,55 'david':47 'deadlin':5 'debt':1,10 'debtreliefmag.com':60 'fl':20 'hansen':59 'homeown':7 'jason':29 'judi':41 'kathi':17 'ky':38 'la':14 'law':4 'loom':9 'ny':56 'oh':26 'r':13,25,31 'relief':2 'rep':16,22,28,34,40,46,52,58 'ri':50 'steven':23 'tax':3 'ut':32 'yvett':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=Ukf6T5vGMqPi2QWX_532Bg&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNHCUnAS-cnqlrrrgJ7plOQUEZZn1w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16458760</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:53-04:00</created-at>
+          <title>Representative Yvette Clarke to Ring The NASDAQ Stock Market ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Yvette Clarke to Ring The NASDAQ Stock Market Closing BellMarketWatch (press release)A live webcast of the NASDAQ Closing Bell will be available at: ...</excerpt>
+          <fti-names>'avail':33 'bell':30 'bellmarketwatch':20 'clark':3,12 'close':19,29 'live':24 'market':9,18 'nasdaq':7,16,28,36 'press':21 'releas':22 'repres':1,10 'ring':5,14 'stock':8,17 'topic':35 'webcast':25 'yvett':2,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thefinancialtribune.com/%3Fp%3D265183&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNEqkxfHlgpzjT4gQtLKMzhAnjoWzQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16929150</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>topic:nasdaq </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:52-04:00</created-at>
+          <title>Representative Yvette Clarke to Ring The NASDAQ Stock Market ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Yvette Clarke to Ring The NASDAQ Stock Market Closing Bell. ADVISORY, July 5, 2012 (GLOBE NEWSWIRE) --. What: U.S. Congresswoman Yvette Clarke, who represents the 11th Congressional District ...</excerpt>
+          <fti-names>'/newsroom/?kw=advisory':40 '11th':35 '2012':24 '5':23 'advisori':21 'bell':20 'clark':3,12,31 'close':19 'congression':36 'congresswoman':29 'district':37 'globe':25 'juli':22 'market':9,18 'nasdaq':7,16 'newswir':26 'repres':1,10,33 'ring':5,14 'stock':8,17 'u.s':28 'www.globenewswire.com':39 'www.globenewswire.com/newsroom/?kw=advisory':38 'yvett':2,11,30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.globenewswire.com/newsroom/news.html%3Fd%3D261113&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNHM-j8-OZKf70pARAhH6j6FNki4jw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16929147</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.globenewswire.com/newsroom/?kw=ADVISORY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:52:06-04:00</created-at>
+          <title>Representative Yvette Clarke to Ring The NASDAQ Stock Market ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Yvette Clarke to Ring The NASDAQ Stock Market Closing BellMarketWatch (press release)A live webcast of the NASDAQ Closing Bell will be available at: ...</excerpt>
+          <fti-names>'avail':33 'bell':30 'bellmarketwatch':20 'clark':3,12 'close':19,29 'live':24 'market':9,18 'nasdaq':7,16,28,36 'press':21 'releas':22 'repres':1,10 'ring':5,14 'stock':8,17 'topic':35 'webcast':25 'yvett':2,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thefinancialtribune.com/%3Fp%3D265183&amp;sa=U&amp;ei=Ukf6T5vGMqPi2QWX_532Bg&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNGWrR2b3tJtxozS-Q7E4I5J-gsbuQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16458764</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>topic:nasdaq </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:52:03-04:00</created-at>
+          <title>Representative Yvette Clarke to Ring The NASDAQ Stock Market ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Yvette Clarke to Ring The NASDAQ Stock Market Closing Bell. ADVISORY, July 5, 2012 (GLOBE NEWSWIRE) --. What: U.S. Congresswoman Yvette Clarke, who represents the 11th Congressional District ...</excerpt>
+          <fti-names>'/newsroom/?kw=advisory':40 '11th':35 '2012':24 '5':23 'advisori':21 'bell':20 'clark':3,12,31 'close':19 'congression':36 'congresswoman':29 'district':37 'globe':25 'juli':22 'market':9,18 'nasdaq':7,16 'newswir':26 'repres':1,10,33 'ring':5,14 'stock':8,17 'u.s':28 'www.globenewswire.com':39 'www.globenewswire.com/newsroom/?kw=advisory':38 'yvett':2,11,30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.globenewswire.com/newsroom/news.html%3Fd%3D261113&amp;sa=U&amp;ei=Ukf6T5vGMqPi2QWX_532Bg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNGT_jO9mVk5MfX6UxBJflPAhQjKXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16458756</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.globenewswire.com/newsroom/?kw=ADVISORY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:50-04:00</created-at>
+          <title>Obama For Rep. Clarke</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;For over a decade Rep. Yvette Clarke has been working to give a voice to the voiceless, whether it was improving educational opportunity for children, expanding access to healthcare for women in need, or helping small ...</excerpt>
+          <fti-names>'access':31 'benjamin':42 'children':29 'clark':4,11 'decad':8 'educ':26 'expand':30 'give':16 'healthcar':33 'help':39 'improv':25 'liz':41 'need':37 'obama':1 'opportun':27 'rep':3,9 'small':40 'voic':18 'voiceless':21 'whether':22 'women':35 'work':14 'yvett':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://capitaltonightny.ynn.com/2012/06/obama-for-rep-clarke/&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEx81wHUhkToqugA_aBnO8SxZkKYA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16929143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Liz Benjamin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:50:52-04:00</created-at>
+          <title>Vote Yvette Clarke | vsmarcuslewis</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Vote Yvette - Visit Website United States Representative Yvette D. Clarke is a Brooklyn native whose roots are firmly planted in her Jamaican heritage. A product of the ... Vote Yvette Clarke: 9th District in Brooklyn, NY &amp;middot; Tweet ...</excerpt>
+          <fti-names>'9th':35 'brooklyn':17,38 'clark':3,14,34 'd':13 'district':36 'firm':22 'heritag':27 'jamaican':26 'lewi':42 'marcus':41 'nativ':18 'ny':39 'plant':23 'product':29 'repres':11 'root':20 'state':10 'tweet':40 'unit':9 'visit':7 'vote':1,5,32 'vsmarcuslewi':4 'websit':8 'whose':19 'yvett':2,6,12,33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://vsmarcuslewis.com/portfolio/yvette-clarke/&amp;sa=U&amp;ei=CaUUUMLiH4X30gHeqIGQCQ&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNEWyjxT_sRtV4zKPZjY5kcICcn-bA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-24T01:00:00-04:00</date>
+          <id type="integer">16929148</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marcus Lewis</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412221</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:52:05-04:00</created-at>
+          <title>Obama&amp;#39;s endorses Rep. Clarke</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&amp;quot;Rep. Yvette Clarke has stood by my side as we tried to create an economy where everyone has an opportunity to own a home, support their family, and look forward to a secure retirement,&amp;quot; said President Barack Obama in a ...</excerpt>
+          <fti-names>'barack':42 'clark':5,8 'creat':18 'economi':20 'endors':3 'everyon':22 'famili':32 'forward':35 'home':29 'look':34 'obama':1,43 'opportun':25 'presid':41 'rep':4,6 'retir':39 'said':40 'secur':38 'side':13 'stood':10 'support':30 'tri':16 'www.cnweeklynews.com':46 'yvett':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.cnweeklynews.com/news/us-news/3885-obamas-endorses-rep-clarke&amp;sa=U&amp;ei=Ukf6T5vGMqPi2QWX_532Bg&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNFTEZY1B40Jua8wc4L0Y6Jgu6yGnA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-22T01:00:00-04:00</date>
+          <id type="integer">16458761</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.cnweeklynews.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21847</page-views-count>
+      <unaccented-name>Yvette Clarke</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

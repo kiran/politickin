@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.7235968617984</party-votes-percentage>
+        <abstains-percentage type="float">3.60674810936591</abstains-percentage>
+        <votes-most-often-with-id type="integer">400361</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">257</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">199</cosponsored-bills-passed-rank>
+        <abstains type="integer">62</abstains>
+        <cosponsored-bills type="integer">179</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">42</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400647</person-id>
+        <cosponsored-bills-rank type="integer">161</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">132</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">420</votes-republican-position>
+      <fax>202-226-0611</fax>
+      <blog-article-count type="integer">5069</blog-article-count>
+      <user-approval type="float">2.33333333333333</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">156</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://schwartz.house.gov/issue_subscribe.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.7235968617984</with-party-percentage>
+      <lastname>Schwartz</lastname>
+      <middlename>Y.</middlename>
+      <congress-office>1227 Longworth House Office Building</congress-office>
+      <firstname>Allyson</firstname>
+      <website>http://schwartz.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1948-10-03</birthday>
+      <person-id type="integer">400647</person-id>
+      <phone>202-225-6111</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1553</votes-democratic-position>
+      <metavid-id>Allyson_Y._Schwartz</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:33-04:00</created-at>
+          <title>Bill Would Create More Training Slots for New Doctors</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Education Accountability and Transparency Act (HR 6352), is sponsored by Rep. Aaron Schock, an Illinois Republican, and Rep. Allyson Schwartz, a Pennsylvania Democrat. Medical schools have been expanding their enrollments and new schools have been openi</excerpt>
+          <fti-names>'6352':16 'aaron':21 'account':11 'act':14 'allyson':28 'bill':1 'chronicl':46 'creat':3 'democrat':32 'doctor':9 'educ':10,49 'enrol':39 'expand':37 'higher':48 'hr':15 'illinoi':24 'medic':33 'new':8,41 'openi':45 'pennsylvania':31 'rep':20,27 'republican':25 'schock':22 'school':34,42 'schwartz':29 'slot':6 'sponsor':18 'train':5 'transpar':13 'would':2</fti-names>
+          <source-url>http://chronicle.com/</source-url>
+          <url>http://chronicle.com/article/Bill-Would-Create-More/133399/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972985</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chronicle of Higher Education</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:33-04:00</created-at>
+          <title>Working Mothers Love PA Elected Officials</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Fattah advocates for legislation and programs meant to level the playing field for those with low and modest incomes. Rep. Allyson Schwartz. They love Congresswoman Schartz because: Four-term congresswoman Allyson Schwartz has spearheaded efforts to exp</excerpt>
+          <fti-names>'advoc':8 'allyson':27,38 'averag':46 'congresswoman':31,37 'effort':42 'elect':5 'exp':44 'fattah':7 'field':18 'four':35 'four-term':34 'incom':25 'jane':47 'legisl':10 'level':15 'love':3,30 'low':22 'meant':13 'modest':24 'mother':2 'offici':6 'pa':4 'play':17 'program':12 'rep':26 'schartz':32 'schwartz':28,39 'spearhead':41 'term':36 'work':1</fti-names>
+          <source-url>http://aboveavgjane.blogspot.com/</source-url>
+          <url>http://feedproxy.google.com/~r/AboveAverageJane/~3/kzij6h1pUQA/working-mothers-love-pa-elected.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972984</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Above Average Jane</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:17:28-04:00</created-at>
+          <title>Ministry of Intense Rhetoric, birth control version</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...guarantee of freedom of religion. Needless to say, Kelly&#8217;s choice of rhetoric has been controversial. Democratic U.S. Rep. Allyson Schwartz, of the 13th District of Pennsylvania, said it was &#8220;beyond stunning&#8221; that Kelly compared the birth-control </excerpt>
+          <fti-names>'13th':31 'allyson':27 'beyond':38 'birth':5,45 'birth-control':44 'choic':18 'compar':42 'control':6,46 'controversi':23 'democrat':24 'district':32 'freedom':10 'guarante':8 'intens':3 'kelli':16,41 'ministri':1 'needless':13 'pennsylvania':34 'philly.com':47 'religion':12 'rep':26 'rhetor':4,20 'said':35 'say':15 'schwartz':28 'stun':39 'u.s':25 'version':7</fti-names>
+          <source-url>http://www.philly.com/mld/philly/</source-url>
+          <url>http://www.philly.com/philly/blogs/big_tent/Ministry-of-Intense-Rhetoric-birth-control-version.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970942</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philly.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:17:41-04:00</created-at>
+          <title>One-year Medicare pay freeze proposed in House</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the cost of boosting doctor pay by eliminating provisions of the health system reform law. Reps. Joe Heck, DO (R, Nev.), and Allyson Schwartz (D, Pa.) also have offered a bill that repeals the SGR by redirecting unspent war funds. In the name of patient</excerpt>
+          <fti-names>'allyson':32 'also':36 'amednews.com':55 'bill':40 'boost':13 'cost':11 'd':34 'doctor':14 'elimin':17 'freez':6 'fund':49 'health':21 'heck':27 'hous':9 'joe':26 'law':24 'medicar':4 'name':52 'nev':30 'offer':38 'one':2 'one-year':1 'pa':35 'patient':54 'pay':5,15 'propos':7 'provis':18 'r':29 'redirect':46 'reform':23 'rep':25 'repeal':42 'schwartz':33 'sgr':44 'system':22 'unspent':47 'war':48 'year':3</fti-names>
+          <source-url>http://www.ama-assn.org/amednews/</source-url>
+          <url>http://www.ama-assn.org/amednews/2012/07/30/gvsd0802.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970943</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>amednews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:41-04:00</created-at>
+          <title>Greg Walden Ready for Leadership Role</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...other than Steve Israel is running the DCCC next cycle,&#8221; the strategist said. &#8220;But if he declines or isn&#8217;t asked, you have Allyson Schwartz,&#8221; the Pennsylvania lawmaker who is serving as the DCCC&#8217;s national chairwoman for recruiting and candida</excerpt>
+          <fti-names>'allyson':30 'ask':27 'call':49 'candida':47 'chairwoman':43 'cycl':16 'dccc':14,40 'declin':23 'greg':1 'isn':25 'israel':10 'lawmak':34 'leadership':5 'nation':42 'next':15 'pennsylvania':33 'readi':3 'recruit':45 'role':6 'roll':48 'run':12 'said':19 'schwartz':31 'serv':37 'steve':9 'strategist':18 'walden':2</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_16/Greg-Walden-Ready-for-Leadership-Role-216666-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969980</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:40-04:00</created-at>
+          <title>Caucus Vice Chairman Slot Up for Grabs</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...who are choosing on ideological grounds. Several other names have been floated, including Reps. Karen Bass (Calif.) and Allyson Schwartz (Pa.). But it is unclear whether they will run, and Crowley, Polis and Lee have a head start. This race is the most </excerpt>
+          <fti-names>'allyson':26 'bass':23 'calif':24 'call':52 'caucus':1 'chairman':3 'choos':10 'crowley':38 'float':19 'grab':7 'ground':13 'head':44 'ideolog':12 'includ':20 'karen':22 'lee':41 'name':16 'pa':28 'poli':39 'race':47 'rep':21 'roll':51 'run':36 'schwartz':27 'sever':14 'slot':4 'start':45 'unclear':32 'vice':2 'whether':33</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_15/Caucus-Vice-Chairman-Slot-Up-for-Grabs-216621-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969979</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:13:56-04:00</created-at>
+          <title>Does Corbett have something against women?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That deeply affects women as it does men,&quot; said U.S. Rep. Allyson Schwartz, who represents parts of Philadelphia and Montgomery counties. Dwindling support from women is evidenced in Corbett's polling numbers. His disapproval rating with female voters in .</excerpt>
+          <fti-names>'affect':9 'allyson':18 'corbett':2,35 'counti':27 'daili':47 'deepli':8 'disapprov':40 'dwindl':28 'evidenc':33 'femal':43 'men':14 'montgomeri':26 'news':48 'number':38 'part':22 'philadelphia':24,46 'poll':37 'rate':41 'rep':17 'repres':21 'said':15 'schwartz':19 'someth':4 'support':29 'u.s':16 'voter':44 'women':6,10,31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/politics/state/164225136.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T13:51:51-04:00</date>
+          <id type="integer">16967230</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:30-04:00</created-at>
+          <title>Corbett's cabinet a regular boys club</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Allyson Schwartz, a Democrat representing Philadelphia and Montgomery counties, noted that even if there were more women in Corbett's administration, they likely would share his ideology &#8212; so it wouldn't necessarily mean more ...</excerpt>
+          <fti-names>'administr':30 'allyson':10 'boy':6 'cabinet':3 'club':7 'corbett':1,28 'counti':18 'daili':45 'democrat':13 'even':21 'ideolog':36 'like':32 'mean':42 'montgomeri':17 'necessarili':41 'news':46 'note':19 'philadelphia':15,44 'regular':5 'rep':9 'repres':14 'schwartz':11 'share':34 'u.s':8 'women':26 'would':33 'wouldn':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/politics/20120730_Corbett_s_cabinet_a_regular_boys_club.html?jCount=2&amp;</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:50:10-04:00</date>
+          <id type="integer">16961654</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:30-04:00</created-at>
+          <title>Does Corbett have something against women?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That deeply affects women as it does men,&quot; said U.S. Rep. Allyson Schwartz, who represents parts of Philadelphia and Montgomery counties. Dwindling support from women is evidenced in Corbett's polling numbers. His disapproval rating with female ...</excerpt>
+          <fti-names>'affect':9 'allyson':18 'corbett':2,35 'counti':27 'daili':45 'deepli':8 'disapprov':40 'dwindl':28 'evidenc':33 'femal':43 'men':14 'montgomeri':26 'news':46 'number':38 'part':22 'philadelphia':24,44 'poll':37 'rate':41 'rep':17 'repres':21 'said':15 'schwartz':19 'someth':4 'support':29 'u.s':16 'women':6,10,31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/politics/state/20120730_Does_Corbett_have_something_against_women_.html?jCount=4&amp;</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T10:45:44-04:00</date>
+          <id type="integer">16961655</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:57:31-04:00</created-at>
+          <title>Does Corbett have something against women?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That deeply affects women as it does men,&quot; said U.S. Rep. Allyson Schwartz, who represents parts of Philadelphia and Montgomery counties. Dwindling support from women is evidenced in Corbett's polling numbers. His disapproval rating with female ...</excerpt>
+          <fti-names>'affect':9 'allyson':18 'corbett':2,35 'counti':27 'daili':45 'deepli':8 'disapprov':40 'dwindl':28 'evidenc':33 'femal':43 'men':14 'montgomeri':26 'news':46 'number':38 'part':22 'philadelphia':24,44 'poll':37 'rate':41 'rep':17 'repres':21 'said':15 'schwartz':19 'someth':4 'support':29 'u.s':16 'women':6,10,31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/20120730_Does_Corbett_have_something_against_women_.html?viewAll=y</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T03:00:27-04:00</date>
+          <id type="integer">16950137</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Allyson Schwartz [D, PA-13]</name>
+      <bioguide-id>S001162</bioguide-id>
+      <total-session-votes type="integer">1657</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepAllysonSchwartz</youtube-id>
+      <district>13</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:09-04:00</created-at>
+          <title>Dem Jews Choose: Mitt Romney is Bad -OR- Obama Loves Israel ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Allyson Schwartz (D-PA13) tries to buck up Democratic National Committee Chairwoman Debbie Wasserman Schultz after heckling at a Jewish Americans for Obama rally in Elkins Park, Pa. Posted by Yael ...</excerpt>
+          <fti-names>'allyson':13 'american':34 'bad':7 'buck':20 'chairwoman':25 'choos':3 'committe':24 'congresswoman':12 'd':16 'd-pa13':15 'debbi':26 'dem':1 'democrat':22 'elkin':39 'heckl':30 'israel':11 'jew':2 'jewish':33 'love':10 'mitt':4 'nation':23 'obama':9,36 'pa':41 'pa13':17 'park':40 'post':42 'ralli':37 'romney':5 'schultz':28 'schwartz':14 'tri':18 'wasserman':27 'yael':44,45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bokertov.typepad.com/btb/2012/07/dem-jews-choose-mitt-romney-is-bad-or-obama-loves-israel.html&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNFXYaBQdOv0YsdEIVe1upqyFjapaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16717498</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Yael</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:01-04:00</created-at>
+          <title>Keys, Female Dems Sing Obama&amp;#39;s Tune | PoliticsPA</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>A line of famous female Dems opened the event, including Rep. Allyson Schwartz (D-Montgomery), Lisa Nutter, senior strategist Valerie Jarrett and U.S. Rep. Debbie Wasserman Schultz (D-FL), the Democratic National ...</excerpt>
+          <fti-names>'allyson':20 'd':23,38 'd-fl':37 'd-montgomeri':22 'debbi':34 'dem':3,14 'democrat':41 'event':17 'famous':12 'femal':2,13 'fl':39 'includ':18 'jarrett':30 'kelly.cernetich':43 'key':1 'line':10 'lisa':25 'montgomeri':24 'nation':42 'nutter':26 'obama':5 'open':15 'politicspa':8 'rep':19,33 'schultz':36 'schwartz':21 'senior':27 'sing':4 'strategist':28 'tune':7 'u.s':32 'valeri':29 'wasserman':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/keys-female-dems-sing-obamas-tune/38165/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNG1exvXx0NnuQIfR4y8zgqd51sYTw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16717490</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kelly.Cernetich</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:55-04:00</created-at>
+          <title>Congressman Meehan raises more than $1M to defend seat - Main ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>New campaign finance reports on file Monday showed U.S. Rep. Allyson Schwartz with the most money among House candidates. As of June 30, the fourth-term Philadelphia-area Democrat had nearly $2.9 million on hand.</excerpt>
+          <fti-names>'1m':6 '2.9':44 '30':33 'allyson':21 'among':27 'area':40 'campaign':12 'candid':29 'congressman':1 'defend':8 'democrat':41 'file':16 'financ':13 'fourth':36 'fourth-term':35 'hand':47 'hous':28 'june':32 'main':10 'meehan':2 'million':45 'monday':17 'money':26 'near':43 'new':11 'philadelphia':39 'philadelphia-area':38 'rais':3 'rep':20 'report':14 'schwartz':22 'seat':9 'show':18 'term':37 'u.s':19 'www.mainlinemedianews.com':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mainlinemedianews.com/articles/2012/07/16/main_line_suburban_life/news/doc500446c3b332f441573230.txt&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEkXx1QXDXCPexsuoRM_0SW7D8gOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16717489</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.mainlinemedianews.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:08-04:00</created-at>
+          <title>&#8220;Israel&#8221; Typo From Obama Campaign Invite for Jewish Americans for ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The event will feature Wasserman Schultz, chair of the Democratic National Committee, as well as Rep. Allyson Schwartz (D., Pa.) and Democratic County Commissioner Josh Shapiro. However, the misspelled word is the ...</excerpt>
+          <fti-names>'allyson':27 'american':9 'campaign':5 'chair':17 'commission':34 'committe':22 'counti':33 'd':29 'democrat':20,32 'event':12 'featur':14 'howev':37 'invit':6 'israel':1 'jewish':8 'josh':35 'misspel':39 'monkey':44 'nation':21 'obama':4 'pa':30 'rep':26 'scare':43 'schultz':16 'schwartz':28 'shapiro':36 'typo':2 'wasserman':15 'well':24 'word':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://scaredmonkeys.com/2012/07/14/israel-typo-from-obama-campaign-invite-for-jewish-americans-for-obama-wasnt-it-obama-who-claimed-to-know-about-judaism-more-than-any-other-president/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNEv3pvCnNrw3Qm15iPZg9_KgC8FmQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16717497</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Scared Monkeys</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:05-04:00</created-at>
+          <title>iOwnTheWorld.com &#187; Blog Archive &#187; PHILADELPHIA-AREA ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The event will feature Wasserman Schultz, chair of the Democratic National Committee, as well as Rep. Allyson Schwartz (D., Pa.) and Democratic County Commissioner Josh Shapiro. According to a copy of the invitation ...</excerpt>
+          <fti-names>'accord':33 'allyson':23 'archiv':3 'area':6 'blog':2 'cardigan':40 'chair':13 'commission':30 'committe':18 'copi':36 'counti':29 'd':25 'democrat':16,28 'event':8 'featur':10 'invit':39 'iowntheworld.com':1 'josh':31 'nation':17 'pa':26 'philadelphia':5 'philadelphia-area':4 'rep':22 'schultz':12 'schwartz':24 'shapiro':32 'wasserman':11 'well':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://iowntheworld.com/blog/%3Fp%3D141352&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGJTrxGFa3KGc2TdoQRnrVHO6-aGQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16717494</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cardigan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:06-04:00</created-at>
+          <title>A Controversial Appearance? | The Jewish Exponent</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Also slated to speak locally on July 16 are U.S. Rep. Allyson Schwartz, the Pennsylvania congresswoman whose district covers parts of Montgomery County and Philadelphia, and Josh Shapiro, a Montgomery County ...</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':40 '16':14 'allyson':18 'also':7 'appear':3 'congresswoman':22 'controversi':2 'counti':29,37 'cover':25 'district':24 'expon':6 'jewish':5 'josh':33 'juli':13 'local':11 'montgomeri':28,36 'part':26 'pennsylvania':21 'philadelphia':31 'rep':17 'schwartz':19 'shapiro':34 'slate':8 'speak':10 'u.s':16 'whose':23 'www.jewishexponent.com':39 'www.jewishexponent.com/?q=save+us+from+berlusconi':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jewishexponent.com/article/26223/A_Controversial_Appearance_/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHIoMV-10nr1YzquDKwXLqSRsdmkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16717495</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.jewishexponent.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:03-04:00</created-at>
+          <title>Congressional Candidate Joe Rooney Calls on Allyson Schwartz to ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Former Marine Corp fighter pilot and Rowhouse Republican for Congress Joe Rooney, today sent incumbent Congresswoman Allyson Schwartz the following letter by US mail, fax and email, giving the Congresswoman a ...</excerpt>
+          <fti-names>'allyson':7,26 'call':5 'candid':2 'congress':19 'congression':1 'congresswoman':25,39 'corp':12 'email':36 'fax':34 'fighter':13 'follow':29 'former':10 'give':37 'incumb':24 'joe':3,20 'letter':30 'mail':33 'marin':11 'pilot':14 'republican':17 'rooney':4,21 'rowhous':16 'schwartz':8,27 'sent':23 'today':22 'tom':41 'us':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.tomtayloronline.org/2012/07/11/congressional-candidate-joe-rooney-calls-on-allyson-schwartz-to-lead-by-example-and-stop-bankrupting-pa-13-seniors-and-families/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNFsx20canE0gaT5Z7C3fno-YAYgLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16717491</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>tom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:03-04:00</created-at>
+          <title>Key Vote: Export Import Bank Representative Allyson Schwartz ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Madison Project Reports the Roll Call for Export -Import Re-authorization Bill -The Vote 9 May 2012. Rep Schwartz and Rep. Fattah , predictably, voted &#8220;YEA&#8221; as did the Pennsylvania Delegation. Here is video from Heritage ...</excerpt>
+          <fti-names>'2012':26 '9':24 'allyson':7 'author':20 'bank':5 'bill':21 'bobguzzardi':45 'call':14 'deleg':39 'export':3,16 'fattah':31 'heritag':44 'import':4,17 'key':1 'madison':9 'may':25 'pennsylvania':38 'predict':32 'project':10 're':19 're-author':18 'rep':27,30 'report':11 'repres':6 'roll':13 'schwartz':8,28 'video':42 'vote':2,23,33 'yea':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thelibertyblog.org/2012/06/11/key-vote-export-import-bank-representative-allyson-schwartz-bipartisan-ship/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGvtPXGuUg1awEMLiEHRc6iQGOEvA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-11T01:00:00-04:00</date>
+          <id type="integer">16717492</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>bobguzzardi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:43:04-04:00</created-at>
+          <title>Now, Rep. Allyson Schwartz Hits Corbett on Ultrasound Comments ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Now, Rep. Allyson Schwartz Hits Corbett on Ultrasound Comments &#187; PhillyNow: A blog about Philadelphia news, politics and culture published by Philadelphia Weekly.</excerpt>
+          <fti-names>'allyson':3,12 'blog':21 'comment':9,18 'corbett':6,15 'cultur':27 'hit':5,14 'lobasso':33 'news':24 'philadelphia':23,30 'phillynow':19 'polit':25 'publish':28 'randi':32 'rep':2,11 'schwartz':4,13 'ultrasound':8,17 'week':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.philadelphiaweekly.com/phillynow/2012/05/03/now-rep-allyson-schwartz-hits-corbett-on-ultrasound-comments/&amp;sa=U&amp;ei=P4IHUO2DDuSJ2AWBm-mtBA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEVpMTRdOPtOJ8yy98CqKuRX4dd5g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-03T01:00:00-04:00</date>
+          <id type="integer">16717493</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Randy LoBasso</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400647</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:11:37-04:00</created-at>
+          <title>Sestak Backs Altmire | PoliticsPA</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Sestak has made a few other congressional endorsement this cycle, including Nate Kleinman, the &amp;#39;occupy&amp;#39; protester running a write-in campaign against Rep. Allyson Schwartz (D-Montco); and Karen Ramsburg, who is ...</excerpt>
+          <fti-names>'allyson':29 'altmir':3 'back':2 'campaign':26 'congression':11 'cycl':14 'd':32 'd-montco':31 'endors':12 'includ':15 'karen':35 'keegan.gibson':39 'kleinman':17 'made':7 'montco':33 'nate':16 'occupi':19 'politicspa':4 'protest':20 'ramsburg':36 'rep':28 'run':21 'schwartz':30 'sestak':1,5 'write':24 'write-in':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/sestak-backs-altmire/34135/&amp;sa=U&amp;ei=SaSNT5WWAoyK8AHL3P2SBw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNG0wjM9u8SQf2kTeyVLYhEIs1Ct5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14543828</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keegan.Gibson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">18916</page-views-count>
+      <unaccented-name>Allyson Schwartz</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

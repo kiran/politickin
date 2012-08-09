@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.3712121212121</party-votes-percentage>
+        <abstains-percentage type="float">7.85340314136126</abstains-percentage>
+        <votes-most-often-with-id type="integer">400326</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">88</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">135</abstains>
+        <cosponsored-bills type="integer">240</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">58</party-votes-percentage-rank>
+        <sponsored-bills type="integer">23</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400122</person-id>
+        <cosponsored-bills-rank type="integer">141</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">55</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">369</votes-republican-position>
+      <metavid-id>Eliot_L._Engel</metavid-id>
+      <blog-article-count type="integer">6998</blog-article-count>
+      <user-approval type="float">2.64705882352941</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">76</oc-users-tracking>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <youtube-id>Engel2161</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.3712121212121</with-party-percentage>
+      <lastname>Engel</lastname>
+      <fax>202-225-5513</fax>
+      <congress-office>2161 Rayburn House Office Building</congress-office>
+      <firstname>Eliot</firstname>
+      <website>http://engel.house.gov/</website>
+      <birthday type="date">1947-02-18</birthday>
+      <person-id type="integer">400122</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2464</phone>
+      <religion>Jewish</religion>
+      <bioguide-id>E000179</bioguide-id>
+      <votes-democratic-position type="integer">1479</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>L.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:41:20-04:00</created-at>
+          <title>Anti-crime grant announced for Spring Valley</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Eliot Engel said the residents of Spring Valley &#8220;deserve the tools available to keep the streets from crime and safe to raise their families.&#8221; The grant money can be used for local initiatives, technical assistance, training ...</excerpt>
+          <fti-names>'announc':5 'anti':2 'anti-crim':1 'assist':44 'avail':21 'congressman':9 'crime':3,27 'deserv':18 'eliot':10 'engel':11 'famili':33 'grant':4,35 'hudson':48 'initi':42 'keep':23 'local':41 'mid':47 'mid-hudson':46 'money':36 'network':50 'news':49 'rais':31 'resid':14 'safe':29 'said':12 'spring':7,16 'street':25 'technic':43 'tool':20 'train':45 'use':39 'valley':8,17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.midhudsonnews.com/News/2012/July/31/SprVal_crime_grant-31Jul12.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T05:36:45-04:00</date>
+          <id type="integer">16966408</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mid-Hudson News Network</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:09:41-04:00</created-at>
+          <title>New York Jews lambast IOC over silence</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&quot;There are three words I have for the International Olympic Committee,&quot; Eliot Engel, a congressman from New York state, said at a ceremony in Manhattan. &quot;Shame on you!&quot; Engel was among dozens of Israeli and Jewish-American leaders holding their own minute </excerpt>
+          <fti-names>'american':45 'among':38 'ceremoni':30 'committe':18 'congressman':22 'dozen':39 'eliot':19 'engel':20,36 'googl':51 'hold':47 'intern':16 'ioc':5 'isra':41 'jew':3 'jewish':44 'jewish-american':43 'lambast':4 'leader':46 'manhattan':32 'minut':50 'new':1,24 'olymp':17 'said':27 'shame':33 'silenc':7 'state':26 'three':10 'word':11 'york':2,25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.google.com/hostednews/afp/article/ALeqM5h5W32g7DZaRAvSn_WJkNgMalW85A?docId=CNG.197e423b24bfc361d26ae350f64f3c9e.231</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T17:23:00-04:00</date>
+          <id type="integer">16929443</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Google</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:50:42-04:00</created-at>
+          <title>House GOP Blocks Vote on Munich Resolution</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Resolution 663 was not voted on this week in the U.S. House of Representatives because the body&#8217;s leadership does not allow what it calls commemorative resolutions to come to the floor for a vote, U.S. Rep. Eliot Engel (D-N.Y.), who sponsored ...</excerpt>
+          <fti-names>'663':9 'allow':29 'block':3 'bodi':24 'call':32 'come':36 'commemor':33 'd':48 'd-n':47 'eliot':45 'engel':46 'floor':39 'forward':53 'gop':2 'hous':1,19 'leadership':26 'munich':6 'n':49 'rep':44 'repres':21 'resolut':7,8,34 'sponsor':52 'u.s':18,43 'vote':4,12,42 'week':15 'y':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://forward.com/articles/160051/house-gop-blocks-vote-on-munich-resolution/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:21:43-04:00</date>
+          <id type="integer">16920934</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forward</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:53:48-04:00</created-at>
+          <title>What are the Wildcats tweeting? UK knows; it monitors athletes' accounts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Earlier this year, New York Congressman Eliot Engel filed a bill known as the Social Networking Online Protection Act, which would ban such tracking by both employers and universities. The national American Civil Liberties Union supports the measure.</excerpt>
+          <fti-names>'account':11 'act':30 'american':43 'athlet':10 'ban':33 'bill':22 'civil':44 'congressman':17 'earlier':12 'eliot':18 'employ':38 'engel':19 'file':20 'herald':52 'herald-lead':51 'know':7 'known':23 'leader':53 'lexington':50 'liberti':45 'measur':49 'monitor':9 'nation':42 'network':27 'new':15 'onlin':28 'protect':29 'social':26 'support':47 'track':35 'tweet':5 'uk':6 'union':46 'univers':40 'wildcat':4 'would':32 'year':14 'york':16</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kentucky.com/2012/07/26/2272406/what-are-the-wildcats-tweeting.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T18:57:15-04:00</date>
+          <id type="integer">16889344</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lexington Herald-Leader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:53:47-04:00</created-at>
+          <title>Congress Likely to Delay Russian Trade Bill for a Month</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;There is a feeling on both sides of the aisle of anger at Russia,&#8221; said Representative Eliot Engel, a New York Democrat who supports normalized trade relations with Russia. House passage next week would be difficult because &#8220;people&#8217;s ...</excerpt>
+          <fti-names>'aisl':20 'anger':22 'bill':7 'bloomberg':50 'congress':1 'delay':4 'democrat':32 'difficult':46 'eliot':27 'engel':28 'feel':14 'hous':40 'like':2 'month':10 'new':30 'next':42 'normal':35 'passag':41 'peopl':48 'relat':37 'repres':26 'russia':24,39 'russian':5 'said':25 'side':17 'support':34 'trade':6,36 'week':43 'would':44 'york':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-26/eased-u-s-trade-limits-with-russia-approved-by-house-committee.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T17:02:43-04:00</date>
+          <id type="integer">16889340</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:50:41-04:00</created-at>
+          <title>House leadership, following ban on commemorative resolutions, blocks Munich 11 vote</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Resolution 663 was not voted on this week in the U.S. House of Representatives because the body&#8217;s leadership does not allow what it calls commemorative resolutions to come to the floor for a vote, U.S. Rep. Eliot Engel (D-N.Y.) told JTA.</excerpt>
+          <fti-names>'11':10 '663':13 'allow':33 'ban':4 'block':8 'bodi':28 'call':36 'come':40 'commemor':6,37 'd':52 'd-n':51 'eliot':49 'engel':50 'floor':43 'follow':3 'hous':1,23 'jta':56,57 'leadership':2,30 'munich':9 'n':53 'rep':48 'repres':25 'resolut':7,12,38 'told':55 'u.s':22,47 'vote':11,16,46 'week':19 'y':54</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.jta.org/news/article-print/2012/07/26/3101861/house-leadership-blocks-munich-11-resolution-vote?TB_iframe=true&amp;width=750&amp;height=500</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T16:19:46-04:00</date>
+          <id type="integer">16920933</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>JTA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:53:47-04:00</created-at>
+          <title>House leadership, following ban on commemorative resolutions, blocks Munich 11 vote</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Resolution 663 was not voted on this week in the U.S. House of Representatives because the body&#8217;s leadership does not allow what it calls commemorative resolutions to come to the floor for a vote, U.S. Rep. Eliot Engel (D-N.Y.) told JTA.</excerpt>
+          <fti-names>'11':10 '663':13 'allow':33 'ban':4 'block':8 'bodi':28 'call':36 'come':40 'commemor':6,37 'd':52 'd-n':51 'eliot':49 'engel':50 'floor':43 'follow':3 'hous':1,23 'jta':56,57 'leadership':2,30 'munich':9 'n':53 'rep':48 'repres':25 'resolut':7,12,38 'told':55 'u.s':22,47 'vote':11,16,46 'week':19 'y':54</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.jta.org/news/article/2012/07/26/3101861/house-leadership-blocks-munich-11-resolution-vote</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T16:19:46-04:00</date>
+          <id type="integer">16889342</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>JTA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:51:04-04:00</created-at>
+          <title>Congress Likely to Delay Russian Trade Bill for a Month</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;There is a feeling on both sides of the aisle of anger at Russia,&#8221; said Representative Eliot Engel, a New York Democrat who supports normalized trade relations with Russia. House passage next week would be difficult because &#8220;people&#8217;s ...</excerpt>
+          <fti-names>'aisl':20 'anger':22 'bill':7 'businessweek':50 'congress':1 'delay':4 'democrat':32 'difficult':46 'eliot':27 'engel':28 'feel':14 'hous':40 'like':2 'month':10 'new':30 'next':42 'normal':35 'passag':41 'peopl':48 'relat':37 'repres':26 'russia':24,39 'russian':5 'said':25 'side':17 'support':34 'trade':6,36 'week':43 'would':44 'york':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.businessweek.com/news/2012-07-26/eased-u-dot-s-dot-trade-limits-with-russia-approved-by-house-committee</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:40:36-04:00</date>
+          <id type="integer">16960048</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Businessweek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:53:56-04:00</created-at>
+          <title>Belief Blog's Morning Speed Read for Thursday, July 26</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...going to give one-minute speeches on the House floor and devote a substantial moment of that to silence on Thursday,&#8221; Rep. Eliot Engel (D-N.Y.) said in a conference call with the media on Wednesday. Following that, he and Rep. Nita Lowey (D-N.Y.) will</excerpt>
+          <fti-names>'26':10 'belief':1 'blog':2 'call':44 'cnn':62 'confer':43 'd':37,58 'd-n':36,57 'devot':23 'eliot':34 'engel':35 'floor':21 'follow':50 'give':13 'go':11 'hous':20 'juli':9 'lowey':56 'media':47 'minut':16 'moment':26 'morn':4 'n':38,59 'nita':55 'one':15 'one-minut':14 'read':6 'rep':33,54 'said':40 'silenc':30 'speech':17 'speed':5 'substanti':25 'thursday':8,32 'wednesday':49 'y':39,60</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://religion.blogs.cnn.com/2012/07/26/belief-blogs-morning-speed-read-for-thursday-july-26/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889347</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:53:56-04:00</created-at>
+          <title>View from the Capitol: Minute of Silence for Munich Victims</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Reps. Steve Israel (center), Nita Lowey (left), Eliot Engel (right) and Republican Rep. Richard Hanna held a minute of silence at the House Triangle on Thursday for the 11 Israeli athletes who were killed during the 1972 Olympic Games in Munich, Germany</excerpt>
+          <fti-names>'11':39 '1972':47 'athlet':41 'capitol':4 'center':14 'eliot':18 'engel':19 'game':49 'germani':52 'hanna':25 'held':26 'hous':33 'isra':40 'israel':13 'journal':54 'kill':44 'left':17 'lowey':16 'minut':5,28 'munich':9,51 'nation':53 'nita':15 'olymp':48 'rep':11,23 'republican':22 'richard':24 'right':20 'silenc':7,30 'steve':12 'thursday':36 'triangl':34 'victim':10 'view':1</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://influencealley.nationaljournal.com/2012/07/view-from-the-capitol-minute-o.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889346</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Eliot Engel [D, NY-17]</name>
+      <total-session-votes type="integer">1584</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>17</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:53:14-04:00</created-at>
+          <title>News From The Hill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The two &amp;quot;no&amp;quot; votes came from Democrats: Reps. Eliot Engel (D-N.Y.) and Maurice Hinchey (D-N.Y.). Under the sequester, the Office of Management and Budget must by Jan. 2 cut $109 billion from 2013 mandatory and ...</excerpt>
+          <fti-names>'109':40 '2':38 '2013':43 'billion':41 'budget':34 'came':9 'cut':39 'd':16,23 'd-n':15,22 'democrat':11 'eliot':13 'engel':14 'hill':4 'hinchey':21 'jan':37 'man':47 'manag':32 'mandatori':44 'mauric':20 'must':35 'n':17,24 'news':1 'offic':30 'rep':12 'sequest':28 'steve':46 'two':6 'vote':8 'y':18,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rendevouswithdestiny.blogspot.com/2012/07/news-from-hill.html&amp;sa=U&amp;ei=l3YHUO_JAs6J2AWpsOXBBA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNERY4KXVm952oBdsxGlOJjsh_ch-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16715679</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Manning</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:53:13-04:00</created-at>
+          <title>Palliative Care and Hospice Education and Training Act (PCHETA ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senators Ron Wyden (D-OR) and Representative Eliot Engel (D-NY13) will be introducing the Palliative Care and Hospice Education and Training Act (PCHETA). For a more in-depth look at what the bill will fund please go to ...</excerpt>
+          <fti-names>'act':8,34 'bill':46 'care':2,28 'd':14,21 'd-ny13':20 'd-or':13 'depth':41 'educ':5,31 'eliot':18 'engel':19 'eric':52 'fund':48 'go':50 'hospic':4,30 'in-depth':39 'introduc':25 'look':42 'ny13':22 'palliat':1,27 'pcheta':9,35 'pleas':49 'repres':17 'ron':11 'senat':10 'train':7,33 'widera':53 'wyden':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.geripal.org/2012/07/palliative-care-and-hospice-education.html&amp;sa=U&amp;ei=l3YHUO_JAs6J2AWpsOXBBA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNFXzK8o02oSPi9klfpcwvqbVcS38w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16715678</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric Widera</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:53:15-04:00</created-at>
+          <title>Ethics inquiry may hurt rise to Senate for Rep. Shelley Berkley, a pro ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>&#8220;If I&amp;#39;m putting something together, she&amp;#39;s the first person I call,&#8221; said Rep. Eliot Engel (D-N.Y.), who has co-sponsored a host of pro-Israel initiatives with Berkley. In letters in recent months, Berkley and Engel have pressed the ...</excerpt>
+          <fti-names>'berkley':11,48,54 'braun':61 'call':26 'co':38 'co-sponsor':37 'd':32 'd-n':31 'eliot':29 'engel':30,56 'ethic':1 'first':23 'host':41 'hurt':4 'initi':46 'inquiri':2 'israel':45 'letter':50 'm':16 'may':3 'month':53 'n':33 'person':24 'phylli':60 'press':58 'pro':13,44 'pro-israel':43 'put':17 'recent':52 'rep':9,28 'rise':5 'said':27 'senat':7 'shelley':10 'someth':18 'sponsor':39 'togeth':19 'y':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://azjewishpost.com/2012/ethics-inquiry-may-hurt-rise-to-senate-for-rep-shelley-berkley-a-pro-israel-stalwart/&amp;sa=U&amp;ei=l3YHUO_JAs6J2AWpsOXBBA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHDYuP_wGBk9SWlMoxK3cX8g8gUsg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16715682</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>PHYLLIS BRAUN </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:53:15-04:00</created-at>
+          <title>Act Seeks to Close Rental Car Recall Loophole</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;If a recall notice has been issued for a rented car, that car should be taken off the road until it&amp;#39;s fixed; it&amp;#39;s that simple,&#8221; said Rep. Lois Capps (D-Calif.), who introduced the bill with Rep. Eliot Engel (D-N.Y.) and Rep.</excerpt>
+          <fti-names>'act':1 'asq@asq.org':57 'bill':46 'calif':42 'capp':39 'car':6,19,21 'close':4 'd':41,52 'd-calif':40 'd-n':51 'eliot':49 'engel':50 'fix':31 'introduc':44 'issu':15 'loi':38 'loophol':8 'n':53 'notic':12 'recal':7,11 'rent':18 'rental':5 'rep':37,48,56 'road':27 'said':36 'seek':2 'simpl':35 'taken':24 'y':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://asq.org/qualitynews/qnt/execute/displaySetup%3FnewsID%3D14017&amp;sa=U&amp;ei=l3YHUO_JAs6J2AWpsOXBBA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFzYV9RfmYCmMaxmbfKRbIKeXi-HA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16715683</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>asq@asq.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:07:20-04:00</created-at>
+          <title>Act Seeks to Close Rental Car Recall Loophole</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;If a recall notice has been issued for a rented car, that car should be taken off the road until it&amp;#39;s fixed; it&amp;#39;s that simple,&#8221; said Rep. Lois Capps (D-Calif.), who introduced the bill with Rep. Eliot Engel (D-N.Y.) and Rep.</excerpt>
+          <fti-names>'act':1 'asq@asq.org':57 'bill':46 'calif':42 'capp':39 'car':6,19,21 'close':4 'd':41,52 'd-calif':40 'd-n':51 'eliot':49 'engel':50 'fix':31 'introduc':44 'issu':15 'loi':38 'loophol':8 'n':53 'notic':12 'recal':7,11 'rent':18 'rental':5 'rep':37,48,56 'road':27 'said':36 'seek':2 'simpl':35 'taken':24 'y':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://asq.org/qualitynews/qnt/execute/displaySetup%3FnewsID%3D14017&amp;sa=U&amp;ei=4dYEUIr5NcWl2AXz2eDKBQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNEIjtKce7wyMHOhZQLtF5-PUvVSRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16676949</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>asq@asq.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:45:06-04:00</created-at>
+          <title>Car Rental Recall Legislation Introduced in House - News - Auto ...</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>H.R. 6094, the Raechel and Jacqueline Houck Safe Rental Car Act of 2012, was introduced in the House of Representatives yesterday by Reps. Louis Capps of California, Eliot Engel of New York and Jan Schakowsky of ...</excerpt>
+          <fti-names>'2012':22 '6094':11 'act':20 'auto':9 'california':36 'capp':34 'car':1,19 'eliot':37 'engel':38 'h.r':10 'houck':16 'hous':7,27 'introduc':5,24 'jacquelin':15 'jan':43 'legisl':4 'loui':33 'new':40 'news':8 'raechel':13 'recal':3 'rental':2,18 'rep':32 'repres':29 'safe':17 'schakowski':44 'www.autorentalnews.com':46 'yesterday':30 'york':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.autorentalnews.com/News/Story/2012/07/Car-Rental-Recall-Legislation-Introduced-in-House.aspx&amp;sa=U&amp;ei=sIv_T_i7OILE2wWA9qyuBA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFqSHEd85Oo4dBSdvh2wzFMBOpa9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16583796</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.autorentalnews.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:45:06-04:00</created-at>
+          <title>H.R.6094: To amend title 49, United States Code, to prohibit rental of ...</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>H.R. 6094, the Raechel and Jacqueline Houck Safe Rental Car Act of 2012, was introduced in the House of Representatives yesterday by Reps. Louis Capps of California, Eliot Engel of New York and Jan Schakowsky of .</excerpt>
+          <fti-names>'2012':25 '49':5 '6094':14 'act':23 'amend':3 'california':39 'capp':37 'car':22 'code':8 'eliot':40 'engel':41 'h.r':13 'h.r.6094':1 'houck':19 'hous':30 'introduc':27 'jacquelin':18 'jan':46 'loui':36 'new':43 'opencongress.org':49 'prohibit':10 'raechel':16 'rental':11,21 'rep':35 'repres':32 'safe':20 'schakowski':47 'state':7 'titl':4 'unit':6 'yesterday':33 'york':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.opencongress.org/bill/112-h6094/show&amp;sa=U&amp;ei=sIv_T_i7OILE2wWA9qyuBA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHZTqXs9ZMth2iYcTxbhUJ7tBRxRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16583798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>opencongress.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:55:01-04:00</created-at>
+          <title>Supreme Court: no benefits for kids conceived after dad&amp;#39;s death</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Donna Edwards [D, MD-4] Rep. Keith Ellison [D, MN-5] Rep. Renee Ellmers [R, NC-2] Rep. Jo Ann Emerson [R, MO-8] Rep. Eliot Engel [D, NY-17] Rep. Anna Eshoo [D, CA-14] Rep. Blake Farenthold [R, TX-27] Rep. Sam Farr ...</excerpt>
+          <fti-names>'-14':47 '-17':41 '-2':28 '-27':53 '-4':16 '-5':22 '-8':35 'ann':31 'anna':43 'benefit':4 'blake':49 'ca':46 'conceiv':7 'court':2 'd':14,20,39,45 'dad':9 'death':11 'donna':12 'edward':13 'eliot':37 'ellison':19 'ellmer':25 'emerson':32 'engel':38 'eshoo':44 'farenthold':50 'farr':56 'jo':30 'keith':18 'kid':6 'md':15 'mn':21 'mo':34 'nc':27 'ny':40 'probatecourtco.com':57 'r':26,33,51 'rene':24 'rep':17,23,29,36,42,48,54 'sam':55 'suprem':1 'tx':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/supreme-court-no-benefits-for-kids-conceived-after-dads-death/&amp;sa=U&amp;ei=AwL1T-TaMO--2AWs-a3NBg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNH-5T5os0GfcyHreeuOf_9jrqnUdw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16387051</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:55:00-04:00</created-at>
+          <title>: Monsey Scoop</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He cited Reda&amp;#39;s support of York Kleinhandler of West Nyack over Mele in the 2010 17th Congressional District race. Mele went on to beat Kleinhandler in a primary, but lost to Rep. Eliot Engel. Stone also cited Reda&amp;#39;s recent ...</excerpt>
+          <fti-names>'17th':19 '2010':18 'also':39 'beat':27 'cite':4,40 'congression':20 'district':21 'editor':44 'eliot':36 'engel':37 'kleinhandl':10,28 'lost':33 'mele':15,23 'monsey':1 'nyack':13 'primari':31 'race':22 'recent':43 'reda':5,41 'rep':35 'scoop':2 'stone':38 'support':7 'went':24 'west':12 'york':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.monseyscoop.com/2012/07/6528.html&amp;sa=U&amp;ei=AwL1T-TaMO--2AWs-a3NBg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNGmMpjRIXmLgy7rT1g9Buja59inMA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16387048</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400122</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:45:06-04:00</created-at>
+          <title>New York - Charlie Rangel&amp;#39;s Margin of Victory Down to Only 802 ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>From left, House Minority Whip Steny Hoyer of Md., Rep. Eliot Engel, D-N.Y., Rep. Barbara Lee, D-Calif., Rep. Charles Rangel, D-N.Y., Rep. Carolyn Maloney, D-N.Y., and others, walk down the steps of the House On Capitol ...</excerpt>
+          <fti-names>'802':12 'admin':60 'barbara':30 'calif':34 'capitol':59 'carolyn':43 'charl':36 'charli':3 'd':26,33,39,46 'd-calif':32 'd-n':25,38,45 'eliot':23 'engel':24 'hous':15,57 'hoyer':19 'lee':31 'left':14 'maloney':44 'margin':6 'md':21 'minor':16 'n':27,40,47 'new':1 'other':50 'rangel':4,37 'rep':22,29,35,42 'steni':18 'step':54 'victori':8 'walk':51 'whip':17 'y':28,41,48 'york':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.vosizneias.com/109034/2012/07/01/new-york-charlie-rangels-margin-of-victory-down-to-only-802-votes/&amp;sa=U&amp;ei=sIv_T_i7OILE2wWA9qyuBA&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNF-_ADud1LTpLAvDmN17t5B1WB00w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16583799</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20955</page-views-count>
+      <unaccented-name>Eliot Engel</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

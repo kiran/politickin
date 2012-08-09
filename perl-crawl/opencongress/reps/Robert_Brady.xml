@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-07-27T02:47:33-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.6470588235294</party-votes-percentage>
+        <abstains-percentage type="float">1.10529377545084</abstains-percentage>
+        <votes-most-often-with-id type="integer">412212</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">8</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">184</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">19</abstains>
+        <cosponsored-bills type="integer">240</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">15</party-votes-percentage-rank>
+        <sponsored-bills type="integer">5</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400047</person-id>
+        <cosponsored-bills-rank type="integer">70</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">75</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">379</votes-republican-position>
+      <fax>202-225-0088</fax>
+      <blog-article-count type="integer">5148</blog-article-count>
+      <user-approval type="float">1.86363636363636</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">97</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/formrobertbrady/issue.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.6470588235294</with-party-percentage>
+      <lastname>Brady</lastname>
+      <middlename>A.</middlename>
+      <congress-office>102 Cannon House Office Building</congress-office>
+      <firstname>Robert</firstname>
+      <website>http://brady.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1945-04-07</birthday>
+      <person-id type="integer">400047</person-id>
+      <phone>202-225-4731</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>B001227</bioguide-id>
+      <votes-democratic-position type="integer">1626</votes-democratic-position>
+      <metavid-id>Robert_A._Brady</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:47:00-04:00</created-at>
+          <title>Voter ID law prompts longtime Center City poll worker to retire</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...in mostly white divisions. Hispanic neighborhoods are 108 percent more likely to lack PennDOT IDs.Also Thursday:U.S. Rep. Bob Brady expressed concern over Pennsylvania's voter-ID law, telling the Daily News that it disenfranchises students and that &quot;peo</excerpt>
+          <fti-names>'108':19 'bob':30 'bradi':31 'center':6 'citi':7 'concern':33 'daili':43,53 'disenfranchis':47 'divis':15 'express':32 'hispan':16 'id':2,39 'ids.also':26 'lack':24 'law':3,40 'like':22 'longtim':5 'most':13 'neighborhood':17 'news':44,54 'penndot':25 'pennsylvania':35 'peo':51 'percent':20 'philadelphia':52 'poll':8 'prompt':4 'rep':29 'retir':11 'student':48 'tell':41 'thursday':27 'u.s':28 'voter':1,38 'voter-id':37 'white':14 'worker':9</fti-names>
+          <source-url>http://www.philly.com/dailynews/</source-url>
+          <url>http://www.philly.com/philly/news/breaking/20120802_Voter_ID_law_prompts_longtime_Center_City_poll_worker_to_retire.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970442</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:35:17-04:00</created-at>
+          <title>Got ideas for a better Ben Franklin Parkway?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...a Common Pleas judge affirmed that when the law firm Cozen O'Connor spent many billable hours in 2007 helping U.S. Rep. Bob Brady stay on the mayoral ballot, it was helping him try to &quot;influence the outcome&quot; of an election. (And here we thought Brady wa</excerpt>
+          <fti-names>'2007':27 'affirm':13 'ballot':37 'ben':6 'better':5 'billabl':24 'bob':31 'bradi':32,54 'common':10 'connor':21 'cozen':19 'daili':57 'elect':49 'firm':18 'franklin':7 'got':1 'help':28,40 'hour':25 'idea':2 'influenc':44 'judg':12 'law':17 'mani':23 'mayor':36 'news':58 'o':20 'outcom':46 'parkway':8 'philadelphia':56 'plea':11 'rep':30 'spent':22 'stay':33 'thought':53 'tri':42 'u.s':29 'wa':55</fti-names>
+          <source-url>http://www.philly.com/dailynews/</source-url>
+          <url>http://www.philly.com/philly/opinion/20120726_Got_ideas_for_a_better_Ben_Franklin_Parkway_.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888367</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:42:28-04:00</created-at>
+          <title>Rep.'s Debt To Cozen Is Campaign Contribution, Judge Says</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Law360, New York (July 25, 2012, 5:10 PM ET) -- The $500,000 in legal expenses Rep. Bob Brady, D-Pa., owes Cozen O'Connor for work on his unsuccessful 2007 Philadelphia mayoral bid is a campaign expense under city election law that exceeds campaign ...</excerpt>
+          <fti-names>'000':23 '10':18 '2007':42 '2012':16 '25':15 '5':17 '500':22 'bid':45 'bob':28 'bradi':29 'campaign':7,48,56 'citi':51 'connor':36 'contribut':8 'cozen':5,34 'd':31 'd-pa':30 'debt':3 'elect':52 'et':20 'exceed':55 'expens':26,49 'judg':9 'juli':14 'law':53 'law360':11 'legal':25 'mayor':44 'new':12 'o':35 'owe':33 'pa':32 'philadelphia':43 'pm':19 'rep':1,27 'say':10 'site.law360.com':57 'unsuccess':41 'work':38 'york':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.law360.com/commercialcontracts/articles/363789/rep-s-debt-to-cozen-is-campaign-contribution-judge-says</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T17:11:04-04:00</date>
+          <id type="integer">16858277</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>site.law360.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:04:33-04:00</created-at>
+          <title>Rep.'s Debt To Cozen Is Campaign Contribution, Judge Says</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Law360, New York (July 25, 2012, 5:10 PM ET) -- The $500,000 in legal expenses Rep. Bob Brady, D-Pa., owes Cozen O'Connor for work on his unsuccessful 2007 Philadelphia mayoral bid is a campaign expense under city election law that exceeds campaign ...</excerpt>
+          <fti-names>'000':23 '10':18 '2007':42 '2012':16 '25':15 '5':17 '500':22 'bid':45 'bob':28 'bradi':29 'campaign':7,48,56 'citi':51 'connor':36 'contribut':8 'cozen':5,34 'd':31 'd-pa':30 'debt':3 'elect':52 'et':20 'exceed':55 'expens':26,49 'judg':9 'juli':14 'law':53 'law360':11 'legal':25 'mayor':44 'new':12 'o':35 'owe':33 'pa':32 'philadelphia':43 'pm':19 'rep':1,27 'say':10 'site.law360.com':57 'unsuccess':41 'work':38 'york':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.law360.com/articles/363789</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T17:03:54-04:00</date>
+          <id type="integer">16945249</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>site.law360.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:41:44-04:00</created-at>
+          <title>Rep.'s Debt To Cozen Is Campaign Contribution, Judge Says</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Law360, New York (July 25, 2012, 5:10 PM ET) -- The $500,000 in legal expenses Rep. Bob Brady, D-Pa., owes Cozen O'Connor for work on his unsuccessful 2007 Philadelphia mayoral bid is a campaign expense under city election law that exceeds campaign ...</excerpt>
+          <fti-names>'000':23 '10':18 '2007':42 '2012':16 '25':15 '5':17 '500':22 'bid':45 'bob':28 'bradi':29 'campaign':7,48,56 'citi':51 'connor':36 'contribut':8 'cozen':5,34 'd':31 'd-pa':30 'debt':3 'elect':52 'et':20 'exceed':55 'expens':26,49 'judg':9 'juli':14 'law':53 'law360':11 'legal':25 'mayor':44 'new':12 'o':35 'owe':33 'pa':32 'philadelphia':43 'pm':19 'rep':1,27 'say':10 'site.law360.com':57 'unsuccess':41 'work':38 'york':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.law360.com/commercialcontracts/articles/363789</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T17:03:54-04:00</date>
+          <id type="integer">16928947</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>site.law360.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:35:03-04:00</created-at>
+          <title>Rep.'s Debt To Cozen Is Campaign Contribution, Judge Says</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Law360, New York (July 25, 2012, 5:10 PM ET) -- The $500,000 in legal expenses Rep. Bob Brady, D-Pa., owes Cozen O'Connor for work on his unsuccessful 2007 Philadelphia mayoral bid is a campaign expense under city election law that exceeds campaign ...</excerpt>
+          <fti-names>'000':23 '10':18 '2007':42 '2012':16 '25':15 '5':17 '500':22 'bid':45 'bob':28 'bradi':29 'campaign':7,48,56 'citi':51 'connor':36 'contribut':8 'cozen':5,34 'd':31 'd-pa':30 'debt':3 'elect':52 'et':20 'exceed':55 'expens':26,49 'judg':9 'juli':14 'law':53 'law360':11 'legal':25 'mayor':44 'new':12 'o':35 'owe':33 'pa':32 'philadelphia':43 'pm':19 'rep':1,27 'say':10 'site.law360.com':57 'unsuccess':41 'work':38 'york':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.law360.com/legalindustry/articles/363789</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T17:03:54-04:00</date>
+          <id type="integer">16888361</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>site.law360.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:42:26-04:00</created-at>
+          <title>Rep. Bob Brady's attorneys lose 2007 mayoral case - again</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>A Common Pleas Court judge has ruled for a second time that U.S. Rep. Bob Brady can't exceed the city's campaign finance limits to raise money to pay the six-figure tab for the law firm, Cozen O'Connor, that helped him remain on the ballot in that race.</excerpt>
+          <fti-names>'2007':7 'attorney':5 'ballot':59 'bob':2,25 'bradi':3,26 'campaign':33 'case':9 'citi':31 'common':12 'connor':52 'court':14 'cozen':50 'daili':64 'exceed':29 'figur':44 'financ':34 'firm':49 'help':54 'judg':15 'law':48 'limit':35 'lose':6 'mayor':8 'money':38 'news':65 'o':51 'pay':40 'philadelphia':63 'plea':13 'race':62 'rais':37 'remain':56 'rep':1,24 'rule':17 'second':20 'six':43 'six-figur':42 'tab':45 'time':21 'u.s':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/news/politics/congressional/Rep-Bob-Bradys-attorneys-lose-2007-mayoral-case----again.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T08:21:21-04:00</date>
+          <id type="integer">16858276</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:42:52-04:00</created-at>
+          <title>Law firm loses Rep. Bob Brady's mayoral campaign case</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...judge has ruled that the Cozen O'Connor law firm cannot forgive nearly $450,000 worth of legal work done for U.S. Rep. Bob Brady's 2007 mayoral campaign without violating the city's campaign finance law. The powerful Center City firm successfully defend</excerpt>
+          <fti-names>'000':25 '2007':37 '450':24 'bob':5,34 'bradi':6,35 'campaign':9,39,45 'cannot':21 'case':10 'center':50 'citi':43,51 'connor':18 'cozen':16 'defend':54 'done':30 'financ':46 'firm':2,20,52 'forgiv':22 'inquir':56 'judg':11 'law':1,19,47 'legal':28 'lose':3 'mayor':8,38 'near':23 'o':17 'philadelphia':55 'power':49 'rep':4,33 'rule':13 'success':53 'u.s':32 'violat':41 'without':40 'work':29 'worth':26</fti-names>
+          <source-url>http://www.philly.com/inquirer/</source-url>
+          <url>http://www.philly.com/philly/news/local/20120725_Law_firm_loses_Rep__Bob_Brady_s_mayoral_campaign_case.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858278</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Inquirer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:35:56-04:00</created-at>
+          <title>Rep. Bob Brady's attorneys lose 2007 mayoral case -- again</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>A Common Pleas Court judge has ruled for a second time that U.S. Rep. Bob Brady can't exceed the city's campaign finance limits to raise money to pay the six-figure tab for the law firm, Cozen O'Connor, that helped him remain on the ballot in that race.</excerpt>
+          <fti-names>'2007':7 'attorney':5 'ballot':59 'bob':2,25 'bradi':3,26 'campaign':33 'case':9 'citi':31 'common':12 'connor':52 'court':14 'cozen':50 'daili':64 'exceed':29 'figur':44 'financ':34 'firm':49 'help':54 'judg':15 'law':48 'limit':35 'lose':6 'mayor':8 'money':38 'news':65 'o':51 'pay':40 'philadelphia':63 'plea':13 'race':62 'rais':37 'remain':56 'rep':1,24 'rule':17 'second':20 'six':43 'six-figur':42 'tab':45 'time':21 'u.s':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/blogs/cityhall/163614466.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T18:52:28-04:00</date>
+          <id type="integer">16920061</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-24T22:42:33-04:00</created-at>
+          <title>Rep. Bob Brady's attorneys lose 2007 mayoral case -- again</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>A Common Pleas Court judge has ruled for a second time that U.S. Rep. Bob Brady can't exceed the city's campaign finance limits to raise money to pay the six-figure tab for the law firm, Cozen O'Connor, that helped him remain on the ballot in that race.</excerpt>
+          <fti-names>'2007':7 'attorney':5 'ballot':59 'bob':2,25 'bradi':3,26 'campaign':33 'case':9 'citi':31 'common':12 'connor':52 'court':14 'cozen':50 'daili':64 'exceed':29 'figur':44 'financ':34 'firm':49 'help':54 'judg':15 'law':48 'limit':35 'lose':6 'mayor':8 'money':38 'news':65 'o':51 'pay':40 'philadelphia':63 'plea':13 'race':62 'rais':37 'remain':56 'rep':1,24 'rule':17 'second':20 'six':43 'six-figur':42 'tab':45 'time':21 'u.s':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.philly.com/philly/blogs/cityhall/Rep-Bob-Bradys-attorneys-lose-2007-mayoral-case----again.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T18:02:21-04:00</date>
+          <id type="integer">16847949</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Philadelphia Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Robert Brady [D, PA-1]</name>
+      <total-session-votes type="integer">1700</total-session-votes>
+      <sunlight-nickname>Bob</sunlight-nickname>
+      <youtube-id>BradyPA01</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:58-04:00</created-at>
+          <title>Sen. Brady, family sued over loans - Capitol Fax.com</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>It contends Bill, Ed and Bob Brady guaranteed loans made to their companies, Brew of Illinois LLC, Pinehurst Development LLC and Web Construction Co., from 2006 to 2010. The lawsuit, which was filed June 27 in McLean ...</excerpt>
+          <fti-names>'2006':34 '2010':36 '27':43 'bill':11 'bob':14 'bradi':2,15 'brew':22 'capitol':7 'co':32 'compani':21 'construct':31 'contend':10 'develop':27 'ed':12 'famili':3 'fax.com':8 'file':41 'guarante':16 'illinoi':24 'june':42 'lawsuit':38 'llc':25,28 'loan':6,17 'made':18 'mclean':45 'miller':47 'pinehurst':26 'rich':46 'sen':1 'su':4 'web':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://capitolfax.com/2012/07/16/sen-brady-family-sued-over-loans/&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNERQyQky3bQ31KdG8tyAg6hedTQTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16675997</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rich Miller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:58-04:00</created-at>
+          <title>pamatters.com &#8211; Corbett Pleased with Recent Bipartisanship, Eager ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Corbett adds that he&amp;#39;s been working closely with Democratic Congressman Bob Brady on regulatory issues that are proving to be vital to efforts to save jobs at several idled oil refineries in southeastern Pennsylvania.</excerpt>
+          <fti-names>'add':9 'bipartisanship':6 'bob':19 'bradi':20 'close':15 'congressman':18 'corbett':2,8 'democrat':17 'eager':7 'effort':31 'idl':37 'issu':23 'job':34 'matt':43 'oil':38 'pamatters.com':1 'paul':44 'pennsylvania':42 'pleas':3 'prove':26 'recent':5 'refineri':39 'regulatori':22 'save':33 'sever':36 'southeastern':41 'vital':29 'work':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pamatters.com/2012/07/16/corbett-pleased-with-recent-bipartisanship-eager-for-more/&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNGVTb_LMoYoQNTczVn3T17iGKBA-w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16675995</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:57-04:00</created-at>
+          <title>Get on the Bus! Stop the Frack Attack &#171; Protecting Our Waters</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... working on scheduling appointments for lobby day, Thursday July 26, so we can give Congress a piece of our minds about drilling. If you want to join our lobbying team, meeting with Rep. Bob Brady, Sen. Bob Casey, Rep.</excerpt>
+          <fti-names>'26':21 'appoint':15 'attack':8 'bloom':53 'bob':45,48 'bradi':46 'bus':4 'casey':49 'congress':26 'day':18 'drill':33 'frack':7 'get':1 'give':25 'iri':51 'join':38 'juli':20 'lobbi':17,40 'mari':52 'meet':42 'mind':31 'piec':28 'protect':9 'rep':44,50 'schedul':14 'sen':47 'stop':5 'team':41 'thursday':19 'want':36 'water':11 'work':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://protectingourwaters.wordpress.com/2012/07/15/get-on-the-bus-stop-the-frack-attack/&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGdLhGvxI5vZAFvP1McCo52L_TqdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16675993</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Iris Marie Bloom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:46:10-04:00</created-at>
+          <title>Deal to save Sunoco refinery took hard work behind the scenes ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Deal to save Sunoco refinery took hard work behind the scenes. Sunoco Inc. officials thought U.S. Rep. Bob Brady, the city&amp;#39;s Democratic Party boss, was blowing smoke when he told them in February that the White House was ...</excerpt>
+          <fti-names>'admin':51 'behind':9,20 'blow':38 'bob':29 'boss':36 'bradi':30 'citi':32 'deal':1,12 'democrat':34 'februari':45 'hard':7,18 'hous':49 'inc':24 'offici':25 'parti':35 'refineri':5,16 'rep':28 'save':3,14 'scene':11,22 'smoke':39 'sunoco':4,15,23 'thought':26 'told':42 'took':6,17 'u.s':27 'white':48 'work':8,19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://refinerynews.com/deal-to-save-sunoco-refinery-took-hard-work-behind-the-scenes/&amp;sa=U&amp;ei=60X6T5DGMqq02AW-65HYBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNHG3qqZpoM13V2Ft7GNT1lhuHOOtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-04T01:00:00-04:00</date>
+          <id type="integer">16458561</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:58-04:00</created-at>
+          <title>Reps. Cheer Bipartisanship That Saved Philadelphia Refinery ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Bob Brady (D-Delaware) warned that the effects of the refinery closing would be painful and widespread: &#8220;This plant is the largest refinery on the East Coast, processing 330000 barrels of crude oil per day. Its loss would ...</excerpt>
+          <fti-names>'330000':38 'barrel':39 'bipartisanship':3 'bob':9 'bradi':10 'cheer':2 'close':21 'coast':36 'crude':41 'd':12 'd-delawar':11 'day':44 'delawar':13 'east':35 'effect':17 'kelly.cernetich':48 'largest':31 'loss':46 'oil':42 'pain':24 'per':43 'philadelphia':6 'plant':28 'process':37 'refineri':7,20,32 'rep':1,8 'save':5 'warn':14 'widespread':26 'would':22,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/reps-cheer-bipartisanship-that-saved-philadelphia-refinery/37586/&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFtGrMTAbKFEPkhnh-mWna23sYrcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16675996</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kelly.Cernetich</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:46:09-04:00</created-at>
+          <title>NorthernLiberties.org &#8226; View topic - Finnegan&amp;#39;s Wake receives grant</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Bob Brady, a former investor in Finnigan&amp;#39;s Wake and chairman of the Democratic City Committee, declined to comment. A City Committee source said that Brady knew Driscoll was asking for the money but played no ...</excerpt>
+          <fti-names>'ask':40 'bob':11 'bradi':12,36 'chairman':21 'citi':25,31 'comment':29 'committe':26,32 'dan':47 'declin':27 'democrat':24 'driscol':38 'finnegan':4 'finnigan':17 'former':14 'grant':8 'investor':15 'knew':37 'money':43 'northernliberties.org':1 'play':45 'receiv':7 'rep':10 'said':34 'sourc':33 'topic':3 'u.s':9 'view':2 'wake':6,19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://northernliberties.net/msgboard/viewtopic.php%3Ft%3D3950%26p%3D10048&amp;sa=U&amp;ei=60X6T5DGMqq02AW-65HYBg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNE6NqFbLE8Ds3syQBR-97HxJE1jYg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16458559</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:46:07-04:00</created-at>
+          <title>Reps. Cheer Bipartisanship That Saved Philadelphia Refinery ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Bob Brady (D-Delaware) warned that the effects of the refinery closing would be painful and widespread: &#8220;This plant is the largest refinery on the East Coast, processing 330000 barrels of crude oil per day. Its loss would ...</excerpt>
+          <fti-names>'330000':38 'barrel':39 'bipartisanship':3 'bob':9 'bradi':10 'cheer':2 'close':21 'coast':36 'crude':41 'd':12 'd-delawar':11 'day':44 'delawar':13 'east':35 'effect':17 'kelly.cernetich':48 'largest':31 'loss':46 'oil':42 'pain':24 'per':43 'philadelphia':6 'plant':28 'process':37 'refineri':7,20,32 'rep':1,8 'save':5 'warn':14 'widespread':26 'would':22,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/reps-cheer-bipartisanship-that-saved-philadelphia-refinery/37586/&amp;sa=U&amp;ei=60X6T5DGMqq02AW-65HYBg&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHMUBMwqUcJTKwT_eMglJuOMEef7w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16458555</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kelly.Cernetich</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:57-04:00</created-at>
+          <title>Congressman Bob Brady, Democracy Champ | Campaign Finance ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Campaign Finance, Discover the truth about Campaign Financing with Congressman Bob Brady, Democracy Champ.</excerpt>
+          <fti-names>'bob':2,18 'bradi':3,19 'campaign':6,8,14 'champ':5,21 'congressman':1,17 'democraci':4,20 'discov':10 'financ':7,9,15 'michalina':22 'truth':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://campaign-finance-reform.blogspot.com/2012/06/congressman-bob-brady-democracy-champ.html&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEMoSyr4GAX_ZPdleo7INwtPn69nw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16675994</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michalina</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:46:07-04:00</created-at>
+          <title>Congressman Bob Brady, Democracy Champ | Campaign Finance ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Campaign Finance, Discover the truth about Campaign Financing with Congressman Bob Brady, Democracy Champ.</excerpt>
+          <fti-names>'bob':2,18 'bradi':3,19 'campaign':6,8,14 'champ':5,21 'congressman':1,17 'democraci':4,20 'discov':10 'financ':7,9,15 'michalina':22 'truth':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://campaign-finance-reform.blogspot.com/2012/06/congressman-bob-brady-democracy-champ.html&amp;sa=U&amp;ei=60X6T5DGMqq02AW-65HYBg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNG0-h_SFEpN9TzvAhad1ABaRJFU_w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16458554</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michalina</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400047</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:38:58-04:00</created-at>
+          <title>Congressman Bob Brady, Chairman Jim Burn Blast Mitt Romney&amp;#39;s ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>PHILADELPHIA - Congressman Bob Brady and Pennsylvania Democratic Party Chairman Jim Burn released the following statements blasting Mitt Romney on his breathtaking hypocrisy on jobs as chronicled in a Washington Post ...</excerpt>
+          <fti-names>'blast':7,26 'bob':2,13 'bradi':3,14 'breathtak':31 'burn':6,21 'chairman':4,19 'chronicl':36 'congressman':1,12 'democrat':17 'ecdp':41 'follow':24 'hypocrisi':32 'jim':5,20 'job':34 'mitt':8,27 'parti':18 'pennsylvania':16 'philadelphia':11 'post':40 'releas':22 'romney':9,28 'statement':25 'washington':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.eriedems.com/node/1707&amp;sa=U&amp;ei=PdAEUNaDF_SI2gXU4-ydBQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGviQm315EECiU_kzZjQFIY1TOc_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16675998</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ECDP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23646</page-views-count>
+      <unaccented-name>Robert Brady</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

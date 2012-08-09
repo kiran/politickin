@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-06-08T10:30:44-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.7726723095526</party-votes-percentage>
+        <abstains-percentage type="float">3.78126817917394</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">61</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">45</cosponsored-bills-passed-rank>
+        <abstains type="integer">65</abstains>
+        <cosponsored-bills type="integer">308</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">84</party-votes-percentage-rank>
+        <sponsored-bills type="integer">9</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400048</person-id>
+        <cosponsored-bills-rank type="integer">77</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">296</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">408</votes-republican-position>
+      <metavid-id>Corrine_Brown</metavid-id>
+      <blog-article-count type="integer">6939</blog-article-count>
+      <user-approval type="float">1.51851851851852</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">191</oc-users-tracking>
+      <contact-webform>http://www.house.gov/corrinebrown/IMA/issue.shtml</contact-webform>
+      <youtube-id nil="true"></youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.7726723095526</with-party-percentage>
+      <lastname>Brown</lastname>
+      <bioguide-id>B000911</bioguide-id>
+      <fax>202-225-2256</fax>
+      <congress-office>2336 Rayburn House Office Building</congress-office>
+      <firstname>Corrine</firstname>
+      <website>http://www.house.gov/corrinebrown/</website>
+      <birthday type="date">1946-11-11</birthday>
+      <person-id type="integer">400048</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-0123</phone>
+      <religion>Baptist</religion>
+      <votes-democratic-position type="integer">1551</votes-democratic-position>
+      <gender>F</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:31:22-04:00</created-at>
+          <title>Amtrak loses $834M in food service over 10 years</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...presiding over the hearing, adjourned with a statement. Typically, hearings conclude with remarks from the chair. However, Rep. Corrine Brown, (D-FL), attempted a final thought and Shuster cut her off and said, &#8220;You don&#8217;t get to close because I&#8217;m </excerpt>
+          <fti-names>'10':8 '834m':3 'adjourn':14 'amtrak':1 'attempt':33 'brown':29 'chair':25 'close':49 'conclud':20 'corrin':28 'cut':39 'd':31 'd-fl':30 'final':35 'fl':32 'food':5 'fox':53 'get':47 'hear':13,19 'howev':26 'lose':2 'm':52 'news':54 'presid':10 'remark':22 'rep':27 'said':43 'servic':6 'shuster':38 'statement':17 'thought':36 'typic':18 'year':9</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://www.foxbusiness.com/industries/2012/08/02/amtrak-food-service-lost-834m-in-10-years/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972426</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:49:31-04:00</created-at>
+          <title>Three Plane Collision Narrowly Averted At Reagan National Airport</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Federal Aviation Administration to deliver detailed information later Thursday. On Capitol Hill on Thursday, U.S. Rep. Corrine Brown (D-Fla.) expressed frustration with the pace of a transportation committee hearing on Amtrak, and said, &#8220;We should be </excerpt>
+          <fti-names>'administr':12 'airport':9 'amtrak':42 'avert':5 'aviat':11 'beltway':50 'brown':27 'capitol':20 'collis':3 'committe':39 'corrin':26 'd':29 'd-fla':28 'deliv':14 'detail':15 'express':31 'feder':10 'fla':30 'frustrat':32 'hear':40 'hill':21 'inform':16 'later':17 'narrowli':4 'nation':8 'outsid':48 'pace':35 'plane':2 'reagan':7 'rep':25 'said':44 'three':1 'thursday':18,23 'transport':38 'u.s':24</fti-names>
+          <source-url>http://www.outsidethebeltway.com/</source-url>
+          <url>http://feedproxy.google.com/~r/OTB/~3/Ur9oPxbpFwQ/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970451</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Outside the Beltway</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:57-04:00</created-at>
+          <title>Florida Governor Rick Scott Preaches Austerity, Spends Big On Frivolous Lawsuits</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Friday, a new case was added to the list, with U.S. Rep. Corrine Brown, D-Jacksonville, along with the Southern Christian Leadership Conference announcing they would file a federal suit opposing some of the changes under the state&#8217;s new election law.</excerpt>
+          <fti-names>'ad':17 'along':29 'announc':36 'auster':6 'big':8 'brown':25 'case':15 'chang':47 'christian':33 'confer':35 'corrin':24 'd':27 'd-jacksonvill':26 'elect':53 'feder':41 'file':39 'florida':1 'friday':12 'frivol':10 'governor':2 'jacksonvill':28 'law':54 'lawsuit':11 'leadership':34 'list':20 'new':14,52 'oppos':43 'preach':5 'progress':56 'rep':23 'rick':3 'scott':4 'southern':32 'spend':7 'state':50 'suit':42 'think':55 'u.s':22 'would':38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thinkprogress.org/justice/2012/07/30/605461/florida-governor-rick-scott-preaches-austerity-spends-big-on-frivolous-lawsuits/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T14:49:07-04:00</date>
+          <id type="integer">16959546</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:57-04:00</created-at>
+          <title>Redistricting and Voting Rights Roundup</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>But according to VPC, the pre-populated forms have been approved by the State Board of Elections. Florida: Rep. Corrine Brown has joined the Jacksonville chapter of the Southern Christian Leadership Conference, the Duval County Democratic ...</excerpt>
+          <fti-names>'accord':7 'approv':17 'bet':43 'board':21 'brown':27 'chapter':32 'christian':36 'confer':38 'corrin':26 'counti':41 'democrat':42 'duval':40 'elect':23 'florida':24 'form':14 'jacksonvill':31 'join':29 'leadership':37 'popul':13 'pre':12 'pre-popul':11 'redistrict':1 'rep':25 'right':4 'roundup':5 'southern':35 'state':20 'vote':3 'vpc':9</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bet.com/news/features/vote-2012/news/politics/2012/07/30/redistricting-and-voting-rights-roundup.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:28:41-04:00</date>
+          <id type="integer">16959545</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>BET</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:56-04:00</created-at>
+          <title>Tab for taxpayers in suits over Scott-backed laws hefty and growing</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Friday, a new case was added to the list, with U.S. Rep. Corrine Brown, D-Jacksonville, along with the Southern Christian Leadership Conference announcing they would file a federal suit opposing some of the changes under the state's new election law.</excerpt>
+          <fti-names>'ad':19 'along':31 'announc':38 'back':9 'brown':27 'case':17 'chang':49 'christian':35 'confer':37 'corrin':26 'd':29 'd-jacksonvill':28 'elect':55 'feder':43 'file':41 'friday':14 'grow':13 'hefti':11 'jacksonvill':30 'law':10,56 'leadership':36 'list':22 'new':16,54 'oppos':45 'orlando':57 'rep':25 'scott':8 'scott-back':7 'sentinel':58 'southern':34 'state':52 'suit':5,44 'tab':1 'taxpay':3 'u.s':24 'would':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://articles.orlandosentinel.com/2012-07-30/news/fl-lawsuits-still-looming-20120729_1_federal-courts-election-law-welfare-drug-tests</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T10:02:47-04:00</date>
+          <id type="integer">16959543</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Orlando Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:57-04:00</created-at>
+          <title>Early voting begins in Collier, 4 other Florida counties</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Last week, U.S. Rep. Corrine Brown and several Democratic voters and activists sued in federal court over the entire early voting change, arguing that the move to reduce early voting, which has been particularly popular in African-American ...</excerpt>
+          <fti-names>'4':6 'activist':21 'african':47 'african-american':46 'american':48 'argu':32 'begin':3 'brown':15 'chang':31 'collier':5 'corrin':14 'counti':9 'court':25 'democrat':18 'earli':1,29,38 'entir':28 'feder':24 'florida':8 'last':10 'move':35 'news':50 'news-press':49 'particular':43 'popular':44 'press':51 'reduc':37 'rep':13 'sever':17 'su':22 'u.s':12 'vote':2,30,39 'voter':19 'week':11</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.news-press.com/article/20120730/NEWS0107/120730002/0/SPRINGTRAINING/Early-voting-begins-Collier-4-other-Florida-counties?odyssey=nav|head</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T09:55:38-04:00</date>
+          <id type="integer">16959544</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>News-Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:57-04:00</created-at>
+          <title>Early Voting Plan B</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Corrine Brown is leading a federal lawsuit to re-extend early voting to 15 days, including the Sunday before election day.&#160; Duval County Supervisor of Elections Jerry Holland says they have been planning for 8 days of early voting.&#160;</excerpt>
+          <fti-names>'15':20 '8':41 'b':4 'brown':7 'congresswoman':5 'corrin':6 'counti':29 'day':21,27,42 'duval':28 'earli':1,17,44 'elect':26,32 'extend':16 'feder':11 'holland':34 'includ':22 'jerri':33 'lawsuit':12 'lead':9 'plan':3,39 're':15 're-extend':14 'say':35 'sunday':24 'supervisor':30 'vote':2,18,45 'wokv.com':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wokv.com/weblogs/morning-news-recap/2012/jul/30/early-voting-plan-b/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T04:54:59-04:00</date>
+          <id type="integer">16959547</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WOKV.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:37:09-04:00</created-at>
+          <title>Florida Morning: State's legal bills pile up; lawmaker's wealth grows in office</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Howdy, it's Monday and this is Florida Morning, your daily digest of political news around the Sunshine State. Corrine Brown wins redistricting battle, this campaign season feels familiar, and the IRS eyes Daphne Campbell. MORE OF THE SAME FOR CORRINE B</excerpt>
+          <fti-names>'around':30 'b':56 'battl':38 'bill':6 'brown':35 'campaign':40 'campbel':49 'corrin':34,55 'daili':25 'daphn':48 'digest':26 'eye':47 'familiar':43 'feel':42 'florida':1,22 'grow':12 'howdi':15 'ir':46 'jacksonville.com':57 'lawmak':9 'legal':5 'monday':18 'morn':2,23 'news':29 'offic':14 'pile':7 'polit':28 'redistrict':37 'season':41 'state':3,33 'sunshin':32 'wealth':11 'win':36</fti-names>
+          <source-url>http://www.jacksonville.com/</source-url>
+          <url>http://feeds.jacksonville.com/~r/JacksonvillecomNews/~3/XPRQe6OVHPE/florida-morning-states-legal-bills-pile-lawmakers-wealth</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959549</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jacksonville.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:12:33-04:00</created-at>
+          <title>Tab for taxpayers in suits over Scott-backed laws hefty and growing</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Friday, a new case was added to the list, with U.S. Rep. Corrine Brown, D-Jacksonville, along with the Southern Christian Leadership Conference announcing they would file a federal suit opposing some of the changes under the state's new election law.</excerpt>
+          <fti-names>'ad':19 'along':31 'announc':38 'back':9 'brown':27 'case':17 'chang':49 'christian':35 'confer':37 'corrin':26 'd':29 'd-jacksonvill':28 'elect':55 'feder':43 'file':41 'friday':14 'grow':13 'hefti':11 'jacksonvill':30 'law':10,56 'leadership':36 'list':22 'new':16,54 'oppos':45 'rep':25 'scott':8 'scott-back':7 'sentinel':58 'southern':34 'state':52 'suit':5,44 'sun':57 'tab':1 'taxpay':3 'u.s':24 'would':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.sun-sentinel.com/news/palm-beach/fl-lawsuits-still-looming-20120729,0,3571293.story?track=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T17:42:06-04:00</date>
+          <id type="integer">16945385</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sun Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:29-04:00</created-at>
+          <title>Tab for taxpayers in suits over Scott-backed laws hefty and growing</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Friday, a new case was added to the list, with U.S. Rep. Corrine Brown, D-Jacksonville, along with the Southern Christian Leadership Conference announcing they would file a federal suit opposing some of the changes under the state's new election law.</excerpt>
+          <fti-names>'ad':19 'along':31 'announc':38 'back':9 'brown':27 'case':17 'chang':49 'christian':35 'confer':37 'corrin':26 'd':29 'd-jacksonvill':28 'elect':55 'feder':43 'file':41 'friday':14 'grow':13 'hefti':11 'jacksonvill':30 'law':10,56 'leadership':36 'list':22 'new':16,54 'oppos':45 'rep':25 'scott':8 'scott-back':7 'sentinel':58 'southern':34 'state':52 'suit':5,44 'sun':57 'tab':1 'taxpay':3 'u.s':24 'would':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.sun-sentinel.com/news/palm-beach/fl-lawsuits-still-looming-20120729,0,3571293.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T15:40:25-04:00</date>
+          <id type="integer">16966115</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sun Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Corrine Brown [D, FL-3]</name>
+      <total-session-votes type="integer">1654</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:50-04:00</created-at>
+          <title>Corrine Brown wins redistricting war | politicsandpolls-com</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>TALLAHASSEE &#8211; It started nearly two years ago during a Tallahassee news conference. U.S. Rep. Corrine Brown, a Jacksonville Democrat, stood side-by-side with U.S. Rep. Mario Diaz-Balart, a Miami Republican, ...</excerpt>
+          <fti-names>'admin':43 'ago':15 'balart':39 'brown':2,24 'com':8 'confer':20 'corrin':1,23 'democrat':27 'diaz':38 'diaz-balart':37 'jacksonvill':26 'mario':36 'miami':41 'near':12 'news':19 'politicsandpol':7 'politicsandpolls-com':6 'redistrict':4 'rep':22,35 'republican':42 'side':30,32 'side-by-sid':29 'start':11 'stood':28 'tallahasse':9,18 'two':13 'u.s':21,34 'war':5 'win':3 'year':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/fl-moc/mario-diaz-balart-florida-representative/corrine-brown-wins-redistricting-war/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcorrine-brown-wins-redistricting-war&amp;sa=U&amp;ei=wUQXUL3UBKPr0gG86ICoCA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFn03jUTGog_wFlLiCLhtNJ8mv7tw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959534</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:51-04:00</created-at>
+          <title>Corrine Brown Wins The War - GatorCountry.com Swamp Gas Forums</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Corrine Brown, a Jacksonville Democrat, stood side-by-side with U.S. Rep. Mario Diaz-Balart, a Miami Republican, to announce they had filed a lawsuit challenging one of Florida&amp;#39;s two new Fair District amendments.</excerpt>
+          <fti-names>'amend':48 'announc':33 'balart':28 'brown':2,13 'challeng':39 'corrin':1,12 'democrat':16 'diaz':27 'diaz-balart':26 'district':47 'fair':46 'file':36 'florida':42 'forum':9 'gas':8 'gatorcountry.com':6 'jacksonvill':15 'jaggat':49 'lawsuit':38 'mario':25 'miami':30 'new':45 'one':40 'rep':11,24 'republican':31 'side':19,21 'side-by-sid':18 'stood':17 'swamp':7 'two':44 'u.s':10,23 'war':5 'win':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.gatorcountry.com/swampgas/showthread.php%3Ft%3D235030&amp;sa=U&amp;ei=wUQXUL3UBKPr0gG86ICoCA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGvvjGxwovLxChAiYBlegpgTEe_4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959536</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jaggator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:50-04:00</created-at>
+          <title>Corrine Brown lost the amendment battle, but won the redistricting ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Corrine Brown, a Jacksonville Democrat, stood side-by-side with U.S. Rep. Mario Diaz-Balart, a Miami Republican, to announce they had filed a lawsuit challenging one of Florida&amp;#39;s two new Fair District amendments.</excerpt>
+          <fti-names>'amend':5,49 'announc':34 'balart':29 'battl':6 'brown':2,14 'challeng':40 'corrin':1,13 'democrat':17 'diaz':28 'diaz-balart':27 'district':48 'dixon':51 'fair':47 'file':37 'florida':43 'jacksonvill':16 'lawsuit':39 'lost':3 'mario':26 'matt':50 'miami':31 'new':46 'one':41 'redistrict':10 'rep':12,25 'republican':32 'side':20,22 'side-by-sid':19 'stood':18 'two':45 'u.s':11,24 'won':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jacksonville.com/opinion/blog/403455/matt-dixon/2012-07-29/corrine-brown-lost-amendment-battle-won-redistricting-war&amp;sa=U&amp;ei=wUQXUL3UBKPr0gG86ICoCA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHnZsCKC6AH9jSTZRLCTSgJs9WGCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959532</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Dixon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:11:51-04:00</created-at>
+          <title>Corrine Brown Wins The War - GatorCountry.com Swamp Gas Forums</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Corrine Brown, a Jacksonville Democrat, stood side-by-side with U.S. Rep. Mario Diaz-Balart, a Miami Republican, to announce they had filed a lawsuit challenging one of Florida&amp;#39;s two new Fair District amendments.</excerpt>
+          <fti-names>'amend':48 'announc':33 'balart':28 'brown':2,13 'challeng':39 'corrin':1,12 'democrat':16 'diaz':27 'diaz-balart':26 'district':47 'fair':46 'file':36 'florida':42 'forum':9 'gas':8 'gatorcountry.com':6 'jacksonvill':15 'jaggat':49 'lawsuit':38 'mario':25 'miami':30 'new':45 'one':40 'rep':11,24 'republican':31 'side':19,21 'side-by-sid':18 'stood':17 'swamp':7 'two':44 'u.s':10,23 'war':5 'win':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.gatorcountry.com/swampgas/showthread.php%3Ft%3D235030&amp;sa=U&amp;ei=a_sVUITJII6y8QS96YE4&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNH5oeGZG-7t4bqBDwXVRzca77WG9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945373</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jaggator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:11:49-04:00</created-at>
+          <title>Corrine Brown lost the amendment battle, but won the redistricting ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Corrine Brown, a Jacksonville Democrat, stood side-by-side with U.S. Rep. Mario Diaz-Balart, a Miami Republican, to announce they had filed a lawsuit challenging one of Florida&amp;#39;s two new Fair District amendments.</excerpt>
+          <fti-names>'amend':5,49 'announc':34 'balart':29 'battl':6 'brown':2,14 'challeng':40 'corrin':1,13 'democrat':17 'diaz':28 'diaz-balart':27 'district':48 'dixon':51 'fair':47 'file':37 'florida':43 'jacksonvill':16 'lawsuit':39 'lost':3 'mario':26 'matt':50 'miami':31 'new':46 'one':41 'redistrict':10 'rep':12,25 'republican':32 'side':20,22 'side-by-sid':19 'stood':18 'two':45 'u.s':11,24 'won':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jacksonville.com/opinion/blog/403455/matt-dixon/2012-07-29/corrine-brown-lost-amendment-battle-won-redistricting-war&amp;sa=U&amp;ei=a_sVUITJII6y8QS96YE4&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFTOoakOtaaqzhEk6ErFZ7QVSxk5A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945371</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Dixon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:50-04:00</created-at>
+          <title>Corrine Brown, Democrats Continue To Demagogue Voter Rights ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On Friday, U.S. Rep. Corrine Brown announced she is leading a federal civil rights lawsuit to block changes to Florida&amp;#39;s early voting laws. While offering no supporting evidence, Brown said, &#8220;Early voting has worked extremely ...</excerpt>
+          <fti-names>'announc':15 'block':25 'brown':2,14,38 'chang':26 'civil':21 'continu':4 'corrin':1,13 'demagogu':6 'democrat':3 'earli':30,40 'evid':37 'extrem':44 'feder':20 'florida':28 'friday':10 'law':32 'lawsuit':23 'lead':18 'offer':34 'rep':12 'right':8,22 'said':39 'support':36 'tomt':45 'u.s':11 'vote':31,41 'voter':7 'work':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.floridapoliticalpress.com/2012/07/28/corrine-brown-democrats-continue-to-demagogue-voter-rights-issue/&amp;sa=U&amp;ei=wUQXUL3UBKPr0gG86ICoCA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHbubi05nI6IkfyKUtbwdMm5I94rQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16959533</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TomT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:11:50-04:00</created-at>
+          <title>Corrine Brown, Democrats Continue To Demagogue Voter Rights ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On Friday, U.S. Rep. Corrine Brown announced she is leading a federal civil rights lawsuit to block changes to Florida&amp;#39;s early voting laws. While offering no supporting evidence, Brown said, &#8220;Early voting has worked extremely ...</excerpt>
+          <fti-names>'announc':15 'block':25 'brown':2,14,38 'chang':26 'civil':21 'continu':4 'corrin':1,13 'demagogu':6 'democrat':3 'earli':30,40 'evid':37 'extrem':44 'feder':20 'florida':28 'friday':10 'law':32 'lawsuit':23 'lead':18 'offer':34 'rep':12 'right':8,22 'said':39 'support':36 'tomt':45 'u.s':11 'vote':31,41 'voter':7 'work':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.floridapoliticalpress.com/2012/07/28/corrine-brown-democrats-continue-to-demagogue-voter-rights-issue/&amp;sa=U&amp;ei=a_sVUITJII6y8QS96YE4&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFfvmSNUoUl4FC6NFwBuH2ZMtYoGQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945372</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TomT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:43:15-04:00</created-at>
+          <title>Editorial: What did we do before 2004? : Historic City News reaching ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>That was not good enough for Jacksonville&amp;#39;s Congresswoman Corrine Brown. Therefore, at 10:30 yesterday morning, she and Jacksonville NAACP President Isaiah Rumlin, joined the Jacksonville Chapter President of the ...</excerpt>
+          <fti-names>'10':25 '2004':7 '30':26 'brown':22 'chapter':39 'citi':9 'congresswoman':20 'corrin':21 'desk':44 'editori':1 'enough':16 'good':15 'histor':8 'isaiah':34 'jacksonvill':18,31,38 'join':36 'morn':28 'naacp':32 'news':10,43 'presid':33,40 'reach':11 'rumlin':35 'therefor':23 'yesterday':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.historiccity.com/2012/staugustine/news/florida/editorial-what-did-we-do-before-2004-28601&amp;sa=U&amp;ei=PaMUUPj_DYuC9QShtYGQDA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNHD08P2xaU_9gjFupRoEXDyyKQC1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928979</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Desk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:43:14-04:00</created-at>
+          <title>Corrine Brown, Democrats Continue To Demagogue Voter Rights ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On Friday, U.S. Rep. Corrine Brown announced she is leading a federal civil rights lawsuit to block changes to Florida&amp;#39;s early voting laws. While offering no supporting evidence, Brown said, &#8220;Early voting has worked extremely ...</excerpt>
+          <fti-names>'announc':15 'block':25 'brown':2,14,38 'chang':26 'civil':21 'continu':4 'corrin':1,13 'demagogu':6 'democrat':3 'earli':30,40 'evid':37 'extrem':44 'feder':20 'florida':28 'friday':10 'law':32 'lawsuit':23 'lead':18 'offer':34 'rep':12 'right':8,22 'said':39 'support':36 'tomt':45 'u.s':11 'vote':31,41 'voter':7 'work':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.floridapoliticalpress.com/2012/07/28/corrine-brown-democrats-continue-to-demagogue-voter-rights-issue/&amp;sa=U&amp;ei=PaMUUPj_DYuC9QShtYGQDA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNG2CDswT6N3Igx_fhyT8B9wM92kbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928975</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TomT</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400048</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:49-04:00</created-at>
+          <title>Rep. Corrine Brown files federal lawsuit over shortened early voting ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(Washington, DC) Congresswoman Corrine Brown, along with the Southern Christian Leadership Conference-Jacksonville chapter, several individual Duval residents, and the Duval County Democratic Executive Committee, ...</excerpt>
+          <fti-names>'along':16 'brown':3,15 'chapter':25 'christian':20 'committe':36 'confer':23 'conference-jacksonvill':22 'congresswoman':13 'corrin':2,14 'counti':33 'dc':12 'democrat':34 'duval':28,32 'earli':9 'electionsmith':37 'execut':35 'feder':5 'file':4 'individu':27 'jacksonvill':24 'lawsuit':6 'leadership':21 'rep':1 'resid':29 'sever':26 'shorten':8 'southern':19 'vote':10 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://electionsmith.wordpress.com/2012/07/27/rep-corrine-brown-files-federal-lawsuit-over-shortened-early-voting-period/&amp;sa=U&amp;ei=wUQXUL3UBKPr0gG86ICoCA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFtA2SCkGcEYL6tK5qGWm3GtkJKVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16959531</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>electionsmith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23382</page-views-count>
+      <unaccented-name>Corrine Brown</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

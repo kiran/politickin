@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T10:45:53-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.1392405063291</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">412378</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">1</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">299</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">35</party-votes-percentage-rank>
+        <sponsored-bills type="integer">88</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">412242</person-id>
+        <cosponsored-bills-rank type="integer">6</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412391</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">7</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">167</votes-republican-position>
+      <fax>202-228-2186</fax>
+      <blog-article-count type="integer">13602</blog-article-count>
+      <user-approval type="float">2.90710382513661</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">913</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.klobuchar.senate.gov/emailamy.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.1392405063291</with-party-percentage>
+      <lastname>Klobuchar</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>K000367</bioguide-id>
+      <congress-office>302 Hart Senate Office Building</congress-office>
+      <firstname>Amy</firstname>
+      <website>http://www.klobuchar.senate.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1960-05-25</birthday>
+      <person-id type="integer">412242</person-id>
+      <phone>202-224-3244</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">360</votes-democratic-position>
+      <metavid-id>Amy_Klobuchar</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:22-04:00</created-at>
+          <title>Woman in Calif. stole baby after faking pregnancy</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelfth year of </excerpt>
+          <fti-names>'11':42 'al':32 'ami':28 'atlant':24 'babi':5 'barack':37 'calif':3 'celebr':46 'drought':14 'ernesto':19 'extrem':11 'fair':41,45 'fake':7 'forecast':15 'form':21 'franken':33 'health':40 'heat':12 'kare':51 'klobuchar':29 'minneapoli':52 'obama':38 'paul':54 'pregnanc':8 'presid':36 'say':9,16 'sen':27,31 'st':53 'stole':4 'storm':18 'tropic':17 'twelfth':48 'urg':35 'woman':1 'year':49</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985977/18/Woman-in-Calif-stole-baby-after-faking-pregnancy</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973793</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:22-04:00</created-at>
+          <title>Mich. man gives $325K to fight Minn. gay marriage ban</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...scientist says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers</excerpt>
+          <fti-names>'325k':4 'al':35 'ami':31 'atlant':27 'ban':10 'barack':40 'drought':17 'ernesto':22 'extrem':14 'fair':46 'fight':6 'forecast':18 'form':24 'franken':36 'free':44 'gay':8 'give':3 'heat':15 'job':45,51 'kare':53 'klobuchar':32 'man':2 'marriag':9 'mich':1 'militari':50 'minn':7 'minneapoli':54 'obama':41 'open':47 'paul':56 'presid':39 'say':12,19 'scientist':11 'seeker':52 'sen':30,34 'st':55 'storm':21 'tropic':20 'urg':38</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985942/14/Mich-man-gives-325K-to-fight-Minn-gay-marriage-ban</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973792</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:22-04:00</created-at>
+          <title>Duluth TV news director resigns after Facebook post</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...scientist says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelft</excerpt>
+          <fti-names>'11':43 'al':33 'ami':29 'atlant':25 'barack':38 'celebr':47 'director':4 'drought':15 'duluth':1 'ernesto':20 'extrem':12 'facebook':7 'fair':42,46 'forecast':16 'form':22 'franken':34 'health':41 'heat':13 'kare':50 'klobuchar':30 'minneapoli':51 'news':3 'obama':39 'paul':53 'post':8 'presid':37 'resign':5 'say':10,17 'scientist':9 'sen':28,32 'st':52 'storm':19 'tropic':18 'tv':2 'twelft':49 'urg':36</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985966/14/Duluth-TV-news-director-resigns-after-Facebook-post</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973791</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:22-04:00</created-at>
+          <title>Ex-girlfriend of Sikh temple shooter arrested</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...scientist says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelft</excerpt>
+          <fti-names>'11':43 'al':33 'ami':29 'arrest':8 'atlant':25 'barack':38 'celebr':47 'drought':15 'ernesto':20 'ex':2 'ex-girlfriend':1 'extrem':12 'fair':42,46 'forecast':16 'form':22 'franken':34 'girlfriend':3 'health':41 'heat':13 'kare':50 'klobuchar':30 'minneapoli':51 'obama':39 'paul':53 'presid':37 'say':10,17 'scientist':9 'sen':28,32 'shooter':7 'sikh':5 'st':52 'storm':19 'templ':6 'tropic':18 'twelft':49 'urg':36</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985992/391/Ex-girlfriend-of-Sikh-temple-shooter-arrested</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973790</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:22-04:00</created-at>
+          <title>Feisty Fusco in line to start for Vikings at guard</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...scientist says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelft</excerpt>
+          <fti-names>'11':45 'al':35 'ami':31 'atlant':27 'barack':40 'celebr':49 'drought':17 'ernesto':22 'extrem':14 'fair':44,48 'feisti':1 'forecast':18 'form':24 'franken':36 'fusco':2 'guard':10 'health':43 'heat':15 'kare':52 'klobuchar':32 'line':4 'minneapoli':53 'obama':41 'paul':55 'presid':39 'say':12,19 'scientist':11 'sen':30,34 'st':54 'start':6 'storm':21 'tropic':20 'twelft':51 'urg':38 'vike':8</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985965/24/Feisty-Fusco-in-line-to-start-for-Vikings-at-guard</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973789</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:21-04:00</created-at>
+          <title>Minn. teacher fired for 'immoral conduct'</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...scientist says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelft</excerpt>
+          <fti-names>'11':41 'al':31 'ami':27 'atlant':23 'barack':36 'celebr':45 'conduct':6 'drought':13 'ernesto':18 'extrem':10 'fair':40,44 'fire':3 'forecast':14 'form':20 'franken':32 'health':39 'heat':11 'immor':5 'kare':48 'klobuchar':28 'minn':1 'minneapoli':49 'obama':37 'paul':51 'presid':35 'say':8,15 'scientist':7 'sen':26,30 'st':50 'storm':17 'teacher':2 'tropic':16 'twelft':47 'urg':34</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985940/14/Minn-teacher-fired-for-immoral-conduct</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973788</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:02-04:00</created-at>
+          <title>American Sikhs a small, misunderstood community</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their</excerpt>
+          <fti-names>'al':30 'american':1 'ami':26 'atlant':22 'barack':35 'communiti':6 'drought':12 'ernesto':17 'extrem':9 'fair':41 'forecast':13 'form':19 'franken':31 'free':39 'heat':10 'job':40,46 'kare':50 'klobuchar':27 'militari':45 'minneapoli':51 'misunderstood':5 'obama':36 'open':42 'paul':53 'presid':34 'say':7,14 'seeker':47 'sen':25,29 'sikh':2 'small':4 'st':52 'storm':16 'tropic':15 'urg':33</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985850/18/American-Sikhs-a-small-misunderstood-community</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973169</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:02-04:00</created-at>
+          <title>Vikings waive injured rookie WR Childs</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their</excerpt>
+          <fti-names>'al':30 'ami':26 'atlant':22 'barack':35 'child':6 'drought':12 'ernesto':17 'extrem':9 'fair':41 'forecast':13 'form':19 'franken':31 'free':39 'heat':10 'injur':3 'job':40,46 'kare':50 'klobuchar':27 'militari':45 'minneapoli':51 'obama':36 'open':42 'paul':53 'presid':34 'rooki':4 'say':7,14 'seeker':47 'sen':25,29 'st':52 'storm':16 'tropic':15 'urg':33 'vike':1 'waiv':2 'wr':5</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985804/24/Vikings-waive-injured-rookie-WR-Childs</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973168</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:02-04:00</created-at>
+          <title>2 injured in explosion at CHS elevator in SW Minn.</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their</excerpt>
+          <fti-names>'2':1 'al':34 'ami':30 'atlant':26 'barack':39 'chs':6 'drought':16 'elev':7 'ernesto':21 'explos':4 'extrem':13 'fair':45 'forecast':17 'form':23 'franken':35 'free':43 'heat':14 'injur':2 'job':44,50 'kare':54 'klobuchar':31 'militari':49 'minn':10 'minneapoli':55 'obama':40 'open':46 'paul':57 'presid':38 'say':11,18 'seeker':51 'sen':29,33 'st':56 'storm':20 'sw':9 'tropic':19 'urg':37</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985851/391/2-injured-in-explosion-at-CHS-elevator-in-SW-Minn</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973167</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:02-04:00</created-at>
+          <title>Twins recall INF Tsuyoshi Nishioka from Triple-A</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...says the extreme heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their</excerpt>
+          <fti-names>'al':33 'ami':29 'atlant':25 'barack':38 'drought':15 'ernesto':20 'extrem':12 'fair':44 'forecast':16 'form':22 'franken':34 'free':42 'heat':13 'inf':3 'job':43,49 'kare':53 'klobuchar':30 'militari':48 'minneapoli':54 'nishioka':5 'obama':39 'open':45 'paul':56 'presid':37 'recal':2 'say':10,17 'seeker':50 'sen':28,32 'st':55 'storm':19 'tripl':8 'triple-a':7 'tropic':18 'tsuyoshi':4 'twin':1 'urg':36</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985860/24/Twins-recall-INF-Tsuyoshi-Nishioka-from-Triple-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973166</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Amy Klobuchar [D, MN]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>senatorklobuchar</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Ron Paul an Unlikely Force in Minnesota Senate Race | Dr. Ron ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>... Minnesota is positioning one of his followers as the party&amp;#39;s unlikely favorite to take on U.S. Sen. Amy Klobuchar in November. Kurt Bills is a rookie state representative from Rosemount and a high school economics teacher.</excerpt>
+          <fti-names>'admin':49 'ami':30 'bill':35 'dr':10 'econom':47 'favorit':24 'follow':18 'forc':5 'high':45 'klobuchar':31 'kurt':34 'minnesota':7,12 'novemb':33 'one':15 'parti':21 'paul':2 'posit':14 'race':9 'repres':40 'ron':1,11 'rooki':38 'rosemount':42 'school':46 'sen':29 'senat':8 'state':39 'take':26 'teacher':48 'u.s':28 'unlik':4,23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ronpaul.tv/ron-paul/ron-paul-an-unlikely-force-in-minnesota-senate-race.php&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CFkQmAEwCw&amp;usg=AFQjCNF9K8DUZzhwxwdq2Jxkxv3r0dHxsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-22T01:00:00-04:00</date>
+          <id type="integer">14692937</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Visit from the Senate | Scott Hennen</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democratic Sen. Amy Klobuchar of Minnesota visited the Williston area Friday to see the Bakken&amp;#39;s growth and energy development firsthand. The visit was hosted by Republican Sen. John Hoeven in a bipartisan effort to bring ...</excerpt>
+          <fti-names>'ami':9 'area':16 'bakken':21 'bipartisan':39 'bring':42 'democrat':7 'develop':26 'effort':40 'energi':25 'firsthand':27 'friday':17 'growth':23 'hennen':6 'herald':47 'hoeven':36 'host':31 'howel':45 'jase':44 'john':35 'klobuchar':10 'minnesota':12 'republican':33 'scott':5 'see':19 'sen':8,34 'senat':4 'visit':1,13,29 'williston':15,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://scotthennen.com/2012/04/visit-from-the-senate/&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CE8QmAEwCQ&amp;usg=AFQjCNFfPFlGDJrnG8ueYTCa4M2lNCd0KA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-21T01:00:00-04:00</date>
+          <id type="integer">14692935</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>By Jase Howell Williston Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Coleen Rowley: Barbara Lee Was Right! Amy Klobuchar Is Wrong!</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In the last month, &amp;quot;No War on Iran&amp;quot; groups in Minnesota have personally visited the district offices of Congresspersons Betty McCollum, John Kline, Keith Ellison, Tim Walz and Chip Cravaack, as well as Senator Al Franken&amp;#39;s ...</excerpt>
+          <fti-names>'al':45 'ami':7 'barbara':3 'betti':30 'chip':39 'coleen':1,48 'congressperson':29 'cravaack':40 'district':26 'ellison':35 'franken':46 'group':19 'iran':18 'john':32 'keith':34 'kline':33 'klobuchar':8 'last':13 'lee':4 'mccollum':31 'minnesota':21 'month':14 'offic':27 'person':23 'right':6 'rowley':2,49 'senat':44 'tim':36 'visit':24 'walz':37 'war':16 'well':42 'wrong':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/coleen-rowley/barbara-lee-was-right-amy_b_1441620.html&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CEUQmAEwBw&amp;usg=AFQjCNGZQbO8tlrsfT3cFyMXK7jOk6yrTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-21T01:00:00-04:00</date>
+          <id type="integer">14692933</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Coleen Rowley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Ron Paul an unlikely force in Minn. Senate race | Peace . Gold ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>PAUL, Minn. (AP) - The energy behind Ron Paul&amp;#39;s campaign is giving a boost to an unlikely Republican hoping to challenge Sen. Amy Klobuchar in November. Kurt Bills is a rookie state representative from Rosemount and a ...</excerpt>
+          <fti-names>'ami':34 'ap':14 'behind':17 'bill':39 'boost':25 'campaign':21 'challeng':32 'energi':16 'forc':5 'give':23 'gold':11 'hope':30 'klobuchar':35 'kurt':38 'legalizeliberti':49 'minn':7,13 'novemb':37 'paul':2,12,19 'peac':10 'race':9 'repres':44 'republican':29 'ron':1,18 'rooki':42 'rosemount':46 'sen':33 'senat':8 'state':43 'unlik':4,28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailypaul.com/228048/ron-paul-an-unlikely-force-in-minn-senate-race&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNFrU8LOzjREUdaWOcAhXj0EGmuFcg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-21T01:00:00-04:00</date>
+          <id type="integer">14692930</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>legalizeliberty</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Articles - True North - True North</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Constituents of Democratic Senators should couple their offending Senator with Majority Leader Sen. Harry Reid D-NV as co-conspirators in fiscal malfeasance. For example, I&amp;#39;ve used my thoughtless Democratic Senator Amy Klobuchar with ...</excerpt>
+          <fti-names>'ami':40 'articl':1 'brettstevensmn':43 'co':26 'co-conspir':25 'conspir':27 'constitu':6 'coupl':11 'd':22 'd-nv':21 'democrat':8,38 'exampl':32 'fiscal':29 'harri':19 'klobuchar':41 'leader':17 'major':16 'malfeas':30 'north':3,5 'nv':23 'offend':13 'reid':20 'sen':18 'senat':9,14,39 'thoughtless':37 'true':2,4 'use':35 've':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.looktruenorth.com/component/content/article/360-limited-governement/ever-expanding-government/19246-the-reid-klobuchar-rule.html&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CEoQmAEwCA&amp;usg=AFQjCNHfDKNMvPI-wTqa5Yumha4phzlbkA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-19T01:00:00-04:00</date>
+          <id type="integer">14692934</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>BrettStevensMN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-22T12:46:34-04:00</created-at>
+          <title>Minnesota Senator Amy Klobuchar Presented With MIC Chairman&amp;#39;s ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>MN Senator Amy Klobuchar received the Motorcycle Industry Council Chairman&amp;#39;s Award for her efforts in stopping the ban on youth ATVs and dirt bikes.</excerpt>
+          <fti-names>'ami':3,12 'atv':31 'award':21 'ban':28 'bike':34 'chairman':8,19 'council':18 'dirt':33 'effort':24 'industri':17 'klobuchar':4,13 'magazin':36 'mic':7 'minnesota':1 'mn':10 'motorcycl':16 'present':5 'receiv':14 'rider':35 'senat':2,11 'stop':26 'youth':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ridermagazine.com/latest-news/minnesota-senator-amy-klobuchar-presented-with-mic-chairmans-award.htm&amp;sa=U&amp;ei=5zWUT_qwNsqU2wX41qScBQ&amp;ved=0CD0QmAEwBQ&amp;usg=AFQjCNH7OWlnLRcSPxnBx0p5otpVJ7IB7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-18T01:00:00-04:00</date>
+          <id type="integer">14692931</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rider Magazine</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:49:08-04:00</created-at>
+          <title>Sen. Klobuchar strikes a blow against&#8230;centrists</title>
+          <contains-term>republican</contains-term>
+          <excerpt>St. Paul -Republican Party of Minnesota Chairman Pat Shortridge issuedthe following statement regarding Senator Amy Klobuchar&amp;#39;s support for PresidentObama&amp;#39;s Buffet Tax this evening. &#8220;Senator Amy Klobuchar has once ...</excerpt>
+          <fti-names>'ami':22,34 'blow':5 'buffet':29 'centrist':7 'chairman':14 'even':32 'follow':18 'gari':38 'gross':39 'issuedth':17 'klobuchar':2,23,35 'minnesota':13 'parti':11 'pat':15 'paul':9 'presidentobama':27 'regard':20 'republican':10 'sen':1 'senat':21,33 'shortridg':16 'st':8 'statement':19 'strike':3 'support':25 'tax':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.letfreedomringblog.com/%3Fp%3D12729&amp;sa=U&amp;ei=E62NT-KHLoWq2gXZ2N3xCw&amp;ved=0CD4QmAEwBQ&amp;usg=AFQjCNF9Me-WAS3l3h26HHR6uQLABpUt5w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14546259</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gary Gross</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:49:08-04:00</created-at>
+          <title>Minnesota Sen. Klobuchar presented with MIC Chairman&amp;#39;s Award ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator Amy Klobuchar of Minnesota was presented with the Motorcycle Industry Council Chairman&amp;#39;s Award Friday afternoon, April 13, at a large ceremony at the Polaris Industries headquarters in Medina, Minn.</excerpt>
+          <fti-names>'13':29 'afternoon':27 'ami':12 'april':28 'award':9,25 'ceremoni':33 'cgerber@powersportsbusiness.com':44 'chairman':7,23 'chris':42 'council':22 'friday':26 'gerber':43 'headquart':38 'industri':21,37 'klobuchar':3,13 'larg':32 'medina':40 'mic':6 'minn':41 'minnesota':1,15 'motorcycl':20 'polari':36 'present':4,17 'sen':2 'senat':11 'u.s':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.powersportsbusiness.com/features/2012/04/17/minnesota-sen-klobuchar-presented-with-mic-chairmans-award/&amp;sa=U&amp;ei=E62NT-KHLoWq2gXZ2N3xCw&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNHRlKEZoHjCiJVRA5YMeltF5fLbVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14546258</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Gerber (cgerber@PowersportsBusiness.com)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:58:26-04:00</created-at>
+          <title>Do you know what 7H is? Are your kids consuming it? &#187; First Priority ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rand Paul, R-Ky., is keeping it from reaching a floor vote. Dozens of teens and young adults have been hospitalized in recent months &#8212; and some have died after smoking, snorting or swallowing the chemicals. Sen. Amy Klobuchar, D-Minn., ...</excerpt>
+          <fti-names>'7h':5 'adult':32 'ami':51 'chemic':49 'consum':10 'd':54 'd-minn':53 'die':42 'dozen':27 'first':12 'floor':25 'fpbham':56 'hospit':35 'keep':20 'kid':9 'klobuchar':52 'know':3 'ky':18 'minn':55 'month':38 'paul':15 'prioriti':13 'r':17 'r-ki':16 'rand':14 'reach':23 'recent':37 'sen':50 'smoke':44 'snort':45 'swallow':47 'teen':29 'vote':26 'young':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.gofirstpriority.com/2012/04/do-you-know-what-7h-is-are-your-kids-consuming-it/&amp;sa=U&amp;ei=X-qMT6-nEOWL2AXw_J2MDA&amp;ved=0CFwQmAEwDA&amp;usg=AFQjCNEX47cTP0YDvC-oE3Cog9wlvMb-ag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527181</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>fpbham</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412242</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:58:25-04:00</created-at>
+          <title>Minnesota Sen. Klobuchar presented with MIC Chairman&amp;#39;s Award ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator Amy Klobuchar of Minnesota was presented with the Motorcycle Industry Council (MIC) Chairman&amp;#39;s Award Friday afternoon, April 13, at a large ceremony at the Polaris Industries headquarters in Medina, Minn.</excerpt>
+          <fti-names>'13':30 'afternoon':28 'ami':12 'april':29 'award':9,26 'ceremoni':34 'cgerber@powersportsbusiness.com':45 'chairman':7,24 'chris':43 'council':22 'friday':27 'gerber':44 'headquart':39 'industri':21,38 'klobuchar':3,13 'larg':33 'medina':41 'mic':6,23 'minn':42 'minnesota':1,15 'motorcycl':20 'polari':37 'present':4,17 'sen':2 'senat':11 'u.s':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.powersportsbusiness.com/top-stories/2012/04/16/minnesota-sen-klobuchar-presented-with-mic-chairman%25E2%2580%2599s-award/&amp;sa=U&amp;ei=X-qMT6-nEOWL2AXw_J2MDA&amp;ved=0CDgQmAEwBA&amp;usg=AFQjCNH7xQsyVjuX8pmUn5rOgnJf10VyQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527173</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Gerber (cgerber@PowersportsBusiness.com)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">44468</page-views-count>
+      <unaccented-name>Amy Klobuchar</unaccented-name>
+      <oc-user-comments type="integer">34</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-06T01:53:04-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">85.8657243816254</party-votes-percentage>
+        <abstains-percentage type="float">1.2216404886562</abstains-percentage>
+        <votes-most-often-with-id type="integer">400648</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">128</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">274</cosponsored-bills-passed-rank>
+        <abstains type="integer">21</abstains>
+        <cosponsored-bills type="integer">226</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">360</party-votes-percentage-rank>
+        <sponsored-bills type="integer">55</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">400147</person-id>
+        <cosponsored-bills-rank type="integer">154</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">333</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1458</votes-republican-position>
+      <blog-article-count type="integer">7889</blog-article-count>
+      <fax>202-225-8440</fax>
+      <user-approval type="float">3.65217391304348</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">188</oc-users-tracking>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">85.8657243816254</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Gerlach</lastname>
+      <congress-office>2442 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Jim</firstname>
+      <website>http://gerlach.house.gov/</website>
+      <birthday type="date">1955-02-25</birthday>
+      <person-id type="integer">400147</person-id>
+      <phone>202-225-4315</phone>
+      <religion>Protestant</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">578</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:46:11-04:00</created-at>
+          <title>Reading Fair opens with salute to veterans</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Army Band from Fort Dix, N.J., played the national anthem and opened the ceremony. State Sen. Judy Schwank and U.S. Rep. Jim Gerlach both spoke to the crowd about military appreciation. When Schwank, a Ruscombmanor Township Democrat, took the microphone</excerpt>
+          <fti-names>'anthem':17 'appreci':38 'armi':8 'band':9 'ceremoni':21 'crowd':35 'democrat':44 'dix':12 'eagl':49 'fair':2 'fort':11 'gerlach':30 'jim':29 'judi':24 'microphon':47 'militari':37 'n.j':13 'nation':16 'open':3,19 'play':14 'read':1,48 'rep':28 'ruscombmanor':42 'salut':5 'schwank':25,40 'sen':23 'spoke':32 'state':22 'took':45 'township':43 'u.s':27 'veteran':7</fti-names>
+          <source-url>http://readingeagle.com/</source-url>
+          <url>http://readingeagle.com/article.aspx?id=406408</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972810</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Reading Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:38:42-04:00</created-at>
+          <title>Fitness trail dedicated at Hopewell</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...new fitness trail, which was an Eagle Scout service project of Bradley Angstadt of Exeter Township, left. Behind them is U.S. Rep. Jim Gerlach. By posting a comment, you are agreeing to Reading Eagle Company's terms and conditions. Any comment deemed of</excerpt>
+          <fti-names>'agre':36 'angstadt':18 'behind':23 'bradley':17 'comment':33,46 'compani':40 'condit':44 'dedic':3 'deem':47 'eagl':12,39,50 'exet':20 'fit':1,7 'gerlach':29 'hopewel':5 'jim':28 'left':22 'new':6 'post':31 'project':15 'read':38,49 'rep':27 'scout':13 'servic':14 'term':42 'township':21 'trail':2,8 'u.s':26</fti-names>
+          <source-url>http://readingeagle.com/</source-url>
+          <url>http://readingeagle.com/article.aspx?id=406263</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972461</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Reading Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:32:00-04:00</created-at>
+          <title>Medicare card ID protections overdue</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...about the changes and reassessing budget priorities laid out by Congress. As he pounded his fist on a table, Rep. Jim Gerlach, R-Pa., asked Trenkle on the issue of identity theft, &quot;Do you care?&quot; Trenkle assured lawmakers that the issue was a priority, b</excerpt>
+          <fti-names>'ask':31 'assur':43 'b':51 'budget':11 'card':2 'care':41 'cbs':52 'chang':8 'congress':16 'fist':21 'gerlach':27 'id':3 'ident':37 'issu':35,47 'jim':26 'laid':13 'lawmak':44 'medicar':1 'news':53 'overdu':5 'pa':30 'pound':19 'prioriti':12,50 'protect':4 'r':29 'r-pa':28 'reassess':10 'rep':25 'tabl':24 'theft':38 'trenkl':32,42</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/CBSNewsPCAnswer/~3/FgIz1-3VZc0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970635</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:31:56-04:00</created-at>
+          <title>Community housing group unveils new activity center</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...held a Friends and Family Day for all residents July 28 at its Bard Complex, 201 S. Main St., Spring City. U.S. Rep. Jim Gerlach, R-6, and state Sen. Andy Dinniman, D-19, attended the event, which also served as a grand opening for Petra&#8217;s Resident Ac</excerpt>
+          <fti-names>'-19':41 '-6':34 '201':23 '28':18 'ac':56 'activ':6 'also':46 'andi':38 'attend':42 'bard':21 'center':7 'citi':28 'communiti':1 'complex':22 'd':40 'day':13 'dinniman':39 'event':44 'famili':12 'friend':10 'gerlach':32 'grand':50 'group':3 'held':8 'hous':2 'jim':31 'juli':17 'main':25 'media':58 'montgomeri':57 'new':5 'open':51 'petra':53 'r':33 'rep':30 'resid':16,55 'sen':37 'serv':47 'spring':27 'st':26 'state':36 'u.s':29 'unveil':4</fti-names>
+          <source-url>http://www.montgomerynews.com/</source-url>
+          <url>http://www.montgomerynews.com/articles/2012/08/02/springford_reporter_valley_item/news/doc5019485dca30e516707688.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970634</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Montgomery Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:42:18-04:00</created-at>
+          <title>Medicare card ID protections overdue</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...beneficiaries about the changes and reassessing budget priorities laid out by Congress. As he pounded his fist on a table, Rep. Jim Gerlach, R-Pa., asked Trenkle on the issue of identity theft, &quot;Do you care?&quot; Trenkle assured lawmakers that the issue was</excerpt>
+          <fti-names>'ask':32 'assur':44 'beneficiari':6 'budget':12 'card':2 'care':42 'chang':9 'congress':17 'fist':22 'gerlach':28 'id':3 'ident':38 'issu':36,48 'jim':27 'laid':14 'lawmak':45 'medicar':1 'overdu':5 'pa':31 'pound':20 'prioriti':13 'protect':4 'r':30 'r-pa':29 'reassess':11 'rep':26 'tabl':25 'theft':39 'trenkl':33,43 'wis':50</fti-names>
+          <source-url>http://www.wistv.com/</source-url>
+          <url>http://www.wistv.com/story/19169931/medicare-card-id-protections-overdue</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16972180</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WIS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:42:17-04:00</created-at>
+          <title>NASE To Congress: Put Self-Employed Health Deduction On Your Hearing Docket</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...is enthusiastic in its support of H.R. 6102, America&#8217;s Small Business Tax Relief Act of 2012, introduced by Representative Jim Gerlach (R-Pa.) and cosponsored by Rep. Ron Kind (D-Wis.), which provides for a permanent deduction for several key small-bu</excerpt>
+          <fti-names>'2012':30 '6102':21 'act':28 'america':22 'blog':62 'bu':59 'busi':25 'congress':3 'cosponsor':40 'd':46 'd-wis':45 'deduct':9,53 'docket':13 'employ':7 'enthusiast':15 'gerlach':35 'h.r':20 'health':8 'hear':12 'introduc':31 'jim':34 'key':56 'kind':44 'nase':1,60 'pa':38 'perman':52 'provid':49 'put':4 'r':37 'r-pa':36 'relief':27 'rep':42 'repres':33 'ron':43 'self':6 'self-employ':5 'sever':55 'small':24,58 'small-bu':57 'staff':61 'support':18 'tax':26 'wis':47</fti-names>
+          <source-url>http://nase.org/About/StaffBlog.aspx</source-url>
+          <url>http://nase.org/NASE/NASEBlogs/2012-08-01/NASE_To_Congress_Put_Self-Employed_Health_Deduction_On_Your_Hearing_Docket.aspx</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16972179</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NASE Staff Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:39:19-04:00</created-at>
+          <title>Medicare card ID protections overdue</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...about the changes and reassessing budget priorities laid out by Congress. As he pounded his fist on a table, Rep. Jim Gerlach, R-Pa., asked Trenkle on the issue of identity theft, &quot;Do you care?&quot; Trenkle assured lawmakers that the issue was a priority, b</excerpt>
+          <fti-names>'ask':31 'assur':43 'atlanta':52 'b':51 'budget':11 'card':2 'care':41 'chang':8 'congress':16 'constitut':54 'fist':21 'gerlach':27 'id':3 'ident':37 'issu':35,47 'jim':26 'journal':53 'laid':13 'lawmak':44 'medicar':1 'overdu':5 'pa':30 'pound':19 'prioriti':12,50 'protect':4 'r':29 'r-pa':28 'reassess':10 'rep':25 'tabl':24 'theft':38 'trenkl':32,42 'vendor':55</fti-names>
+          <source-url>http://ajc.com/</source-url>
+          <url>http://www.ajc.com/news/nation-world/medicare-card-id-protections-1488991.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969669</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Vendor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:45-04:00</created-at>
+          <title>Republican Rep. Steve LaTourette unexpectedly retires</title>
+          <contains-term>republican</contains-term>
+          <excerpt>It&#8217;s getting way late in the game for a retirement, with the general election only 99 days away, but one last one has popped up: Republican Rep. Steve LaTourette ... right next to the likes of Dave Reichert and Jim Gerlach. That&#8217;s become more notable .</excerpt>
+          <fti-names>'99':23 'away':25 'becom':50 'dave':43 'day':24 'elect':21 'favstocks.com':53 'game':14 'general':20 'gerlach':47 'get':9 'jim':46 'last':28 'late':11 'latourett':4,36 'like':41 'next':38 'notabl':52 'one':27,29 'pop':31 'reichert':44 'rep':2,34 'republican':1,33 'retir':6,17 'right':37 'steve':3,35 'unexpect':5 'way':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.favstocks.com/republican-rep-steve-latourette-unexpectedly-retires/31904361/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T03:20:44-04:00</date>
+          <id type="integer">16966482</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>favstocks.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:49-04:00</created-at>
+          <title>VIDEO: Governor helps open new Southeastern Vets Center facility</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Veterans Center workers, active duty military personnel, bikers, families, news media and elected officials, including U.S. Rep. Jim Gerlach, R-6, state Sens. Andy Dinniman, D-19, and John Rafferty, R-44, and state Reps. Warren Kampf, R-157, and Tim Hen</excerpt>
+          <fti-names>'-157':48 '-19':36 '-44':41 '-6':30 'activ':13 'andi':33 'biker':17 'center':8,11 'd':35 'dinniman':34 'duti':14 'elect':22 'facil':9 'famili':18 'gerlach':28 'governor':2 'help':3 'hen':51 'includ':24 'jim':27 'john':38 'kampf':46 'media':20,53 'militari':15 'montgomeri':52 'new':5 'news':19 'offici':23 'open':4 'personnel':16 'r':29,40,47 'rafferti':39 'rep':26,44 'sen':32 'southeastern':6 'state':31,43 'tim':50 'u.s':25 'vet':7 'veteran':10 'video':1 'warren':45 'worker':12</fti-names>
+          <source-url>http://www.montgomerynews.com/</source-url>
+          <url>http://montgomerynews.com/articles/2012/07/31/springford_reporter_valley_item/news/doc50184aae9cc0f850632129.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966484</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Montgomery Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:49-04:00</created-at>
+          <title>What Expenses Can I Deduct? [VIDEO]</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...(NASE) is enthusiastic in its support of H.R. 6102, America&#8217;s Small Business Tax Relief Act of 2012, introduced by Representative Jim Gerlach (R-Pa.) and cosponsored by Rep. Ron Kind (D-Wis.), which provides for a permanent deduction for several key s</excerpt>
+          <fti-names>'2012':24 '6102':15 'act':22 'america':16 'blog':54 'busi':19 'cosponsor':34 'd':40 'd-wis':39 'deduct':5,47 'enthusiast':9 'expens':2 'gerlach':29 'h.r':14 'introduc':25 'jim':28 'key':50 'kind':38 'nase':7,52 'pa':32 'perman':46 'provid':43 'r':31 'r-pa':30 'relief':21 'rep':36 'repres':27 'ron':37 'sever':49 'small':18 'staff':53 'support':12 'tax':20 'video':6 'wis':41</fti-names>
+          <source-url>http://nase.org/About/StaffBlog.aspx</source-url>
+          <url>http://nase.org/NASE/NASEBlogs/2012-07-31/What_Expenses_Can_I_Deduct_VIDEO.aspx</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966483</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NASE Staff Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>G000549</bioguide-id>
+      <metavid-id>Jim_Gerlach</metavid-id>
+      <name>Rep. Jim Gerlach [R, PA-6]</name>
+      <total-session-votes type="integer">1698</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:39:04-04:00</created-at>
+          <title>Texas Lawyer Blog: 5th Circuit accepting applications for federal ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rodney Frelinghuysen [R, NJ-11] Rep. Marcia Fudge [D, OH-11] Rep. Elton Gallegly [R, CA-24] Rep. John Garamendi [D, CA-10] Rep. Cory Gardner [R, CO-4] Rep. Scott Garrett [R, NJ-5] Rep. Jim Gerlach [R, PA-6] Rep.</excerpt>
+          <fti-names>'-10':32 '-11':14,20 '-24':26 '-4':38 '-5':44 '-6':50 '5th':4 'accept':6 'applic':7 'blog':3 'ca':25,31 'chapter9bankruptcyco.com':52 'circuit':5 'co':37 'cori':34 'd':18,30 'elton':22 'feder':9 'frelinghuysen':11 'fudg':17 'galleg':23 'garamendi':29 'gardner':35 'garrett':41 'gerlach':47 'jim':46 'john':28 'lawyer':2 'marcia':16 'nj':13,43 'oh':19 'pa':49 'r':12,24,36,42,48 'rep':15,21,27,33,39,45,51 'rodney':10 'scott':40 'texa':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chapter9bankruptcyco.com/texas-lawyer-blog-5th-circuit-accepting-applications-for-federal-bankruptcy-judgeship-in-austin/&amp;sa=U&amp;ei=5h0WUKbTBoaC8QTmmIH4Cw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNH0OUltwomwqPOGwjwam90kdGO7mg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947015</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://chapter9bankruptcyco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:23:39-04:00</created-at>
+          <title>Considering Filing for Bankruptcy? Check Out FindLaw&amp;#39;s Guide</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Marcia Fudge [D, OH-11] Rep. Elton Gallegly [R, CA-24] Rep. John Garamendi [D, CA-10] Rep. Cory Gardner [R, CO-4] Rep. Scott Garrett [R, NJ-5] Rep. Jim Gerlach [R, PA-6] Rep. Bob Gibbs [R, OH-18] Rep. Chris Gibson [R, NY-20] Rep.</excerpt>
+          <fti-names>'-10':26 '-11':14 '-18':50 '-20':56 '-24':20 '-4':32 '-5':38 '-6':44 'bankruptci':4 'bankruptcyrecordsco.com':58 'bob':46 'ca':19,25 'check':5 'chris':52 'co':31 'consid':1 'cori':28 'd':12,24 'elton':16 'file':2 'findlaw':7 'fudg':11 'galleg':17 'garamendi':23 'gardner':29 'garrett':35 'gerlach':41 'gibb':47 'gibson':53 'guid':9 'jim':40 'john':22 'marcia':10 'nj':37 'ny':55 'oh':13,49 'pa':43 'r':18,30,36,42,48,54 'rep':15,21,27,33,39,45,51,57 'scott':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bankruptcyrecordsco.com/considering-filing-for-bankruptcy-check-out-findlaws-guide/&amp;sa=U&amp;ei=r6wUUO_JIpCu8QTZ94D4CA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNGPdLpZe3cNnMKlntIHaKzGQo4HRg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929601</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bankruptcyrecordsco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:23:35-04:00</created-at>
+          <title>Health on the Horizon: Mike and The Congressman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Mike is a Lebanon County resident that met Congressman Jim Gerlach at a community event at Lebanon Valley Agricultural Center. The two men were discussing the contributions to the rising cost of healthcare, a reality that ...</excerpt>
+          <fti-names>'agricultur':27 'center':28 'communiti':22 'congressman':8,17 'contribut':35 'cost':39 'counti':13 'discuss':33 'dolan':47 'event':23 'gerlach':19 'gonyea':46 'health':1 'healthcar':41 'holli':45 'horizon':4 'jim':18 'lebanon':12,25 'men':31 'met':16 'mike':5,9 'realiti':43 'resid':14 'rise':38 'two':30 'valley':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://healthonthehorizon.blogspot.com/2012/07/mike-and-congressman.html&amp;sa=U&amp;ei=r6wUUO_JIpCu8QTZ94D4CA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHdnMuFO2nyjDDriXUPWr73L8zeKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929595</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Holly Gonyea Dolan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:55:03-04:00</created-at>
+          <title>Health on the Horizon: Mike and The Congressman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Mike is a Lebanon County resident that met Congressman Jim Gerlach at a community event at Lebanon Valley Agricultural Center. The two men were discussing the contributions to the rising cost of healthcare, a reality that ...</excerpt>
+          <fti-names>'agricultur':27 'center':28 'communiti':22 'congressman':8,17 'contribut':35 'cost':39 'counti':13 'discuss':33 'dolan':47 'event':23 'gerlach':19 'gonyea':46 'health':1 'healthcar':41 'holli':45 'horizon':4 'jim':18 'lebanon':12,25 'men':31 'met':16 'mike':5,9 'realiti':43 'resid':14 'rise':38 'two':30 'valley':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://healthonthehorizon.blogspot.com/2012/07/mike-and-congressman.html&amp;sa=U&amp;ei=hVQTUOezG4m69QS0xIGoDA&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNFvgdHaMunAZv2VrPIPwHlDzR2gZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16921209</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Holly Gonyea Dolan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:39:02-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jim Gerlach (PA Republican), No. Rep. Bob Gibbs (OH Republican), No. Rep. Chris Gibson (NY Republican), No. Rep. John Gingrey (GA Republican), No. Rep. Louis Gohmert (TX Republican), No. Rep. Robert Goodlatte (VA Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'bob':16 'chris':22 'drill':9 'ga':30 'gerlach':11 'gibb':17 'gibson':23 'gingrey':29 'gohmert':35 'goodlatt':41 'hr.6168':1 'jim':10 'john':28 'loui':34 'ny':24 'obama':3 'offshor':8 'oh':18 'pa':12 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,31,37,43 'robert':40 'tx':36 'va':42 'www.votetocracy.com':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=5h0WUKbTBoaC8QTmmIH4Cw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFYpMP6W_EbpoOQjRe5Ldubkm8oXQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16947012</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:39:04-04:00</created-at>
+          <title>Gerlach: Raising Taxes Would Cut Jobs - Tredyffrin-Easttown, PA ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Jim Gerlach (R-PA6) has sent an email to constituents, which is also posted here on his website, stating his opposition to any tax increases, and citing a new report by the accounting firm Ernst &amp;amp; Young that ...</excerpt>
+          <fti-names>'account':45 'also':25 'bob':50 'byrn':51 'cite':39 'congressman':11 'constitu':22 'cut':5 'easttown':9 'email':20 'ernst':47 'firm':46 'gerlach':1,13 'increas':37 'jim':12 'job':6 'new':41 'opposit':33 'pa':10 'pa6':16 'post':26 'r':15 'r-pa6':14 'rais':2 'report':42 'sent':18 'state':31 'tax':3,36 'tredyffrin':8 'tredyffrin-easttown':7 'websit':30 'would':4 'young':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://te.patch.com/articles/gerlach-raising-taxes-would-cut-jobs&amp;sa=U&amp;ei=5h0WUKbTBoaC8QTmmIH4Cw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGLWnWooeQULZMDZBfnIprFTgjR1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16947014</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bob Byrne</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:23:33-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jim Gerlach (PA Republican), No. Rep. Bob Gibbs (OH Republican), No. Rep. Chris Gibson (NY Republican), No. Rep. John Gingrey (GA Republican), No. Rep. Louis Gohmert (TX Republican), No. Rep. Robert Goodlatte (VA Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'bob':16 'chris':22 'drill':9 'ga':30 'gerlach':11 'gibb':17 'gibson':23 'gingrey':29 'gohmert':35 'goodlatt':41 'hr.6168':1 'jim':10 'john':28 'loui':34 'ny':24 'obama':3 'offshor':8 'oh':18 'pa':12 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,31,37,43 'robert':40 'tx':36 'va':42 'www.votetocracy.com':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=r6wUUO_JIpCu8QTZ94D4CA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEwu15_oObiSlHplBsjzQbiCbOeAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929594</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:55:04-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=hVQTUOezG4m69QS0xIGoDA&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNFzpMd6d8W07FFs2P-L-A6yliAOvg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16921215</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:00:10-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=NQQSUMi6LIKk6wHEvYDQCg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNHyEzxZPCciZCnvF1D4pU0xNH_NDQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16889718</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400147</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:05:36-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=_LMQUI-aI5Gm8gSl4IG4BA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHypZ2-bW5YIf8ISn8gayJSAAODHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859011</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21372</page-views-count>
+      <youtube-id>RepJimGerlach</youtube-id>
+      <unaccented-name>Jim Gerlach</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T09:55:51-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">81.9796954314721</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">300078</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">112</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">58</party-votes-percentage-rank>
+        <sponsored-bills type="integer">23</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300077</person-id>
+        <cosponsored-bills-rank type="integer">62</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300018</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">49</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">207</votes-republican-position>
+      <blog-article-count type="integer">17129</blog-article-count>
+      <user-approval type="float">1.69767441860465</user-approval>
+      <url nil="true"></url>
+      <middlename>E.</middlename>
+      <oc-users-tracking type="integer">351</oc-users-tracking>
+      <contact-webform>http://www.bennelson.senate.gov/contact-me.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">81.9796954314721</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Nelson</lastname>
+      <congress-office>720 Hart Senate Office Building</congress-office>
+      <firstname>Ben</firstname>
+      <website>http://www.bennelson.senate.gov/</website>
+      <metavid-id>Ben_Nelson</metavid-id>
+      <birthday type="date">1941-05-17</birthday>
+      <person-id type="integer">300077</person-id>
+      <phone>202-224-6551</phone>
+      <religion>Methodist</religion>
+      <votes-democratic-position type="integer">323</votes-democratic-position>
+      <youtube-id>SenBenNelson</youtube-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:27:14-04:00</created-at>
+          <title>General aviation is a boon to Nebraska</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Appreciation Month.&#8221; In addition, U.S. Sen. Mike Johanns (co-chair of the Senate General Aviation Caucus) and U.S. Sen. Ben Nelson and other leaders recently highlighted the importance of the industry during a Jobs Creation Day at Duncan Aviation in L</excerpt>
+          <fti-names>'addit':11 'appreci':8 'aviat':2,23,47 'ben':28 'boon':5 'caucus':24 'chair':18 'co':17 'co-chair':16 'creation':43 'day':44 'duncan':46 'general':1,22 'highlight':34 'import':36 'industri':39 'job':42 'johann':15 'l':49 'leader':32 'mike':14 'month':9 'nebraska':7 'nelson':29 'omaha.com':50 'recent':33 'sen':13,27 'senat':21 'u.s':12,26</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://owweb.ow.atl.publicus.com/article/20120803/NEWS0802/708039969</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972384</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:44:01-04:00</created-at>
+          <title>General aviation is a boon to Nebraska</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Appreciation Month.&#8221; In addition, U.S. Sen. Mike Johanns (co-chair of the Senate General Aviation Caucus) and U.S. Sen. Ben Nelson and other leaders recently highlighted the importance of the industry during a Jobs Creation Day at Duncan Aviation in L</excerpt>
+          <fti-names>'addit':11 'appreci':8 'aviat':2,23,47 'ben':28 'boon':5 'caucus':24 'chair':18 'co':17 'co-chair':16 'creation':43 'day':44 'duncan':46 'general':1,22 'highlight':34 'import':36 'industri':39 'job':42 'johann':15 'l':49 'leader':32 'mike':14 'month':9 'nebraska':7 'nelson':29 'omaha.com':50 'recent':33 'sen':13,27 'senat':21 'u.s':12,26</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://www.omaha.com/article/20120803/NEWS0802/708039969</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971344</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:44:05-04:00</created-at>
+          <title>Senate Adds Dome Restoration Funding</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...and not become a symbol for short-sighted austerity,&#8221; said House Appropriations ranking member Norm Dicks (D-Wash.). Sen. Ben Nelson (D-Neb.), the chairman of the Senate Appropriations Subcommittee on the Legislative Branch, agreed that despite effort</excerpt>
+          <fti-names>'add':2 'agre':43 'appropri':18,37 'auster':15 'becom':8 'ben':27 'branch':42 'call':48 'chairman':33 'd':24,30 'd-neb':29 'd-wash':23 'despit':45 'dick':22 'dome':3 'effort':46 'fund':5 'hous':17 'legisl':41 'member':20 'neb':31 'nelson':28 'norm':21 'rank':19 'restor':4 'roll':47 'said':16 'sen':26 'senat':1,36 'short':13 'short-sight':12 'sight':14 'subcommitte':38 'symbol':10 'wash':25</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/senate_adds_dome_restoration_funding-216699-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971345</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:10:07-04:00</created-at>
+          <title>Think this Congress is bad? Just wait.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...thinned the ranks of centrists in the Senate &#8212; particularly on the Democratic side. Democratic Sens. Kent Conrad (N.D.), Ben Nelson and Jim Webb (Va.) as well as Lugar and Sen. Olympia Snowe (R-Maine) are all leaving the world&#8217;s greatest deliberativ</excerpt>
+          <fti-names>'bad':5 'ben':26 'centrist':12 'congress':3 'conrad':24 'deliberativ':50 'democrat':19,21 'greatest':49 'jim':29 'kent':23 'leav':45 'lugar':35 'main':42 'n.d':25 'nelson':27 'olympia':38 'particular':16 'post':53 'r':41 'r-main':40 'rank':10 'sen':22,37 'senat':15 'side':20 'snow':39 'thin':8 'think':1 'va':31 'wait':7 'washington':52 'webb':30 'well':33 'world':47</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=0df6444650b05aacc7a7818b9a2a8156</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970285</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:52:42-04:00</created-at>
+          <title>Senator Nelson pushes for Farm Bill passage</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Story Created: Jul 31, 2012 at 5:28 PM CDT Story Updated: Jul 31, 2012 at 6:30 PM CDT With the drought being the over-riding theme, Nebraska U.S. Senator Ben Nelson took to the Senate floor Tuesday to speak on the future of the 2012 Farm Bill and what he .</excerpt>
+          <fti-names>'2012':12,22,55 '28':15 '30':25 '31':11,21 '5':14 '6':24 'ben':40 'bill':6,57 'cdt':17,27 'creat':9 'drought':30 'farm':5,56 'floor':46 'futur':52 'jul':10,20 'khas':62 'khas-tv':61 'nebraska':37 'nelson':2,41 'over-rid':33 'passag':7 'pm':16,26 'push':3 'ride':35 'senat':1,39,45 'speak':49 'stori':8,18 'theme':36 'took':42 'tuesday':47 'tv':63 'u.s':38 'updat':19</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.khastv.com/news/local/Senator-Nelson-pushes-for-Farm-Bill-passage-164504736.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T18:22:41-04:00</date>
+          <id type="integer">16967886</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KHAS-TV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:55:51-04:00</created-at>
+          <title>Retiring Rep. Steve LaTourette: You have to &#8216;hand over your wallet and your voting card&#8217; to extremes</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...indicating Washington&#8217;s poisonous atmosphere was making it increasingly difficult to get anything done. Nebraska Sen. Ben Nelson (D) offered similar complaints when he declined to run again, as did Sen. Kent Conrad (D-N.D.) LaTourette said he would fo</excerpt>
+          <fti-names>'anyth':30 'atmospher':22 'ben':34 'card':15 'complaint':39 'conrad':50 'd':36,52,54 'd-n':51 'declin':42 'difficult':27 'done':31 'extrem':17 'fo':59 'get':29 'hand':8 'increas':26 'indic':18 'kent':49 'latourett':4,55 'make':24 'n':53 'nebraska':32 'nelson':35 'offer':37 'poison':21 'post':62 'rep':2 'retir':1 'run':44 'said':56 'sen':33,48 'similar':38 'steve':3 'vote':14 'wallet':11 'washington':19,61 'would':58</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=2ec6b8b9d339f59ac12934d5243ea3a3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967889</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:55:51-04:00</created-at>
+          <title>Retiring Rep. Steve LaTourette: You have to &#8216;hand over your wallet and your voting card&#8217; to extremes</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...indicating Washington&#8217;s poisonous atmosphere was making it increasingly difficult to get anything done. Nebraska Sen. Ben Nelson (D) offered similar complaints when he declined to run again, as did Sen. Kent Conrad (D-N.D.) LaTourette said he would fo</excerpt>
+          <fti-names>'anyth':30 'atmospher':22 'ben':34 'card':15 'complaint':39 'conrad':50 'd':36,52,54 'd-n':51 'declin':42 'difficult':27 'done':31 'extrem':17 'fo':59 'get':29 'hand':8 'increas':26 'indic':18 'kent':49 'latourett':4,55 'make':24 'n':53 'nebraska':32 'nelson':35 'offer':37 'poison':21 'post':62 'rep':2 'retir':1 'run':44 'said':56 'sen':33,48 'similar':38 'steve':3 'vote':14 'wallet':11 'washington':19,61 'would':58</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=4b7d36e88ce21eb10bb6221c7dc0126e</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967888</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:13:06-04:00</created-at>
+          <title>Kerrey offers plan to fix Social Security</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Kerrey faces Republican state Sen. Deb Fischer in the November election to replace U.S. Sen. Ben Nelson, a Democrat. The federal government said earlier this year that the trust funds that support Social Security are expected to run dry in 2033 because of </excerpt>
+          <fti-names>'2033':48 'ben':23 'deb':13 'democrat':26 'dri':46 'earlier':31 'elect':18 'expect':43 'face':9 'feder':28 'fischer':14 'fix':5 'francisco':52 'fund':37 'gate':53 'govern':29 'kerrey':1,8 'nelson':24 'novemb':17 'offer':2 'plan':3 'replac':20 'republican':10 'run':45 'said':30 'san':51 'secur':7,41 'sen':12,22 'social':6,40 'state':11 'support':39 'trust':36 'u.s':21 'year':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.sfgate.com/news/article/Kerrey-offers-plan-to-fix-Social-Security-3747469.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:33:46-04:00</date>
+          <id type="integer">16962859</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Gate</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:13:29-04:00</created-at>
+          <title>Missouri Sen. McCaskill trails Republican challengers in new poll</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...conservative and independent, but towing the line on important Dem. votes. Desi Derata 12 mins ago Nebraska's democrat, Ben Nelson, knew he couldn't even run, and the dems hand picked replacement, Bob Kerrey, got less votes in the primary than the top t</excerpt>
+          <fti-names>'12':23 'ago':25 'ben':29 'blog':57 'bob':43 'challeng':6 'conserv':10 'couldn':33 'dem':19,39 'democrat':28 'derata':22 'desi':21 'even':35 'got':45 'hand':40 'import':18 'independ':12 'kerrey':44 'knew':31 'less':46 'line':16 'mccaskil':3 'min':24 'missouri':1 'nebraska':26 'nelson':30 'new':8 'news':56 'pick':41 'poll':9 'primari':50 'replac':42 'republican':5 'run':36 'sen':2 'top':53 'tow':14 'trail':4 'vote':20,47 'yahoo':55</fti-names>
+          <source-url>http://news.yahoo.com/blogs</source-url>
+          <url>http://news.yahoo.com/blogs/ticket/missouri-sen-mccaskill-trails-republican-challengers-poll-140153034.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962867</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo! News Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:13:29-04:00</created-at>
+          <title>#NESen Update: Nebraska Farm Bureau Endorsed Deb Fischer</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...endorsement. Agriculture is the biggest economic engine in the state of Nebraska.&#8221; Meanwhile, Deb Fischer responds to Senator Ben Nelson&#8217;s letter in the Omaha World-Herald by telling him that it&#8217;s time for the federal government to sell federal gr</excerpt>
+          <fti-names>'agricultur':10 'ben':27 'biggest':13 'bureau':5 'deb':7,22 'econom':14 'endors':6,9 'engin':15 'farm':4 'feder':46,50 'fischer':8,23 'govern':47 'gr':51 'herald':36 'letter':30 'meanwhil':21 'minor':52 'nebraska':3,20 'nelson':28 'nesen':1 'omaha':33 'report':53 'respond':24 'sell':49 'senat':26 'state':18 'tell':38 'time':43 'updat':2 'world':35 'world-herald':34</fti-names>
+          <source-url>http://www.theminorityreportblog.com/</source-url>
+          <url>http://www.theminorityreportblog.com/2012/07/30/nesen-update-nebraska-farm-bureau-endorsed-deb-fischer/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962866</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Minority Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Ben Nelson [D, NE]</name>
+      <total-session-votes type="integer">394</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname>Ben</sunlight-nickname>
+      <fax>202-228-0012</fax>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:12:08-04:00</created-at>
+          <title>A Small Look Inside the Life of Aaron Eske | Crossroads of America ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Workwise, Aaron&amp;#39;s done everything from cleaning strangers&amp;#39; apartments in London&amp;#39;s Soho to serving as Press Secretary for Senator Ben Nelson. Most recently he was the Communications Director of the Angelina ...</excerpt>
+          <fti-names>'aaron':8,14 'america':12 'angelina':44 'apart':21 'ben':33 'clean':19 'communic':40 'crossroad':10 'director':41 'done':16 'esk':9 'everyth':17 'insid':4 'lauren':45 'life':6 'london':23 'look':3 'nelson':34 'press':29 'recent':36 'secretari':30 'senat':32 'serv':27 'small':2 'soho':25 'stranger':20 'workwis':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crossroadsofamericaadoptionconference.com/a-small-look-inside-the-life-of-aaron-eske/&amp;sa=U&amp;ei=MHcXUJqtBYP49QTPgYGwCQ&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNGUlNsTVhvdmL09Sl0Ndqs9qiqsWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962848</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>lauren</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:12:06-04:00</created-at>
+          <title>Orlistat no Prescription &#8211; Side Effects | Cordero Ecologico Blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... members of Congress recesses in August Bill of state aid will need the support of at least one Republican to get the 59 votes ahead &#8211; assuming Democrats do not lose some of their votes, Senator Ben Nelson (D-Neb.) ...</excerpt>
+          <fti-names>'59':31 'admin':49 'ahead':33 'aid':18 'assum':34 'august':14 'ben':44 'bill':15 'blog':8 'congress':11 'cordero':6 'd':47 'd-neb':46 'democrat':35 'ecologico':7 'effect':5 'get':29 'least':25 'lose':38 'member':9 'neb':48 'need':20 'nelson':45 'one':26 'orlistat':1 'prescript':3 'recess':12 'republican':27 'senat':43 'side':4 'state':17 'support':22 'vote':32,42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://corderoecologico.com/orlistat-no-prescription-side-effects/&amp;sa=U&amp;ei=MHcXUJqtBYP49QTPgYGwCQ&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNFbfy1J1Wy9kpSI4mdmh7Cwwn1gWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962846</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:12:05-04:00</created-at>
+          <title>Daily Kos: Senate Rankings: So Many Tossups!</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Nebraska (Open Ben Nelson (D)): Conservative Democrat Ben Nelson has retired and Democrats found former Sen. Bob Kerrey (D), their best candidate to retake this seat. Kerrey was once very popular in Nebraska but since ...</excerpt>
+          <fti-names>'alibguy':44 'ben':10,15 'best':28 'bob':24 'candid':29 'conserv':13 'd':12,26 'daili':1 'democrat':14,20 'former':22 'found':21 'kerrey':25,34 'kos':2 'mani':6 'nebraska':8,40 'nelson':11,16 'open':9 'popular':38 'rank':4 'retak':31 'retir':18 'rss@dailykos.com':43 'seat':33 'sen':23 'senat':3 'sinc':42 'tossup':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/07/30/1115037/-Senate-Rankings-So-Many-Tossups&amp;sa=U&amp;ei=MHcXUJqtBYP49QTPgYGwCQ&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNHdN-1XxnXLTX_aPl6XvOuCftdXZg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962845</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (Alibguy)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:19:08-04:00</created-at>
+          <title>Debate on tax-cut extension sure to extend a little longer (AUDIO)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>He said the estate tax would jump dramatically, which could have a big impact on farm families throughout Nebraska. Sen. Ben Nelson agreed that the tax cut extension could help an economy struggling to get back on its feet.</excerpt>
+          <fti-names>'agre':36 'audio':13 'back':49 'ben':34 'big':26 'brent':53 'could':23,42 'cut':5,40 'debat':1 'dramat':21 'economi':45 'estat':17 'extend':9 'extens':6,41 'famili':30 'farm':29 'feet':52 'get':48 'help':43 'impact':27 'jump':20 'littl':11 'longer':12 'martin':54 'nebraska':32 'nelson':35 'said':15 'sen':33 'struggl':46 'sure':7 'tax':4,18,39 'tax-cut':3 'throughout':31 'would':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nebraskaradionetwork.com/2012/07/27/debate-on-tax-cut-extension-sure-to-extend-a-little-longer-audio/&amp;sa=U&amp;ei=FA4VULWfGNO50QHAjoGACg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEy7Y1DdhNUn2RD-OZPZq7ctQ86tw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932964</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brent Martin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:27:06-04:00</created-at>
+          <title>Debate on tax-cut extension sure to extend a little longer (AUDIO)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>He said the estate tax would jump dramatically, which could have a big impact on farm families throughout Nebraska. Sen. Ben Nelson agreed that the tax cut extension could help an economy struggling to get back on its feet.</excerpt>
+          <fti-names>'agre':36 'audio':13 'back':49 'ben':34 'big':26 'brent':53 'could':23,42 'cut':5,40 'debat':1 'dramat':21 'economi':45 'estat':17 'extend':9 'extens':6,41 'famili':30 'farm':29 'feet':52 'get':48 'help':43 'impact':27 'jump':20 'littl':11 'longer':12 'martin':54 'nebraska':32 'nelson':35 'said':15 'sen':33 'struggl':46 'sure':7 'tax':4,18,39 'tax-cut':3 'throughout':31 'would':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nebraskaradionetwork.com/2012/07/27/debate-on-tax-cut-extension-sure-to-extend-a-little-longer-audio/&amp;sa=U&amp;ei=nIsWUOKSEJKi8QSYmoH4BA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGQJ3BeA7zzVNSuJufWkzYg0ztEHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16952591</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brent Martin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-28T01:30:01-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=z3gTUKSbD4Xi0QGQx4HQCA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNE3OY0DRGOFgnhBQ0NcEIc5Sd_nTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16926102</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-28T01:30:01-04:00</created-at>
+          <title>The political price of health care &#171; IISS Voices</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>For example, to secure the support of Democratic Senator Ben Nelson of Nebraska, a key swing vote, Senate Majority Leader Harry Reid agreed to the &amp;#39;Cornhusker kickback&amp;#39;, which allowed Nebraskans to be reimbursed for ...</excerpt>
+          <fti-names>'agre':31 'allow':37 'ben':18 'care':6 'cornhusk':34 'democrat':16 'exampl':10 'harri':29 'health':5 'iiss':7,43 'key':23 'kickback':35 'leader':28 'major':27 'nebraska':21 'nebraskan':38 'nelson':19 'polit':2 'price':3 'reid':30 'reimburs':41 'secur':12 'senat':17,26 'support':14 'swing':24 'voic':8,44 'vote':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://iissvoicesblog.wordpress.com/2012/07/27/the-political-price-of-health-care-2/&amp;sa=U&amp;ei=z3gTUKSbD4Xi0QGQx4HQCA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHnekQUqRxoMMFhgCsRfP5-X9sV_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16926101</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>IISS Voices</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-28T01:30:00-04:00</created-at>
+          <title>Stalled Farm Bill could hold up drought disaster relief for farmers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Ben Nelson harshly criticized Republican leaders in the House of Representatives for failing to bring the Farm Bill to the House floor for debate during his conference call with Nebraska reporters this week. The House ...</excerpt>
+          <fti-names>'ben':13 'bill':3,30 'brent':48 'bring':27 'call':40 'confer':39 'could':4 'critic':16 'debat':36 'disast':8 'drought':7 'fail':25 'farm':2,29 'farmer':11 'floor':34 'harsh':15 'hold':5 'hous':21,33,47 'leader':18 'martin':49 'nebraska':42 'nelson':14 'relief':9 'report':43 'repres':23 'republican':17 'sen':12 'stall':1 'week':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nebraskaradionetwork.com/2012/07/26/stalled-farm-bill-could-hold-up-drought-disaster-relief-for-farmers/&amp;sa=U&amp;ei=z3gTUKSbD4Xi0QGQx4HQCA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFVhcRAgP5purliQFivqXpNUzw9NA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16926099</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brent Martin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-28T01:30:02-04:00</created-at>
+          <title>Republicans Poised to Take Senate? &#171; The Elephant in the Corner</title>
+          <contains-term>republican</contains-term>
+          <excerpt>First, look at the Senatorial races that are considered toss-ups. Sen. Ben Nelson (D-FL), Sen. Scott Brown (R-MA), Sen. Claire McCaskill (D-MI), Sen. Jon Tester (D-MT), and Sen. Dean Heller (R-NV) are all defending their ...</excerpt>
+          <fti-names>'ben':24 'brown':31 'clair':36 'consid':19 'corner':10 'd':27,39,45 'd-fl':26 'd-mi':38 'd-mt':44 'dean':49 'defend':56 'eleph':7 'first':11 'fl':28 'gage':59 'heller':50 'jon':42 'look':12 'ma':34 'mccaskil':37 'mi':40 'mt':46 'nelson':25 'nv':53 'patrick':58 'pois':2 'r':33,52 'r-ma':32 'r-nv':51 'race':16 'republican':1 'scott':30 'sen':23,29,35,41,48 'senat':5 'senatori':15 'take':4 'tester':43 'toss':21 'toss-up':20 'up':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://anelephantinthecorner.wordpress.com/2012/07/25/republicans-poised-to-take-senate/&amp;sa=U&amp;ei=z3gTUKSbD4Xi0QGQx4HQCA&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNEs3wYD1O_rQjcD0vxWjcC2quwltQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16926104</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Patrick Gage</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300077</commentariable-id>
+          <created-at type="datetime">2012-07-27T02:45:09-04:00</created-at>
+          <title>Action Plan to Get Audit the Fed Passed in the Senate! | Peace ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democratic Senators Retiring in 2012. Connecticut &#8211; Joe Lieberman - http://www.lieberman.senate.gov/ Hawaii &#8211; Daniel Akaka - http://www.akaka.senate.gov/ Nebraska &#8211; Ben Nelson - http://www.bennelson.senate.gov/ ...</excerpt>
+          <fti-names>'2012':17 'action':1 'akaka':24 'audit':5 'ben':27 'connecticut':18 'daniel':23 'democrat':13 'fed':7 'get':4 'hawaii':22 'joe':19 'liberti':30 'lieberman':20 'mike':31 'nebraska':26 'nelson':28 'pass':8 'peac':12 'plan':2 'retir':15 'senat':11,14 'www.akaka.senate.gov':25 'www.bennelson.senate.gov':29 'www.lieberman.senate.gov':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailypaul.com/246241/action-plan-to-get-audit-the-fed-passed-in-the-senate-please-vote-up&amp;sa=U&amp;ei=7jgSUMTXLYad6AHBo4GICw&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEN1UgPEjE_A9cQUgYLpYObPb7E-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16895283</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Liberty_Mike</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>N000180</bioguide-id>
+      <page-views-count type="integer">52140</page-views-count>
+      <unaccented-name>Ben Nelson</unaccented-name>
+      <oc-user-comments type="integer">43</oc-user-comments>
+    </person>
+  </people>
+</hash>

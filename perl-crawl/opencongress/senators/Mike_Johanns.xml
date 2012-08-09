@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">86.5822784810127</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">300072</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">240</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">56</party-votes-percentage-rank>
+        <sponsored-bills type="integer">24</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">412320</person-id>
+        <cosponsored-bills-rank type="integer">25</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">47</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">342</votes-republican-position>
+      <middlename nil="true"></middlename>
+      <blog-article-count type="integer">7978</blog-article-count>
+      <user-approval type="float">3.5</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">283</oc-users-tracking>
+      <contact-webform>http://www.johanns.senate.gov/public/?p=ContactSenatorJohanns</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">86.5822784810127</with-party-percentage>
+      <lastname>Johanns</lastname>
+      <congress-office>404 Russell Senate Office Building</congress-office>
+      <metavid-id nil="true"></metavid-id>
+      <firstname>Mike</firstname>
+      <website>http://www.johanns.senate.gov</website>
+      <birthday type="date">1950-06-18</birthday>
+      <person-id type="integer">412320</person-id>
+      <bioguide-id>J000291</bioguide-id>
+      <phone>202-224-4224</phone>
+      <youtube-id>SenatorMikeJohanns</youtube-id>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">183</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:59:29-04:00</created-at>
+          <title>EPA to expedite notices of flyover data</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...advisor with EPA, said Thursday. Once again at the suggestion of the livestock group, the EPA sent letters to U.S. Sen. Mike Johanns and Reps. Adrian Smith and Jeff Fortenberry, offering to meet and discuss the issue. Earlier this summer, all five membe</excerpt>
+          <fti-names>'adrian':33 'advisor':8 'data':7 'discuss':42 'earlier':45 'epa':1,10,23 'expedit':3 'five':49 'flyover':6 'fortenberri':37 'group':21 'issu':44 'jeff':36 'johann':30 'letter':25 'livestock':20 'meet':40 'memb':50 'mike':29 'notic':4 'offer':38 'omaha.com':51 'rep':32 'said':11 'sen':28 'sent':24 'smith':34 'suggest':17 'summer':47 'thursday':12 'u.s':27</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://www.omaha.com/article/20120803/NEWS/708039921</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972620</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:19:42-04:00</created-at>
+          <title>General aviation is a boon to Nebraska</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...the public about its value by declaring the month of May to be &#8220;General Aviation Appreciation Month.&#8221; In addition, U.S. Sen. Mike Johanns (co-chair of the Senate General Aviation Caucus) and U.S. Sen. Ben Nelson and other leaders recently highlighte</excerpt>
+          <fti-names>'addit':26 'appreci':23 'aviat':2,22,38 'ben':43 'boon':5 'caucus':39 'chair':33 'co':32 'co-chair':31 'declar':14 'general':1,21,37 'highlight':49 'johann':30 'leader':47 'may':18 'mike':29 'month':16,24 'nebraska':7 'nelson':44 'omaha.com':50 'public':9 'recent':48 'sen':28,42 'senat':36 'u.s':27,41 'valu':12</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://owweb.ow.atl.publicus.com/article/20120803/NEWS0802/708039969</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972345</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:37-04:00</created-at>
+          <title>EPA to expedite notices of flyover data</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...advisor with EPA, said Thursday. Once again at the suggestion of the livestock group, the EPA sent letters to U.S. Sen. Mike Johanns and Reps. Adrian Smith and Jeff Fortenberry, offering to meet and discuss the issue. Earlier this summer, all five membe</excerpt>
+          <fti-names>'adrian':33 'advisor':8 'data':7 'discuss':42 'earlier':45 'epa':1,10,23 'expedit':3 'five':49 'flyover':6 'fortenberri':37 'group':21 'hildreth':51 'issu':44 'jeff':36 'johann':30 'letter':25 'librari':53 'livestock':20 'meet':40 'memb':50 'mike':29 'notic':4 'offer':38 'public':52 'rep':32 'said':11 'sen':28 'sent':24 'smith':34 'suggest':17 'summer':47 'thursday':12 'u.s':27</fti-names>
+          <source-url>http://libraries.ne.gov/hildreth/</source-url>
+          <url>http://www.kearneyhub.com/news/local/epa-to-expedite-notices-of-flyover-data/article_cbabba5a-dd67-11e1-a520-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971980</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hildreth Public Library</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:07:24-04:00</created-at>
+          <title>MF Global U.S. customers get 80% of their money back</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...and negligence. MF Global has been accused of improperly tapping customers' accounts to help try to stay afloat. When asked by Sen. Mike Johanns, a Nebraska Republican, whether Corzine, himself ordered the co-mingling of customer and MF Global accounts,</excerpt>
+          <fti-names>'80':6 'account':22,51 'accus':17 'afloat':28 'ask':30 'back':10 'cnn/money':52 'co':44 'co-mingl':43 'corzin':39 'custom':4,21,47 'get':5 'global':2,14,50 'help':24 'improp':19 'johann':34 'mf':1,13,49 'mike':33 'mingl':45 'money':9 'nebraska':36 'neglig':12 'order':41 'republican':37 'sen':32 'stay':27 'tap':20 'tri':25 'u.s':3 'whether':38</fti-names>
+          <source-url>http://money.cnn.com/</source-url>
+          <url>http://rss.cnn.com/~r/rss/money_news_economy/~3/rpvdvf-0kc8/index.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970202</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN/Money</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:35:19-04:00</created-at>
+          <title>Leaders Reach Tentative Deal on Spending to Avoid Fight Before Election Day</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;At the end of the day, if that&#8217;s all you get to vote on, I may end up voting for it, but I&#8217;m not a fan,&#8221; said Senator Mike Johanns, Republican of Nebraska. Republican lawmakers will spend much of the week railing against impending cuts ...</excerpt>
+          <fti-names>'avoid':8 'cut':59 'day':12,18 'deal':4 'elect':11 'end':15,30 'fan':40 'fight':9 'get':24 'impend':58 'johann':44 'lawmak':49 'leader':1 'm':37 'may':29 'mike':43 'much':52 'nebraska':47 'new':60 'rail':56 'reach':2 'republican':45,48 'said':41 'senat':42 'spend':6,51 'tentat':3 'time':62 'vote':26,32 'week':55 'york':61</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nytimes.com/2012/08/01/us/politics/congressional-leaders-reach-tentative-deal-on-spending.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:04:35-04:00</date>
+          <id type="integer">16967701</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:35:19-04:00</created-at>
+          <title>Head of MF Global regulator found to have few ties to Corzine despite time together at Goldman Sachs</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;From our standpoint, we want a person to come before us and answer the hard questions,&#8221; Senator Mike Johanns, a Nebraska Republican, told Gensler at a Senate Banking Committee hearing Dec. 6. &#8220;That&#8217;s what your job is about. And it just ...</excerpt>
+          <fti-names>'6':50 'answer':31 'bank':46 'come':27 'committe':47 'corzin':12 'dec':49 'despit':13 'found':6 'gensler':42 'global':4 'goldman':17 'hard':33 'head':1 'hear':48 'job':55 'johann':37 'mf':3 'mike':36 'nebraska':39 'nj.com':61 'person':25 'question':34 'regul':5 'republican':40 'sach':18 'senat':35,45 'standpoint':21 'tie':10 'time':14 'togeth':15 'told':41 'us':29 'want':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nj.com/business/index.ssf/2012/07/head_of_mf_global_regulator_fo.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:15:55-04:00</date>
+          <id type="integer">16967703</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:16:06-04:00</created-at>
+          <title>Corzine Wasn&#8217;t Too Close with CFTC Chief, Review Finds</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;From our standpoint, we want a person to come before us and answer the hard questions,&#8221; Senator Mike Johanns, a Nebraska Republican, told Gensler at a Senate Banking Committee hearing Dec. 6. &#8220;That&#8217;s what your job is about. And it just ...</excerpt>
+          <fti-names>'6':42 'answer':23 'bank':38 'bloomberg':53 'cftc':7 'chief':8 'close':5 'come':19 'committe':39 'corzin':1 'dec':41 'find':10 'gensler':34 'hard':25 'hear':40 'job':47 'johann':29 'mike':28 'nebraska':31 'person':17 'question':26 'republican':32 'review':9 'senat':27,37 'standpoint':13 'told':33 'us':21 'want':15 'wasn':2</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-31/corzine-wasn-t-too-close-with-cftc-chief-review-finds.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:14:38-04:00</date>
+          <id type="integer">16962427</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:35:19-04:00</created-at>
+          <title>Corzine Wasn&#8217;t Too Close with CFTC Chief, Review Finds</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&#8220;From our standpoint, we want a person to come before us and answer the hard questions,&#8221; Senator Mike Johanns, a Nebraska Republican, told Gensler at a Senate Banking Committee hearing Dec. 6. &#8220;That&#8217;s what your job is about. And it just ...</excerpt>
+          <fti-names>'6':42 'answer':23 'bank':38 'businessweek':53 'cftc':7 'chief':8 'close':5 'come':19 'committe':39 'corzin':1 'dec':41 'find':10 'gensler':34 'hard':25 'hear':40 'job':47 'johann':29 'mike':28 'nebraska':31 'person':17 'question':26 'republican':32 'review':9 'senat':27,37 'standpoint':13 'told':33 'us':21 'want':15 'wasn':2</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.businessweek.com/news/2012-07-31/corzine-wasn-t-too-close-with-cftc-chief-review-finds</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T22:34:25-04:00</date>
+          <id type="integer">16967700</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Businessweek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:35:18-04:00</created-at>
+          <title>Monday in politics: Romney in Poland, Obama in NYC, and more</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Sen. Mike Johanns, R-Neb., also will be in Ohio stumping for Romney; and&#160; Newt Gingrich will be in Virginia campaigning for Romney. And then there is this: House Democrats plan to introduce legislation Monday that would extend Bush-era tax cuts for ...</excerpt>
+          <fti-names>'also':18 'bush':52 'bush-era':51 'ca.news.yahoo.com':57 'campaign':33 'cut':55 'democrat':42 'era':53 'extend':50 'gingrich':28 'hous':41 'introduc':45 'johann':14 'legisl':46 'mike':13 'monday':1,47 'neb':17 'newt':27 'nyc':9 'obama':7 'ohio':22 'plan':43 'poland':6 'polit':3 'r':16 'r-neb':15 'romney':4,25,35 'sen':12 'stump':23 'tax':54 'virginia':32 'would':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://ca.news.yahoo.com/blogs/ticket/monday-politics-romney-poland-obama-nyc-more-103950910.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T08:22:35-04:00</date>
+          <id type="integer">16967699</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ca.news.yahoo.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:41:06-04:00</created-at>
+          <title>Monday in politics: Romney in Poland, Obama in NYC, and more</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Sen. Mike Johanns, R-Neb., also will be in Ohio stumping for Romney; and&#160; Newt Gingrich will be in Virginia campaigning for Romney. And then there is this: House Democrats plan to introduce legislation Monday that would extend Bush-era tax cuts ...</excerpt>
+          <fti-names>'abc':56 'also':18 'bush':52 'bush-era':51 'campaign':33 'cut':55 'democrat':42 'era':53 'extend':50 'gingrich':28 'hous':41 'introduc':45 'johann':14 'legisl':46 'mike':13 'monday':1,47 'neb':17 'news':57 'newt':27 'nyc':9 'obama':7 'ohio':22 'plan':43 'poland':6 'polit':3 'r':16 'r-neb':15 'romney':4,25,35 'sen':12 'stump':23 'tax':54 'virginia':32 'would':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/monday-politics-romney-poland-obama-nyc/story?id=16884522</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T06:49:31-04:00</date>
+          <id type="integer">16952049</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-228-0436</fax>
+      <name>Sen. Mike Johanns [R, NE]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:14-04:00</created-at>
+          <title>Ben Nelson Goes Cow (Fees) Tipping - Straight from the Horse&amp;#39;s Heart</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Republican Sen. Mike Johanns, a former U.S. secretary of agriculture, already has said it was misleading to describe the program as a subsidy, Keylin pointed out. Johanns said the lease requires substantial activity by a ...</excerpt>
+          <fti-names>'activ':45 'agricultur':22 'alreadi':23 'ben':1 'cow':4 'describ':30 'fee':5 'fitch':49 'former':18 'goe':3 'heart':12 'hors':10 'johann':16,39 'keylin':36 'leas':42 'mike':15 'mislead':28 'nelson':2 'point':37 'program':32 'r.t':48 'republican':13 'requir':43 'said':25,40 'secretari':20 'sen':14 'straight':7 'subsidi':35 'substanti':44 'tip':6 'u.s':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rtfitchauthor.com/2012/07/19/ben-nelson-goes-cow-fees-tipping/&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CEsQmAEwCw&amp;usg=AFQjCNHrVOPYHev1A8HAepx9TZ3_7Ax5OQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16751655</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>R.T. Fitch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:13-04:00</created-at>
+          <title>S.3369 | Democracy Is Strengthened by Casting Light On Spending ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) entered in Senate. Jul 12 2012. Motion to proceed to consideration of measure ...</excerpt>
+          <fti-names>'12':41 '179':36 '2012':42 'call':33 'cast':6 'clotur':20 'consider':47 'democraci':2 'enter':37 'invok':23 'jul':40 'light':7 'measur':31,49 'motion':10,26,43 'proceed':28,45 'reconsid':15 'reid':13 'roll':32 's.3369':1 'senat':12,39 'spend':9 'strengthen':4 'vote':17,34 'www.votetocracy.com':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3369-democracy-is-strengthened-by-casting-light-on-spending-in-elections-act-of-2012-41528&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CEcQmAEwCg&amp;usg=AFQjCNGKK8d_C7g14ysVox9QaD24iRQ49Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16751653</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:12-04:00</created-at>
+          <title>Kerry&amp;#39;s L.O.S.T. Defeat a Win for America at US Action News</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Johnny Isakson (R-GA); Senator Mike Johanns (R-NE); Ron Johnson (R-Wis.) Jon Kyl (R-Ariz.) Mike Lee (R-Utah); Jerry Moran (R-Kansas); Mitch McConnell (R-Ky.) Rand Paul (R-Ky.) Senator Rob Portman (R-OH) ...</excerpt>
+          <fti-names>'action':11 'america':8 'ariz':34 'defeat':4 'ga':18 'isakson':15 'jerri':40 'johann':21 'johnni':14 'johnson':26 'jon':30 'kansa':44 'kerri':1 'ky':49,54 'kyl':31 'l.o.s.t':3 'lee':36 'mcconnel':46 'mike':20,35,61 'mitch':45 'moran':41 'ne':24 'news':12 'oh':60 'paul':51 'portman':57 'r':17,23,28,33,38,43,48,53,59 'r-ariz':32 'r-ga':16 'r-kansa':42 'r-ki':47,52 'r-ne':22 'r-oh':58 'r-utah':37 'r-wis':27 'rand':50 'rob':56 'ron':25 'senat':13,19,55 'us':10 'utah':39 'whippl':62 'win':6 'wis':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usactionnews.com/2012/07/kerrys-l-o-s-t-defeat-a-win-for-america/&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNHWWTeTrnp3d57YM9YnaRkGwyNBDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16751652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mike Whipple</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:38:14-04:00</created-at>
+          <title>No &amp;#39;Backdoor Kyoto Protocol&amp;#39; This Year: Conservatives Torpedo the ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>&#8220;[Four] additional senators have joined in opposition to LOST, including Mike Johanns (R-NE), Kelly Ayotte (R-NH), Rob Portman (R-OH) and Johnny Isakson (R-GA),&#8221; Sen. Jim DeMint, who has led the charge against the pact, ...</excerpt>
+          <fti-names>'adam':53 'addit':11 'ayott':26 'backdoor':2 'becket':52 'charg':48 'conserv':7 'demint':43 'four':10 'ga':40 'includ':19 'isakson':37 'jim':42 'johann':21 'johnni':36 'join':14 'kelli':25 'kyoto':3 'led':46 'lost':18 'mike':20 'ne':24 'nh':29 'oh':34 'opposit':16 'pact':51 'portman':31 'protocol':4 'r':23,28,33,39 'r-ga':38 'r-ne':22 'r-nh':27 'r-oh':32 'rob':30 'sen':41 'senat':12 'torpedo':8 'year':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theblaze.com/stories/no-backdoor-kyoto-protocol-this-year-conservatives-torpedo-the-law-of-the-sea-treaty/&amp;sa=U&amp;ei=Uk4KUKK_A-Lq2AXm3YQR&amp;ved=0CEIQmAEwCQ&amp;usg=AFQjCNGTddUebKdruLPyspQ3Fzey_cLExg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16783101</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Becket Adams</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:38:14-04:00</created-at>
+          <title>Good News, Senate Republicans Block UN LOST Treaty - Blogs</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Kelly Ayotte of New Hampshire, Rob Portman of Ohio, Mike Johanns of Nebraska and Johnny Isakson of Georgia joined 30 other GOP members in agreeing to vote against the U.N. treaty. South Carolina Republican Sen.</excerpt>
+          <fti-names>'30':29 'agre':34 'ayott':11 'block':5 'blog':9 'carolina':42 'georgia':27 'good':1 'gop':31 'hampshir':14 'isakson':25 'johann':20 'johnni':24 'join':28 'kelli':10 'lost':7 'member':32 'mike':19 'nebraska':22 'new':13 'news':2 'ohio':18 'pepperhawk':45 'portman':16 'republican':4,43 'rob':15 'sen':44 'senat':3 'south':41 'treati':8,40 'u.n':39 'un':6 'vote':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://pepperhawkfarm.wordpress.com/2012/07/17/good-news-senate-republicans-block-un-lost-treaty/&amp;sa=U&amp;ei=Uk4KUKK_A-Lq2AXm3YQR&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNEWXQV5Rs9FaVjR-H5TL7StP0kHyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16783100</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pepperhawk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:38:14-04:00</created-at>
+          <title>Ben Nelson Goes Cow (Fees) Tipping | Protect Mustangs</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Republican Sen. Mike Johanns, a former U.S. secretary of agriculture, already has said it was misleading to describe the program as a subsidy, Keylin pointed out. Johanns said the lease requires substantial activity by a ...</excerpt>
+          <fti-names>'activ':41 'agricultur':18 'alreadi':19 'ben':1 'cow':4 'describ':26 'fee':5 'former':14 'goe':3 'johann':12,35 'keylin':32 'leas':38 'mike':11 'mislead':24 'mustang':8,45 'nelson':2 'point':33 'program':28 'protect':7,44 'republican':9 'requir':39 'said':21,36 'secretari':16 'sen':10 'subsidi':31 'substanti':40 'tip':6 'u.s':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://protectmustangs.org/%3Fp%3D2123&amp;sa=U&amp;ei=Uk4KUKK_A-Lq2AXm3YQR&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNGW9uDMT_U9cMsn2q_8PjtT0uSk1A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16783099</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Protect Mustangs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:38:13-04:00</created-at>
+          <title>Did Your Senator Oppose the Law of the Sea Treaty (LOST)? &#171; The ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Mike Johanns (R-NE). 32. Sen. Johnny Isakson (R-GA). 33. Sen. Rob Portman (R-OH). 34. Sen. Kelly Ayotte (R-NH). LOST is an international power grab. Those who voted for LOST violated their oath to uphold the ...</excerpt>
+          <fti-names>'32':19 '33':26 '34':33 'ayott':36 'ga':25 'grab':45 'intern':43 'isakson':22 'johann':15 'johnni':21 'kelli':35 'law':6 'lost':11,40,50 'mike':14 'ne':18 'nh':39 'oath':53 'oh':32 'oppos':4 'portman':29 'power':44 'r':17,24,31,38 'r-ga':23 'r-ne':16 'r-nh':37 'r-oh':30 'rob':28 'sea':9 'sen':13,20,27,34 'senat':3 'theperpetualview':57 'treati':10 'uphold':55 'violat':51 'vote':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theperpetualview.wordpress.com/2012/07/18/did-your-senator-oppose-the-law-of-the-sea-treaty-lost/&amp;sa=U&amp;ei=Uk4KUKK_A-Lq2AXm3YQR&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFy86gmm_H6Ml6W3FbUG68Ms9absA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16783096</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>theperpetualview</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:12-04:00</created-at>
+          <title>TN Senators Lost on LOST | Midtown Republican Club</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Mark Rubio (R-FL). 26. Sen. Jerry Moran (R-KS). 27. Sen. Dean Heller (R-NV). 28. Sen. Pat Toomey (R-PA). 29. Sen. Chuck Grassley (R-IA). 30. Sen. Mitch McConnell (R-KY). 31. Sen. Mike Johanns (R-NE). 32. Sen.</excerpt>
+          <fti-names>'26':15 '27':22 '28':29 '29':36 '30':43 '31':50 '32':57 'chuck':38 'club':8 'dean':24 'fl':14 'georgeann':59 'grassley':39 'heller':25 'ia':42 'jerri':17 'johann':53 'king':60 'ks':21 'ky':49 'lost':3,5 'mark':10 'mcconnel':46 'midtown':6 'mike':52 'mitch':45 'moran':18 'ne':56 'nv':28 'pa':35 'pat':31 'r':13,20,27,34,41,48,55 'r-fl':12 'r-ia':40 'r-ki':47 'r-ks':19 'r-ne':54 'r-nv':26 'r-pa':33 'republican':7 'rubio':11 'sen':9,16,23,30,37,44,51,58 'senat':2 'tn':1 'toomey':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://midtownrepublican.com/archives/6616&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNFfz_VyV2PwF9yMGX9FwJ5J_ClG9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16751651</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Georgeann King</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:11-04:00</created-at>
+          <title>Good News, Senate Republicans Block UN LOST Treaty - Blogs</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Kelly Ayotte of New Hampshire, Rob Portman of Ohio, Mike Johanns of Nebraska and Johnny Isakson of Georgia joined 30 other GOP members in agreeing to vote against the U.N. treaty. South Carolina Republican Sen.</excerpt>
+          <fti-names>'30':29 'agre':34 'ayott':11 'block':5 'blog':9 'carolina':42 'georgia':27 'good':1 'gop':31 'hampshir':14 'isakson':25 'johann':20 'johnni':24 'join':28 'kelli':10 'lost':7 'member':32 'mike':19 'nebraska':22 'new':13 'news':2 'ohio':18 'pepperhawk':45 'portman':16 'republican':4,43 'rob':15 'sen':44 'senat':3 'south':41 'treati':8,40 'u.n':39 'un':6 'vote':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://pepperhawkfarm.wordpress.com/2012/07/17/good-news-senate-republicans-block-un-lost-treaty/&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNH0ma-GQ7RkFad3CewJ3HH2pkQfyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16751650</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pepperhawk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412320</commentariable-id>
+          <created-at type="datetime">2012-07-20T02:02:09-04:00</created-at>
+          <title>No &amp;#39;Backdoor Kyoto Protocol&amp;#39; This Year: Conservatives Torpedo the ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>&#8220;[Four] additional senators have joined in opposition to LOST, including Mike Johanns (R-NE), Kelly Ayotte (R-NH), Rob Portman (R-OH) and Johnny Isakson (R-GA),&#8221; Sen. Jim DeMint, who has led the charge against the pact, ...</excerpt>
+          <fti-names>'adam':53 'addit':11 'ayott':26 'backdoor':2 'becket':52 'charg':48 'conserv':7 'demint':43 'four':10 'ga':40 'includ':19 'isakson':37 'jim':42 'johann':21 'johnni':36 'join':14 'kelli':25 'kyoto':3 'led':46 'lost':18 'mike':20 'ne':24 'nh':29 'oh':34 'opposit':16 'pact':51 'portman':31 'protocol':4 'r':23,28,33,39 'r-ga':38 'r-ne':22 'r-nh':27 'r-oh':32 'rob':30 'sen':41 'senat':12 'torpedo':8 'year':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theblaze.com/stories/no-backdoor-kyoto-protocol-this-year-conservatives-torpedo-the-law-of-the-sea-treaty/&amp;sa=U&amp;ei=U_QIUML-A-Pq2QXK09XoBw&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNF33Fatsjjivs7X_LDGsUMt2BYLvg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16751649</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Becket Adams</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21238</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Mike Johanns</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

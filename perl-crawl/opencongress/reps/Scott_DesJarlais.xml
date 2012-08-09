@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.1461988304094</party-votes-percentage>
+        <abstains-percentage type="float">0.523560209424084</abstains-percentage>
+        <votes-most-often-with-id type="integer">412256</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">9</abstains>
+        <cosponsored-bills type="integer">182</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">5</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412477</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1627</votes-republican-position>
+      <blog-article-count type="integer">2008</blog-article-count>
+      <fax>202-226-5172</fax>
+      <user-approval type="float">3.16666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">22</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.1461988304094</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>DesJarlais</lastname>
+      <congress-office>413 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Scott</firstname>
+      <website>http://desjarlais.house.gov/</website>
+      <birthday type="date">1964-02-21</birthday>
+      <bioguide-id>D000616</bioguide-id>
+      <person-id type="integer">412477</person-id>
+      <phone>202-225-6831</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">374</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:41:58-04:00</created-at>
+          <title>Michael Collins: ET lawmakers fear impact of health care decision</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...thing federal lawmakers argue are in the public interest, Roe said. Another Tennessee physician-congressman, U.S. Rep. Scott DesJarlais agreed with Roe. &quot;Now that the government can essentially compel you to purchase a product through a tax, there's jus</excerpt>
+          <fti-names>'agre':31 'anoth':22 'argu':14 'care':9 'collin':2 'compel':40 'congressman':26 'decis':10 'desjarlai':30 'essenti':39 'et':3 'fear':5 'feder':12 'govern':37 'health':8 'impact':6 'interest':19 'jus':51 'knoxnew':52 'lawmak':4,13 'michael':1 'physician':25 'physician-congressman':24 'product':45 'public':18 'purchas':43 'rep':28 'roe':20,33 'said':21 'scott':29 'tax':48 'tennesse':23 'thing':11 'u.s':27</fti-names>
+          <source-url>http://www.knoxnews.com/</source-url>
+          <url>http://www.knoxnews.com/news/2012/aug/06/et-lawmakers-fear-impact-of-health-care-decision/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972779</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KnoxNews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:27-04:00</created-at>
+          <title>Floor installer will face Corker in Tennessee Senate showdown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Wade Payne/Associatd Press Rep. Diane Black, R-Tenn., greets supporter Pete Denning at her victory party after defeating Lou Ann Zelenik in the 6th District Thursday, Aug. 2, 2012 in Hendersonville, Tenn. (AP Photo/Wade Payne) NASHVILLE &#8212; Democrats have </excerpt>
+          <fti-names>'2':38 '2012':39 '6th':34 'ann':30 'ap':43 'appeal':51 'aug':37 'black':15 'commerci':50 'corker':5 'defeat':28 'democrat':47 'den':22 'dian':14 'district':35 'face':4 'floor':1 'greet':19 'hendersonvill':41 'instal':2 'lou':29 'memphi':49 'nashvill':46 'parti':26 'payn':45 'payne/associatd':11 'pete':21 'photo/wade':44 'press':12 'r':17 'r-tenn':16 'rep':13 'senat':8 'showdown':9 'support':20 'tenn':18,42 'tennesse':7 'thursday':36 'victori':25 'wade':10 'zelenik':31</fti-names>
+          <source-url>http://www.commercialappeal.com/</source-url>
+          <url>http://www.commercialappeal.com/news/2012/aug/02/floor-installer-will-face-corker-in-tennessee/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971573</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Memphis Commercial Appeal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:27-04:00</created-at>
+          <title>House Oversight Hearing on the IRS&#8217;s Illegal Rule Increasing Taxes &amp; Spending under ObamaCare</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Overall, this Tennessean article summarizes well yesterday&#8217;s House Oversight Committee hearing on the IRS rule that Jonathan Adler and I write about here and here. Unfortunately, the article does perpetuate the misleading idea that the nation&#8217;s new hea</excerpt>
+          <fti-names>'adler':33 'articl':18,43 'cato':55 'committe':25 'hea':54 'hear':3,26 'hous':1,23 'idea':48 'illeg':8 'increas':10 'ir':6,29 'jonathan':32 'liberti':56 'mislead':47 'nation':51 'new':53 'obamacar':14 'overal':15 'oversight':2,24 'perpetu':45 'rule':9,30 'spend':12 'summar':19 'tax':11 'tennessean':17 'unfortun':41 'well':20 'write':36 'yesterday':21</fti-names>
+          <source-url>http://www.cato-at-liberty.org/</source-url>
+          <url>http://feedproxy.google.com/~r/Cato-at-liberty/~3/00vtqZ5qQKA/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971572</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cato @ Liberty</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:26-04:00</created-at>
+          <title>GOP questions IRS health credit</title>
+          <contains-term>republican</contains-term>
+          <excerpt>WASHINGTON  House Republicans on Thursday grilled the head of the Internal Revenue Service on the agency&#226;s decision to apply the health care law&#226;s tax credits in states that decide not to carry out a key provision of the statute. Commissioner Douglas Shu</excerpt>
+          <fti-names>'agency&#226;':21 'appli':24 'care':27 'carri':37 'commission':45 'credit':5,30 'decid':34 'decis':22 'dougla':46 'gazett':50 'gop':1 'grill':11 'head':13 'health':4,26 'hous':7 'intern':16 'ir':3 'key':40 'law&#226;':28 'provis':41 'question':2 'republican':8 'revenu':17 'servic':18 'shu':47 'state':32 'statut':44 'tax':29 'telegram':49 'thursday':10 'washington':6 'worcest':48</fti-names>
+          <source-url>http://www.telegram.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.telegram.com/article/20120803/NEWS/108039778/1052/RSS01&amp;source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971571</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Worcester Telegram &amp; Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:26-04:00</created-at>
+          <title>Results: Tennessee Congressional races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>By ERIK SCHELZIG Associated Press NASHVILLE, Tenn. (AP) -- Freshman U.S. Reps. Diane Black and Chuck Fleischmann have turned back vigorous attempts by Republican rivals to deny them another term in Congress. Black beat Lou Ann Zelenik in the 6th District</excerpt>
+          <fti-names>'6th':43 'ann':39 'anoth':32 'ap':12 'associ':8 'attempt':25 'back':23 'beat':37 'black':17,36 'chuck':19 'congress':35 'congression':3 'deni':30 'dian':16 'district':44 'erik':6 'fleischmann':20 'freshman':13 'lou':38 'nashvill':10 'press':9 'race':4 'rep':15 'republican':27 'result':1 'rival':28 'schelzig':7 'tenn':11 'tennesse':2 'term':33 'turn':22 'u.s':14 'vigor':24 'wbir':45 'zelenik':40</fti-names>
+          <source-url>http://www.wbir.com/</source-url>
+          <url>http://www.wbir.com/rss/article/228969/2/Results-Tennessee-Congressional-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971570</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBIR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:16:57-04:00</created-at>
+          <title>4 House members defeat primary challengers</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...election. The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District. Republican Reps. Chuck Fleischmann and</excerpt>
+          <fti-names>'2nd':17 '4':1 '4th':30 '8th':23 '9th':39 'challeng':6 'chronicl':48 'chuck':43 'cohen':35 'defeat':4 'democrat':32 'desjarlai':27 'district':18,24,31,40 'duncan':14 'elect':7 'fincher':20 'fleischmann':44 'francisco':47 'hous':2 'jimmi':13 'member':3 'prevail':36 'primari':5 'rep':12,33,42 'republican':11,41 'san':46 'scott':26 'stephen':19 'steve':34 'winner':9</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/4-House-members-defeat-primary-challengers-3756251.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970551</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:16:56-04:00</created-at>
+          <title>All 9 Tennessee congressmen win in primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...D.C. &#8212; U.S. Reps. John J. Duncan Jr. and Scott DesJarlais easily defeated little-known rivals in the GOP primary on Thursday in their bids for another two-year term in Congress. Duncan, a Knoxville Republican, crushed Nick Ciparro and Joseph Leinweber</excerpt>
+          <fti-names>'9':2 'anoth':34 'bid':32 'ciparro':47 'congress':40 'congressmen':4 'crush':45 'd.c':8 'defeat':19 'desjarlai':17 'duncan':13,41 'easili':18 'gop':26 'j':12 'john':11 'joseph':49 'jr':14 'known':22 'knoxnew':51 'knoxvill':43 'leinweb':50 'littl':21 'little-known':20 'nick':46 'primari':7,27 'rep':10 'republican':44 'rival':23 'scott':16 'tennesse':3 'term':38 'thursday':29 'two':36 'two-year':35 'u.s':9 'win':5 'year':37</fti-names>
+          <source-url>http://www.knoxnews.com/</source-url>
+          <url>http://www.knoxnews.com/news/2012/aug/02/all-9-tennessee-congressmen-win-in-primary/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970549</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KnoxNews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:16:59-04:00</created-at>
+          <title>Scott DesJarlais' case against health care gets a House hearing</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...next few weeks, as thousands of Middle Tennessee tweens begin a new grade at a new school,...- 2:38 am WASHINGTON &#8212;  Rep. Scott DesJarlais' argument that the health care reform law lacks wording needed to implement a crucial part of it took a major st</excerpt>
+          <fti-names>'2':28 '38':29 'argument':35 'begin':20 'care':6,39 'case':3 'crucial':48 'desjarlai':2,34 'get':7 'grade':23 'health':5,38 'hear':10 'hous':9 'implement':46 'lack':42 'law':41 'major':54 'middl':17 'need':44 'new':22,26 'next':11 'part':49 'reform':40 'rep':32 'school':27 'scott':1,33 'st':55 'tennesse':18 'tennessean':57 'thousand':15 'took':52 'tween':19 'washington':31 'week':13 'word':43</fti-names>
+          <source-url>http://www.tennessean.com/</source-url>
+          <url>http://www.tennessean.com/article/20120802/NEWS/308020085/1969/NEWS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970552</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Tennessean</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:16:57-04:00</created-at>
+          <title>Republicans grill IRS chief on health care subsidy ruling as commissioner defends his agency</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...who don't buy coverage and on some businesses that don't offer it to employees. During the hearing, Shulman tangled with Rep. Scott DesJarlais, R-Tenn., a physician. DesJarlais accused the IRS of bypassing Congress by trying to expand the subsidies when</excerpt>
+          <fti-names>'accus':46 'agenc':14 'busi':23 'buy':18 'bypass':50 'care':7 'chief':4 'commission':11 'congress':51 'coverag':19 'defend':12 'desjarlai':39,45 'employe':30 'expand':55 'fox':59 'grill':2 'health':6 'hear':33 'ir':3,48 'news':60 'offer':27 'physician':44 'r':41 'r-tenn':40 'rep':37 'republican':1 'rule':9 'scott':38 'shulman':34 'subsidi':8,57 'tangl':35 'tenn':42 'tri':53</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/foxnews/national/~3/GQHcd8VZHMc/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970550</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:16:53-04:00</created-at>
+          <title>How the IRS will enforce health care 'tax' penalty</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...new health insurance exchanges can determine whether people are eligible for subsidies to pay their premiums. Republican Rep. Scott DesJarlais of Tennessee says this goes too far. Scott DesJarlais: It gives unprecedented power to the IRS. Now they&#8217;re </excerpt>
+          <fti-names>'american':49 'care':7 'desjarlai':29,38 'determin':15 'elig':19 'enforc':5 'exchang':13 'far':36 'give':40 'goe':34 'health':6,11 'insur':12 'ir':3,45 'media':51 'new':10 'pay':23 'penalti':9 'peopl':17 'power':42 'premium':25 'public':50 're':48 'rep':27 'republican':26 'say':32 'scott':28,37 'subsidi':21 'tax':8 'tennesse':31 'unpreced':41 'whether':16</fti-names>
+          <source-url>http://americanpublicmedia.publicradio.org/</source-url>
+          <url>http://feeds.americanpublicmedia.org/~r/APM_Marketplace/~3/rN8oWAadGqc/how-irs-will-enforce-health-care-tax-penalty</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970548</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Public Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Scott DesJarlais [R, TN-4]</name>
+      <total-session-votes type="integer">1710</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:24-04:00</created-at>
+          <title>Time for partisan picks in Legislature, Congress | Election 2010</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In the 4th District, which was changed more by reapportionment than any other congressional district in the state this year, incumbent U.S. Rep. Scott DesJarlais has primary opposition from Shannon Kelley of Murfreesboro, ...</excerpt>
+          <fti-names>'2010':9 '4th':12 'chang':16 'congress':7 'congression':23 'desjarlai':34 'district':13,24 'elect':8 'incumb':30 'kelley':40 'legislatur':6 'murfreesboro':42 'opposit':37 'partisan':3 'pick':4 'postingaccount':43 'primari':36 'reapportion':19 'rep':32 'scott':33 'shannon':39 'state':27 'time':1 'u.s':31 'year':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://election2010.illumen.org/latest-news/time-for-partisan-picks-in-legislature-congress&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNHmm7WYZSO9DaqBtuy430H3SeWiHg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647863</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>postingAccount</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:25-04:00</created-at>
+          <title>Scott DesJarlais hits the airwaves; Stewart pokes fun | In Session</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Scott DesJarlais released his first television ad of the 2012 campaign season this week. The spot borrows video clips from his 2010 ads &#8211; including the one about pronouncing his name &#8212; but for the most part, ...</excerpt>
+          <fti-names>'2010':34 '2012':22 'ad':19,35 'airwav':5 'borrow':29 'campaign':23 'chas':48 'clip':31 'desjarlai':2,14 'first':17 'fun':8 'hit':3 'includ':36 'name':42 'one':38 'part':47 'poke':7 'pronounc':40 'releas':15 'rep':12 'scott':1,13 'season':24 'session':10 'sisk':49 'spot':28 'stewart':6 'televis':18 'u.s':11 'video':30 'week':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.tennessean.com/politics/2012/scott-desjarlais-hits-the-airwaves-stewart-pokes-fun/&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEcuPHImj5tLx-vPkR-kMT0v3-L5g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16647864</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chas Sisk</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:26-04:00</created-at>
+          <title>Stewart Unleashes &amp;#39;Brown Noise&amp;#39; On DesJarlais In New Ad | Pith in ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>State Sen. Eric Stewart (D-Belvidere) has released a new, hyper-folksy campaign ad in his bid to unseat 4th District Republican Rep. Scott DesJarlais. At the...</excerpt>
+          <fti-names>'4th':33 'ad':9,27 'belvider':18 'bid':30 'brown':3 'campaign':26 'd':17 'd-belvider':16 'desjarlai':6,38 'district':34 'eric':14 'folksi':25 'hyper':24 'hyper-folksi':23 'jonathan':41 'meador':42 'new':8,22 'nois':4 'pith':10 'releas':20 'rep':36 'republican':35 'scott':37 'sen':13 'state':12 'stewart':1,15 'unleash':2 'unseat':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nashvillescene.com/pitw/archives/2012/07/11/stewart-unleashes-brown-noise-on-desjarlais-in-new-ad&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNG9mIMcFAFawkl-w-A37lSvMFB02w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16647866</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jonathan Meador</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:27-04:00</created-at>
+          <title>DCCC: Scott DesJarlais and Chinese Prostitution? | Humphrey on ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&amp;quot;What will Congressman Scott DesJarlais do when his Chinese prostitution money comes from billionaire Sheldon Adelson?&amp;quot; said Jesse Ferguson of the Democratic Congressional Campaign Committee. &amp;quot;House Republicans ...</excerpt>
+          <fti-names>'adelson':24 'billionair':22 'campaign':32 'chines':5,17 'come':20 'committe':33 'congression':31 'congressman':11 'dccc':1 'democrat':30 'desjarlai':3,13 'ferguson':27 'hous':34 'humphrey':7,37 'jess':26 'money':19 'prostitut':6,18 'republican':35 'said':25 'scott':2,12 'sheldon':23 'tom':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.knoxnews.com/humphrey/2012/07/dccc-scott-desjarlais-and-chin.html&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNG92lnfMAm6hXBhFFhKDk5r-wB6EQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16647868</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Humphrey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:27-04:00</created-at>
+          <title>Rep. Scott DesJarlais &amp;amp; Rep. Diane Black | Jordan Sekulow Show</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Scott DesJarlais (TN-4) &amp;amp; Rep. Diane Black (TN-6) join us to give their reaction to the Obamacare.</excerpt>
+          <fti-names>'-4':14 '-6':19 'admin':29 'black':6,17 'desjarlai':3,12 'dian':5,16 'give':23 'join':20 'jordan':7 'obamacar':28 'reaction':25 'rep':1,4,10,15 'scott':2,11 'sekulow':8 'show':9 'tn':13,18 'us':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jordansekulow.com/2012/06/28/rep-scott-desjarlais-rep-diane-black/&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNE5VPVFHt8N_wxJyPjocuYiKs82sw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16647867</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:50:27-04:00</created-at>
+          <title>Scott DesJarlais&amp;#39; name recognition low, Democratic poll finds</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A poll done for the Democrats by Virginia-based Myers Research &amp;amp; Strategic Services finds low name recognition for U.S. Rep. Scott DesJarlais, giving them hope that they can win back his seat in Congress. The poll finds that ...</excerpt>
+          <fti-names>'back':39 'base':18 'congress':43 'democrat':6,14 'desjarlai':2,31 'done':11 'editor':48 'find':8,23,46 'give':32 'hope':34 'low':5,24 'myer':19 'name':3,25 'poll':7,10,45 'recognit':4,26 'rep':29 'research':20 'scott':1,30 'seat':41 'servic':22 'strateg':21 'u.s':28 'virginia':17 'virginia-bas':16 'win':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marioncountymessenger.com/2012/06/26/scott-desjarlais%25E2%2580%2599-name-recognition-low-democratic-poll-finds/&amp;sa=U&amp;ei=cIEDUPjbCrSA2QWGheyJCw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNGopcYegR36hkoShG25s7NsBeEymQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16647869</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-06-24T23:16:52-04:00</created-at>
+          <title>Updates from Congressman Jim Jordan | the Net economy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Scott DesJarlais (TN-04): &amp;#39;Buffett Rule&amp;#39; a Distraction from &amp;#39;Taxmageddon&amp;#39;; Washington Times, June 13. Rep. Tim Huelskamp (KS-01): Learning the Lessons of 2011: Downgrade; Washington Examiner, June 14. Rep.</excerpt>
+          <fti-names>'-01':28 '-04':13 '13':23 '14':38 '2011':33 'buffett':14 'congressman':3 'desjarlai':11 'distract':17 'downgrad':34 'economi':8,42 'examin':36 'huelskamp':26 'jim':4 'jordan':5 'june':22,37 'ks':27 'learn':29 'lesson':31 'net':7,41 'rep':9,24,39 'rule':15 'scott':10 'taxmageddon':19 'tim':25 'time':21 'tn':12 'updat':1 'washington':20,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theneteconomy.wordpress.com/2012/06/19/updates-from-congressman-jim-jordan-49/&amp;sa=U&amp;ei=HtjnT-yUI8Tq2AW4893ZCQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNEJtsdiN_KUhJXqX46mc_90TVyZ7g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16173615</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>the Net economy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-06-24T23:16:49-04:00</created-at>
+          <title>Tennessee Republican officials blast U.S. rules over jobs ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The setting was a congressional field hearing in Murfreesboro convened by U.S. Rep. Darrell Issa, chairman of the House Committee on Oversight and Government Reform. U.S. Rep. Scott DesJarlais, R-Tenn., pushed for the ...</excerpt>
+          <fti-names>'/news/business/tnvalley/':46 'blast':4 'chairman':24 'committe':28 'congression':13 'conven':18 'darrel':22 'desjarlai':37 'field':14 'govern':32 'hear':15 'hous':27 'issa':23 'job':8 'murfreesboro':17 'offici':3 'oversight':30 'push':41 'r':39 'r-tenn':38 'reform':33 'rep':21,35 'republican':2 'rule':6 'scott':36 'set':10 'tenn':40 'tennesse':1 'u.s':5,20,34 'www.timesfreepress.com':45 'www.timesfreepress.com/news/business/tnvalley':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://timesfreepress.com/news/2012/jun/19/12-619-gop-blasts-us-rules-over-jobs/&amp;sa=U&amp;ei=HtjnT-yUI8Tq2AW4893ZCQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNF86RK7n2AekiWbBMm7aSzAVL6_Tw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16173609</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.timesfreepress.com/news/business/tnvalley/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-06-24T23:16:50-04:00</created-at>
+          <title>Corker and Alexander Side With Liberal Democrats On Refusal to ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Scott Desjarlais (TN-4) has joined with Rep. Ron Paul (TX-14) last week to co-sponsor his bill that calls for an audit of the Federal Reserve. With Rep. Desjarlais&amp;#39; decision this week, all the Republican Congressmen in ...</excerpt>
+          <fti-names>'-14':23 '-4':15 'admin':52 'alexand':3 'audit':36 'bill':31 'call':33 'co':28 'co-sponsor':27 'congressmen':50 'corker':1 'decis':44 'democrat':7 'desjarlai':13,43 'feder':39 'join':17 'last':24 'liber':6 'paul':21 'refus':9 'rep':11,19,42 'republican':49 'reserv':40 'ron':20 'scott':12 'side':4 'sponsor':29 'tn':14 'tx':22 'week':25,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tncampaignforliberty.org/wordpress/2012/06/rep-scott-desjarlais-co-sponsors-bill-to-audit-the-federal-reserve/&amp;sa=U&amp;ei=HtjnT-yUI8Tq2AW4893ZCQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHtkjKh93RrLeEw8gKcIyM3pUSgDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-17T01:00:00-04:00</date>
+          <id type="integer">16173610</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412477</commentariable-id>
+          <created-at type="datetime">2012-06-24T23:16:52-04:00</created-at>
+          <title>Eric Stewart: Scott DesJarlais not helping families - RCDP</title>
+          <contains-term>congress</contains-term>
+          <excerpt>NASHVILLE &#8212; Democratic congressional candidate Eric Stewart says U.S. Rep. Scott DesJarlais, R-Tenn., was being two-faced this week for attending when Gov. Bill Haslam signed legislation cutting Tennessee&amp;#39;s sales ...</excerpt>
+          <fti-names>'attend':31 'bill':34 'candid':12 'congression':11 'cut':38 'democrat':10 'desjarlai':4,19 'eric':1,13 'face':27 'famili':7 'gov':33 'haslam':35 'help':6 'kimber':42 'legisl':37 'nashvill':9 'r':21 'r-tenn':20 'rcdp':8 'rep':17 'rose':43 'sale':41 'say':15 'scott':3,18 'sign':36 'stewart':2,14 'tenn':22 'tennesse':39 'two':26 'two-fac':25 'u.s':16 'week':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rcdp.org/wordpress/%3Fp%3D1872&amp;sa=U&amp;ei=HtjnT-yUI8Tq2AW4893ZCQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFq9KDWBWd_v6ADI3EBY1ooHsMRzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-15T01:00:00-04:00</date>
+          <id type="integer">16173614</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kimberli Rose</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5186</page-views-count>
+      <youtube-id>DesJarlaisTN04</youtube-id>
+      <unaccented-name>Scott DesJarlais</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

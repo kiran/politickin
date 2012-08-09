@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-15T21:32:12-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.588093806374</party-votes-percentage>
+        <abstains-percentage type="float">3.25770796974985</abstains-percentage>
+        <votes-most-often-with-id type="integer">400175</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-19T10:07:42-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">204</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">56</abstains>
+        <cosponsored-bills type="integer">157</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">178</party-votes-percentage-rank>
+        <sponsored-bills type="integer">4</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">400644</person-id>
+        <cosponsored-bills-rank type="integer">315</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">399</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1573</votes-republican-position>
+      <metavid-id>Patrick_T._McHenry</metavid-id>
+      <blog-article-count type="integer">8697</blog-article-count>
+      <user-approval type="float">4.84</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">145</oc-users-tracking>
+      <contact-webform>http://mchenry.house.gov/zipauth.htm</contact-webform>
+      <youtube-id>CongressmanMcHenry</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.588093806374</with-party-percentage>
+      <lastname>McHenry</lastname>
+      <fax>202-225-0316</fax>
+      <congress-office>224 Cannon House Office Building</congress-office>
+      <firstname>Patrick</firstname>
+      <website>http://mchenry.house.gov/</website>
+      <birthday type="date">1975-10-22</birthday>
+      <person-id type="integer">400644</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2576</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>M001156</bioguide-id>
+      <votes-democratic-position type="integer">331</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>T.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:56:41-04:00</created-at>
+          <title>King Of Animal Cruelty</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Trevor Thomas Charlie Bass (NH-63%)- Ann Kuster Frank Guinta (NH-13%)- Carol Shea-Porter Tom Reed (NY-0%)- Nate Shinagawa Patrick McHenry (NC-25%)- Patsy Keever Joe Pitts (PA-13%)- Aryanna Strader Eric Cantor (VA-13%)- Wayne Powell David McKinely (WV-13</excerpt>
+          <fti-names>'-0':24 '-13':16,36,42,48 '-25':30 '-63':10 'anim':3 'ann':11 'aryanna':37 'bass':8 'cantor':40 'carol':17 'charli':7 'cruelti':4 'david':45 'eric':39 'frank':13 'guinta':14 'joe':33 'keever':32 'king':1 'kuster':12 'mchenri':28 'mckine':46 'nate':25 'nc':29 'nh':9,15 'ny':23 'pa':35 'patrick':27 'patsi':31 'pitt':34 'porter':20 'powel':44 'reed':22 'shea':19 'shea-port':18 'shinagawa':26 'strader':38 'thoma':6 'tom':21 'trevor':5 'tyranni':51 'va':41 'wayn':43 'wv':47</fti-names>
+          <source-url>http://downwithtyranny.blogspot.com/</source-url>
+          <url>http://downwithtyranny.blogspot.com/2012/08/king-of-animal-cruelty.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972895</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Down With Tyranny!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:50:54-04:00</created-at>
+          <title>House Republicans Seek More Cost Analysis From Regulators</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...groups to do more work to justify their rules. House Oversight Panel Chairman Darrell Issa (R., Calif.) and Rep. Patrick McHenry (R., N.C.) sent letters last week to the industry groups that set rules for brokers, municipal securities dealers and public</excerpt>
+          <fti-names>'analysi':6 'blog':53 'broker':44 'calif':25 'chairman':21 'cost':5 'darrel':22 'dealer':47 'group':9,39 'hous':1,18 'industri':38 'issa':23 'journal':52 'justifi':15 'last':34 'letter':33 'mchenri':29 'municip':45 'n.c':31 'oversight':19 'panel':20 'patrick':28 'public':49 'r':24,30 'regul':8 'rep':27 'republican':2 'rule':17,42 'secur':46 'seek':3 'sent':32 'set':41 'street':51 'wall':50 'week':35 'work':13</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/economics/2012/08/02/house-republicans-seek-more-cost-analysis-from-regulators/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970784</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:49:33-04:00</created-at>
+          <title>Boehner, Reid reach early deal to avert Congressional shutdown</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...that GOP leaders have sometimes fretted their restive newest members lacked. &quot;You can't fight every fight,&quot; said Rep. Patrick McHenry, R-N.C., arguing that the election won't be decided on small spending differentials, but instead on the two party's bro</excerpt>
+          <fti-names>'argu':35 'avert':7 'boehner':1 'bro':54 'c':34 'congression':8 'deal':5 'decid':42 'differenti':46 'earli':4 'elect':38 'everi':25 'fight':24,26 'fret':15 'gazett':58 'gop':11 'instead':48 'lack':20 'leader':12 'mchenri':30 'member':19 'n':33 'newest':18 'parti':52 'patrick':29 'pittsburgh':55 'post':57 'post-gazett':56 'r':32 'r-n':31 'reach':3 'reid':2 'rep':28 'restiv':17 'said':27 'shutdown':9 'small':44 'sometim':14 'spend':45 'two':51 'won':39</fti-names>
+          <source-url>http://www.post-gazette.com/</source-url>
+          <url>http://www.post-gazette.com/stories/news/us/boehner-reid-reach-early-deal-to-avert-congressional-shutdown-647030/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969825</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pittsburgh Post-Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:59:56-04:00</created-at>
+          <title>The Soho Loft Crowdfunding &amp; VC event in NYC, Aug 9: Douglas S. Ellenoff of EGSLLP Moderates Panel</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He added &#8220;Douglas S. Ellenoff is one of the leading lawyers nationwide who attended discussions in DC a couple of weeks ago where we had Senator Brown, Senator Merkley and Congressman Patrick McHenry (behind the crowd funding bill in the JOBS Act ...</excerpt>
+          <fti-names>'9':10 'act':59 'ad':19 'ago':39 'attend':31 'aug':9 'behind':51 'bill':55 'brown':44 'congressman':48 'coupl':36 'crowd':53 'crowdfund':4 'dc':34 'discuss':32 'dougla':11,20 'egsllp':15 'ellenoff':13,22 'event':6 'free':61 'fund':54 'job':58 'lawyer':28 'lead':27 'loft':3 'mchenri':50 'merkley':46 'moder':16 'nationwid':29 'nyc':8 'one':24 'panel':17 'patrick':49 'press':62 'prlog':60 'releas':63 'senat':43,45 'soho':2 'vc':5 'week':38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.prlog.org/11937698-the-soho-loft-crowdfunding-vc-event-in-nyc-aug-9-douglas-ellenoff-of-egsllp-moderates-panel.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T05:00:57-04:00</date>
+          <id type="integer">16966917</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PRLog (free press release)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:26-04:00</created-at>
+          <title>Chamber floats fiscal cliff letter - Lobbyists help former congressman in search of big D.C. cash - Apocalypse now for Democratic fundraisers? - DCCC $$ in on 99 days - Hatch's second act in first cla</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Roskam (R-Ind.); and Peter Freeman of the Financial Services Roundtable ; Jen Flitton , deputy chief of staff to Rep. Patrick McHenry (R-N.C.); Sarah Beatty with Wal-Mart ; and Michael Beckerman , CEO of the Internet Association . Thanks very much for r</excerpt>
+          <fti-names>'99':24 'act':29 'apocalyps':16 'associ':72 'beatti':60 'beckerman':67 'big':13 'c':58 'cash':15 'ceo':68 'chamber':1 'chief':48 'cla':32 'cliff':4 'congressman':9 'd.c':14 'day':25 'dccc':21 'democrat':19 'deputi':47 'financi':42 'first':31 'fiscal':3 'flitton':46 'float':2 'former':8 'freeman':39 'fundrais':20 'hatch':26 'help':7 'ind':36 'internet':71 'jen':45 'letter':5 'lobbyist':6 'mart':64 'mchenri':54 'michael':66 'much':75 'n':57 'patrick':53 'peter':38 'politico':79 'r':35,56,77 'r-ind':34 'r-n':55 'rep':52 'roskam':33 'roundtabl':44 'sarah':59 'search':11 'second':28 'servic':43 'staff':50 'thank':73 'wal':63 'wal-mart':62</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/politicoinfluence/0712/politicoinfluence314.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961198</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:51:32-04:00</created-at>
+          <title>Larry Kissell... Very Sad</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...in Congress from North Carolina, think about Patsy Keever. She's running against corporate whore and deceitful closet case Patrick McHenry in a district that is somewhat bluer than it's ever been-- bluer because the state legislature was trying to make </excerpt>
+          <fti-names>'bluer':32,38 'carolina':9 'case':23 'closet':22 'congress':6 'corpor':18 'deceit':21 'district':28 'ever':36 'keever':13 'kissel':2 'larri':1 'legislatur':42 'make':46 'mchenri':25 'north':8 'patrick':24 'patsi':12 'run':16 'sad':4 'somewhat':31 'state':41 'think':10 'tri':44 'tyranni':49 'whore':19</fti-names>
+          <source-url>http://downwithtyranny.blogspot.com/</source-url>
+          <url>http://downwithtyranny.blogspot.com/2012/07/larry-kissell-very-sad.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16948782</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Down With Tyranny!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:51:14-04:00</created-at>
+          <title>Warren&#8217;s star rose in D.C. battles</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Two months later, as Warren made a return appearance before the committee, members attacked her. Representative Patrick McHenry, a Republican from North Carolina, accused her of misleading the panel during her March testimony when she denied ...</excerpt>
+          <fti-names>'accus':31 'appear':16 'attack':21 'battl':7 'boston':45 'carolina':30 'committe':19 'd.c':6 'deni':43 'globe':46 'later':10 'made':13 'march':39 'mchenri':25 'member':20 'mislead':34 'month':9 'north':29 'panel':36 'patrick':24 'repres':23 'republican':27 'return':15 'rose':4 'star':3 'testimoni':40 'two':8 'warren':1,12</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bostonglobe.com/metro/2012/07/29/warren-tenure-laid-groundwork-for-campaign-opponents-attacks/e2PfceXcTQ8PR87wasjoNL/story.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T07:05:01-04:00</date>
+          <id type="integer">16948779</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Boston Globe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:23-04:00</created-at>
+          <title>The campaign trail: A look at what happened this week in local politics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>McHenry amasses big financial advantage; Meadows hops aboard Romney's bus In this year's race for the 10th Congressional District seat, incumbent Republican Rep. Patrick McHenry has gained an enormous financial advantage over Democratic challenger Patsy Ke</excerpt>
+          <fti-names>'10th':32 'aboard':21 'advantag':18,46 'amass':15 'big':16 'bus':24 'campaign':2 'challeng':49 'congression':33 'democrat':48 'district':34 'enorm':44 'financi':17,45 'gain':42 'happen':8 'hop':20 'incumb':36 'ke':51 'local':12 'look':5 'mchenri':14,40 'meadow':19 'mountain':52 'patrick':39 'patsi':50 'polit':13 'race':29 'rep':38 'republican':37 'romney':22 'seat':35 'trail':3 'week':10 'xpress':53 'year':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mountainx.com/article/44525/The-campaign-trail-A-look-at-what-happened-this-week-in-local-politics</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T13:11:17-04:00</date>
+          <id type="integer">16961196</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mountain Xpress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:51:13-04:00</created-at>
+          <title>The campaign trail: A look at what happened this week in local politics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>McHenry amasses big financial advantage; Meadows hops aboard Romney's bus In this year's race for the 10th Congressional District seat, incumbent Republican Rep. Patrick McHenry has gained an enormous financial advantage over Democratic challenger Patsy Ke</excerpt>
+          <fti-names>'10th':32 'aboard':21 'advantag':18,46 'amass':15 'big':16 'bus':24 'campaign':2 'challeng':49 'congression':33 'democrat':48 'district':34 'enorm':44 'financi':17,45 'gain':42 'happen':8 'hop':20 'incumb':36 'ke':51 'local':12 'look':5 'mchenri':14,40 'meadow':19 'mountain':52 'patrick':39 'patsi':50 'polit':13 'race':29 'rep':38 'republican':37 'romney':22 'seat':35 'trail':3 'week':10 'xpress':53 'year':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mountainx.com/article/44516/The-campaign-trail-A-look-at-what-happened-this-week-in-local-politics</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:03:13-04:00</date>
+          <id type="integer">16948778</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mountain Xpress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:29:05-04:00</created-at>
+          <title>House Republicans Mostly Respectful of Cordray During Hearing</title>
+          <contains-term>republican</contains-term>
+          <excerpt>&quot;The hearing was largely substantive and respectful,&quot; writes American Banker&#8217;s Rob Blackwell. Subcommittee chair Rep. Patrick McHenry went &quot;out of his way to praise him for his cooperation.&quot; &quot;Your actions serving in this position have been honorable ...</excerpt>
+          <fti-names>'action':39 'american':17,47 'banker':18,48 'blackwel':21 'chair':23 'cooper':37 'cordray':6 'hear':8,10 'honor':46 'hous':1 'larg':12 'mchenri':26 'most':3 'onlin':49 'patrick':25 'posit':43 'prais':33 'rep':24 'republican':2 'respect':4,15 'rob':20 'serv':40 'subcommitte':22 'substant':13 'way':31 'went':27 'write':16</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.americanbanker.com/dodd-frank/cordray-house-subcommitte-hearing-respectful-mchenry-1051279-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T07:58:41-04:00</date>
+          <id type="integer">16891318</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Banker Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Patrick McHenry [R, NC-10]</name>
+      <total-session-votes type="integer">1663</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>10</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:21-04:00</created-at>
+          <title>DownWithTyranny!: Larry Kissell... Very Sad</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Larry Kissell (D-NC) voted against the Affordable Care Act in 2010 and was one of five Democrats to support repeal of the law earlier this year. But opposition to health care reform hasn&amp;#39;t stopped this two-term Congressman from taking   credit for</excerpt>
+          <fti-names>'2010':19 'act':17 'afford':15 'care':16,39 'congressman':48 'credit':51 'd':10 'd-nc':9 'democrat':25 'downwithtyranni':1,53 'earlier':32 'five':24 'hasn':41 'health':38 'kissel':3,8 'larri':2,7 'law':31 'nc':11 'one':22 'opposit':36 'reform':40 'rep':6 'repeal':28 'sad':5 'stop':43 'support':27 'take':50 'term':47 'two':46 'two-term':45 'vote':12 'year':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/larry-kissell-very-sad.html&amp;sa=U&amp;ei=i00XUIa4JMbd0QGm6YDACA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEKGHF4Br3ezphjnWrSXZOyTlUvpg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16961193</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:49:50-04:00</created-at>
+          <title>CFPB Faulted On White House Ties And Opaque Enforcement ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Wall Street Journal reports that Rep. Patrick McHenry, R-N.C., sent a letter to CFPB Director Richard Cordray (pictured left) requesting that the CFPB provide details on how its senior officials interact with the Obama ...</excerpt>
+          <fti-names>'admin':48 'c':22 'cfpb':1,27,36 'cordray':30 'detail':38 'director':28 'enforc':9 'fault':2 'hous':5 'interact':44 'journal':13 'left':32 'letter':25 'mchenri':18 'n':21 'obama':47 'offici':43 'opaqu':8 'patrick':17 'pictur':31 'provid':37 'r':20 'r-n':19 'rep':16 'report':14 'request':33 'richard':29 'senior':42 'sent':23 'street':12 'tie':6 'wall':11 'white':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/nc-moc/brad-miller-north-carolina-representative/cfpb-faulted-on-white-house-ties-and-opaque-enforcement-language-mortgageorb/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcfpb-faulted-on-white-house-ties-and-opaque-enforcement-language-mortgageorb&amp;sa=U&amp;ei=kjwWULuOL5O08ASyk4CoCg&amp;ved=0CFEQmAEwCw&amp;usg=AFQjCNGwZBZQdKQH3yw_EKUKThXrNAmcZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948764</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:49:49-04:00</created-at>
+          <title>Douglas S. Ellenoff of Ellenoff, Grossman and Schole LLP ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He added &#8220;Douglas S. Ellenoff is one of the leading lawyers nationwide who attended discussions in DC a couple of weeks ago where we had Senator Brown, Senator Merkeley and Congressman Patrick McHenry (behind ...</excerpt>
+          <fti-names>'ad':11 'admin':44 'ago':31 'attend':23 'behind':43 'brown':36 'congressman':40 'coupl':28 'dc':26 'discuss':24 'dougla':1,12 'ellenoff':3,5,14 'grossman':6 'lawyer':20 'lead':19 'llp':9 'mchenri':42 'merkeley':38 'nationwid':21 'one':16 'patrick':41 'schole':8 'senat':35,37 'week':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thesoholoft.com/2012/07/28/douglas-s-ellenoff-of-ellenoff-grossman-and-schole-llp-moderates-panel-on-crowd-funding-to-100-entrepreneurs-join-us-and-meet-leading-vcs-and-angels-for-your-startup/&amp;sa=U&amp;ei=kjwWULuOL5O08ASyk4CoCg&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNE9xlXyxk-DsrXDm4BxxyjLChxuwg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948763</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:49:47-04:00</created-at>
+          <title>DownWithTyranny!: Larry Kissell... Very Sad</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Larry Kissell (D-NC) voted against the Affordable Care Act in 2010 and was one of five Democrats to support repeal of the law earlier this year. But opposition to health care reform hasn&amp;#39;t stopped this two-term Congressman from taking   credit for</excerpt>
+          <fti-names>'2010':19 'act':17 'afford':15 'care':16,39 'congressman':48 'credit':51 'd':10 'd-nc':9 'democrat':25 'downwithtyranni':1,53 'earlier':32 'five':24 'hasn':41 'health':38 'kissel':3,8 'larri':2,7 'law':31 'nc':11 'one':22 'opposit':36 'reform':40 'rep':6 'repeal':28 'sad':5 'stop':43 'support':27 'take':50 'term':47 'two':46 'two-term':45 'vote':12 'year':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/larry-kissell-very-sad.html&amp;sa=U&amp;ei=kjwWULuOL5O08ASyk4CoCg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGklYGMf_AJof07jMhZOTARQPkBAw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948760</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:21-04:00</created-at>
+          <title>Douglas S. Ellenoff of Ellenoff, Grossman and Schole LLP ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He added &#8220;Douglas S. Ellenoff is one of the leading lawyers nationwide who attended discussions in DC a couple of weeks ago where we had Senator Brown, Senator Merkeley and Congressman Patrick McHenry (behind ...</excerpt>
+          <fti-names>'ad':11 'admin':44 'ago':31 'attend':23 'behind':43 'brown':36 'congressman':40 'coupl':28 'dc':26 'discuss':24 'dougla':1,12 'ellenoff':3,5,14 'grossman':6 'lawyer':20 'lead':19 'llp':9 'mchenri':42 'merkeley':38 'nationwid':21 'one':16 'patrick':41 'schole':8 'senat':35,37 'week':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thesoholoft.com/2012/07/28/douglas-s-ellenoff-of-ellenoff-grossman-and-schole-llp-moderates-panel-on-crowd-funding-to-100-entrepreneurs-join-us-and-meet-leading-vcs-and-angels-for-your-startup/&amp;sa=U&amp;ei=i00XUIa4JMbd0QGm6YDACA&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNHynkfOvURJwzjrVHXS0xW4rIDpUg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16961194</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:09-04:00</created-at>
+          <title>CFPB Faulted On White House Ties And Opaque Enforcement ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Wall Street Journal reports that Rep. Patrick McHenry, R-N.C., sent a letter to CFPB Director Richard Cordray (pictured left) requesting that the CFPB provide details on how its senior officials interact with the Obama ...</excerpt>
+          <fti-names>'admin':48 'c':22 'cfpb':1,27,36 'cordray':30 'detail':38 'director':28 'enforc':9 'fault':2 'hous':5 'interact':44 'journal':13 'left':32 'letter':25 'mchenri':18 'n':21 'obama':47 'offici':43 'opaqu':8 'patrick':17 'pictur':31 'provid':37 'r':20 'r-n':19 'rep':16 'report':14 'request':33 'richard':29 'senior':42 'sent':23 'street':12 'tie':6 'wall':11 'white':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/nc-moc/brad-miller-north-carolina-representative/cfpb-faulted-on-white-house-ties-and-opaque-enforcement-language-mortgageorb/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcfpb-faulted-on-white-house-ties-and-opaque-enforcement-language-mortgageorb&amp;sa=U&amp;ei=X9UUUI-JL-eE0QHfu4DwDA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFWWld5Jb40UZFrGWv4TvQMgfW3zQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930371</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:07-04:00</created-at>
+          <title>Douglas S. Ellenoff of Ellenoff, Grossman and Schole LLP ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He added &#8220;Douglas S. Ellenoff is one of the leading lawyers nationwide who attended discussions in DC a couple of weeks ago where we had Senator Brown, Senator Merkeley and Congressman Patrick McHenry (behind ...</excerpt>
+          <fti-names>'ad':11 'admin':44 'ago':31 'attend':23 'behind':43 'brown':36 'congressman':40 'coupl':28 'dc':26 'discuss':24 'dougla':1,12 'ellenoff':3,5,14 'grossman':6 'lawyer':20 'lead':19 'llp':9 'mchenri':42 'merkeley':38 'nationwid':21 'one':16 'patrick':41 'schole':8 'senat':35,37 'week':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thesoholoft.com/2012/07/28/douglas-s-ellenoff-of-ellenoff-grossman-and-schole-llp-moderates-panel-on-crowd-funding-to-100-entrepreneurs-join-us-and-meet-leading-vcs-and-angels-for-your-startup/&amp;sa=U&amp;ei=X9UUUI-JL-eE0QHfu4DwDA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFVr9PNEXg53wLJreZ8sRbo-WuGvw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930368</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:17:10-04:00</created-at>
+          <title>White House Wants to Know What Regulations Are Getting In the Way</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Patrick McHenry (R-NC), who co-sponsored crowdfunding legislation that ultimately became part of the JOBS Act, emphasized that the basic construct of the crowdfund provisions of the JOBS Act was a &#8220;light touch to ...</excerpt>
+          <fti-names>'act':32,45 'basic':36 'becam':27 'brian':51 'co':21 'co-sponsor':20 'construct':37 'crowdfund':23,40 'emphas':33 'get':9 'hous':2 'job':31,44 'know':5 'legisl':24 'light':48 'mchenri':15 'nc':18 'part':28 'patrick':14 'provis':41 'r':17 'r-nc':16 'regul':7 'rep':13 'sponsor':22 'touch':49 'ultim':26 'want':3 'way':12 'white':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crowdfundingprofessional.org/white-house-wants-to-know-what-regulations-are-getting-in-the-way/&amp;sa=U&amp;ei=slkTUIC6OMHm0QGV04CoCA&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNE45n6Sa-VF9GLuMOMpuYRFEd5twA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922505</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:10-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Patrick Mchenry (NC Republican), No. Rep. Mike Mcintyre (NC Democrat), No. Rep. Howard Mckeon (CA Republican), No. Rep. David Mckinley (WV Republican), No. Rep. Cathy Mcmorris Rodgers (WA Republican), No. Rep. Patrick Meehan ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'ca':24 'cathi':34 'david':28 'democrat':19 'drill':9 'howard':22 'hr.6168':1 'mchenri':11 'mcintyr':17 'mckeon':23 'mckinley':29 'mcmorri':35 'meehan':42 'mike':16 'nc':12,18 'obama':3 'offshor':8 'patrick':10,41 'presid':2 'propos':5 'rep':15,21,27,33,40 'republican':13,25,31,38 'rodger':36 'wa':37 'wv':30 'www.votetocracy.com':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=X9UUUI-JL-eE0QHfu4DwDA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGYS2noIq8wjrVcJxpC6pavW0f5ow</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930373</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400644</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:21-04:00</created-at>
+          <title>Congress probes DOJ involvement in St. Paul disparate impact case ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Patrick McHenry wants to know how involved the Justice Department was before the City of St. Paul withdrew its pivotal disparate impact case. Had the city won, future Fair Housing Act claims from DOJ could have been ...</excerpt>
+          <fti-names>'act':42 'case':10,34 'citi':25,37 'claim':43 'congress':1 'could':46 'depart':21 'dispar':8,32 'doj':3,45 'fair':40 'fred':49 'futur':39 'hous':41 'impact':9,33 'involv':4,18 'justic':20 'know':16 'kreger':50 'mchenri':13 'patrick':12 'paul':7,28 'pivot':31 'probe':2 'rep':11 'st':6,27 'want':14 'withdrew':29 'won':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://realestatemarbles.com/campga/2012/07/25/congress-probes-doj-involvement-in-st-paul-disparate-impact-case/&amp;sa=U&amp;ei=i00XUIa4JMbd0QGm6YDACA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHX4uIdlwPlDALEe71-YUc13SqqQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16961192</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred Kreger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20356</page-views-count>
+      <unaccented-name>Patrick McHenry</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

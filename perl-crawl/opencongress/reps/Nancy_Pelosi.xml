@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">96.5174129353234</party-votes-percentage>
+        <abstains-percentage type="float">6.45724258289703</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:24-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">381</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">399</cosponsored-bills-passed-rank>
+        <abstains type="integer">111</abstains>
+        <cosponsored-bills type="integer">37</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">1</party-votes-percentage-rank>
+        <sponsored-bills type="integer">2</sponsored-bills>
+        <votes-least-often-with-id type="integer">412473</votes-least-often-with-id>
+        <person-id type="integer">400314</person-id>
+        <cosponsored-bills-rank type="integer">434</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:55-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">272</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">356</votes-republican-position>
+      <blog-article-count type="integer">38022</blog-article-count>
+      <fax>202-225-8259</fax>
+      <user-approval type="float">1.38754325259516</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">573</oc-users-tracking>
+      <contact-webform>http://www.house.gov/pelosi/contact/contact.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">96.5174129353234</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Pelosi</lastname>
+      <congress-office>235 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Nancy</firstname>
+      <website>http://house.gov/pelosi/</website>
+      <birthday type="date">1940-03-26</birthday>
+      <person-id type="integer">400314</person-id>
+      <phone>202-225-4965</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1552</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:26-04:00</created-at>
+          <title>An open letter to Rep. Kathleen Hochul</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...If this is a taste of your campaign tactics to follow, you might start to view President Obama and House Minority Leader Nancy Pelosi as political liabilities and distance yourself from them. Don't run away from your party in order to woo Republican vot</excerpt>
+          <fti-names>'away':43 'buffalo':53 'campaign':15 'distanc':36 'follow':18 'hochul':7 'hous':27 'kathleen':6 'leader':29 'letter':3 'liabil':34 'might':20 'minor':28 'nanci':30 'news':54 'obama':25 'open':2 'order':48 'parti':46 'pelosi':31 'polit':33 'presid':24 'rep':5 'republican':51 'run':42 'start':21 'tactic':16 'tast':12 'view':23 'vot':52 'woo':50</fti-names>
+          <source-url>http://www.buffalonews.com/</source-url>
+          <url>http://www.buffalonews.com/editorial-page/from-our-readers/another-voice/article988641.ece</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973531</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Buffalo News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:26-04:00</created-at>
+          <title>Printed letters, August 8, 2012</title>
+          <contains-term>legislation</contains-term>
+          <excerpt>...bad piece of legislation, then so be it. A large majority of people in the country and in this district want Obamacare repealed. Nancy Pelosi and Sal Pace would work against that majority. In Grant&#8217;s universe it is only &#8220;fair&#8221; (a code word for soc</excerpt>
+          <fti-names>'2012':5 '8':4 'august':3 'bad':6 'code':48 'countri':21 'district':25 'fair':46 'grand':52 'grant':40 'junction':53 'larg':15 'legisl':9 'letter':2 'major':16,38 'nanci':29 'obamacar':27 'pace':33 'pelosi':30 'peopl':18 'piec':7 'print':1 'repeal':28 'sal':32 'sentinel':54 'soc':51 'univers':42 'want':26 'word':49 'work':35 'would':34</fti-names>
+          <source-url>http://www.gjsentinel.com/</source-url>
+          <url>http://www.gjsentinel.com/opinion/articles/printed-letters-august-8-2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Grand Junction Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:26-04:00</created-at>
+          <title>Nancy Pelosi and Kathleen Sebelius column: Health law a 'new day' for women</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...coverage that didn't meet our needs. Thanks to the Affordable Care Act, a new day for women's health has arrived. U.S. Rep. Nancy Pelosi is the Democratic leader in the U.S. House of Representatives, and Kathleen Sebelius is secretary of Health and Huma</excerpt>
+          <fti-names>'act':26 'afford':24 'arriv':35 'care':25 'column':6 'coverag':14 'daili':60 'day':11,29 'democrat':42 'didn':16 'health':7,33,56 'herald':61 'hous':47 'huma':58 'kathleen':4,51 'law':8 'leader':43 'meet':18 'nanci':1,38 'need':20 'new':10,28 'pelosi':2,39 'rep':37 'repres':49 'sebelius':5,52 'secretari':54 'thank':21 'u.s':36,46 'wausau':59 'women':13,31</fti-names>
+          <source-url>http://www.wausaudailyherald.com/</source-url>
+          <url>http://www.wausaudailyherald.com/article/20120807/WDH06/208070321</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973529</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wausau Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:25-04:00</created-at>
+          <title>Sweet retort: Allen West responds to Nancy Pelosi</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...assisted living facility in Boca Raton. (Susan Stocker, Sun Sentinel / August 6, 2012) On Monday, House Minority Leader Nancy Pelosi, D-Calif., said that ousting Florida&#8217;s most prominent Republican, U.S. Rep. Allen West, would be sweet for the country</excerpt>
+          <fti-names>'2012':21 '6':20 'allen':3,42 'assist':9 'august':19 'boca':13 'calif':31 'countri':49 'd':30 'd-calif':29 'facil':11 'florida':35,51 'hous':24 'leader':26 'live':10 'minor':25 'monday':23 'nanci':7,27 'oust':34 'pelosi':8,28 'promin':38 'raton':14 'rep':41 'republican':39 'respond':5 'retort':2 'said':32 'sentinel':18,54 'south':50 'stocker':16 'sun':17,53 'sun-sentinel':52 'susan':15 'sweet':1,46 'u.s':40 'west':4,43 'would':44</fti-names>
+          <source-url>http://www.sun-sentinel.com/</source-url>
+          <url>http://feedproxy.google.com/~r/sun-sentinel/news/local/miami/~3/5jGq3CtyWrI/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973528</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>South Florida Sun-Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:39-04:00</created-at>
+          <title>Pelosi in Boca, goes after GOP on Medicare</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...The top Democrat in Congress, U.S. Rep. Nancy Pelosi, sought Monday to shore up support from one of her party's most critical constituencies &#8211; senior voters &#8211; by portraying Republicans as scheming to destroy Medicare. Speaking to a crowd of more tha</excerpt>
+          <fti-names>'boca':3 'congress':13 'constitu':32 'critic':31 'crowd':46 'democrat':11 'destroy':41 'florida':51 'goe':4 'gop':6 'medicar':8,42 'monday':19 'nanci':16 'one':25 'parti':28 'pelosi':1,17 'portray':36 'rep':15 'republican':37 'scheme':39 'senior':33 'sentinel':54 'shore':21 'sought':18 'south':50 'speak':43 'sun':53 'sun-sentinel':52 'support':23 'tha':49 'top':10 'u.s':14 'voter':34</fti-names>
+          <source-url>http://www.sun-sentinel.com/</source-url>
+          <url>http://feeds.sun-sentinel.com/~r/sun-sentinel/news/education/~3/x1fnmasB_L0/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972934</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>South Florida Sun-Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:39-04:00</created-at>
+          <title>White House refuses to back Reid&#8217;s tax attack</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...that Mitt Romney hadn&#8217;t paid taxes for ten years, saying &#8220;only Sen. Reid knows his source.&#8221; But House Minority Leader Nancy Pelosi is vouching for Reid , saying the Nevada Democrat &#8220;made a statement that is true.&#8221; Reid is still not backing dow</excerpt>
+          <fti-names>'attack':9 'back':5,51 'democrat':40 'dow':52 'hadn':13 'hous':2,28 'know':24 'leader':30 'made':41 'minor':29 'mitt':11 'nanci':31 'nevada':39 'paid':15 'pelosi':32 'post':55 'refus':3 'reid':6,23,36,47 'romney':12 'say':20,37 'sen':22 'sourc':26 'statement':43 'still':49 'tax':8,16 'ten':18 'true':46 'vouch':34 'washington':54 'white':1 'year':19</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=bf0393837e4a95901067e059cc540b74</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972933</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:39-04:00</created-at>
+          <title>&quot;Shit Rep. Allen West Says&quot;: The Epic Video Anthology</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...that are coming up on my ankles? I'm gonna shoo them all away!&quot; 5. &quot;Give me that damn gavel!&quot; (re: then Speaker of the House Nancy Pelosi) 6. &quot;You need to get into the Quran, you need to understand their precepts, you need to read the Surah, you need to</excerpt>
+          <fti-names>'5':24 '6':38 'allen':3 'ankl':16 'antholog':9 'away':23 'come':12 'damn':28 'epic':7 'gavel':29 'get':42 'give':25 'gonna':19 'hous':35 'jone':62 'm':18 'mother':61 'nanci':36 'need':40,47,53,59 'pelosi':37 'precept':51 'quran':45 're':30 'read':55 'rep':2 'say':5 'shit':1 'shoo':20 'speaker':32 'surah':57 'understand':49 'video':8 'west':4</fti-names>
+          <source-url>http://motherjones.com/</source-url>
+          <url>http://www.motherjones.com/politics/2012/08/shit-allen-west-says-video-anthology</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972932</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mother Jones</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:38-04:00</created-at>
+          <title>Nancy Pelosi: It Would Be 'Sweet' For The Country If Allen West Lost</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...RATON, Fla. -- House Minority Leader Nancy Pelosi (D-Calif.) thinks it wouldn't just be great for Democrats if Rep. Allen West (R-Fla.) lost his seat in November: It would be great for everybody. &quot;How sweet would it be for the country?&quot; Pelosi said to l</excerpt>
+          <fti-names>'allen':11,35 'calif':23 'countri':9,58 'd':22 'd-calif':21 'democrat':32 'everybodi':50 'fla':15,39 'great':30,48 'hous':16 'huffington':64 'l':62 'leader':18 'lost':13,40 'minor':17 'nanci':1,19 'novemb':44 'pelosi':2,20,59 'post':65 'r':38 'r-fla':37 'raton':14 'rep':34 'said':60 'seat':42 'sweet':6,52 'think':24 'west':12,36 'would':4,46,53 'wouldn':26</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/06/nancy-pelosi-allen-west_n_1748658.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972931</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:47:09-04:00</created-at>
+          <title>65,000 Bay Area immigrants could benefit from deportation policy, study states</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...young immigrants who might benefit, more than twice as many as in the San Francisco district of House Minority Leader Nancy Pelosi, which has fewer Latino families and fewer young people. Lofgren, the ranking Democrat on the House of Representatives' im</excerpt>
+          <fti-names>'000':2 '65':1 'area':4 'bay':3 'benefit':7,17 'contra':54 'costa':55 'could':6 'democrat':47 'deport':9 'district':28 'famili':39 'fewer':37,41 'francisco':27 'hous':30,50 'im':53 'immigr':5,14 'latino':38 'leader':32 'lofgren':44 'mani':22 'might':16 'minor':31 'nanci':33 'pelosi':34 'peopl':43 'polici':10 'rank':46 'repres':52 'san':26 'state':12 'studi':11 'time':56 'twice':20 'young':13,42</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/news/ci_21243195/65-000-bay-area-immigrants-could-benefit-from?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972506</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:47:09-04:00</created-at>
+          <title>Money pledge starts political sniping between Lampson, Weber</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...can help candidates like Nick Lampson in Congressional District 14 by attacking me. In (Democratic House Minority Leader) Nancy Pelosi's pursuit of the Speaker's gavel, she will ignore this 'Gentleman's Agreement' with a wink at Nick as she tries to sec</excerpt>
+          <fti-names>'14':18 'agreement':42 'attack':20 'beaumont':53 'candid':11 'congression':16 'democrat':23 'district':17 'enterpris':54 'gavel':35 'gentleman':40 'help':10 'hous':24 'ignor':38 'lampson':7,14 'leader':26 'like':12 'minor':25 'money':1 'nanci':27 'nick':13,47 'pelosi':28 'pledg':2 'polit':4 'pursuit':30 'sec':52 'snipe':5 'speaker':33 'start':3 'tri':50 'weber':8 'wink':45</fti-names>
+          <source-url>http://beaumontenterprise.com/</source-url>
+          <url>http://www.beaumontenterprise.com/news/article/Money-pledge-starts-political-sniping-between-3761242.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972507</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beaumont Enterprise</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Nancy_Pelosi</metavid-id>
+      <name>Rep. Nancy Pelosi [D, CA-8]</name>
+      <bioguide-id>P000197</bioguide-id>
+      <total-session-votes type="integer">1608</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>8</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:31:33-04:00</created-at>
+          <title>Party not center of fight for US House - Charlotte Observer</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Referring to Speaker John Boehner, the top Republican, and Rep. Nancy Pelosi, the Democratic leader, he added: &#8220;Voters in Boehner&amp;#39;s district believe they are sending Boehner there to fight Obama, and Pelosi&amp;#39;s district ...</excerpt>
+          <fti-names>'ad':27 'believ':33 'boehner':15,30,37 'center':3 'charlott':9 'democrat':24 'district':32,45 'fight':5,40 'hous':8 'jennif':49 'john':14 'leader':25 'nanci':21 'new':46 'obama':41 'observ':10 'parti':1 'pelosi':22,43 'refer':11 'rep':20 'republican':18 'send':36 'speaker':13 'steinhauer':50 'time':48 'top':17 'us':7 'voter':28 'york':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.charlotteobserver.com/2012/07/28/3412875/party-not.html&amp;sa=U&amp;ei=VEYWUJObCeuJ0QH17IH4Cg&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNFljWRhHAAakdu_u0eVWII_qqB7dA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949304</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>New York Times (Jennifer Steinhauer)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:31:28-04:00</created-at>
+          <title>Freedom&amp;#39;s Lighthouse &#187; Democrat Nancy Pelosi Says Jewish Voters ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Here is video of Democrat Rep. Nancy Pelosi in an interview with Al Hunt saying Jewish Republicans are &#8220;being exploited&#8221; into opposing President Obama because they actually want tax cuts &#8211; not because they are ...</excerpt>
+          <fti-names>'actual':36 'al':22 'brian':44 'cut':39 'democrat':4,14 'exploit':29 'freedom':1 'hunt':23 'interview':20 'jewish':8,25 'lighthous':3 'nanci':5,16 'obama':33 'oppos':31 'pelosi':6,17 'presid':32 'rep':15 'republican':26 'say':7,24 'tax':38 'video':12 'voter':9 'want':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://freedomslighthouse.net/2012/07/28/democrat-nancy-pelosi-says-jewish-voters-supporting-republicans-are-being-exploited-video-72712/&amp;sa=U&amp;ei=VEYWUJObCeuJ0QH17IH4Cg&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNEfB6NlQUS-ATbDi9A4pRGRKE40dw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949299</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:31:27-04:00</created-at>
+          <title>Sunday Breakfast Menu, July 29 - NYTimes.com</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Representative Nancy Pelosi of California, the House minority leader, is the guest on Bloomberg&amp;#39;s &#8220;Political Capital&#8221; this week. On C-Span&amp;#39;s &#8220;Newsmakers,&#8221; Representative Sander M. Levin of Michigan, ranking Democrat on ...</excerpt>
+          <fti-names>'29':5 'bloomberg':20 'breakfast':2 'c':28 'c-span':27 'california':11 'capit':23 'democrat':39 'emmari':42 'guest':18 'hous':13 'huetteman':43 'juli':4 'leader':15 'levin':35 'm':34 'menu':3 'michigan':37 'minor':14 'nanci':8 'newsmak':31 'nytimes.com':6 'pelosi':9 'polit':22 'rank':38 'repres':7,32 'sander':33 'span':29 'sunday':1 'week':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecaucus.blogs.nytimes.com/2012/07/28/sunday-breakfast-menu-july-29/&amp;sa=U&amp;ei=VEYWUJObCeuJ0QH17IH4Cg&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNF9mF-ajn4jQDn7W_z5vrWK2f2Jrw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949298</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>By EMMARIE HUETTEMAN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:48:37-04:00</created-at>
+          <title>Over and over again | American Political Blogs Watch</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... Vote For Democrats: Nancy Pelosi. Nancy Pelosi Watch Congresswoman Nancy Pelosi as San Francisco&amp;#39;s Representative: ... Congresswoman Nancy Pelosi Caring About People and Their Lives: ... Congresswoman Nancy ...</excerpt>
+          <fti-names>'american':5 'blog':7,37 'care':28 'congresswoman':17,25,34 'democrat':11 'editor':38 'francisco':22 'live':33 'nanci':12,14,18,26,35 'pelosi':13,15,19,27 'peopl':30 'polit':6,36 'repres':24 'san':21 'vote':9 'watch':8,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americanpoliticalblogs.com/2012/07/over-and-over-again/&amp;sa=U&amp;ei=rtwUUOqACIHk0QGupIGICQ&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNHVeBU99YwAxv4br_YpdoJAAs4i2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930621</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Political Blog Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:48:34-04:00</created-at>
+          <title>Nancy Pelosi Chick-Fil-A Tweet: &amp;#39;I Prefer Kentucky Fried Chicken&amp;#39;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Thank you Rep. Nancy Pelosi. You are a beautiful example of intelligent women and faithful service to your country and humanity. You are loved by millions of people here in California. twospiritme: Thank you Rep. Nancy ...</excerpt>
+          <fti-names>'beauti':21 'california':43 'chick':4 'chick-fil-a':3 'chicken':12 'countri':31 'editor':53 'exampl':22 'faith':27 'fil':5 'fri':11 'huffington':50 'human':33 'intellig':24 'kentucki':10 'love':36 'million':38 'nanci':1,16,48 'news':52 'pelosi':2,17 'peopl':40 'post':51 'prefer':9 'rep':15,47 'servic':28 'thank':13,45 'tweet':7 'twospiritm':44 'women':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/nancy-pelosi-chick-fil-a-tweet_n_1711845.html&amp;sa=U&amp;ei=rtwUUOqACIHk0QGupIGICQ&amp;ved=0CDsQmAEwBg&amp;usg=AFQjCNE6tYF93a_IrXg8S5D6d2wWBjwbkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930619</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:48:31-04:00</created-at>
+          <title>Freedom&amp;#39;s Lighthouse &#187; Democrat Nancy Pelosi Says Jewish Voters ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Here is video of Democrat Rep. Nancy Pelosi in an interview with Al Hunt saying Jewish Republicans are &#8220;being exploited&#8221; into opposing President Obama because they actually want tax cuts &#8211; not because they are ...</excerpt>
+          <fti-names>'actual':36 'al':22 'brian':44 'cut':39 'democrat':4,14 'exploit':29 'freedom':1 'hunt':23 'interview':20 'jewish':8,25 'lighthous':3 'nanci':5,16 'obama':33 'oppos':31 'pelosi':6,17 'presid':32 'rep':15 'republican':26 'say':7,24 'tax':38 'video':12 'voter':9 'want':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://freedomslighthouse.net/2012/07/28/democrat-nancy-pelosi-says-jewish-voters-supporting-republicans-are-being-exploited-video-72712/&amp;sa=U&amp;ei=rtwUUOqACIHk0QGupIGICQ&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNGZq1GnSt_O8KZ95ClAG_dOFOTAqQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930616</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:48:29-04:00</created-at>
+          <title>Rep. Nancy Pelosi on Tax Cut Legislation | C-SPAN</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>House Minority Leader Rep. Nancy Pelosi (D-CA) held her weekly legislative briefing with reporters discussing the House Democratic agenda. She urged House Republicans to take up the Senate Democratic tax proposal ...</excerpt>
+          <fti-names>'/johnrouda.com':46 'agenda':31 'brief':24 'c':9 'c-span':8 'ca':19 'cut':6 'd':18 'd-ca':17 'democrat':30,41 'discuss':27 'held':20 'hous':11,29,34 'leader':13 'legisl':7,23 'minor':12 'nanci':2,15 'pelosi':3,16 'propos':43 'rep':1,14 'report':26 'republican':35 'senat':40 'span':10 'take':37 'tax':5,42 'urg':33 'week':22 'www.c-span.org':45 'www.c-span.org/johnrouda.com':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Nancy-Pelosi-on-Tax-Cut-Legislation/10737432624/&amp;sa=U&amp;ei=rtwUUOqACIHk0QGupIGICQ&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNEuI9TdUnrKkplwSZTMOqp7HU95ng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16930615</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:23:39-04:00</created-at>
+          <title>Alaska man sues for proof of Obama&amp;#39;s eligibility | The Salt Lake ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Epperly is acting as his own attorney. The lawsuit is seeking the state Division of Elections to obtain a physical, &amp;quot;verified&amp;quot; copy of Obama&amp;#39;s birth certificate. Epperly also questions U.S. Rep. Nancy Pelosi&amp;#39;s right to run for federal ...</excerpt>
+          <fti-names>'act':15 'alaska':1 'also':41 'attorney':19 'birth':38 'certif':39 'copi':34 'divis':26 'elect':28 'elig':9 'epper':13,40 'feder':52 'lake':12 'lawsuit':21 'man':2 'nanci':45 'obama':7,36 'obtain':30 'pelosi':46 'physic':32 'proof':5 'question':42 'rep':44 'right':48 'run':50 'salt':11 'seek':23 'state':25 'sue':3 'u.s':43 'verifi':33 'www.sltrib.com':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sltrib.com/sltrib/world/54574449-68/obama-lawsuit-alaska-epperly.html.csp&amp;sa=U&amp;ei=OVsTUK28L4m09gTOwoGYAQ&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGPgZiR-n6Oc7KXNDfOb_cr5MW5vQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922963</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sltrib.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:23:39-04:00</created-at>
+          <title>Alaska Man Files Lawsuit Over Obama&amp;#39;s Citizenship Status &#171; CBS DC</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Epperly is acting as his own attorney. The lawsuit is seeking the state Division of Elections to obtain a physical, &#8220;verified&#8221; copy of Obama&amp;#39;s birth certificate. Epperly also questions U.S. Rep. Nancy Pelosi&amp;#39;s right to run for federal ...</excerpt>
+          <fti-names>'act':14 'alaska':1 'also':40 'attorney':18 'birth':37 'cbs':10 'certif':38 'citizenship':8 'copi':33 'dc':11 'divis':25 'elect':27 'epper':12,39 'feder':51 'file':3 'higgin':53 'lawsuit':4,20 'man':2 'matt':52 'nanci':44 'obama':6,35 'obtain':29 'pelosi':45 'physic':31 'question':41 'rep':43 'right':47 'run':49 'seek':22 'state':24 'status':9 'u.s':42 'verifi':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washington.cbslocal.com/2012/07/27/alaska-man-files-lawsuit-over-obamas-citizenship-status/&amp;sa=U&amp;ei=OVsTUK28L4m09gTOwoGYAQ&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNFpCo7HHyS6meStMxIXNKPHZswajQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922962</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Higgins</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400314</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:31:17-04:00</created-at>
+          <title>Rep. Nancy Pelosi on Tax Cut Legislation | C-SPAN</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>House Minority Leader Rep. Nancy Pelosi (D-CA) held her weekly legislative briefing with reporters discussing the House Democratic agenda. She urged House Republicans to take up the Senate Democratic tax proposal ...</excerpt>
+          <fti-names>'/johnrouda.com':46 'agenda':31 'brief':24 'c':9 'c-span':8 'ca':19 'cut':6 'd':18 'd-ca':17 'democrat':30,41 'discuss':27 'held':20 'hous':11,29,34 'leader':13 'legisl':7,23 'minor':12 'nanci':2,15 'pelosi':3,16 'propos':43 'rep':1,14 'report':26 'republican':35 'senat':40 'span':10 'take':37 'tax':5,42 'urg':33 'week':22 'www.c-span.org':45 'www.c-span.org/johnrouda.com':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Rep-Nancy-Pelosi-on-Tax-Cut-Legislation/10737432624/&amp;sa=U&amp;ei=VEYWUJObCeuJ0QH17IH4Cg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNF_I4I79xWRiVPBtqNtlHFq0EkihQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16949296</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">79188</page-views-count>
+      <youtube-id>nancypelosi</youtube-id>
+      <unaccented-name>Nancy Pelosi</unaccented-name>
+      <oc-user-comments type="integer">122</oc-user-comments>
+    </person>
+  </people>
+</hash>

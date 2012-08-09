@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.521372667068</party-votes-percentage>
+        <abstains-percentage type="float">3.37405468295521</abstains-percentage>
+        <votes-most-often-with-id type="integer">412319</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">231</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">58</abstains>
+        <cosponsored-bills type="integer">185</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">17</party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">400145</votes-least-often-with-id>
+        <person-id type="integer">412211</person-id>
+        <cosponsored-bills-rank type="integer">273</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">201</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">355</votes-republican-position>
+      <fax>202-225-5776</fax>
+      <bioguide-id>Y000062</bioguide-id>
+      <blog-article-count type="integer">7893</blog-article-count>
+      <user-approval type="float">4.80952380952381</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">126</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://yarmuth.house.gov/?sectionid=68&amp;sectiontree=6,29,68</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.521372667068</with-party-percentage>
+      <lastname>Yarmuth</lastname>
+      <middlename>A.</middlename>
+      <congress-office>435 Cannon House Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://yarmuth.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1947-11-04</birthday>
+      <person-id type="integer">412211</person-id>
+      <phone>202-225-5401</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1570</votes-democratic-position>
+      <metavid-id>John_Yarmuth</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:53:22-04:00</created-at>
+          <title>Waters Probe Extended Again</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...have been raised,&#8221; explains the statement released by acting Chairman Bob Goodlatte, R-Va., and and acting ranking member John Yarmuth, D-Ky. &#8220;Mr. Martin will continue to work closely with the committee as it attempts to complete this matter,&#8221; the</excerpt>
+          <fti-names>'act':13,22 'attempt':42 'bob':15 'chairman':14 'close':36 'committe':39 'complet':44 'continu':33 'd':28 'd-ki':27 'explain':8 'extend':3 'goodlatt':16 'john':25 'journal':49 'ky':29 'martin':31 'matter':46 'member':24 'mr':30 'nation':48 'probe':2 'r':18 'r-va':17 'rais':7 'rank':23 'releas':11 'statement':10 'va':19 'water':1 'work':35 'yarmuth':26</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://www.nationaljournal.com/congress/waters-probe-extended-again-20120802</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971051</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:53:21-04:00</created-at>
+          <title>House Committee May Spend $1 Million on Lawyer for Waters Query</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...address the many questions that have been raised,&#8221; acting Chairman Bob Goodlatte, R-Av., and acting ranking member John Yarmuth, D-Ky., said in a statement. The committee has examined for two years whether Waters broke House rules after reports that s</excerpt>
+          <fti-names>'1':5 'act':20,28 'address':12 'av':26 'bob':22 'broke':49 'chairman':21 'committe':2,41 'd':34 'd-ki':33 'examin':43 'goodlatt':23 'hous':1,50 'john':31 'ky':35 'lawyer':8 'mani':14 'may':3 'member':30 'million':6 'newsmax':56 'queri':11 'question':15 'r':25 'r-av':24 'rais':19 'rank':29 'report':53 'rule':51 'said':36 'spend':4 'statement':39 'two':45 'water':10,48 'whether':47 'yarmuth':32 'year':46</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/house-ethics-committee-investigation/2012/08/02/id/447407</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971050</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:53:21-04:00</created-at>
+          <title>Committee Extends Contract for Maxine Waters Probe's Outside Counsel</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(Idaho), Steven LaTourette (Ohio), Shelley Moore Capito (W.Va.), Tim Griffin (Ark.) and Goodlatte and Democratic Rep. John Sarbanes (Md.) were appointed as substitute committee members, with Goodlatte acting as chairman and existing Ethics member Yarmut</excerpt>
+          <fti-names>'act':38 'appoint':31 'ark':21 'call':47 'capito':17 'chairman':40 'committe':1,34 'contract':3 'counsel':10 'democrat':25 'ethic':43 'exist':42 'extend':2 'goodlatt':23,37 'griffin':20 'idaho':11 'john':27 'latourett':13 'maxin':5 'md':29 'member':35,44 'moor':16 'ohio':14 'outsid':9 'probe':7 'rep':26 'roll':46 'sarban':28 'shelley':15 'steven':12 'substitut':33 'tim':19 'w.va':18 'water':6 'yarmut':45</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/committee_extends_contract_for_maxine_waters_probes_outside_counsel-216685-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971049</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:53:20-04:00</created-at>
+          <title>House reprimands Richardson</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...issued letters of reproval by the Ethics Committee. A special investigative subcommittee led by Reps. Charlie Dent (R-Pa.) and John Yarmuth (D-Ky.) found that Richardson &#8220;acted to consume the resources endowed to her as a member for whatever purpose s</excerpt>
+          <fti-names>'act':33 'charli':19 'committe':11 'consum':35 'd':28 'd-ki':27 'dent':20 'endow':38 'ethic':10 'found':30 'hous':1 'investig':14 'issu':4 'john':25 'ky':29 'led':16 'letter':5 'member':43 'pa':23 'politico':49 'purpos':46 'r':22 'r-pa':21 'rep':18 'reprimand':2 'reprov':7 'resourc':37 'richardson':3,32 'special':13 'subcommitte':15 'whatev':45 'yarmuth':26</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79334.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971048</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:53:19-04:00</created-at>
+          <title>Waters' case faces another delay</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...a Republican from Virginia who serves as the acting chairman of the ethics panel investigating Mrs. Waters, and Rep. John Yarmuth, the ranking Democrat from Kentucky. &#8220;We are fully committed to resolving this matter as early in the remainder of this C</excerpt>
+          <fti-names>'act':14 'anoth':4 'c':47 'case':2 'chairman':15 'commit':35 'delay':5 'democrat':29 'earli':41 'ethic':18 'face':3 'fulli':34 'investig':20 'john':25 'kentucki':31 'matter':39 'mrs':21 'panel':19 'rank':28 'remaind':44 'rep':24 'republican':7 'resolv':37 'serv':11 'time':49 'virginia':9 'washington':48 'water':1,22 'yarmuth':26</fti-names>
+          <source-url>http://www.washingtontimes.com/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629221/s/21fb7dce/l/0L0Swashingtontimes0N0Cnews0C20A120Caug0C20Cwaters0Ecase0Efaces0Eanother0Edelay0C0Dutm0Isource0FRSS0IFeed0Gutm0Imedium0FRSS/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971047</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:41:30-04:00</created-at>
+          <title>Insurers return $15 million to Kentucky members</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The average rebate across the country is $151 per family. &#8220;This is one of the key ways the Affordable Care Act lowers health costs for consumers,&#8221; Rep. John Yarmuth, D-Louisville, said in a news release. &#8220;The law helps consumers get more ...</excerpt>
+          <fti-names>'15':3 '151':15 'across':11 'act':28 'afford':26 'averag':9 'busi':52 'care':27 'consum':33,48 'cost':31 'countri':13 'd':38 'd-louisvill':37 'famili':17 'get':49 'health':30 'help':47 'insur':1 'john':35 'journal':53 'kentucki':6 'key':23 'law':46 'louisvill':39 'lower':29 'member':7 'million':4 'news':43 'one':20 'per':16 'rebat':10 'releas':44 'rep':34 'return':2 'said':40 'way':24 'yarmuth':36</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bizjournals.com/louisville/news/2012/07/27/insurers-return-15-million-to.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T11:25:05-04:00</date>
+          <id type="integer">16924362</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Business Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:27:19-04:00</created-at>
+          <title>TARC offering free rides to veterans jobs and resources fair</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman John Yarmuth is hosting a veterans jobs and resources fair today at the United Auto Workers hall on Fern Valley Road. More than 50 local businesses, who are currently hiring for more than 1500 jobs, will be on hand. The Small Business ...</excerpt>
+          <fti-names>'1500':45 '50':35 'auto':26 'busi':37,53 'congressman':11 'current':40 'fair':10,21 'fern':30 'free':3 'hall':28 'hand':50 'hire':41 'host':15 'job':7,18,46 'john':12 'local':36 'offer':2 'resourc':9,20 'ride':4 'road':32 'small':52 'tarc':1 'today':22 'unit':25 'valley':31 'veteran':6,17 'wlky.com':54 'worker':27 'yarmuth':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wlky.com/news/local-news/louisville-news/TARC-offering-free-rides-to-veterans-jobs-and-resources-fair/-/9718340/15757104/-/ljpgv2z/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T09:01:55-04:00</date>
+          <id type="integer">16931496</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WLKY.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:41:27-04:00</created-at>
+          <title>Nearly 250,000 Kentuckians to Receive More than $15 Million in Insurance Rebates</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON, July 26-- Rep. John Yarmuth, D-Ky. (3rd CD), has issued the following news release: Today, Congressman John Yarmuth (KY-3) announced that by next week, nearly 250,000 Kentuckians will have received approximately $15.4 million in health ...</excerpt>
+          <fti-names>'-3':36 '000':3,44 '15':9 '15.4':50 '250':2,43 '26':16 '3rd':23 'announc':37 'approxim':49 'cd':24 'congressman':32 'd':21 'd-ki':20 'follow':28 'health':53 'insur':12,54 'issu':26 'john':18,33 'juli':15 'kentuckian':4,45 'ky':22,35 'million':10,51 'near':1,42 'net':56 'news':29,55 'next':40 'rebat':13 'receiv':6,48 'releas':30 'rep':17 'today':31 'washington':14 'week':41 'yarmuth':19,34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://insurancenewsnet.com/article.aspx?id=351859&amp;type=insider</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T08:54:46-04:00</date>
+          <id type="integer">16924359</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Insurance News Net</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:41:42-04:00</created-at>
+          <title>Insurers return $15 million to Kentucky members</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the country is $151 per family. &#8220;This is one of the key ways the Affordable Care Act lowers health costs for consumers,&#8221; Rep. John Yarmuth, D-Louisville, said in a news release. &#8220;The law helps consumers get more out of their premium dollar, and th</excerpt>
+          <fti-names>'15':3 '151':11 'act':24 'afford':22 'busi':54 'care':23 'consum':29,44 'cost':27 'countri':9 'd':34 'd-louisvill':33 'dollar':51 'famili':13 'first':55 'get':45 'health':26 'help':43 'insur':1 'john':31 'kentucki':6 'key':19 'law':42 'louisvill':35,57 'lower':25 'member':7 'million':4 'news':39 'one':16 'per':12 'premium':50 'releas':40 'rep':30 'return':2 'said':36 'th':53 'way':20 'yarmuth':32</fti-names>
+          <source-url>http://louisville.bizjournals.com/louisville/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_louisville/~3/Osx7chQ4oGs/insurers-return-15-million-to.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16924370</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Business First of Louisville</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-27T02:06:02-04:00</created-at>
+          <title>Governor's Awards in the Arts honorees are announced</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Government Award: U.S. Rep. John Yarmuth (D-Louisville), who is know for his support of the arts and has made large donations to entities such as the Governor's School for the Arts. Media Award: Jeffrey Lee Puckett of Louisville, the Courier ...</excerpt>
+          <fti-names>'announc':9 'art':6,27,43 'award':3,11,45 'courier':52 'd':17 'd-louisvill':16 'donat':32 'entiti':34 'govern':10 'governor':1,38 'herald':55 'herald-lead':54 'honore':7 'jeffrey':46 'john':14 'know':21 'larg':31 'leader':56 'lee':47 'lexington':53 'louisvill':18,50 'made':30 'media':44 'puckett':48 'rep':13 'school':40 'support':24 'u.s':12 'yarmuth':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kentucky.com/2012/07/26/2272533/governors-awards-in-the-arts-honorees.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T19:33:02-04:00</date>
+          <id type="integer">16893885</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lexington Herald-Leader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. John Yarmuth [D, KY-3]</name>
+      <total-session-votes type="integer">1661</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepJohnYarmuth</youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:52-04:00</created-at>
+          <title>John Yarmuth Discusses Republicans On TV Again</title>
+          <contains-term>republican</contains-term>
+          <excerpt>An Informed, Savvy Take on Media &amp;amp; Politics in Kentucky.</excerpt>
+          <fti-names>'discuss':3 'inform':9 'jake':17 'john':1 'kentucki':16 'media':13 'polit':14 'republican':4 'savvi':10 'take':11 'tv':6 'yarmuth':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pageonekentucky.com/2012/07/05/john-yarmuth-discusses-republicans-on-tv-again/&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNGXRAhdANa0EzWlaCgT8VU8WYVZiw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16412583</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:52-04:00</created-at>
+          <title>Wicker Questions Boehner&amp;#39;s Leadership | WFPL</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican congressional candidate Brooks Wicker won&amp;#39;t commit to keeping current House Speaker John Boehner in the position if he defeats Democratic incumbent John Yarmuth this fall. Since taking control of Congress, the GOP caucus has   had some inter</excerpt>
+          <fti-names>'bailey':48 'boehner':3,21 'brook':10 'candid':9 'caucus':41 'commit':14 'congress':38 'congression':8 'control':36 'current':17 'defeat':27 'democrat':28 'fall':33 'gop':40 'hous':18 'incumb':29 'inter':45 'john':20,30 'keep':16 'leadership':5 'm':47 'phillip':46 'posit':24 'question':2 'republican':7 'sinc':34 'speaker':19 'take':35 'wfpl':6 'wicker':1,11 'won':12 'yarmuth':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wfpl.org/post/wicker-questions-boehner-s-leadership&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFAZKXhmUCkMGmDDj9ijmdkGgZ7dQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16412582</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Phillip M. Bailey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:51-04:00</created-at>
+          <title>Programming notes - First Read</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>line-up: MSNBC&amp;#39;s Chris Jansing interviews Rep. John Yarmuth (D-KY), the Washington Post&amp;#39;s EJ Dionne, TheGrio.com&amp;#39;s Perry Bacon, Politico&amp;#39;s Jonathan Allen, GOP Strategist Joe Watkins, Dem Strategist Chris Kofinis, the ...</excerpt>
+          <fti-names>'allen':32 'bacon':28 'chris':10,39 'd':17 'd-ki':16 'dem':37 'dionn':24 'ej':23 'first':3 'firstread.msnbc.msn.com':42 'gop':33 'interview':12 'jans':11 'joe':35 'john':14 'jonathan':31 'kofini':40 'ky':18 'line':6 'line-up':5 'msnbc':8 'note':2 'perri':27 'politico':29 'post':21 'program':1 'read':4 'rep':13 'strategist':34,38 'thegrio.com':25 'washington':20 'watkin':36 'yarmuth':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://firstread.msnbc.msn.com/_news/2012/07/05/12578162-programming-notes&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGiGMj75tBuHJKUheUo_uP2nzHhtA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16412581</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://firstread.msnbc.msn.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:56-04:00</created-at>
+          <title>City Receives EPA Grants to Retrofit Diesel Vehicles - 2012 ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mayor Greg Fischer and U.S. Rep. John Yarmuth (D-Louisville) joined city, state, and federal officials to celebrate $1.6 million in diesel emission reduction grants that will go toward the purchase of diesel filters for city vehicles, ...</excerpt>
+          <fti-names>'/news/':50 '1.6':29 '2012':9 'celebr':28 'citi':1,22,46 'd':19 'd-louisvill':18 'diesel':7,32,43 'emiss':33 'epa':3 'feder':25 'filter':44 'fischer':12 'go':38 'grant':4,35 'greg':11 'john':16 'join':21 'louisvill':20 'mayor':10 'million':30 'offici':26 'purchas':41 'receiv':2 'reduct':34 'rep':15 'retrofit':6 'state':23 'toward':39 'u.s':14 'vehicl':8,47 'www.louisvilleky.gov':49 'www.louisvilleky.gov/news':48 'yarmuth':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.louisvilleky.gov/economicdevelopment/News/2012/CityReceivesEPAGrantstoRetrofitDieselVehicles.htm&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNHFTjzsJ26JkOlNtNNT4MzL5yis9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16412588</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.louisvilleky.gov/News/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:55-04:00</created-at>
+          <title>The US Report - The US Report - Yarmuth goes to bat for ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democrats like Kentucky Rep. John Yarmuth are going to bat for the ObamaCare tax bill. Yarmuth wants it both ways. Democrats approved of Chief Justice John Roberts&amp;#39; classification of the mandate as a tax. That&amp;#39;s the only ...</excerpt>
+          <fti-names>'approv':33 'b':51 'bat':10,21 'bill':26 'chief':35 'classif':39 'day':52 'democrat':12,32 'editor':53 'go':19 'goe':8 'john':16,37 'justic':36 'kay':50 'kentucki':14 'like':13 'mandat':42 'obamacar':24 'rep':15 'report':3,6 'robert':38 'tax':25,45 'us':2,5 'want':28 'way':31 'yarmuth':7,17,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theusreport.com/the-us-report/2012/7/2/yarmuth-goes-to-bat-for-obamacare-tax-bill-doesnt-talk-about.html&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEuWi44CdBhpevHpVFo6EcofUQAsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16412587</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kay B. Day, Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:53-04:00</created-at>
+          <title>Yarmuth visits Fox &amp;amp; Friends &#8211; FatLip</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Yarmuth visits Fox &amp;amp; Friends. Rep. John Yarmuth visited the favorite cable news morning show propaganda arm of the Republican Party today, to defend the Affordable Care Act and answer fair &amp;amp; balanced loaded questions: ...</excerpt>
+          <fti-names>'act':32 'afford':30 'answer':34 'arm':21 'balanc':36 'cabl':16 'care':31 'defend':28 'fair':35 'fatlip':5 'favorit':15 'fox':3,8 'friend':4,9 'john':11 'jsonka':39 'load':37 'morn':18 'news':17 'parti':25 'propaganda':20 'question':38 'rep':10 'republican':24 'show':19 'today':26 'visit':2,7,13 'yarmuth':1,6,12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fatlip.leoweekly.com/2012/07/02/yarmuth-visits-fox-friends/&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNG92EuG9-arzCMylCl_Lpt6KyiWjg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16412584</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jsonka</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:36-04:00</created-at>
+          <title>Haha, Rep. John Yarmuth Appeared On Faux</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Haha, Rep. John Yarmuth Appeared On Faux. July 2nd, 2012 by jake &#183; No Comments. John Yarmuth appeared on Bug Eyes &amp;amp; Nutcase the other day to talk about health care reform for the mouth-breathers: ...</excerpt>
+          <fti-names>'2012':17 '2nd':16 'appear':5,12,24 'breather':42 'bug':26 'care':36 'comment':21 'day':31 'eye':27 'faux':7,14 'haha':1,8 'health':35 'jake':19,43 'john':3,10,22 'juli':15 'mouth':41 'mouth-breath':40 'nutcas':28 'reform':37 'rep':2,9 'talk':33 'yarmuth':4,11,23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thevillevoice.com/2012/07/02/haha-rep-john-yarmuth-appeared-on-faux/&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG83tXKJHSq9FYI1JlR_xUUy8otpg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16412579</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-07-06T06:14:54-04:00</created-at>
+          <title>Kentucky leaders react to healthcare decision - wave3.com ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman John Yarmuth agrees with the Supreme Court&amp;#39;s decision while Senate Minority Leader Mitch McConnell disagrees.</excerpt>
+          <fti-names>'agre':11 'congressman':8 'court':15 'decis':6,17 'disagre':24 'healthcar':5 'heather':25 'john':9 'kentucki':1 'leader':2,21 'mcconnel':23 'minor':20 'mitch':22 'react':3 'senat':19 'smith':26 'suprem':14 'wave3.com':7 'yarmuth':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wave3.com/story/18907903/kentucky-leaders-react-to-healthcare-decision&amp;sa=U&amp;ei=i7r2T7HVCsK02gW0iOzVBg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGNfGzeZ02-bewEaZFbikJUIV91lg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16412585</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heather Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:33:28-04:00</created-at>
+          <title>Lawmakers ask more questions about agency spending | LA News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. John Yarmuth (D-Ky.) asked what GSA rules say about hiring mind readers to perform at conferences. &#8220;I&amp;#39;m not familiar with direct guidelines about mind readers,&#8221; Johnson replied. Ian.duncan@latimes.com. Source Article ...</excerpt>
+          <fti-names>'agenc':6 'articl':43 'ask':2,16 'confer':28 'd':14 'd-ki':13 'direct':34 'familiar':32 'gsa':18 'guidelin':35 'hire':22 'ian.duncan@latimes.com':41 'john':11 'johnson':39 'ky':15 'la':8 'latalkradio':44 'lawmak':1 'm':30 'mind':23,37 'news':9 'perform':26 'question':4 'reader':24,38 'rep':10 'repli':40 'rule':19 'say':20 'sourc':42 'spend':7 'yarmuth':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lanewstalk.com/%3Fp%3D5141&amp;sa=U&amp;ei=Z6mNT-CpGaaI8gGH4NiSBw&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNHM99oz0H_T5G2zbQhPw2N2Mr3peA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545100</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LATalkRadio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412211</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:33:29-04:00</created-at>
+          <title>The Rude Pundit, Eric Boehlert, &amp;amp; John Yarmuth Join Stephanie ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Rude Pundit calls in at 6:30am to talk about Ann Romney and the GOP&amp;#39;s War on Women Eric Boehlert, Senior Fellow at Media Matters for America, calls in at 7am to co-host Right Wing World Rep. John Yarmuth (D-KY) ...</excerpt>
+          <fti-names>'30am':17 '6':16 '7am':42 'am1090':56 'america':38 'ann':21 'boehlert':5,31 'call':13,39 'co':45 'co-host':44 'd':54 'd-ki':53 'eric':4,30 'fellow':33 'gop':25 'host':46 'john':6,51 'join':8 'ky':55 'matter':36 'media':35 'pundit':3,12 'rep':50 'right':47 'romney':22 'rude':2,11 'senior':32 'stephani':9 'talk':19 'war':27 'wing':48 'women':29 'world':49 'yarmuth':7,52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://seattle.cbslocal.com/2012/04/16/the-rude-pundit-eric-boehlert-john-yarmuth-join-stephanie-this-morning-on-the-stephanie-miller-show/&amp;sa=U&amp;ei=Z6mNT-CpGaaI8gGH4NiSBw&amp;ved=0CEwQmAEwCA&amp;usg=AFQjCNGXkW5-4xcGrI4okNfj1tG1-GEsFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14545105</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>am1090</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19763</page-views-count>
+      <unaccented-name>John Yarmuth</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

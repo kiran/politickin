@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.1800486618005</party-votes-percentage>
+        <abstains-percentage type="float">4.3630017452007</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">94</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">428</cosponsored-bills-passed-rank>
+        <abstains type="integer">75</abstains>
+        <cosponsored-bills type="integer">336</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">366</party-votes-percentage-rank>
+        <sponsored-bills type="integer">34</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412314</person-id>
+        <cosponsored-bills-rank type="integer">341</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">289</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1499</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">6145</blog-article-count>
+      <user-approval type="float">5.19230769230769</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">147</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/schock/contact-form.shtml</contact-webform>
+      <youtube-id>repaaronschock</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.1800486618005</with-party-percentage>
+      <lastname>Schock</lastname>
+      <bioguide-id>S001179</bioguide-id>
+      <fax>202-225-9249</fax>
+      <congress-office>328 Cannon House Office Building</congress-office>
+      <firstname>Aaron</firstname>
+      <website>http://schock.house.gov/</website>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412314</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-6201</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">455</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:29-04:00</created-at>
+          <title>Proposal seeks to make state less taxing on Olympic medalists</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...comes as GOP members of Congress are pushing a similar plan at the federal level. U.S. Sen. Marco Rubio of Florida and U.S. Rep. Aaron Schock of Peoria are among those backing the Olympic Tax Elimination Act, which would apply to athletes of the 2012 Su</excerpt>
+          <fti-names>'2012':55 'aaron':35 'act':47 'among':40 'appli':50 'athlet':52 'back':42 'come':11 'congress':16 'elimin':46 'feder':24 'florida':31 'gop':13 'herald':57 'less':6 'level':25 'make':4 'marco':28 'medalist':10 'member':14 'olymp':9,44 'peoria':38 'plan':21 'propos':1 'push':18 'rep':34 'review':58 'rubio':29 'schock':36 'seek':2 'sen':27 'similar':20 'state':5 'su':56 'tax':7,45 'u.s':26,33 'would':49</fti-names>
+          <source-url>http://www.herald-review.com/</source-url>
+          <url>http://herald-review.com/business/local/proposal-seeks-to-make-state-less-taxing-on-olympic-medalists/article_6cc07e66-e057-11e1-97e0-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973580</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Herald &amp; Review</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:28-04:00</created-at>
+          <title>Obama supports Olympic medal tax reprieve</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...election year. It seems that in an Olympic year, however, he won&#8217;t risk blocking the effort to give U.S. athletes a break. Rep. Aaron Schock, R-Ill., introduced legislation last week that would amend the tax code to make an exception for Olympic medal</excerpt>
+          <fti-names>'aaron':31 'amend':42 'athlet':27 'block':21 'break':29 'code':45 'daili':54 'effort':23 'elect':7 'except':49 'give':25 'herald':55 'howev':16 'ill':35 'introduc':36 'last':38 'legisl':37 'make':47 'medal':4,52 'morri':53 'obama':1 'olymp':3,14,51 'r':34 'r-ill':33 'rep':30 'repriev':6 'risk':20 'schock':32 'seem':10 'support':2 'tax':5,44 'u.s':26 'week':39 'won':18 'would':41 'year':8,15</fti-names>
+          <source-url>http://www.morrisdailyherald.com/</source-url>
+          <url>http://www.morrisdailyherald.com/2012/08/07/obama-supports-olympic-medal-tax-reprieve/ar2jr1x/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973579</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Morris Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:29-04:00</created-at>
+          <title>Politicians use tax break to vault onto Olympic podium: 200 wiseguy words</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...of $25,000 to gold medal winners, $15,000 for silvers and $10,000 for bronze. This week, Sen. Marco Rubio, R-Fla., and Rep. Aaron Schock, R-Ill., introduced bills to exempt the awards from income taxes, and President Obama -- unwilling to be left off th</excerpt>
+          <fti-names>'000':15,21,26 '10':25 '15':20 '200':10 '25':14 'aaron':39 'award':49 'bill':45 'break':4 'bronz':28 'exempt':47 'fla':36 'gold':17 'ill':43 'incom':51 'introduc':44 'left':59 'live':63 'marco':32 'medal':18 'obama':55 'olymp':8 'onto':7 'oregon':62 'podium':9 'politician':1 'presid':54 'r':35,42 'r-fla':34 'r-ill':41 'rep':38 'rubio':33 'schock':40 'sen':31 'silver':23 'tax':3,52 'th':61 'unwil':56 'use':2 'vault':6 'week':30 'winner':19 'wiseguy':11 'word':12</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/news/oregonian/david_sarasohn/index.ssf/2012/08/politicians_use_tax_break_to_v.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973581</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:26-04:00</created-at>
+          <title>Obama supports Olympic medal tax reprieve</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...year. It seems that in an Olympic year, however, he won't risk blocking the effort to give U.S. athletes a break. Rep. Aaron Schock, R-Ill., introduced legislation last week that would amend the tax code to make an exception for Olympic medals and bonus</excerpt>
+          <fti-names>'aaron':30 'amend':41 'athlet':26 'block':20 'bonus':53 'break':28 'code':44 'effort':22 'except':48 'give':24 'herald':55 'howev':15 'ill':34 'introduc':35 'last':37 'legisl':36 'make':46 'medal':4,51 'miami':54 'obama':1 'olymp':3,13,50 'r':33 'r-ill':32 'rep':29 'repriev':6 'risk':19 'schock':31 'seem':9 'support':2 'tax':5,43 'u.s':25 'week':38 'won':17 'would':40 'year':7,14</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/08/06/2935982/obama-supports-olympic-medal-tax.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972983</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:04:26-04:00</created-at>
+          <title>Bill Would Create More Training Slots for New Doctors</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Shortage Reduction and Graduate Medical Education Accountability and Transparency Act (HR 6352), is sponsored by Rep. Aaron Schock, an Illinois Republican, and Rep. Allyson Schwartz, a Pennsylvania Democrat. Medical schools have been expanding their enr</excerpt>
+          <fti-names>'6352':21 'aaron':26 'account':16 'act':19 'allyson':33 'bill':1 'chronicl':45 'creat':3 'democrat':37 'doctor':9 'educ':15,48 'enr':44 'expand':42 'graduat':13 'higher':47 'hr':20 'illinoi':29 'medic':14,38 'new':8 'pennsylvania':36 'reduct':11 'rep':25,32 'republican':30 'schock':27 'school':39 'schwartz':34 'shortag':10 'slot':6 'sponsor':23 'train':5 'transpar':18 'would':2</fti-names>
+          <source-url>http://chronicle.com/</source-url>
+          <url>http://chronicle.com/article/Bill-Would-Create-More/133399/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972982</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chronicle of Higher Education</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:03:42-04:00</created-at>
+          <title>Editorial: We love you, Olympians!</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...train with coach Liang Chow is &quot;America's sweetheart.&quot; So it's understandable that some Olympics enthusiasts, including Rep. Aaron Schock of Illinois and Sen. Marco Rubio of Florida, find it appalling that she and other Olympic champions have to pay tax</excerpt>
+          <fti-names>'aaron':25 'america':12 'appal':37 'champion':43 'chicago':48 'chow':10 'coach':8 'editori':1 'enthusiast':22 'find':35 'florida':34 'illinoi':28 'includ':23 'liang':9 'love':3 'marco':31 'olymp':21,42 'olympian':5 'pay':46 'rep':24 'rubio':32 'schock':26 'sen':30 'sweetheart':14 'tax':47 'train':6 'tribun':49 'understand':18</fti-names>
+          <source-url>http://www.chicagotribune.com/</source-url>
+          <url>http://feeds.chicagotribune.com/~r/chicagotribune/opinion/~3/eQiF4l1lf3M/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972261</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:03:40-04:00</created-at>
+          <title>Congress makes bipartisan effort to exempt Olympians from taxes on winning medals</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Among the other lawmakers filing bills to make Olympians exempt from the taxes are GOP Florida Sen. Macro Rubio and Reps. Aaron Schock, R-Ill., Mary Bono Mack, R-Calif., and G.K. Butterfield, D-N.C. &quot;Athletes representing our nation overseas in the Olym</excerpt>
+          <fti-names>'aaron':34 'among':13 'athlet':52 'bill':18 'bipartisan':3 'bono':40 'butterfield':47 'c':51 'calif':44 'congress':1 'd':49 'd-n':48 'effort':4 'exempt':6,22 'file':17 'florida':28 'fox':60 'g.k':46 'gop':27 'ill':38 'lawmak':16 'mack':41 'macro':30 'make':2,20 'mari':39 'medal':12 'n':50 'nation':55 'news':61 'olym':59 'olympian':7,21 'oversea':56 'r':37,43 'r-calif':42 'r-ill':36 'rep':33 'repres':53 'rubio':31 'schock':35 'sen':29 'tax':9,25 'win':11</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/foxnews/politics/~3/q5vkyz7TRpI/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972260</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:15:16-04:00</created-at>
+          <title>What&#8217;s the tax bite on an Olympic medal?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Jan. 1, 2012, which exempts U.S. medal winners from paying taxes on &#8220;any prize or award&#8221; won in any Olympic competition; Rep. Aaron Schock sponsored the House version. &#8220;Our tax code is a complicated and burdensome mess that too often punishes succ</excerpt>
+          <fti-names>'1':11 '2012':12 'aaron':32 'award':25 'bite':5 'burdensom':45 'code':40 'competit':30 'complic':43 'exempt':14 'hous':36 'jan':10 'medal':9,16 'mess':46 'often':49 'olymp':8,29 'pay':19 'post':54 'prize':23 'punish':50 'rep':31 'schock':33 'sponsor':34 'succ':51 'tax':4,20,39 'u.s':15 'version':37 'washington':53 'winner':17 'won':26</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=db29890a8bad3a6e7f3766d2037b75e3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970938</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:28-04:00</created-at>
+          <title>Straw poll: GOP delegates want Rubio as veep</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...potential candidates Sen. Matt Murphy, Sen. Dan Duffy Duffy, Treasurer Dan Rutherford, Sen. Kirk Dillard, and Congressman Aaron Schock), pension reform and gay marriage. Stay tuned. 2 Comments &#187; Post your comment... And please take a half second to com</excerpt>
+          <fti-names>'2':35 'aaron':26 'blog':50 'candid':10 'capitol':48 'com':47 'comment':36,39 'congressman':25 'dan':15,19 'deleg':4 'dillard':23 'duffi':16,17 'fax':49 'gay':31 'gop':3 'half':44 'kirk':22 'marriag':32 'matt':12 'murphi':13 'pension':28 'pleas':41 'poll':2 'post':37 'potenti':9 'reform':29 'rubio':6 'rutherford':20 'schock':27 'second':45 'sen':11,14,21 'stay':33 'straw':1 'take':42 'treasur':18 'tune':34 'veep':8 'want':5</fti-names>
+          <source-url>http://thecapitolfaxblog.com/</source-url>
+          <url>http://capitolfax.com/2012/08/01/straw-poll-gop-delegates-want-rubio-as-veep/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969977</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capitol Fax Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:28-04:00</created-at>
+          <title>Chelsea Clinton to chat with George P. Bush, Michelle Rhee at Conventions</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the Next Generation,&quot; bringing together a bunch of young political types. In Tampa, Clinton will talk with George P. Bush, Rep. Aaron Schock, R-Ill., and Lisa Stickan, Chairman of the Young Republicans National Federation. In Charlotte, actor and former</excerpt>
+          <fti-names>'aaron':34 'actor':51 'bring':16 'bunch':19 'bush':8,32 'chairman':42 'charlott':50 'chat':4 'chelsea':1 'clinton':2,26 'convent':12 'examin':55 'feder':48 'former':53 'generat':15 'georg':6,30 'ill':38 'lisa':40 'michell':9 'nation':47 'next':14 'p':7,31 'polit':22 'r':37 'r-ill':36 'rep':33 'republican':46 'rhee':10 'schock':35 'stickan':41 'talk':28 'tampa':25 'togeth':17 'type':23 'washington':54 'young':21,45</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/chelsea-clinton-to-chat-with-george-p.-bush-michelle-rhee-at-conventions/article/2503734?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969976</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Aaron Schock [R, IL-18]</name>
+      <total-session-votes type="integer">1644</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>18</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:45:16-04:00</created-at>
+          <title>Aaron Schock&amp;#39;s social calendar: Not so hot &#8211; Washington Examiner ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Aaron Schock&amp;#39;s social calendar: Not so hot. Washington Examiner The many fans of Rep. Aaron Schock, R-Ill. &#8212; and he does have many, whether they be admirers of his ability to get legislation passed or his abs &#8212; might be ...</excerpt>
+          <fti-names>'aaron':1,11,26 'ab':49 'abil':42 'admin':52 'admir':39 'calendar':5,15 'examin':10,20 'fan':23 'get':44 'hot':8,18 'ill':30 'legisl':45 'mani':22,35 'might':50 'pass':46 'r':29 'r-ill':28 'rep':25 'schock':2,12,27 'social':4,14 'washington':9,19 'whether':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/il-moc/aaron-schock-illinois-representative/aaron-schocks-social-calendar-not-so-hot-washington-examiner/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Daaron-schocks-social-calendar-not-so-hot-washington-examiner&amp;sa=U&amp;ei=BuoUUMKBPce80QHmy4GICw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHy-3HcSA7kfZcZENwRGMfEPiC_qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931045</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:30:48-04:00</created-at>
+          <title>Schock Fights to Prevent Tax Hike &#171; CW Notes</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, DC &#8211; Congressman Aaron Schock (R-IL) issued a statement in support of H.R. 8, the Job Protection and Recession Prevention Act and H.R. 6169, the Pathway to Job Creation through a Simpler, Fairer Tax Code ...</excerpt>
+          <fti-names>'6169':34 '8':24 'aaron':12 'act':31 'adlof':47 'code':45 'congressman':11 'creation':39 'cw':7 'dc':10 'debbi':46 'fairer':43 'fight':2 'h.r':23,33 'hike':6 'il':16 'issu':17 'job':26,38 'note':8 'pathway':36 'prevent':4,30 'protect':27 'r':15 'r-il':14 'recess':29 'schock':1,13 'simpler':42 'statement':19 'support':21 'tax':5,44 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecommunityword.com/online/cwnotes/2012/07/27/schock-fights-to-prevent-tax-hike/&amp;sa=U&amp;ei=51wTUOGgKo6g8gS30oGgAg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFXnbnfxX5cKYuGxTIbTOtkHtSpZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923686</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Debbie Adlof</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:53:02-04:00</created-at>
+          <title>Aaron Schock&amp;#39;s social calendar: Not so hot | WashingtonExaminer.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The many fans of Rep. Aaron Schock, R-Ill. -- and he does have many, whether they be admirers of his ability to get legislation passed or his abs -- might be disappointed to learn what the youngest member of Congress does ...</excerpt>
+          <fti-names>'aaron':1,15 'ab':38 'abil':31 'admir':28 'calendar':5 'congress':49 'disappoint':41 'fan':12 'get':33 'hot':8 'ill':19 'learn':43 'legisl':34 'mani':11,24 'member':47 'might':39 'pass':35 'r':18 'r-ill':17 'rep':14 'schock':2,16 'social':4 'washingtonexaminer.com':9,51 'whether':25 'youngest':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtonexaminer.com/aaron-schocks-social-calendar-not-so-hot/article/2503147&amp;sa=U&amp;ei=fFkWUNHGM4jm9ATVkoHwAQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHCJ3oOvbSqOLgyHmrx7Ihd8AsnfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16950104</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://washingtonexaminer.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:45:12-04:00</created-at>
+          <title>Aaron Schock&amp;#39;s social calendar: Not so hot | WashingtonExaminer.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The many fans of Rep. Aaron Schock, R-Ill. -- and he does have many, whether they be admirers of his ability to get legislation passed or his abs -- might be disappointed to learn what the youngest member of Congress does ...</excerpt>
+          <fti-names>'aaron':1,15 'ab':38 'abil':31 'admir':28 'calendar':5 'congress':49 'disappoint':41 'fan':12 'get':33 'hot':8 'ill':19 'learn':43 'legisl':34 'mani':11,24 'member':47 'might':39 'pass':35 'r':18 'r-ill':17 'rep':14 'schock':2,16 'social':4 'washingtonexaminer.com':9,51 'whether':25 'youngest':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtonexaminer.com/aaron-schocks-social-calendar-not-so-hot/article/2503147&amp;sa=U&amp;ei=BuoUUMKBPce80QHmy4GICw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNF4-AkM-3EHPWmJsaayV5ryNAF0VA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16931044</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://washingtonexaminer.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:00:35-04:00</created-at>
+          <title>Veterans Research - News | RiverBender.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>New research could help returning Gulf War veterans who complain of various aches, pains, and anxieties. U. S. Rep. Aaron Schock (R-Peoria) says the r.</excerpt>
+          <fti-names>'/news/':34 'aaron':24 'ach':17 'anxieti':20 'complain':14 'could':7 'gulf':10 'help':8 'new':5 'news':3 'pain':18 'peoria':28 'r':27,31 'r-peoria':26 'rep':23 'research':2,6 'return':9 'riverbender.com':4 'say':29 'schock':25 'u':21 'various':16 'veteran':1,12 'war':11 'www.riverbender.com':33 'www.riverbender.com/news':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.riverbender.com/news/details.cfm%3Fid%3D40406&amp;sa=U&amp;ei=ZCASUOSxBsTC6wH42YGgAw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNET_DSfJ5dBT3cBJC0EWyfVrEkeng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892787</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.riverbender.com/news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:00:34-04:00</created-at>
+          <title>Schock: It&amp;#39;s time to audit the Federal Reserve - Illinois Review</title>
+          <contains-term>congress</contains-term>
+          <excerpt>By Congressman Aaron Schock - On Wednesday, the House will vote on and pass legislation by Congressman Ron Paul (TX) to audit the Federal Reserve. I cosponsored this needed bill which takes the necessary steps to ...</excerpt>
+          <fti-names>'aaron':14 'audit':6,32 'bill':40 'congressman':13,27 'cosponsor':37 'feder':8,34 'hous':19 'illinoi':10 'ir':47 'legisl':25 'necessari':44 'need':39 'pass':24 'paul':29 'reserv':9,35 'review':11 'ron':28 'schock':1,15 'step':45 'take':42 'time':4 'tx':30 'vote':21 'wednesday':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://illinoisreview.typepad.com/illinoisreview/2012/07/schock-its-time-to-audit-the-federal-reserve.html&amp;sa=U&amp;ei=ZCASUOSxBsTC6wH42YGgAw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEnHZltv7BAXP_7zRYJ4C5wKLXMwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892786</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>IR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:30:49-04:00</created-at>
+          <title>Veterans Research - News | RiverBender.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>New research could help returning Gulf War veterans who complain of various aches, pains, and anxieties. U. S. Rep. Aaron Schock (R-Peoria) says the r.</excerpt>
+          <fti-names>'/news/':34 'aaron':24 'ach':17 'anxieti':20 'complain':14 'could':7 'gulf':10 'help':8 'new':5 'news':3 'pain':18 'peoria':28 'r':27,31 'r-peoria':26 'rep':23 'research':2,6 'return':9 'riverbender.com':4 'say':29 'schock':25 'u':21 'various':16 'veteran':1,12 'war':11 'www.riverbender.com':33 'www.riverbender.com/news':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.riverbender.com/news/details.cfm%3Fid%3D40406&amp;sa=U&amp;ei=51wTUOGgKo6g8gS30oGgAg&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNEvmcvydKrX8mLu5QXjrobn9O7Awg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923693</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.riverbender.com/news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:30:49-04:00</created-at>
+          <title>Schock: It&amp;#39;s time to audit the Federal Reserve - Illinois Review</title>
+          <contains-term>congress</contains-term>
+          <excerpt>By Congressman Aaron Schock - On Wednesday, the House will vote on and pass legislation by Congressman Ron Paul (TX) to audit the Federal Reserve. I cosponsored this needed bill which takes the necessary steps to ...</excerpt>
+          <fti-names>'aaron':14 'audit':6,32 'bill':40 'congressman':13,27 'cosponsor':37 'feder':8,34 'hous':19 'illinoi':10 'ir':47 'legisl':25 'necessari':44 'need':39 'pass':24 'paul':29 'reserv':9,35 'review':11 'ron':28 'schock':1,15 'step':45 'take':42 'time':4 'tx':30 'vote':21 'wednesday':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://illinoisreview.typepad.com/illinoisreview/2012/07/schock-its-time-to-audit-the-federal-reserve.html&amp;sa=U&amp;ei=51wTUOGgKo6g8gS30oGgAg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGUEQ0AkjqGz84Mh1REfjW7JQ0m0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923692</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>IR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:29:03-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=htUQUKmFEq-q0AHp2YCgBg&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGxpAfCBx4BeK2mjpdbGYl1EpdkyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860591</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412314</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:29:02-04:00</created-at>
+          <title>McCollum legislation fights child marriage</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Washington, DC &#8211;Congresswoman Betty McCollum (D-MN) and Congressman Aaron Schock (R-IL) have once again introduced legislation to stem the devastating impact of child marriage on young girls in developing ...</excerpt>
+          <fti-names>'aaron':16 'betti':9 'child':4,32 'congressman':15 'congresswoman':8 'd':12 'd-mn':11 'dc':7 'devast':29 'develop':38 'fight':3 'girl':36 'il':20 'impact':30 'introduc':24 'legisl':2,25 'life':41 'm':40 'm-life':39 'marriag':5,33 'mccollum':1,10 'mn':13 'r':19 'r-il':18 'schock':17 'stem':27 'washington':6 'young':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://multiculturallife.org/%3Fp%3D11683&amp;sa=U&amp;ei=htUQUKmFEq-q0AHp2YCgBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNH6Lbf-wwDsJnc7QQF05MAVx3mlVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860589</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>M-Life</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">17985</page-views-count>
+      <unaccented-name>Aaron Schock</unaccented-name>
+      <oc-user-comments type="integer">12</oc-user-comments>
+    </person>
+  </people>
+</hash>

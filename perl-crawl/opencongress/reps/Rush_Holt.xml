@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.447691408533</party-votes-percentage>
+        <abstains-percentage type="float">0.465386852821408</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">312</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">8</abstains>
+        <cosponsored-bills type="integer">432</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">62</party-votes-percentage-rank>
+        <sponsored-bills type="integer">36</sponsored-bills>
+        <votes-least-often-with-id type="integer">412431</votes-least-often-with-id>
+        <person-id type="integer">400184</person-id>
+        <cosponsored-bills-rank type="integer">14</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">27</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">337</votes-republican-position>
+      <fax>202-225-6025</fax>
+      <blog-article-count type="integer">9124</blog-article-count>
+      <user-approval type="float">3.75</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">170</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.holt.house.gov/contact.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.447691408533</with-party-percentage>
+      <lastname>Holt</lastname>
+      <middlename>Dew</middlename>
+      <bioguide-id>H001032</bioguide-id>
+      <congress-office>1214 Longworth House Office Building</congress-office>
+      <firstname>Rush</firstname>
+      <website>http://holt.house.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1948-10-15</birthday>
+      <person-id type="integer">400184</person-id>
+      <phone>202-225-5801</phone>
+      <religion>Protestant</religion>
+      <votes-democratic-position type="integer">1616</votes-democratic-position>
+      <metavid-id>Rush_D._Holt</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:49:54-04:00</created-at>
+          <title>Bill would help rehab Main Street historic buildings</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...alone, this credit leveraged $32 million in private investment in the rehabilitation of New Jerseys historic buildings. Rep. Rush Holt recently co-sponsored the Creating American Prosperity through Preservation (CAPP) Act. This new bipartisan legislatio</excerpt>
+          <fti-names>'32':13 'act':40 'alon':9 'american':35 'bill':1 'bipartisan':43 'build':8,25 'capp':39 'co':31 'co-sponsor':30 'creat':34 'credit':11 'help':3 'histor':7,24 'holt':28 'invest':17 'jersey':23 'legislatio':44 'leverag':12 'main':5 'million':14 'mycentraljersey.com':45 'new':22,42 'preserv':38 'privat':16 'prosper':36 'recent':29 'rehab':4 'rehabilit':20 'rep':26 'rush':27 'sponsor':32 'street':6 'would':2</fti-names>
+          <source-url>http://www.mycentraljersey.com/</source-url>
+          <url>http://www.mycentraljersey.com/article/20120806/NJOPINION0202/308060003/1059/RSS08</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972837</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MyCentralJersey.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:45:43-04:00</created-at>
+          <title>Subpoenas approved in drilling flap</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Democrats said the focus should instead be on getting the CEOs of the companies involved in the Gulf spill to testify. Rep. Rush Holt (D-N.J.) said the panel&#8217;s subpoenas are just meant to &#8220;embarrass&#8221; the Obama administration. &#8220;It&#8217;s not to get </excerpt>
+          <fti-names>'administr':46 'approv':2 'ceo':16 'compani':19 'd':31 'd-n':30 'democrat':6 'drill':4 'embarrass':43 'flap':5 'focus':9 'get':14,51 'gulf':23 'holt':29 'instead':11 'involv':20 'j':33 'meant':41 'n':32 'obama':45 'panel':36 'politico':53 'rep':27 'rush':28 'said':7,34 'spill':24 'subpoena':1,38 'testifi':26</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=ef08c30dbd7ac2524af01be2d4bc7302</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970683</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:45:29-04:00</created-at>
+          <title>House panel, Interior IG square off over oil drilling report</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...nefarious here. It's simply that the majority did not like the conclusion and they want to discredit the report,&quot; said Rep. Rush Holt, D-N.J. The panel's ranking Democrat, Rep. Edward Markey of Massachusetts, accused Republicans of wasting committee tim</excerpt>
+          <fti-names>'abc':55 'accus':49 'committe':53 'conclus':23 'd':36 'd-n':35 'democrat':43 'discredit':28 'drill':9 'edward':45 'holt':34 'hous':1 'ig':4 'interior':3 'j':38 'like':21 'major':18 'markey':46 'massachusett':48 'n':37 'nefari':11 'news':56 'oil':8 'panel':2,40 'rank':42 'rep':32,44 'report':10,30 'republican':50 'rush':33 'said':31 'simpli':15 'squar':5 'tim':54 'want':26 'wast':52</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/house-panel-interior-ig-square-off-oil-drilling/story?id=16914541</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970682</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:48:05-04:00</created-at>
+          <title>Earth to Mars to the moons of Saturn</title>
+          <contains-term>congress</contains-term>
+          <excerpt>And then &#8230; &#8220;If they find microbes, we&#8217;re going back to Mars,&#8221; said Rush Holt, our congressman from the 12th district and the only nuclear physicist in the United States Congress. &#8220;It&#8217;s not going to be immediate, no &#8216;eureka!&#8217;</excerpt>
+          <fti-names>'12th':28 'back':18 'congress':39 'congressman':25 'district':29 'earth':1 'eureka':48 'find':13 'go':17,43 'holt':23 'immedi':46 'mar':3,20 'microb':14 'moon':6 'nuclear':33 'physicist':34 're':16 'rush':22 'said':21 'saturn':8 'state':38 'trentonian':49 'unit':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.trentonian.com/article/20120731/OPINION03/120739931/earth-to-mars-to-the-moons-of-saturn</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T20:53:01-04:00</date>
+          <id type="integer">16966638</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Trentonian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:01:49-04:00</created-at>
+          <title>Much Ado About Nothing ?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Several Democrats joined her adding that Republican claims of voter fraud were baseless. Rep. Rush Holt (D-N.J.) said &quot;There is no threat of voter fraud. Are there rampant cases of impersonation, voting ass someone else? No. Voter fraud is not ...</excerpt>
+          <fti-names>'ad':9 'ado':2 'ass':40 'baseless':17 'case':36 'claim':12 'd':22 'd-n':21 'democrat':6 'els':42 'examin':48 'fraud':15,32,45 'holt':20 'imperson':38 'j':24 'join':7 'much':1 'n':23 'noth':4 'rampant':35 'rep':18 'republican':11 'rush':19 'said':25 'sever':5 'someon':41 'threat':29 'vote':39 'voter':14,31,44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/much-ado-about-nothing-1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T18:09:33-04:00</date>
+          <id type="integer">16960574</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:14:16-04:00</created-at>
+          <title>Opinion: Creating American Prosperity through Preservation Act deserves support</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Thanks to Rep. Rush Holt (D-Hopewell), this proven tool for economic revitalization may get a much-needed boost. Rep. Holt recently co-sponsored the Creating American Prosperity through Preservation (CAPP) Act (HR2479/S2074). This new bipartisan ...</excerpt>
+          <fti-names>'act':7,44 'american':3,39 'bipartisan':48 'boost':30 'capp':43 'co':35 'co-sponsor':34 'creat':2,38 'd':16 'd-hopewel':15 'deserv':8 'econom':22 'get':25 'holt':14,32 'hopewel':17 'hr2479/s2074':45 'may':24 'much':28 'much-need':27 'need':29 'new':47 'nj.com':49 'opinion':1 'preserv':6,42 'prosper':4,40 'proven':19 'recent':33 'rep':12,31 'revit':23 'rush':13 'sponsor':36 'support':9 'thank':10 'tool':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nj.com/times-opinion/index.ssf/2012/07/opinion_creating_american_pros.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T07:27:41-04:00</date>
+          <id type="integer">16929843</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:02:04-04:00</created-at>
+          <title>Bill creates new incentives to rehab urban structures</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...alone, this credit leveraged $32 million in private investment in the rehabilitation of New Jersey&#194;s historic buildings. Rep. Rush Holt recently co-sponsored the Creating American Prosperity through Preservation (CAPP) Act. This new bipartisan legislat</excerpt>
+          <fti-names>'32':13 'act':40 'alon':9 'american':35 'asburi':45 'bill':1 'bipartisan':43 'build':25 'capp':39 'co':31 'co-sponsor':30 'creat':2,34 'credit':11 'histor':24 'holt':28 'incent':4 'invest':17 'jersey&#226;':23 'legislat':44 'leverag':12 'million':14 'new':3,22,42 'park':46 'preserv':38 'press':47 'privat':16 'prosper':36 'recent':29 'rehab':6 'rehabilit':20 'rep':26 'rush':27 'sponsor':32 'structur':8 'urban':7</fti-names>
+          <source-url>http://www.app.com/</source-url>
+          <url>http://www.app.com/article/20120730/NJOPINION02/307300005/1028/rss11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960583</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Asbury Park Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:14:30-04:00</created-at>
+          <title>House Hearing on Helium Supply</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;We may be heading for a crisis in many industries if we don&#8217;t face up to this issue&#8221; warned Rep. Rush Holt (D-NJ), Ranking Member on the House Energy and Mineral Resources Subcommittee at a July 20 hearing on the nation&#8217;s helium supply. Holt&#8217;s .</excerpt>
+          <fti-names>'20':45 'american':55 'crisi':12 'd':30 'd-nj':29 'energi':37 'face':20 'head':9 'hear':2,46 'helium':4,51 'holt':28,53 'hous':1,36 'industri':15 'institut':56 'issu':24 'juli':44 'mani':14 'may':7 'member':33 'miner':39 'nation':49 'nj':31 'physic':58 'rank':32 'rep':26 'resourc':40 'rush':27 'subcommitte':41 'suppli':5,52 'warn':25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.aip.org/fyi/2012/105.html?source=rssfyi</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T15:28:28-04:00</date>
+          <id type="integer">16929844</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AMERICAN INSTITUTE OF PHYSICS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:02:20-04:00</created-at>
+          <title>U.S. Congressional Rep. Rush Holt to Speak at ETS on Monday, July 30 to Discuss Issues of Concern for N.J. Residents</title>
+          <contains-term>congress</contains-term>
+          <excerpt>PRINCETON, N.J., July 27, 2012 /PRNewswire-USNewswire/ -- On Monday, July 30, Educational Testing Service (ETS) is hosting U.S. Rep. Rush Holt (D-NJ) for an ETS employee Town Hall Meeting to hear from his constituents and provide updates on pertinent ...</excerpt>
+          <fti-names>'/prnewswire-usnewswire':27 '2012':26 '27':25 '30':13,31 'concern':18 'congression':2 'constitu':56 'd':43 'd-nj':42 'discuss':15 'educ':32 'employe':48 'et':9,35,47 'hall':50 'hear':53 'holt':5,41 'host':37 'issu':16 'juli':12,24,30 'meet':51 'monday':11,29 'n.j':20,23 'nj':44 'pertin':61 'princeton':22 'provid':58 'rep':3,39 'resid':21 'rush':4,40 'servic':34 'speak':7 'test':33 'town':49 'u.s':1,38 'updat':59 'yahoo':62</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://news.yahoo.com/u-congressional-rep-rush-holt-speak-ets-monday-162300911.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T12:22:21-04:00</date>
+          <id type="integer">16921654</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>YAHOO!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:02:21-04:00</created-at>
+          <title>PolitiFact N.J.: Rush Holt says more than 80 Americans die each day from gunfire</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Following a deadly mass shooting in a Colorado movie theater, U.S. Rep. Rush Holt said dozens of people die every day from gunfire in the United States. &quot;As we watch the news from Colorado with horror and sympathy for the families, we should ...</excerpt>
+          <fti-names>'80':8 'american':9 'colorado':22,48 'day':12,35 'dead':17 'die':10,33 'dozen':30 'everi':34 'famili':55 'follow':15 'gunfir':14,37 'holt':4,28 'horror':50 'mass':18 'movi':23 'n.j':2 'news':46 'nj.com':58 'peopl':32 'politifact':1 'rep':26 'rush':3,27 'said':29 'say':5 'shoot':19 'state':41 'sympathi':52 'theater':24 'u.s':25 'unit':40 'watch':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nj.com/news/index.ssf/2012/07/rush_holt_guns.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:28:52-04:00</date>
+          <id type="integer">16921655</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Rush Holt [D, NJ-12]</name>
+      <total-session-votes type="integer">1711</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RushHolt</youtube-id>
+      <district>12</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:35:41-04:00</created-at>
+          <title>Rush Holt at Pennington Day | Lawrence Hopewell Trail</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Michael Gray and Rep. Rush HoltRep. Rush Holt staffed the LH Trail booth for a few moments to answer questions and show his support during Pennington Day May.</excerpt>
+          <fti-names>'answer':27 'booth':21 'ciestroud':37 'day':5,35 'gray':10 'holt':2,16 'holtrep':14 'hopewel':7 'lawrenc':6 'lh':19 'may':36 'michael':9 'moment':25 'pennington':4,34 'question':28 'rep':12 'rush':1,13,15 'show':30 'staf':17 'support':32 'trail':8,20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lhtrail.org/2012/07/rush-holt-at-pennington-day/&amp;sa=U&amp;ei=id0EUOr0POKC2AWnteCjBQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGs6YRt2f7HcBhY7jBfuM6e_nIIjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16677716</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ciestroud</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:35:43-04:00</created-at>
+          <title>Ask Your Member of Congress to Stand with House Colleagues in ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Fortunately, three members of Congress&#8212;Rep. Maurice Hinchey (D-NY), Rep. Rush Holt (D-NJ) and Rep. Raul Grijalva (D-AZ)&#8212;recognize that Utah&amp;#39;s actions are an affront to all Americans and are urging Interior Secretary ...</excerpt>
+          <fti-names>'action':40 'affront':43 'american':46 'ask':1 'az':35 'beasley':53 'colleagu':10 'congress':5,16 'd':21,27,34 'd-az':33 'd-ni':20 'd-nj':26 'fortun':12 'grijalva':32 'hinchey':19 'holt':25 'hous':9 'interior':50 'jen':52 'mauric':18 'member':3,14 'nj':28 'ny':22 'raul':31 'recogn':36 'rep':17,23,30 'rush':24 'secretari':51 'stand':7 'three':13 'urg':49 'utah':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.suwa.org/2012/07/10/ask-your-member-of-congress-to-stand-with-house-colleagues-in-defense-of-the-redrock/&amp;sa=U&amp;ei=id0EUOr0POKC2AWnteCjBQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFshzKW2jXMmo28tYv6FkONEbthlg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16677725</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jen Beasley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:35:43-04:00</created-at>
+          <title>At Trenton Thunder ballpark, Rep. Rush Holt welcomes 29 new U.S. ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>At Trenton Thunder ballpark, Rep. Rush Holt welcomes 29 new U.S. citizens. via nj.com &amp;middot; Tweet. Posted July 10, 2012 &amp;middot; Steve Ayscue. Recommended news and commentary from Steve Ayscue, one of NJ&amp;#39;s top political and corporate strategists ...</excerpt>
+          <fti-names>'10':29 '2012':30 '29':9,20 'ayscu':32,39 'ballpark':4,15 'citizen':23 'commentari':36 'corpor':47 'holt':7,18 'juli':28 'new':10,21 'news':34 'nj':42 'nj.com':25 'one':40 'polit':45 'post':27 'recommend':33 'rep':5,16 'rush':6,17 'steve':31,38 'strategist':48 'thunder':3,14 'top':44 'trenton':2,13 'tweet':26 'u.s':11,22 'via':24 'welcom':8,19 'www.njhiredgun.com':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.njhiredgun.com/at-trenton-thunder-ballpark-rep-rush-holt-wel&amp;sa=U&amp;ei=id0EUOr0POKC2AWnteCjBQ&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFlq_BXiiS6KDkJOJum6nsplJnOtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16677723</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.njhiredgun.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:35:39-04:00</created-at>
+          <title>Letter from U.S. Rep. Rush Holt: Families of Volunteer Emergency ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Last August, the Princeton First Aid and Rescue Squad was called to investigate a vehicle submerged in raging floodwaters from Tropical Storm Irene. Following good rescue procedure, Michael Kenwood, a 39-year-old ...</excerpt>
+          <fti-names>'39':41 'aid':16 'august':12 'call':21 'emerg':10 'famili':7 'first':15 'floodwat':29 'follow':34 'good':35 'holt':6 'investig':23 'iren':33 'kenwood':39 'knapp':46 'krystal':45 'last':11 'letter':1 'michael':38 'old':44 'princeton':14 'procedur':37 'rage':28 'rep':4 'rescu':18,36 'rush':5 'squad':19 'storm':32 'submerg':26 'tropic':31 'u.s':3 'vehicl':25 'volunt':9 'year':43 'year-old':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://planetprinceton.com/2012/07/07/letter-from-u-s-rep-rush-holt-families-of-volunteer-emergency-workers-should-be-able-to-receive-death-benefits/&amp;sa=U&amp;ei=id0EUOr0POKC2AWnteCjBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGmEcTZgYWD08CWn_EuFnQ49SKDLQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16677715</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Krystal Knapp</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:35:42-04:00</created-at>
+          <title>MiddletownMike: Congressman Rush Holt: What Comes Next?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From the E-Newsletter of Congressman Rush Holt: Earlier this week, the Supreme Court upheld the health reform law, bringing us closer to the day when every American will have access to excellent, affordable health care.</excerpt>
+          <fti-names>'access':39 'afford':42 'american':36 'bring':28 'care':44 'closer':30 'come':6 'congressman':2,14 'court':22 'day':33 'e':11 'e-newslett':10 'earlier':17 'everi':35 'excel':41 'health':25,43 'holt':4,16 'law':27 'middletown':45 'middletownmik':1 'mike':46 'newslett':12 'next':7 'reform':26 'rush':3,15 'suprem':21 'upheld':23 'us':29 'week':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://middletownmike.blogspot.com/2012/06/congressman-rush-holt-what-comes-next.html&amp;sa=U&amp;ei=id0EUOr0POKC2AWnteCjBQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFjxHkSXhIM-O_pSBYj8q_6MuXRdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16677720</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Middletown Mike</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-06-13T22:48:28-04:00</created-at>
+          <title>Right Reactions: Read First</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep Rush Holt, D-NJ wants Congress to authorize printing of more pocket sized copies of the Constitution for $218000. Guess what? I know a lot of people that would print them for nothing if the members of Congress would ...</excerpt>
+          <fti-names>'218000':25 'author':14 'buckland':47 'congress':12,44 'constitut':23 'copi':20 'd':9 'd-nj':8 'first':4 'guess':26 'holt':7 'know':29 'lot':31 'member':42 'nj':10 'noth':39 'peopl':33 'pocket':18 'print':15,36 'reaction':2 'read':3 'rep':5 'right':1 'rush':6 'size':19 'val':46 'want':11 'would':35,45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rightreactions.blogspot.com/2012/06/read-first.html&amp;sa=U&amp;ei=-lDZT4TtEYGA2wXxvvi6Dw&amp;ved=0CEsQmAEwCw&amp;usg=AFQjCNE4bEx294e8Cn4iurJTcEw1Y_pnBg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15892988</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Val Buckland</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-06-13T22:48:28-04:00</created-at>
+          <title>On Capitol Hill, a Strong Indictment of Administrative Amnesty Policies</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>From Rep. Lou Barletta (R-Pa.), to prohibit funds from going to cities and towns that do not enforce federal immigration law. From Rep. Rush Holt (D-N.J.), to bar the purchase of unmanned aerial vehicles. From Rep.</excerpt>
+          <fti-names>'administr':8 'aerial':48 'amnesti':9 'bar':43 'barletta':14 'capitol':2 'citi':24 'd':39 'd-n':38 'enforc':30 'feder':31 'fund':20 'go':22 'hill':3 'holt':37 'immigr':32 'indict':6 'j':41 'janic':52 'kephart':53 'law':33 'lou':13 'n':40 'pa':17 'polici':10 'prohibit':19 'purchas':45 'r':16 'r-pa':15 'rep':12,35,51 'rush':36 'strong':5 'town':26 'unman':47 'vehicl':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cis.org/kephart/capitol-hill-strong-indictment-administrative-amnesty-policies&amp;sa=U&amp;ei=-lDZT4TtEYGA2wXxvvi6Dw&amp;ved=0CEcQmAEwCg&amp;usg=AFQjCNEopMvFOwKFUdOOaaInFhlyHeQpYg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15892987</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Janice Kephart</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-06-13T22:48:27-04:00</created-at>
+          <title>Rep. Rush Holt: GOPers suppressing climate science is like Big ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Rush Holt: GOPers suppressing climate science is like Big Tobacco &#8230; msnbc.com (blog) Rush Holt&#8212;the only physicist serving in Congress&#8212;about this distortion of climate science. &amp;quot;It&amp;#39;s what happened with tobacco,&amp;quot; ...</excerpt>
+          <fti-names>'admin':44 'big':10,20 'blog':23 'climat':6,16,36 'congress':31 'distort':34 'goper':4,14 'happen':41 'holt':3,13,25 'like':9,19 'msnbc.com':22 'physicist':28 'rep':1,11 'rush':2,12,24 'scienc':7,17,37 'serv':29 'suppress':5,15 'tobacco':21,43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecarbonfootprint.info/carbon-footprint/rep-rush-holt-gopers-suppressing-climate-science-is-like-big-tobacco-msnbc-com-blog/&amp;sa=U&amp;ei=-lDZT4TtEYGA2wXxvvi6Dw&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNHUBWr8JmGQaHxhOjoRtQHtu7zFsQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15892985</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-06-13T22:48:26-04:00</created-at>
+          <title>Blue Jersey:: Rush Holt on TRMS</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Last night, New Jersey Congressman Rush Holt appeared on The Rachel Maddow Show. He spoke with guest host Ezra Klein on the Republican War on Science and how the GOP uses language to advance their ...</excerpt>
+          <fti-names>'advanc':40 'appear':14 'blue':1 'congressman':11 'deciminyan':42 'ezra':25 'gop':36 'guest':23 'holt':4,13 'host':24 'jersey':2,10 'klein':26 'languag':38 'last':7 'maddow':18 'new':9 'night':8 'rachel':17 'republican':29 'rush':3,12 'scienc':32 'show':19 'spoke':21 'trms':6 'use':37 'war':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bluejersey.com/diary/21159/rush-holt-on-trms&amp;sa=U&amp;ei=-lDZT4TtEYGA2wXxvvi6Dw&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNHCq1gEqxeh8lH4z331faxrlpZj3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15892980</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>deciminyan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400184</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:46:38-04:00</created-at>
+          <title>MFS - The Other News: Senate: Drones Need to Operate &#8220;Freely ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Rush Holt (D-NJ). This prohibition, which is limited to DHS, is likely to be of no practical significance. &#8220;Has there ever been any plan to buy armed drones by Homeland Security?&#8221; asked Rep. Norm Dicks on the House floor ...</excerpt>
+          <fti-names>'arm':39 'ask':44 'buy':38 'd':14 'd-nj':13 'dhs':22 'dick':47 'drone':6,40 'ever':33 'floor':51 'freeli':10 'holt':12 'homeland':42 'hous':50 'like':24 'limit':20 'mfs':1 'need':7 'news':4 'nj':15 'norm':46 'oper':9 'plan':36 'practic':29 'prohibit':17 'rep':45 'rush':11 'secur':43 'senat':5 'signific':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mfs-theothernews.com/2012/06/senate-drones-need-to-operate-freely.html&amp;sa=U&amp;ei=DP_XT5baN4Ki2QXP7emCDw&amp;ved=0CE8QmAEwDA&amp;usg=AFQjCNGjlGqnliERD6eTTs39HKYfuZCbEw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15863115</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Will</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22934</page-views-count>
+      <unaccented-name>Rush Holt</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float" nil="true"></party-votes-percentage>
+        <abstains-percentage type="float" nil="true"></abstains-percentage>
+        <votes-most-often-with-id type="integer" nil="true"></votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer" nil="true"></abstains>
+        <cosponsored-bills type="integer" nil="true"></cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer" nil="true"></sponsored-bills>
+        <votes-least-often-with-id type="integer" nil="true"></votes-least-often-with-id>
+        <person-id type="integer">405600</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer" nil="true"></same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer" nil="true"></sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer" nil="true"></cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer" nil="true"></opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position nil="true"></votes-republican-position>
+      <fax nil="true"></fax>
+      <blog-article-count nil="true"></blog-article-count>
+      <user-approval nil="true"></user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">0</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">0.0</with-party-percentage>
+      <lastname>Holt</lastname>
+      <middlename>Dew</middlename>
+      <bioguide-id>H000749</bioguide-id>
+      <congress-office nil="true"></congress-office>
+      <firstname>Rush</firstname>
+      <website nil="true"></website>
+      <biography nil="true"></biography>
+      <birthday type="date">1905-06-19</birthday>
+      <person-id type="integer">405600</person-id>
+      <phone nil="true"></phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position nil="true"></votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender nil="true"></gender>
+      <recent-news type="array"/>
+      <name>Rush Holt</name>
+      <total-session-votes nil="true"></total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array"/>
+      <page-views-count type="integer">10</page-views-count>
+      <unaccented-name>Rush Holt</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

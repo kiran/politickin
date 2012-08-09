@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.4464813719693</party-votes-percentage>
+        <abstains-percentage type="float">1.62885398487493</abstains-percentage>
+        <votes-most-often-with-id type="integer">412256</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">28</abstains>
+        <cosponsored-bills type="integer">135</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412476</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1614</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">2046</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <middlename nil="true"></middlename>
+      <oc-users-tracking type="integer">15</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.4464813719693</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Fleischmann</lastname>
+      <congress-office>511 Cannon House Office Building</congress-office>
+      <firstname>Chuck</firstname>
+      <website>http://fleischmann.house.gov/</website>
+      <metavid-id nil="true"></metavid-id>
+      <birthday type="date">1962-10-12</birthday>
+      <person-id type="integer">412476</person-id>
+      <phone>202-225-3271</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>F000459</bioguide-id>
+      <votes-democratic-position type="integer">373</votes-democratic-position>
+      <youtube-id>RepChuck</youtube-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:44:46-04:00</created-at>
+          <title>Tennessee Primaries: Not So Rocky Incumbents</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...for incumbents on Thursday evening, as three members easily brushed aside challenges in Tennessee&#8217;s primaries. Freshman Rep. Chuck Fleischmann (R), who won an open seat primary in 2010 by just 1,415 votes, had seen his grasp on his Chattanooga-based 3</excerpt>
+          <fti-names>'1':38 '2010':35 '3':50 '415':39 'asid':17 'base':49 'brush':16 'challeng':18 'chattanooga':48 'chattanooga-bas':47 'chuck':25 'easili':15 'even':11 'fleischmann':26 'freshman':23 'grasp':44 'incumb':6,8 'member':14 'open':31 'polit':53 'primari':2,22,33 'r':27 'rep':24 'report':54 'rocki':5 'rothenberg':52 'seat':32 'seen':42 'tennesse':1,20 'three':13 'thursday':10 'vote':40 'won':29</fti-names>
+          <source-url>http://rothenbergpoliticalreport.com/</source-url>
+          <url>http://rothenbergpoliticalreport.com/news/article/tennessee-primaries-not-so-rocky-incumbents</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972800</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Rothenberg Political Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>Fleischmann: Likes Mayfield, Ice Cream; Not Wamp</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...seems there's no love lost between Tennessee Rep. Chuck Fleischmann and one of the men he beat in the GOP primary Thursday. Fleischmann sent out a release Friday in which he thanked two of his three challengers -- even giving a shout-out to dairy mogul </excerpt>
+          <fti-names>'beat':25 'challeng':45 'chuck':17 'cream':5 'dairi':53 'even':46 'fleischmann':1,18,31 'friday':36 'give':47 'gop':28 'ice':4 'journal':56 'like':2 'lost':13 'love':12 'mayfield':3 'men':23 'mogul':54 'nation':55 'one':20 'primari':29 'releas':35 'rep':16 'seem':8 'sent':32 'shout':50 'shout-out':49 'tennesse':15 'thank':40 'three':44 'thursday':30 'two':41 'wamp':7</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/fleischmann-tha.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971622</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>Hotline Sort: DCCC's Apology To Adelson</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...support from former Democratic Boston Mayor Ray Flynn. 2) Incumbents prevailed in last night's Tennessee primaries: GOP Reps. Chuck Fleischmann and Diane Black both won comfortably, though Fleischmann finished with well under 50 percent of the vote, mak</excerpt>
+          <fti-names>'2':16 '50':41 'adelson':7 'apolog':5 'black':31 'boston':12 'chuck':27 'comfort':34 'dccc':3 'democrat':11 'dian':30 'finish':37 'fleischmann':28,36 'flynn':15 'former':10 'gop':25 'hotlin':1 'incumb':17 'journal':48 'last':20 'mak':46 'mayor':13 'nation':47 'night':21 'percent':42 'prevail':18 'primari':24 'ray':14 'rep':26 'sort':2 'support':8 'tennesse':23 'though':35 'vote':45 'well':39 'won':33</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/welcome-back-to-10.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971621</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>Results: Tennessee Congressional races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...ERIK SCHELZIG Associated Press NASHVILLE, Tenn. (AP) -- Freshman U.S. Reps. Diane Black and Chuck Fleischmann have turned back vigorous attempts by Republican rivals to deny them another term in Congress. Black beat Lou Ann Zelenik in the 6th District, </excerpt>
+          <fti-names>'6th':42 'ann':38 'anoth':31 'ap':11 'associ':7 'attempt':24 'back':22 'beat':36 'black':16,35 'chuck':18 'congress':34 'congression':3 'deni':29 'dian':15 'district':43 'erik':5 'fleischmann':19 'freshman':12 'lou':37 'nashvill':9 'press':8 'race':4 'rep':14 'republican':26 'result':1 'rival':27 'schelzig':6 'tenn':10 'tennesse':2 'term':32 'turn':21 'u.s':13 'vigor':23 'wbir':44 'zelenik':39</fti-names>
+          <source-url>http://www.wbir.com/</source-url>
+          <url>http://www.wbir.com/rss/article/228969/2/Results-Tennessee-Congressional-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971620</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBIR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>Tennessee frosh survive primary challenges</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...primary challenges Thursday evening, fending off opponents who sought to portray them as insufficiently conservative. Rep. Chuck Fleischmann defeated Scottie Mayfield, a dairy mogul, and Weston Wamp, the 25-year-old son of former Rep. Zach Wamp. Rep. Di</excerpt>
+          <fti-names>'25':34 'challeng':5,7 'chuck':22 'conserv':20 'dairi':28 'defeat':24 'di':45 'even':9 'fend':10 'fleischmann':23 'former':40 'frosh':2 'insuffici':19 'mayfield':26 'mogul':29 'old':37 'oppon':12 'politico':47 'portray':16 'primari':4,6 'rep':21,41,44 'scotti':25 'son':38 'sought':14 'surviv':3 'tennesse':1 'thursday':8 'wamp':32,43 'weston':31 'year':36 'year-old':35 'zach':42</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=bb16a4a10f08dde7d58c950e66d83afc</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971619</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>Black, Fleischmann prevail in hard-fought races</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Hendersonville, Tenn. Photo: Wade Payne / AP Rep. Diane Black, R-Tenn., greets supporters at her victory party... U.S. Rep. Chuck Fleischmann, R-Tenn., waves while entering a victory party, during a victory party at the Doubletree Hotel in downtown Chat</excerpt>
+          <fti-names>'ap':14 'black':1,17 'chat':50 'chronicl':53 'chuck':29 'dian':16 'doubletre':46 'downtown':49 'enter':36 'fleischmann':2,30 'fought':7 'francisco':52 'greet':21 'hard':6 'hard-fought':5 'hendersonvill':9 'hotel':47 'parti':26,39,43 'payn':13 'photo':11 'prevail':3 'r':19,32 'r-tenn':18,31 'race':8 'rep':15,28 'san':51 'support':22 'tenn':10,20,33 'u.s':27 'victori':25,38,42 'wade':12 'wave':34</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Black-Fleischmann-prevail-in-hard-fought-races-3756251.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971618</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:59-04:00</created-at>
+          <title>3 arrested in Hawkins County, 1 charged with officer death threats</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...night on accusations of drunkenness. One man is also charged with making threats against an officer.More &gt;&gt; Freshman U.S. Rep. Chuck Fleischmann defeated Scottie Mayfield, an executive with the dairy company that bears his family name, and Weston Wamp, </excerpt>
+          <fti-names>'1':6 '3':1 '6':51 'accus':14 'also':20 'arrest':2 'bear':43 'charg':7,21 'chuck':31 'compani':41 'counti':5 'dairi':40 'death':10 'defeat':33 'drunken':16 'execut':37 'famili':45 'fleischmann':32 'freshman':28 'hawkin':4 'make':23 'man':18 'mayfield':35 'name':46 'news':52 'night':12 'offic':9 'officer.more':27 'one':17 'rep':30 'scotti':34 'threat':11,24 'u.s':29 'wamp':49 'wate':50 'weston':48</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19190783/3-arrested-in-hawkins-county-1-charged-with-officer-death-threats</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971617</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:58-04:00</created-at>
+          <title>2 activists ordered released from custody after Y-12 incident</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...company that bears his family name, and Weston Wamp, the son of the district's former congressman.More &gt;&gt; Freshman U.S. Rep. Chuck Fleischmann defeated Scottie Mayfield, an executive with the dairy company that bears his family name, and Weston Wamp, th</excerpt>
+          <fti-names>'-12':9 '2':1 '6':52 'activist':2 'bear':13,43 'chuck':31 'compani':11,41 'congressman.more':27 'custodi':6 'dairi':40 'defeat':33 'district':24 'execut':37 'famili':15,45 'fleischmann':32 'former':26 'freshman':28 'incid':10 'mayfield':35 'name':16,46 'news':53 'order':3 'releas':4 'rep':30 'scotti':34 'son':21 'th':50 'u.s':29 'wamp':19,49 'wate':51 'weston':18,48 'y':8</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19192711/2-activists-ordered-released-from-custody-after-y-12-incident</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971616</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:58-04:00</created-at>
+          <title>Tennessee: Chuck Fleischmann Wins Primary</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...new turf to him, and both his opponents started with names that were familiar to voters. Mayfield was the longtime spokesman and CEO of a popular milk and ice cream company. Wamp is the son of former Rep. Zach Wamp (R-Tenn.), Fleischmann&#8217;s predecessor</excerpt>
+          <fti-names>'call':53 'ceo':28 'chuck':2 'compani':36 'cream':35 'familiar':19 'fleischmann':3,49 'former':42 'ice':34 'longtim':25 'mayfield':22 'milk':32 'name':16 'new':6 'oppon':13 'popular':31 'predecessor':51 'primari':5 'r':47 'r-tenn':46 'rep':43 'roll':52 'son':40 'spokesman':26 'start':14 'tenn':48 'tennesse':1 'turf':7 'voter':21 'wamp':37,45 'win':4 'zach':44</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/tennessee_chuck_fleischmann_wins_primary-216706-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971615</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:58-04:00</created-at>
+          <title>With Chuck Fleischmann, Tennessee Taxpayers Are Real Winners in Thursday&#8217;s House Primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...promise to taxpayers to oppose higher taxes, voters handed Chuck Flesichmann the GOP nomination. Incumbent Representative Chuck Fleischmann defended his Congressional seat last night after defeating two serious challengers. Winning by more than 6,000 vo</excerpt>
+          <fti-names>'000':48 '6':47 'american':50 'challeng':42 'chuck':2,23,30 'congression':34 'defeat':39 'defend':32 'fleischmann':3,31 'flesichmann':24 'gop':26 'hand':22 'higher':19 'hous':12 'incumb':28 'last':36 'night':37 'nomin':27 'oppos':18 'primari':13 'promis':14 'real':7 'reform':53 'repres':29 'seat':35 'serious':41 'tax':20,52 'taxpay':5,16 'tennesse':4 'thursday':10 'two':40 'vo':49 'voter':21 'win':43 'winner':8</fti-names>
+          <source-url>http://www.atr.org/</source-url>
+          <url>http://feedproxy.google.com/~r/americansfortaxreform/~3/Se8zneHyaHU/chuck-fleischmann-tennessee-taxpayers-real-winners-a7108</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971614</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Americans for Tax Reform</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Chuck Fleischmann [R, TN-3]</name>
+      <total-session-votes type="integer">1691</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-225-3494</fax>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:55:59-04:00</created-at>
+          <title>Time for partisan picks in Legislature, Congress | Election 2010</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In the four East Tennessee congressional districts, all held by Republicans, the most competitive primary race has developed in the 3rd District contest &#8212; pitting incumbent U.S. Rep. Chuck Fleischmann of Ooltewah against ...</excerpt>
+          <fti-names>'2010':9 '3rd':30 'chuck':37 'competit':23 'congress':7 'congression':15 'contest':32 'develop':27 'district':16,31 'east':13 'elect':8 'fleischmann':38 'four':12 'held':18 'incumb':34 'legislatur':6 'ooltewah':40 'partisan':3 'pick':4 'pit':33 'postingaccount':42 'primari':24 'race':25 'rep':36 'republican':20 'tennesse':14 'time':1 'u.s':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://election2010.illumen.org/latest-news/time-for-partisan-picks-in-legislature-congress&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNGo3MDwh9ileCyKWGuafW4p2WWXEA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16648036</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>postingAccount</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:56:01-04:00</created-at>
+          <title>TN-03 candidates on health care: repeal, replace, reform, or ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Main menu. Skip to primary content. Skip to secondary content. See Who&amp;#39;s Running &amp;middot; Hamilton County &amp;middot; Tennessee House of Representatives &amp;middot; Tennessee Senate &amp;middot; U.S. House of Representatives &amp;middot; U.S. Senate &amp;middot; Preside</excerpt>
+          <fti-names>'-03':2 'candid':3 'care':6 'content':16,20 'counti':26 'hamilton':25 'health':5 'hous':28,34 'joe':40 'lanc':41 'main':11 'menu':12 'presid':39 'primari':15 'reform':9 'repeal':7 'replac':8 'repres':30,36 'run':24 'secondari':19 'see':21 'senat':32,38 'skip':13,17 'tennesse':27,31 'tn':1 'u.s':33,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tennesseeticket.com/2012/07/10/tn-03-candidates-on-health-care-repeal-replace-reform-or-reinvigorate/&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNElZHLzMcHvXWA_reWGxoFW7A0fUw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16648041</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Lance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:55:59-04:00</created-at>
+          <title>Congressman Ryan endorses Rep. Fleischmann for re-election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Representative Chuck Fleischmann. Chuck Fleischmann. Paul Ryan, a top Republican in the U.S. House of Representatives, has endorsed Rep. Chuck Fleischmann in his re-election campaign, the congressman ...</excerpt>
+          <fti-names>'campaign':37 'chuck':12,14,30 'congressman':1,39 'elect':9,36 'endors':3,28 'fleischmann':5,13,15,31 'hous':24 'huotari':41 'john':40 'paul':16 're':8,35 're-elect':7,34 'rep':4,29 'repres':11,26 'republican':20 'ryan':2,17 'top':19 'u.s':10,23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oakridgetoday.com/2012/07/10/congressman-ryan-endorses-rep-fleischmann-for-re-election/&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNHDs6BpJpH1IuwMDM5NppGqLqBi4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16648035</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John Huotari</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:55:58-04:00</created-at>
+          <title>In wake of jobs report, Fleischmann peddles jobs plan | Nooga.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Despite unemployment being nearly a percent lower than it was this time last year, the new data caps off the worst quarter for job growth since 2010&#8212;and Rep. Chuck Fleischmann, who was elected to office in the same year, ...</excerpt>
+          <fti-names>'2010':37 'cap':28 'chuck':40 'data':27 'despit':11 'elect':44 'fleischmann':6,41 'growth':35 'harrison':52 'jame':51 'job':4,8,34 'last':23 'lower':17 'near':14 'new':26 'nooga.com':10 'offic':46 'peddl':7 'percent':16 'plan':9 'quarter':32 'rep':39 'report':5 'sinc':36 'time':22 'unemploy':12 'wake':2 'worst':31 'year':24,50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nooga.com/156135/in-wake-of-jobs-report-rep-chuck-fleischmann-peddles-jobs-plan/&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGuG7m_lVtVh9dOxfpIvtjpNh2v0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16648034</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>James Harrison</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:56:01-04:00</created-at>
+          <title>Put who on an iceberg? | timesfreepress.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>When asked his opinion about global warming in a candidate debate Thursday night, 3rd District Rep. Chuck Fleischmann, said this: &amp;quot;I think we ought to take Al Gore, put him on an iceberg, and put him way out there.&amp;quot; Really.</excerpt>
+          <fti-names>'/news/2011/oct/24/ban-baseballs-nasty-habit/?opiniontimes':49 '3rd':20 'al':33 'ask':8 'candid':16 'chuck':23 'debat':17 'district':21 'fleischmann':24 'global':12 'gore':34 'iceberg':5,39 'night':19 'opinion':10 'ought':30 'put':1,35,41 'realli':46 'rep':22 'said':25 'take':32 'think':28 'thursday':18 'timesfreepress.com':6 'warm':13 'way':43 'www.timesfreepress.com':48 'www.timesfreepress.com/news/2011/oct/24/ban-baseballs-nasty-habit/?opiniontimes':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://timesfreepress.com/news/2012/jul/07/put-who-on-an-iceberg-chattanooga-times/&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNFDFmpovySKlfmG-pc_5Ct9tkcNZg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16648043</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.timesfreepress.com/news/2011/oct/24/ban-baseballs-nasty-habit/?opiniontimes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-06T00:06:24-04:00</created-at>
+          <title>Mayfield, Cart, Horse and Congressional District Offices | Humphrey ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>First, he said, he must beat U.S. Rep. Chuck Fleischmann and two others in the Aug. 2 Republican primary before squaring off against the Democratic nominee in November. &amp;quot;It&amp;#39;s a cart-before-the-horse issue,&amp;quot; he said. But in a ...</excerpt>
+          <fti-names>'2':25 'aug':24 'beat':14 'cart':2,41 'cart-before-the-hors':40 'chuck':17 'congression':5 'democrat':33 'district':6 'first':9 'fleischmann':18 'hors':3,44 'humphrey':8,52 'issu':45 'mayfield':1 'must':13 'nomine':34 'novemb':36 'offic':7 'other':21 'primari':27 'rep':16 'republican':26 'said':11,47 'squar':29 'tom':51 'two':20 'u.s':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.knoxnews.com/knx/humphrey/2012/07/mayfield-cart-horse-and-congre.html&amp;sa=U&amp;ei=MWT2T7-LKMqU2QXS7fn5Bg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNFaMxQHMpyhtw_Iui5ORjcMPqrw-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16407740</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Humphrey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:56:00-04:00</created-at>
+          <title>Rep. Chuck Fleischmann airs second campaign ad | Used Car Loan ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>One day after the US Supreme Courts decision to uphold President Barack Obamas health care overhaul, Rep. Chuck Fleischmann is out with a new campaign advertisement that emphasizes his past&#8211;and symbolic&#8211;attempt ...</excerpt>
+          <fti-names>'ad':7 'admin':44 'advertis':36 'air':4 'attempt':43 'barack':22 'campaign':6,35 'car':9 'care':25 'chuck':2,28 'court':17 'day':12 'decis':18 'emphas':38 'fleischmann':3,29 'health':24 'loan':10 'new':34 'obama':23 'one':11 'overhaul':26 'past':40 'presid':21 'rep':1,27 'second':5 'suprem':16 'symbol':42 'uphold':20 'us':15 'use':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://used-car-loan-blog.carloans.us/rep-chuck-fleischmann-airs-second-campaign-ad.html&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNEaFAK4O7EtfcoYutZMr-kX0yweww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16648038</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-06T00:06:10-04:00</created-at>
+          <title>Rep. Chuck Fleischmann airs second campaign ad | Used Car Loan ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>One day after the US Supreme Courts decision to uphold President Barack Obamas health care overhaul, Rep. Chuck Fleischmann is out with a new campaign advertisement that emphasizes his past&#8211;and symbolic&#8211;attempt ...</excerpt>
+          <fti-names>'ad':7 'admin':44 'advertis':36 'air':4 'attempt':43 'barack':22 'campaign':6,35 'car':9 'care':25 'chuck':2,28 'court':17 'day':12 'decis':18 'emphas':38 'fleischmann':3,29 'health':24 'loan':10 'new':34 'obama':23 'one':11 'overhaul':26 'past':40 'presid':21 'rep':1,27 'second':5 'suprem':16 'symbol':42 'uphold':20 'us':15 'use':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://used-car-loan-blog.carloans.us/rep-chuck-fleischmann-airs-second-campaign-ad.html&amp;sa=U&amp;ei=MWT2T7-LKMqU2QXS7fn5Bg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGbWuVMDIXe6kOY9Dui3s8FHS46AA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16407735</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:56:00-04:00</created-at>
+          <title>Reps. Chuck Fleischmann, Scott DesJarlais vote to hold US Attorney</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Reps. Chuck Fleischmann, Scott DesJarlais vote to hold U.S. Attorney General Eric Holder in contempt. Posted by Editor on June 30, 2012. Joining their fellow Republicans and a few Democrats, freshmen Reps. Chuck Fleischmann and Scott ...</excerpt>
+          <fti-names>'2012':32 '30':31 'attorney':10,20 'chuck':2,12,43 'contempt':25 'democrat':40 'desjarlai':5,15 'editor':28,47 'eric':22 'fellow':35 'fleischmann':3,13,44 'freshmen':41 'general':21 'hold':8,18 'holder':23 'join':33 'june':30 'post':26 'rep':1,11,42 'republican':36 'scott':4,14,46 'u.s':19 'us':9 'vote':6,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marioncountymessenger.com/2012/06/30/reps-chuck-fleischmann-scott-desjarlais-vote-to-hold-u-s-attorney-general-eric-holder-in-contempt/&amp;sa=U&amp;ei=voIDUOq_CaGQ2gWswYynCw&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNEcWJCRl-zk3wvIMV_MUMPaVAwBnQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16648039</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412476</commentariable-id>
+          <created-at type="datetime">2012-07-06T00:06:26-04:00</created-at>
+          <title>Democrats Cream Republicans In Annual Congressional Baseball ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>and pinch-runner Rep. Ed Perlmutter (D-Colo.). Polis banged out the game&amp;#39;s only home run in the fifth inning, capitalizing on poor GOP fieldwork. All the Republicans&amp;#39; runs were scored pinch-runners: Rep. Chuck Fleischmann ...</excerpt>
+          <fti-names>'annual':5 'bang':19 'basebal':7 'capit':31 'chuck':46 'colo':17 'congression':6 'contribut':48 'cream':2 'd':16 'd-colo':15 'democrat':1 'ed':13 'fieldwork':35 'fifth':29 'fleischmann':47 'game':22 'gop':34 'home':25 'inning':30 'perlmutt':14 'pinch':10,43 'pinch-runn':9,42 'poli':18 'poor':33 'rep':12,45 'report':49 'republican':3,38 'run':26,39 'runner':11,44 'score':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://westpennjournal.com/blog/2012/06/28/democrats-cream-republicans-in-annual-congressional-baseball-game/&amp;sa=U&amp;ei=MWT2T7-LKMqU2QXS7fn5Bg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGqc_iPi_436-h0KrH11kbqsj5U2g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16407743</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Contributed Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">4594</page-views-count>
+      <unaccented-name>Chuck Fleischmann</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

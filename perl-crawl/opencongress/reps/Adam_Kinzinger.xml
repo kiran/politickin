@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.5676959619953</party-votes-percentage>
+        <abstains-percentage type="float">2.03606748109366</abstains-percentage>
+        <votes-most-often-with-id type="integer">412465</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">35</abstains>
+        <cosponsored-bills type="integer">226</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">400436</votes-least-often-with-id>
+        <person-id type="integer">412421</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1542</votes-republican-position>
+      <blog-article-count type="integer">3306</blog-article-count>
+      <metavid-id nil="true"></metavid-id>
+      <user-approval type="float">1.42857142857143</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">29</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.5676959619953</with-party-percentage>
+      <youtube-id nil="true"></youtube-id>
+      <lastname>Kinzinger</lastname>
+      <congress-office>1218 Longworth House Office Building</congress-office>
+      <firstname>Adam</firstname>
+      <bioguide-id>K000378</bioguide-id>
+      <fax>202- 225-3521</fax>
+      <website>http://kinzinger.house.gov/</website>
+      <birthday type="date">1978-02-02</birthday>
+      <person-id type="integer">412421</person-id>
+      <phone>202-225-3635</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">458</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:45:46-04:00</created-at>
+          <title>Florida freshmen stick with Adams</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...pattern that emerged in Illinois earlier this year, where the GOP Conference was divided over the contest between freshman Adam Kinzinger and veteran Don Manzullo. Since incumbent on incumbent races are a rare, once-in-a-decade phenomenon, it&#8217;s hard t</excerpt>
+          <fti-names>'adam':5,25 'confer':17 'contest':22 'decad':43 'divid':19 'earlier':11 'emerg':8 'florida':1 'freshman':24 'freshmen':2 'gop':16 'hard':47 'illinoi':10 'incumb':32,34 'kinzing':26 'manzullo':30 'once-in-a-decad':39 'pattern':6 'phenomenon':44 'politico':50 'race':35 'rare':38 'sinc':31 'stick':3 'veteran':28 'year':13</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=acc224830faf7987ec68eb83758b15b8</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973455</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:53:08-04:00</created-at>
+          <title>Pentagon Official: Sequestration a Step Toward &#8216;Hollow&#8217; Military Force</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...we&#8217;re involved somewhere, something kicks off, we need a carrier in the region, and there&#8217;s just literally no option,&#8221; Rep. Adam Kinzinger (R-IL) said at the event. &#8220;That&#8217;s a potential. That&#8217;s nothing we&#8217;ve ever imagined but it could happe</excerpt>
+          <fti-names>'adam':32 'carrier':20 'could':54 'event':40 'ever':50 'forc':9 'foundat':58 'happ':55 'heritag':57 'hollow':7 'il':36 'imagin':51 'involv':12 'kick':15 'kinzing':33 'liter':28 'militari':8 'need':18 'noth':47 'offici':2 'option':30 'pentagon':1 'potenti':44 'r':35 'r-il':34 're':11 'region':23 'rep':31 'said':37 'sequestr':3 'someth':14 'somewher':13 'step':5 'toward':6 've':49</fti-names>
+          <source-url>http://www.heritage.org/</source-url>
+          <url>http://blog.heritage.org/2012/08/06/pentagon-official-sequestration-a-step-toward-hollow-military-force/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972861</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Heritage Foundation</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:33-04:00</created-at>
+          <title>Raptor problems: No one cause</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...and obvious to us.&quot; Before briefing reporters at the Pentagon Tuesday, Lyon met with Sen. Mark Warner, D-Va., and Rep. Adam Kinzinger, R-Ill. They launched their own investigation into the Raptor after two Langley-based pilots from the Virginia Air Nati</excerpt>
+          <fti-names>'adam':28 'air':50 'base':45 'brief':11 'caus':5 'd':24 'd-va':23 'daili':54 'hampton':52 'ill':32 'investig':37 'kinzing':29 'langley':44 'langley-bas':43 'launch':34 'lyon':17 'mark':21 'met':18 'nati':51 'obvious':7 'one':4 'pentagon':15 'pilot':46 'press':55 'problem':2 'r':31 'r-ill':30 'raptor':1,40 'rep':27 'report':12 'road':53 'sen':20 'tuesday':16 'two':42 'us':9 'va':25 'virginia':49 'warner':22</fti-names>
+          <source-url>http://www.dailypress.com/</source-url>
+          <url>http://feedproxy.google.com/~r/hrdailypress/news/~3/Opx0NY4mpg4/dp-nws-raptor-warner-update-20120731,0,5862730.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969776</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hampton Roads Daily Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:46-04:00</created-at>
+          <title>Raptor problems: No one cause</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...and obvious to us.&quot; Before briefing reporters at the Pentagon Tuesday, Lyon met with Sen. Mark Warner, D-Va., and Rep. Adam Kinzinger, R-Ill. They launched their own investigation into the Raptor after two Langley-based pilots from the Virginia Air Nati</excerpt>
+          <fti-names>'adam':28 'air':50 'base':45 'brief':11 'caus':5 'd':24 'd-va':23 'daili':54 'hampton':52 'ill':32 'investig':37 'kinzing':29 'langley':44 'langley-bas':43 'launch':34 'lyon':17 'mark':21 'met':18 'nati':51 'obvious':7 'one':4 'pentagon':15 'pilot':46 'press':55 'problem':2 'r':31 'r-ill':30 'raptor':1,40 'rep':27 'report':12 'road':53 'sen':20 'tuesday':16 'two':42 'us':9 'va':25 'virginia':49 'warner':22</fti-names>
+          <source-url>http://www.dailypress.com/</source-url>
+          <url>http://feedproxy.google.com/~r/hrdailypress/news/nationworld/~3/Opx0NY4mpg4/dp-nws-raptor-warner-update-20120731,0,5862730.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16966747</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hampton Roads Daily Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:07:37-04:00</created-at>
+          <title>Race Takes Center Stage in Peters-Clarke Primary</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Adam Kinzinger and Don Manzullo), and even featured some profane shouting (between Democratic Rep. Russ Carnahan and Lacy Clay). Now, Detroit's 14th District primary between Democratic Reps. Hansen Clarke and Gary Peters, where race has taken center-stage </excerpt>
+          <fti-names>'14th':32 'adam':10 'blog':52 'carnahan':25 'center':3,48 'center-stag':47 'clark':8,39 'clay':28 'democrat':22,36 'detroit':30 'district':33 'even':16 'featur':17 'gari':41 'hansen':38 'journal':51 'kinzing':11 'laci':27 'manzullo':14 'nation':50 'peter':7,42 'peters-clark':6 'primari':9,34 'profan':19 'race':1,44 'rep':23,37 'russ':24 'shout':20 'stage':4,49 'take':2 'taken':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/07/the-memberversu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T10:02:47-04:00</date>
+          <id type="integer">16960890</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:07:38-04:00</created-at>
+          <title>Redistricting turns comrades into competitors</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In a battle that drew cries of foul when House Republican leaders expressed their preferences, freshman Rep. Adam Kinzinger tripped up veteran Rep. Don Manzullo in Illinois. Other incumbent-on-incumbent contests found Rep. Bill Pascrell Jr ...</excerpt>
+          <fti-names>'adam':23 'battl':8 'bill':41 'competitor':5 'comrad':3 'contest':38 'cri':11 'drew':10 'express':18 'foul':13 'found':39 'freshman':21 'hous':15 'illinoi':32 'incumb':35,37 'incumbent-on-incumb':34 'intern':46 'jr':43 'kinzing':24 'leader':17 'manzullo':30 'pascrel':42 'prefer':20 'press':45 'redistrict':1 'rep':22,28,40 'republican':16 'trip':25 'turn':2 'unit':44 'veteran':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.upi.com/Top_News/US/2012/07/29/Politics-2012-Redistricting-turns-comrades-into-competitors/UPI-59901343548800/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T03:58:54-04:00</date>
+          <id type="integer">16948191</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:59:32-04:00</created-at>
+          <title>Follow that Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Filed March 1, 2012, by U.S. Rep. Adam Kinzinger (R-Ill.) and co-sponsored by U.S. Rep. Aaron Schock (R-Ill.). State Bills Public Act 97-0751 &#8212; Permits condominium boards to negotiate Internet pricing for all residents. Effective Jan. 1, 2013.</excerpt>
+          <fti-names>'-0751':33 '1':6,46 '2012':7 '2013':47 '97':32 'aaron':23 'act':31 'adam':11 'bill':3,29 'board':36 'co':18 'co-sponsor':17 'condominium':35 'effect':44 'file':4 'follow':1 'ill':15,27 'internet':39 'jan':45 'kinzing':12 'march':5 'negoti':38 'news':48 'permit':34 'price':40 'public':30 'r':14,26 'r-ill':13,25 'rep':10,22 'resid':43 'schock':24 'sponsor':19 'state':28 'tribun':49 'u.s':9,21</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://newstrib.com/main.asp?SectionID=2&amp;SubSectionID=27&amp;ArticleID=21206</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T06:01:47-04:00</date>
+          <id type="integer">16930052</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>News Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:07:42-04:00</created-at>
+          <title>Internet providers monitoring networks for illegal activity</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Adam Kinzinger, R-Channahon, who was not in favor of the Stop Online Piracy Act because he felt it went too far in censorship, said he will be following the new policy initiated by the Center for Copyright Information to ensure the privacy rights</excerpt>
+          <fti-names>'act':25 'activ':7 'adam':10 'censorship':34 'center':46 'channahon':14 'copyright':48 'ensur':51 'far':32 'favor':19 'felt':28 'follow':39 'illeg':6 'inform':49 'initi':43 'internet':1 'kinzing':11 'monitor':3 'network':4 'new':41 'onlin':23 'ottawa':55 'piraci':24 'polici':42 'privaci':53 'provid':2 'r':13 'r-channahon':12 'rep':9 'right':54 'said':35 'stop':22 'time':56 'u.s':8 'went':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mywebtimes.com/archives/ottawa/display.php?id=459865</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T00:25:21-04:00</date>
+          <id type="integer">16948192</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Ottawa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:59:30-04:00</created-at>
+          <title>Congressional Members Show Leadership on National Security</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Adam Kinzinger (R&#8211;IL), a freshman in the House and an Air Force pilot, reiterated McKeon&#8217;s concerns about President Obama&#8217;s lack of leadership. He said that it is particularly unconscionable when men and women are placing ...</excerpt>
+          <fti-names>'adam':9 'air':20 'concern':26 'congression':1 'forc':21 'foundat':49 'freshman':14 'heritag':48 'hous':17 'il':12 'kinzing':10 'lack':31 'leadership':4,33 'mckeon':24 'member':2 'men':42 'nation':6 'obama':29 'particular':39 'pilot':22 'place':46 'presid':28 'r':11 'reiter':23 'repres':8 'said':35 'secur':7 'show':3 'unconscion':40 'women':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.heritage.org/2012/07/27/congressional-members-show-leadership-on-national-security/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T15:21:19-04:00</date>
+          <id type="integer">16930050</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Heritage Foundation</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:08:55-04:00</created-at>
+          <title>Fla. Rep. West backs fellow GOP freshman Adams</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of tea party solidarity. Most notably, earlier this year, several Republican leaders signaled their support for Rep. Adam Kinzinger over veteran Rep. Donald Manzullo in the Illinois incumbent vs. incumbent race by contributing to Kinzinger, who prevaile</excerpt>
+          <fti-names>'adam':8,26 'augustine.com':47 'back':4 'contribut':41 'donald':31 'earlier':15 'fellow':5 'fla':1 'freshman':7 'gop':6 'illinoi':35 'incumb':36,38 'kinzing':27,43 'leader':20 'manzullo':32 'notabl':14 'parti':11 'prevail':45 'race':39 'rep':2,25,30 'republican':19 'sever':18 'signal':21 'solidar':12 'st':46 'support':23 'tea':10 'veteran':29 'vs':37 'west':3 'year':17</fti-names>
+          <source-url>http://staugustine.com/</source-url>
+          <url>http://staugustine.com/donna-cassata/2012-07-26/fla-rep-west-backs-fellow-gop-freshman-adams</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922057</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>St. Augustine.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Adam Kinzinger [R, IL-11]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">1684</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>11</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:26-04:00</created-at>
+          <title>Rep Allen West: Weekly Wrap, Legislative Update, The Coming ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Thursday, 26 July; participated in a panel discussion with colleague Rep. Adam Kinzinger (R-IL) and House Armed Services Committee Chairman Rep. Buck McKeon (R-CA) sponsored by the YG Network Policy Forum on the ...</excerpt>
+          <fti-names>'26':11 'adam':21 'allen':2 'allenwestrepubl':47 'arm':28 'buck':33 'ca':37 'chairman':31 'colleagu':19 'come':9 'committe':30 'discuss':17 'forum':44 'hous':27 'il':25 'juli':12 'kinzing':22 'legisl':6 'mckeon':34 'network':42 'panel':16 'particip':13 'polici':43 'r':24,36 'r-ca':35 'r-il':23 'rep':1,20,32 'servic':29 'sponsor':38 'thursday':10 'updat':7 'week':4 'west':3 'wrap':5 'yg':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://allenwestrepublic.wordpress.com/2012/07/29/rep-allen-west-weekly-wrap-legislative-update-the-coming-week-and-more/&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNEB_841XjKpJU0yEcLeGM4l62e7cQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948174</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>allenwestrepublic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:20-04:00</created-at>
+          <title>Ford County Illinois Woman Sends Out Call to Action to Stop ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Rep. Dave Reichert R-WA (Sponsor of the PTC Extension bill HB 3307)(see attached for the list of co-sponsors) * Senator Grassley-R-IA * Rep. Steve King-R-IA Karl Rove www.rove.com. Rep. Adam Kinzinger-R-IL (family has ...</excerpt>
+          <fti-names>'3307':25 'action':9 'adam':50 'attach':27 'bill':23 'call':7 'co':33 'co-sponsor':32 'conserv':57 'counti':2 'dave':13 'extens':22 'famili':55 'ford':1 'grassley':37 'grassley-r-ia':36 'hb':24 'ia':39,45 'il':54 'illinoi':3 'karl':46 'king':43 'king-r-ia':42 'kinzing':52 'kinzinger-r-il':51 'list':30 'ptc':21 'r':16,38,44,53 'r-wa':15 'reichert':14 'rep':12,40,49 'rove':47 'see':26 'senat':35 'send':5 'sponsor':18,34 'steve':41 'stop':11 'wa':17 'woman':4 'www.rove.com':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.areweawareyet.com/21207/ford-county-illinois-woman-sends-out-call-to-action-to-stop-congress-from-furthering-subsidies-for-wind-energy-projects/&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHHd_SYQGuBBbVnOKBniByWZ2X_0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Conservative</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:19-04:00</created-at>
+          <title>Politics 2012: Redistricting turns comrades into competitors ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In a battle that drew cries of foul when House Republican leaders expressed their preferences, freshman Rep. Adam Kinzinger tripped up veteran Rep. Don Manzullo in Illinois. Other incumbent-on-incumbent contests found ...</excerpt>
+          <fti-names>'2012':2 'adam':25 'admin':42 'battl':10 'competitor':7 'comrad':5 'contest':40 'cri':13 'drew':12 'express':20 'foul':15 'found':41 'freshman':23 'hous':17 'illinoi':34 'incumb':37,39 'incumbent-on-incumb':36 'kinzing':26 'leader':19 'manzullo':32 'polit':1 'prefer':22 'redistrict':3 'rep':24,30 'republican':18 'trip':27 'turn':4 'veteran':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.efinditnow.com/news/politics-2012-redistricting-turns-comrades-into-competitors/&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNHdgseK1zlLcLX0yb7mxCdiiMb7jA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948166</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:58:57-04:00</created-at>
+          <title>In Congress, Win a Race, Lose a Friend | Epou</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Illinois Republican Reps. Don Manzullo and Adam Kinzinger served in Congress together for less than six months before it was obvious they would challenge each other. Kinzinger defeated a Democrat in a competitive district ...</excerpt>
+          <fti-names>'adam':16 'challeng':33 'competit':42 'congress':2,20 'defeat':37 'democrat':39 'district':43 'epou':9 'eta':44 'friend':8 'illinoi':10 'kinzing':17,36 'less':23 'lose':6 'manzullo':14 'month':26 'obvious':30 'phi':45 'race':5 'rep':12 'republican':11 'serv':18 'six':25 'sport':46 'togeth':21 'win':3 'would':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://epou.net/%3Fp%3D42774&amp;sa=U&amp;ei=-8IUUIvQKabE0QH39IGgCQ&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNEFFuwabU3GdEe2iQgD-_x49JazJA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930046</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eta Phi Sports</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:26-04:00</created-at>
+          <title>Republicans Call On Obama To Prevent Defense Cuts</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Adam Kinzinger (R-III.) warned that the defense cuts put America at risk of losing its global status as a military super-power. &#8220;The President needs to come out and say that we have to save national defense,&#8221; Kinzinger ...</excerpt>
+          <fti-names>'adam':10 'america':21 'call':2 'come':39 'cut':8,19 'defens':7,18,49 'global':27 'iii':14 'kinzing':11,50 'lose':25 'militari':31 'nation':48 'need':37 'obama':4 'power':34 'presid':36 'prevent':6 'put':20 'r':13 'r-iii':12 'rep':9 'republican':1 'risk':23 'save':47 'say':42 'staff':51 'status':28 'super':33 'super-pow':32 'warn':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.talkradionews.com/news/2012/07/26/republicans-call-on-obama-to-prevent-defense-cuts.html&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNEHrXWyg6KzSSxHikQ-zrvny8oHww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16948175</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:23-04:00</created-at>
+          <title>Fla. Rep. West backs fellow GOP freshman Adams | StAugustine.com</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Most notably, earlier this year, several Republican leaders signaled their support for Rep. Adam Kinzinger over veteran Rep. Donald Manzullo in the Illinois incumbent vs. incumbent race by contributing to Kinzinger, who ...</excerpt>
+          <fti-names>'adam':8,23 'back':4 'cassata':43 'contribut':38 'donald':28 'donna':42 'earlier':12 'fellow':5 'fla':1 'freshman':7 'gop':6 'illinoi':32 'incumb':33,35 'kinzing':24,40 'leader':17 'manzullo':29 'notabl':11 'race':36 'rep':2,22,27 'republican':16 'sever':15 'signal':18 'staugustine.com':9 'support':20 'veteran':26 'vs':34 'west':3 'year':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://staugustine.com/donna-cassata/2012-07-26/fla-rep-west-backs-fellow-gop-freshman-adams&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNHc069J-bmxNfOYgo_R-qM4L8dQMA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16948170</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DONNA CASSATA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:59:00-04:00</created-at>
+          <title>Congressional Members Show Leadership on National Security</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Adam Kinzinger (R&#8211;IL), a freshman in the House and an Air Force pilot, reiterated McKeon&amp;#39;s concerns about President Obama&amp;#39;s lack of leadership. He said that it is particularly unconscionable when men and ...</excerpt>
+          <fti-names>'adam':9 'air':20 'concern':26 'congression':1 'forc':21 'freshman':14 'graham':45 'hous':17 'il':12 'kinzing':10 'lack':31 'leadership':4,33 'mckeon':24 'member':2 'men':42 'nation':6 'obama':29 'owen':44 'particular':39 'pilot':22 'presid':28 'r':11 'reiter':23 'repres':8 'said':35 'secur':7 'show':3 'unconscion':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.heritage.org/2012/07/27/congressional-members-show-leadership-on-national-security/&amp;sa=U&amp;ei=-8IUUIvQKabE0QH39IGgCQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNE8rHL6OfqrBcqzxjWs04yoNnG8Sw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16930048</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Owen Graham</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:08:49-04:00</created-at>
+          <title>Congressional Members Show Leadership on National Security</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Adam Kinzinger (R&#8211;IL), a freshman in the House and an Air Force pilot, reiterated McKeon&amp;#39;s concerns about President Obama&amp;#39;s lack of leadership. He said that it is particularly unconscionable when men and ...</excerpt>
+          <fti-names>'adam':9 'air':20 'concern':26 'congression':1 'forc':21 'freshman':14 'graham':45 'hous':17 'il':12 'kinzing':10 'lack':31 'leadership':4,33 'mckeon':24 'member':2 'men':42 'nation':6 'obama':29 'owen':44 'particular':39 'pilot':22 'presid':28 'r':11 'reiter':23 'repres':8 'said':35 'secur':7 'show':3 'unconscion':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.heritage.org/2012/07/27/congressional-members-show-leadership-on-national-security/&amp;sa=U&amp;ei=v1cTUPrYDoey8QSm44DwDQ&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNG9Jwry_qijnwX0LskP6NUau_yYZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922049</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Owen Graham</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:08:49-04:00</created-at>
+          <title>Sequestration could mean another 100K-troop cut |</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Two other Republicans at the discussion, Reps. Adam Kinzinger of Illinois and Allen West of Florida, said that sequestration would put the military at unusually high risk by creating the smallest Army since World War II, the ...</excerpt>
+          <fti-names>'100k':6 '100k-troop':5 'adam':16 'allen':21 'anoth':4 'armi':40 'could':2 'creat':37 'cut':8 'discuss':14 'florida':24 'high':34 'ii':44 'illinoi':19 'kinzing':17 'mean':3 'militari':31 'put':29 'rep':15 'republican':11 'risk':35 'said':25 'sequestr':1,27 'sinc':41 'smallest':39 'topshot':46 'troop':7 'two':9 'unusu':33 'war':43 'west':22 'world':42 'would':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rebuildingfreedom.org/2012/07/27/sequestration-could-mean-another-100k-troop-cut/&amp;sa=U&amp;ei=v1cTUPrYDoey8QSm44DwDQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHnxsmIlPcl1vdwKyYYAon1sPkh1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922048</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>topshot</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412421</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:06:27-04:00</created-at>
+          <title>Aaron Schock&amp;#39;s social calendar: Not so hot | WashingtonExaminer.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Schock maintains that he does have friends in Congress, identifying fellow Illinois Republican Rep. Adam Kinzinger as one of the &amp;quot;very smart and talented&amp;quot; crop of thirty-something members, but they aren&amp;#39;t exactly hitting the ...</excerpt>
+          <fti-names>'aaron':1 'adam':24 'aren':42 'calendar':5 'congress':18 'crop':34 'exact':44 'fellow':20 'friend':16 'hit':45 'hot':8 'identifi':19 'illinoi':21 'kinzing':25 'maintain':11 'member':39 'one':27 'rep':23 'republican':22 'schock':2,10 'smart':31 'social':4 'someth':38 'talent':33 'thirti':37 'thirty-someth':36 'washingtonexaminer.com':9,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtonexaminer.com/aaron-schocks-social-calendar-not-so-hot/article/2503147&amp;sa=U&amp;ei=ZjIWUKmqHZOc8QSh94D4CQ&amp;ved=0CEwQmAEwCw&amp;usg=AFQjCNFPIP11kfM4WX-V8mdSaZjY5mbm7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16948176</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://washingtonexaminer.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5348</page-views-count>
+      <unaccented-name>Adam Kinzinger</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

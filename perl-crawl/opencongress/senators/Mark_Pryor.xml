@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-28T05:40:22-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">86.71875</party-votes-percentage>
+        <abstains-percentage type="float">2.78481012658228</abstains-percentage>
+        <votes-most-often-with-id type="integer">300081</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">13</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">44</cosponsored-bills-passed-rank>
+        <abstains type="integer">11</abstains>
+        <cosponsored-bills type="integer">125</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">55</party-votes-percentage-rank>
+        <sponsored-bills type="integer">56</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300080</person-id>
+        <cosponsored-bills-rank type="integer">57</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412243</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">17</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">2</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412384</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">177</votes-republican-position>
+      <metavid-id>Mark_Pryor</metavid-id>
+      <blog-article-count type="integer">11898</blog-article-count>
+      <user-approval type="float">2.8375</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">540</oc-users-tracking>
+      <bioguide-id>P000590</bioguide-id>
+      <contact-webform>http://www.pryor.senate.gov/public/index.cfm?p=ContactMe</contact-webform>
+      <youtube-id>SenatorPryor</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">86.71875</with-party-percentage>
+      <lastname>Pryor</lastname>
+      <fax>202-228-0908</fax>
+      <congress-office>255 Dirksen Senate Office Building</congress-office>
+      <firstname>Mark</firstname>
+      <website>http://www.pryor.senate.gov</website>
+      <birthday type="date">1963-01-10</birthday>
+      <person-id type="integer">300080</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-224-2353</phone>
+      <religion>Unknown</religion>
+      <votes-democratic-position type="integer">333</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:26-04:00</created-at>
+          <title>Tom Cotton: Too busy to talk about 2014</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Steve Womack? You hear everything from staying in the House to governor to a run for Senate against incumbent Democratic Sen. Mark Pryor. Then there's Tom Cotton, the Republican candidate to succeed quasi-Republican Mike Ross in the 4th District. Alread</excerpt>
+          <fti-names>'2014':8 '4th':49 'alread':51 'arkansa':52 'busi':4 'candid':39 'cotton':2,36 'democrat':28 'district':50 'everyth':13 'governor':20 'hear':12 'hous':18 'incumb':27 'mark':30 'mike':45 'pryor':31 'quasi':43 'quasi-republican':42 'republican':38,44 'ross':46 'run':23 'sen':29 'senat':25 'stay':15 'steve':9 'succeed':41 'talk':6 'time':53 'tom':1,35 'womack':10</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/08/07/tom-cotton-too-busy-to-talk-about-2014</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973868</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:26-04:00</created-at>
+          <title>Video: Boozman at the sale barn: Plight of producers &#8216;serious&#8217;</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...to see how to be helpful in that regard, visiting with lots of people, getting information to work with the Governor, Sen. Mark Pryor and the rest of the delegation to see if we can be helpful as we can.&#8221; Boozman, a member of the Senate Agriculture Co</excerpt>
+          <fti-names>'agricultur':57 'barn':6 'boozman':2,51 'cabin':60 'co':58 'deleg':40 'democrat':61 'get':25 'governor':31 'help':16,47 'inform':26 'log':59 'lot':22 'mark':33 'member':53 'peopl':24 'plight':7 'produc':9 'pryor':34 'regard':19 'rest':37 'sale':5 'see':12,42 'sen':32 'senat':56 'serious':10 'video':1 'visit':20 'work':28</fti-names>
+          <source-url>http://www.thecabin.net/</source-url>
+          <url>http://thecabin.net/news/local/2012-08-07/boozman-sale-barn-plight-producers-%E2%80%98serious%E2%80%99</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973867</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Log Cabin Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:26-04:00</created-at>
+          <title>Sen. Mark Pryor stops by 'THV This Morning'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...hurdle in the 2012 ... LITTLE ROCK, Ark. (KTHV) - 'THV This Morning' is working for you, sitting down with Arkansas Senator Mark Pryor as he catches us up on the work he is doing for Arkansans. Senator Pryor just got back from a congressional trip to Pa</excerpt>
+          <fti-names>'2012':12 'ark':15 'arkansa':27 'arkansan':43 'back':48 'catch':33 'congression':51 'got':47 'hurdl':9 'kthv':16,55 'littl':13 'mark':2,29 'morn':8,19 'pa':54 'pryor':3,30,45 'rock':14 'sen':1 'senat':28,44 'sit':24 'stop':4 'thv':6,17 'trip':52 'us':34 'work':21,38</fti-names>
+          <source-url>http://www.todaysthv.com/</source-url>
+          <url>http://www.todaysthv.com/news/news.aspx?storyid=221145</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973866</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KTHV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:02:08-04:00</created-at>
+          <title>Little Red water temps force change</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...asked the Southwestern Power Administration for additional water releases to help reduce the river&#8217;s temperature. Sen. Mark Pryor&#8217;s office also stepped in to ask for additional releases. On the river, the high air temperatures and low water releases</excerpt>
+          <fti-names>'addit':13,34 'administr':11 'air':41 'also':28 'arkansa':47 'ask':7,32 'chang':6 'forc':5 'help':17 'high':40 'littl':1 'low':44 'mark':24 'offic':27 'onlin':48 'power':10 'pryor':25 'red':2 'reduc':18 'releas':15,35,46 'river':20,38 'sen':23 'southwestern':9 'step':29 'temp':4 'temperatur':22,42 'water':3,14,45</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/05/little-red-water-temps-force-change-20120805/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972653</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:32:05-04:00</created-at>
+          <title>Tom Cotton gets the Bill Clinton challenge</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...He called on Cotton to address the rumor that Cotton plans to serve just one term in Congress and then run against Sen. Mark Pryor in 2014. It's a time-honored tradition to try to pin politicians with overweening ambition &#8212; using the current election </excerpt>
+          <fti-names>'2014':34 'address':13 'ambit':49 'arkansa':54 'bill':5 'call':9 'challeng':7 'clinton':6 'congress':25 'cotton':2,11,17 'current':52 'elect':53 'get':3 'honor':40 'mark':31 'one':22 'overween':48 'pin':45 'plan':18 'politician':46 'pryor':32 'rumor':15 'run':28 'sen':30 'serv':20 'term':23 'time':39,55 'time-honor':38 'tom':1 'tradit':41 'tri':43 'use':50</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/08/03/tom-cotton-gets-the-bill-clinton-challenge</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972057</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:32:04-04:00</created-at>
+          <title>House Extends All Bush-Era Tax Rates</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Senate vote also saw defections &#8212; Sens. Scott Brown (R-Mass.) and Susan Collins (R-Maine) voted with Democrats, while Sen. Mark Pryor (D-Ark.) voted with Republicans. READ FULL SOURCE ARTICLE The BasicsProject.org informational and educational pamphle</excerpt>
+          <fti-names>'also':11 'ark':35 'articl':42 'basicsproject.org':44 'brown':16 'bush':5 'bush-era':4 'collin':22 'd':34 'd-ark':33 'defect':13 'democrat':28 'educ':47 'era':6 'extend':2 'full':40 'hous':1 'inform':45 'journal':52 'main':25 'mark':31 'mass':19 'media':51 'new':50 'pamphl':48 'pryor':32 'r':18,24 'r-main':23 'r-mass':17 'rate':8 'read':39 'republican':38 'saw':12 'scott':15 'sen':14,30 'senat':9 'sourc':41 'susan':21 'tax':7 'vote':10,26,36</fti-names>
+          <source-url>http://www.newmediajournal.us/</source-url>
+          <url>http://newmediajournal.us/indx.php/item/6347</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972056</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The New Media Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:45:58-04:00</created-at>
+          <title>Commission will get help in cooling Little Red River</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...temperatures continue to rise on the Little Red River below Greers Ferry Dam. Tuesday, the AGFC and the office of Sen. Mark Pryor asked the Southwestern Power Administration for additional water releases to help reduce the river&#8217;s temperature. Late Tu</excerpt>
+          <fti-names>'addit':39 'administr':37 'agfc':25 'arkansa':51 'ask':33 'commiss':1 'continu':11 'cool':6 'dam':22 'ferri':21 'get':3 'greer':20 'help':4,43 'late':49 'littl':7,16 'mark':31 'offic':28 'onlin':52 'power':36 'pryor':32 'red':8,17 'reduc':44 'releas':41 'rise':13 'river':9,18,46 'sen':30 'southwestern':35 'temperatur':10,48 'tu':50 'tuesday':23 'water':40</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/02/commission-will-get-help-cooling-little-r-20120802/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971364</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:45:57-04:00</created-at>
+          <title>When Gridlock Works: Cybersecurity Bill Stuffed, for Now</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...from Sens. Ron Wyden and Jeff Merkley of Oregon, who oppose the cybersecurity bill on privacy grounds. Max Baucus, Jon Tester and Mark Pryor voted no on cloture as well, and at least two of those are probably due to privacy concerns (Montana has a histo</excerpt>
+          <fti-names>'baucus':27 'bill':5,22 'clotur':36 'concern':50 'cybersecur':4,21 'due':47 'firedoglak':55 'gridlock':2 'ground':25 'histo':54 'jeff':14 'jon':28 'least':41 'mark':31 'max':26 'merkley':15 'montana':51 'oppos':19 'oregon':17 'privaci':24,49 'probabl':46 'pryor':32 'ron':11 'sen':10 'stuf':6 'tester':29 'two':42 'vote':33 'well':38 'work':3 'wyden':12</fti-names>
+          <source-url>http://www.firedoglake.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firedoglake/fdl/~3/5xy2Ej2A6Wc/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971363</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firedoglake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:45:57-04:00</created-at>
+          <title>Bipartisan group, senators pushes for 2012 debate on national debt</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...commission on Wednesday, Republican Sens. Lindsay Graham of South Carolina and Saxby Chambliss of Georgia, Democratic Sen. Mark Pryor of Arkansas and independent Sen. Joe Lieberman of Connecticut urged moderators to ask the candidates which parts of the</excerpt>
+          <fti-names>'2012':6 'arkansa':31 'ask':42 'bipartisan':1 'candid':44 'carolina':20 'chambliss':23 'commiss':11 'connecticut':38 'debat':7 'debt':10 'democrat':26 'file':50 'georgia':25 'graham':17 'group':2 'independ':33 'joe':35 'kaus':49 'lieberman':36 'lindsay':16 'mark':28 'moder':40 'nation':9 'part':46 'pryor':29 'push':4 'republican':14 'saxbi':22 'sen':15,27,34 'senat':3 'south':19 'urg':39 'wednesday':13</fti-names>
+          <source-url>http://dailycaller.com/kausfiles/</source-url>
+          <url>http://dailycaller.com/2012/08/02/bipartisan-group-senators-pushes-for-2012-debate-on-national-debt/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971362</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kaus Files</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:45:57-04:00</created-at>
+          <title>Klobuchar, Franken call for drought response</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...government,&quot; the letter said. In addition to Klobuchar and Franken, the letter was signed by Sens. Tom Harkin (D-Iowa), Mark Pryor (D-Ark.), Mark Udall (D-Colo.), Michael Bennet (D-Colo.), Kent Conrad (D-North Dak.), Richard Durbin (D-Ill.), Herb Kohl (</excerpt>
+          <fti-names>'addit':12 'ark':32 'bennet':39 'call':3 'colo':37,42 'conrad':44 'd':26,31,36,41,46,52 'd-ark':30 'd-colo':35,40 'd-ill':51 'd-iowa':25 'd-north':45 'dak':48 'drought':5 'durbin':50 'franken':2,16 'govern':7 'harkin':24 'herb':54 'ill':53 'iowa':27 'kare':56 'kent':43 'klobuchar':1,14 'kohl':55 'letter':9,18 'mark':28,33 'michael':38 'minneapoli':57 'north':47 'paul':59 'pryor':29 'respons':6 'richard':49 'said':10 'sen':22 'sign':20 'st':58 'tom':23 'udal':34</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985378/14/Klobuchar-Franken-call-for-drought-response-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971361</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Mark Pryor [D, AR]</name>
+      <total-session-votes type="integer">384</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:14:59-04:00</created-at>
+          <title>Politics: Pryor to Host Tele-Town Hall Meetings</title>
+          <contains-term>senator</contains-term>
+          <excerpt>WASHINGTON, DC &#8211;U.S. Senator Mark Pryor today announced that he will hold Town Hall meetings over the phone on Wednesday, August 1st to discuss job creation, the economy and other issues affecting Arkansas.</excerpt>
+          <fti-names>'1st':31 'affect':41 'announc':17 'arkansa':42 'august':30 'creation':35 'dc':11 'discuss':33 'economi':37 'hall':8,23 'hold':21 'host':4 'issu':40 'job':34 'mark':14 'meet':9,24 'phone':27 'polit':1 'pryor':2,15 'salineriverchronicl':43 'senat':13 'tele':6 'tele-town':5 'today':16 'town':7,22 'u.s':12 'washington':10 'wednesday':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://salineriverpolitics.blogspot.com/2012/07/pryor-to-host-tele-town-hall-meetings.html&amp;sa=U&amp;ei=3ncXUKiOA8il6wGasoCgCw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNF0ADYroFpiqUkEk3o2C426z5uXYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962906</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>salineriverchronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:33:07-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=C40WUJPsOsi00QHrgYHQDw&amp;ved=0CFIQmAEwCw&amp;usg=AFQjCNFTorDDkSt648JQMocfRaaKImTD1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952707</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:33:01-04:00</created-at>
+          <title>Mark Pryor Only &#8220;Democrat&#8221; To Support Republican Tax Plan &#8211; Blue ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Mark Pryor Only &#8220;Democrat&#8221; To Support Republican Tax Plan Blue Arkansas (blog) Due to an agreement with Democrats, the bill needed a simple majority, rather than a filibuster-proof supermajority, to pass. Sen. Mark Pryor ...</excerpt>
+          <fti-names>'admin':47 'agreement':26 'arkansa':21 'bill':30 'blog':22 'blue':10,20 'democrat':4,14,28 'due':23 'filibust':39 'filibuster-proof':38 'major':34 'mark':1,11,45 'need':31 'pass':43 'plan':9,19 'proof':40 'pryor':2,12,46 'rather':35 'republican':7,17 'sen':44 'simpl':33 'supermajor':41 'support':6,16 'tax':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ar-moc/mark-pryor-arkansas-senator/mark-pryor-only-%25E2%2580%259Cdemocrat%25E2%2580%259D-to-support-republican-tax-plan-blue-arkansas-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dmark-pryor-only-%2525e2%252580%25259cdemocrat%2525e2%252580%25259d-to-support-republican-tax-plan-blue-arkansas-blog&amp;sa=U&amp;ei=C40WUJPsOsi00QHrgYHQDw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNE79WgA_8WmNEv01urqpTR3d_LX0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952699</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:22:05-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=yQ4VUOCoNqjB0AG9u4DYCA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNH4XnjDhiVkJwtjjAi359xDYMUJqQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933069</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:22:05-04:00</created-at>
+          <title>How much longer can Claire McCaskill last in Missouri? | RedState</title>
+          <contains-term>senator</contains-term>
+          <excerpt>I like to call my Dem senator, Mark Pryor, once every couple of weeks to remind him, through his staff, that we kicked Blanche Lincoln to the curb after repeated warnings to stop voting like a CA leftist and we&amp;#39;re just chomping ...</excerpt>
+          <fti-names>'blanch':34 'ca':47 'call':14 'chomp':53 'clair':5 'coupl':22 'curb':38 'dem':16 'diari':56 'everi':21 'kick':33 'lane':55 'last':7 'leftist':48 'like':12,45 'lincoln':35 'longer':3 'mark':18 'mccaskil':6 'missouri':9 'moe':54 'much':2 'pryor':19 're':51 'redstat':10 'remind':26 'repeat':40 'senat':17 'staff':30 'stop':43 'vote':44 'warn':41 'week':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/moe_lane/2012/07/28/how-much-longer-can-claire-mccaskill-last-in-missouri/&amp;sa=U&amp;ei=yQ4VUOCoNqjB0AG9u4DYCA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNELIOGMrCrFC3amBomQrr4ikNVmMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933068</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Moe Lane (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:22:02-04:00</created-at>
+          <title>Mark Pryor Only &#8220;Democrat&#8221; To Support Republican Tax Plan &#8211; Blue ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Mark Pryor Only &#8220;Democrat&#8221; To Support Republican Tax Plan Blue Arkansas (blog) Due to an agreement with Democrats, the bill needed a simple majority, rather than a filibuster-proof supermajority, to pass. Sen. Mark Pryor ...</excerpt>
+          <fti-names>'admin':47 'agreement':26 'arkansa':21 'bill':30 'blog':22 'blue':10,20 'democrat':4,14,28 'due':23 'filibust':39 'filibuster-proof':38 'major':34 'mark':1,11,45 'need':31 'pass':43 'plan':9,19 'proof':40 'pryor':2,12,46 'rather':35 'republican':7,17 'sen':44 'simpl':33 'supermajor':41 'support':6,16 'tax':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ar-moc/mark-pryor-arkansas-senator/mark-pryor-only-%25E2%2580%259Cdemocrat%25E2%2580%259D-to-support-republican-tax-plan-blue-arkansas-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dmark-pryor-only-%2525e2%252580%25259cdemocrat%2525e2%252580%25259d-to-support-republican-tax-plan-blue-arkansas-blog&amp;sa=U&amp;ei=yQ4VUOCoNqjB0AG9u4DYCA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHmMicy_9P7Fg4iDmGPC5MkN80jhQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933062</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:03-04:00</created-at>
+          <title>Griffin anti-regulation bill clears House | Arkansas News</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Ross was one of 13 House Democrats to support the legislation. Two Republicans opposed it. The Senate, with its Democratic majority, is not expected to consider the measure. Sen. Mark Pryor, D-Ark., said Wednesday that a ...</excerpt>
+          <fti-names>'13':14 'anti':3 'anti-regul':2 'ark':43 'arkansa':8 'bill':5 'clear':6 'consid':35 'd':42 'd-ark':41 'democrat':16,29 'expect':33 'griffin':1 'hous':7,15 'jjefferson':48 'legisl':20 'major':30 'mark':39 'measur':37 'news':9 'one':12 'oppos':23 'pryor':40 'regul':4 'republican':22 'ross':10 'said':44 'sen':38 'senat':26 'support':18 'two':21 'wednesday':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasnews.com/2012/07/26/griffin-anti-regulation-bill-clears-house/&amp;sa=U&amp;ei=3ncXUKiOA8il6wGasoCgCw&amp;ved=0CFIQmAEwCw&amp;usg=AFQjCNFVWToFpdXh5B3SMKV_hwXPxiDeOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962914</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jjefferson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:03-04:00</created-at>
+          <title>Senate Democrats push through Obama&amp;#39;s tax hike plan | United ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>voted against both plans, and Sen. Mark Pryor (D-Ark.) voted against for the two proposals. Pryor is up for reelection in 2014. The dramatic roll calls came as Vice President Biden presided over the tally. He was in the chamber ...</excerpt>
+          <fti-names>'2014':34 'ark':21 'biden':43 'call':38 'came':39 'chamber':52 'd':20 'd-ark':19 'democrat':2 'dramat':36 'hike':8 'jpye':53 'mark':17 'obama':5 'plan':9,14 'presid':42,44 'propos':27 'pryor':18,28 'push':3 'reelect':32 'roll':37 'sen':16 'senat':1 'talli':47 'tax':7 'two':26 'unit':10 'vice':41 'vote':11,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.unitedliberty.org/articles/10652-senate-democrats-push-through-obamas-tax-hike-plan&amp;sa=U&amp;ei=3ncXUKiOA8il6wGasoCgCw&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNF-t9tGNhqq_vLKyAZFThtL_XN00w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962913</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jpye</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:33:06-04:00</created-at>
+          <title>Senate Democrats push through Obama&amp;#39;s tax hike plan | United ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>voted against both plans, and Sen. Mark Pryor (D-Ark.) voted against for the two proposals. Pryor is up for reelection in 2014. The dramatic roll calls came as Vice President Biden presided over the tally. He was in the chamber ...</excerpt>
+          <fti-names>'2014':34 'ark':21 'biden':43 'call':38 'came':39 'chamber':52 'd':20 'd-ark':19 'democrat':2 'dramat':36 'hike':8 'jpye':53 'mark':17 'obama':5 'plan':9,14 'presid':42,44 'propos':27 'pryor':18,28 'push':3 'reelect':32 'roll':37 'sen':16 'senat':1 'talli':47 'tax':7 'two':26 'unit':10 'vice':41 'vote':11,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.unitedliberty.org/articles/10652-senate-democrats-push-through-obamas-tax-hike-plan&amp;sa=U&amp;ei=C40WUJPsOsi00QHrgYHQDw&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNFD3Jr0dWI7otVOo-pcsjwcdc1UTw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16952706</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jpye</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300080</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:22:05-04:00</created-at>
+          <title>Senate Democrats push through Obama&amp;#39;s tax hike plan | United ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>voted against both plans, and Sen. Mark Pryor (D-Ark.) voted against for the two proposals. Pryor is up for reelection in 2014. The dramatic roll calls came as Vice President Biden presided over the tally. He was in the chamber ...</excerpt>
+          <fti-names>'2014':34 'ark':21 'biden':43 'call':38 'came':39 'chamber':52 'd':20 'd-ark':19 'democrat':2 'dramat':36 'hike':8 'jpye':53 'mark':17 'obama':5 'plan':9,14 'presid':42,44 'propos':27 'pryor':18,28 'push':3 'reelect':32 'roll':37 'sen':16 'senat':1 'talli':47 'tax':7 'two':26 'unit':10 'vice':41 'vote':11,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.unitedliberty.org/articles/10652-senate-democrats-push-through-obamas-tax-hike-plan&amp;sa=U&amp;ei=yQ4VUOCoNqjB0AG9u4DYCA&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNFHbzgLY646LyBjU3F0uwVuctewtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16933071</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jpye</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">31074</page-views-count>
+      <unaccented-name>Mark Pryor</unaccented-name>
+      <oc-user-comments type="integer">24</oc-user-comments>
+    </person>
+  </people>
+</hash>

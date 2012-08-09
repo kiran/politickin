@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">90.2305825242718</party-votes-percentage>
+        <abstains-percentage type="float">4.13030831878999</abstains-percentage>
+        <votes-most-often-with-id type="integer">412293</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">413</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">113</cosponsored-bills-passed-rank>
+        <abstains type="integer">71</abstains>
+        <cosponsored-bills type="integer">218</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">182</party-votes-percentage-rank>
+        <sponsored-bills type="integer">13</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">412281</person-id>
+        <cosponsored-bills-rank type="integer">369</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">318</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">464</votes-republican-position>
+      <fax>202-225-4975</fax>
+      <blog-article-count type="integer">5518</blog-article-count>
+      <user-approval type="float">2.46428571428571</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">168</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>https://forms.house.gov/heinrich/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">90.2305825242718</with-party-percentage>
+      <lastname>Heinrich</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>H001046</bioguide-id>
+      <congress-office>336 Cannon House Office Building</congress-office>
+      <firstname>Martin</firstname>
+      <website>http://heinrich.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412281</person-id>
+      <phone>202-225-6316</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1487</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:43:02-04:00</created-at>
+          <title>Romney hit with nasty Bain ad</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...With?&#8221; and &#8220;We&#8217;re All Paying for It.&#8221; NRDC is part of a coalition of environmental groups working to elect Democratic Rep. Martin Heinrich; the League of Conservation Voters began running the same ads in June. The Republican Majority Campaign sp</excerpt>
+          <fti-names>'ad':6,40 'bain':5 'began':36 'campaign':46 'coalit':20 'conserv':34 'democrat':27 'elect':26 'environment':22 'group':23 'heinrich':30 'hit':2 'june':42 'leagu':32 'major':45 'marketplac':48 'martin':29 'nasti':4 'nrdc':15 'part':17 'pay':12 're':10 'rep':28 'republican':44 'romney':1 'run':37 'sp':47 'voter':35 'work':24</fti-names>
+          <source-url>http://www.marketplace.org/</source-url>
+          <url>http://feeds.americanpublicmedia.org/~r/APM_Marketplace/~3/Ec52cx6Vehg/romney-hit-nasty-bain-ad</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973424</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Marketplace</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:49:02-04:00</created-at>
+          <title>RNC goes after Obama in ads</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...of ads targeting candidates in competitive Senate races across the country. &#8220;Calendar&#8221; attacks the spending record of Rep. Martin Heinrich, D-N.M. The ad says Heinrich has &#8220;given Washington more money to waste.&#8221; He is opposed by Republican Heath</excerpt>
+          <fti-names>'across':15 'ad':6,8,32 'american':48 'attack':19 'calendar':18 'candid':10 'competit':12 'countri':17 'd':28 'd-n':27 'given':36 'goe':2 'heath':47 'heinrich':26,34 'm':30 'martin':25 'media':50 'money':39 'n':29 'obama':4 'oppos':44 'public':49 'race':14 'record':22 'rep':24 'republican':46 'rnc':1 'say':33 'senat':13 'spend':21 'target':9 'washington':37 'wast':41</fti-names>
+          <source-url>http://americanpublicmedia.publicradio.org/</source-url>
+          <url>http://feeds.americanpublicmedia.org/~r/APM_Marketplace/~3/WumqXydT2_4/rnc-goes-after-obama-ads</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972832</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Public Media</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:40:35-04:00</created-at>
+          <title>Medicaid a Broken System That Can&#8217;t Withstand More Pressure</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...stands to &#8220;improve the quality of life for many New Mexicans&#8221; and, when part of Medicaid was reauthorized, New Mexico Rep. Martin Heinrich called it &#8220;the change the American public wants and the change our children deserve.&#8221; But if these politic</excerpt>
+          <fti-names>'albuquerqu':52 'american':39 'broken':3 'call':34 'chang':37,44 'children':46 'deserv':47 'heinrich':33 'improv':13 'journal':53 'life':17 'mani':19 'martin':32 'medicaid':1,26 'mexican':21 'mexico':30 'new':20,29 'part':24 'polit':51 'pressur':10 'public':40 'qualiti':15 'reauthor':28 'rep':31 'stand':11 'system':4 'want':41 'withstand':8</fti-names>
+          <source-url>http://www.abqjournal.com/</source-url>
+          <url>http://www.abqjournal.com/main/2012/08/05/opinion/medicaid-a-broken-system-that-cant-withstand-more-pressure.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972468</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albuquerque Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:44:08-04:00</created-at>
+          <title>Editorial: Home Where Hearth Is</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...bill sponsored by U.S. Rep. Martin Heinrich &#8212; and signed into law by President Obama on Monday &#8212; should make it easier for Native Americans to buy a home or start a business on tribal land . The HEARTH Act eliminates a requirement that the federal B</excerpt>
+          <fti-names>'act':42 'albuquerqu':50 'american':28 'b':49 'bill':6 'busi':36 'buy':30 'easier':25 'editori':1 'elimin':43 'feder':48 'hearth':4,41 'heinrich':12 'home':2,32 'journal':51 'land':39 'law':16 'make':23 'martin':11 'monday':21 'nativ':27 'obama':19 'presid':18 'rep':10 'requir':45 'sign':14 'sponsor':7 'start':34 'tribal':38 'u.s':9</fti-names>
+          <source-url>http://www.abqjournal.com/</source-url>
+          <url>http://www.abqjournal.com/main/2012/08/04/opinion/home-where-hearth-is.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972185</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albuquerque Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:52:06-04:00</created-at>
+          <title>Heather Wilson &#8220;Proud&#8221; Of Votes To Protect Special Tax Breaks for Companies Shipping Jobs Overseas</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...shows just how wrong her priorities are for New Mexico,&#8221; said Whitney Potter, spokeswoman for Democratic Senate candidate Martin Heinrich. &#8220;We need leaders who are going to fight for the future of the middle class and put New Mexicans back to work, </excerpt>
+          <fti-names>'back':55 'break':10 'candid':33 'class':50 'compani':12 'democraci':58 'democrat':31 'fight':43 'futur':46 'go':41 'heather':1 'heinrich':35 'job':14 'leader':38 'martin':34 'mexican':54 'mexico':25,61 'middl':49 'need':37 'new':24,53,60 'oversea':15 'potter':28 'prioriti':21 'protect':7 'proud':3 'put':52 'said':26 'senat':32 'ship':13 'show':16 'special':8 'spokeswoman':29 'tax':9 'vote':5 'whitney':27 'wilson':2 'work':57 'wrong':19</fti-names>
+          <source-url>http://www.democracyfornewmexico.com/</source-url>
+          <url>http://feedproxy.google.com/~r/typepad/BarbWire55/democracy_for_new_mexico/~3/9c0FooZajm4/heather-wilson-proud-of-votes-to-protect-special-tax-breaks-for-companies-shipping-jobs-overseas.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971647</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Democracy for New Mexico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:40:58-04:00</created-at>
+          <title>Job fair for veterans to feature 33 employers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...at the South Valley Multipurpose center at 2008 Larrazolo Road SW from 3 p.m. to 7 p.m. Organizers of the event from U.S. Rep. Martin Heinrich&#8217;s, D-N.M., office, said the employers will be taking resumes and answering questions. Heinrich&#8217;s office wi</excerpt>
+          <fti-names>'2008':16 '3':21 '33':7 '7':24 'answer':49 'busi':57 'center':14 'd':37 'd-n':36 'employ':8,43 'event':29 'fair':2 'featur':6 'heinrich':34,51 'job':1 'larrazolo':17 'm':39 'martin':33 'mexico':56 'multipurpos':13 'n':38 'new':55 'offic':40,53 'organ':26 'p.m':22,25 'question':50 'rep':32 'resum':47 'road':18 'said':41 'south':11 'sw':19 'take':46 'u.s':31 'valley':12 'veteran':4 'week':58 'wi':54</fti-names>
+          <source-url>http://albuquerque.bizjournals.com/albuquerque/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_albuquerque/~3/-chU7D5pKcg/veteran-job-fair-to-feature-33-employers.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970675</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New Mexico Business Weekly</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:40:53-04:00</created-at>
+          <title>N.M. Pols Vote With Parties on Tax Plan</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...positions Tuesday on a proposed one-year extension of tax cuts for American families making more than $250,000 per year. Rep. Martin Heinrich and Ben Ray Luj&#225;n, both New Mexico Democrats, voted against a House bill Tuesday to extend tax cuts for famili</excerpt>
+          <fti-names>'000':28 '250':27 'albuquerqu':54 'american':22 'ben':35 'bill':46 'cut':20,51 'democrat':41 'extend':49 'extens':17 'famili':23,53 'heinrich':33 'hous':45 'journal':55 'luj&#225;n':37 'make':24 'martin':32 'mexico':40 'n.m':1 'new':39 'one':15 'one-year':14 'parti':5 'per':29 'plan':8 'pol':2 'posit':9 'propos':13 'ray':36 'rep':31 'tax':7,19,50 'tuesday':10,47 'vote':3,42 'year':16,30</fti-names>
+          <source-url>http://www.abqjournal.com/</source-url>
+          <url>http://www.abqjournal.com/main/2012/08/02/news/nm-pols-vote-with-parties-on-tax-plan.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970674</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albuquerque Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:42:58-04:00</created-at>
+          <title>Upgrade the Senate: Send in Martin Heinrich</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...are being run by Heather Wilson and Karl Rove's organizations. New Mexico and the Nation need more individuals like Martin Heinrich representing the people in Washington, DC. Dick Cheney said, &quot;Pi$$ on 'em!&quot; And, Ronald Reagan replied, &quot;That's a Great I</excerpt>
+          <fti-names>'cheney':37 'daili':51 'dc':35 'dick':36 'em':41 'great':49 'heather':12 'heinrich':7,29 'individu':26 'karl':15 'kos':52 'like':27 'martin':6,28 'mexico':20 'nation':23 'need':24 'new':19 'organ':18 'peopl':32 'pi':39 'reagan':44 'repli':45 'repres':30 'ronald':43 'rove':16 'run':10 'said':38 'senat':3 'send':4 'upgrad':1 'washington':34 'wilson':13</fti-names>
+          <source-url>http://www.dailykos.com/</source-url>
+          <url>http://feeds.dailykos.com/~r/dailykos/index/~3/9WonEF5OmHg/-Upgrade-the-Senate-Send-in-Martin-Heinrich</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969714</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Kos</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:46:53-04:00</created-at>
+          <title>BIA Housing Rules Eased Under Heinrich Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8212; Native Americans hoping to buy a home on tribal land could find it easier to do under a bill sponsored by Rep. Martin Heinrich of New Mexico and signed into law by President Barack Obama on Monday. The new law eliminates a ...</excerpt>
+          <fti-names>'abqjourn':51 'american':10 'barack':42 'bia':1 'bill':7,27 'buy':13 'could':19 'eas':4 'easier':22 'elimin':49 'find':20 'heinrich':6,32 'home':15 'hope':11 'hous':2 'land':18 'law':39,48 'martin':31 'mexico':35 'monday':45 'nativ':9 'new':34,47 'obama':43 'presid':41 'rep':30 'rule':3 'sign':37 'sponsor':28 'tribal':17 'washington':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.abqjournal.com/main/2012/07/31/news/bia-housing-rules-eased-under-heinrich-bill.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T02:02:00-04:00</date>
+          <id type="integer">16966618</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABQJournal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:46:56-04:00</created-at>
+          <title>The DSCC Attack Ad Against Heather Wilson</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...But New Mexico is a state President Obama is favored to win on the presidential level, and where Democratic nominee Martin Heinrich has a small, early edge against Wilson. Both Wilson and Crossroads GPS are attacking Heinrich on television, and the Demo</excerpt>
+          <fti-names>'ad':4 'attack':3,43 'crossroad':40 'demo':49 'democrat':26 'dscc':2 'earli':33 'edg':34 'favor':17 'gps':41 'heather':6 'heinrich':29,44 'journal':51 'level':23 'martin':28 'mexico':10 'nation':50 'new':9 'nomine':27 'obama':15 'presid':14 'presidenti':22 'small':32 'state':13 'televis':46 'wilson':7,36,38 'win':19</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/07/the-dscc-attack.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966624</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Martin Heinrich [D, NM-1]</name>
+      <total-session-votes type="integer">1648</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepMartinHeinrich</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:50-04:00</created-at>
+          <title>Daily Kos: Daily Kos Elections Morning Digest: Check out our new ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>NM-Sen: Hey, I wanted to poll Connecticut! But New Mexico was the winner, and what does PPP find? Absolutely no change at all. Dem Rep. Martin Heinrich led Republican ex-Rep. Heather Wilson by a 48-43 spread in April, ...</excerpt>
+          <fti-names>'-43':51 '48':50 'absolut':32 'april':54 'chang':34 'check':8 'connecticut':20 'daili':1,3 'david':56 'dem':37 'digest':7 'elect':5 'ex':44 'ex-rep':43 'find':31 'heather':46 'heinrich':40 'hey':15 'kos':2,4 'led':41 'martin':39 'mexico':23 'morn':6 'new':11,22 'nir':57 'nm':13 'nm-sen':12 'poll':19 'ppp':30 'rep':38,45 'republican':42 'rss@dailykos.com':55 'sen':14 'spread':52 'want':17 'wilson':47 'winner':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/07/18/1111163/-Daily-Kos-Elections-Morning-Digest-Check-out-our-new-2Q-House-fundraising-chart&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNHTOTORszjfv-LVPVk1aPvXeOzkJw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716097</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (David Nir)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:50-04:00</created-at>
+          <title>New Mexico: Heather Wilson Talks Senate Prospects | At the Races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Wilson&amp;#39;s opponent, Rep. Martin Heinrich (D), who holds her old House seat, has led the former Congresswoman in recent polls, and she&amp;#39;ll need strong support from Republicans, independents and even some conservative Democrats to win ...</excerpt>
+          <fti-names>'congresswoman':28 'conserv':44 'd':17 'democrat':45 'even':42 'former':27 'heather':3 'heinrich':16 'hold':19 'hous':22 'independ':40 'kyle':49 'kyletrygstad@rollcall.com':48 'led':25 'll':34 'martin':15 'mexico':2 'need':35 'new':1 'old':21 'oppon':13 'poll':31 'prospect':7 'race':10 'recent':30 'rep':14 'republican':39 'seat':23 'senat':6 'strong':36 'support':37 'talk':5 'trygstad':50 'wilson':4,11 'win':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/new_mexico_heather_wilson_talks_senate_prospects-216235-1.html&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHw2edOYj1xD6gxzCDK3h-K7EshIw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716096</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>KyleTrygstad@rollcall.com (Kyle Trygstad)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>HEARTH Act Passes Sentate; Goes to President for Signature ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON, D.C. (July 17, 2012) &#8211; Legislation sponsored by U.S. Representative Martin Heinrich (NM-1) to remove barriers between Native American families and homeownership cleared the Senate today by a ...</excerpt>
+          <fti-names>'-1':23 '17':13 '2012':14 'act':2 'american':29 'barrier':26 'clear':33 'd.c':11 'famili':30 'fletcher':41 'goe':5 'hearth':1 'heinrich':21 'homeownership':32 'juli':12 'l.m':40 'legisl':15 'martin':20 'matthew':39 'nativ':28 'nm':22 'pass':3 'presid':7 'remov':25 'repres':19 'senat':35 'sentat':4 'signatur':9 'sponsor':16 'today':36 'u.s':18 'washington':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://turtletalk.wordpress.com/2012/07/18/hearth-act-passes-sentate-goes-to-president-for-signature/&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHm2urQrxgKQ_urNAGZDdjcztPtwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716095</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matthew L.M. Fletcher</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>Wilson lays out attacks on Heinrich in N.M. Senate race | SierraActivist</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Former Rep. Heather Wilson (R-N.M.) laid out her campaign strategy against Rep. Martin Heinrich (D-N.M.) on Wednesday, describing him as out on the extreme of his own party and promising to hit the longtime enviromental advocate on ...</excerpt>
+          <fti-names>'advoc':53 'attack':4 'campaign':23 'd':30 'd-n':29 'describ':35 'e2':56 'e2-wire':55 'enviroment':52 'extrem':41 'former':12 'heather':14 'heinrich':6,28 'hit':49 'laid':20 'lay':2 'longtim':51 'm':19,32 'martin':27 'n':18,31 'n.m':8 'parti':45 'promis':47 'r':17 'r-n':16 'race':10 'rep':13,26 'senat':9 'sierraactivist':11 'strategi':24 'wednesday':34 'wilson':1,15 'wire':57</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sierraactivist.org/2012/07/18/wilson-lays-out-attacks-on-heinrich-in-n-m-senate-race/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwilson-lays-out-attacks-on-heinrich-in-n-m-senate-race&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNHFX9Ir-A09E7zQBbt5Gq36eqeW8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716094</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>E2-Wire</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>New Mexico Senate race heats up &#8211; CNN Political Ticker - CNN.com ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>(CNN) -- Former Rep. Heather Wilson of New Mexico sought to draw a sharp contrast Wednesday with her Democratic opponent in the state&amp;#39;s heated U.S. Senate race, painting her opponent, Rep. Martin Heinrich, as a ...</excerpt>
+          <fti-names>'a.killough':46 'cnn':7,11 'cnn.com':10 'contrast':24 'democrat':28 'draw':21 'former':12 'heat':5,34 'heather':14 'heinrich':43 'martin':42 'mexico':2,18 'new':1,17 'oppon':29,40 'paint':38 'polit':8 'race':4,37 'rep':13,41 'senat':3,36 'sharp':23 'sought':19 'state':32 'ticker':9 'u.s':35 'wednesday':25 'wilson':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicalticker.blogs.cnn.com/2012/07/18/new-mexico-senate-race-heats-up/&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNE7_05UoMP4sBTkY4f3O72dOuhdcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716093</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>A.Killough</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>Heather Wilson to Paint Martin Heinrich as Enviro Extremist in New ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Martin Heinrich, against whom Wilson is running in ...Wilson lays out attacks on HeinrichThe Hill (blog)Sportsmen back congressman&amp;#39;s hunting access billSacramento BeeCan Heather Wilson, a moderate Republican, win ...</excerpt>
+          <fti-names>'access':33 'attack':23 'back':29 'beecan':35 'billsacramento':34 'blog':27 'congressman':30 'enviro':8 'extremist':9 'heather':1,36 'heinrich':6,13 'heinrichth':25 'hill':26 'hunt':32 'lay':21 'martin':5,12 'moder':39 'new':11 'paint':4 'republican':40 'run':18 'sportsmen':28 'thepromoter.com':42 'wilson':2,16,20,37 'win':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thepromoter.com/news/heather-wilson-to-paint-martin-heinrich-as-enviro-extremist-in-new-mexico-abc-news-blog&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNFhedhobkEIP3WUS332GemnaJKbTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716092</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thepromoter.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>Wilson team: tough campaign to hurt Heinrich</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>... used to close calls in election campaigns. Now, she&amp;#39;s making the case that her history of hard-fought contests will benefit her candidacy in this year&amp;#39;s closely watched U.S. Senate race against Democratic Rep. Martin Heinrich.</excerpt>
+          <fti-names>'/subindex/news':49 'benefit':30 'call':11 'campaign':4,14 'candidaci':32 'case':20 'close':10,37 'contest':28 'democrat':43 'elect':13 'fought':27 'hard':26 'hard-fought':25 'heinrich':7,46 'histori':23 'hurt':6 'make':18 'martin':45 'race':41 'rep':44 'senat':40 'team':2 'tough':3 'u.s':39 'use':8 'watch':38 'wilson':1 'www.krqe.com':48 'www.krqe.com/subindex/news':47 'year':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.krqe.com/dpp/news/politics/wilson-team-tough-campaign-to-hurt-heinrich&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNHucFT78kSd1MFpF0O8YATxQMGVqA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716091</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.krqe.com/subindex/news</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:49-04:00</created-at>
+          <title>The Westerner: Heather Wilson to Paint Martin Heinrich as Enviro ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>At a briefing with reporters today at the National Republican Senatorial Committee, New Mexico Senate candidate Heather Wilson and campaign aides laid out their plan of attack against Democratic Rep. Martin Heinrich ...</excerpt>
+          <fti-names>'aid':31 'attack':37 'brief':13 'campaign':30 'candid':26 'committe':22 'democrat':39 'duboi':44 'enviro':10 'frank':43 'heather':3,27 'heinrich':8,42 'laid':32 'martin':7,41 'mexico':24 'nation':19 'new':23 'paint':6 'plan':35 'rep':40 'report':15 'republican':20 'senat':25 'senatori':21 'today':16 'western':2 'wilson':4,28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thewesterner.blogspot.com/2012/07/heather-wilson-to-paint-martin-heinrich.html&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNE82WO3vtTdq7e7zIKKrRZRsTVOZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16716090</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Frank DuBois</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:08:48-04:00</created-at>
+          <title>On Taxes, Martin Heinrich Is More Liberal Than President Barack ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Liberal Congressman Martin Heinrich today released a false ad claiming that he&amp;#39;s fighting for lower taxes; yet in Washington Heinrich is actually more liberal than President Obama on the issue of taxes, particularly on small ...</excerpt>
+          <fti-names>'actual':33 'ad':19 'barack':10 'claim':20 'congressman':12 'fals':18 'fight':24 'heinrich':4,14,31 'issu':41 'liber':7,11,35 'lower':26 'martin':3,13 'nrsc':47 'obama':38 'offic':49 'particular':44 'presid':9,37 'press':48 'releas':16 'small':46 'tax':2,27,43 'today':15 'washington':30 'yet':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nrsc.org/2012/07/on-taxes-martin-heinrich-is-more-liberal-than-president-barack-obama/&amp;sa=U&amp;ei=P3oHUNneKdDW2wWE_ZjwBA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNH0bWP7cnPg7lOEhgMzqglAO3gRoQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716089</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NRSC Press Office</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412281</commentariable-id>
+          <created-at type="datetime">2012-07-06T01:15:34-04:00</created-at>
+          <title>Meet the 112th | Republicans and Democrats in close races plan to ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>A campaign aide said her children&amp;#39;s busy summer schedule is partly to blame ? but she&amp;#39;s also in a tight race against Rep. Martin Heinrich (D) in a Democratic-leaning state that Obama carried by 15 percentage points in 2008.</excerpt>
+          <fti-names>'112th':3 '15':49 '2008':53 'aid':14 'also':29 'blame':25 'busi':19 'campaign':13 'carri':47 'children':17 'close':8 'd':38 'democrat':6,42 'democratic-lean':41 'heinrich':37 'lean':43 'martin':36 'meet':1 'obama':46 'part':23 'percentag':50 'plan':10 'point':51 'post':55 'race':9,33 'rep':35 'republican':4 'said':15 'schedul':21 'state':44 'summer':20 'tight':32 'washington':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/republicans-and-democrats-in-close-races-plan-to-skip-parties-conventions/&amp;sa=U&amp;ei=ZHT2T929Ouqa2gWH3oz_Bg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNEwipY3LiKYSqRK16LzlFgYGhSZFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16408432</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">16198</page-views-count>
+      <unaccented-name>Martin Heinrich</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

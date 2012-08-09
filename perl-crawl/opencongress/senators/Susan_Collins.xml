@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-08T19:51:06-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">65.5696202531646</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">412384</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-09-25T21:17:21-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">293</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">64</party-votes-percentage-rank>
+        <sponsored-bills type="integer">36</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300025</person-id>
+        <cosponsored-bills-rank type="integer">8</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-12T22:54:53-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">31</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">259</votes-republican-position>
+      <blog-article-count type="integer">22034</blog-article-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <user-approval type="float">2.74838709677419</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">402</oc-users-tracking>
+      <bioguide-id>C001035</bioguide-id>
+      <contact-webform>http://www.collins.senate.gov/public/continue.cfm?FuseAction=ContactSenatorCollins.EmailIssue</contact-webform>
+      <email nil="true"></email>
+      <middlename>M.</middlename>
+      <with-party-percentage type="float">65.5696202531646</with-party-percentage>
+      <lastname>Collins</lastname>
+      <congress-office>413 Dirksen Senate Office Building</congress-office>
+      <biography nil="true"></biography>
+      <firstname>Susan</firstname>
+      <website>http://www.collins.senate.gov</website>
+      <birthday type="date">1952-12-07</birthday>
+      <person-id type="integer">300025</person-id>
+      <phone>202-224-2523</phone>
+      <metavid-id>Susan_Collins</metavid-id>
+      <religion>Catholic</religion>
+      <votes-democratic-position type="integer">276</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:47-04:00</created-at>
+          <title>Protests over Maine lobster expand in Canada</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...on Maine's fishing industry, which provides a mutual benefit for both countries,&quot; LePage said in a statement. U.S. Sen. Susan Collins expressed her concern to the U.S. ambassador to Canada, David Jacobson. It's estimated that more than half of Maine's a</excerpt>
+          <fti-names>'ambassador':36 'ap':53 'benefit':17 'canada':7,38 'collin':29 'concern':32 'countri':20 'david':39 'estim':43 'expand':5 'express':30 'findlaw':52 'fish':11 'half':47 'industri':12 'jacobson':40 'lepag':21 'lobster':4 'main':3,9,49 'mutual':16 'news':55 'profession':54 'protest':1 'provid':14 'said':22 'sen':27 'statement':25 'susan':28 'u.s':26,35</fti-names>
+          <source-url>http://legalpronews.findlaw.com/</source-url>
+          <url>http://news.findlaw.com/apnews-lp/8e1a5f69e7d9449a8a5b51bd770eb386</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973717</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FindLaw: AP Professional News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:48-04:00</created-at>
+          <title>Feds boost Auburn bridge project</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...announced that the project would get a $580,000 grant because it uses new materials. The grant was announced by Sen. Susan Collins, R-Maine, and Rep. Mike Michaud, D-Maine, through the Highways For Life program, a pilot program designed to promote more </excerpt>
+          <fti-names>'000':14 '580':13 'announc':6,24 'auburn':3 'boost':2 'bridg':4 'collin':28 'd':37 'd-main':36 'design':48 'fed':1 'get':11 'grant':15,22 'highway':41 'journal':53 'life':43 'main':31,38 'materi':20 'michaud':35 'mike':34 'new':19 'pilot':46 'program':44,47 'project':5,9 'promot':50 'r':30 'r-main':29 'rep':33 'sen':26 'sun':52 'susan':27 'use':18 'would':10</fti-names>
+          <source-url>http://www.sunjournal.com/</source-url>
+          <url>http://feedproxy.google.com/~r/sunjournaltopheadlines/~3/duhGcvhGObs/1233126</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973718</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sun Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:57-04:00</created-at>
+          <title>White House Considers Executive Order for Cybersecurity Rules</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...from Congress on other issues that he has used the Executive Order method to deal with. Cybersecurity Act co-sponsor Senator Susan Collins (R-Maine) reacted coolly to the idea of an executive order to deal with the issue. &quot;I'm not for doing by executive</excerpt>
+          <fti-names>'act':26 'co':28 'co-sponsor':27 'collin':32 'congress':10 'consid':3 'coolli':37 'cybersecur':7,25 'deal':23,46 'execut':4,19,43,56 'game':57 'hous':2 'idea':40 'issu':13,49 'm':51 'main':35 'method':21 'order':5,20,44 'polit':58 'r':34 'r-main':33 'react':36 'rule':8 'senat':30 'sponsor':29 'susan':31 'use':17 'white':1</fti-names>
+          <source-url>http://gamepolitics.com/</source-url>
+          <url>http://gamepolitics.com/2012/08/06/white-house-considers-executive-order-cybersecurity-rules</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973083</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Game Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:57-04:00</created-at>
+          <title>After Senate Cybersecurity Bill Defeat, Obama Weighs Executive-Order</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...consequences. The president urged Congress to pass the Cybersecurity Act, which was offered by Sens. Joe Lieberman (I-CT) and Susan Collins (R-ME). The bill would have encouraged private companies and the government to share information about cyber thre</excerpt>
+          <fti-names>'act':20 'bill':4,38 'collin':33 'compani':43 'congress':15 'consequ':11 'ct':30 'cyber':51 'cybersecur':3,19 'defeat':5 'encourag':41 'execut':9 'executive-ord':8 'govern':46 'i-ct':28 'inform':49 'joe':26 'journal':56 'lieberman':27 'media':55 'new':54 'obama':6 'offer':23 'order':10 'pass':17 'presid':13 'privat':42 'r':35 'r-me':34 'sen':25 'senat':2 'share':48 'susan':32 'thre':52 'urg':14 'weigh':7 'would':39</fti-names>
+          <source-url>http://www.newmediajournal.us/</source-url>
+          <url>http://newmediajournal.us/indx.php/item/6366</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973082</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The New Media Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:57-04:00</created-at>
+          <title>Sikh Temple Investigated As Domestic Terrorism, Ft. Hood Shooting Is Still Just &#8220;Work Place Violence&#8221;</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...that the more we learn about the shooter the more troubled he&#8217;s going to sound. Given all that, let&#8217;s compare with this: Sen. Susan Collins on Wednesday blasted the Defense Department for classifying the Fort Hood massacre as workplace violence and </excerpt>
+          <fti-names>'blast':45 'classifi':50 'collin':42 'compar':37 'defens':47 'depart':48 'domest':5 'fort':52 'ft':7 'given':32 'go':29 'hood':8,53 'investig':3 'learn':20 'let':35 'massacr':54 'place':14 'sen':40 'shoot':9 'shooter':23 'sikh':1 'sound':31 'still':11 'susan':41 'templ':2 'terror':6 'troubl':26 'violenc':15,57 'wednesday':44 'wizbang':59 'work':13 'workplac':56</fti-names>
+          <source-url>http://wizbangblog.com/</source-url>
+          <url>http://feeds.wizbangblog.com/~r/Wizbang/~3/lcqTO0h04b0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973081</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wizbang</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:56-04:00</created-at>
+          <title>In Michigan, Vote Hoekstra Tuesday</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...hinders progress in Washington, referring to the work he did as chairman of the Intelligence Committee alongside Republican Sen. Susan Collins and two Democrats to reform the intelligence community. He can also point to his experience on the House Budge</excerpt>
+          <fti-names>'alongsid':22 'also':37 'budg':45 'chairman':17 'collin':26 'committe':21 'communiti':34 'democrat':29 'experi':41 'hinder':6 'hoekstra':4 'hous':44 'intellig':20,33 'michigan':2 'newsmax':46 'point':38 'progress':7 'refer':10 'reform':31 'republican':23 'sen':24 'susan':25 'tuesday':5 'two':28 'vote':3 'washington':9 'work':13</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/Hoekstra-primary-editorial-Michigan/2012/08/06/id/447696</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973080</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:57:05-04:00</created-at>
+          <title>Truth Test: Ad inflates Pingree's spending for 2012</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...As of June 30, she had outraised Courtney by more than $727,000. And in 2002, when she unsuccessfully ran against U.S. Sen. Susan Collins, she raised $3.9 million to Collins' $4.3 million, according to a 2008 Portland Press Herald article. After losing </excerpt>
+          <fti-names>'000':22 '2002':25 '2008':46 '2012':9 '3.9':37 '30':13 '4.3':41 '727':21 'accord':43 'ad':3 'articl':50 'collin':34,40 'courtney':17 'herald':49,57 'inflat':4 'june':12 'lose':52 'main':55 'million':38,42 'outrais':16 'pingre':5 'portland':47,54 'press':48,56 'rais':36 'ran':29 'sen':32 'spend':7 'susan':33 'test':2 'truth':1 'u.s':31 'unsuccess':28</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=561087&amp;44=165026486&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2Fad-inflates-pingrees-spending-for-2012_2012-08-05.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972578</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:12:58-04:00</created-at>
+          <title>Tea party effect could reshape Senate GOP</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...could find himself having to balance the demands of Republicans like Cruz against those of remaining centrists like Sen. Susan Collins of Maine. But those concerns will come later as conservatives were busy Wednesday celebrating the triumph of Cruz. &#8220;</excerpt>
+          <fti-names>'balanc':13 'busi':40 'celebr':42 'centrist':24 'charlott':47 'collin':28 'come':35 'concern':33 'conserv':38 'could':4,8 'cruz':19,46 'demand':15 'effect':3 'find':9 'gop':7 'later':36 'like':18,25 'main':30 'observ':48 'parti':2 'remain':23 'republican':17 'reshap':5 'sen':26 'senat':6 'susan':27 'tea':1 'triumph':44 'wednesday':41</fti-names>
+          <source-url>http://www.charlotte.com/mld/charlotte/</source-url>
+          <url>http://www.charlotteobserver.com/2012/08/02/3430881/tea-party-effect-could-reshape.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972311</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Charlotte Observer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:12:56-04:00</created-at>
+          <title>Sen. Susan Collins tried to keep next week&#8217;s wedding under the radar. Didn&#8217;t work.</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Susan Collins stands with Thomas A. Daffron, a longtime Senate senior staff member and a consultant. You plan a small wedding, register for a few gifts and try to kept it all pretty low-key. Might work for your average bride, but not for a U.S. senator.</excerpt>
+          <fti-names>'averag':57 'bangor':65 'bride':58 'collin':3,18 'consult':32 'daffron':23 'daili':66 'didn':14 'gift':42 'keep':6 'kept':46 'key':52 'longtim':25 'low':51 'low-key':50 'member':29 'might':53 'news':67 'next':7 'plan':34 'pretti':49 'radar':13 'regist':38 'sen':1 'senat':26,64 'senior':27 'small':36 'staff':28 'stand':19 'susan':2,17 'thoma':21 'tri':4,44 'u.s':63 'wed':10,37 'week':8 'work':16,54</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/04/politics/sen-susan-collins-tried-to-keep-next-weeks-wedding-under-the-radar-didnt-work/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972310</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:36-04:00</created-at>
+          <title>Cybersecurity is way too much trouble for corporations.</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...we don&#8217;t at least debate this on the floor and let the body work its will.&#8221; The bill&#8217;s other and sole Republican co-sponsor, Sen. Susan Collins (R-Maine), called it a &#8220;shameful day.&#8221; &#8220;It is just incomprehensible to me that we would not proce</excerpt>
+          <fti-names>'bill':27 'bodi':22 'call':42 'co':34 'co-sponsor':33 'collin':38 'corpor':8 'cybersecur':1 'day':46 'debat':14 'floor':18 'incomprehens':50 'least':13 'let':20 'main':41 'much':5 'proce':57 'r':40 'r-main':39 'republican':32 'sen':36 'shame':45 'sole':31 'sponsor':35 'susan':37 'troubl':6 'way':3 'wire':58 'work':23 'would':55</fti-names>
+          <source-url>http://www.wired.com/</source-url>
+          <url>http://feedproxy.google.com/~r/wiredbeyond/~3/FOJt0prU58A/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971927</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wired</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <youtube-id>SenatorSusanCollins</youtube-id>
+      <name>Sen. Susan Collins [R, ME]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:33:48-04:00</created-at>
+          <title>Meet the 112th | Washington Notebook: Collins helps retire chimps ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>July 29&#8211;WASHINGTON &#8212; About 500 chimpanzees now living in government test labs may get second lives thanks to legislation co-sponsored by Sen. Susan Collins, R-Maine. This past week, the Senate Environment and ...</excerpt>
+          <fti-names>'112th':3 '29':11 '500':14 'chimp':9 'chimpanze':15 'co':30 'co-sponsor':29 'collin':6,35 'environ':44 'get':23 'govern':19 'help':7 'herald':48 'juli':10 'lab':21 'legisl':28 'live':17,25 'main':38 'may':22 'meet':1 'notebook':5 'past':40 'portland':46 'press':47 'r':37 'r-main':36 'retir':8 'second':24 'sen':33 'senat':43 'sponsor':31 'susan':34 'test':20 'thank':26 'washington':4,12 'week':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/washington-notebook-collins-helps-retire-chimps-used-in-u-s-research-2/&amp;sa=U&amp;ei=EmAXUMXsN4L48wSpi4CAAw&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNGBp6nH68F7BeONL9B4lGcFKmnHsQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962157</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Portland Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:33:42-04:00</created-at>
+          <title>Cybersecurity Act Now Pending in U.S. Senate &#171; Blog Law Blog</title>
+          <contains-term>senate</contains-term>
+          <excerpt>and Sen. Susan Collins (R-Maine). Jennifer also includes a link to her annotated version ([pdf]) of the bill. The bill is 211 pages. So any annotations are very helpful. Jennifer says that the bill is &#8220;a step forward for those who ...</excerpt>
+          <fti-names>'211':34 'act':2 'also':19 'annot':25,38 'bill':30,32,46 'blog':8,10 'collin':14 'cybersecur':1 'e':55 'eric':54 'forward':50 'help':41 'includ':20 'jennif':18,42 'johnson':56 'law':9 'link':22 'main':17 'page':35 'pdf':27 'pend':4 'r':16 'r-main':15 'say':43 'sen':12 'senat':7 'step':49 'susan':13 'u.s':6 'version':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bloglawblog.com/blog/%3Fp%3D4177&amp;sa=U&amp;ei=EmAXUMXsN4L48wSpi4CAAw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHETIOYwuraL_ex12cimM3Gk0owXQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962153</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric E. Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:09:29-04:00</created-at>
+          <title>Meet the 112th | Washington Notebook: Collins helps retire chimps ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>July 29&#8211;WASHINGTON &#8212; About 500 chimpanzees now living in government test labs may get second lives thanks to legislation co-sponsored by Sen. Susan Collins, R-Maine. This past week, the Senate Environment and ...</excerpt>
+          <fti-names>'112th':3 '29':11 '500':14 'chimp':9 'chimpanze':15 'co':30 'co-sponsor':29 'collin':6,35 'environ':44 'get':23 'govern':19 'help':7 'herald':48 'juli':10 'lab':21 'legisl':28 'live':17,25 'main':38 'may':22 'meet':1 'notebook':5 'past':40 'portland':46 'press':47 'r':37 'r-main':36 'retir':8 'second':24 'sen':33 'senat':43 'sponsor':31 'susan':34 'test':20 'thank':26 'washington':4,12 'week':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/washington-notebook-collins-helps-retire-chimps-used-in-u-s-research-2/&amp;sa=U&amp;ei=bnkWUKCmHJOK8QTbpYGABQ&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNFfdbSKVNPijMxvEEOeGoG74DiLow</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16951618</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Portland Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:33:47-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>A less conservative Republican and woman of the East, Sen. Susan Collins of Maine, points out that she and her GOP colleagues unanimously elected Thune to their leadership team. &amp;quot;He has a good image for the party,&amp;quot; ...</excerpt>
+          <fti-names>'/news/feed':49 'colleagu':31 'collin':21 'conserv':12 'east':18 'elect':33 'good':42 'gop':30 'imag':43 'leadership':37 'less':11 'main':23 'parti':46 'point':24 'republican':13 'right':6 'romney':9 'sen':2,19 'stuff':7 'susan':20 'team':38 'thune':3,34 'unanim':32 'woman':15 'www.gpb.org':48 'www.gpb.org/news/feed':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.gpb.org/news/2012/07/29/does-sen-thune-have-the-right-stuff-for-romney&amp;sa=U&amp;ei=EmAXUMXsN4L48wSpi4CAAw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHshwE0eEvXb_UaNDifD6hphQSHzQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962156</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.gpb.org/news/feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-31T00:33:24-04:00</created-at>
+          <title>World Wide Woodard: On Sen. Collins&amp;#39; mentor, fiance</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>In February, Sen. Susan Collins (R-Maine), 59, announced she was engaged to be married for the first time. Sometime next month, she will wed Thomas A. Daffron III, a political consultant and longtime chief of staff to Bill ...</excerpt>
+          <fti-names>'59':17 'announc':18 'bill':48 'chief':44 'colin':49 'collin':6,13 'consult':41 'daffron':37 'engag':21 'februari':10 'fianc':8 'first':27 'iii':38 'longtim':43 'main':16 'marri':24 'mentor':7 'month':31 'next':30 'polit':40 'r':15 'r-main':14 'sen':5,11 'sometim':29 'staff':46 'susan':12 'thoma':35 'time':28 'wed':34 'wide':2 'woodard':3,50 'world':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://colinwoodard.blogspot.com/2012/07/on-sen-collins-mentor-fiance.html&amp;sa=U&amp;ei=EmAXUMXsN4L48wSpi4CAAw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNF6FQFPw3j03U_2ZcT08QWtysu0Tw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962149</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Colin Woodard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:09:32-04:00</created-at>
+          <title>John Thune Makes Case For Romney, But VP Chances Still Slim</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Susan Collins of Maine, a less conservative Republican, shows that even non-tea party members like Thune. She pointed out that she, along with her GOP colleagues, unanimously selected the South Dakota Senator to ...</excerpt>
+          <fti-names>'along':36 'case':4 'chanc':9 'colleagu':40 'collin':14 'conserv':19 'dakota':45 'even':23 'gop':39 'john':1 'less':18 'like':29 'main':16 'make':3 'melissa':48 'member':28 'non':25 'non-tea':24 'parti':27 'point':32 'republican':20 'romney':6 'select':42 'sen':12 'senat':46 'show':21 'slim':11 'south':44 'still':10 'stusinski':49 'susan':13 'tea':26 'thune':2,30 'unanim':41 'vp':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.inquisitr.com/287915/john-thune-makes-case-for-romney-but-vp-chances-still-slim/&amp;sa=U&amp;ei=bnkWUKCmHJOK8QTbpYGABQ&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNFT1zepEUvQ6kBdZuV-rqZNh9fefQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951623</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Melissa Stusinski</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:09:28-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>A less conservative Republican and woman of the East, Sen. Susan Collins of Maine, points out that she and her GOP colleagues unanimously elected Thune to their leadership team. &amp;quot;He has a good image for the party,&amp;quot; ...</excerpt>
+          <fti-names>'/news/feed':49 'colleagu':31 'collin':21 'conserv':12 'east':18 'elect':33 'good':42 'gop':30 'imag':43 'leadership':37 'less':11 'main':23 'parti':46 'point':24 'republican':13 'right':6 'romney':9 'sen':2,19 'stuff':7 'susan':20 'team':38 'thune':3,34 'unanim':32 'woman':15 'www.gpb.org':48 'www.gpb.org/news/feed':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.gpb.org/news/2012/07/29/does-sen-thune-have-the-right-stuff-for-romney&amp;sa=U&amp;ei=bnkWUKCmHJOK8QTbpYGABQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGR2F-l59s5yPj9b-Fhh1XGjw7HTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951617</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.gpb.org/news/feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:09:19-04:00</created-at>
+          <title>World Wide Woodard: On Sen. Collins&amp;#39; mentor, fiance</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>In February, Sen. Susan Collins (R-Maine), 59, announced she was engaged to be married for the first time. Sometime next month, she will wed Thomas A. Daffron III, a political consultant and longtime chief of staff to Bill ...</excerpt>
+          <fti-names>'59':17 'announc':18 'bill':48 'chief':44 'colin':49 'collin':6,13 'consult':41 'daffron':37 'engag':21 'februari':10 'fianc':8 'first':27 'iii':38 'longtim':43 'main':16 'marri':24 'mentor':7 'month':31 'next':30 'polit':40 'r':15 'r-main':14 'sen':5,11 'sometim':29 'staff':46 'susan':12 'thoma':35 'time':28 'wed':34 'wide':2 'woodard':3,50 'world':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://colinwoodard.blogspot.com/2012/07/on-sen-collins-mentor-fiance.html&amp;sa=U&amp;ei=bnkWUKCmHJOK8QTbpYGABQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGKZ5xVvUoB4CWAYC-sTJvQfr519Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951614</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Colin Woodard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:42:44-04:00</created-at>
+          <title>Seven famous US &amp;#39;Muslim conspirators&amp;#39; | Rehmat&amp;#39;s World</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Mr. Israel, Sen. Joe Lieberman and his side-kick, Sen. Susan Collins, love Israel more than they love the United States. Both believe that Iran poses a great threat to Israel. Both attend AIPAC conferences on regular basis and ...</excerpt>
+          <fti-names>'aipac':43 'attend':42 'basi':47 'believ':32 'collin':21 'confer':44 'conspir':5 'famous':2 'great':37 'iran':34 'israel':10,23,40 'joe':12 'kick':18 'lieberman':13 'love':22,27 'mr':9 'muslim':4 'pose':35 'regular':46 'rehmat':6 'rehmat1':49 'sen':11,19 'seven':1 'side':17 'side-kick':16 'state':30 'susan':20 'threat':38 'unit':29 'us':3 'world':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rehmat1.com/2012/07/29/seven-famous-us-muslim-conspirators/&amp;sa=U&amp;ei=ePcUUJLSEMTf0QH_24DICA&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGx0E7vZvkfeNDJbUyvNPc9mWESMg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16931778</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rehmat1</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300025</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:42:43-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=ePcUUJLSEMTf0QH_24DICA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNEJz0g1t46FFjkYttsTw2ETy0cqbQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931777</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">47938</page-views-count>
+      <fax>202-224-2693</fax>
+      <unaccented-name>Susan Collins</unaccented-name>
+      <oc-user-comments type="integer">30</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">90.5875299760192</party-votes-percentage>
+        <abstains-percentage type="float">2.96684118673647</abstains-percentage>
+        <votes-most-often-with-id type="integer">412473</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">288</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">392</cosponsored-bills-passed-rank>
+        <abstains type="integer">51</abstains>
+        <cosponsored-bills type="integer">252</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">336</party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412294</person-id>
+        <cosponsored-bills-rank type="integer">247</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">358</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1511</votes-republican-position>
+      <middlename>M.</middlename>
+      <blog-article-count type="integer">4409</blog-article-count>
+      <user-approval type="float">4.15789473684211</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">154</oc-users-tracking>
+      <bioguide-id>L000571</bioguide-id>
+      <contact-webform>https://forms.house.gov/lummis/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">90.5875299760192</with-party-percentage>
+      <lastname>Lummis</lastname>
+      <congress-office>113 Cannon House Office Building</congress-office>
+      <metavid-id nil="true"></metavid-id>
+      <firstname>Cynthia</firstname>
+      <website>http://lummis.house.gov/</website>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412294</person-id>
+      <phone>202-225-2311</phone>
+      <youtube-id>CynthiaLummis</youtube-id>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">331</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:57:30-04:00</created-at>
+          <title>Lummis makes most sense</title>
+          <contains-term>republican</contains-term>
+          <excerpt>That is why the Wyoming Tribune Eagle's editorial board is recommending Republican U.S. Rep. Cynthia Lummis for reelection in the Nov. 2 general balloting. In the end, her ideas just are a better &quot;fit&quot; for Wyoming at this time. Libertarian John V.</excerpt>
+          <fti-names>'2':27 'ballot':29 'better':38 'board':14 'cynthia':20 'eagl':11,51 'editori':13 'end':32 'fit':39 'general':28 'idea':34 'john':46 'libertarian':45 'lummi':1,21 'make':2 'nov':26 'recommend':16 'reelect':23 'rep':19 'republican':17 'sens':4 'time':44 'tribun':10,50 'tribune-eagl':49 'u.s':18 'v':47 'wyom':9,41,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wyomingnews.com/articles/2012/07/28/opinion/staff_editorials/column725.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T07:34:50-04:00</date>
+          <id type="integer">16966841</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wyoming Tribune-Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:26:52-04:00</created-at>
+          <title>Lummis makes most sense</title>
+          <contains-term>republican</contains-term>
+          <excerpt>That is why the Wyoming Tribune Eagle's editorial board is recommending Republican U.S. Rep. Cynthia Lummis for reelection in the Nov. 2 general balloting. In the end, her ideas just are a better &quot;fit&quot; for Wyoming at this time. Libertarian John V.</excerpt>
+          <fti-names>'2':27 'ballot':29 'better':38 'board':14 'cynthia':20 'eagl':11,51 'editori':13 'end':32 'fit':39 'general':28 'idea':34 'john':46 'libertarian':45 'lummi':1,21 'make':2 'nov':26 'recommend':16 'reelect':23 'rep':19 'republican':17 'sens':4 'time':44 'tribun':10,50 'tribune-eagl':49 'u.s':18 'v':47 'wyom':9,41,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wyomingnews.com/articles/2012/07/27/opinion/staff_editorials/column725.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:07:24-04:00</date>
+          <id type="integer">16948471</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wyoming Tribune-Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:23:32-04:00</created-at>
+          <title>Election year politics snag Wyoming wind tower plant</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Tucker Fagan, chief of staff for Rep. Cynthia Lummis, R-Wyo., said the bill is likely to be part of the &#8220;Armageddon&#8221; of tax decisions, including extension of the Bush tax cuts, that Congress must deal with before the end of the year. Peter Kelley is ..</excerpt>
+          <fti-names>'armageddon':31 'bill':23 'bush':39 'chief':11 'congress':43 'cut':41 'cynthia':16 'deal':45 'decis':34 'elect':1 'end':49 'extens':36 'fagan':10 'includ':35 'kelley':54 'like':25 'lummi':17 'must':44 'part':28 'peter':53 'plant':8 'polit':3 'r':19 'r-wyo':18 'rep':15 'said':21 'snag':4 'staff':13 'star':57 'star-tribun':56 'tax':33,40 'tower':7 'tribun':58 'tucker':9 'wind':6 'wyo':20 'wyom':5 'year':2,52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://trib.com/news/state-and-regional/election-year-politics-snag-wyoming-wind-tower-plant/article_7de8efe4-79c9-587a-9f94-dfcea6ea83f6.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T12:45:01-04:00</date>
+          <id type="integer">16891049</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Star-Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:23:31-04:00</created-at>
+          <title>House Passes Job Boosting Energy Development Bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Jul 26, 2012 (Congressional Documents and Publications/ContentWorks via COMTEX) -- WASHINGTON - U.S. Representative Cynthia Lummis joined 252 members of the U.S. House in passing a replacement for President Obama's weak offshore drilling plan proposed this</excerpt>
+          <fti-names>'2012':10 '252':23 '26':9 'bill':7 'boost':4 'comtex':16 'congression':11 'cynthia':20 'develop':6 'document':12 'drill':39 'energi':5 'hous':1,28 'job':3 'join':22 'jul':8 'lummi':21 'member':24 'menafn':43 'obama':35 'offshor':38 'pass':2,30 'plan':40 'presid':34 'propos':41 'publications/contentworks':14 'replac':32 'repres':19 'u.s':18,27 'via':15 'washington':17 'weak':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.menafn.com/menafn/48060591-7efd-4bc9-8743-0cbd72428b28/House-Passes-Job-Boosting-Energy-Development-Bill?src=MWHEAD</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T12:09:14-04:00</date>
+          <id type="integer">16891048</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MENAFN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:14:22-04:00</created-at>
+          <title>Primaries inching closer</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>On the Democrat side, Al Hamburg of Torrington, Tim Chestnut of Laramie and William Bryk of Burntfork. U.S. Rep. Cynthia Lummis (R) is running unopposed in her party, as is candidate Chris Henrichsen of Casper, the unopposed Democrat candidate U ...</excerpt>
+          <fti-names>'al':8 'bryk':18 'burntfork':20 'candid':34,42 'casper':38 'chestnut':13 'chris':35 'closer':3 'cynthia':23 'democrat':6,41 'hamburg':9 'henrichsen':36 'herald':45 'inch':2 'larami':15 'lummi':24 'lusk':44 'parti':31 'primari':1 'r':25 'rep':22 'run':27 'side':7 'tim':12 'torrington':11 'u':43 'u.s':21 'unoppos':28,40 'william':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.luskherald.com/v2_news_articles.php?heading=0&amp;page=72&amp;story_id=2277</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T10:57:39-04:00</date>
+          <id type="integer">16922327</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lusk Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:14:20-04:00</created-at>
+          <title>Lummis makes most sense</title>
+          <contains-term>republican</contains-term>
+          <excerpt>That is why the Wyoming Tribune Eagle's editorial board is recommending Republican U.S. Rep. Cynthia Lummis for reelection in the Nov. 2 general balloting. In the end, her ideas just are a better &quot;fit&quot; for Wyoming at this time. Libertarian John V.</excerpt>
+          <fti-names>'2':27 'ballot':29 'better':38 'board':14 'cynthia':20 'eagl':11,51 'editori':13 'end':32 'fit':39 'general':28 'idea':34 'john':46 'libertarian':45 'lummi':1,21 'make':2 'nov':26 'recommend':16 'reelect':23 'rep':19 'republican':17 'sens':4 'time':44 'tribun':10,50 'tribune-eagl':49 'u.s':18 'v':47 'wyom':9,41,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wyomingnews.com/articles/2012/07/25/opinion/staff_editorials/column725.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T07:09:46-04:00</date>
+          <id type="integer">16922324</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wyoming Tribune-Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:26:58-04:00</created-at>
+          <title>Forest health</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Now Rep. Scott Tipton, R-Colo ... Rob Bishop, R-Utah, Don Young, R-Alaska, Paul Gosar, R-Ariz., and Cynthia Lummis, R-Wyo. It also has been endorsed by Club 20, the Colorado Association of Conservation Districts, the Colorado Timber Association, several ..</excerpt>
+          <fti-names>'20':38 'alaska':19 'also':32 'ariz':24 'associ':41,48 'bishop':11 'chieftain':51 'club':37 'colo':9 'colorado':40,46 'conserv':43 'cynthia':26 'district':44 'endors':35 'forest':1 'gosar':21 'health':2 'lummi':27 'paul':20 'pueblo':50 'r':8,13,18,23,29 'r-alaska':17 'r-ariz':22 'r-colo':7 'r-utah':12 'r-wyo':28 'rep':4 'rob':10 'scott':5 'sever':49 'timber':47 'tipton':6 'utah':14 'wyo':30 'young':16</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.chieftain.com/opinion/editorials/forest-health/article_760547aa-d60b-11e1-87af-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T05:58:11-04:00</date>
+          <id type="integer">16948473</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pueblo Chieftain</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:39:04-04:00</created-at>
+          <title>OVERNIGHT HEALTH: Healthcare scores on their way</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It narrowly cleared the subcommittee after conservative Rep. Cynthia Lummis (R-Wyo.) was allowed to offer a failed amendment that would have more than doubled the cuts. House Appropriations Committee ranking member Norm Dicks (D-Wash.) said: &#8220;Just one ..</excerpt>
+          <fti-names>'allow':22 'amend':27 'appropri':37 'clear':10 'committe':38 'conserv':14 'cut':35 'cynthia':16 'd':44 'd-wash':43 'dick':42 'doubl':33 'fail':26 'health':2 'healthcar':3 'hous':36 'lummi':17 'member':40 'narrowli':9 'norm':41 'offer':24 'one':48 'overnight':1 'r':19 'r-wyo':18 'rank':39 'rep':15 'said':46 'score':4 'subcommitte':12 'thehill.com':49 'wash':45 'way':7 'would':29 'wyo':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/healthwatch/health-reform-implementation/239605-overnight-health-healthcare-scores-on-their-way</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T20:12:23-04:00</date>
+          <id type="integer">16850593</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:39:04-04:00</created-at>
+          <title>Dems say GOP is hiding controversial labor, health bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It narrowly cleared the subcommittee after conservative Rep. Cynthia Lummis (R-Wyo.) was allowed to offer a failed amendment would have more than doubled the cuts. As it stands popular programs are, including funding for NPR and PBS and for Social Security</excerpt>
+          <fti-names>'allow':24 'amend':29 'bill':9 'clear':12 'conserv':16 'controversi':6 'cut':36 'cynthia':18 'dem':1 'doubl':34 'fail':28 'fund':44 'gop':3 'health':8 'hide':5 'includ':43 'labor':7 'lummi':19 'narrowli':11 'npr':46 'offer':26 'pbs':48 'popular':40 'program':41 'r':21 'r-wyo':20 'rep':17 'say':2 'secur':52 'social':51 'stand':39 'subcommitte':14 'thehill.com':53 'would':30 'wyo':22</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/on-the-money/appropriations/239567-dems-say-gop-is-hiding-controversial-labor-health-bill</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T16:30:29-04:00</date>
+          <id type="integer">16850592</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:30:00-04:00</created-at>
+          <title>Lummis makes most sense</title>
+          <contains-term>republican</contains-term>
+          <excerpt>That is why the Wyoming Tribune Eagle's editorial board is recommending Republican U.S. Rep. Cynthia Lummis for reelection in the Nov. 2 general balloting. In the end, her ideas just are a better &quot;fit&quot; for Wyoming at this time. Libertarian John V.</excerpt>
+          <fti-names>'2':27 'ballot':29 'better':38 'board':14 'cynthia':20 'eagl':11,51 'editori':13 'end':32 'fit':39 'general':28 'idea':34 'john':46 'libertarian':45 'lummi':1,21 'make':2 'nov':26 'recommend':16 'reelect':23 'rep':19 'republican':17 'sens':4 'time':44 'tribun':10,50 'tribune-eagl':49 'u.s':18 'v':47 'wyom':9,41,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wyomingnews.com/articles/2012/07/23/opinion/staff_editorials/column725.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T07:40:46-04:00</date>
+          <id type="integer">16859723</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wyoming Tribune-Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-225-3057</fax>
+      <name>Rep. Cynthia Lummis [R, WY-0]</name>
+      <total-session-votes type="integer">1668</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>0</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Congressional Interns Sought | Jackson Hole Radio</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Representative Cynthia Lummis is seeking college students and recent graduates interested in experiencing our government&amp;#39;s legislative branch first hand to apply for fall-term internships. Chosen applicants will spend ...</excerpt>
+          <fti-names>'appli':29 'applic':36 'branch':25 'chosen':35 'colleg':13 'congression':1 'cynthia':9 'experienc':20 'fall':32 'fall-term':31 'first':26 'govern':22 'graduat':17 'hand':27 'hole':5 'interest':18 'intern':2 'internship':34 'jackson':4 'legisl':24 'lummi':10 'radio':6 'recent':16 'repres':8 'seek':12 'sought':3 'spend':38 'student':14 'term':33 'tomn':39 'u.s':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jacksonholeradio.com/%3Fp%3D9196&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNFWF5J9qOQ-H_Zyncw8GxEfjDym1A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">15863521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>tomn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Who Voted On HR 3541 &#8211; Murdering Babies Solely Because Of ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Bill Huizenga [R-MI2] Rep. Randy Hultgren [R-IL14] Rep. Walter Jones [R-NC3] Rep. Adam Kinzinger [R-IL11] Rep. James Lankford [R-OK5] Rep. Robert Latta [R-OH5] Rep. Daniel Lipinski [D-IL3] Rep. Cynthia Lummis ...</excerpt>
+          <fti-names>'3541':5 'adam':30 'babi':7 'bill':12 'cynthia':54 'd':51 'd-il3':50 'daniel':48 'hr':4 'huizenga':13 'hultgren':19 'il11':34 'il14':22 'il3':52 'jame':36 'jone':25 'kinzing':31 'lankford':37 'latta':43 'lipinski':49 'lummi':55 'mi2':16 'murder':6 'nc3':28 'oh5':46 'ok5':40 'pitbul':57 'r':15,21,27,33,39,45 'r-il11':32 'r-il14':20 'r-mi2':14 'r-nc3':26 'r-oh5':44 'r-ok5':38 'randi':18 'rep':11,17,23,29,35,41,47,53 'robert':42 'sole':8 'twg2a':56 'vote':2 'walter':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://twg2a.wordpress.com/2012/05/31/who-voted-on-hr-3541-murdering-babies-solely-because-of-their-gender/&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGaCB_LoScDdOCT_7xrAduegA2ahA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">15863527</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>twg2a PitBull</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Congress takes batting practice | Washington Examiner</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congress takes batting practice. May 31, 2012 -- 3:54 PM. Comments. Rep. Cynthia Lummis takes batting practice in an unusual sporting outfit. Photo courtesy of Lummis&amp;#39; office. Jenny. Rogers. Staff Writer ...</excerpt>
+          <fti-names>'2012':13 '3':14 '31':12 '54':15 'bat':3,9,22 'comment':17 'congress':1,7 'courtesi':30 'cynthia':19 'examin':6 'jenni':34,38 'lummi':20,32 'may':11 'offic':33 'outfit':28 'photo':29 'pm':16 'practic':4,10,23 'rep':18 'roger':35,39 'sport':27 'staff':36 'take':2,8,21 'unusu':26 'washington':5 'writer':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtonexaminer.com/politics/yeas-and-nays/2012/05/congress-takes-batting-practice/676091&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNHS-JkFwKAZixykpQ7X6DL0SVTZrg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">15863524</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jenny Rogers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:58-04:00</created-at>
+          <title>Casper Man Challenges Rep. Cynthia Lummis [AUDIO]</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Casper Democrat Chris Henrichsen announced he will run against incumbent Rep. Cynthia Lummis (R-WY) for Wyoming&amp;#39;s lone seat in the U.S. House of.</excerpt>
+          <fti-names>'announc':12 'audio':7 'casper':1,8 'challeng':3 'cheyenn':34 'chris':10 'cynthia':5,19 'democrat':9 'henrichsen':11 'hous':32 'incumb':17 'lone':27 'lummi':6,20 'man':2 'news':35 'r':22 'r-wi':21 'rep':4,18 'run':15 'seat':28 'staff':36 'u.s':31 'wy':23 'wyom':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kgab.com/casper-man-challenges-rep-cynthia-lummis-audio/&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFLM8DlZ9ewPy83JAWrpRCeADoXvA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-25T01:00:00-04:00</date>
+          <id type="integer">15863518</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cheyenne News Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Beltway Beef Commentary - Congresswoman Cynthia Lummis (R ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>NCBA Associate Director of Communications Mary Geiger caught up with Congresswoman Cynthia Lummis (R-Wyo.) to chat about the 2012 Farm Bill. Rep. Lummis, who sits on the House Committee on Appropriations, ...</excerpt>
+          <fti-names>'2012':28 'appropri':40 'associ':9 'beef':2 'beltway':1 'bill':30 'caught':15 'chat':25 'commentari':3 'committe':38 'communic':12 'congresswoman':4,18 'cynthia':5,19 'director':10 'farm':29 'geiger':14,42 'hous':37 'lummi':6,20,32 'mari':13,41 'ncba':8 'r':7,22 'r-wyo':21 'rep':31 'sit':34 'wyo':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.beltwaybeef.com/2012/05/beltway-beef-commentary-congresswoman.html&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNEad4qvnA8Cn2AoAcWsWP0VTcXiaA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-23T01:00:00-04:00</date>
+          <id type="integer">15863519</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mary Geiger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Lummis Seeks 3rd Term in US House | Sheridan Media - Serving ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>CHEYENNE, Wyo. (AP) - U.S. Rep. Cynthia Lummis has announced her bid for a third term as Wyoming&amp;#39;s lone member of the U.S. House.</excerpt>
+          <fti-names>'3rd':3 'announc':19 'ap':13 'associ':36 'bid':21 'cheyenn':11 'cynthia':16 'hous':7,34 'lone':29 'lummi':1,17 'media':9 'member':30 'press':37 'rep':15 'seek':2 'serv':10 'sheridan':8 'term':4,25 'third':24 'u.s':14,33 'us':6 'wyo':12 'wyom':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sheridanmedia.com/news/lummis-seeks-3rd-term-us-house35208&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHSR0mzdg_WOKWt1mNL7PtCpmvyLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-21T01:00:00-04:00</date>
+          <id type="integer">15863526</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>Soda Ash Royalty Bill Advances To US House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Soda Ash Royalty Bill Advances To US House. By: Associated Press | 3 weeks ago. U.S. Rep. Cynthia Lummis. CHEYENNE, Wyo. (AP) &#8212; A bill aimed at keeping American soda ash competitive with a subsidized, synthetic version produced in ...</excerpt>
+          <fti-names>'3':20 'advanc':5,13 'ago':22 'aim':32 'american':35 'ap':29 'ash':2,10,37 'associ':18,46 'bill':4,12,31 'cheyenn':27 'competit':38 'cynthia':25 'hous':8,16 'keep':34 'lummi':26 'press':19,47 'produc':44 'rep':24 'royalti':3,11 'soda':1,9,36 'subsid':41 'synthet':42 'u.s':23 'us':7,15 'version':43 'week':21 'wyo':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://k2radio.com/soda-ash-royalty-bill-advances-to-us-house/&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEbtFQYVYA2Mz_tV4cDLOBVj7Zk_A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-17T01:00:00-04:00</date>
+          <id type="integer">15863523</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-06-12T22:53:59-04:00</created-at>
+          <title>House Rep, Cynthia Lummis, Gives State Money To Her Husband ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>When I think of government corruption and hypocrisy I think of our state&amp;#39;s representative, Cynthia Lummis. Recently I learned that this woman, who is the 15th richest person in congress with an estimated net worth of between ...</excerpt>
+          <fti-names>'15th':37 'buck':50 'congress':41 'corrupt':16 'cynthia':3,26 'estim':44 'give':5 'govern':15 'hous':1 'husband':10 'hypocrisi':18 'jenni':51 'learn':30 'lummi':4,27 'money':7 'net':45 'person':39 'recent':28 'rep':2 'repres':25 'richest':38 'state':6,23 'think':13,20 'woman':33 'worth':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.addictinginfo.org/2012/04/20/house-rep-cynthia-lummis-gives-state-money-to-her-husband-while-holding-down-the-women-of-wyoming/&amp;sa=U&amp;ei=xgDYT8XnDsHg2gWhhcyZDw&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNE8Lp9oJJIiY2mu3CNnOmv7ykUMDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-20T01:00:00-04:00</date>
+          <id type="integer">15863520</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Bucking Jenny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:36:43-04:00</created-at>
+          <title>Report: Wyoming US Rep. Lummis&amp;#39; family received more than ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Political watchdog groups say Wyoming Rep. Cynthia Lummis didn&amp;#39;t act illegally when she paid more than $33000 in campaign funds to herself, her husband and her daughter in the 2008 and 2010 election cycles. However ...</excerpt>
+          <fti-names>'2008':40 '2010':42 '33000':27 'act':20 'admin':46 'campaign':29 'cycl':44 'cynthia':16 'daughter':37 'didn':18 'elect':43 'famili':6 'fund':30 'group':12 'howev':45 'husband':34 'illeg':21 'lummi':5,17 'paid':24 'polit':10 'receiv':7 'rep':4,15 'report':1 'say':13 'us':3 'watchdog':11 'wyom':2,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://trailerx.info/2012/04/16/report-wyoming-us-rep-lummis-family-received-more-than-33000-in-campaign-casper-star/&amp;sa=U&amp;ei=GpyNT_3lH8Oq2gWGo634Cw&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNGQifldV1eoOF1ueUTPSK2t2Jxowg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14541896</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412294</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:36:43-04:00</created-at>
+          <title>Rep. Lummis Paid Family Members From Campaign Cash [AUDIO]</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Wyoming Congresswoman Cynthia Lummis is among 248 members of the U.S. House to pay reimbursements to family members from campaign cash. Doug Randall reports. Twenty-six (26) elk were captured and fitted with ...</excerpt>
+          <fti-names>'248':16 '26':37 'ami':44 'among':15 'audio':9 'campaign':7,29 'captur':40 'cash':8,30 'congresswoman':11 'cynthia':12 'doug':31 'elk':38 'famili':4,26 'fit':42 'hous':21 'lummi':2,13 'member':5,17,27 'paid':3 'pay':23 'randal':32 'reimburs':24 'rep':1 'report':33 'richard':45 'six':36 'twenti':35 'twenty-six':34 'u.s':20 'wyom':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kgab.com/rep-lummis-paid-family-members-from-campaign-cash-audio/&amp;sa=U&amp;ei=GpyNT_3lH8Oq2gWGo634Cw&amp;ved=0CCsQmAEwAQ&amp;usg=AFQjCNFj8lilbHBzKMXTiVDXJ1-YxdWUdg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14541893</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Amy Richards</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">14837</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Cynthia Lummis</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

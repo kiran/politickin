@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.6037514654162</party-votes-percentage>
+        <abstains-percentage type="float">0.756253635834788</abstains-percentage>
+        <votes-most-often-with-id type="integer">412310</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">425</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">306</cosponsored-bills-passed-rank>
+        <abstains type="integer">13</abstains>
+        <cosponsored-bills type="integer">209</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">348</party-votes-percentage-rank>
+        <sponsored-bills type="integer">13</sponsored-bills>
+        <votes-least-often-with-id type="integer">400360</votes-least-often-with-id>
+        <person-id type="integer">412278</person-id>
+        <cosponsored-bills-rank type="integer">374</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">358</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1631</votes-republican-position>
+      <blog-article-count type="integer">3610</blog-article-count>
+      <fax>202-226-2019</fax>
+      <user-approval type="float">4.41176470588235</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">130</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/guthrie/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.6037514654162</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Guthrie</lastname>
+      <congress-office>308 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Brett</firstname>
+      <bioguide-id>G000558</bioguide-id>
+      <website>http://guthrie.house.gov/</website>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412278</person-id>
+      <phone>202-225-3501</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">423</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:45:28-04:00</created-at>
+          <title>Guthrie: EPA needs to ease up</title>
+          <contains-term>republican</contains-term>
+          <excerpt>U.S. Rep. Brett Guthrie told the Messenger-Inquirer's editorial board Monday that he doesn't want to live in &quot;non-EPA world.&quot; But the Bowling Green Republican said he wants the Environmental Protection Agency to design regulations that can be ...</excerpt>
+          <fti-names>'agenc':43 'board':18 'bowl':34 'brett':9 'design':45 'doesn':22 'eas':5 'editori':17 'environment':41 'epa':2,30 'green':35 'guthri':1,10 'inquir':15,53 'live':26 'messeng':14,52 'messenger-inquir':13,51 'monday':19 'need':3 'non':29 'non-epa':28 'owensboro':50 'protect':42 'regul':46 'rep':8 'republican':36 'said':37 'told':11 'u.s':7 'want':24,39 'world':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.messenger-inquirer.com/news/local/article_74d9e25d-5ec1-5dfc-bb78-167e30758304.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:07:28-04:00</date>
+          <id type="integer">16966569</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Owensboro Messenger-Inquirer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:58:15-04:00</created-at>
+          <title>GOP plan would put rules to prevent combustible dust blasts on hold</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ed Whitfield of the 1st District, Brett Guthrie of the 2nd District, Geoff Davis of the 4th District, and Hal Rogers of the 6th District &#8212; voted against it. Rep. George Miller, D-Calif., author of the amendment, said during House floor debate ...</excerpt>
+          <fti-names>'1st':17 '2nd':23 '4th':29 '6th':36 'amend':50 'author':47 'blast':10 'brett':19 'calif':46 'combust':8 'd':45 'd-calif':44 'davi':26 'debat':55 'district':18,24,30,37 'dust':9 'ed':13 'floor':54 'geoff':25 'georg':42 'gop':1 'guthri':20 'hal':32 'hold':12 'hous':53 'indianapoli':56 'miller':43 'plan':2 'prevent':7 'put':4 'rep':41 'roger':33 'rule':5 'said':51 'star':57 'vote':38 'whitfield':14 'would':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.indystar.com/article/B2/20120726/NEWS01/307260091/GOP-plan-would-put-rules-prevent-combustible-dust-blasts-hold?odyssey=nav|head</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:00:14-04:00</date>
+          <id type="integer">16921432</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Indianapolis Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:04:20-04:00</created-at>
+          <title>Assault weapons ban unlikely: Few from area's congressional delegation think action is called for</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Contributions: Whitfield has received $41,750 in campaign donations from gun-rights contributors. Rep. Brett Guthrie, R-2nd District His stance: &quot;I have long been a supporter of protecting our Second Amendment rights and believe that banning ...</excerpt>
+          <fti-names>'2nd':35 '41':20 '750':21 'action':12 'amend':49 'area':7 'assault':1 'ban':3,54 'believ':52 'brett':31 'call':14 'campaign':23 'congression':9 'contribut':16 'contributor':29 'deleg':10 'district':36 'donat':24 'gun':27 'gun-right':26 'guthri':32 'leader':57 'long':41 'news':56 'protect':46 'r':34 'r-2nd':33 'receiv':19 'rep':30 'right':28,50 'second':48 'stanc':38 'staunton':55 'support':44 'think':11 'unlik':4 'weapon':2 'whitfield':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.newsleader.com/article/B2/20120725/NEWS01/307250130/Assault-weapons-ban-unlikely-Few-from-area-s-congressional-delegation-think-action-called-for?odyssey=mod_sectionstories</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:03:30-04:00</date>
+          <id type="integer">16889986</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Staunton News Leader</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:04:25-04:00</created-at>
+          <title>Assault weapons ban unlikely: Few from area's congressional delegation think action is called for</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...by our latest tragedy.&quot; Contributions: Whitfield has received $41,750 in campaign donations from gun-rights contributors. Rep. Brett Guthrie, R-2nd District His stance: &quot;I have long been a supporter of protecting our Second Amendment rights and believe </excerpt>
+          <fti-names>'2nd':39 '41':24 '750':25 'action':12 'amend':53 'area':7 'assault':1 'ban':3 'believ':56 'brett':35 'call':14 'campaign':27 'congression':9 'contribut':20 'contributor':33 'courier':59 'courier-journ':58 'deleg':10 'district':40 'donat':28 'gun':31 'gun-right':30 'guthri':36 'journal':60 'latest':18 'long':45 'louisvill':57 'protect':50 'r':38 'r-2nd':37 'receiv':23 'rep':34 'right':32,54 'second':52 'stanc':42 'support':48 'think':11 'tragedi':19 'unlik':4 'weapon':2 'whitfield':21</fti-names>
+          <source-url>http://www.courier-journal.com/</source-url>
+          <url>http://www.courier-journal.com/article/20120725/NEWS01/307250130/-1/rsslink</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889990</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Louisville Courier-Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:04:25-04:00</created-at>
+          <title>GOP plan would put rules to prevent combustible dust blasts on hold</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...supported the amendment, while the states four Republican House members - Reps. Ed Whitfield of the 1st District, Brett Guthrie of the 2nd District, Geoff Davis of the 4th District, and Hal Rogers of the 6th District  voted against it. Rep. George Mille</excerpt>
+          <fti-names>'1st':28 '2nd':34 '4th':40 '6th':47 'amend':15 'blast':10 'brett':30 'combust':8 'courier':57 'courier-journ':56 'davi':37 'district':29,35,41,48 'dust':9 'ed':24 'four':19 'geoff':36 'georg':53 'gop':1 'guthri':31 'hal':43 'hold':12 'hous':21 'journal':58 'louisvill':55 'member':22 'mill':54 'plan':2 'prevent':7 'put':4 'rep':23,52 'republican':20 'roger':44 'rule':5 'state':18 'support':13 'vote':49 'whitfield':25 'would':3</fti-names>
+          <source-url>http://www.courier-journal.com/</source-url>
+          <url>http://www.courier-journal.com/article/20120726/NEWS01/307260091/-1/rsslink</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889989</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Louisville Courier-Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:14:59-04:00</created-at>
+          <title>Editorial | Gun control advocates need to speak up</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...boast &#194;A&#194; ratings from the all-powerful NRA, as do five of Kentucky&#194;s six congressmen: Reps. Ed Whitfield, R-1st District; Brett Guthrie, R-2; Geoff Davis, R-4; Hal Rogers, R-5; and Ben Chandler, D-6. An &#194;A&#194; means they are &#194;solidly pro-gun&#194; and s</excerpt>
+          <fti-names>'-2':35 '-4':39 '-5':43 '-6':48 '1st':30 'advoc':4 'all-pow':14 'ben':45 'boast':9 'brett':32 'chandler':46 'congressmen':24 'control':3 'courier':62 'courier-journ':61 'd':47 'davi':37 'district':31 'ed':26 'editori':1 'five':20 'geoff':36 'gun':2 'gun&#226;':57 'guthri':33 'hal':40 'journal':63 'kentucky&#226;':22 'louisvill':60 'mean':51 'need':5 'nra':17 'power':16 'pro':56 'pro-gun&#226;':55 'r':29,34,38,42 'r-1st':28 'rate':11 'rep':25 'roger':41 'six':23 'speak':7 'whitfield':27 '&#226;a&#226;':10,50 '&#226;solid':54</fti-names>
+          <source-url>http://www.courier-journal.com/</source-url>
+          <url>http://www.courier-journal.com/article/20120724/OPINION01/307240009/1055/rsslink</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16849501</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Louisville Courier-Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:02:10-04:00</created-at>
+          <title>StephenCLE's House Ratings - Part 3</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Ed Whitfield is the republican congressman here. He&#8217;ll face the winner of the ... Rating &#8211; Safe R KY-2 &#8211; Looking back, its hard to believe that Brett Guthrie nearly lost this district in 2008. This is a hugely republican district.</excerpt>
+          <fti-names>'-2':25 '2008':40 '3':6 'back':27 'believ':31 'brett':33 'congressman':12 'daili':47 'district':38,46 'ed':7 'face':16 'guthri':34 'hard':29 'hous':3 'huge':44 'kos':48 'ky':24 'll':15 'look':26 'lost':36 'near':35 'part':5 'r':23 'rate':4,21 'republican':11,45 'safe':22 'stephencl':1 'whitfield':8 'winner':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/19/1111902/-StephenCLE-s-House-Ratings-Part-3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T21:14:24-04:00</date>
+          <id type="integer">16749234</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-17T23:38:36-04:00</created-at>
+          <title>Morning Energy: Romney slams Fisker</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>TERRY GETS BIG ENERGY HAUL IN SECOND QUARTER: Here are some more tidbits from this weekend&#8217;s FEC filing deadline: Rep. Lee Terry (R-Neb ... Cory Gardner (R-Colo.), Brett Guthrie (R-Ky.), Bob Latta (R-Ohio), David McKinley (R-W.Va.),</excerpt>
+          <fti-names>'big':8 'bob':42 'brett':37 'colo':36 'cori':32 'david':47 'deadlin':25 'energi':2,9 'fec':23 'file':24 'fisker':5 'gardner':33 'get':7 'guthri':38 'haul':10 'ky':41 'latta':43 'lee':27 'mckinley':48 'morn':1 'neb':31 'ohio':46 'politico.com':50 'quarter':13 'r':30,35,40,45 'r-colo':34 'r-ki':39 'r-neb':29 'r-ohio':44 'r-w.va':49 'rep':26 'romney':3 'second':12 'slam':4 'terri':6,28 'tidbit':18 'weekend':21</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/morningenergy/0712/morningenergy540.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T09:56:44-04:00</date>
+          <id type="integer">16695285</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-17T23:38:47-04:00</created-at>
+          <title>Don't believe the gas price prediction hype - E&amp;C takes up alternative fuels - Vets group pressures Republicans on military biofuels - Obama talks natural gas, Romney slams Fisker</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...making $37,600 in contributions to the campaigns of Reps. John Barrow (D-Ga.), Bill Cassidy (R-La.), Cory Gardner (R-Colo.), Brett Guthrie (R-Ky.), Bob Latta (R-Ohio), David McKinley (R-W.Va.), Tim Murphy (R-Pa.), Joseph Pitts (R-Pa.), Mike Pompeo (R-Ka</excerpt>
+          <fti-names>'37':30 '600':31 'altern':13 'barrow':40 'believ':3 'bill':44 'biofuel':21 'bob':59 'brett':54 'c':10 'campaign':36 'cassidi':45 'colo':53 'contribut':33 'cori':49 'd':42 'd-ga':41 'david':64 'e':9 'fisker':28 'fuel':14 'ga':43 'gardner':50 'gas':5,25 'group':16 'guthri':55 'hype':8 'john':39 'joseph':72 'ka':81 'ky':58 'la':48 'latta':60 'make':29 'mckinley':65 'mike':77 'militari':20 'murphi':68 'natur':24 'obama':22 'ohio':63 'pa':71,76 'pitt':73 'politico':83 'pompeo':78 'predict':7 'pressur':17 'price':6 'r':47,52,57,62,70,75,80 'r-colo':51 'r-ka':79 'r-ki':56 'r-la':46 'r-ohio':61 'r-pa':69,74 'r-w.va':66 'rep':38 'republican':18 'romney':26 'slam':27 'take':11 'talk':23 'tim':67 'vet':15</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=5bd558209bbe0a54404ba20374269e5b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16695293</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-23T22:51:28-04:00</created-at>
+          <title>Kinzinger gets look at counter-terrorism efforts</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>led the bipartisan delegation. Rep. Kinzinger was joined on the trip by Rep. Jason Altmire (D-Pa.), Rep. Brett Guthrie (R-Ky.), Rep. Jeff Denham (R-Calif.) and Rep. Blake Farenthold (R-Texas). &#8220;Throughout this trip, I saw firsthand what our ...</excerpt>
+          <fti-names>'altmir':23 'bipartisan':11 'blake':41 'brett':28 'calif':38 'counter':6 'counter-terror':5 'd':25 'd-pa':24 'daili':55 'deleg':12 'denham':35 'effort':8 'farenthold':42 'firsthand':51 'get':2 'guthri':29 'herald':56 'jason':22 'jeff':34 'join':16 'kinzing':1,14 'ky':32 'led':9 'look':3 'morri':54 'pa':26 'r':31,37,44 'r-calif':36 'r-ki':30 'r-texa':43 'rep':13,21,27,33,40 'saw':50 'terror':7 'texa':45 'throughout':46 'trip':19,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.morrisdailyherald.com/2012/07/13/kinzinger-gets-look-at-counter-terrorism-efforts/ajuh9ul/?__xsl=/print.xsl</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T19:12:40-04:00</date>
+          <id type="integer">16821991</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Morris Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Brett Guthrie [R, KY-2]</name>
+      <total-session-votes type="integer">1706</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>Congressman Ben Chandler Will Skip Democratic Convention | WFPL</title>
+          <contains-term>congress</contains-term>
+          <excerpt>That includes U.S. Senators Mitch McConnell and Rand Paul and Congressmen Ed Whitfield, Brett Guthrie and Hal Rogers. Retiring Congressman Geoff Davis did not ask to be a delegate, Robertson says. But Barr did and ...</excerpt>
+          <fti-names>'ask':33 'barr':41 'ben':2 'brett':22 'chandler':3 'colston':45 'congressman':1,28 'congressmen':19 'convent':7 'davi':30 'deleg':37 'democrat':6 'ed':20 'geoff':29 'guthri':23 'hal':25 'includ':10 'kenni':44 'mcconnel':14 'mitch':13 'paul':17 'rand':16 'retir':27 'robertson':38 'roger':26 'say':39 'senat':12 'skip':5 'u.s':11 'wfpl':8 'whitfield':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wfpl.org/post/congressman-ben-chandler-will-skip-democratic-convention&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHv5xSIV-Q0qOJI80RLpWeUJd9eOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16584125</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kenny Colston</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>Libertarian Challenges Rep. Guthrie -WKMO News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Brett Guthrie has another challenger coming after him this November. Libertarian Craig R. Astor has filed to run for the seat. That&amp;#39;s in addition to democrat David Lynn Williams. Astor is a Hodgenville native who ...</excerpt>
+          <fti-names>'addit':32 'anoth':11 'astor':21,38 'brett':8 'challeng':2,12 'come':13 'congressman':7 'craig':19 'david':35 'democrat':34 'file':23 'guthri':4,9 'hodgenvill':41 'libertarian':1,18 'lynn':36 'nativ':42 'news':6,44 'novemb':17 'r':20 'rep':3 'room':45 'run':25 'seat':28 'william':37 'wkmo':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wkmo.vncradio.com/2012/07/12/libertarian-challenges-rep-guthrie/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dlibertarian-challenges-rep-guthrie&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGQ7Epn5_uVhSBCblesZSMpiLNA-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16584121</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Room</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:33-04:00</created-at>
+          <title>House Energy and Commerce Committee Republicans Press ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The bipartisan working group is chaired by Reps. Brett Guthrie and Doris Matsui, and Reps. Shimkus, Rogers, Scalise, DeGette, Barrow and Christensen serve as members. Chairman Walden and Ranking Member Eshoo ...</excerpt>
+          <fti-names>'barrow':27 'bipartisan':9 'brett':16 'chair':13 'chairman':33 'christensen':29 'commerc':4 'committe':5 'degett':26 'dori':19 'energi':2 'eshoo':38 'group':11 'guthri':17 'hous':1 'matsui':20 'member':32,37 'press':7 'rank':36 'rep':15,22 'republican':6 'republicans.energycommerce.house.gov':39 'roger':24 'scalis':25 'serv':30 'shimkus':23 'walden':34 'work':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicans.energycommerce.house.gov/news/PRArticle.aspx%3FNewsID%3D9684&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEf_IJi6gu_WXjEUeCescqd9MrhJQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16584128</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://republicans.energycommerce.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>cn|2 Pure Politics - Former GOP county chairman files as Libertarian ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Brett Guthrie gained one more opponent on Tuesday when Criag Astor filed his paperwork to take on the incumbent lawmaker in the U.S. House District 2 general election in November. Astor, who...</excerpt>
+          <fti-names>'2':2,38 'astor':23,43 'brett':13 'chairman':8 'cn':1 'counti':7 'criag':22 'district':37 'elect':40 'file':9,24 'former':5 'gain':15 'general':39 'gop':6 'guthri':14 'hous':36 'incumb':31 'lawmak':32 'libertarian':11 'nick':45 'novemb':42 'one':16 'oppon':18 'paperwork':26 'polit':4 'pure':3 'rep':12 'storm':46 'take':28 'tuesday':20 'u.s':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mycn2.com/politics/former-gop-county-chairman-files-as-libertarian-to-take-on-guthrie&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNExB2swoDk3_nlEmLjEnpBnutDURw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16584122</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nick Storm</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>Guthrie Visit&amp;#39;s Troops During July 4th Task Force Trip - NewsTalk ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Brett Guthrie has just returned from a week-long Congressional Delegation (CODEL) to Slovakia, Georgia, Yemen, Djibouti, and Spain. The bipartisan delegation was led by Representative Bill Shuster (R-PA). Rep.</excerpt>
+          <fti-names>'4th':7 'bill':40 'bipartisan':34 'brett':13 'codel':25 'congression':23 'deleg':24,35 'djibouti':30 'forc':9 'georgia':28 'guthri':1,14 'joe':46 'juli':6 'led':37 'long':22 'low':47 'newstalk':11 'pa':44 'r':43 'r-pa':42 'rep':12,45 'repres':39 'return':17 'shuster':41 'slovakia':27 'spain':32 'task':8 'trip':10 'troop':4 'visit':2 'week':21 'week-long':20 'yemen':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://1490womi.com/guthrie-visits-troops-during-july-4th-task-force-trip/&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFaCh1hiB4Jt8Q0UwW4Xlh1VQvCkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16584120</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Lowe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:10:41-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Brett Guthrie [R, KY-2] Rep. Janice Hahn [D, CA-36] Rep. Ralph Hall [R, TX-4] Rep. Colleen Hanabusa [D, HI-1] Rep. Richard Hanna [R, NY-24] Rep. Gregg Harper [R, MS-3] Rep. Andy Harris [R, MD-1] Rep. Vicky Hartzler [R, MO-4] Rep.</excerpt>
+          <fti-names>'-1':33,51 '-2':15 '-24':39 '-3':45 '-36':21 '-4':27,57 'andi':47 'brett':11 'ca':20 'colleen':29 'd':19,31 'deadlin':5 'debt':1,10 'debtreliefmag.com':59 'gregg':41 'guthri':12 'hahn':18 'hall':24 'hanabusa':30 'hanna':36 'harper':42 'harri':48 'hartzler':54 'hi':32 'homeown':7 'janic':17 'ky':14 'law':4 'loom':9 'md':50 'mo':56 'ms':44 'ny':38 'r':13,25,37,43,49,55 'ralph':23 'relief':2 'rep':16,22,28,34,40,46,52,58 'richard':35 'tax':3 'tx':26 'vicki':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=sEv6T5nLO4Ot2QXcs9ngBg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEZ1_T7DwV9UqVw2vH7tXsRiS77fQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16459272</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>Kinzinger spends 4th of July with congressional delegation in Dijibouti</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The bipartisan delegation was led by Representative Bill Shuster (R-PA). Rep. Kinzinger was joined on the trip by Rep. Jason Altmire (D-PA), Rep. Brett Guthrie (R-KY), Rep. Jeff Denham (R-CA), and Rep. Blake Farenthold ...</excerpt>
+          <fti-names>'4th':3 'altmir':33 'bill':18 'bipartisan':12 'blake':51 'brett':38 'ca':48 'congression':7 'd':35 'd-pa':34 'deleg':8,13 'denham':45 'dijibouti':10 'farenthold':52 'guthri':39 'ir':53 'jason':32 'jeff':44 'join':26 'juli':5 'kinzing':1,24 'ky':42 'led':15 'pa':22,36 'r':21,41,47 'r-ca':46 'r-ki':40 'r-pa':20 'rep':23,31,37,43,50 'repres':17 'shuster':19 'spend':2 'trip':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://illinoisreview.typepad.com/illinoisreview/2012/07/rep-kinzinger-returns-from-.html&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGDvp4SWlQMXHx7-ZR8i0YOh3KuEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16584123</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>IR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:10:41-04:00</created-at>
+          <title>Kinzinger spends 4th of July with congressional delegation in ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The bipartisan delegation was led by Representative Bill Shuster (R-PA). Rep. Kinzinger was joined on the trip by Rep. Jason Altmire (D-PA), Rep. Brett Guthrie (R-KY), Rep. Jeff Denham (R-CA), and Rep. Blake Farenthold ...</excerpt>
+          <fti-names>'4th':3 'altmir':32 'bill':17 'bipartisan':11 'blake':50 'brett':37 'ca':47 'congression':7 'd':34 'd-pa':33 'deleg':8,12 'denham':44 'farenthold':51 'guthri':38 'ir':52 'jason':31 'jeff':43 'join':25 'juli':5 'kinzing':1,23 'ky':41 'led':14 'pa':21,35 'r':20,40,46 'r-ca':45 'r-ki':39 'r-pa':19 'rep':22,30,36,42,49 'repres':16 'shuster':18 'spend':2 'trip':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://illinoisreview.typepad.com/illinoisreview/2012/07/rep-kinzinger-returns-from-.html&amp;sa=U&amp;ei=sEv6T5nLO4Ot2QXcs9ngBg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEcA4XTFGBFbxF8wDIQEeOOItjo4Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16459269</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>IR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:32-04:00</created-at>
+          <title>cn|2 Pure Politics - Brett Guthrie talks about looming defense cuts ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Brett Guthrie, R-Bowling Green, said he wanted to research to the arguments about whether or not to hold Attorney General Eric Holder in contempt of Congress before making a decision about his vote on Thursday.</excerpt>
+          <fti-names>'2':2 'alessi':52 'argument':27 'attorney':34 'bowl':18 'brett':5,14 'cn':1 'congress':41 'contempt':39 'cut':11 'decis':45 'defens':10 'eric':36 'general':35 'green':19 'guthri':6,15 'hold':33 'holder':37 'loom':9 'make':43 'polit':4 'pure':3 'r':17 'r-bowl':16 'rep':13 'research':24 'ryan':51 'said':20 'talk':7 'thursday':50 'u.s':12 'vote':48 'want':22 'whether':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mycn2.com/politics/brett-guthrie-talks-about-looming-defense-cuts-ag-eric-holder-and-his-favorites-for-gop-veep&amp;sa=U&amp;ei=94z_T47sJYOm2gW38uTBBA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHb-EZ4_rorEajHkDvbTlGH-1Wb3g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16584124</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ryan Alessi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412278</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:10:42-04:00</created-at>
+          <title>Reaction to Supreme Court Ruling - NewsTalk 1490 WOMI-AM</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Both 2nd District Congressman Brett Guthrie and U.S. Senior Senator from Kentucky, Mitch McConnell have issued statements on the Supreme Court Obama Care.</excerpt>
+          <fti-names>'1490':7 '2nd':12 'brett':15 'care':33 'congressman':14 'court':4,31 'district':13 'guthri':16 'issu':26 'joe':34 'kentucki':22 'low':35 'mcconnel':24 'mitch':23 'newstalk':6 'obama':32 'reaction':1 'rule':5 'senat':20 'senior':19 'statement':27 'suprem':3,30 'u.s':18 'womi':9 'womi-am':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://1490womi.com/reaction-to-supreme-court-ruling/&amp;sa=U&amp;ei=sEv6T5nLO4Ot2QXcs9ngBg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFj_E26lJd9ZqSNTcF5cfVxgXf4Fg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16459273</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Lowe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">15244</page-views-count>
+      <youtube-id>BrettGuthrie</youtube-id>
+      <unaccented-name>Brett Guthrie</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

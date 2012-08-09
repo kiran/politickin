@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-28T22:00:45-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.4081632653061</party-votes-percentage>
+        <abstains-percentage type="float">0.759493670886076</abstains-percentage>
+        <votes-most-often-with-id type="integer">412390</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-08-31T21:19:12-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">34</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">3</abstains>
+        <cosponsored-bills type="integer">209</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">7</party-votes-percentage-rank>
+        <sponsored-bills type="integer">22</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300058</person-id>
+        <cosponsored-bills-rank type="integer">36</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:52-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412391</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">51</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">155</votes-republican-position>
+      <fax>202-228-5765</fax>
+      <blog-article-count type="integer">12374</blog-article-count>
+      <user-approval type="float">2.84444444444444</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">174</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.johnson.senate.gov/public/index.cfm?p=Contact</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.4081632653061</with-party-percentage>
+      <lastname>Johnson</lastname>
+      <middlename>P.</middlename>
+      <congress-office>136 Hart Senate Office Building</congress-office>
+      <firstname>Tim</firstname>
+      <website>http://www.johnson.senate.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1946-12-28</birthday>
+      <person-id type="integer">300058</person-id>
+      <phone>202-224-5842</phone>
+      <religion>Lutheran</religion>
+      <votes-democratic-position type="integer">374</votes-democratic-position>
+      <metavid-id>Tim_Johnson</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:59:44-04:00</created-at>
+          <title>Washington Digest: Republicans extend tax cuts for all</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Levin said. The House voted 256-171 in favor of the Republican bill. The roll call fell largely along party lines. Rep. Tim Johnson of Illinois was the only Republican to vote against the bill while 19 Democrats voted for it. Reps. Joe Heck and Mark Amo</excerpt>
+          <fti-names>'-171':15 '19':45 '256':14 'along':27 'amo':55 'bill':21,43 'call':24 'cut':6 'democrat':46 'digest':2 'extend':4 'favor':17 'fell':25 'heck':52 'hous':12 'illinoi':34 'joe':51 'johnson':32 'journal':60 'larg':26 'las':56 'levin':9 'line':29 'lvrj.com':61 'mark':54 'parti':28 'rep':30,50 'republican':3,20,38 'review':59 'review-journ':58 'roll':23 'said':10 'tax':5 'tim':31 'vega':57 'vote':13,40,47 'washington':1</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=165045866&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fwashington-digest-republicans-extend-tax-cuts-for-all-165045866.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972622</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:45-04:00</created-at>
+          <title>Poll: Noem, Tea Party Favorite, Running Neck-And-Neck In S.D. House Race</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(D-SD), Noem has earned star status among fellow Republicans and the tea party faithful. Varilek, a former staffer for Sen. Tim Johnson (D-SD), won the Democratic Party&#8217;s nomination in June. Nielson Brothers conducted its survey July 19-23 with 541 re</excerpt>
+          <fti-names>'-23':57 '19':56 '541':59 'among':23 'brother':51 'conduct':52 'd':16,40 'd-sd':15,39 'democrat':44 'earn':20 'faith':30 'favorit':5 'fellow':24 'former':33 'hous':13 'johnson':38 'juli':55 'june':49 'memo':63 'neck':8,10 'neck-and-neck':7 'nielson':50 'noem':2,18 'nomin':47 'parti':4,29,45 'point':62 'poll':1 'race':14 're':60 'republican':25 'run':6 's.d':12 'sd':17,41 'sen':36 'staffer':34 'star':21 'status':22 'survey':54 'talk':61 'tea':3,28 'tim':37 'varilek':31 'won':42</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://livewire.talkingpointsmemo.com/entries/poll-noem-tea-party-favorite-running-neck-neck</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971989</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:45-04:00</created-at>
+          <title>Noem says bill helps livestock producers</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Republican-controlled House have created uncertainty for farmers and ranchers by failing to pass a new farm bill. Democratic Sen. Tim Johnson says the House should pass the farm bill approved by the Senate. During his summer vacation, 'Wimpy Kid' Greg H</excerpt>
+          <fti-names>'approv':38 'bill':3,25,37 'citi':51 'control':9 'creat':12 'democrat':26 'fail':19 'farm':24,36 'farmer':15 'greg':48 'h':49 'help':4 'hous':10,32 'johnson':29 'journal':52 'kid':47 'livestock':5 'new':23 'noem':1 'pass':21,34 'produc':6 'rancher':17 'rapid':50 'republican':8 'republican-control':7 'say':2,30 'sen':27 'senat':41 'summer':44 'tim':28 'uncertainti':13 'vacat':45 'wimpi':46</fti-names>
+          <source-url>http://www.rapidcityjournal.com/</source-url>
+          <url>http://rapidcityjournal.com/news/local/noem-says-bill-helps-livestock-producers/article_25d1ad28-b997-5b4d-bc8b-63956fa0cc27.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971988</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rapid City Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:28:45-04:00</created-at>
+          <title>Luetkemeyer ATM bill victim of Senate gamesmanship</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Banking Association wrote in a letter to Senate leaders. But, as Americans have learned about the 112th Congress, not so fast. Sen. Tim Johnson, D-S.D., chairman of the Senate Banking Committee, combined Luetkemeyer's bill with a fairly modest piece of </excerpt>
+          <fti-names>'112th':24 'american':19 'associ':9 'atm':2 'bank':8,40 'bill':3,45 'chairman':36 'combin':42 'committe':41 'congress':25 'd':33,35 'd-s':32 'dispatch':56 'fair':48 'fast':28 'gamesmanship':7 'johnson':31 'leader':16 'learn':21 'letter':13 'loui':53 'luetkemey':1,43 'modest':49 'piec':50 'post':55 'post-dispatch':54 'sen':29 'senat':6,15,39 'st':52 'tim':30 'victim':4 'wrote':10</fti-names>
+          <source-url>http://www.stltoday.com/</source-url>
+          <url>http://www.stltoday.com/news/local/govt-and-politics/political-fix/luetkemeyer-atm-bill-victim-of-senate-gamesmanship/article_29c6f406-dcf5-11e1-a81a-0019bb30f31a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971987</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>St. Louis Post-Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:26:40-04:00</created-at>
+          <title>US sanctions on Iran get Congress approval</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...existence would be put in danger.&quot; Ros-Lehtinen, the chairwoman of the House Foreign AffairsCommittee, and Democratic Sen. Tim Johnson, chairman of theSenate Banking Committee, negotiated the compromise bill.Johnson called attention to the &quot;sputtering&quot; </excerpt>
+          <fti-names>'affairscommitte':23 'approv':7 'attent':39 'bank':32 'bill.johnson':37 'call':38 'chairman':29 'chairwoman':18 'committe':33 'compromis':36 'congress':6 'danger':13 'democrat':25 'exist':8 'firstpost':43 'foreign':22 'get':5 'hous':21 'iran':4 'johnson':28 'lehtinen':16 'negoti':34 'put':11 'ros':15 'ros-lehtinen':14 'sanction':2 'sen':26 'sputter':42 'thesen':31 'tim':27 'us':1 'would':9</fti-names>
+          <source-url>http://www.firstpost.com/</source-url>
+          <url>http://www.firstpost.com/world/us-sanctions-on-iran-get-congress-approval-402952.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971246</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firstpost</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:26:41-04:00</created-at>
+          <title>USDA declares more than half of counties in country to be disaster areas</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...federal lawmakers said. &#8220;The USDA cannot make it rain, but it can apply flexibility to the conservation practices,&#8221; Sen. Tim Johnson, a South Dakota Democrat, said Wednesday. The USDA designated 39 of his state&#8217;s counties disaster areas. Associate</excerpt>
+          <fti-names>'39':44 'appli':26 'area':13,51 'associ':52 'cannot':19 'conserv':30 'counti':7,49 'countri':9 'dakota':37 'declar':2 'democrat':38 'design':43 'disast':12,50 'feder':14 'flexibl':27 'half':5 'hildreth':53 'johnson':34 'lawmak':15 'librari':55 'make':20 'practic':31 'public':54 'rain':22 'said':16,39 'sen':32 'south':36 'state':47 'tim':33 'usda':1,18,42 'wednesday':40</fti-names>
+          <source-url>http://libraries.ne.gov/hildreth/</source-url>
+          <url>http://www.kearneyhub.com/news/local/usda-declares-more-than-half-of-counties-in-country-to/article_3676a696-dcc9-11e1-b374-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971247</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hildreth Public Library</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:07:32-04:00</created-at>
+          <title>Congress approves new sanctions on Iran</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the chairwoman of the House Foreign Affairs Committee, and Sen. Tim Johnson, D-S.D., chairman of the Senate Banking Committee, negotiated the compromise bill. Johnson called attention to the &quot;sputtering&quot; negotiations between the West and Iran over its u</excerpt>
+          <fti-names>'affair':13 'approv':2 'attent':35 'bank':27 'bill':32 'call':34 'chairman':23 'chairwoman':8 'committe':14,28 'compromis':31 'congress':1 'd':20,22 'd-s':19 'foreign':12 'hous':11 'iran':6,44 'johnson':18,33 'negoti':29,39 'new':3 'sanction':4 'sen':16 'senat':26 'sifi':48 'sputter':38 'tim':17 'u':47 'west':42</fti-names>
+          <source-url>http://www.sify.com/</source-url>
+          <url>http://www.sify.com/finance/congress-approves-new-sanctions-on-iran-news-international-mice77igiag.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970208</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sify</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:07:31-04:00</created-at>
+          <title>Half of US counties now considered disaster areas</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...federal lawmakers said. &quot;The USDA cannot make it rain, but it can apply flexibility to the conservation practices,&quot; Sen. Tim Johnson, a South Dakota Democrat, said Wednesday. The USDA designated 39 of his state's counties disaster areas. Associated Pres</excerpt>
+          <fti-names>'39':39 'appli':21 'area':8,46 'associ':47 'cannot':14 'conserv':25 'consid':6 'counti':4,44 'dakota':32 'democrat':33 'design':38 'disast':7,45 'feder':9 'flexibl':22 'half':1 'johnson':29 'kgw.com':49 'lawmak':10 'make':15 'practic':26 'pres':48 'rain':17 'said':11,34 'sen':27 'south':31 'state':42 'tim':28 'us':3 'usda':13,37 'wednesday':35</fti-names>
+          <source-url>http://www.kgw.com/</source-url>
+          <url>http://www.kgw.com/news/national/164685006.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970207</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KGW.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:26:42-04:00</created-at>
+          <title>House and Senate pass Iran sanctions bill</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...bill is a compromise of House and Senate versions that was negotiated behind closed doors between Senate Banking Committee Chairman Tim Johnson (D-SD) and House Foreign Affairs Committee Chairwoman Ileana Ros-Lehtinen (R-FL). &quot;With passage of this bill,</excerpt>
+          <fti-names>'affair':36 'bank':25 'behind':20 'bill':7,8,50 'chairman':27 'chairwoman':38 'close':21 'committe':26,37 'compromis':11 'd':31 'd-sd':30 'door':22 'fl':45 'foreign':35,51 'hous':1,13,34 'ileana':39 'iran':5 'johnson':29 'lehtinen':42 'negoti':19 'pass':4 'passag':47 'polici':52 'r':44 'r-fl':43 'ros':41 'ros-lehtinen':40 'sanction':6 'sd':32 'senat':3,15,24 'tim':28 'version':16</fti-names>
+          <source-url>http://www.foreignpolicy.com/</source-url>
+          <url>http://thecable.foreignpolicy.com/posts/2012/08/01/house_and_senate_pass_iran_sanctions_bill</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16971248</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Foreign Policy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:07:31-04:00</created-at>
+          <title>Additional South Dakota CRP land opened to haying, grazing</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...ranchers to conduct emergency haying and grazing on up to an additional 445,000 acres of CRP land designated as wetlands. Sen. Tim Johnson says opening wetlands will help farmers and ranchers get access to feed for their livestock. Vilsack on Wednesday </excerpt>
+          <fti-names>'000':23 '445':22 'access':43 'acr':24 'addit':1,21 'citi':53 'conduct':12 'crp':4,26 'dakota':3 'design':28 'emerg':13 'farmer':39 'feed':45 'get':42 'graze':9,16 'hay':8,14 'help':38 'johnson':33 'journal':54 'land':5,27 'livestock':48 'open':6,35 'rancher':10,41 'rapid':52 'say':34 'sen':31 'south':2 'tim':32 'vilsack':49 'wednesday':51 'wetland':30,36</fti-names>
+          <source-url>http://www.rapidcityjournal.com/</source-url>
+          <url>http://rapidcityjournal.com/news/additional-south-dakota-crp-land-opened-to-haying-grazing/article_de5e31f7-04ce-5639-b669-81074617464d.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970206</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rapid City Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>J000177</bioguide-id>
+      <name>Sen. Tim Johnson [D, SD]</name>
+      <total-session-votes type="integer">392</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>senatorjohnson</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:43:52-04:00</created-at>
+          <title>Is fee placard legislation headed off the rails? (CORRECTION ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>As a means to push the bill through the Senate, banking committee chairman Tim Johnson, D-S.D., attached it to the opposition-free fee placard bill. The bill has now acquired a new number, S. 3394, and a new source of ...</excerpt>
+          <fti-names>'3394':48 'acquir':43 'atm':55 'attach':29 'bank':20 'bill':16,38,40 'chairman':22 'committe':21 'correct':9 'd':26,28 'd-s':25 'fee':2,36 'free':35 'head':5 'johnson':24 'kahuna':54 'legisl':4 'mean':12 'new':45,51 'number':46 'opposit':34 'opposition-fre':33 'placard':3,37 'push':14 'rail':8 'senat':19 'sourc':52 'tim':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kahunaatm.com/is-fee-placard-legislation-headed-off-the-rails-correction/&amp;sa=U&amp;ei=d4EWUJGfDoqQ9QSH_IHQCA&amp;ved=0CFIQmAEwDA&amp;usg=AFQjCNHHR_58QzIOZOJtw2PuifHUs-D39w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952087</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kahuna ATM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:43:52-04:00</created-at>
+          <title>National Day of the American Cowboy celebrates contributions ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The annual resolution, introduced this year by a group of legislators including South Dakota Sen. Tim Johnson, recognizes the contributions of cowboys to the growth of the country.</excerpt>
+          <fti-names>'american':5 'annual':10 'celebr':7 'chris':37 'contribut':8,28 'countri':36 'cowboy':6,30 'dakota':22 'davi':38 'day':2 'group':17 'growth':33 'includ':20 'introduc':12 'johnson':25 'legisl':19 'nation':1 'recogn':26 'resolut':11 'sen':23 'south':21 'tim':24 'year':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kotatv.com/story/19139320/national-day-of-the-american-cowboy-celebrates-contributions&amp;sa=U&amp;ei=d4EWUJGfDoqQ9QSH_IHQCA&amp;ved=0CE4QmAEwCw&amp;usg=AFQjCNF3mZO3YhgrN7v970LTy_u9en_6qA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952086</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Davis</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:43:51-04:00</created-at>
+          <title>Antonin Scalia Blasts Health Care Reform Decision, Says Supreme ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Tim Johnson. &amp;quot;I applaud today&amp;#39;s Supreme Court decision to uphold the health care reform law,&amp;quot; said Sen. Tim Johnson (D-SD). &amp;quot;This is a huge win for South Dakotans and the nation. I have always believed health care reform ...</excerpt>
+          <fti-names>'alway':46 'antonin':1 'applaud':13 'believ':47 'blast':3 'care':5,23,49 'court':17 'd':31 'd-sd':30 'dakotan':40 'decis':7,18 'health':4,22,48 'huffington':52 'huge':36 'johnson':11,29 'law':25 'nation':43 'news':54 'post':53 'reform':6,24,50 'said':26 'say':8 'scalia':2 'sd':32 'sen':27 'south':39 'suprem':9,16 'team':55 'tim':10,28 'today':14 'uphold':20 'win':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/29/antonin-scalia-health-care-reform_n_1715886.html&amp;sa=U&amp;ei=d4EWUJGfDoqQ9QSH_IHQCA&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNGTp9VHhicq37dCShFszXZlEDfw0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952085</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:43:50-04:00</created-at>
+          <title>Lawmakers press for tough Iran sanctions bill | Iranian.com</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Ileana Ros-Lehtinen, R-Fla., chairwoman of the House Foreign Affairs Committee, and Sen. Tim Johnson, D-S.D., chairman of the Senate Banking Committee, have been negotiating behind closed doors for several weeks to ...</excerpt>
+          <fti-names>'affair':21 'bank':35 'behind':40 'bill':7 'chairman':31 'chairwoman':16 'close':41 'committe':22,36 'd':28,30 'd-s':27 'door':42 'fla':15 'foreign':20 'fred':47 'hous':19 'ileana':9 'iran':5 'iranian.com':8 'johnson':26 'lawmak':1 'lehtinen':12 'negoti':39 'press':2 'r':14 'r-fla':13 'ros':11 'ros-lehtinen':10 'sanction':6 'sen':24 'senat':34 'sever':44 'tim':25 'tough':4 'week':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.iranian.com/main/news/2012/07/27/lawmakers-press-tough-iran-sanctions-bill&amp;sa=U&amp;ei=d4EWUJGfDoqQ9QSH_IHQCA&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGkO2zlsaDdCkxyWDxYZylMpHkmSA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952084</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:32-04:00</created-at>
+          <title>S.3414 | CSA2012 | Votetocracy</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 11. Record Vote Number: 185. Jul 25 2012. Cloture motion on the motion to proceed to the measure presented in Senate. Jul 25 2012 ...</excerpt>
+          <fti-names>'11':22 '185':26 '2012':29,45 '25':28,44 '84':21 'clotur':4,30 'csa2012':2 'invok':13 'jul':27,43 'measur':12,39 'motion':7,31,34 'nay':19 'number':25 'present':40 'proceed':9,36 'record':23 's.3414':1 'senat':15,42 'vote':20,24 'votetocraci':3 'www.votetocracy.com':46 'yea':18 'yea-nay':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3414-csa2012-41658&amp;sa=U&amp;ei=IPwUUOuNNYOK8QTz7IHoDA&amp;ved=0CE0QmAEwCw&amp;usg=AFQjCNHJig--CvmTL1VPV1VReQKCugt_zw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932078</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:31-04:00</created-at>
+          <title>Lawmakers press for tough Iran sanctions bill</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Ileana Ros-Lehtinen, R-Fla., chairwoman of the House Foreign Affairs Committee, and Sen. Tim Johnson, D-S.D., chairman of the Senate Banking Committee, have been negotiating behind closed doors for several weeks to ...</excerpt>
+          <fti-names>'/news/politics-elections':48 'affair':20 'bank':34 'behind':39 'bill':7 'chairman':30 'chairwoman':15 'close':40 'committe':21,35 'd':27,29 'd-s':26 'door':41 'fla':14 'foreign':19 'hous':18 'ileana':8 'iran':5 'johnson':25 'lawmak':1 'lehtinen':11 'negoti':38 'press':2 'r':13 'r-fla':12 'ros':10 'ros-lehtinen':9 'sanction':6 'sen':23 'senat':33 'sever':43 'tim':24 'tough':4 'townhall.com':47 'townhall.com/news/politics-elections':46 'week':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://townhall.com/news/politics-elections/2012/07/27/lawmakers_press_for_tough_iran_sanctions_bill&amp;sa=U&amp;ei=IPwUUOuNNYOK8QTz7IHoDA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNEeSYMuv_sNt5oyLcaoALTfcLxxsw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932077</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://townhall.com/news/politics-elections</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:30-04:00</created-at>
+          <title>Is fee placard legislation headed off the rails? (CORRECTION ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>As a means to push the bill through the Senate, banking committee chairman Tim Johnson, D-S.D., attached it to the opposition-free fee placard bill. The bill has now acquired a new number, S. 3394, and a new source of ...</excerpt>
+          <fti-names>'3394':48 'acquir':43 'atm':55 'attach':29 'bank':20 'bill':16,38,40 'chairman':22 'committe':21 'correct':9 'd':26,28 'd-s':25 'fee':2,36 'free':35 'head':5 'johnson':24 'kahuna':54 'legisl':4 'mean':12 'new':45,51 'number':46 'opposit':34 'opposition-fre':33 'placard':3,37 'push':14 'rail':8 'senat':19 'sourc':52 'tim':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kahunaatm.com/is-fee-placard-legislation-headed-off-the-rails-correction/&amp;sa=U&amp;ei=IPwUUOuNNYOK8QTz7IHoDA&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNEyUrMJjmXTz2H0qVEi3qjkh-sUBA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932075</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kahuna ATM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:29-04:00</created-at>
+          <title>Lawmakers press for tough Iran sanctions bill | Iranian.com</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Ileana Ros-Lehtinen, R-Fla., chairwoman of the House Foreign Affairs Committee, and Sen. Tim Johnson, D-S.D., chairman of the Senate Banking Committee, have been negotiating behind closed doors for several weeks to ...</excerpt>
+          <fti-names>'affair':21 'bank':35 'behind':40 'bill':7 'chairman':31 'chairwoman':16 'close':41 'committe':22,36 'd':28,30 'd-s':27 'door':42 'fla':15 'foreign':20 'fred':47 'hous':19 'ileana':9 'iran':5 'iranian.com':8 'johnson':26 'lawmak':1 'lehtinen':12 'negoti':39 'press':2 'r':14 'r-fla':13 'ros':11 'ros-lehtinen':10 'sanction':6 'sen':24 'senat':34 'sever':44 'tim':25 'tough':4 'week':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.iranian.com/main/news/2012/07/27/lawmakers-press-tough-iran-sanctions-bill&amp;sa=U&amp;ei=IPwUUOuNNYOK8QTz7IHoDA&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNHtdnMd0W1dDuZ4_jPtK7NikrApHw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932074</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:43:49-04:00</created-at>
+          <title>Get Audit the Fed a Fair Vote in the Senate | Republican Liberty ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Right now Audit the Fed (S. 202) is being held in the Senate Banking Committee and Chairman Tim Johnson (D-SD) is under orders from Senate Majority Leader Harry Reid (D-NV) not to let it out of committee. If it doesn&amp;#39;t get ...</excerpt>
+          <fti-names>'202':19 'audit':2,15 'bank':26 'chairman':29 'committe':27,53 'd':33,45 'd-nv':44 'd-sd':32 'dave':59 'doesn':56 'fair':6 'fed':4,17 'get':1,58 'harri':42 'held':22 'johnson':31 'leader':41 'let':49 'liberti':12 'major':40 'nall':60 'nv':46 'order':37 'reid':43 'republican':11 'right':13 'sd':34 'senat':10,25,39 'tim':30 'vote':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rlc.org/2012/07/26/get-audit-the-fed-a-fair-vote-in-the-senate/&amp;sa=U&amp;ei=d4EWUJGfDoqQ9QSH_IHQCA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHQMJmZC4wtUMIuMfamdZDzpNuZvQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16952083</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dave Nalle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300058</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:02:28-04:00</created-at>
+          <title>Get Audit the Fed a Fair Vote in the Senate | Liberty Republican Forum</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Right now Audit the Fed (S. 202) is being held in the Senate Banking Committee and Chairman Tim Johnson (D-SD) is under orders from Senate Majority Leader Harry Reid (D-NV) not to let it out of committee. If it doesn&amp;#39;t get ...</excerpt>
+          <fti-names>'202':20 'audit':2,16 'bank':27 'chairman':30 'committe':28,54 'd':34,46 'd-nv':45 'd-sd':33 'dave':60 'doesn':57 'fair':6 'fed':4,18 'forum':13 'get':1,59 'harri':43 'held':23 'johnson':32 'leader':42 'let':50 'liberti':11 'major':41 'nall':61 'nv':47 'order':38 'reid':44 'republican':12 'right':14 'sd':35 'senat':10,26,40 'tim':31 'vote':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fontcraft.com/liberty/%3Fp%3D60221&amp;sa=U&amp;ei=IPwUUOuNNYOK8QTz7IHoDA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNGYEKMiCktzxWLw0btsEPRFFYBAAA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16932072</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dave Nalle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27672</page-views-count>
+      <unaccented-name>Tim Johnson</unaccented-name>
+      <oc-user-comments type="integer">9</oc-user-comments>
+    </person>
+  </people>
+</hash>

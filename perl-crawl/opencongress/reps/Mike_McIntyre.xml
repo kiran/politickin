@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-21T14:06:50-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">68.1652490886999</party-votes-percentage>
+        <abstains-percentage type="float">4.24665503199535</abstains-percentage>
+        <votes-most-often-with-id type="integer">412287</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">324</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">73</abstains>
+        <cosponsored-bills type="integer">256</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">358</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400266</person-id>
+        <cosponsored-bills-rank type="integer">192</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400237</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">373</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">851</votes-republican-position>
+      <fax>202-225-5773</fax>
+      <blog-article-count type="integer">8757</blog-article-count>
+      <user-approval type="float">3.69230769230769</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">154</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/mcintyre/IMA/issue.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">68.1652490886999</with-party-percentage>
+      <lastname>McIntyre</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>2133 Rayburn House Office Building</congress-office>
+      <firstname>Mike</firstname>
+      <website>http://mcintyre.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1956-08-06</birthday>
+      <person-id type="integer">400266</person-id>
+      <phone>202-225-2731</phone>
+      <religion>Presbyterian</religion>
+      <bioguide-id>M000485</bioguide-id>
+      <votes-democratic-position type="integer">1122</votes-democratic-position>
+      <metavid-id>Mike_McIntyre</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:05:12-04:00</created-at>
+          <title>House Extends All Bush-Era Tax Rates</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the tax question with the election looming. Many were Blue Dogs in tough reelection races, including Reps. Larry Kissell (N.C.), Mike McIntyre (N.C.) and Jim Matheson (Utah). A Democrat running for Senate in Indiana, Rep. Joe Donnelly, also voted with t</excerpt>
+          <fti-names>'also':46 'blue':18 'bush':5 'bush-era':4 'democrat':37 'dog':19 'donnelli':45 'elect':14 'era':6 'extend':2 'hous':1 'includ':24 'indiana':42 'jim':33 'joe':44 'journal':53 'kissel':27 'larri':26 'loom':15 'mani':16 'matheson':34 'mcintyr':30 'media':52 'mike':29 'n.c':28,31 'new':51 'question':11 'race':23 'rate':8 'reelect':22 'rep':25,43 'run':38 'senat':40 'tax':7,10 'tough':21 'utah':35 'vote':47</fti-names>
+          <source-url>http://www.newmediajournal.us/</source-url>
+          <url>http://newmediajournal.us/indx.php/item/6347</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971744</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The New Media Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:52:39-04:00</created-at>
+          <title>House Game-Playing on Farm Bill, Drought Relief</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...food manufacturers, food service providers, as well as consumers,&#8221; said the letter sponsored by Rep. Bob Goodlatte, R-Va., and Mike McIntyre, D-N.C. They said about 40 percent of the corn crop now goes into ethanol production. There&#8217;s just no reason</excerpt>
+          <fti-names>'40':40 'bill':7 'bob':25 'c':36 'consum':18 'corn':44 'crop':45 'd':34 'd-n':33 'drought':8 'ethanol':49 'farm':6 'firedoglak':56 'food':10,12 'game':3 'game-play':2 'goe':47 'goodlatt':26 'hous':1 'letter':21 'manufactur':11 'mcintyr':32 'mike':31 'n':35 'percent':41 'play':4 'product':50 'provid':14 'r':28 'r-va':27 'reason':55 'relief':9 'rep':24 'said':19,38 'servic':13 'sponsor':22 'va':29 'well':16</fti-names>
+          <source-url>http://www.firedoglake.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firedoglake/fdl/~3/SxPTVUUvVyM/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970789</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firedoglake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:52:39-04:00</created-at>
+          <title>House passes livestock disaster relief bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...animal agriculture industry, food manufacturers, food service providers, as well as consumers,&quot; said the letter sponsored by Rep. Bob Goodlatte, R-Va., and Mike McIntyre, D-N.C. They said about 40 percent of the corn crop now goes into ethanol productio</excerpt>
+          <fti-names>'40':40 'agricultur':8 'anim':7 'bill':6 'bob':25 'c':36 'consum':18 'corn':44 'crop':45 'd':34 'd-n':33 'disast':4 'ethanol':49 'food':10,12 'goe':47 'goodlatt':26 'hous':1 'industri':9 'letter':21 'livestock':3 'manufactur':11 'mcintyr':32 'mike':31 'n':35 'pass':2 'percent':41 'productio':50 'provid':14 'r':28 'r-va':27 'relief':5 'rep':24 'said':19,38 'servic':13 'sifi':51 'sponsor':22 'va':29 'well':16</fti-names>
+          <source-url>http://www.sify.com/</source-url>
+          <url>http://www.sify.com/finance/house-passes-livestock-disaster-relief-bill-news-environment+and+nature-micm4vgbcec.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970788</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sify</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:52:38-04:00</created-at>
+          <title>156 House Members Write EPA Seeking RFS Waiver; AMI Commends Action</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the House members wrote in a letter that was spearheaded by Rep. Bob Goodlatte (R-VA), Rep. Steve Womack (R-AR) and Rep. Mike McIntyre (D-NC). Currently, only about 31 percent of the corn crop is in good or excellent condition, representing record lows.</excerpt>
+          <fti-names>'156':1 '31':45 'action':11 'american':62 'ami':9,61 'ar':34 'bob':24 'commend':10 'condit':56 'corn':49 'crop':50 'current':42 'd':40 'd-nc':39 'epa':5 'excel':55 'good':53 'goodlatt':25 'hous':2,13 'institut':64 'letter':18 'low':59 'mcintyr':38 'meat':60,63 'member':3,14 'mike':37 'nc':41 'percent':46 'r':27,33 'r-ar':32 'r-va':26 'record':58 'rep':23,29,36 'repres':57 'rfs':7 'seek':6 'spearhead':21 'steve':30 'va':28 'waiver':8 'womack':31 'write':4 'wrote':15</fti-names>
+          <source-url>http://www.meatami.com/</source-url>
+          <url>http://www.meatami.com/ht/d/ArticleDetails/i/79961</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970787</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Meat AMI (American Meat Institute)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:52:37-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.) Rep. David Loebsack (D-Iowa) Rep. Jim Matheson (D-Utah) Rep. Mike McIntyre (D-N.C.) Rep. Jerry McNerney (D-Calif.) Rep. Bill Owens (D-N.Y.) Rep. Collin Peterson (D-Minn.) Rep. Mike Ross (D-</excerpt>
+          <fti-names>'bill':53 'c':26,45 'calif':51 'collin':60 'cut':9 'd':12,18,24,31,37,43,50,56,63,68 'd-calif':49 'd-ind':17 'd-iowa':30 'd-minn':62 'd-n':23,42,55 'd-tex':11 'd-utah':36 'david':28 'democrat':2 'donnelli':16 'hous':6 'ind':19 'iowa':32 'jerri':47 'jim':34 'joe':15 'kissel':22 'larri':21 'loebsack':29 'matheson':35 'mcintyr':41 'mcnerney':48 'mike':40,66 'minn':64 'n':25,44,57 'owen':54 'peterson':61 'plan':10 'post':71 'rep':14,20,27,33,39,46,52,59,65 'republican':7 'ross':67 'tax':8 'tex':13 'utah':38 'vote':3 'washington':70 'y':58</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970786</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-03T00:52:13-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.) Rep. David Loebsack (D-Iowa) Rep. Jim Matheson (D-Utah) Rep. Mike McIntyre (D-N.C.) Rep. Jerry McNerney (D-Calif.) Rep. Bill Owens (D-N.Y.) Rep. Collin Peterson (D-Minn.) Rep. Mike Ross (D-</excerpt>
+          <fti-names>'bill':53 'c':26,45 'calif':51 'collin':60 'cut':9 'd':12,18,24,31,37,43,50,56,63,68 'd-calif':49 'd-ind':17 'd-iowa':30 'd-minn':62 'd-n':23,42,55 'd-tex':11 'd-utah':36 'david':28 'democrat':2 'donnelli':16 'hous':6 'ind':19 'iowa':32 'jerri':47 'jim':34 'joe':15 'kissel':22 'larri':21 'loebsack':29 'matheson':35 'mcintyr':41 'mcnerney':48 'mike':40,66 'minn':64 'n':25,44,57 'owen':54 'peterson':61 'plan':10 'post':71 'rep':14,20,27,33,39,46,52,59,65 'republican':7 'ross':67 'tax':8 'tex':13 'utah':38 'vote':3 'washington':70 'y':58</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970785</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:49:43-04:00</created-at>
+          <title>Lawmakers urge EPA to lower ethanol target amid drought</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...given the widespread drought that has devastated farm production. Reps. Bob Goodlatte (R-Va.), Steve Womack (R-Ark.) and Mike McIntyre (D-N.C.) are leading the effort. They will send the letter Thursday and hold a morning press conference to discuss the</excerpt>
+          <fti-names>'amid':8 'ark':29 'bob':20 'c':36 'confer':52 'd':34 'd-n':33 'devast':16 'discuss':54 'drought':9,13 'effort':40 'epa':3 'ethanol':6 'farm':17 'given':10 'goodlatt':21 'hill':57 'hold':48 'lawmak':1 'lead':38 'letter':45 'lower':5 'mcintyr':32 'mike':31 'morn':50 'n':35 'press':51 'product':18 'r':23,28 'r-ark':27 'r-va':22 'rep':19 'send':43 'steve':25 'target':7 'thursday':46 'urg':2 'va':24 'widespread':12 'womack':26</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/241601-lawmakers-sign-letter-urging-epa-to-lower-corn-ethanol-target</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969826</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:00:05-04:00</created-at>
+          <title>Daily Kos Elections Morning Digest: An instant contender for craziest campaign ad of the year</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Dave Rouzer, trailing Dem Rep. Mike McIntyre. But so they have: A new Rouzer campaign poll from Public Opinion Strategies has the incumbent up 44-40. Presumably Republicans are excited to see McIntyre under 50%, but there's a flipside to that ...</excerpt>
+          <fti-names>'-40':41 '44':40 '50':50 'ad':12 'campaign':11,30 'contend':8 'craziest':10 'daili':1,58 'dave':16 'dem':19 'digest':5 'elect':3 'excit':45 'flipsid':55 'incumb':38 'instant':7 'kos':2,59 'mcintyr':22,48 'mike':21 'morn':4 'new':28 'opinion':34 'poll':31 'presum':42 'public':33 'rep':20 'republican':43 'rouzer':17,29 'see':47 'strategi':35 'trail':18 'year':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/31/1115238/-Daily-Kos-Elections-Morning-Digest-An-instant-contender-for-craziest-campaign-ad-of-the-year</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T07:59:55-04:00</date>
+          <id type="integer">16966918</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:00:18-04:00</created-at>
+          <title>North Carolina: DCCC Releases Poll Showing Mike McIntyre Ahead</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...new poll commissioned by the Democratic Congressional Campaign Committee found vulnerable Rep. Mike McIntyre (D-N.C.) leading his Republican challenger, state Sen. David Rouzer, by 19 points. That&#8217;s a very different image than the one painted by a GOP</excerpt>
+          <fti-names>'19':37 'ahead':9 'c':27 'call':53 'campaign':17 'carolina':2 'challeng':31 'commiss':12 'committe':18 'congression':16 'd':25 'd-n':24 'david':34 'dccc':3 'democrat':15 'differ':43 'found':19 'gop':51 'imag':44 'lead':28 'mcintyr':8,23 'mike':7,22 'n':26 'new':10 'north':1 'one':47 'paint':48 'point':38 'poll':5,11 'releas':4 'rep':21 'republican':30 'roll':52 'rouzer':35 'sen':33 'show':6 'state':32 'vulner':20</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/north_carolina_dccc_releases_poll_showing_mike_mcintyre_ahead-216594-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966919</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:33-04:00</created-at>
+          <title>Poll shows McIntyre, Rouzer in dead heat</title>
+          <contains-term>congress</contains-term>
+          <excerpt>David Rouzer's congressional campaign released the results of a poll Monday showing a tight race with Mike McIntyre in the 7th Congressional ... that aren't working and they recognize that Congressman McIntyre is part of the problem,&quot; said ...</excerpt>
+          <fti-names>'7th':29 'aren':32 'campaign':12 'congression':11,30 'congressman':39 'david':8 'dead':6 'heat':7 'mcintyr':3,26,40 'mike':25 'monday':19 'news':48 'onlin':49 'part':42 'poll':1,18 'problem':45 'race':23 'recogn':37 'releas':13 'result':15 'rouzer':4,9 'said':46 'show':2,20 'star':47 'tight':22 'work':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.starnewsonline.com/article/20120730/ARTICLES/120739970/-1/weather?Title=Poll-shows-McIntyre-Rouzer-in-dead-heat</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:26:36-04:00</date>
+          <id type="integer">16961212</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Star News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Mike McIntyre [D, NC-7]</name>
+      <total-session-votes type="integer">1646</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepMikeMcIntyre</youtube-id>
+      <district>7</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:28-04:00</created-at>
+          <title>North Carolina: GOP Poll Shows Mike McIntyre With Small Lead ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>North Carolina: GOP Poll Shows Mike McIntyre With Small Lead, Well Under 50 Percent. Vulnerable North Carolina Rep. Mike McIntyre (D) had a slight edge over state Sen. David Rouzer, his Republican opponent, according ...</excerpt>
+          <fti-names>'50':23 'accord':44 'carolina':2,12,27 'd':31 'david':39 'edg':35 'gop':3,13 'joshua':45 'lead':10,20 'mcintyr':7,17,30 'mike':6,16,29 'miller':46 'north':1,11,26 'oppon':43 'percent':24 'poll':4,14 'rep':28 'republican':42 'rouzer':40 'sen':38 'show':5,15 'slight':34 'small':9,19 'state':37 'vulner':25 'well':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicalparades.com/capitol-hill/north-carolina-gop-poll-shows-mike-mcintyre-with-small-lead-well-under-50-percent&amp;sa=U&amp;ei=kk0XUMuaI4mQ8wTC0oHgAg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNEaGU5QRQ9z_9iU-x54gVMnwfEmIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961206</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joshua Miller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:28-04:00</created-at>
+          <title>Daily Kos: Daily Kos Elections Polling Wrap: The Republican Right ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>It is that same dynamic that has made Indiana a legitimate pickup opportunity for the Democrats this time around, as Democratic Rep. Joe Donnelly finds himself ... for Rouzer): Rep. Mike McIntyre (D) 44, Dave Rouzer (R) 40 ...</excerpt>
+          <fti-names>'40':47 '44':43 'around':29 'd':42 'daili':1,3 'dave':44 'democrat':26,31 'donnelli':34 'dynam':15 'elect':5 'find':35 'indiana':19 'joe':33 'kos':2,4 'legitim':21 'made':18 'mcintyr':41 'mike':40 'opportun':23 'pickup':22 'poll':6 'r':46 'rep':32,39 'republican':9 'right':10 'rouzer':38,45 'rss@dailykos.com':48 'singis':50 'steve':49 'time':28 'wrap':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/07/30/1115155/-Daily-Kos-Elections-Polling-Wrap-The-Republican-Right-poised-to-claim-another-establishment-pick&amp;sa=U&amp;ei=kk0XUMuaI4mQ8wTC0oHgAg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHV_EXtuCjWFrSfVt0ROK9ScZT-4g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961201</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (Steve Singiser)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:27-04:00</created-at>
+          <title>McIntyre measure seeks firm scientific grounds for farm regulations ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(Star News Online) U.S. Rep. Mike McIntyre says he doesn&amp;#39;t want burdensome regulations supported by weak science interfering with businesses, particularly farmers in North Carolina. The Democratic congressman from ...</excerpt>
+          <fti-names>'agn':40 'burdensom':22 'busi':30 'carolina':35 'cheek':41 'congressman':38 'democrat':37 'doesn':19 'farm':8 'farmer':32 'firm':4 'ground':6 'interf':28 'mcintyr':1,16 'measur':2 'mike':15 'news':11 'north':34 'onlin':12 'particular':31 'regul':9,23 'rep':14 'say':17 'scienc':27 'scientif':5 'seek':3 'star':10 'support':24 'u.s':13 'want':21 'weak':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mattandagnes.com/2012/07/mcintyre-measure-seeks-firm-scientific-grounds-for-farm-regulations/&amp;sa=U&amp;ei=kk0XUMuaI4mQ8wTC0oHgAg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNGEtYGxuUoSuJmcXzvf5VZzinvvlw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961199</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Agnes Cheek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:51:45-04:00</created-at>
+          <title>Asheville native Dack named a Washington beauty by &amp;#39;The Hill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Alyssa Dack, 24, a Duke graduate who serves as Rep. Mike McIntyre&amp;#39;s outreach coordinator, was named #7 on The Hill&amp;#39;s 50 Most Beautiful People list. &#8230; Dack, a native of Asheville, studied public policy, journalism and ...</excerpt>
+          <fti-names>'24':13 '50':33 '7':28 'alyssa':11 'ashevill':1,42 'beauti':7,35 'coordin':25 'dack':3,12,38 'duke':15 'graduat':16 'hill':10,31 'jason':48 'journal':46 'list':37 'mcintyr':22 'mike':21 'name':4,27 'nativ':2,40 'outreach':24 'peopl':36 'polici':45 'public':44 'rep':20 'sandford':49 'serv':18 'studi':43 'washington':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ashvegas.com/asheville-native-dack-named-a-washington-beauty-by-the-hill&amp;sa=U&amp;ei=BT0WUN_yFYae8QTXhoEw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNH1OXVhlU0jzkBTzOPm3q--iUwwIQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948790</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jason Sandford</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:42-04:00</created-at>
+          <title>DownWithTyranny!: &amp;quot;Ex&amp;quot;-Blue Dog Steve Israel Is Trying To Use The ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Critz voted for Pelosi for speaker in 2011, but Matheson, for instance, voted for conservative Rep. Heath Shuler (D-NC), who is retiring. So did other endangered Democrats, such as Reps. Larry Kissell and Mike McIntyre (NC).</excerpt>
+          <fti-names>'2011':19 'blue':3 'conserv':26 'critz':12 'd':31 'd-nc':30 'democrat':40 'dog':4 'downwithtyranni':1,50 'endang':39 'ex':2 'heath':28 'instanc':23 'israel':6 'kissel':45 'larri':44 'matheson':21 'mcintyr':48 'mike':47 'nc':32,49 'pelosi':15 'rep':27,43 'retir':35 'shuler':29 'speaker':17 'steve':5 'tri':8 'use':10 'vote':13,24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/ex-blue-dog-steve-israel-is-trying-to.html&amp;sa=U&amp;ei=e9UUUPPpF_S60QH5goHgCA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNEJl7ks-Ngv-XcaiVmGK2pQD8rP4g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930387</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:35-04:00</created-at>
+          <title>Asheville native Dack named a Washington beauty by &amp;#39;The Hill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Alyssa Dack, 24, a Duke graduate who serves as Rep. Mike McIntyre&amp;#39;s outreach coordinator, was named #7 on The Hill&amp;#39;s 50 Most Beautiful People list. &#8230; Dack, a native of Asheville, studied public policy, journalism and ...</excerpt>
+          <fti-names>'24':13 '50':33 '7':28 'alyssa':11 'ashevill':1,42 'beauti':7,35 'coordin':25 'dack':3,12,38 'duke':15 'graduat':16 'hill':10,31 'jason':48 'journal':46 'list':37 'mcintyr':22 'mike':21 'name':4,27 'nativ':2,40 'outreach':24 'peopl':36 'polici':45 'public':44 'rep':20 'sandford':49 'serv':18 'studi':43 'washington':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ashvegas.com/asheville-native-dack-named-a-washington-beauty-by-the-hill&amp;sa=U&amp;ei=e9UUUPPpF_S60QH5goHgCA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHbHoTk7V65A78dmn7-mo36Yx_Nng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930381</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jason Sandford</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:17:37-04:00</created-at>
+          <title>Who says politics isn&amp;#39;t sexy? &amp;#39;Capitol Hill Kim Kardashian&amp;#39; tops list of ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Lisa Murkowski&amp;#39;s office (Independent); Marian White, 25: Staff Assistant for House Judiciary Committee&amp;#39;s Republicans (Republican); Alyssa Dack, 24: Outreach Coordinator for Rep. Mike McIntyre (Democrat); Samantha Dezur, ...</excerpt>
+          <fti-names>'24':33 '25':21 'alyssa':31 'assist':23 'capitol':7 'committe':27 'coordin':35 'dack':32 'democrat':40 'dezur':42 'hill':8 'hous':25 'independ':18 'investmentwatch':43 'isn':4 'judiciari':26 'kardashian':10 'kim':9 'lisa':14 'list':12 'marian':19 'mcintyr':39 'mike':38 'murkowski':15 'offic':17 'outreach':34 'polit':3 'rep':37 'republican':29,30 'samantha':41 'say':2 'sexi':6 'staff':22 'top':11 'white':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://investmentwatchblog.com/who-says-politics-isnt-sexy-capitol-hill-kim-kardashian-tops-list-of-the-50-most-beautiful-people-in-washington-and-michele-bachmann-is-number-10/&amp;sa=U&amp;ei=e9UUUPPpF_S60QH5goHgCA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHzpzP73PraRXY2ql0BQJF9riD-mw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16930383</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>InvestmentWatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:17:42-04:00</created-at>
+          <title>Latest dispatches from the campaign trail, July 27, 2012 | The Locker ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Reps. Mike McIntyre, D-7th, and Larry Kissell, D-8th, along with the state&amp;#39;s redistricting plan, get mentions in a New York Times story about Democratic congressional incumbents facing tough re-election campaigns.</excerpt>
+          <fti-names>'2012':9 '27':8 '7th':18 '8th':24 'along':25 'campaign':5,49 'congression':42 'd':17,23 'd-7th':16 'd-8th':22 'democrat':41 'dispatch':2 'elect':48 'face':44 'get':32 'henderson':51 'incumb':43 'juli':7 'kissel':21 'larri':20 'latest':1 'locker':11 'mcintyr':15 'mention':33 'mike':14 'new':36 'plan':31 're':47 're-elect':46 'redistrict':30 'rep':13 'rick':50 'state':28 'stori':39 'time':38 'tough':45 'trail':6 'u.s':12 'york':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lockerroom.johnlocke.org/2012/07/27/latest-dispatches-from-the-campaign-trail-july-27-2012/&amp;sa=U&amp;ei=1FkTUO09iZfRAd_HgOgI&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGJ32eaNWf3laHpa6lBxOdoUzEmeg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922525</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rick Henderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:14:27-04:00</created-at>
+          <title>Conservatives For Mike - Mike McIntyre for Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Wilmington, N.C. &#8212; Conservatives from all across the political spectrum are uniting to support the election of U.S. Congressman Mike McIntyre with the formation of &#8220;Conservatives for Mike&#8221;, the Mike McIntyre for Congress ...</excerpt>
+          <fti-names>'across':13 'congress':7,39 'congressman':25 'conserv':1,10,32 'elect':22 'format':30 'geneviev':40 'mcintyr':5,27,37 'mike':3,4,26,34,36 'n.c':9 'polit':15 'spectrum':16 'support':20 'u.s':24 'unit':18 'wilmington':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mcintyreforcongress.com/2012/07/26/conservatives-for-mike-unite-from-all-parties-to-support-mcintyre/&amp;sa=U&amp;ei=kk0XUMuaI4mQ8wTC0oHgAg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGOIZq5WtTQWr1il3N3eZScMkCNlQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16961200</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>genevieve</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400266</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:17:41-04:00</created-at>
+          <title>Who says politics isn&amp;#39;t sexy? &amp;#39;Capitol Hill Kim Kardashian&amp;#39; tops list of ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Lisa Murkowski&amp;#39;s office (Independent); Marian White, 25: Staff Assistant for House Judiciary Committee&amp;#39;s Republicans (Republican); Alyssa Dack, 24: Outreach Coordinator for Rep. Mike McIntyre (Democrat); Samantha Dezur, ...</excerpt>
+          <fti-names>'24':33 '25':21 'alyssa':31 'assist':23 'capitol':7 'committe':27 'coordin':35 'dack':32 'democrat':40 'dezur':42 'hill':8 'hous':25 'independ':18 'investmentwatch':43 'isn':4 'judiciari':26 'kardashian':10 'kim':9 'lisa':14 'list':12 'marian':19 'mcintyr':39 'mike':38 'murkowski':15 'offic':17 'outreach':34 'polit':3 'rep':37 'republican':29,30 'samantha':41 'say':2 'sexi':6 'staff':22 'top':11 'white':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://investmentwatchblog.com/who-says-politics-isnt-sexy-capitol-hill-kim-kardashian-tops-list-of-the-50-most-beautiful-people-in-washington-and-michele-bachmann-is-number-10/&amp;sa=U&amp;ei=1FkTUO09iZfRAd_HgOgI&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHkatkY1Ma3FZrHkzPADuw181RUNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16922519</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>InvestmentWatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22040</page-views-count>
+      <unaccented-name>Mike McIntyre</unaccented-name>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

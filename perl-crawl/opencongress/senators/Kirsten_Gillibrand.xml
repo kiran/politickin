@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-10-04T23:29:09-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.4162436548223</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">412378</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">5</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">364</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">14</party-votes-percentage-rank>
+        <sponsored-bills type="integer">76</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">412223</person-id>
+        <cosponsored-bills-rank type="integer">2</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412391</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">8</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">148</votes-republican-position>
+      <fax>202-225-1168</fax>
+      <blog-article-count type="integer">13685</blog-article-count>
+      <user-approval type="float">3.54970760233918</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">1628</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.gillibrand.senate.gov/contact/</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.4162436548223</with-party-percentage>
+      <lastname>Gillibrand</lastname>
+      <middlename>E.</middlename>
+      <bioguide-id>G000555</bioguide-id>
+      <congress-office>478 Russell Senate Office Building</congress-office>
+      <firstname>Kirsten</firstname>
+      <website>http://www.gillibrand.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412223</person-id>
+      <phone>202-224-4451</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">372</votes-democratic-position>
+      <metavid-id>Kirsten_Gillibrand</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:01-04:00</created-at>
+          <title>Gillibrand, Long To Debate</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Kirsten Gillibrand and Republican challenger Wendy Long will have a debate on Oct. 17. Long, a New York City lawyer, won a three-way Republican primary in April. Gillibrand, who was first appointed to the post in 2009, and is seeking a full six-year ter</excerpt>
+          <fti-names>'17':18 '2009':43 'appoint':38 'april':33 'challeng':9 'citi':23 'debat':4,15 'first':37 'full':48 'gillibrand':1,6,34 'hudson':56 'kirsten':5 'lawyer':24 'long':2,11,19 'new':21 'oct':17 'polit':53 'post':41 'primari':31 'republican':8,30 'seek':46 'six':50 'six-year':49 'ter':52 'three':28 'three-way':27 'way':29 'wendi':10 'won':25 'year':51 'york':22</fti-names>
+          <source-url>http://polhudson.lohudblogs.com/</source-url>
+          <url>http://polhudson.lohudblogs.com/2012/08/07/gillibrand-long-to-debate/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973747</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politics on the Hudson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:01-04:00</created-at>
+          <title>Gillibrand, Long To Debate</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Kirsten Gillibrand and Republican challenger Wendy Long will have a debate on Oct. 17. Long, a New York City lawyer, won a three-way Republican primary in April. Gillibrand, who was first appointed to the post in 2009, and is seeking a full six-year ter</excerpt>
+          <fti-names>'17':18 '2009':43 'appoint':38 'april':33 'binghamton':53 'challeng':9 'citi':23 'debat':4,15 'first':37 'full':48 'gillibrand':1,6,34 'kirsten':5 'lawyer':24 'long':2,11,19 'new':21 'oct':17 'post':41 'press':54 'primari':31 'republican':8,30 'seek':46 'six':50 'six-year':49 'ter':52 'three':28 'three-way':27 'way':29 'wendi':10 'won':25 'year':51 'york':22</fti-names>
+          <source-url>http://www.pressconnects.com/</source-url>
+          <url>http://statepolitics.lohudblogs.com/2012/08/07/gillibrand-long-to-debate/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973746</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Binghamton Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:01-04:00</created-at>
+          <title>Pataki for Long; debate set for Oct. 17</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Pataki will tomorrow endorse Wendy Long, a Manhattan attorney who is the Republican and Conservative candidate against Sen. Kirsten Gillibrand, D-Brunswick. A formal event will take place tomorrow morning in Manhattan. Many of Pataki&#8217;s former aides ar</excerpt>
+          <fti-names>'17':8 'aid':47 'ar':48 'attorney':17 'brunswick':31 'candid':24 'capitol':49 'confidenti':50 'conserv':23 'd':30 'd-brunswick':29 'debat':4 'endors':12 'event':34 'formal':33 'former':46 'gillibrand':28 'kirsten':27 'long':3,14 'manhattan':16,41 'mani':42 'morn':39 'oct':7 'pataki':1,9,44 'place':37 'republican':21 'sen':26 'set':5 'take':36 'tomorrow':11,38 'wendi':13</fti-names>
+          <source-url>http://blogs.timesunion.com/capitol/</source-url>
+          <url>http://blog.timesunion.com/capitol/archives/144061/pataki-for-long-debate-set-for-oct-17/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973745</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capitol Confidential</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:59-04:00</created-at>
+          <title>Democratic Sen. Kirsten Gillibrand and Republican challenger Wendy Long agree debate at Skidmore College</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Associated Press SARATOGA SPRINGS &#8212; Democratic U.S. Sen. Kirsten Gillibrand and Republican challenger Wendy Long have agreed to debate a few weeks before the November election. Cable news stations NY1 and YNN say they will host a live candidates&#8217; de</excerpt>
+          <fti-names>'agre':10,30 'associ':15 'cabl':40 'candid':52 'challeng':7,26 'colleg':14 'de':53 'debat':11,32 'democrat':1,19 'elect':39 'gillibrand':4,23 'host':49 'kirsten':3,22 'live':51 'long':9,28 'news':41 'novemb':38 'ny1':43 'press':16 'republican':6,25 'saratoga':17 'saratogian':55 'say':46 'sen':2,21 'skidmor':13 'spring':18 'station':42 'u.s':20 'week':35 'wendi':8,27 'ynn':45</fti-names>
+          <source-url>http://www.saratogian.com/</source-url>
+          <url>http://www.saratogian.com/articles/2012/08/07/news/doc5021360bd6741648336701.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973744</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Saratogian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:50-04:00</created-at>
+          <title>The Year of the Woman Again? Yes, But This Time It's For Real</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...is hoping to win this week's primary and run against Sen. Claire McCaskill this fall, or the race between Wendy Long and Sen. Kirsten Gillibrand brings to mind a replay of many of last cycle's woman-against-woman races. But there is chance for some gain</excerpt>
+          <fti-names>'bring':41 'chanc':60 'check':67 'clair':27 'cycl':50 'fall':30 'gain':63 'gillibrand':40 'health':65 'hope':16 'kirsten':39 'last':49 'long':36 'mani':47 'mccaskil':28 'mind':43 'primari':22 'race':33,56 'real':14 'realiti':66 'replay':45 'reproduct':64 'run':24 'sen':26,38 'time':10 'week':20 'wendi':35 'win':18 'woman':5,53,55 'woman-against-woman':52 'year':2 'yes':7</fti-names>
+          <source-url>http://www.rhrealitycheck.org/</source-url>
+          <url>http://feedproxy.google.com/~r/rhrealitycheck/~3/jBSBw0K_js0/year-woman-again-yes-but-this-time-its-real</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973119</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Reproductive Health: Reality Check</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:57:59-04:00</created-at>
+          <title>Crowded skies prompt experts to huddle over bird-plane collisions</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...bureaucratic red tape between federal agencies. We are finally taking action to help reduce bird strikes and save lives,&quot; Sen. Kirsten Gillibrand (D-N.Y.), a proponent for the effort, said at the time. But other experts say killing geese is not much of </excerpt>
+          <fti-names>'action':22 'agenc':17 'bird':9,26 'bird-plan':8 'bureaucrat':12 'collis':11 'crowd':1 'd':35 'd-n':34 'effort':42 'expert':4,49 'feder':16 'final':20 'fox':57 'gees':52 'gillibrand':33 'help':24 'huddl':6 'kill':51 'kirsten':32 'live':30 'much':55 'n':36 'news':58 'plane':10 'prompt':3 'propon':39 'red':13 'reduc':25 'said':43 'save':29 'say':50 'sen':31 'sky':2 'strike':27 'take':21 'tape':14 'time':46 'y':37</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/foxnews/national/~3/AnldNFIyPRM/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972600</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:57:59-04:00</created-at>
+          <title>Federal insider trading ban delayed</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...-- The new law banning federal insider trading -- a top achievement for Sen. Kirsten Gillibrand (D-N.Y.) -- was postponed last week out of fears it would inadvertently expose spies and put diplomats, prosecutors and military officials in jeopardy.As Con</excerpt>
+          <fti-names>'achiev':15 'ban':4,9 'con':45 'd':21 'd-n':20 'delay':5 'diplomat':38 'expos':34 'fear':30 'feder':1,10 'gillibrand':19 'inadvert':33 'insid':2,11 'jeopardy.as':44 'kirsten':18 'last':26 'law':8 'militari':41 'n':22 'new':7 'newsday':46 'offici':42 'postpon':25 'prosecutor':39 'put':37 'sen':17 'spi':35 'top':14 'trade':3,12 'week':27 'would':32 'y':23</fti-names>
+          <source-url>http://www.newsday.com/</source-url>
+          <url>http://www.newsday.com/news/nation/federal-insider-trading-ban-delayed-1.3884722</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972599</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Newsday</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:16:40-04:00</created-at>
+          <title>Are women better politicians?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...was raised, and the women seemed befuddled as to how they could find the time to pencil in an affair. New York Sen. Kirsten Gillibrand brought up having to balance career and motherhood, and Texas Sen. Kay Bailey Hutchison responded, &quot;With all the multi</excerpt>
+          <fti-names>'affair':24 'bailey':42 'balanc':34 'befuddl':11 'better':3 'brought':30 'career':35 'could':16 'find':17 'gillibrand':29 'hutchison':43 'kay':41 'kirsten':28 'motherhood':37 'multi':48 'new':25 'pencil':21 'politician':4 'rais':6 'respond':44 'seem':10 'sen':27,40 'stuff':50 'texa':39 'time':19 'women':2,9 'work':51 'york':26</fti-names>
+          <source-url>http://howstuffworks.com/</source-url>
+          <url>http://people.howstuffworks.com/women-better-politicians.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972330</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>How Stuff Works</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:16:42-04:00</created-at>
+          <title>East End Notebook: Civil Suit After Fatality, Wind Farm Planned &amp; More</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...entertainment during the East End for Obama event at the home of Ellen Chesler and Matthew Mallow in Bridgehampton. Sen. Kirsten Gillibrand, of New York, Sen. Frank Lautenberg, of New Jersey, and Rep. Tim Bishop, of Southampton, will also be in attendan</excerpt>
+          <fti-names>'also':50 'attendan':53 'bay':55 'bishop':46 'bridgehampton':30 'chesler':25 'civil':4 'east':1,15 'ellen':24 'end':2,16 'entertain':12 'event':19 'farm':9 'fatal':7 'frank':38 'gillibrand':33 'hampton':54 'home':22 'jersey':42 'kirsten':32 'lautenberg':39 'mallow':28 'matthew':27 'new':35,41 'notebook':3 'obama':18 'patch':56 'plan':10 'rep':44 'sen':31,37 'southampton':48 'suit':5 'tim':45 'wind':8 'york':36</fti-names>
+          <source-url>http://hamptonbays.patch.com/</source-url>
+          <url>http://westhampton-hamptonbays.patch.com/articles/east-end-notebook-civil-suit-after-fatality-wind-farm-planned-more</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972331</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hampton Bays Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:26:56-04:00</created-at>
+          <title>Parked tranquility: Auburn property owner converts Genesee Street lot into public park</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...and Syracuse markets this fall. It's unlikely that Republican U.S. Senate candidate Wendy Long will be joining U.S. Sen. Kirsten Gillibrand's &quot;Off the Sidelines&quot; book club an&#8230; LOS ANGELES (AP) &#8212; CBS still wants to evict &quot;The Glass House&quot; from the ai</excerpt>
+          <fti-names>'ai':55 'angel':43 'ap':44 'auburn':3 'book':39 'candid':25 'cbs':45 'citizen':57 'club':40 'convert':6 'evict':49 'fall':17 'genese':7 'gillibrand':34 'glass':51 'hous':52 'join':30 'kirsten':33 'long':27 'los':42 'lot':9 'market':15 'owner':5 'park':1,12 'properti':4 'public':11 'republican':22 'sen':32 'senat':24 'sidelin':38 'still':46 'street':8 'syracus':14 'tranquil':2 'u.s':23,31 'unlik':20 'want':47 'wendi':26</fti-names>
+          <source-url>http://auburnpub.com/</source-url>
+          <url>http://auburnpub.com/lifestyles/parked-tranquility-auburn-property-owner-converts-genesee-street-lot-into/article_01f5de6d-a2fb-5cf1-9233-6cd0f9a479de.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971957</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Citizen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Kirsten Gillibrand [D, NY]</name>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>KirstenEGillibrand</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:23:32-04:00</created-at>
+          <title>Celebrate Green Blog &#171; July Bits &amp;amp; Pieces</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Max Baucus Sen. Thomas Carper Sen. Benjamin Cardin Sen. Bernard Sanders Sen. Sheldon Whitehouse Sen. Tom Udall Sen. Jeff Merkley Sen. Kirsten Gillibrand. And to keep updated on the act, go to Safer Chemicals Healthy Families ...</excerpt>
+          <fti-names>'act':37 'baucus':9 'benjamin':14 'bernard':17 'bit':5 'blog':3 'cardin':15 'carper':12 'celebr':1 'chemic':41 'famili':43 'gillibrand':30 'go':38 'green':2 'healthi':42 'jeff':26 'juli':4 'keep':33 'kirsten':29 'lynn':44 'max':8 'merkley':27 'piec':6 'safer':40 'sander':18 'sen':7,10,13,16,19,22,25,28 'sheldon':20 'thoma':11 'tom':23 'udal':24 'updat':34 'whitehous':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.celebrategreen.net/blog/activities/july-bits-and-pieces&amp;sa=U&amp;ei=tXwWUNvTGoPK9QS1noH4DQ&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNGTGXrUamkLeoU1O-mPG43Bursu8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951801</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lynn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:23:30-04:00</created-at>
+          <title>Sen. Kirsten Gillibrand Made $165614 Last Year - blog*spot</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Ms. Gillibrand released five years worth of tax returns today, making her only one of a handful of senators to do so. Her Republican opponent, Wendy Long, has been calling on her to make more tax returns available, while the ...</excerpt>
+          <fti-names>'165614':5 'avail':47 'blog':8 'call':39 'five':13 'gillibrand':3,11 'hand':26 'jewishworldnews@yahoo.com':50 'kirsten':2 'last':6 'long':36 'made':4 'make':20,43 'ms':10 'one':23 'oppon':34 'releas':12 'republican':33 'return':18,46 'sen':1 'senat':28 'spot':9 'tax':17,45 'today':19 'wendi':35 'worth':15 'year':7,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://worldjewishnews.blogspot.com/2012/07/sen-kirsten-gillibrand-made-165614-last.html&amp;sa=U&amp;ei=tXwWUNvTGoPK9QS1noH4DQ&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNG0Et6GjVF4-K19Lfe19qUQvi2KFQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951797</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jewishworldnews@yahoo.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:23:29-04:00</created-at>
+          <title>Kirsten Gillibrand Shows Mitt Romney How It&amp;#39;s Done | Going Concern</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Kirsten Gillibrand (D-N.Y.) has released five years of federal and state income tax returns on her website &#8212; the first senator to release returns from her entire public career, according to her office. Spokesman Glen Caplin ...</excerpt>
+          <fti-names>'accord':44 'caleb':51 'caplin':50 'career':43 'concern':11 'd':16 'd-n':15 'done':9 'entir':41 'feder':24 'first':34 'five':21 'gillibrand':2,14 'glen':49 'go':10 'incom':27 'kirsten':1,13 'mitt':4 'n':17 'newquist':52 'offic':47 'public':42 'releas':20,37 'return':29,38 'romney':5 'sen':12 'senat':35 'show':3 'spokesman':48 'state':26 'tax':28 'websit':32 'y':18 'year':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://goingconcern.com/post/kirsten-gillibrand-shows-mitt-romney-how-its-done&amp;sa=U&amp;ei=tXwWUNvTGoPK9QS1noH4DQ&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNF49yje-qIXneGML2TUBAvQ07U7Cw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Caleb Newquist</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:23:18-04:00</created-at>
+          <title>Kirsten Gillibrand Puts Tax Returns Online</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Kirsten Gillibrand (D-N.Y.) doesn&amp;#39;t mention Mitt Romney and his undisclosed tax returns, but she doesn&amp;#39;t have to with her latest transparency initiative: posting her state and federal tax returns online. Gillibrand has made ...</excerpt>
+          <fti-names>'d':11 'd-n':10 'doesn':14,26 'feder':39 'gillibrand':2,9,43 'huffington':47 'initi':34 'kirsten':1,8 'latest':32 'made':45 'mention':16 'mitt':17 'n':12 'news':49 'onlin':6,42 'post':35,48 'put':3 'return':5,23,41 'romney':18 'sen':7 'state':37 'tax':4,22,40 'team':50 'transpar':33 'undisclos':21 'y':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/kirsten-gillibrand-tax-returns_n_1710688.html&amp;sa=U&amp;ei=tXwWUNvTGoPK9QS1noH4DQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEDRpqvRM4e8saw2UTmJx7mPeOT3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951789</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:51:33-04:00</created-at>
+          <title>Meet the 112th | Gillibrand releases 5 years of tax returns</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>July 28&#8211;Sen. Kirsten Gillibrand released five years of federal and state tax returns on her website Friday, ending an ongoing skirmish between the Democratic lawmaker and her Republican opponent. Gillibrand (D-N.</excerpt>
+          <fti-names>'112th':3 '28':12 '5':6 'd':43 'd-n':42 'democrat':35 'end':29 'feder':20 'five':17 'friday':28 'gillibrand':4,15,41 'juli':11 'kirsten':14 'lawmak':36 'meet':1 'n':44 'newsday':45 'ongo':31 'oppon':40 'releas':5,16 'republican':39 'return':10,24 'sen':13 'skirmish':32 'state':22 'tax':9,23 'websit':27 'year':7,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/gillibrand-releases-5-years-of-tax-returns/&amp;sa=U&amp;ei=ivkUUO3kIors8wTUpYG4Dg&amp;ved=0CEwQmAEwCw&amp;usg=AFQjCNGo4WtjO4SGPb3zTDsUSicMbGJ-ZA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931887</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Newsday</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:51:29-04:00</created-at>
+          <title>Sen. Kirsten Gillibrand Made $165614 Last Year - blog*spot</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Ms. Gillibrand released five years worth of tax returns today, making her only one of a handful of senators to do so. Her Republican opponent, Wendy Long, has been calling on her to make more tax returns available, while the ...</excerpt>
+          <fti-names>'165614':5 'avail':47 'blog':8 'call':39 'five':13 'gillibrand':3,11 'hand':26 'jewishworldnews@yahoo.com':50 'kirsten':2 'last':6 'long':36 'made':4 'make':20,43 'ms':10 'one':23 'oppon':34 'releas':12 'republican':33 'return':18,46 'sen':1 'senat':28 'spot':9 'tax':17,45 'today':19 'wendi':35 'worth':15 'year':7,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://worldjewishnews.blogspot.com/2012/07/sen-kirsten-gillibrand-made-165614-last.html&amp;sa=U&amp;ei=ivkUUO3kIors8wTUpYG4Dg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNEnUn3hy_AnuVpBb5LnR6cVcf0jwQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931882</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jewishworldnews@yahoo.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:51:29-04:00</created-at>
+          <title>Kirsten Gillibrand Shows Mitt Romney How It&amp;#39;s Done | Going Concern</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Kirsten Gillibrand (D-N.Y.) has released five years of federal and state income tax returns on her website &#8212; the first senator to release returns from her entire public career, according to her office. Spokesman Glen Caplin ...</excerpt>
+          <fti-names>'accord':44 'caleb':51 'caplin':50 'career':43 'concern':11 'd':16 'd-n':15 'done':9 'entir':41 'feder':24 'first':34 'five':21 'gillibrand':2,14 'glen':49 'go':10 'incom':27 'kirsten':1,13 'mitt':4 'n':17 'newquist':52 'offic':47 'public':42 'releas':20,37 'return':29,38 'romney':5 'sen':12 'senat':35 'show':3 'spokesman':48 'state':26 'tax':28 'websit':32 'y':18 'year':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://goingconcern.com/post/kirsten-gillibrand-shows-mitt-romney-how-its-done&amp;sa=U&amp;ei=ivkUUO3kIors8wTUpYG4Dg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNG3BejRI7m-6DuYtW5TiTaax4Ub3Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931881</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Caleb Newquist</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:51:22-04:00</created-at>
+          <title>Kirsten Gillibrand Puts Tax Returns Online</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Kirsten Gillibrand (D-N.Y.) doesn&amp;#39;t mention Mitt Romney and his undisclosed tax returns, but she doesn&amp;#39;t have to with her latest transparency initiative: posting her state and federal tax returns online. Gillibrand has made ...</excerpt>
+          <fti-names>'d':11 'd-n':10 'doesn':14,26 'feder':39 'gillibrand':2,9,43 'huffington':47 'initi':34 'kirsten':1,8 'latest':32 'made':45 'mention':16 'mitt':17 'n':12 'news':49 'onlin':6,42 'post':35,48 'put':3 'return':5,23,41 'romney':18 'sen':7 'state':37 'tax':4,22,40 'team':50 'transpar':33 'undisclos':21 'y':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/27/kirsten-gillibrand-tax-returns_n_1710688.html&amp;sa=U&amp;ei=ivkUUO3kIors8wTUpYG4Dg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG5oBqjWb9mb4EQrBi3sdmLCbfGNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931879</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:23:31-04:00</created-at>
+          <title>Why Sen. Kirsten Gillibrand Could Have It All (By 2016)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Kirsten Gillibrand is currently enjoying a career trajectory comparable to only a select few American politicians in recent memory&#8212;the most notable of whom occupies a certain Oval Office she&amp;#39;s already being discussed as a ...</excerpt>
+          <fti-names>'2016':10 'alreadi':42 'american':25 'career':17 'certain':37 'citi':47 'compar':19 'could':5 'current':14 'discuss':44 'enjoy':15 'gillibrand':4,12 'kirsten':3,11 'memori':29 'notabl':32 'occupi':35 'offic':39 'oval':38 'politician':26 'recent':28 'select':23 'sen':2 'state':48 'trajectori':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nypress.com/why-sen-kirsten-gillibrand-could-have-it-all-by-2016/&amp;sa=U&amp;ei=tXwWUNvTGoPK9QS1noH4DQ&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNEacCSCSIF3yLSVcyqlBkNS6wLmfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16951799</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>City State</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412223</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:51:30-04:00</created-at>
+          <title>Why Sen. Kirsten Gillibrand Could Have It All (By 2016)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Kirsten Gillibrand is currently enjoying a career trajectory comparable to only a select few American politicians in recent memory&#8212;the most notable of whom occupies a certain Oval Office she&amp;#39;s already being discussed as a ...</excerpt>
+          <fti-names>'2016':10 'alreadi':42 'american':25 'career':17 'certain':37 'citi':47 'compar':19 'could':5 'current':14 'discuss':44 'enjoy':15 'gillibrand':4,12 'kirsten':3,11 'memori':29 'notabl':32 'occupi':35 'offic':39 'oval':38 'politician':26 'recent':28 'select':23 'sen':2 'state':48 'trajectori':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nypress.com/why-sen-kirsten-gillibrand-could-have-it-all-by-2016/&amp;sa=U&amp;ei=ivkUUO3kIors8wTUpYG4Dg&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNE2hF1pXSS35UIlYJVgW5KrUTuDaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16931884</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>City State</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">47698</page-views-count>
+      <unaccented-name>Kirsten Gillibrand</unaccented-name>
+      <oc-user-comments type="integer">40</oc-user-comments>
+    </person>
+  </people>
+</hash>

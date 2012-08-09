@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-06T04:47:05-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">69.1139240506329</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">300025</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">254</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">62</party-votes-percentage-rank>
+        <sponsored-bills type="integer">47</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300091</person-id>
+        <cosponsored-bills-rank type="integer">19</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">21</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">273</votes-republican-position>
+      <blog-article-count type="integer">19221</blog-article-count>
+      <fax>202-224-1946</fax>
+      <user-approval type="float">2.85897435897436</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">449</oc-users-tracking>
+      <contact-webform>http://www.snowe.senate.gov/public/index.cfm/contact?p=email</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">69.1139240506329</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Snowe</lastname>
+      <congress-office>154 Russell Senate Office Building</congress-office>
+      <middlename>J.</middlename>
+      <firstname>Olympia</firstname>
+      <website>http://www.snowe.senate.gov/</website>
+      <birthday type="date">1947-02-21</birthday>
+      <person-id type="integer">300091</person-id>
+      <phone>202-224-5344</phone>
+      <religion>Greek Orthodox</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">250</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:17-04:00</created-at>
+          <title>King ad stand called hypocritical</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...that Summers is dredging up the past, and that it's not relevant. When he announced his intention to seek Republican Sen. Olympia Snowe's seat, King vowed to run a positive campaign even though he said he expected attack ads from the right and left. The</excerpt>
+          <fti-names>'ad':2,46 'announc':21 'attack':45 'call':4 'campaign':38 'dredg':9 'even':39 'expect':44 'herald':57 'hypocrit':5 'intent':23 'king':1,32 'left':51 'main':55 'olympia':28 'past':12 'portland':54 'posit':37 'press':56 'relev':18 'republican':26 'right':49 'run':35 'said':42 'seat':31 'seek':25 'sen':27 'snow':29 'stand':3 'summer':7 'though':40 'vow':33</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=561087&amp;44=165217276&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2Fking-ad-stand-called-hypocritical_2012-08-07.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973895</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:17-04:00</created-at>
+          <title>King fires back at US Chamber of Commerce</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...prime-time coverage of the Olympics represent the first major negative advertising blitz in the campaign for Republican Sen. Olympia Snowe&#8217;s soon-to-be-empty seat. On Tuesday, King made his first direct remarks about the negative attacks, which he&#8217;d</excerpt>
+          <fti-names>'advertis':21 'attack':49 'back':3 'bangor':53 'blitz':22 'campaign':25 'chamber':6 'commerc':8 'coverag':12 'd':52 'daili':54 'direct':44 'empti':36 'fire':2 'first':18,43 'king':1,40 'made':41 'major':19 'negat':20,48 'news':55 'olymp':15 'olympia':29 'prime':10 'prime-tim':9 'remark':45 'repres':16 'republican':27 'seat':37 'sen':28 'snow':30 'soon':33 'soon-to-be-empti':32 'time':11 'tuesday':39 'us':5</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/07/politics/king-fires-back-at-us-chamber-of-commerce/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973894</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:17-04:00</created-at>
+          <title>Senate candidate King fires back at US Chamber</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...bolstering the rainy day fund. The U.S. Chamber has endorsed Republican Charlie Summers in the race to fill Republican Sen. Olympia Snowe's soon-to-be-empty seat. This story will be updated. Were you interviewed for this story? If so, please fill out ou</excerpt>
+          <fti-names>'back':5 'bolster':9 'candid':2 'chamber':8,16 'charli':20 'day':12 'empti':36 'endors':18 'fill':26,52 'fire':4 'fund':13 'interview':45 'journal':56 'kennebec':55 'king':3 'olympia':29 'ou':54 'pleas':51 'race':24 'raini':11 'republican':19,27 'seat':37 'sen':28 'senat':1 'snow':30 'soon':33 'soon-to-be-empti':32 'stori':39,48 'summer':21 'u.s':15 'updat':42 'us':7</fti-names>
+          <source-url>http://www.kjonline.com/</source-url>
+          <url>http://www.kjonline.com/r?19=961&amp;43=563887&amp;44=165303606&amp;32=10357&amp;7=622157&amp;40=http%3A%2F%2Fwww.kjonline.com%2Fnews%2Fmaine-King-US-Chamber-angus-senate-summers.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973893</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kennebec Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:15-04:00</created-at>
+          <title>The Grand Old Party's civil war: moderates vs. the tea party</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the radicals think that grown-ups somewhere will attend to the details while they play. The right wing so badgered Maine Sen. Olympia Snowe that the Republican moderate -- and shoo-in for re-election -- has decided to leave the Senate. Now the party may</excerpt>
+          <fti-names>'attend':22 'badger':33 'civil':6 'decid':51 'detail':25 'elect':49 'grand':2 'grown':18 'grown-up':17 'leav':53 'main':34 'may':59 'moder':8,41 'old':3 'olympia':36 'parti':4,12,58 'play':28 'radic':14 're':48 're-elect':47 'republican':40 'right':30 'seattl':61 'sen':35 'senat':55 'shoo':44 'shoo-in':43 'snow':37 'somewher':20 'tea':11 'think':15 'time':62 'up':19 'vs':9 'war':7 'wing':31</fti-names>
+          <source-url>http://www.seattletimes.com/</source-url>
+          <url>http://seattletimes.nwsource.com/html/opinion/2018868513_harropcolumn08xml.html?syndication=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973892</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Seattle Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:16:02-04:00</created-at>
+          <title>Obama signs bill restricting protests near military funerals</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...funerals by requiring protestors to stay farther away and doubling the &#8220;quiet time&#8221; before and after the services. Sen. Olympia Snowe, R-Maine, proposed the additional restrictions following a 2011 Supreme Court ruling declaring that the anti-gay pr</excerpt>
+          <fti-names>'2011':39 'addit':35 'anti':47 'anti-gay':46 'away':16 'bill':3 'court':41 'declar':43 'doubl':18 'farther':15 'follow':37 'funer':8,9 'gay':48 'herald':54 'main':32,52 'militari':7 'near':6 'obama':1 'olympia':28 'portland':51 'pr':49 'press':53 'propos':33 'protest':5 'protestor':12 'quiet':20 'r':31 'r-main':30 'requir':11 'restrict':4,36 'rule':42 'sen':27 'servic':26 'sign':2 'snow':29 'stay':14 'suprem':40 'time':21</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=561087&amp;44=165185926&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2FObama-signs-bill-restricting-protests-near-military-funerals.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973253</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:29:19-04:00</created-at>
+          <title>Bill increases restrictions on protests at soldiers&#8217; funerals</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...and civil penalties on violators. The bill, which passed unanimously in the Senate, includes legislation authored by Sen. Olympia Snowe (R-Maine). &#8220;Protests that encroach upon the funerals and burials of our fallen soldiers are repugnant and inappropr</excerpt>
+          <fti-names>'author':24 'bill':1,15 'burial':39 'civil':10 'encroach':34 'fallen':42 'funer':8,37 'inappropr':47 'includ':22 'increas':2 'kansas.com':48 'legisl':23 'main':31 'olympia':27 'pass':17 'penalti':11 'protest':5,32 'r':30 'r-main':29 'repugn':45 'restrict':3 'sen':26 'senat':21 'snow':28 'soldier':7,43 'unanim':18 'upon':35 'violat':13</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://www.kansas.com/2012/08/04/2435328/bill-increases-restrictions-on.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972394</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:29:19-04:00</created-at>
+          <title>The Buzz | Romney horse dresses up Olympic dressage</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...before or after a service. The bill also requires protesters to be at least 300 feet away from grieving family members. Sen. Olympia Snowe of Maine added that at the urging of a teenage constituent who proposed new limitations on military funeral demons</excerpt>
+          <fti-names>'300':23 'ad':35 'also':16 'away':25 'bill':15 'buzz':2 'constitu':43 'demon':51 'dress':5 'dressag':8 'famili':28 'feet':24 'funer':50 'griev':27 'hors':4 'kansascity.com':52 'least':22 'limit':47 'main':34 'member':29 'militari':49 'new':46 'olymp':7 'olympia':31 'propos':45 'protest':18 'requir':17 'romney':3 'sen':30 'servic':13 'snow':32 'teenag':42 'urg':39</fti-names>
+          <source-url>http://www.kansascity.com/</source-url>
+          <url>http://www.kansascity.com/2012/08/04/3743392/the-buzz-romney-horse-dresses.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972393</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KansasCity.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:29:16-04:00</created-at>
+          <title>Tea party effect could reshape Senate GOP</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Rep. Steven LaTourette, R-Ohio, who announced his decision through a flame of recriminations about partisanship, and Sen. Olympia Snowe, R-Maine, who left her party in a tough spot. Some are already sensing a shift in the attitude of the Senate leadersh</excerpt>
+          <fti-names>'alreadi':42 'announc':15 'attitud':48 'charlott':53 'could':4 'decis':17 'effect':3 'flame':20 'gop':7 'latourett':10 'leadersh':52 'left':33 'main':31 'observ':54 'ohio':13 'olympia':27 'parti':2,35 'partisanship':24 'r':12,30 'r-main':29 'r-ohio':11 'recrimin':22 'rep':8 'reshap':5 'sen':26 'senat':6,51 'sens':43 'shift':45 'snow':28 'spot':39 'steven':9 'tea':1 'tough':38</fti-names>
+          <source-url>http://www.charlotte.com/mld/charlotte/</source-url>
+          <url>http://www.charlotteobserver.com/2012/08/02/3430881/tea-party-effect-could-reshape.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972392</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Charlotte Observer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:08-04:00</created-at>
+          <title>Congress Reins In Military Funeral Protestors</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the services. In addition, no demonstrations will be allowed two hours before or two hours after a military funeral. U.S. Senator Olympia Snowe (R-Maine), introduced the amendment in reaction to the Supreme Court's recent 8-1 ruling that demonstrations </excerpt>
+          <fti-names>'-1':45 '8':44 'about.com':49 'addit':10 'allow':15 'amend':35 'congress':1 'court':41 'demonstr':12,48 'funer':5,25 'govern':50 'hour':17,21 'introduc':33 'main':32 'militari':4,24 'olympia':28 'protestor':6 'r':31 'r-main':30 'reaction':37 'recent':43 'rein':2 'rule':46 'senat':27 'servic':8 'snow':29 'suprem':40 'two':16,20 'u.s':26</fti-names>
+          <source-url>http://usgovinfo.about.com/</source-url>
+          <url>http://usgovinfo.about.com/b/2012/08/03/congress-reigns-in-military-funeral-protestors.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972087</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>About.com: Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:08-04:00</created-at>
+          <title>Maine Department of Marine Resources fills deputy commissioner post</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...job in early June by DMR Commissioner Patrick Keliher. Mendelson most recently worked as a staff member for U.S. Sen. Olympia Snowe, assisting Snowe in her duties on the Commerce Committee where the senator was the ranking member of the Subcommittee on </excerpt>
+          <fti-names>'assist':32 'bangor':52 'commerc':39 'commission':8,16 'committe':40 'daili':53 'depart':2 'deputi':7 'dmr':15 'duti':36 'earli':12 'fill':6 'job':10 'june':13 'kelih':18 'main':1 'marin':4 'member':26,47 'mendelson':19 'news':54 'olympia':30 'patrick':17 'post':9 'rank':46 'recent':21 'resourc':5 'sen':29 'senat':43 'snow':31,33 'staff':25 'subcommitte':50 'u.s':28 'work':22</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/03/news/state/maine-department-of-marine-resources-fills-deputy-commissioner-post/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972086</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>S000663</bioguide-id>
+      <metavid-id>Olympia_Snowe</metavid-id>
+      <name>Sen. Olympia Snowe [R, ME]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:57-04:00</created-at>
+          <title>Maine Senate race &#8211; help! - Le&#183;gal In&#183;sur&#183;rec&#183;tion</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>With Olympia Snowe retiring, this race seems particularly unpredictable with a strong third party showing from the former Governor, via The Hill: Democrats looking to replace retiring Sen. Olympia Snowe (R) in Maine have a ...</excerpt>
+          <fti-names>'democrat':33 'former':28 'gal':6 'governor':29 'help':4 'hill':32 'jacobson':48 'le':5 'look':34 'main':1,43 'olympia':12,39 'parti':24 'particular':18 'r':41 'race':3,16 'rec':9 'replac':36 'retir':14,37 'seem':17 'sen':38 'senat':2 'show':25 'snow':13,40 'strong':22 'sur':8 'third':23 'tion':10 'unpredict':19 'via':30 'william':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://legalinsurrection.com/2012/04/maine-senate-race-help/&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CF8QmAEwDA&amp;usg=AFQjCNHpXDMwxBPGy82YS93BnbUGIIg8gA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-29T01:00:00-04:00</date>
+          <id type="integer">14944249</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>William A. Jacobson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:53-04:00</created-at>
+          <title>Updates from Senator Olympia J. Snowe | the Net economy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>This entry was posted in CONGRESS WATCH, Regulations and tagged Government, Maine, Olympia Snowe, United States, United States Senate. Bookmark the permalink. &#8592; updates from Congressman Steve Stivers ...</excerpt>
+          <fti-names>'bookmark':29 'congress':15 'congressman':34 'economi':9,39 'entri':11 'govern':20 'j':5 'main':21 'net':8,38 'olympia':4,22 'permalink':31 'post':13 'regul':17 'senat':3,28 'snow':6,23 'state':25,27 'steve':35 'stiver':36 'tag':19 'unit':24,26 'updat':1,32 'watch':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theneteconomy.wordpress.com/2012/04/29/updates-from-senator-olympia-j-snowe-11/&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNF9UhH3SogTtiiZ7I2KeKDOVTMKRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-29T01:00:00-04:00</date>
+          <id type="integer">14944241</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>the Net economy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:44-04:00</created-at>
+          <title>Maine Tourism Association to present Olympia Snowe with award ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>AUGUSTA, Maine &#8212; The Maine Tourism Association is paying tribute to Sen. Olympia Snowe. The association says it will present Snowe with its 2012 Chair&amp;#39;s Award at its annual meeting and awards luncheon on May 18 in ...</excerpt>
+          <fti-names>'18':45 '2012':32 'annual':38 'associ':3,15,24,48 'augusta':10 'award':9,35,41 'chair':33 'luncheon':42 'main':1,11,13 'may':44 'meet':39 'olympia':6,21 'pay':17 'present':5,28 'press':49 'say':25 'sen':20 'snow':7,22,29 'tourism':2,14 'tribut':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bangordailynews.com/2012/04/29/politics/maine-tourism-association-to-present-olympia-snowe-with-award/&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNGmwdGGdbBVYaJiL4Xpuqc4Vdjxfg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-29T01:00:00-04:00</date>
+          <id type="integer">14944239</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:54-04:00</created-at>
+          <title>Olympia Snowe Calls On Reid to Cancel Recess : Roll Call News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Sen. Olympia Snowe (R-Maine) wants the Senate to start committee work on bills addressing major issues of the day &#8212; and she s asking Majority Leader Harry Reid (Nev.) to cancel next week s recess to do it.</excerpt>
+          <fti-names>'address':27 'ask':36 'bill':26 'call':3,10 'cancel':7,43 'committe':23 'day':32 'harri':39 'issu':29 'leader':38 'main':17 'major':28,37 'meredith':52 'meredithshiner@cqrollcall.com':51 'nev':41 'news':11 'next':44 'olympia':1,13 'r':16 'r-main':15 'recess':8,47 'reid':5,40 'roll':9 'sen':12 'senat':20 'shiner':53 'snow':2,14 'start':22 'want':18 'week':45 'work':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/snowe_calls_on_reid_to_cancel_recess-214133-1.html&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNGJ81wnMT_uvyE3Tl5mCotTTRVQkw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14944244</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MeredithShiner@cqrollcall.com (Meredith Shiner)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:56-04:00</created-at>
+          <title>Olympia Snowe War Chest May Not Go To Next Republican Nominee</title>
+          <contains-term>republican</contains-term>
+          <excerpt>According to a report in the Kennebec Journal, outgoing Sen. Olympia Snowe (R-Maine) may be using her campaign cash to aid candidates of her choice rather than her party. In a letter written last week but released Tuesday ...</excerpt>
+          <fti-names>'accord':12 'aid':34 'campaign':31 'candid':35 'cash':32 'chest':4 'choic':38 'editor':56 'go':7 'huffington':53 'journal':19 'kennebec':18 'last':47 'letter':45 'main':26 'may':5,27 'news':55 'next':9 'nomine':11 'olympia':1,22 'outgo':20 'parti':42 'post':54 'r':25 'r-main':24 'rather':39 'releas':50 'report':15 'republican':10 'sen':21 'snow':2,23 'tuesday':51 'use':29 'war':3 'week':48 'written':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/04/24/olympia-snowe-war-chest-republican-nominee_n_1449753.html&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CFUQmAEwCg&amp;usg=AFQjCNERQ9D25M7Zipf-1ODbn1Rb8mZZVg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">14944247</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-05-01T00:55:55-04:00</created-at>
+          <title>Frustrated Maine Senator Olympia Snowe Says She&amp;#39;ll Decide Where ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Outgoing Maine senator Olympia Snowe made it clear that she won&amp;#39;t necessarily support a Republican candidate to assume her seat come November, according to the Kennebec Journal. Last week, Snowe.</excerpt>
+          <fti-names>'accord':34 'assum':29 'candid':27 'choe':43 'clear':18 'come':32 'decid':9 'frustrat':1 'jaywon':42 'journal':38 'kennebec':37 'last':39 'll':8 'made':16 'main':2,12 'necessarili':23 'novemb':33 'olympia':4,14 'outgo':11 'republican':26 'say':6 'seat':31 'senat':3,13 'snow':5,15,41 'support':24 'week':40 'won':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://articles.businessinsider.com/2012-04-24/politics/31391357_1_tea-party-backed-candidate-olympia-snowe-gop-candidates&amp;sa=U&amp;ei=z2yfT-DgGa-C2gXX0JTXAg&amp;ved=0CFAQmAEwCQ&amp;usg=AFQjCNG-t7J4WM-FBzA4gZ5K6B9NRzTTEA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-24T01:00:00-04:00</date>
+          <id type="integer">14944246</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jaywon Choe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:23-04:00</created-at>
+          <title>USAction &#8211; Senate GOP blocks debate on Buffett Rule</title>
+          <contains-term>senate</contains-term>
+          <excerpt>7 key U.S. Senate races, including 2 of the top progressive Senate candidates &#8211; Sherrod Brown in Ohio and Tammy Baldwin in Wisconsin. And with Sen. Olympia Snowe stepping down, we have an opportunity to pick up an ...</excerpt>
+          <fti-names>'2':15 '7':9 'baldwin':28 'block':4 'brown':23 'buffett':7 'candid':21 'debat':5 'gop':3 'includ':14 'key':10 'ohio':25 'olympia':34 'opportun':41 'pick':43 'progress':19 'race':13 'ross':46 'rule':8 'sen':33 'senat':2,12,20 'sherrod':22 'snow':35 'step':36 'tammi':27 'top':18 'u.s':11 'usact':1 'wallen':47 'wisconsin':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usaction.org/2012/04/senate-gop-blocks-debate-on-buffett-rule/&amp;sa=U&amp;ei=8q-NT6nlAcHq2AXwqNj7Cw&amp;ved=0CEsQmAEwCA&amp;usg=AFQjCNFlArMWfPiGGxY-h1j5hCgMaIL1Qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14547073</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ross Wallen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:23-04:00</created-at>
+          <title>Maine voters seek female senator. Enter Angus King | M ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The popular former governor is the undisputed front-runner in the campaign to replace retiring Republican Sen. Olympia Snowe, the state&amp;#39;s most powerful female voice in a generation. But beneath the 68-year-old ...</excerpt>
+          <fti-names>'68':43 'angus':7 'associ':48 'beneath':41 'campaign':22 'enter':6 'femal':4,35 'former':12 'front':18 'front-runn':17 'generat':39 'governor':13 'king':8 'm':9 'main':1 'old':46 'olympia':28 'popular':11 'power':34 'press':49 'replac':24 'republican':26 'retir':25 'runner':19 'seek':3 'sen':27 'senat':5 'snow':29 'state':31 'undisput':16 'voic':36 'voter':2 'year':45 'year-old':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://m.washingtonexaminer.com/maine-voters-seek-female-senator-enter-angus-king/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dmaine-voters-seek-female-senator-enter-angus-king&amp;sa=U&amp;ei=8q-NT6nlAcHq2AXwqNj7Cw&amp;ved=0CE8QmAEwCQ&amp;usg=AFQjCNEV29ofosklsLVwHULtuHKzVXW05g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14547074</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:07:46-04:00</created-at>
+          <title>Maine voters seek female senator. Enter Angus King | M ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The popular former governor is the undisputed front-runner in the campaign to replace retiring Republican Sen. Olympia Snowe, the state&amp;#39;s most powerful female voice in a generation. But beneath the 68-year-old ...</excerpt>
+          <fti-names>'68':43 'angus':7 'associ':48 'beneath':41 'campaign':22 'enter':6 'femal':4,35 'former':12 'front':18 'front-runn':17 'generat':39 'governor':13 'king':8 'm':9 'main':1 'old':46 'olympia':28 'popular':11 'power':34 'press':49 'replac':24 'republican':26 'retir':25 'runner':19 'seek':3 'sen':27 'senat':5 'snow':29 'state':31 'undisput':16 'voic':36 'voter':2 'year':45 'year-old':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://m.washingtonexaminer.com/maine-voters-seek-female-senator-enter-angus-king/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dmaine-voters-seek-female-senator-enter-angus-king&amp;sa=U&amp;ei=keyMT8CfC4u-2AWhu8WjDA&amp;ved=0CEEQmAEwBg&amp;usg=AFQjCNGp87xgmbBgYjBbwscy9ykPEsORoA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527822</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300091</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:48:37-04:00</created-at>
+          <title>Maine voters seek female senator. Enter Angus King | M ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The popular former governor is the undisputed front-runner in the campaign to replace retiring Republican Sen. Olympia Snowe, the state&amp;#39;s most powerful female voice in a generation. But beneath the 68-year-old ...</excerpt>
+          <fti-names>'68':43 'angus':7 'associ':48 'beneath':41 'campaign':22 'enter':6 'femal':4,35 'former':12 'front':18 'front-runn':17 'generat':39 'governor':13 'king':8 'm':9 'main':1 'old':46 'olympia':28 'popular':11 'power':34 'press':49 'replac':24 'republican':26 'retir':25 'runner':19 'seek':3 'sen':27 'senat':5 'snow':29 'state':31 'undisput':16 'voic':36 'voter':2 'year':45 'year-old':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://m.washingtonexaminer.com/maine-voters-seek-female-senator-enter-angus-king/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dmaine-voters-seek-female-senator-enter-angus-king&amp;sa=U&amp;ei=cluMT5P7NOTB2QWJzIzpCQ&amp;ved=0CEEQmAEwBg&amp;usg=AFQjCNEd88T-_9-KM_6Y3fnOaD7opWU1GQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508382</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">53536</page-views-count>
+      <youtube-id>senatorolympiasnowe</youtube-id>
+      <unaccented-name>Olympia Snowe</unaccented-name>
+      <oc-user-comments type="integer">45</oc-user-comments>
+    </person>
+  </people>
+</hash>

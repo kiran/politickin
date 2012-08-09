@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-26T17:05:54-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">96.7020023557126</party-votes-percentage>
+        <abstains-percentage type="float">1.2216404886562</abstains-percentage>
+        <votes-most-often-with-id type="integer">400103</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">197</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">45</cosponsored-bills-passed-rank>
+        <abstains type="integer">21</abstains>
+        <cosponsored-bills type="integer">297</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">18</party-votes-percentage-rank>
+        <sponsored-bills type="integer">21</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400062</person-id>
+        <cosponsored-bills-rank type="integer">43</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">55</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">375</votes-republican-position>
+      <blog-article-count type="integer">7897</blog-article-count>
+      <fax>202-225-5632</fax>
+      <user-approval type="float">3.43478260869565</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">139</oc-users-tracking>
+      <bioguide-id>C001036</bioguide-id>
+      <contact-webform>http://www.house.gov/capps/contact/send_an_email.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">96.7020023557126</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Capps</lastname>
+      <congress-office>2231 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Lois</firstname>
+      <website>http://capps.house.gov/</website>
+      <birthday type="date">1938-01-10</birthday>
+      <person-id type="integer">400062</person-id>
+      <phone>202-225-3601</phone>
+      <religion>Lutheran</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1642</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:34:30-04:00</created-at>
+          <title>Lois Capps says she paid taxes after website reveals late reporting of rental income</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...&#8212; For weeks, U.S. Rep. Lois Capps' re-election campaign has been slamming Republican rival Abel Maldonado over his tax problems in an effort to paint him as dishonest and unfit for office. But Capps' own taxes have now been called into question amid r</excerpt>
+          <fti-names>'abel':30 'amid':58 'call':55 'campaign':24 'capp':2,20,49 'counti':61 'dishonest':43 'effort':38 'elect':23 'incom':14 'late':10 'loi':1,19 'maldonado':31 'offic':47 'paid':5 'paint':40 'problem':35 'question':57 'r':59 're':22 're-elect':21 'rental':13 'rep':18 'report':11 'republican':28 'reveal':9 'rival':29 'say':3 'slam':27 'star':62 'tax':6,34,51 'u.s':17 'unfit':45 'ventura':60 'websit':8 'week':16</fti-names>
+          <source-url>http://www.venturacountystar.com/</source-url>
+          <url>http://www.vcstar.com/news/2012/aug/03/lois-capps-says-she-paid-taxes-after-website-of/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972142</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Ventura County Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:07-04:00</created-at>
+          <title>More 2012: I'm sorry, so sorry</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...party committee to try and make a potential defamation lawsuit go away.&#8221; CALIFORNIA: &#8220;Tax questions turned around and nipped Rep. Lois Capps, D-Santa Barbara, on Thursday, with revelations that she had not fully reported rental income for about five</excerpt>
+          <fti-names>'2012':2 'around':24 'away':19 'barbara':33 'blog':50 'california':20 'capp':29 'committe':9 'd':31 'd-santa':30 'defam':16 'five':48 'fulli':42 'go':18 'incom':45 'lawsuit':17 'loi':28 'm':4 'make':13 'msnbc':49 'nip':26 'parti':8 'potenti':15 'question':22 'rental':44 'rep':27 'report':43 'revel':37 'santa':32 'sorri':5,7 'tax':21 'thursday':35 'tri':11 'turn':23</fti-names>
+          <source-url>http://www.msnbc.msn.com/id/3032105/</source-url>
+          <url>http://firstread.nbcnews.com/_news/2012/08/03/13103226-more-2012-im-sorry-so-sorry</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971529</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:07-04:00</created-at>
+          <title>Report: Rep. Lois Capps failed to report rental income</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...story saying the Republicans family is in a &quot;dispute&quot; with the IRS. This liberal tactic is called &quot;equivalency&quot; you cover up Capps fraud by trying to make another issue &quot;equivalent&quot; even when it is not the same thing at all.That is why so many democrats</excerpt>
+          <fti-names>'all.that':49 'anoth':37 'blog':57 'call':26 'capp':4,31 'cover':29 'democrat':54 'disput':18 'equival':27,39 'even':40 'fail':5 'famili':14 'fraud':32 'incom':9 'ir':21 'issu':38 'liber':23 'loi':3 'make':36 'mani':53 'news':56 'rental':8 'rep':2 'report':1,7 'republican':13 'say':11 'stori':10 'tactic':24 'thing':47 'tri':34 'yahoo':55</fti-names>
+          <source-url>http://news.yahoo.com/blogs</source-url>
+          <url>http://news.yahoo.com/blogs/ticket/report-rep-lois-capps-failed-report-rental-income-145300128.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971528</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo! News Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:05-04:00</created-at>
+          <title>Report: Rep. Lois Capps failed to report rental income</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Lois Capps from 2001 to 2005 rented a room in her home to a staffer but failed to report the income to the IRS until this year, the Daily Caller reports. Jeremy Tittle, a &quot;case worker&quot; in the California Democrat's district office, rented a room in Capps</excerpt>
+          <fti-names>'2001':13 '2005':15 'abc':58 'california':48 'caller':39 'capp':4,11,57 'case':44 'daili':38 'democrat':49 'district':51 'fail':5,26 'home':21 'incom':9,30 'ir':33 'jeremi':41 'loi':3,10 'news':59 'offic':52 'rent':16,53 'rental':8 'rep':2 'report':1,7,28,40 'room':18,55 'staffer':24 'tittl':42 'worker':45 'year':36</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/report-rep-lois-capps-failed-report-rental-income/story?id=16921472</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971527</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:52:54-04:00</created-at>
+          <title>'Women for Berman' Group Back Congressman for Re-Election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...by both Senators Dianne Feinstein and Barbara Boxer, and has the strong support of California's Representatives Karen Bass, Lois Capps, Barbara Lee, Jackie Speier, Maxine Waters and others who have joined the group of 24 members of the U.S. House of Rep</excerpt>
+          <fti-names>'24':46 'back':5 'barbara':17,32 'bass':29 'berman':3 'boxer':18 'california':25 'capp':31 'congressman':6 'diann':14 'elect':10 'encino':54 'feinstein':15 'group':4,44 'hous':51 'jacki':34 'join':42 'karen':28 'lee':33 'loi':30 'maxin':36 'member':47 'other':39 'patch':55 're':9 're-elect':8 'rep':53 'repres':27 'senat':13 'speier':35 'strong':22 'support':23 'u.s':50 'water':37 'women':1</fti-names>
+          <source-url>http://encino.patch.com/</source-url>
+          <url>http://encino.patch.com/articles/women-for-berman-group-back-the-congressman-for-re-election</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970472</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Encino Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:52:49-04:00</created-at>
+          <title>Rep. Capps rented room to staffer for years, didn&#8217;t report income to IRS for over a decade</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Democratic Rep. Lois Capps speaks at a briefing in Washington in March 2012 (Facebook) In a possible congressional ethics violation, California Democratic Rep. Lois Capps rented a room in her personal home to one of her congressional staffers for years </excerpt>
+          <fti-names>'2012':31 'brief':26 'california':39 'capp':2,22,43 'congression':36,55 'decad':18 'democrat':19,40 'didn':9 'ethic':37 'facebook':32 'file':60 'home':50 'incom':12 'ir':14 'kaus':59 'loi':21,42 'march':30 'one':52 'person':49 'possibl':35 'rent':3,44 'rep':1,20,41 'report':11 'room':4,46 'speak':23 'staffer':6,56 'violat':38 'washington':28 'year':8,58</fti-names>
+          <source-url>http://dailycaller.com/kausfiles/</source-url>
+          <url>http://dailycaller.com/2012/08/02/rep-capps-rented-room-to-staffer-for-years-didnt-report-income-to-irs-for-over-a-decade/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970471</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kaus Files</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:38:57-04:00</created-at>
+          <title>Congress pushes to finish Iran sanctions bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...an incorrect button on an ATM, a phone or any other touch pad, perhaps you can feel at least a twinge of sympathy for Rep. Lois Capps. As Tribune writer Bob Cuddy reported Wednesday, Capps pushed a wrong button and, as a result, she cast a &#8220;no&#8221; vote</excerpt>
+          <fti-names>'atm':13 'bill':7 'bob':38 'button':10,46 'capp':34,42 'cast':52 'congress':1 'cuddi':39 'feel':24 'finish':4 'incorrect':9 'iran':5 'least':26 'loi':33 'lui':57 'obispo':58 'pad':20 'perhap':21 'phone':15 'push':2,43 'rep':32 'report':40 'result':50 'san':56 'sanction':6 'sympathi':30 'touch':19 'tribun':36,59 'twing':28 'vote':55 'wednesday':41 'writer':37 'wrong':45</fti-names>
+          <source-url>http://www.sanluisobispo.com/mld/sanluisobispo/</source-url>
+          <url>http://www.sanluisobispo.com/2012/07/30/2164038/congress-pushes-to-finish-iran.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959649</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Luis Obispo Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:29:27-04:00</created-at>
+          <title>EDITORIAL: House should act on farm bill before beginning summer recess</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Republican Dan Lungren signed the letter, as did Democrats John Garamendi, Dennis Cardoza, Jim Costa, Jerry McNerney and Lois Capps. Our farmers need a predictable safety net, and all of us have an interest in adequate nutrition and feeding programs, as</excerpt>
+          <fti-names>'act':4 'adequ':47 'bee':54 'begin':9 'bill':7 'capp':31 'cardoza':24 'costa':26 'dan':13 'democrat':20 'denni':23 'editori':1 'farm':6 'farmer':33 'feed':50 'fresno':53 'garamendi':22 'hous':2 'interest':45 'jerri':27 'jim':25 'john':21 'letter':17 'loi':30 'lungren':14 'mcnerney':28 'need':34 'net':38 'nutrit':48 'predict':36 'program':51 'recess':11 'republican':12 'safeti':37 'sign':15 'summer':10 'us':42</fti-names>
+          <source-url>http://www.fresnobee.com/</source-url>
+          <url>http://www.fresnobee.com/2012/07/27/2925623/editorial-house-should-act-on.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945573</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fresno Bee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:46:04-04:00</created-at>
+          <title>Capps votes against new oil leases on the Central Coast</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Central Coast Congresswoman Lois Capps (D-Santa Barbara) voted against the &#8220;so-called&#8221; Congressional Replacement of the President Obama&#8217;s Energy-Restricting and Job-Limiting Offshore Drilling Plan Act (HR 6082). The legislation passed the ...</excerpt>
+          <fti-names>'6082':45 'act':43 'barbara':19 'call':25 'capp':1,15 'central':9,11 'coast':10,12 'congression':26 'congresswoman':13 'd':17 'd-santa':16 'drill':41 'energi':34 'energy-restrict':33 'examin':50 'hr':44 'job':38 'job-limit':37 'leas':6 'legisl':47 'limit':39 'loi':14 'new':4 'obama':31 'offshor':40 'oil':5 'pass':48 'plan':42 'presid':30 'replac':27 'restrict':35 'santa':18 'so-cal':23 'vote':2,20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/capps-votes-against-new-oil-leases-on-the-central-coast</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T15:20:08-04:00</date>
+          <id type="integer">16929056</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:39:41-04:00</created-at>
+          <title>Disappointed in Rep. Capps</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I wish my congressional representative, Lois Capps, would instruct her staff to answer letters from her constituents. I realize all letters cannot be answered with a personalized reply, but she could at least send out form letters that answer commonly aske</excerpt>
+          <fti-names>'answer':17,28,43 'ask':45 'cannot':26 'capp':4,11 'common':44 'congression':8 'constitu':21 'could':35 'disappoint':1 'form':40 'instruct':13 'least':37 'letter':18,25,41 'loi':10 'maria':47 'person':31 'realiz':23 'rep':3 'repli':32 'repres':9 'santa':46 'send':38 'staff':15 'time':48 'wish':6 'would':12</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://santamariatimes.com/article_6b047dae-d795-11e1-b035-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T12:08:02-04:00</date>
+          <id type="integer">16920264</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Santa Maria Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Lois_Capps</metavid-id>
+      <name>Rep. Lois Capps [D, CA-23]</name>
+      <total-session-votes type="integer">1698</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>23</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:33-04:00</created-at>
+          <title>Capitol Update &#187; Blog Archive &#187; The RN Safe Staffing Act and What ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In the current 112th Congress, ANA-supported Safe Staffing legislation has been introduced in the House and Senate. The Senate and House sponsors, Sen. Daniel Inouye (D-HI) and Rep. Lois Capps (D-CA) respectively, ...</excerpt>
+          <fti-names>'112th':15 'act':9 'ana':18 'ana-support':17 'archiv':4 'blog':3 'ca':48 'capitol':1 'capp':45 'congress':16 'current':14 'd':40,47 'd-ca':46 'd-hi':39 'daniel':37 'doretta.hood@ana.org':50 'hi':41 'hous':28,34 'inouy':38 'introduc':25 'legisl':22 'loi':44 'rep':43 'respect':49 'rn':6 'safe':7,20 'sen':36 'senat':30,32 'sponsor':35 'staf':8,21 'support':19 'updat':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitolupdate.org/index.php/2012/07/the-rn-safe-staffing-act-and-what-it-means-for-you/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGHc6Mu62AV6ZMwKmlSG7mgMvptGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16486477</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Doretta.Hood@ana.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:30-04:00</created-at>
+          <title>American Action Network Targets Lois Capps in Web Ad The Santa ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The American Action Network (AAN) &#8212; a right of center advocacy group &#8212; has put Rep. Lois Capps in the crosshairs with a new web ad campaign this week, and, according to Politico, is planning to spend at least $10 million ...</excerpt>
+          <fti-names>'/news/':53 '10':49 'aan':16 'accord':40 'action':2,14 'ad':9,35 'advocaci':21 'american':1,13 'campaign':36 'capp':6,27 'center':20 'crosshair':30 'group':22 'least':48 'loi':5,26 'million':50 'network':3,15 'new':33 'plan':44 'politico':42 'put':24 'rep':25 'right':18 'santa':11 'spend':46 'target':4 'web':8,34 'week':38 'www.independent.com':52 'www.independent.com/news':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.independent.com/news/2012/jul/09/american-action-network-targets-lois-capps-web-ad/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFWGqdFDFFnkwL9bvaMzDGeyRozxQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16486476</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.independent.com/news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:37-04:00</created-at>
+          <title>Meet the 112th | Agreement, funds spark fire service improvements</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Lois Capps, D-Santa Barbara, announced the grant, which comes from the Department of Homeland Security. Capps said the grant will ensure that firefighters, who &#8220;put their lives on the line to keep our communities safe ...</excerpt>
+          <fti-names>'112th':3 'agreement':4 'announc':17 'barbara':16 'calif':53 'capp':12,28 'come':21 'communiti':46 'd':14 'd-santa':13 'depart':24 'ensur':33 'fire':7 'firefight':35 'fund':5 'grant':19,31 'homeland':26 'improv':9 'keep':44 'line':42 'live':39 'loi':11 'lui':51 'meet':1 'obispo':52 'put':37 'rep':10 'safe':47 'said':29 'san':50 'santa':15 'secur':27 'servic':8 'spark':6 'tribun':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/agreement-funds-spark-fire-service-improvements/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNEdaSfD0OvWBL8Kl9sAEe6llNGuGw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16486486</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Tribune (San Luis Obispo, Calif.)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:34-04:00</created-at>
+          <title>Capps, Officials Sound Off on Strategies to Curb Influx of Drug ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That increase prompted Brown to reach out for federal help from Rep. Lois Capps, D-Santa Barbara. Capps organized Thursday&amp;#39;s briefing with officials, and said she&amp;#39;ll be going back to Washington, D.C., to request the funding ...</excerpt>
+          <fti-names>'/noozhawk/article':53 'back':43 'barbara':29 'brief':34 'brown':15 'capp':1,25,30 'curb':8 'd':27 'd-santa':26 'd.c':46 'drug':11 'feder':20 'fund':50 'go':42 'help':21 'increas':13 'influx':9 'll':40 'loi':24 'offici':2,36 'organ':31 'prompt':14 'reach':17 'rep':23 'request':48 'said':38 'santa':28 'sound':3 'strategi':6 'thursday':32 'washington':45 'www.noozhawk.com':52 'www.noozhawk.com/noozhawk/article':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.noozhawk.com/article/070512_capps_officials_sound_off_strategies_curb_influx_drug_smuggling/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFzViTx-eahjcm3AM6X9Gq7CksPNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16486480</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.noozhawk.com/noozhawk/article</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-06T22:39:04-04:00</created-at>
+          <title>Experts Say US Congress Paralyzed by Partisan Posturing - Manjunet</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&amp;quot;But instead the majority is engaging in another partisan attack on public health funding, funding that improves the lives of Americans and the productivity of our work force. I strongly oppose this position,&amp;quot; said Rep. Lois Capps ...</excerpt>
+          <fti-names>'american':30 'anoth':17 'attack':19 'capp':46 'congress':4 'engag':15 'expert':1 'forc':37 'fund':23,24 'health':22 'improv':26 'instead':11 'live':28 'loi':45 'major':13 'manjunet':9 'news':48 'ntn':47 'oppos':40 'paralyz':5 'partisan':7,18 'posit':42 'postur':8 'product':33 'public':21 'rep':44 'said':43 'say':2 'strong':39 'us':3 'work':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ntnnews.manjunet.com/2012/07/06/experts-say-us-congress-paralyzed-by-partisan-posturing/&amp;sa=U&amp;ei=RqH3T9GmJcnE2gXlk5S-Bg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEHilGSzZ5O948gv3Kuhk1qk88Ewg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16423674</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NTN News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-06T22:39:05-04:00</created-at>
+          <title>Bill to aid startups has roots in SLO, article by the Tribune | Cal Poly ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>David Ryal, program director of the centers in San Luis Obispo, Kern and Monterey counties, said he brought the idea of the Entrepreneurial Training Improvement Act of 2012, to the attention of Rep. Lois Capps, D-Santa ...</excerpt>
+          <fti-names>'2012':42 'act':40 'aid':3 'articl':9 'attent':45 'bill':1 'brought':32 'cal':13 'capp':49 'center':21 'counti':29 'd':51 'd-santa':50 'david':15 'director':18 'entrepreneuri':37 'idea':34 'improv':39 'kern':26 'loi':48 'lui':24 'monterey':28 'obispo':25 'poli':14 'program':17 'rep':47 'root':6 'ryal':16 'said':30 'san':23 'santa':52 'slo':8 'startup':4 'tachas':53 'train':38 'tribun':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cie.calpoly.edu/uncategorized/bill-to-aid-startups-has-roots-in-slo-article-by-the-tribune/&amp;sa=U&amp;ei=RqH3T9GmJcnE2gXlk5S-Bg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGNrqqApBa7l3RrzQ9s9zc9Sy1zzw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16423675</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>tachase</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-06T22:39:03-04:00</created-at>
+          <title>Capps, Officials Sound Off on Strategies to Curb Influx of Drug ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That increase prompted Brown to reach out for federal help to Rep. Lois Capps&amp;#39; office. Capps organized Thursday&amp;#39;s briefing with officials, and said she&amp;#39;ll be going back to Washington, D.C., to request the funding needed to ...</excerpt>
+          <fti-names>'/noozhawk/article':52 'back':40 'brief':31 'brown':15 'capp':1,25,27 'curb':8 'd.c':43 'drug':11 'feder':20 'fund':47 'go':39 'help':21 'increas':13 'influx':9 'll':37 'loi':24 'need':48 'offic':26 'offici':2,33 'organ':28 'prompt':14 'reach':17 'rep':23 'request':45 'said':35 'sound':3 'strategi':6 'thursday':29 'washington':42 'www.noozhawk.com':51 'www.noozhawk.com/noozhawk/article':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.noozhawk.com/article/070512_capps_officials_sound_off_strategies_curb_influx_drug_smuggling/&amp;sa=U&amp;ei=RqH3T9GmJcnE2gXlk5S-Bg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFTz3FIod9TiZHCdVu0d5YLPpTbkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16423672</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.noozhawk.com/noozhawk/article</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:36-04:00</created-at>
+          <title>Capps and Maldonado Trade Jabs in Ads and Emails The Santa ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>That plan for Democrats includes holding onto a seat here, where, for the first time since Rep. Lois Capps originally ran for Congress 14 years ago, she faces her first real battle to hold onto her seat. And with the Supreme ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':55 '14':35 'ad':7 'ago':37 'battl':43 'capp':1,30 'congress':34 'democrat':15 'email':9 'face':39 'first':25,41 'hold':17,45 'includ':16 'independent.com':54 'independent.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':53 'jab':5 'loi':29 'maldonado':3 'onto':18,46 'origin':31 'plan':13 'ran':32 'real':42 'rep':28 'santa':11 'seat':20,48 'sinc':27 'suprem':52 'time':26 'trade':4 'year':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.independent.com/news/2012/jul/03/capps-and-maldonado-trade-jabs-ads-and-emails/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNFARNv3UmosGG9_9NiXhAqk0Q0xRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16486485</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://independent.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-06T22:39:05-04:00</created-at>
+          <title>Capps and Maldonado Trade Jabs in Ads and Emails The Santa ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>That plan for Democrats includes holding onto a seat here, where, for the first time since Rep. Lois Capps originally ran for Congress 14 years ago, she faces her first real battle to hold onto her seat. And with the Supreme ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':55 '14':35 'ad':7 'ago':37 'battl':43 'capp':1,30 'congress':34 'democrat':15 'email':9 'face':39 'first':25,41 'hold':17,45 'includ':16 'independent.com':54 'independent.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':53 'jab':5 'loi':29 'maldonado':3 'onto':18,46 'origin':31 'plan':13 'ran':32 'real':42 'rep':28 'santa':11 'seat':20,48 'sinc':27 'suprem':52 'time':26 'trade':4 'year':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.independent.com/news/2012/jul/03/capps-and-maldonado-trade-jabs-ads-and-emails/&amp;sa=U&amp;ei=RqH3T9GmJcnE2gXlk5S-Bg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNE-ydOfmb0YAJ-7GXD4PIbN3Kc24A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16423677</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://independent.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400062</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:44:35-04:00</created-at>
+          <title>Arnold was not Maldonado&amp;#39;s special guest</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican Congressional candidate Abel Maldonado was enticing supporters to attend a Friday fundraiser in Pismo Beach with the promise of a &#8220;special guest,&#8221; prompting his Democratic opponent, incumbent Rep. Lois Capps, to report ... &#8220;  Whether it&amp;#3</excerpt>
+          <fti-names>'3':43 'abel':11 'arnold':1 'attend':17 'beach':23 'candid':10 'capp':38 'congression':9 'democrat':33 'entic':14 'friday':19 'fundrais':20 'guest':7,30 'incumb':35 'karen':44 'loi':37 'maldonado':4,12 'oppon':34 'pismo':22 'promis':26 'prompt':31 'rep':36 'report':40 'republican':8 'special':6,29 'support':15 'veli':45 'whether':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://calcoastnews.com/2012/07/arnold-was-not-maldonados-special-guest/&amp;sa=U&amp;ei=DZf7T9y6Ism42wXJwsz-Bw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFmfGavCz5J7vl_-zB-1CSNlb0AcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16486481</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Karen Velie</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">29551</page-views-count>
+      <youtube-id>RepLoisCapps</youtube-id>
+      <unaccented-name>Lois Capps</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-19T12:31:25-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.5014645577036</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">412465</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">240</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">183</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">372</party-votes-percentage-rank>
+        <sponsored-bills type="integer">40</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400285</person-id>
+        <cosponsored-bills-rank type="integer">208</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">373</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1579</votes-republican-position>
+      <fax>202-225-1844</fax>
+      <blog-article-count type="integer">6223</blog-article-count>
+      <user-approval type="float">4.61904761904762</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">152</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://murphy.house.gov/Contact/zipauth.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.5014645577036</with-party-percentage>
+      <lastname>Murphy</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>322 Cannon House Office Building</congress-office>
+      <firstname>Tim</firstname>
+      <website>http://murphy.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1952-09-11</birthday>
+      <person-id type="integer">400285</person-id>
+      <phone>202-225-2301</phone>
+      <religion>Roman Catholic</religion>
+      <bioguide-id>M001151</bioguide-id>
+      <votes-democratic-position type="integer">435</votes-democratic-position>
+      <metavid-id>Tim_Murphy</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:06:55-04:00</created-at>
+          <title>Truthland Goes to Washington</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...around the Capitol &#8211; and this week was certainly no exception. Thankfully, though, thanks to the help and support of U.S. Reps. Tim Murphy (R-Pa.) and Dan Boren (D-Okla.) &#8211; co-chairs of the Natural Gas Caucus &#8212; EID was able to secure a spot on an </excerpt>
+          <fti-names>'abl':47 'around':5 'boren':33 'capitol':7 'caucus':44 'certain':12 'chair':39 'co':38 'co-chair':37 'd':35 'd-okla':34 'dan':32 'eid':45 'except':14 'gas':43 'goe':2 'help':20 'junk':54 'murphi':27 'natur':42 'okla':36 'pa':30 'r':29 'r-pa':28 'rep':25 'scienc':55 'secur':49 'spot':51 'support':22 'thank':15,17 'though':16 'tim':26 'truthland':1 'u.s':24 'washington':4 'week':10</fti-names>
+          <source-url>http://www.junkscience.com/</source-url>
+          <url>http://junkscience.com/2012/08/03/truthland-goes-to-washington/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971772</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Junk Science</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:06:53-04:00</created-at>
+          <title>Florida: John Mica Maintains Big Cash Advantage Over Sandy Adams</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...received $5,000 from former Alaska Gov. Sarah Palin&#8217;s PAC. During the pre-primary period, Mica received $1,000 from the PAC affiliated with GOP Rep. Tim Murphy (Pa.). Mica has an edge in the Aug. 14 primary, but GOP insiders are not counting Adams out</excerpt>
+          <fti-names>'000':13,31 '1':30 '14':49 '5':12 'adam':10,57 'advantag':7 'affili':35 'alaska':16 'aug':48 'big':5 'call':60 'cash':6 'count':56 'edg':45 'florida':1 'former':15 'gop':37,52 'gov':17 'insid':53 'john':2 'maintain':4 'mica':3,28,42 'murphi':40 'pa':41 'pac':21,34 'palin':19 'period':27 'pre':25 'pre-primari':24 'primari':26,50 'receiv':11,29 'rep':38 'roll':59 'sandi':9 'sarah':18 'tim':39</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/florida_john_mica_maintains_big_cash_advantage_over_sandy_adams-216726-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971771</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:09:52-04:00</created-at>
+          <title>Relocation of Navy center aids 911th</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...various forces integrated together for training, so this is a great opportunity for integrated training,&quot; said U.S. Rep. Tim Murphy, R-Upper St. Clair, who helped negotiate the support center's move. Sen. Bob Casey, D-Pa., said Wednesday's contract awar</excerpt>
+          <fti-names>'911th':6 'aid':5 'awar':50 'bob':41 'casey':42 'center':4,37 'clair':31 'contract':49 'd':44 'd-pa':43 'forc':8 'gazett':54 'great':17 'help':33 'integr':9,20 'move':39 'murphi':26 'navi':3 'negoti':34 'opportun':18 'pa':45 'pittsburgh':51 'post':53 'post-gazett':52 'r':28 'r-upper':27 'reloc':1 'rep':24 'said':22,46 'sen':40 'st':30 'support':36 'tim':25 'togeth':10 'train':12,21 'u.s':23 'upper':29 'various':7 'wednesday':47</fti-names>
+          <source-url>http://www.post-gazette.com/</source-url>
+          <url>http://www.post-gazette.com/stories/local/region/relocation-of-navy-center-aids-911th-647151/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970821</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pittsburgh Post-Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:09:31-04:00</created-at>
+          <title>Politicians Support Their Home State Olympic Heroes</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...their states. Check out some other tweets from politicians keeping an eye out on the Olympic games: Pennsylvania Rep. Tim Murphy rooted for Trevor Barron, 19, a first-time Olympic athlete competing in the men&#8217;s 20-K racewalk this Saturday: California </excerpt>
+          <fti-names>'19':33 '20':45 'abc':51 'athlet':39 'barron':32 'california':50 'check':10 'compet':40 'eye':19 'first':36 'first-tim':35 'game':24 'hero':7 'home':4 'k':46 'keep':17 'men':43 'murphi':28 'news':52 'olymp':6,23,38 'pennsylvania':25 'politician':1,16 'racewalk':47 'rep':26 'root':29 'saturday':49 'state':5,9 'support':2 'tim':27 'time':37 'trevor':31 'tweet':14</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=abf173338b1e6288722e5540b2e6d3e3</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970820</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:51:37-04:00</created-at>
+          <title>Judge hears local voter ID argument</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...percent of voters in the 18th Congressional District lack the type of photo ID as defined by the new law. Republican U.S. Rep. Tim Murphy of Upper St. Clair is being challenged in the district, which includes most of Washington and Greene counties. The </excerpt>
+          <fti-names>'18th':12 'argument':6 'challeng':38 'clair':35 'congression':13 'counti':49 'defin':22 'district':14,41 'green':48 'hear':2 'id':5,20 'includ':43 'judg':1 'lack':15 'law':26 'local':3 'murphi':31 'new':25 'observ':53 'observer-report':52 'percent':7 'photo':19 'rep':29 'report':54 'republican':27 'st':34 'tim':30 'type':17 'u.s':28 'upper':33 'voter':4,9 'washington':46,51</fti-names>
+          <source-url>http://www.observer-reporter.com/</source-url>
+          <url>http://www.observer-reporter.com/OR/Story/WashCo-voter-ID</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969852</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Observer-Reporter </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:54-04:00</created-at>
+          <title>Fraud and Biodiesel Credits</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Tim Murphy (R., Pa.) estimates that 10,000 jobs are associated with RINs. Because of cases like Hailey&#8217;s, this market might soon collapse. Absolute Fuel, by contrast, at least tried to produce biodiesel. The company lost $500,000 between .</excerpt>
+          <fti-names>'000':13,44 '10':12 '500':43 'absolut':30 'article.nationalreview.com':46 'associ':16 'biodiesel':3,39 'case':21 'collaps':29 'compani':41 'contrast':33 'credit':4 'estim':10 'fraud':1 'fuel':31 'hailey':23 'job':14 'least':35 'like':22 'lost':42 'market':26 'might':27 'murphi':7 'pa':9 'produc':38 'r':8 'repres':5 'rin':18 'soon':28 'tim':6 'tri':36</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nationalreview.com/articles/312581/fraud-and-biodiesel-credits-nash-keune</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T03:50:34-04:00</date>
+          <id type="integer">16961342</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Article.nationalreview.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:56-04:00</created-at>
+          <title>Democrats target House members on upcoming tax vote</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...(NY-19) Congresswoman Ann Marie Buerkle (NY-24) Congressman Bill Johnson (OH-06) Congressman Mike Fitzpatrick (PA-08) Congressman Tim Murphy (PA-18) Congresswoman Kristi Noem (SD-AL) Congressman Scott DesJarlais (TN-04) Congressman Scott Rigell (VA-02).</excerpt>
+          <fti-names>'-02':47 '-04':42 '-06':21 '-08':26 '-18':31 '-19':10 '-24':16 'abc':48 'al':37 'ann':12 'bill':18 'buerkl':14 'congressman':17,22,27,38,43 'congresswoman':11,32 'democrat':1 'desjarlai':40 'fitzpatrick':24 'hous':3 'johnson':19 'kristi':33 'mari':13 'member':4 'mike':23 'murphi':29 'news':49 'noem':34 'ny':9,15 'oh':20 'pa':25,30 'rigel':45 'scott':39,44 'sd':36 'sd-al':35 'target':2 'tax':7 'tim':28 'tn':41 'upcom':6 'va':46 'vote':8</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/democrats-target-house-members-upcoming-tax-vote/story?id=16886666</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961344</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:43-04:00</created-at>
+          <title>Former CBO director defends agency against transparency push</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Former Congressional Budget Office Director Douglas Holtz-Eakin told The Daily Caller News Foundation that he is skeptical of a CBO transparency bill sponsored by Pennsylvania Republican Rep. Tim Murphy. &#8220;I always encourage people to ...</excerpt>
+          <fti-names>'agenc':5 'alway':41 'bill':32 'budget':11 'caller':21,46 'cbo':2,30 'congression':10 'daili':20,45 'defend':4 'director':3,13 'dougla':14 'eakin':17 'encourag':42 'former':1,9 'foundat':23 'holtz':16 'holtz-eakin':15 'murphi':39 'news':22 'offic':12 'pennsylvania':35 'peopl':43 'push':8 'rep':37 'republican':36 'skeptic':27 'sponsor':33 'tim':38 'told':18 'transpar':7,31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://dailycaller.com/2012/07/30/former-cbo-director-defends-agency-against-transparency-push/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T19:58:07-04:00</date>
+          <id type="integer">16966991</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Caller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:54-04:00</created-at>
+          <title>Maggi limits Murphy&#8217;s &#8216;air&#8217; supply</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Tim Murphy can try switching the TV channels all he wants this fall. Chances are he still won&#8217;t be able to go more than a few minutes without seeing the face of Washington County Commissioner Larry Maggi, his Democrat challenger.</excerpt>
+          <fti-names>'abl':29 'air':5 'challeng':49 'chanc':22 'channel':16 'commission':44 'counti':43 'democrat':48 'face':40 'fall':21 'go':31 'larri':45 'limit':2 'maggi':1,46 'minut':36 'murphi':3,10 'pittsburgh':50 'rep':8 'review':53 'see':38 'still':25 'suppli':6 'switch':13 'tim':9 'tri':12 'tribun':52 'tribune-review':51 'tv':15 'u.s':7 'want':19 'washington':42 'without':37 'won':26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://triblive.com/opinion/whispers/2280563-74/sblt-maggi-murphy-hogue-state-campaign-former-pennsylvania-commissioner-corbett</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T19:53:20-04:00</date>
+          <id type="integer">16961341</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PITTSBURGH TRIBUNE-REVIEW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:31:59-04:00</created-at>
+          <title>How Democrats Lost Their Chance to Take Back the House</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>thanks to revelations about Rep. David Cicilline's mismanagement of Providence when ... have coexisted in Southeast Asia as late as the 11th century,&quot; as Mother Jones' Tim Murphy put it. Democrats point to other districts, such as Oregon's 5th and New ...</excerpt>
+          <fti-names>'11th':32 '5th':50 'asia':27 'atlant':53 'back':8 'centuri':33 'chanc':5 'cicillin':17 'coexist':24 'david':16 'democrat':2,41 'district':45 'hous':10 'jone':36 'late':29 'lost':3 'mismanag':19 'mother':35 'murphi':38 'new':52 'onlin':54 'oregon':48 'point':42 'provid':21 'put':39 'rep':15 'revel':13 'southeast':26 'take':7 'thank':11 'tim':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.theatlantic.com/politics/archive/2012/07/how-democrats-lost-their-chance-to-take-back-the-house/260345/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:57:30-04:00</date>
+          <id type="integer">16930525</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlantic Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Tim Murphy [R, PA-18]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>TimMurphyPA18</youtube-id>
+      <district>18</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:51-04:00</created-at>
+          <title>The Craziest GOP House Race of the Year | Mother Jones</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8212;By Tim Murphy. | Mon Jul. 30, 2012 3:00 AM PDT. Tweet. Lou Ann Zelenik GOP congressional candidate Lou Ann Zelenik Lou Ann Zelenik/Flickr. When the caliphate comes to Middle Tennessee, Lou Ann Zelenik will be ready. During her first   run for Congress i</excerpt>
+          <fti-names>'00':19 '2012':17 '3':18 '30':16 'ann':24,30,33,43 'caliph':37 'candid':28 'come':38 'congress':53 'congression':27 'craziest':2 'first':50 'gop':3,26 'hous':4 'jone':10 'jul':15 'lou':23,29,32,42 'middl':40 'mon':14 'mother':9 'murphi':13,56 'pdt':21 'race':5 'readi':47 'run':51 'tennesse':41 'tim':12,55 'tweet':22 'year':8 'zelenik':25,31,44 'zelenik/flickr':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.motherjones.com/politics/2012/07/lou-ann-zelenik-congress&amp;sa=U&amp;ei=XE4XUMnWIZCo8QSGpoDABQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNE_HPJrew0y8ANL_XW_WrGPJqk_oQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961337</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tim Murphy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:50-04:00</created-at>
+          <title>Obamacare&amp;#39;s Medicaid impacts weighed locally | politicsandpolls-com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In this Thursday, June 28, 2012 file photo, Rep. Tim Murphy, R-Pa., center, holds up a copy of the Supreme Court&amp;#39;s health care ruling during a news conference by the GOP Doctors Caucus on Capitol Hill in Washington. Rep.</excerpt>
+          <fti-names>'2012':15 '28':14 'admin':52 'capitol':47 'care':35 'caucus':45 'center':24 'com':9 'confer':40 'copi':28 'court':32 'doctor':44 'file':16 'gop':43 'health':34 'hill':48 'hold':25 'impact':4 'june':13 'local':6 'medicaid':3 'murphi':20 'news':39 'obamacar':1 'pa':23 'photo':17 'politicsandpol':8 'politicsandpolls-com':7 'r':22 'r-pa':21 'rep':18,51 'rule':36 'suprem':31 'thursday':12 'tim':19 'washington':50 'weigh':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/pa-moc/tim-murphy-pennsylvania-representative/obamacares-medicaid-impacts-weighed-locally-5/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dobamacares-medicaid-impacts-weighed-locally-5&amp;sa=U&amp;ei=XE4XUMnWIZCo8QSGpoDABQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEkU-JwqGtpdV5TzWicb89A64S1aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961333</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:52-04:00</created-at>
+          <title>Doctors GOP caucus Praise the judge&amp;#39;s decision in Florida Obamacare</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Tim Murphy, Ph.D., Co-Chair : &amp;#39;The decision of Judge Robert Vinson reminds us that the freedoms guaranteed by the Constitution we still to rule on any law passed by Congress In addition to the heavy burden of the health. individual ...</excerpt>
+          <fti-names>'addit':45 'admin':54 'burden':49 'caucus':3 'chair':18 'co':17 'co-chair':16 'congress':43 'constitut':33 'decis':8,20 'doctor':1 'florida':10 'freedom':29 'gop':2 'guarante':30 'health':52 'heavi':48 'individu':53 'judg':6,22 'law':40 'murphi':14 'obamacar':11 'pass':41 'ph.d':15 'prais':4 'remind':25 'rep':12 'robert':23 'rule':37 'still':35 'tim':13 'us':26 'vinson':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.chircovskiidanceproject.com/doctors-gop-caucus-praise-the-judges-decision-in-florida-obamacare-unconstitutional/&amp;sa=U&amp;ei=XE4XUMnWIZCo8QSGpoDABQ&amp;ved=0CFMQmAEwDA&amp;usg=AFQjCNG2rbSZcbDKJ0qvnwuB84jmksVeLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16961340</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:17:51-04:00</created-at>
+          <title>Psychologist and Social Worker Alert &#8211; Please Click Embedded Link ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Behavioral Health Information Technology Act (S 539 / HR 6043) was recently introduced in the House by Congressman Tim Murphy (R-PA) on June 27 and previously introduced in the Senate by Senator Sheldon ...</excerpt>
+          <fti-names>'27':35 '539':17 '6043':19 'act':15 'alert':5 'behavior':11 'click':7 'congressman':27 'embed':8 'health':12 'hous':25 'hr':18 'inform':13 'introduc':22,38 'june':34 'link':9 'murphi':29 'pa':32 'pleas':6 'previous':37 'psychologist':1 'r':31 'r-pa':30 'recent':21 'senat':41,43 'sheldon':44 'social':3 'technolog':14 'tim':28 'web':45 'worker':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marlenemaheu.com/psychologist-and-social-worker-alert-please-click-embedded-link-to-contact-your-state-reps-about-obtaining-up-to-66k-in-incentives-for-ehrs-2/&amp;sa=U&amp;ei=XE4XUMnWIZCo8QSGpoDABQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNFAlK2XoP9AJFP_VuWFlYXMdcGQAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16961336</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>web</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:10:45-04:00</created-at>
+          <title>Doctors GOP caucus Praise the judge&amp;#39;s decision in Florida Obamacare</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Tim Murphy, Ph.D., Co-Chair : &amp;#39;The decision of Judge Robert Vinson reminds us that the freedoms guaranteed by the Constitution we still to rule on any law passed by Congress In addition to the heavy burden of the health. individual ...</excerpt>
+          <fti-names>'addit':45 'admin':54 'burden':49 'caucus':3 'chair':18 'co':17 'co-chair':16 'congress':43 'constitut':33 'decis':8,20 'doctor':1 'florida':10 'freedom':29 'gop':2 'guarante':30 'health':52 'heavi':48 'individu':53 'judg':6,22 'law':40 'murphi':14 'obamacar':11 'pass':41 'ph.d':15 'prais':4 'remind':25 'rep':12 'robert':23 'rule':37 'still':35 'tim':13 'us':26 'vinson':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.chircovskiidanceproject.com/doctors-gop-caucus-praise-the-judges-decision-in-florida-obamacare-unconstitutional/&amp;sa=U&amp;ei=e0EWUO2VOIaI8QTb1IGoBg&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNEW-9scJUdlOqt9yBeR1TROFvwA5A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949067</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:10:43-04:00</created-at>
+          <title>Psychologist and Social Worker Alert &#8211; Please Click Embedded Link ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Behavioral Health Information Technology Act (S 539 / HR 6043) was recently introduced in the House by Congressman Tim Murphy (R-PA) on June 27 and previously introduced in the Senate by Senator Sheldon ...</excerpt>
+          <fti-names>'27':35 '539':17 '6043':19 'act':15 'alert':5 'behavior':11 'click':7 'congressman':27 'embed':8 'health':12 'hous':25 'hr':18 'inform':13 'introduc':22,38 'june':34 'link':9 'murphi':29 'pa':32 'pleas':6 'previous':37 'psychologist':1 'r':31 'r-pa':30 'recent':21 'senat':41,43 'sheldon':44 'social':3 'technolog':14 'tim':28 'web':45 'worker':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marlenemaheu.com/psychologist-and-social-worker-alert-please-click-embedded-link-to-contact-your-state-reps-about-obtaining-up-to-66k-in-incentives-for-ehrs-2/&amp;sa=U&amp;ei=e0EWUO2VOIaI8QTb1IGoBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNF-aicmX0mmkDUILdVbKPLOYggRog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949064</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>web</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:10:46-04:00</created-at>
+          <title>Natural Gas Show Will Go On at the CVC : Roll Call News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Natural Gas Show Will Go On at the CVC. By Emma Dumain; Roll Call Staff; July 27, 2012, 6:57 p.m.. Tom Williams/CQ Roll Call File Photo. Rep. Tim Murphy (R-Pa.) is a co-chairman of the Congressional Natural Gas Caucus. image ...</excerpt>
+          <fti-names>'..':34 '2012':30 '27':29 '57':32 '6':31 'call':11,26,38 'caucus':57 'chairman':51 'co':50 'co-chairman':49 'congression':54 'cvc':9,21 'dumain':24,61 'emma':23,60 'emmadumain@cqrollcall.com':59 'file':39 'gas':2,14,56 'go':5,17 'imag':58 'juli':28 'murphi':43 'natur':1,13,55 'news':12 'p.m':33 'pa':46 'photo':40 'r':45 'r-pa':44 'rep':41 'roll':10,25,37 'show':3,15 'staff':27 'tim':42 'tom':35 'williams/cq':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/natural_gas_show_will_go_on_at_the_cvc-216534-1.html&amp;sa=U&amp;ei=e0EWUO2VOIaI8QTb1IGoBg&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNEh0xkewOaOwycJ0kKx3PJdaL042Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16949069</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>EmmaDumain@cqrollcall.com (Emma Dumain)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:27:22-04:00</created-at>
+          <title>Natural Gas Show Will Go On at the CVC : Roll Call News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Natural Gas Show Will Go On at the CVC. By Emma Dumain; Roll Call Staff; July 27, 2012, 6:57 p.m.. Tom Williams/CQ Roll Call File Photo. Rep. Tim Murphy (R-Pa.) is a co-chairman of the Congressional Natural Gas Caucus. image ...</excerpt>
+          <fti-names>'..':34 '2012':30 '27':29 '57':32 '6':31 'call':11,26,38 'caucus':57 'chairman':51 'co':50 'co-chairman':49 'congression':54 'cvc':9,21 'dumain':24,61 'emma':23,60 'emmadumain@cqrollcall.com':59 'file':39 'gas':2,14,56 'go':5,17 'imag':58 'juli':28 'murphi':43 'natur':1,13,55 'news':12 'p.m':33 'pa':46 'photo':40 'r':45 'r-pa':44 'rep':41 'roll':10,25,37 'show':3,15 'staff':27 'tim':42 'tom':35 'williams/cq':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/natural_gas_show_will_go_on_at_the_cvc-216534-1.html&amp;sa=U&amp;ei=w9cUUOydLZOi8ATvxoHIDg&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNEWpQdPobi3GzT7Acq4ls54zi4mCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930520</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>EmmaDumain@cqrollcall.com (Emma Dumain)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:27:19-04:00</created-at>
+          <title>Psychologist and Social Worker Alert &#8211; Please Click Embedded Link ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Behavioral Health Information Technology Act (S 539 / HR 6043) was recently introduced in the House by Congressman Tim Murphy (R-PA) on June 27 and previously introduced in the Senate by Senator Sheldon ...</excerpt>
+          <fti-names>'27':35 '539':17 '6043':19 'act':15 'alert':5 'behavior':11 'click':7 'congressman':27 'embed':8 'health':12 'hous':25 'hr':18 'inform':13 'introduc':22,38 'june':34 'link':9 'murphi':29 'pa':32 'pleas':6 'previous':37 'psychologist':1 'r':31 'r-pa':30 'recent':21 'senat':41,43 'sheldon':44 'social':3 'technolog':14 'tim':28 'web':45 'worker':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marlenemaheu.com/psychologist-and-social-worker-alert-please-click-embedded-link-to-contact-your-state-reps-about-obtaining-up-to-66k-in-incentives-for-ehrs-2/&amp;sa=U&amp;ei=w9cUUOydLZOi8ATvxoHIDg&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNHIYc1OhxZQdqcEgmftWLOKukByHw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930516</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>web</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400285</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:10:43-04:00</created-at>
+          <title>Murphy Chairs Natural Gas Caucus Hearing To Address Unleashing ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressional Natural Gas Caucus co-chairs Reps. Tim Murphy (PA-18) and Dan Boren (OK-02) today convened a congressional hearing focused on the challenges and opportunities for American job growth in the natural ...</excerpt>
+          <fti-names>'-02':26 '-18':21 'address':8 'american':39 'boren':24 'caucus':5,13 'chair':2,16 'challeng':35 'co':15 'co-chair':14 'congression':10,30 'conven':28 'dan':23 'focus':32 'gas':4,12 'growth':41 'hear':6,31 'job':40 'murphi':1,19 'natur':3,11,44 'ok':25 'opportun':37 'pa':20 'rep':17 'tim':18 'today':27 'tushar':45 'unleash':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theuticashale.com/murphy-chairs-natural-gas-caucus-hearing-to-address-unleashing-american-job-growth/&amp;sa=U&amp;ei=e0EWUO2VOIaI8QTb1IGoBg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNE-fTz4E9MB-jSYAso2pCSJZwPswA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16949065</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tushar</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21215</page-views-count>
+      <unaccented-name>Tim Murphy</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

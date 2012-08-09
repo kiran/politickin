@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.6979785969084</party-votes-percentage>
+        <abstains-percentage type="float">2.15241419429901</abstains-percentage>
+        <votes-most-often-with-id type="integer">400224</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">81</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">392</cosponsored-bills-passed-rank>
+        <abstains type="integer">37</abstains>
+        <cosponsored-bills type="integer">171</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">319</party-votes-percentage-rank>
+        <sponsored-bills type="integer">20</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412269</person-id>
+        <cosponsored-bills-rank type="integer">378</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">318</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1576</votes-republican-position>
+      <fax>202-225-7313</fax>
+      <blog-article-count type="integer">4773</blog-article-count>
+      <user-approval type="float">4.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">117</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>https://forms.house.gov/cassidy/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.6979785969084</with-party-percentage>
+      <lastname>Cassidy</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1535 Longworth Cannon House Office Building</congress-office>
+      <firstname>Bill</firstname>
+      <website>http://cassidy.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412269</person-id>
+      <phone>202-225-3901</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>C001075</bioguide-id>
+      <votes-democratic-position type="integer">405</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:09-04:00</created-at>
+          <title>Scalise and the Telecommunications Bill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The committee has 23 Democrats and 31 Republicans, including Rep. Bill Cassidy of Baton Rouge, a Republican. &#8194;&#8194;In contrast to Scalise, however, Cassidy has collected a mere $26,500 from communications and electronics PACs during the current election ..</excerpt>
+          <fti-names>'23':9 '26':33 '31':12 '500':34 'baton':19 'bestofneworleans.com':44 'bill':5,16 'cassidi':17,28 'collect':30 'committe':7 'communic':36 'contrast':24 'current':42 'democrat':10 'elect':43 'electron':38 'howev':27 'includ':14 'mere':32 'pac':39 'rep':15 'republican':13,22 'roug':20 'scalis':1,26 'telecommun':4</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bestofneworleans.com/gambit/scalise-and-the-telecommunications-bill/Content?oid=2049882</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:12:17-04:00</date>
+          <id type="integer">16959693</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>bestofneworleans.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:13-04:00</created-at>
+          <title>Latest news: July 27, 2012</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...eight interviews on &quot;sustainable agriculture for a food secure future&quot; we recently published. Protecting Louisiana By U.S. Rep. Bill Cassidy, The Daily Comet (Lafourche Parish, La.). July 26, 2012. &quot;We know the Gulf Coast is one of America's most import</excerpt>
+          <fti-names>'2012':5,34 '26':33 '27':4 'agricultur':10 'america':43 'bill':24 'cassidi':25 'coast':39 'comet':28 'daili':27 'eight':6 'food':13 'futur':15 'gulf':38 'humanitarian':47 'import':46 'interview':7 'juli':3,32 'know':36 'la':31 'lafourch':29 'latest':1 'louisiana':20 'news':2,48 'one':41 'parish':30 'protect':19 'publish':18 'recent':17 'rep':23 'secur':14 'sustain':9 'u.s':22</fti-names>
+          <source-url>http://humanitariannews.org/</source-url>
+          <url>http://humanitariannews.org/20120727/latest-news-july-27-2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920382</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Humanitarian News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:13-04:00</created-at>
+          <title>Latest news: July 27, 2012</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Louisiana By U.S. Rep. Bill Cassidy, The Daily Comet (Lafourche Parish, La.). July 26, 2012. &quot;We know the Gulf Coast is one of America&#8217;s most important assets. The energy, shipping, chemical, fishing and tourism industries on the coast generate econom</excerpt>
+          <fti-names>'2012':5,20 '26':19 '27':4 'america':29 'asset':33 'bill':10 'cassidi':11 'chemic':37 'coast':25,44 'comet':14 'daili':13 'defens':48 'econom':46 'energi':35 'environment':47 'fish':38 'fund':49 'generat':45 'gulf':24 'import':32 'industri':41 'juli':3,18 'know':22 'la':17 'lafourch':15 'latest':1 'louisiana':6 'news':2 'one':27 'parish':16 'rep':9 'ship':36 'tourism':40 'u.s':8</fti-names>
+          <source-url>http://www.edf.org/home.cfm</source-url>
+          <url>http://feedproxy.google.com/~r/environmentaldefense/~3/T-QX2csLdos/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920380</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Environmental Defense Fund</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:40:56-04:00</created-at>
+          <title>Protecting Louisiana</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Together, we can reverse coastal erosion and preserve communities and industries that keep Louisiana and America on the cutting edge of the global economy. U.S. Rep. Bill Cassidy is a Republican from Baton Rouge.</excerpt>
+          <fti-names>'america':18 'baton':35 'bill':29 'cassidi':30 'coastal':7 'comet':38 'communiti':11 'cut':21 'daili':37 'economi':26 'edg':22 'eros':8 'global':25 'industri':13 'keep':15 'louisiana':2,16 'preserv':10 'protect':1 'rep':28 'republican':33 'revers':6 'roug':36 'togeth':3 'u.s':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailycomet.com/article/20120726/OPINION01/120729688/-1/Entertainment03?Title=Protecting-Louisiana</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T19:25:53-04:00</date>
+          <id type="integer">16888684</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Comet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:40:59-04:00</created-at>
+          <title>Alvin Brown, Jacksonville Mayor, Won't Support Obama</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...margin of victory. 10 more election stories from beyond the presidential field : Libertarian Announces He Will Take On Rep. Bill Cassidy In Louisiana [ Houma Courier ] Rep. Diane Black (R-Tenn.): Challenger's Attack Ads Broke Federal Laws [ Nashville Ne</excerpt>
+          <fti-names>'10':12 'ad':43 'alvin':1 'announc':22 'attack':42 'beyond':17 'bill':28 'black':36 'broke':44 'brown':2 'cassidi':29 'challeng':40 'courier':33 'dian':35 'elect':14 'feder':45 'field':20 'houma':32 'huffington':50 'jacksonvill':3 'law':46 'libertarian':21 'louisiana':31 'margin':9 'mayor':4 'nashvill':47 'ne':48 'obama':8 'post':51 'presidenti':19 'r':38 'r-tenn':37 'rep':27,34 'stori':15 'support':7 'take':25 'tenn':39 'victori':11 'won':5</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/07/26/alvin-brown-jacksonville-mayor-obama_n_1706195.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888685</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:00-04:00</created-at>
+          <title>Protecting Louisiana</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Together, we can reverse coastal erosion and preserve communities and industries that keep Louisiana and America on the cutting edge of the global economy. U.S. Rep. Bill Cassidy is a Republican from Baton Rouge.</excerpt>
+          <fti-names>'america':18 'baton':35 'bill':29 'cassidi':30 'coastal':7 'communiti':11 'courier':38 'cut':21 'economi':26 'edg':22 'eros':8 'global':25 'houma':37 'industri':13 'keep':15 'louisiana':2,16 'preserv':10 'protect':1 'rep':28 'republican':33 'revers':6 'roug':36 'togeth':3 'u.s':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.houmatoday.com/article/20120726/OPINION01/120729688/1026/www.houmatoday.com/article/20120726/OPINION01/120729688/1026/news01|last_scored_timestamp:1343333420|last_scraped_timestamp:1343333420</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16920379</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houma Courier</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:40:56-04:00</created-at>
+          <title>Our Views: If not that, then what?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Another doctor in the Louisiana delegation, U.S. Rep. Bill Cassidy, R-Baton Rouge, has proposed specific legislation to deal with the financial structure of Medicaid, the big health care program for the poor. The Cassidy bill is focused on reimbursing ...</excerpt>
+          <fti-names>'anoth':8 'baton':20 'big':35 'bill':16,44 'care':37 'cassidi':17,43 'deal':27 'deleg':13 'doctor':9 'financi':30 'focus':46 'health':36 'legisl':25 'louisiana':12 'medicaid':33 'poor':41 'program':38 'propos':23 'r':19 'r-baton':18 'reimburs':48 'rep':15 'roug':21 'specif':24 'structur':31 'theadvocate.com':49 'u.s':14 'view':2</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://theadvocate.com/news/opinion/3430193-123/our-views-if-not-that</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T00:00:16-04:00</date>
+          <id type="integer">16888683</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>theadvocate.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:49:53-04:00</created-at>
+          <title>New candidate emerges in congressional race</title>
+          <contains-term>congress</contains-term>
+          <excerpt>BATON ROUGE &#8212; A Libertarian candidate has announced his intention to oppose incumbent U.S. Rep.Bill Cassidy in the November open primary. Smith W. Hartley, a small businessman and publisher, is among the first candidates to declare a challenge ...</excerpt>
+          <fti-names>'among':36 'announc':13 'baton':7 'businessman':32 'candid':2,11,39 'cassidi':21 'challeng':43 'comet':45 'congression':5 'daili':44 'declar':41 'emerg':3 'first':38 'hartley':29 'incumb':18 'intent':15 'libertarian':10 'new':1 'novemb':24 'open':25 'oppos':17 'primari':26 'publish':34 'race':6 'rep.bill':20 'roug':8 'small':31 'smith':27 'u.s':19 'w':28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailycomet.com/article/20120724/ARTICLES/120729798/-1/sports06?Title=New-candidate-emerges-in-congressional-race</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T23:45:57-04:00</date>
+          <id type="integer">16858446</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Comet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:49:54-04:00</created-at>
+          <title>&quot;David Clause&quot; in Obamacare Ready to Slay the Healthcare Cost Beast</title>
+          <contains-term>senator</contains-term>
+          <excerpt>That state senator wasn&#8217;t as astute as Bill Cassidy (R-LA) who has co-sponsored HR 3315 with Jay Inslee (D-WA) to expand DPC to Medicare patients. Rep. Cassidy has been a vocal opponent of Obamacare and is also a physician, yet he&#8217;s found ...</excerpt>
+          <fti-names>'3315':31 'also':55 'astut':18 'beast':11 'bill':20 'cassidi':21,45 'claus':2 'co':28 'co-sponsor':27 'cost':10 'd':36 'd-wa':35 'david':1 'dpc':40 'expand':39 'forb':62 'found':61 'healthcar':9 'hr':30 'insle':34 'jay':33 'la':24 'medicar':42 'obamacar':4,52 'oppon':50 'patient':43 'physician':57 'r':23 'r-la':22 'readi':5 'rep':44 'senat':14 'slay':7 'sponsor':29 'state':13 'vocal':49 'wa':37 'wasn':15 'yet':58</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.forbes.com/sites/davechase/2012/07/24/david-clause-in-obamacare-ready-to-slay-the-healthcare-cost-beast/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T19:06:47-04:00</date>
+          <id type="integer">16858448</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-24T22:49:43-04:00</created-at>
+          <title>&quot;David Clause&quot; in Obamacare Ready to Slay the Healthcare Cost Beast</title>
+          <contains-term>senator</contains-term>
+          <excerpt>That state senator wasn&#8217;t as astute as Bill Cassidy (R-LA) who has co-sponsored HR 3315 with Jay Inslee (D-WA) to expand DPC to Medicare patients. Rep. Cassidy has been a vocal opponent of Obamacare and is also a physician, yet he&#8217;s found ...</excerpt>
+          <fti-names>'3315':31 'also':55 'astut':18 'beast':11 'bill':20 'cassidi':21,45 'claus':2 'co':28 'co-sponsor':27 'cost':10 'd':36 'd-wa':35 'david':1 'dpc':40 'expand':39 'forb':62 'found':61 'healthcar':9 'hr':30 'insle':34 'jay':33 'la':24 'medicar':42 'obamacar':4,52 'oppon':50 'patient':43 'physician':57 'r':23 'r-la':22 'readi':5 'rep':44 'senat':14 'slay':7 'sponsor':29 'state':13 'vocal':49 'wa':37 'wasn':15 'yet':58</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.forbes.com/sites/davechase/2012/07/24/david-clause-in-obamacare-ready-to-slay-the-healthcare-cost-beast/?partner=yahootix</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T19:06:47-04:00</date>
+          <id type="integer">16848305</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Bill Cassidy [R, LA-6]</name>
+      <total-session-votes type="integer">1682</total-session-votes>
+      <sunlight-nickname>Bill</sunlight-nickname>
+      <youtube-id>repbillcassidy</youtube-id>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:45:28-04:00</created-at>
+          <title>Cassidy letter urges SEC head to appeal SIPC-Stanford ruling ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Bill Cassidy wrote Thursday to the chairwoman of the Securities and Exchange Commission asking for the SEC to appeal last week&amp;#39;s federal court ruling that the investors defrauded by Houston financier Robert ...</excerpt>
+          <fti-names>'admin':47 'appeal':7,32 'ask':27 'bill':14 'cassidi':1,15 'chairwoman':20 'commiss':26 'court':37 'defraud':42 'exchang':25 'feder':36 'financi':45 'head':5 'houston':44 'investor':41 'last':33 'letter':2 'rep':13 'robert':46 'rule':11,38 'sec':4,30 'secur':23 'sipc':9 'sipc-stanford':8 'stanford':10 'thursday':17 'u.s':12 'urg':3 'week':34 'wrote':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.investoraction.org/%3Fp%3D6909&amp;sa=U&amp;ei=xNEEUJ2hIYS42gWhpci6BQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNERvSP--1m6tTQYJiqAR3tTC_59ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16676265</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:45:24-04:00</created-at>
+          <title>Rep. Bill Cassidy: Don&amp;#39;t hate on oil companies | JunkScience.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Between now and Election Day, you will be hearing a lot from Washington interest groups, Capitol Hill politicians and President Obama, demanding that Congress &#8220;repeal tax breaks for Big Oil&#8221; or &#8220;make the oil companies pay ...</excerpt>
+          <fti-names>'big':39 'bill':2 'break':37 'capitol':26 'cassidi':3 'compani':9,45 'congress':34 'day':15 'demand':32 'editor':47 'elect':14 'group':25 'hate':6 'hear':19 'hill':27 'interest':24 'junkscience.com':10 'lot':21 'make':42 'obama':31 'oil':8,40,44 'pay':46 'politician':28 'presid':30 'rep':1 'repeal':35 'tax':36 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://junkscience.com/2012/07/16/rep-bill-cassidy-dont-hate-on-oil-companies/&amp;sa=U&amp;ei=xNEEUJ2hIYS42gWhpci6BQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHJk5wAaUfxpe3M8YWdKvpr2WoktQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16676260</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-10T22:45:05-04:00</created-at>
+          <title>House Scheduled to Vote on Health-Care Reform Repeal | AGA ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>AGA members will not only hear from a number of legislators, including Rep. Bill Cassidy, R-LA, Rep. Tom Price, R-GA, and Rep. Frank Pallone, D-NJ, but will also meet with their respective legislators to discuss Medicare ...</excerpt>
+          <fti-names>'aga':11,12 'also':45 'bill':25 'care':8 'cassidi':26 'd':41 'd-nj':40 'discuss':52 'frank':38 'ga':35 'health':7 'health-car':6 'hear':17 'hous':1 'includ':23 'kathleen':54 'la':29 'legisl':22,50 'medicar':53 'meet':46 'member':13 'nj':42 'number':20 'pallon':39 'price':32 'r':28,34 'r-ga':33 'r-la':27 'reform':9 'rep':24,30,37 'repeal':10 'respect':49 'schedul':2 'teixeira':55 'tom':31 'vote':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://agapolicyblog.org/2012/07/09/house-scheduled-to-vote-on-health-care-reform-repeal/&amp;sa=U&amp;ei=rej8T9TEF9Ol2AWQrqSDBw&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFFat7fVtc4dqjlrhGRTlZoxlzJbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16519207</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kathleen Teixeira</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:47:07-04:00</created-at>
+          <title>Louisiana Budget Project &#187; Blog Archive &#187; In the News: June</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Spires also appeared on Louisiana Public Broadcasting&amp;#39;s &#8220;Louisiana: The State We&amp;#39;re In&#8221; alongside U.S. Rep. Bill Cassidy and state Sen. Karen Carter Peterson discussing what health care reform means for Louisiana. Watch the discussion ...</excerpt>
+          <fti-names>'alongsid':24 'also':11 'appear':12 'archiv':5 'bill':27 'blog':4 'broadcast':16 'budget':2 'care':38 'carter':33 'cassidi':28 'discuss':35,45 'health':37 'june':9 'karen':32 'louisiana':1,14,18,42 'mean':40 'news':8 'peterson':34 'project':3 'public':15 're':22 'reform':39 'rep':26 'sen':31 'spire':10 'state':20,30 'u.s':25 'watch':43 'webmast':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.labudget.org/lbp/2012/07/in-the-news-june/&amp;sa=U&amp;ei=ppf7T8v9J-Wi2gWh8LTkBg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNH7vxYR0OmuutACuNtquTXf8FQAWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16486606</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>webmaster</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:47:07-04:00</created-at>
+          <title>House Scheduled to Vote on Health-Care Reform Repeal | AGA ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>AGA members will not only hear from a number of legislators, including Rep. Bill Cassidy, R-LA, Rep. Tom Price, R-GA, and Rep. Frank Pallone, D-NJ, but will also meet with their respective legislators to discuss Medicare ...</excerpt>
+          <fti-names>'aga':11,12 'also':45 'bill':25 'care':8 'cassidi':26 'd':41 'd-nj':40 'discuss':52 'frank':38 'ga':35 'health':7 'health-car':6 'hear':17 'hous':1 'includ':23 'kathleen':54 'la':29 'legisl':22,50 'medicar':53 'meet':46 'member':13 'nj':42 'number':20 'pallon':39 'price':32 'r':28,34 'r-ga':33 'r-la':27 'reform':9 'rep':24,30,37 'repeal':10 'respect':49 'schedul':2 'teixeira':55 'tom':31 'vote':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://agapolicyblog.org/2012/07/09/house-scheduled-to-vote-on-health-care-reform-repeal/&amp;sa=U&amp;ei=ppf7T8v9J-Wi2gWh8LTkBg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNGAoA-J62aM38BnpfyHjKFl7eLpvw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16486604</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kathleen Teixeira</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-06T22:40:14-04:00</created-at>
+          <title>The Medicaid reform dilemma: What should states do next? &#8211; Health ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Bill Cassidy will describe the key elements of his recently introduced Medicaid Accountability and Care Act, which builds upon a per capita federal block grant to states and adds incentives to provide better patient care.</excerpt>
+          <fti-names>'account':24 'act':27 'add':40 'better':44 'bill':12 'block':35 'build':29 'capita':33 'care':26,46 'cassidi':13 'chris':47 'conov':48 'describ':15 'dilemma':4 'element':18 'feder':34 'grant':36 'health':10 'incent':41 'introduc':22 'key':17 'medicaid':2,23 'next':9 'patient':45 'per':32 'provid':43 'recent':21 'reform':3 'rep':11 'state':7,38 'upon':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jhpplnewsandnotes.wordpress.com/2012/07/06/the-medicaid-reform-dilemma-what-should-states-do-next-health-aei/&amp;sa=U&amp;ei=i6H3T4nyBIX02QW6iI3hBg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNE4yiFL3aXJiLUCFZ1IxA1InrTkYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16423763</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Conover</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:39:53-04:00</created-at>
+          <title>Health Care in Louisiana and Massachusetts-Bobby Jindal and Bill ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>On Monday, July 2, Bill Cassidy(R), a congressional representative from Baton Rouge (LA), attacked President Obama&amp;#39;s Health Care Reform Act on MSNBC&amp;#39;s &#8220;MSNBC Live&#8221;. Thomas Roberts, the interviewer, tried to compare ...</excerpt>
+          <fti-names>'2':15 'act':33 'attack':26 'baton':23 'bill':11,16 'bobbi':8 'care':2,31 'cassidi':17 'compar':45 'congression':20 'health':1,30 'interview':42 'jindal':9 'juli':14 'la':25 'live':38 'louisiana':4 'mark':46 'massachusett':7 'massachusetts-bobbi':6 'monday':13 'msnbc':35,37 'obama':28 'presid':27 'r':18 'reform':32 'repres':21 'robert':40 'roug':24 'thoma':39 'tri':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://critical-thinker.net/%3Fp%3D1422&amp;sa=U&amp;ei=9PL4T-ydLfG42QWfj6jNBg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNEPEHvCYh17vgC51SH8saaJnM6DZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16448747</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:45:28-04:00</created-at>
+          <title>Rep. Bill Cassidy Just Unveiled the Republican &#8220;Newspeak ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>I&amp;#39;m off to a late start this morning, in part due to the heat that robbed me of restful sleep. And I&amp;#39;m not really sure my mind is rested enough to untangle...</excerpt>
+          <fti-names>'bill':2 'cassidi':3 'due':20 'enough':40 'heat':23 'joe':43 'late':14 'm':10,32 'mind':37 'morn':17 'newspeak':8 'part':19 'patric':44 'realli':34 'rep':1 'republican':7 'rest':28,39 'rob':25 'sleep':29 'start':15 'sure':35 'untangl':42 'unveil':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://recessappointment.com/2012/07/02/rep-bill-cassidy-just-unveiled-the-republican-newspeak-response-to-health-care/&amp;sa=U&amp;ei=xNEEUJ2hIYS42gWhpci6BQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGOZR3SYg5m_1IxdiNIb48-v08-ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16676266</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Patrice</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-10T22:45:03-04:00</created-at>
+          <title>Rep. Bill Cassidy Just Unveiled the Republican &#8220;Newspeak ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>I&amp;#39;m off to a late start this morning, in part due to the heat that robbed me of restful sleep. And I&amp;#39;m not really sure my mind is rested enough to untangle...</excerpt>
+          <fti-names>'bill':2 'cassidi':3 'due':20 'enough':40 'heat':23 'joe':43 'late':14 'm':10,32 'mind':37 'morn':17 'newspeak':8 'part':19 'patric':44 'realli':34 'rep':1 'republican':7 'rest':28,39 'rob':25 'sleep':29 'start':15 'sure':35 'untangl':42 'unveil':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://recessappointment.com/2012/07/02/rep-bill-cassidy-just-unveiled-the-republican-newspeak-response-to-health-care/&amp;sa=U&amp;ei=rej8T9TEF9Ol2AWQrqSDBw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNG1TFmtpVQ5MbQ8HEzWqRllUE31dw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16519200</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Patrice</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412269</commentariable-id>
+          <created-at type="datetime">2012-07-09T22:47:03-04:00</created-at>
+          <title>Rep. Bill Cassidy Just Unveiled the Republican &#8220;Newspeak ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>I&amp;#39;m off to a late start this morning, in part due to the heat that robbed me of restful sleep. And I&amp;#39;m not really sure my mind is rested enough to untangle...</excerpt>
+          <fti-names>'bill':2 'cassidi':3 'due':20 'enough':40 'heat':23 'joe':43 'late':14 'm':10,32 'mind':37 'morn':17 'newspeak':8 'part':19 'patric':44 'realli':34 'rep':1 'republican':7 'rest':28,39 'rob':25 'sleep':29 'start':15 'sure':35 'untangl':42 'unveil':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://recessappointment.com/2012/07/02/rep-bill-cassidy-just-unveiled-the-republican-newspeak-response-to-health-care/&amp;sa=U&amp;ei=ppf7T8v9J-Wi2gWh8LTkBg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNE1UgISGtO3pCjlpLphU9LQimNDlg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16486593</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joe Patrice</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">15479</page-views-count>
+      <unaccented-name>Bill Cassidy</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

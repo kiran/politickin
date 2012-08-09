@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-26T00:55:54-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">88.5869565217391</party-votes-percentage>
+        <abstains-percentage type="float">3.66492146596859</abstains-percentage>
+        <votes-most-often-with-id type="integer">400348</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">74</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">63</abstains>
+        <cosponsored-bills type="integer">164</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">331</party-votes-percentage-rank>
+        <sponsored-bills type="integer">21</sponsored-bills>
+        <votes-least-often-with-id type="integer">400170</votes-least-often-with-id>
+        <person-id type="integer">400343</person-id>
+        <cosponsored-bills-rank type="integer">239</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412453</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">255</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1467</votes-republican-position>
+      <fax>202-225-0145</fax>
+      <bioguide-id>R000409</bioguide-id>
+      <blog-article-count type="integer">9464</blog-article-count>
+      <user-approval type="float">5.17391304347826</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">141</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://rohrabacher.house.gov/Contact/Zip.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">88.5869565217391</with-party-percentage>
+      <lastname>Rohrabacher</lastname>
+      <middlename>T.</middlename>
+      <congress-office>2300 Rayburn House Office Building</congress-office>
+      <firstname>Dana</firstname>
+      <website>http://rohrabacher.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1947-06-21</birthday>
+      <person-id type="integer">400343</person-id>
+      <phone>202-225-2415</phone>
+      <religion>Christian</religion>
+      <votes-democratic-position type="integer">318</votes-democratic-position>
+      <metavid-id>Dana_Rohrabacher</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:02:38-04:00</created-at>
+          <title>New House Bill Tries To Save Medical Marijuana Dispensaries From Justice Department Lawsuits</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...bipartisan Truth In Trials Act, sponsored by Rep. Sam Farr (D-CA), Rep. Barney Frank (D-MA), Rep. Ron Paul (R-TX) and Rep. Dana Rohrabacher (R-CA), among others. More extensive than Lee&#8217;s measure, the bill would allow state-licensed medical marijuana </excerpt>
+          <fti-names>'act':18 'allow':57 'among':46 'barney':28 'bill':3,55 'bipartisan':14 'ca':26,45 'd':25,31 'd-ca':24 'd-ma':30 'dana':41 'depart':12 'dispensari':9 'extens':49 'farr':23 'frank':29 'hous':2 'justic':11 'lawsuit':13 'lee':51 'licens':60 'ma':32 'marijuana':8,62 'measur':53 'medic':7,61 'new':1 'other':47 'paul':35 'progress':64 'r':37,44 'r-ca':43 'r-tx':36 'rep':21,27,33,40 'rohrabach':42 'ron':34 'sam':22 'save':6 'sponsor':19 'state':59 'state-licens':58 'think':63 'tri':4 'trial':17 'truth':15 'tx':38 'would':56</fti-names>
+          <source-url>http://thinkprogress.org/</source-url>
+          <url>http://thinkprogress.org/justice/2012/08/06/644121/new-house-bill-tries-to-save-medical-marijuana-dispensaries-from-justice-department-lawsuits/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972964</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:49:08-04:00</created-at>
+          <title>ADL Slams Comparison of Iranian Exile Camp to Auschwitz</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...to Auschwitz. During discussions with other members about Camp Ashraf and Camp Liberty located near Baghdad, U.S. Rep. Dana Rohrabacher (R-CA) reportedly pointed to a photograph of one of the sites and said, &quot;Doesn't that look like Auschwitz? This looks</excerpt>
+          <fti-names>'adl':1 'arutz':53 'ashraf':19 'auschwitz':9,11,50 'baghdad':25 'ca':32 'camp':7,18,21 'comparison':3 'dana':28 'discuss':13 'doesn':45 'exil':6 'iranian':5 'liberti':22 'like':49 'locat':23 'look':48,52 'member':16 'near':24 'one':39 'photograph':37 'point':34 'r':31 'r-ca':30 'rep':27 'report':33 'rohrabach':29 'said':44 'sheva':54 'site':42 'slam':2 'u.s':26</fti-names>
+          <source-url>http://www.israelnationalnews.com/</source-url>
+          <url>http://www.israelnationalnews.com/News/Flash.aspx/246673</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972524</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arutz Sheva</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:01:35-04:00</created-at>
+          <title>Rand Paul Delays Pakistan Ambassador Over Doctor&#8217;s Plight</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...constant attention.&#8221; The Obama administration has also called for Afridi's release. When Afridi was arrested, GOP Rep. Dana Rohrabacher of California called it &#8220;decisive proof Pakistan sees itself as being at war with us.&#8221; Paul, a Republican, said</excerpt>
+          <fti-names>'administr':14 'afridi':19,23 'also':16 'ambassador':5 'arrest':25 'attent':11 'california':31 'call':17,32 'constant':10 'dana':28 'decis':34 'delay':3 'doctor':7 'gop':26 'newsmax':49 'obama':13 'pakistan':4,36 'paul':2,45 'plight':9 'proof':35 'rand':1 'releas':21 'rep':27 'republican':47 'rohrabach':29 'said':48 'see':37 'us':44 'war':42</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/US/Rand-Paul-Pakistan-doctor/2012/08/04/id/447584</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972254</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:11:08-04:00</created-at>
+          <title>&#8216;Real News From The Blaze:&#8217; Solyndra Update</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the report, not something that should receive bipartisan scrutiny? Joined Friday by Tara Setmayer, communications director for Rep. Dana Rohrabacher, the &#8216;Real News&#8217; panel discussed the latest developments in the Solyndra controversy and whether the</excerpt>
+          <fti-names>'bipartisan':15 'blaze':5,44 'communic':22 'controversi':39 'dana':26 'develop':35 'director':23 'discuss':32 'friday':18 'join':17 'latest':34 'news':2,30 'panel':31 'real':1,29 'receiv':14 'rep':25 'report':9 'rohrabach':27 'scrutini':16 'setmay':21 'solyndra':6,38 'someth':11 'tara':20 'updat':7 'whether':41</fti-names>
+          <source-url>http://www.theblaze.com/</source-url>
+          <url>http://www.theblaze.com/stories/real-news-from-the-blaze-solyndra-update/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971819</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Blaze</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:59:12-04:00</created-at>
+          <title>Marine Conservation Institute Commends House for Passage of Bipartisan Marine Debris Bill House of Representatives Approves Bill to Address Impacts of Marine Garbage in Nation&#8217;s Oceans.</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...The bill was introduced by Rep. Sam Farr (D-CA) and initially cosponsored by Republican Representatives Don Young (R-AK) and Dana Rohrabacher (R-CA). The bill passed the House by a voice vote. While the bill reauthorizes an existing program, lawmakers, </excerpt>
+          <fti-names>'address':19 'ak':49 'approv':16 'bill':12,17,29,57,67 'bipartisan':9 'ca':38,55 'commend':4 'conserv':2 'cosponsor':41 'd':37 'd-ca':36 'dana':51 'debri':11 'envirolib':73 'exist':70 'farr':35 'garbag':23 'hous':5,13,60 'impact':20 'initi':40 'institut':3 'introduc':31 'lawmak':72 'marin':1,10,22 'nation':25 'ocean':27 'pass':58 'passag':7 'program':71 'r':48,54 'r-ak':47 'r-ca':53 'reauthor':68 'rep':33 'repres':15,44 'republican':43 'rohrabach':52 'sam':34 'voic':63 'vote':64 'young':46</fti-names>
+          <source-url>http://envirolib.org/</source-url>
+          <url>http://envirolib.org/press-releases/marine-conservation-institute-commends-house-for-passage-of-bipartisan-marine-debris-bill-house-of-representatives-approves-bill-to-address-impacts-of-marine-garbage-in-nations-oceans/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970910</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Envirolib</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:56:03-04:00</created-at>
+          <title>U.S. lawmaker seeks information on missing Baloch</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Aug (ANI): U.S. Congressman Dana Rohrabacher has written to Secretary of State Hillary Clinton, asking her to provide information related to the case of a missing Baloch, Zakir Majeed. Majeed, the vice chairman of the Baloch Students Organisation, was a</excerpt>
+          <fti-names>'ani':9 'ask':22 'aug':8 'baloch':7,34,43 'case':30 'chairman':40 'clinton':21 'congressman':11 'dana':12 'hillari':20 'inform':4,26 'lawmak':2 'maje':36,37 'miss':6,33 'organis':45 'provid':25 'relat':27 'rohrabach':13 'secretari':17 'seek':3 'state':19 'student':44 'truthdiv':48 'u.s':1,10 'vice':39 'written':15 'zakir':35</fti-names>
+          <source-url>http://truthdive.com/</source-url>
+          <url>http://truthdive.com/2012/08/01/U-S-lawmaker-seeks-information-on-missing-Baloch.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969943</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TruthDive</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:56:02-04:00</created-at>
+          <title>India's first Boeing C-17 celebrated in Long Beach</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...largest international contractor, with a deal to purchase 10 C-17s. The first four are set to be rolled out next year. Rep. Dana Rohrabacher (R- 46th District) celebrated the major milestone in U.S.-Indian relations with fighting words. &quot;The government </excerpt>
+          <fti-names>'-17':6 '10':19 '17s':22 '46th':38 'angel':55 'beach':10 'boe':4 'c':5,21 'c-17s':20 'celebr':7,40 'contractor':13 'dana':35 'deal':16 'district':39 'fight':49 'first':3,24 'four':25 'govern':52 'india':1 'indian':46 'intern':12 'kabc':53 'largest':11 'long':9 'los':54 'major':42 'mileston':43 'next':32 'purchas':18 'r':37 'relat':47 'rep':34 'rohrabach':36 'roll':30 'set':27 'u.s':45 'word':50 'year':33</fti-names>
+          <source-url>http://abclocal.go.com/kabc/index</source-url>
+          <url>http://abclocal.go.com/kabc/story?section=news/business&amp;id=8757248&amp;rss=rss-kabc-article-8757248</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969942</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KABC Los Angeles</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:09:33-04:00</created-at>
+          <title>US lawmaker requests information on missing Baloch</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON: United States Congressman Dana Rohrabacher on Tuesday wrote a letter to United States Secretary of State Hillary Clinton, asking her to provide information related to the case of a missing Baloch, Zakir Majeed. Majeed, the vice chairman of the </excerpt>
+          <fti-names>'ask':27 'baloch':7,39 'case':35 'chairman':45 'clinton':26 'congressman':11 'daili':48 'dana':12 'hillari':25 'inform':4,31 'lawmak':2 'letter':18 'maje':41,42 'miss':6,38 'provid':30 'relat':32 'request':3 'rohrabach':13 'secretari':22 'state':10,21,24 'time':49 'tuesday':15 'unit':9,20 'us':1 'vice':44 'washington':8 'wrote':16 'zakir':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailytimes.com.pk/default.asp?page=2012\08\01\story_1-8-2012_pg7_13</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T17:54:03-04:00</date>
+          <id type="integer">16967164</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:09:33-04:00</created-at>
+          <title>Rohrabacher writes to Clinton, inquires about Zakir Majeed</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Washington, D.C. &#8211; Republican hawk Dana Rohrabacher (R-CA) Monday sent a letter to Secretary ... it is shameful for the victim to speak out. Earlier this year, Rep. Rohrabacher raised the case of British citizen Noordin Mengal, who is a ...</excerpt>
+          <fti-names>'british':42 'ca':17 'case':40 'citizen':43 'clinton':4 'd.c':10 'dana':13 'earlier':33 'examin':49 'hawk':12 'inquir':5 'letter':21 'maje':8 'mengal':45 'monday':18 'noordin':44 'r':16 'r-ca':15 'rais':38 'rep':36 'republican':11 'rohrabach':1,14,37 'secretari':23 'sent':19 'shame':26 'speak':31 'victim':29 'washington':9 'write':2 'year':35 'zakir':7</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/rohrabacher-writes-to-clinton-inquires-about-zakir-majeed</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T11:13:11-04:00</date>
+          <id type="integer">16967166</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:09:33-04:00</created-at>
+          <title>Clinton asked to provide information of missing Baloch leader</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In a letter, released to the press yesterday, Congressman Dana Rohrabacher asked Clinton to provide his office with information related to the case of a missing Baluch Zakir Majeed, vice-chairman of the Baluch Student Organization, who was abducted on June</excerpt>
+          <fti-names>'abduct':49 'ask':2,21 'baloch':8 'baluch':36,44 'case':32 'chairman':41 'clinton':1,22 'congressman':18 'dana':19 'india':53 'inform':5,28 'june':51 'leader':9 'letter':12 'maje':38 'miss':7,35 'msn':52 'offic':26 'organ':46 'press':16 'provid':4,24 'relat':29 'releas':13 'rohrabach':20 'student':45 'vice':40 'vice-chairman':39 'yesterday':17 'zakir':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://news.in.msn.com/international/article.aspx?cp-documentid=250430387</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T02:52:07-04:00</date>
+          <id type="integer">16967165</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSN India</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Dana Rohrabacher [R, CA-46]</name>
+      <total-session-votes type="integer">1656</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>46</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:25:58-04:00</created-at>
+          <title>The Common Ills: I Hate The War</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>That was when US House Rep Dana Rohrabacher demonstrated the class and character to tell US House Rep Gary Ackerman that he was right. Rohrabacher was a Republican and Ackerman is a Democrat. And this wasn&amp;#39;t a ...</excerpt>
+          <fti-names>'ackerman':27,37 'charact':20 'class':18 'common':2,46 'dana':14 'democrat':40 'demonstr':16 'gari':26 'hate':5 'hous':12,24 'ill':3,47 'rep':13,25 'republican':35 'right':31 'rohrabach':15,32 'tell':22 'us':11,23 'war':7 'wasn':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecommonills.blogspot.com/2012/07/i-hate-war_28.html&amp;sa=U&amp;ei=feUUUKeGKoy08ATEqoC4DQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFQvxab6PzRGCnb3fpxnjRzhLAdcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930882</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Common Ills</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:25:57-04:00</created-at>
+          <title>dancewater: Members of Congress speak out against war</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim McGovern (D-MA) Rep. Walter Jones (R-NC) Rep. Lynn Woolsey (D-CA) Rep. Ron Paul (R-TX) Rep. Jan Schakowsky (D-IL) Rep. Dana Rohrabacher (R-CA) Rep. Earl Blumenauer (D-OR) Rep. Dan Burton (R-IN) ...</excerpt>
+          <fti-names>'blumenau':47 'burton':53 'ca':26,44 'congress':4 'd':13,25,37,49 'd-ca':24 'd-il':36 'd-ma':12 'd-or':48 'dan':52 'dana':40 'dancewat':1,57 'earl':46 'il':38 'jan':34 'jim':10 'jone':17 'lynn':22 'ma':14 'mcgovern':11 'member':2 'nc':20 'paul':29 'r':19,31,43,55 'r-ca':42 'r-in':54 'r-nc':18 'r-tx':30 'rep':9,15,21,27,33,39,45,51 'rohrabach':41 'ron':28 'schakowski':35 'speak':5 'tx':32 'walter':16 'war':8 'woolsey':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dancewater.blogspot.com/2012/07/members-of-congress-speak-out-against.html&amp;sa=U&amp;ei=feUUUKeGKoy08ATEqoC4DQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFKaX-2TD4f5Auyv-54PRHGst1N_w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16930881</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dancewater</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:28:16-04:00</created-at>
+          <title>dancewater: Members of Congress speak out against war</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim McGovern (D-MA) Rep. Walter Jones (R-NC) Rep. Lynn Woolsey (D-CA) Rep. Ron Paul (R-TX) Rep. Jan Schakowsky (D-IL) Rep. Dana Rohrabacher (R-CA) Rep. Earl Blumenauer (D-OR) Rep. Dan Burton (R-IN) ...</excerpt>
+          <fti-names>'blumenau':47 'burton':53 'ca':26,44 'congress':4 'd':13,25,37,49 'd-ca':24 'd-il':36 'd-ma':12 'd-or':48 'dan':52 'dana':40 'dancewat':1,57 'earl':46 'il':38 'jan':34 'jim':10 'jone':17 'lynn':22 'ma':14 'mcgovern':11 'member':2 'nc':20 'paul':29 'r':19,31,43,55 'r-ca':42 'r-in':54 'r-nc':18 'r-tx':30 'rep':9,15,21,27,33,39,45,51 'rohrabach':41 'ron':28 'schakowski':35 'speak':5 'tx':32 'walter':16 'war':8 'woolsey':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dancewater.blogspot.com/2012/07/members-of-congress-speak-out-against.html&amp;sa=U&amp;ei=T1wTUK2vKJKa8gTI6oHgDw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEgOz1gZlL78xFXlZKtXSYzWXhQCQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923431</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dancewater</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:30:22-04:00</created-at>
+          <title>dancewater: Members of Congress speak out against war</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim McGovern (D-MA) Rep. Walter Jones (R-NC) Rep. Lynn Woolsey (D-CA) Rep. Ron Paul (R-TX) Rep. Jan Schakowsky (D-IL) Rep. Dana Rohrabacher (R-CA) Rep. Earl Blumenauer (D-OR) Rep. Dan Burton (R-IN) ...</excerpt>
+          <fti-names>'blumenau':47 'burton':53 'ca':26,44 'congress':4 'd':13,25,37,49 'd-ca':24 'd-il':36 'd-ma':12 'd-or':48 'dan':52 'dana':40 'dancewat':1,57 'earl':46 'il':38 'jan':34 'jim':10 'jone':17 'lynn':22 'ma':14 'mcgovern':11 'member':2 'nc':20 'paul':29 'r':19,31,43,55 'r-ca':42 'r-in':54 'r-nc':18 'r-tx':30 'rep':9,15,21,27,33,39,45,51 'rohrabach':41 'ron':28 'schakowski':35 'speak':5 'tx':32 'walter':16 'war':8 'woolsey':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dancewater.blogspot.com/2012/07/members-of-congress-speak-out-against.html&amp;sa=U&amp;ei=URkSUNmfHIGN6QGfxoGICQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEyPrpqL-rK3bID0xU-r2xMQ-8DGw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892457</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dancewater</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:30:27-04:00</created-at>
+          <title>Afghanistan: Rohrabacher blasts Obama over surrender to China in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington, D.C. &#8211; Rep. Dana Rohrabacher (R-CA) Tuesday sent a response letter to Secretary of State Hillary Clinton, emphasising the need to confront the endemic corruption within the Karzai regime and the strategic ...</excerpt>
+          <fti-names>'afghanistan':1 'blast':3 'ca':17 'china':8 'clinton':28 'confront':33 'corrupt':36 'd.c':11 'dana':13 'emphasis':29 'endem':35 'fakhria':44 'hillari':27 'karzai':39 'letter':22 'need':31 'obama':4 'r':16 'r-ca':15 'regim':40 'rep':12 'respons':21 'rohrabach':2,14 'secretari':24 'sent':19 'state':26 'strateg':43 'surrend':6 'tuesday':18 'washington':10 'within':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://afghanistaninfo.blogspot.com/2012/07/rohrabacher-blasts-obama-over-surrender.html&amp;sa=U&amp;ei=URkSUNmfHIGN6QGfxoGICQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNG98SVoTUPVHcGy0QyJkmykxHyjnA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16892467</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fakhria</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-26T00:48:18-04:00</created-at>
+          <title>Afghanistan: Rohrabacher blasts Obama over surrender to China in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington, D.C. &#8211; Rep. Dana Rohrabacher (R-CA) Tuesday sent a response letter to Secretary of State Hillary Clinton, emphasising the need to confront the endemic corruption within the Karzai regime and the strategic ...</excerpt>
+          <fti-names>'afghanistan':1 'blast':3 'ca':17 'china':8 'clinton':28 'confront':33 'corrupt':36 'd.c':11 'dana':13 'emphasis':29 'endem':35 'fakhria':44 'hillari':27 'karzai':39 'letter':22 'need':31 'obama':4 'r':16 'r-ca':15 'regim':40 'rep':12 'respons':21 'rohrabach':2,14 'secretari':24 'sent':19 'state':26 'strateg':43 'surrend':6 'tuesday':18 'washington':10 'within':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://afghanistaninfo.blogspot.com/2012/07/rohrabacher-blasts-obama-over-surrender.html&amp;sa=U&amp;ei=_ssQULSDOpCs0AGho4CwCw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFPpJB0_MkfsgDt_7ml5vsZN-JkkQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860380</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fakhria</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-26T00:48:26-04:00</created-at>
+          <title>Houston Tea Party endorses Congressman Stockman! | Re-Elect ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Citizens United. Congressman Dana Rohrabacher (R-CA), Reagan staffer and speech writer. Congressman Louie Gohmert (R-Texas). Congressman Tom Tancredo (Ret., R-CO), Border control advocate. Conservative Victory ...</excerpt>
+          <fti-names>'admin':41 'advoc':38 'border':36 'ca':17 'citizen':10 'co':35 'congressman':5,12,23,29 'conserv':39 'control':37 'dana':13 'elect':9 'endors':4 'gohmert':25 'houston':1 'louie':24 'parti':3 'r':16,27,34 'r-ca':15 'r-co':33 'r-texa':26 're':8 're-elect':7 'reagan':18 'ret':32 'rohrabach':14 'speech':21 'staffer':19 'stockman':6 'tancredo':31 'tea':2 'texa':28 'tom':30 'unit':11 'victori':40 'writer':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://congressmanstevestockman.com/houston-tea-party-endorses-congressman-stockman/&amp;sa=U&amp;ei=_ssQULSDOpCs0AGho4CwCw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGoZ-FmaiBqVbOxN2yKwm0UHEV1yA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16860386</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:13:14-04:00</created-at>
+          <title>Defense Appropriations Bill Summary FY2013 | WAND Education ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Jim McGovern (D-MA), Rep. Walter Jones (R-NC), Rep. Lynn Woolsey (D-CA), Rep. Ron Paul (R-TX), Rep. Jan Schakowsky (D-IL), Rep. Dana Rohrabacher (R-CA), Rep Earl Blumenauer (D-OR), Rep. Dan Burton (R-IN), Rep ...</excerpt>
+          <fti-names>'admin':56 'appropri':2 'bill':3 'blumenau':45 'burton':51 'ca':24,42 'd':11,23,35,47 'd-ca':22 'd-il':34 'd-ma':10 'd-or':46 'dan':50 'dana':38 'defens':1 'earl':44 'educ':7 'fy2013':5 'il':36 'jan':32 'jim':8 'jone':15 'lynn':20 'ma':12 'mcgovern':9 'nc':18 'paul':27 'r':17,29,41,53 'r-ca':40 'r-in':52 'r-nc':16 'r-tx':28 'rep':13,19,25,31,37,43,49,55 'rohrabach':39 'ron':26 'schakowski':33 'summari':4 'tx':30 'walter':14 'wand':6 'woolsey':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wand.org/2012/07/24/defense-appropriations-bill-summary-fy2013/&amp;sa=U&amp;ei=bo4PUMXiHYf28gSl1YCgDg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFXCsRaykdbBQbXJpYUAKmMa4FovA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852428</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:13:12-04:00</created-at>
+          <title>Houston Tea Party endorses Congressman Stockman! | Re-Elect ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Citizens United. Congressman Dana Rohrabacher (R-CA), Reagan staffer and speech writer. Congressman Louie Gohmert (R-Texas). Congressman Tom Tancredo (Ret., R-CO), Border control advocate. Conservative Victory ...</excerpt>
+          <fti-names>'admin':41 'advoc':38 'border':36 'ca':17 'citizen':10 'co':35 'congressman':5,12,23,29 'conserv':39 'control':37 'dana':13 'elect':9 'endors':4 'gohmert':25 'houston':1 'louie':24 'parti':3 'r':16,27,34 'r-ca':15 'r-co':33 'r-texa':26 're':8 're-elect':7 'reagan':18 'ret':32 'rohrabach':14 'speech':21 'staffer':19 'stockman':6 'tancredo':31 'tea':2 'texa':28 'tom':30 'unit':11 'victori':40 'writer':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://congressmanstevestockman.com/houston-tea-party-endorses-congressman-stockman/&amp;sa=U&amp;ei=bo4PUMXiHYf28gSl1YCgDg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEInjn4xPznrjl9Ixa80H75VwImXw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852425</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400343</commentariable-id>
+          <created-at type="datetime">2012-07-23T01:46:53-04:00</created-at>
+          <title>Proposed Law Could Spark a U.S.-China War on Visas for ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Chinese Media Reciprocity Act (H.R. 2899) is sponsored by Congressman Dana Rohrabacher, a Republican from southern California. At a June 20 hearing, Congressman Rohrabacher testified before the House ...</excerpt>
+          <fti-names>'20':33 '2899':18 'act':16 'california':29 'china':7 'chines':13 'chodorow':42 'congressman':22,35 'could':3 'dana':23 'gari':41 'h.r':17 'hear':34 'hous':40 'june':32 'law':2 'media':14 'propos':1 'reciproc':15 'republican':26 'rohrabach':24,36 'southern':28 'spark':4 'sponsor':20 'testifi':37 'u.s':6 'visa':10 'war':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lawandborder.com/%3Fp%3D1515&amp;sa=U&amp;ei=NeUMUKfcE-bK2AX0yaAk&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNEJaakH31A6pTQtp60b7AUPqD0OZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T01:00:00-04:00</date>
+          <id type="integer">16815496</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gary Chodorow</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20161</page-views-count>
+      <unaccented-name>Dana Rohrabacher</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-04T20:11:41-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">88.0555555555556</party-votes-percentage>
+        <abstains-percentage type="float">8.86075949367089</abstains-percentage>
+        <votes-most-often-with-id type="integer">412496</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:25-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">1</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">35</abstains>
+        <cosponsored-bills type="integer">170</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">48</party-votes-percentage-rank>
+        <sponsored-bills type="integer">43</sponsored-bills>
+        <votes-least-often-with-id type="integer">300038</votes-least-often-with-id>
+        <person-id type="integer">300052</person-id>
+        <cosponsored-bills-rank type="integer">44</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-31T05:49:46-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">24</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">317</votes-republican-position>
+      <blog-article-count type="integer">16924</blog-article-count>
+      <fax>202-224-6331</fax>
+      <user-approval type="float">2.85074626865672</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">608</oc-users-tracking>
+      <contact-webform>http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">88.0555555555556</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Hatch</lastname>
+      <congress-office>104 Hart Senate Office Building</congress-office>
+      <middlename>G.</middlename>
+      <firstname>Orrin</firstname>
+      <website>http://www.hatch.senate.gov/</website>
+      <birthday type="date">1934-03-22</birthday>
+      <person-id type="integer">300052</person-id>
+      <phone>202-224-5251</phone>
+      <religion>Latter Day Saints</religion>
+      <biography nil="true"></biography>
+      <bioguide-id>H000338</bioguide-id>
+      <votes-democratic-position type="integer">117</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>Saving antibiotics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...experts are promoting a proposed act of Congress called the Generating Antibiotic Incentives Now Act. Co-sponsored by Utah&#8217;s Sen. Orrin Hatch, the bill would give drug makers another five years of exclusive rights to newly developed antibiotics as a f</excerpt>
+          <fti-names>'act':8,17 'anoth':33 'antibiot':2,14,42 'bill':28 'call':11 'co':19 'co-sponsor':18 'congress':10 'develop':41 'drug':31 'exclus':37 'expert':3 'f':45 'five':34 'generat':13 'give':30 'hatch':26 'incent':15 'lake':47 'maker':32 'newli':40 'orrin':25 'promot':5 'propos':7 'right':38 'salt':46 'save':1 'sen':24 'sponsor':20 'tribun':48 'utah':22 'would':29 'year':35</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/opinion/54641430-82/antibiotics-drug-http-www.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973767</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>Congress approves AGOA/CAFTA legislation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...South Sudan to the list of AGOA-eligible countries. Senate Finance Committee Chairman Baucus (D-Mont.) and ranking member Orrin Hatch (R-Utah) noted in a statement after the vote that because almost 95 percent of apparel imported from AGOA nations is ma</excerpt>
+          <fti-names>'95':41 'agoa':12,47 'agoa-elig':11 'agoa/cafta':3 'almost':40 'apparel':44 'approv':2 'baucus':19 'chairman':18 'committe':17 'congress':1 'countri':14 'd':21 'd-mont':20 'delta':51 'elig':13 'farm':52 'financ':16 'hatch':27 'import':45 'legisl':4 'list':9 'ma':50 'member':25 'mont':22 'nation':48 'note':31 'orrin':26 'percent':42 'press':53 'r':29 'r-utah':28 'rank':24 'senat':15 'south':5 'statement':34 'sudan':6 'utah':30 'vote':37</fti-names>
+          <source-url>http://deltafarmpress.com/</source-url>
+          <url>http://feedproxy.google.com/~r/WesternFarmPress/~3/sNNVWOOV1WI/congress-approves-agoacafta-legislation</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973766</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Delta Farm Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>Republicans To IRS: Back Off Anonymous Money Groups</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...&#8212; including Minority Leader Mitch McConnell (R-KY), Minority Whip Jon Kyl (R-AZ) and Finance Committee Ranking Member Orrin Hatch (R-UT) &#8212; sent the IRS a letter warning them not to do just that, arguing that stricter enforcement could get mired in a</excerpt>
+          <fti-names>'anonym':6 'argu':46 'az':23 'back':4 'committe':26 'could':50 'enforc':49 'financ':25 'get':51 'group':8 'hatch':30 'includ':9 'ir':3,36 'jon':19 'ky':16 'kyl':20 'leader':11 'letter':38 'mcconnel':13 'member':28 'memo':57 'minor':10,17 'mire':52 'mitch':12 'money':7 'orrin':29 'point':56 'r':15,22,32 'r-az':21 'r-ki':14 'r-ut':31 'rank':27 'republican':1 'sent':34 'stricter':48 'talk':55 'ut':33 'warn':39 'whip':18</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://tpmdc.talkingpointsmemo.com/2012/08/schumer-accuses-republicans-of-threatening-irs-to-block-super-pac-oversight.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973765</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>Welfare debate drags Utah into presidential campaign</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to apply for a waiver as long as their plan would result in more people finding work. Congressional Republicans, led by Sen. Orrin Hatch, R-Utah, immediately pounced on that memo, saying the administration has no authority to offer waivers to the landma</excerpt>
+          <fti-names>'administr':42 'appli':9 'author':45 'campaign':7 'congression':25 'debat':2 'drag':3 'find':23 'hatch':31 'immedi':35 'lake':53 'landma':51 'led':27 'long':14 'memo':39 'offer':47 'orrin':30 'peopl':22 'plan':17 'pounc':36 'presidenti':6 'r':33 'r-utah':32 'republican':26 'result':19 'salt':52 'say':40 'sen':29 'tribun':54 'utah':4,34 'waiver':12,48 'welfar':1 'work':24 'would':18</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/news/54651036-78/carney-hatch-herbert-law.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973764</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>What makes Mormons tick? Visit an LDS ward to see</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...visited LDS services and talked to members of the church about their faith. Within the article, stories are told about Sen. Orrin Hatch and Sen. Harry Reid and their service to members of their respective LDS wards. &quot;Writing or reporting about Mormons f</excerpt>
+          <fti-names>'articl':26 'church':20 'deseret':54 'f':53 'faith':23 'harri':36 'hatch':33 'lds':7,12,46 'make':2 'member':17,42 'mormon':3,52 'news':55 'orrin':32 'reid':37 'report':50 'respect':45 'see':10 'sen':31,35 'servic':13,40 'stori':27 'talk':15 'tick':4 'told':29 'visit':5,11 'ward':8,47 'within':24 'write':48</fti-names>
+          <source-url>http://deseretnews.com/</source-url>
+          <url>http://www.deseretnews.com/article/865560245/What-makes-Mormons-tick-Visit-an-LDS-ward-to-see.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973763</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Deseret News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>Rolly: Firefighter sports injuries cost Salt Lake County taxpayers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...gave pause to the very Republican voters who pushed for change that year. Those second thoughts helped incumbent Sen. Orrin Hatch, who soundly defeated his primary opponent, Dan Liljenquist. story continues below Speaking of Hatch: If he is re-elected t</excerpt>
+          <fti-names>'chang':20 'continu':40 'cost':5 'counti':8 'dan':37 'defeat':33 'elect':50 'firefight':2 'gave':10 'hatch':30,44 'help':26 'incumb':27 'injuri':4 'lake':7,53 'liljenquist':38 'oppon':36 'orrin':29 'paus':11 'primari':35 'push':18 're':49 're-elect':48 'republican':15 'rolli':1 'salt':6,52 'second':24 'sen':28 'sound':32 'speak':42 'sport':3 'stori':39 'taxpay':9 'thought':25 'tribun':54 'voter':16 'year':22</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/politics/54649759-90/county-candidate-hatch-lugar.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973762</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:20-04:00</created-at>
+          <title>U.S. government approves $2,500 federal tax credit for electric bikes and motorcycles</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...of 2012. The finance committee approved the amendment by a voice vote as part of a broader package of tax measures after Sen. Orrin Hatch, R-Utah, questioned whether such a provision could be undertaken given the fragile economic state of the country. T</excerpt>
+          <fti-names>'2':4 '2012':15 '500':5 'amend':21 'approv':3,19 'bike':11 'broader':30 'committe':18 'could':47 'countri':57 'credit':8 'digit':59 'econom':53 'electr':10 'feder':6 'financ':17 'fragil':52 'given':50 'govern':2 'hatch':38 'measur':34 'motorcycl':13 'orrin':37 'packag':31 'part':27 'provis':46 'question':42 'r':40 'r-utah':39 'sen':36 'state':54 'tax':7,33 'trend':60 'u.s':1 'undertaken':49 'utah':41 'voic':24 'vote':25 'whether':43</fti-names>
+          <source-url>http://www.digitaltrends.com/</source-url>
+          <url>http://www.digitaltrends.com/cars/u-s-government-approves-2500-federal-tax-credit-for-electric-bikes-and-motorcycles/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973761</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Digital Trends</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:19-04:00</created-at>
+          <title>Three-way GOP primary race comes to an end Tuesday in Missouri</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...GOP primaries this cycle. Each candidate she has supported&#8211;state treasurer Richard Mourdock in Indiana, incumbent Sen. Orrin Hatch in Utah, former solicitor general Ted Cruz in Texas, and state Sen. Deb Fischer in Nebraska&#8211;has gone on to win a prima</excerpt>
+          <fti-names>'candid':19 'cnn':56 'come':7 'cruz':39 'cycl':17 'deb':45 'end':10 'fischer':46 'former':35 'general':37 'gone':50 'gop':4,14 'hatch':32 'incumb':29 'indiana':28 'missouri':13 'mourdock':26 'nebraska':48 'orrin':31 'prima':55 'primari':5,15 'race':6 'richard':25 'sen':30,44 'solicitor':36 'state':23,43 'support':22 'ted':38 'texa':41 'three':2 'three-way':1 'treasur':24 'tuesday':11 'utah':34 'way':3 'win':53</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://politicalticker.blogs.cnn.com/2012/08/07/three-way-gop-primary-race-comes-to-an-end-in-missouri/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973760</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:18-04:00</created-at>
+          <title>Wind energy, NASCAR, and plug-in golf carts</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...for ethanol producers.&quot; And when do you suppose they'll slip that one back in? Christmas eve? &quot;The tide is turning,&quot; said Orrin Hatch, the panel's top Republican. &quot;For the first time in my 21 years on this committee, we are deliberately moving in the op</excerpt>
+          <fti-names>'21':45 'back':23 'cart':9 'christma':25 'committe':49 'deliber':52 'energi':2 'ethanol':11 'eve':26 'first':41 'golf':8 'hatch':33 'journal':61 'las':57 'll':19 'lvrj.com':62 'move':53 'nascar':3 'one':22 'op':56 'orrin':32 'panel':35 'plug':6 'plug-in':5 'produc':12 'republican':38 'review':60 'review-journ':59 'said':31 'slip':20 'suppos':17 'tide':28 'time':42 'top':37 'turn':30 'vega':58 'wind':1 'year':46</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192642&amp;44=165105676&amp;32=4051&amp;7=206636&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fopinion%2Fwind-energy-nascar-and-plug-in-golf-carts-165105676.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973135</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:18-04:00</created-at>
+          <title>GOP Senators Press IRS on Rule Changes</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...&#8217;s Crossroads GPS , which have been accused of misusing their tax-exempt status to influence elections. The letter from Sen. Orrin Hatch (R., Utah), the top Republican on the Senate Finance Committee, and nine other Republican Senators is the latest i</excerpt>
+          <fti-names>'accus':14 'blog':53 'chang':7 'committe':40 'crossroad':9 'elect':24 'exempt':20 'financ':39 'gop':1 'gps':10 'hatch':30 'influenc':23 'ir':4 'journal':52 'latest':48 'letter':26 'misus':16 'nine':42 'orrin':29 'press':3 'r':31 'republican':35,44 'rule':6 'sen':28 'senat':2,38,45 'status':21 'street':51 'tax':19 'tax-exempt':18 'top':34 'utah':32 'wall':50</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/washwire/2012/08/06/gop-senators-press-irs-on-rule-changes/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973134</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Orrin_Hatch</metavid-id>
+      <name>Sen. Orrin Hatch [R, UT]</name>
+      <total-session-votes type="integer">360</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:55-04:00</created-at>
+          <title>Orrin Hatch: Taxmageddon is headed our way |</title>
+          <contains-term>congress</contains-term>
+          <excerpt>By Sen. Orrin Hatch of Utah. Taxmaggedon is coming. Unless President Obama and Congress act, Americans will be hit with what would be in total dollars the largest tax increase in history in little more than five months.</excerpt>
+          <fti-names>'act':22 'admin':46 'american':23 'come':16 'congress':21 'dollar':33 'five':44 'hatch':2,11 'head':5 'histori':39 'hit':26 'increas':37 'largest':35 'littl':41 'month':45 'obama':19 'orrin':1,10 'presid':18 'sen':9 'tax':36 'taxmageddon':3 'taxmaggedon':14 'total':32 'unless':17 'utah':13 'way':7 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://latinosreadytovote.com/%3Fp%3D4936&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNEZ63VaFo3qmVxuDbr3vSmNVUHjHg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962355</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:03:00-04:00</created-at>
+          <title>The Argo Journal: Sen. Orrin Hatch Delivers Weekly GOP Address ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Orrin Hatch Delivers Weekly GOP Address on Pr... Poll Watch: Mason-Dixon Missouri 2012 Senatorial S... Poll Watch: Mason-Dixon Missouri 2012 Presidential... Poll Watch: Magellan Strategies (R) Ohio 2012 Sena.</excerpt>
+          <fti-names>'2012':26,35,43 'address':10,17 'argo':2,45 'deliv':7,14 'dixon':24,33 'gop':9,16 'hatch':6,13 'journal':3,46 'magellan':39 'mason':23,32 'mason-dixon':22,31 'missouri':25,34 'ohio':42 'orrin':5,12 'poll':20,29,37 'pr':19 'presidenti':36 'r':41 'sen':4,11 'sena':44 'senatori':27 'strategi':40 'watch':21,30,38 'week':8,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://argojournal.blogspot.com/2012/07/sen-orrin-hatch-delivers-weekly-gop.html&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CFIQmAEwDA&amp;usg=AFQjCNGLi0_8cBDxn4QFYTBOmDMqoE513A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962359</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Argo Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:59-04:00</created-at>
+          <title>Sen. Orrin Hatch (R-UT) Delivers Weekly GOP Address on ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Utah Senator Orrin Hatch delivers the Weekly Republican Address on the need to prevent Taxmageddon on January 1, 2013, explaining: &#8220;In just over five months, middle-class families, job creators and seniors will get hit with ...</excerpt>
+          <fti-names>'1':29 '2013':30 'address':10,20 'class':39 'creator':42 'deliv':7,16 'explain':31 'famili':40 'five':35 'foley':50 'get':46 'gop':9 'hatch':3,15 'hit':47 'januari':28 'job':41 'middl':38 'middle-class':37 'month':36 'need':23 'orrin':2,14 'prevent':25 'r':5 'r-ut':4 'republican':19 'sen':1 'senat':13 'senior':44 'steven':49 'taxmageddon':26 'ut':6 'utah':12 'week':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theminorityreportblog.com/2012/07/28/sen-orrin-hatch-r-ut-delivers-weekly-gop-address-on-preventing-tax-hikes/&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CE0QmAEwCw&amp;usg=AFQjCNEgBbGcexLMN9Q3YIoLkPwQJhxIsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962358</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steven Foley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:57-04:00</created-at>
+          <title>GOP Address: Sen. Orrin Hatch Says Raising Taxes Is &amp;#39;Not a ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Comments Off Share Article. Joshua Roberts/Bloomberg via Getty Images(WASHINGTON) -- Raising taxes on businesses is the wrong solution while in the middle of economic crisis, according to Sen. Orrin Hatch of Utah who ...</excerpt>
+          <fti-names>'accord':37 'address':2 'articl':15 'busi':25 'carmen':45 'comment':12 'cox':46 'crisi':36 'econom':35 'getti':19 'gop':1 'hatch':5,41 'imag':20 'joshua':16 'middl':33 'orrin':4,40 'rais':7,22 'roberts/bloomberg':17 'say':6 'sen':3,39 'share':14 'solut':29 'tax':8,23 'utah':43 'via':18 'washington':21 'wrong':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://abcnewsradioonline.com/politics-news/gop-address-sen-orrin-hatch-says-raising-taxes-is-not-a-solu.html&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNHjTj5iKzjguHVFEFcAwWjdT3rnjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962356</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Carmen Cox</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:52-04:00</created-at>
+          <title>American Political: VIDEO: 7/28/12 - Sen. Orrin Hatch (R-UT ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>A collection of political and economic news links and videos from around the web.</excerpt>
+          <fti-names>'7/28/12':4 'american':1 'around':22 'collect':12 'econom':16 'hatch':7 'link':18 'news':17 'newspap':25 'orrin':6 'polit':2,14,26 'r':9 'r-ut':8 'sen':5 'ut':10 'video':3,20 'web':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanpolitical.org/2012/07/video-72812-sen-orrin-hatch-r-ut.html&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNGO8K7hUvXRDfcofTrB4tjqidOosQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962353</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Newspaper Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:51-04:00</created-at>
+          <title>Sen. Orrin Hatch Delivers GOP Weekly Address on the Coming</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Here is video of Utah GOP Sen. Orrin Hatch delivering the Republican Weekly Address, which he used to focus on massive tax increases coming in January 2013 if Congress and the President do not act. Extension of the ...</excerpt>
+          <fti-names>'2013':37 'act':45 'address':7,24 'brian':49 'come':10,34 'congress':39 'deliv':4,20 'extens':46 'focus':29 'gop':5,16 'hatch':3,19 'increas':33 'januari':36 'massiv':31 'orrin':2,18 'presid':42 'republican':22 'sen':1,17 'tax':32 'use':27 'utah':15 'video':13 'week':6,23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://freedomslighthouse.net/2012/07/28/sen-orrin-hatch-delivers-gop-weekly-address-on-the-coming-taxmageddon-if-obama-and-the-democrats-get-their-way-video-72812/&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNH9uFYuwMd-OnGIuFJ28av_NaVbYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962352</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:50-04:00</created-at>
+          <title>Sen. Orrin Hatch (R-UT) Delivers Republican Weekly Address | C ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Utah Senator Orrin Hatch delivers this week&amp;#39;s Republican weekly address, focusing on the tax cut extension bill passed by the Senate on Thursday. The Senate voted down a bill that would extend tax cuts to all Americans, ...</excerpt>
+          <fti-names>'/johnrouda.com':52 'address':10,22 'american':49 'bill':29,41 'c':11 'cut':27,46 'deliv':7,16 'extend':44 'extens':28 'focus':23 'hatch':3,15 'orrin':2,14 'pass':30 'r':5 'r-ut':4 'republican':8,20 'sen':1 'senat':13,33,37 'tax':26,45 'thursday':35 'ut':6 'utah':12 'vote':38 'week':9,18,21 'would':43 'www.c-span.org':51 'www.c-span.org/johnrouda.com':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.c-span.org/Events/Sen-Orrin-Hatch-R-UT-Delivers-Republican-Weekly-Address/10737432723/&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFC4uu4b7GHCgs9CTDbM7m1uJdPFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962351</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.c-span.org/johnrouda.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:02:37-04:00</created-at>
+          <title>Marathon Pundit: Weekly GOP Address with Sen. Orrin Hatch on the ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Orrin Hatch (R-UT) delivers today&amp;#39;s Weekly GOP Address. He discussed the upcoming massive hike, which will be devastating to our weak economy. In just over five months, middle-class families, job creators and ...</excerpt>
+          <fti-names>'address':5,23 'class':45 'creator':48 'deliv':18 'devast':33 'discuss':25 'economi':37 'famili':46 'five':41 'gop':4,22 'hatch':9,14 'hike':29 'job':47 'john':50 'marathon':1 'massiv':28 'middl':44 'middle-class':43 'month':42 'orrin':8,13 'pundit':2 'r':16 'r-ut':15 'ruberri':51 'sen':7,12 'today':19 'upcom':27 'ut':17 'weak':36 'week':3,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marathonpundit.blogspot.com/2012/07/weekly-gop-address-with-sen-orrin-hatch.html&amp;sa=U&amp;ei=7GYXUIG7Jofg6wHnloGoCQ&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNElHmGky-oRFv4y9ubadswY6Bq3lw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962350</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>John Ruberry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:31:46-04:00</created-at>
+          <title>Sen. Orrin Hatch (R-UT) Delivers Weekly GOP Address on ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Utah Senator Orrin Hatch delivers the Weekly Republican Address on the need to prevent Taxmageddon on January 1, 2013, explaining: &#8220;In just over five months, middle-class families, job creators and seniors will get hit with ...</excerpt>
+          <fti-names>'1':29 '2013':30 'address':10,20 'class':39 'creator':42 'deliv':7,16 'explain':31 'famili':40 'five':35 'foley':50 'get':46 'gop':9 'hatch':3,15 'hit':47 'januari':28 'job':41 'middl':38 'middle-class':37 'month':36 'need':23 'orrin':2,14 'prevent':25 'r':5 'r-ut':4 'republican':19 'sen':1 'senat':13 'senior':44 'steven':49 'taxmageddon':26 'ut':6 'utah':12 'week':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theminorityreportblog.com/2012/07/28/sen-orrin-hatch-r-ut-delivers-weekly-gop-address-on-preventing-tax-hikes/&amp;sa=U&amp;ei=o34WUMauJob-8ASriYDABA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFm-l8OQ3fHB9ssjNtldlwkHC1zag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951923</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steven Foley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300052</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:31:44-04:00</created-at>
+          <title>The Argo Journal: Sen. Orrin Hatch Delivers Weekly GOP Address ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Orrin Hatch Delivers Weekly GOP Address on Pr... Poll Watch: Mason-Dixon Missouri 2012 Senatorial S... Poll Watch: Mason-Dixon Missouri 2012 Presidential... Poll Watch: Magellan Strategies (R) Ohio 2012 Sena.</excerpt>
+          <fti-names>'2012':26,35,43 'address':10,17 'argo':2,45 'deliv':7,14 'dixon':24,33 'gop':9,16 'hatch':6,13 'journal':3,46 'magellan':39 'mason':23,32 'mason-dixon':22,31 'missouri':25,34 'ohio':42 'orrin':5,12 'poll':20,29,37 'pr':19 'presidenti':36 'r':41 'sen':4,11 'sena':44 'senatori':27 'strategi':40 'watch':21,30,38 'week':8,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://argojournal.blogspot.com/2012/07/sen-orrin-hatch-delivers-weekly-gop.html&amp;sa=U&amp;ei=o34WUMauJob-8ASriYDABA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNEQ6K9p2Hrf6esJUVDh9XQTg3YT6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951921</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Argo Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">39146</page-views-count>
+      <youtube-id>SenatorOrrinHatch</youtube-id>
+      <unaccented-name>Orrin Hatch</unaccented-name>
+      <oc-user-comments type="integer">24</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-12T06:05:02-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.5416916616677</party-votes-percentage>
+        <abstains-percentage type="float">3.02501454333915</abstains-percentage>
+        <votes-most-often-with-id type="integer">400216</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:24-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">8</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">179</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">199</cosponsored-bills-passed-rank>
+        <abstains type="integer">52</abstains>
+        <cosponsored-bills type="integer">143</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">52</party-votes-percentage-rank>
+        <sponsored-bills type="integer">7</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400110</person-id>
+        <cosponsored-bills-rank type="integer">341</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:55-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">127</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">427</votes-republican-position>
+      <blog-article-count type="integer">16039</blog-article-count>
+      <fax>202-226-0371</fax>
+      <user-approval type="float">2.67692307692308</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">198</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/wyr/welcome.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.5416916616677</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Dingell</lastname>
+      <congress-office>2328 Rayburn House Office Building</congress-office>
+      <middlename>D.</middlename>
+      <firstname>John</firstname>
+      <website>http://www.house.gov/dingell/</website>
+      <birthday type="date">1926-07-08</birthday>
+      <person-id type="integer">400110</person-id>
+      <phone>202-225-4071</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1526</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:39:05-04:00</created-at>
+          <title>LaBarre leads Montague in race for 7th District seat on Washtenaw County Board of Commissioners</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...new 7th District, but Bergman is not running for re-election this year. LaBarre, 30, is a former staffer for U.S. State Rep. John Dingell&#8217;s office both in Washington D.C. and in Ann Arbor before joining the A2Y Regional Chamber, where he is currently </excerpt>
+          <fti-names>'30':31 '7th':7,17 'a2y':55 'ann':50 'arbor':51 'bergman':20 'board':13 'chamber':57 'commission':15 'counti':12 'current':61 'd.c':47 'dingel':41 'district':8,18 'elect':27 'former':34 'john':40 'join':53 'labarr':1,30 'lead':2 'mlive.com':62 'montagu':3 'new':16 'offic':43 'race':5 're':26 're-elect':25 'region':56 'rep':39 'run':23 'seat':9 'staffer':35 'state':38 'u.s':37 'washington':46 'washtenaw':11 'year':29</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://annarbor.com/news/7th-district-seat-washtenaw-county-board-of-commissioners/?cmpid=mlive-@mlive-news-a2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973373</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:39:04-04:00</created-at>
+          <title>Longtime US Rep. Conyers seeks nomination; 2 Democratic congressmen battle in Michigan primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Fred Upton had a rematch with Jack Hoogendyk, a former state representative whom he easily defeated two years ago. Rep. John Dingell, the longest serving member presently in Congress, was heavily favored over little-known Daniel Marcin of Ann Arbor. Con</excerpt>
+          <fti-names>'2':7 'ago':32 'ann':53 'arbor':54 'battl':10 'con':55 'congress':42 'congressmen':9 'conyer':4 'daniel':50 'defeat':29 'democrat':8 'dingel':35 'easili':28 'favor':45 'former':23 'fred':14 'heavili':44 'hoogendyk':21 'jack':20 'john':34 'known':49 'littl':48 'little-known':47 'longest':37 'longtim':1 'marcin':51 'member':39 'michigan':12 'nomin':6 'present':40 'primari':13 'rematch':18 'rep':3,33 'repres':25 'seek':5 'serv':38 'state':24 'two':30 'upton':15 'us':2 'wdiv':56 'year':31</fti-names>
+          <source-url>http://www.clickondetroit.com/index.html</source-url>
+          <url>http://www.clickondetroit.com/news/Longtime-US-Rep-Conyers-seeks-nomination-2-Democratic-congressmen-battle-in-Michigan-primary/-/1719418/15993834/-/mdwnkj/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973372</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WDIV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:42:23-04:00</created-at>
+          <title>Your guide to the Tuesday, Aug. 7 primary election in Washtenaw County</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Pittsfield, Salem, Sharon, Superior, Sylvan, Webster and York townships here. Congressional races On the ballot: U.S. Rep. John Dingell, D-Dearborn, is defending his seat against Democratic challenger Daniel Marcin in the 12th Congressional district, wh</excerpt>
+          <fti-names>'12th':46 '7':7 'aug':6 'ballot':27 'challeng':41 'congression':23,47 'counti':12 'd':33 'd-dearborn':32 'daniel':42 'dearborn':34 'defend':36 'democrat':40 'dingel':31 'district':48 'elect':9 'guid':2 'john':30 'marcin':43 'mlive.com':50 'pittsfield':13 'primari':8 'race':24 'rep':29 'salem':14 'seat':38 'sharon':15 'superior':16 'sylvan':17 'township':21 'tuesday':5 'u.s':28 'washtenaw':11 'webster':18 'wh':49 'york':20</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/annarbornews-mlive/~3/F71_hjkTGMQ/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972785</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:42:21-04:00</created-at>
+          <title>Michigan's longest-tenured Congressmen eye return to Washington</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Rep. John Conyers, left, has served in the U.S. House since 1965. Rep. John Dingell has served in the House since 1955. Reps. John Dingell and John Conyers, the two longest-tenured members of the U.S. House, have spent a combined 104 years in Washington</excerpt>
+          <fti-names>'104':53 '1955':32 '1965':22 'combin':52 'congressmen':6 'conyer':13,38 'dingel':25,35 'eye':7 'hous':20,30,48 'john':12,24,34,37 'left':14 'longest':4,42 'longest-tenur':3,41 'member':44 'michigan':1 'mlive.com':57 'rep':11,23,33 'return':8 'serv':16,27 'sinc':21,31 'spent':50 'tenur':5,43 'two':40 'u.s':19,47 'washington':10,56 'year':54</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/michigan-elections/~3/DN69zzeGwPQ/does_age_matter_nations_longes.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972784</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:55-04:00</created-at>
+          <title>Two Democrats vie for new district seat on Washtenaw County Board of Commissioners</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...is not running for re-election this year. LaBarre, 30, currently works in the A2Y Chamber and is a former staffer of U.S. Rep. John Dingell in both Washington D.C. and in Washtenaw County. LaBarre says he has a number of ideas to make sure there's enoug</excerpt>
+          <fti-names>'30':24 'a2y':29 'board':11 'chamber':30 'commission':13 'counti':10,48 'current':25 'd.c':44 'democrat':2 'dingel':40 'district':6 'elect':20 'enoug':62 'former':34 'idea':56 'john':39 'labarr':23,49 'make':58 'mlive.com':63 'new':5 'number':54 're':19 're-elect':18 'rep':38 'run':16 'say':50 'seat':7 'staffer':35 'sure':59 'two':1 'u.s':37 'vie':3 'washington':43 'washtenaw':9,47 'work':26 'year':22</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/annarbornews-mlive/~3/ujsiliyp5vc/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971583</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:44:53-04:00</created-at>
+          <title>Absentee voting: More than 2,000 Ann Arborites already have cast ballots in advance of Tuesday's primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Pittsfield Township Democrat Andrea Brown-Harrison for the open 55th District seat being vacated by Rick Olson. U.S. Rep. John Dingell, D-Dearborn, is defending his seat against Democratic challenger Daniel Marcin in the 12th Congressional district, whi</excerpt>
+          <fti-names>'000':6 '12th':55 '2':5 '55th':29 'absente':1 'advanc':14 'alreadi':9 'andrea':22 'ann':7 'arborit':8 'ballot':12 'brown':24 'brown-harrison':23 'cast':11 'challeng':50 'congression':56 'd':42 'd-dearborn':41 'daniel':51 'dearborn':43 'defend':45 'democrat':21,49 'dingel':40 'district':30,57 'harrison':25 'john':39 'marcin':52 'mlive.com':59 'olson':36 'open':28 'pittsfield':19 'primari':18 'rep':38 'rick':35 'seat':31,47 'township':20 'tuesday':16 'u.s':37 'vacat':33 'vote':2 'whi':58</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://annarbor.com/news/absentee-voting-more-than-2000-ann-arbor-residents-already-have-cast-ballots-in-advance-of-tuesdays/?cmpid=mlive-@mlive-news-a2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971582</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:18:43-04:00</created-at>
+          <title>Dingell bill aims to reinstate limits on corporate PAC donations</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...A group of House Democrats led by Rep. John Dingell of Dearborn introduced legislation Thursday seeking to overturn a Supreme Court decision that allows corporations and wealthy individuals to make unlimited donations to political action committees. Din</excerpt>
+          <fti-names>'action':45 'aim':3 'allow':34 'bill':2 'committe':46 'corpor':8,35 'court':31 'dearborn':22 'decis':32 'democrat':15 'detroit':48 'din':47 'dingel':1,20 'donat':10,42 'group':12 'hous':14 'individu':38 'introduc':23 'john':19 'led':16 'legisl':24 'limit':6 'make':40 'news':49 'onlin':50 'overturn':28 'pac':9 'polit':44 'reinstat':5 'rep':18 'seek':26 'suprem':30 'thursday':25 'unlimit':41 'wealthi':37</fti-names>
+          <source-url>http://detnews.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.detroitnews.com/article/20120802/POLITICS01/208020463/1022/rss10</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970555</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:35:52-04:00</created-at>
+          <title>Ypsilanti City Council candidates sound off on issues</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...less than a week to go until Tuesday's primary, congressional candidate Daniel Marcin acknowledges his bid to unseat U.S. Rep. John Dingell is a long shot. In an interview with AnnArbor.com, the Ann Arbor ... Read more &#187; When asked to give their though</excerpt>
+          <fti-names>'acknowledg':23 'ann':42 'annarbor.com':40 'arbor':43 'ask':47 'bid':25 'candid':4,20 'citi':2 'congression':19 'council':3 'daniel':21 'dingel':31 'give':49 'go':14 'interview':38 'issu':8 'john':30 'less':9 'long':34 'marcin':22 'mlive.com':52 'primari':18 'read':44 'rep':29 'shot':35 'sound':5 'though':51 'tuesday':16 'u.s':28 'unseat':27 'week':12 'ypsilanti':1</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/annarbornews-mlive/~3/zsJVv2fTHfQ/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969608</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:35:51-04:00</created-at>
+          <title>Congress OKs Help For Those Hurt By Lejeune Water</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...House members spoke in favor and also criticized the Marine Corps, the Department of the Navy and the Department of Defense. Rep. John Dingell, D-Mich., who held hearings on the issue in 2004, was especially pointed in denouncing the military&#8217;s behavi</excerpt>
+          <fti-names>'2004':44 'also':16 'behavi':53 'cbs':54 'charlott':55 'congress':1 'corp':20 'critic':17 'd':35 'd-mich':34 'defens':30 'denounc':49 'depart':22,28 'dingel':33 'especi':46 'favor':14 'hear':39 'held':38 'help':3 'hous':10 'hurt':6 'issu':42 'john':32 'lejeun':8 'marin':19 'member':11 'mich':36 'militari':51 'navi':25 'ok':2 'point':47 'rep':31 'spoke':12 'water':9</fti-names>
+          <source-url>http://charlotte.cbslocal.com/</source-url>
+          <url>http://charlotte.cbslocal.com/2012/08/01/congress-oks-help-for-those-hurt-by-lejeune-water/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969607</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS Charlotte</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:40:16-04:00</created-at>
+          <title>Congress OKs help for those hurt by Lejeune water</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. John Dingell, D-Mich., who held hearings on the issue in 2004, was especially pointed in denouncing the military's behavior. &quot;This is long overdue, and the most noteworthy thing that we can observe about the behavior of the military leadership is that</excerpt>
+          <fti-names>'2004':23 'behavior':32,48 'congress':1 'd':14 'd-mich':13 'denounc':28 'dingel':12 'especi':25 'francisco':56 'gate':57 'hear':18 'held':17 'help':3 'hurt':6 'issu':21 'john':11 'leadership':52 'lejeun':8 'long':35 'mich':15 'militari':30,51 'noteworthi':40 'observ':45 'ok':2 'overdu':36 'point':26 'rep':10 'san':55 'thing':41 'water':9</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.sfgate.com/news/article/Congress-OKs-help-for-those-hurt-by-Lejeune-water-3748397.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T19:05:38-04:00</date>
+          <id type="integer">16966365</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Gate</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>D000355</bioguide-id>
+      <metavid-id>John_D._Dingell</metavid-id>
+      <name>Rep. John Dingell [D, MI-15]</name>
+      <total-session-votes type="integer">1667</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>15</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:46:18-04:00</created-at>
+          <title>Dems savor victory in health care ruling _ for now &#8211; Calhountimes ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON (AP) &#8212; Rep. John Dingell leaned back in his plush office chair and considered the feed that scrolled over his flat-screen TV at 10:07 a.m. Thursday. The Supreme Court, it said, had upheld the health care law ...</excerpt>
+          <fti-names>'07':37 '10':36 'a.m':38 'admin':51 'ap':12 'back':17 'calhountim':10 'care':6,49 'chair':22 'consid':24 'court':42 'dem':1 'dingel':15 'feed':26 'flat':32 'flat-screen':31 'health':5,48 'john':14 'law':50 'lean':16 'offic':21 'plush':20 'rep':13 'rule':7 'said':44 'savor':2 'screen':33 'scroll':28 'suprem':41 'thursday':39 'tv':34 'upheld':46 'victori':3 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/mi-moc/john-dingell-michigan-representative/dems-savor-victory-in-health-care-ruling-_-for-now-calhountimes/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Ddems-savor-victory-in-health-care-ruling-_-for-now-calhountimes&amp;sa=U&amp;ei=-EYXUOqPM8je0gH3zIHYCg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNFcu3lF7LTOFzI8znAXJ7zOQys1qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959997</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:46:18-04:00</created-at>
+          <title>Voters head to primary polls Aug. 7</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democrat: Incumbent U.S. Rep. John Dingell, Dearborn; Daniel Marcin, Ann Arbor. (The 12th District covers parts of Wayne and Washtenaw counties, and all of Monroe County. It includes west Dearborn, Dearborn Heights, ...</excerpt>
+          <fti-names>'12th':20 '7':7 'ann':17 'arbor':18 'aug':6 'counti':28,33 'cover':22 'daniel':15 'dearborn':14,37,38 'democrat':8 'dingel':13 'district':21 'head':2 'height':39 'herald':42 'includ':35 'incumb':9 'john':12 'marcin':16 'monro':32 'newspap':43 'part':23 'poll':5 'primari':4 'rep':11 'time':41 'times-herald':40 'u.s':10 'voter':1 'washtenaw':27 'wayn':25 'west':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downriversundaytimes.com/2012/07/29/voters-head-to-primary-polls-aug-7-2/&amp;sa=U&amp;ei=-EYXUOqPM8je0gH3zIHYCg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNEjzOnfgyyKr5iJOr5hpmYDHuMUzg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16960001</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Herald Newspapers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-30T00:40:07-04:00</created-at>
+          <title>Election hopefuls tout practical experience | Crain&amp;#39;s Detroit Business</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The winner will contest presumptive Democrat candidate and incumbent Rep. John Dingell in November. Jacobsen said she&amp;#39;s concerned about the ACA&amp;#39;s impact on small business. Jacobsen Industries -- projected to ...</excerpt>
+          <fti-names>'/article/20090308/sub01/303089994':43 'aca':31 'busi':9,36 'candid':16 'concern':28 'contest':13 'crain':6 'democrat':15 'detroit':8 'dingel':21 'elect':1 'experi':5 'hope':2 'impact':33 'incumb':18 'industri':38 'jacobsen':24,37 'john':20 'novemb':23 'practic':4 'presumpt':14 'project':39 'rep':19 'said':25 'small':35 'tout':3 'winner':11 'www.crainsdetroit.com':42 'www.crainsdetroit.com/article/20090308/sub01/303089994':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.crainsdetroit.com/article/20120729/FREE/307299979/election-hopefuls-tout-practical-experience&amp;sa=U&amp;ei=EhAWUMsh86nQAZ3AAQ&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFdQKHycuCf1ln3edz8zHkPrHoudw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16946319</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.crainsdetroit.com/article/20090308/SUB01/303089994</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-30T00:40:05-04:00</created-at>
+          <title>Voters head to primary polls Aug. 7</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democrat: Incumbent U.S. Rep. John Dingell, Dearborn; Daniel Marcin, Ann Arbor. (The 12th District covers parts of Wayne and Washtenaw counties, and all of Monroe County. It includes west Dearborn, Dearborn Heights, ...</excerpt>
+          <fti-names>'12th':20 '7':7 'ann':17 'arbor':18 'aug':6 'counti':28,33 'cover':22 'daniel':15 'dearborn':14,37,38 'democrat':8 'dingel':13 'district':21 'head':2 'height':39 'herald':42 'includ':35 'incumb':9 'john':12 'marcin':16 'monro':32 'newspap':43 'part':23 'poll':5 'primari':4 'rep':11 'time':41 'times-herald':40 'u.s':10 'voter':1 'washtenaw':27 'wayn':25 'west':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downriversundaytimes.com/2012/07/29/voters-head-to-primary-polls-aug-7-2/&amp;sa=U&amp;ei=EhAWUMsh86nQAZ3AAQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNEuB-Wk-tP7EU2Xtb-SQ1hvoAAcDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16946318</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Herald Newspapers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:03:07-04:00</created-at>
+          <title>Mitt Loves Government Largess, Except When He Doesn&amp;#39;t The Last ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>In 2000, with the opening ceremonies still more than a year away, Arizona Sen. John McCain called the Salt Lake price tag &#8220;a disgrace,&#8221; and partnered with Rep. John Dingell (D-Mich.) to demand a Government Accountability ...</excerpt>
+          <fti-names>'2000':13 'account':49 'arizona':24 'away':23 'call':28 'ceremoni':17 'd':43 'd-mich':42 'demand':46 'dingel':41 'disgrac':35 'doesn':8 'except':5 'govern':3,48 'john':26,40 'lake':31 'largess':4 'last':11 'love':2 'mccain':27 'mich':44 'mitt':1 'open':16 'partner':37 'price':32 'rep':39 'salt':30 'sen':25 'still':18 'tag':33 'wkirkland':50 'year':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thelastdogwatch.org/2012/07/27/mitt-loves-government-largess-except-when-he-doesnt/&amp;sa=U&amp;ei=5KcUUOHAMuLJ6wGr64CABQ&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNEijvRZn976Rp4GPKNCL5i4EHCB5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929367</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>wkirkland</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:03:06-04:00</created-at>
+          <title>Wp-Answers - PyaarDosti.com| Friends</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The said council is always that presided on the basis of U.S. Rep. John Dingell, D-Dearborn. The Ford Motor Co.and DaimlerChrysler AG&amp;#39;s Chrysler Group have also expressed their assent to learn more about participate in your hearing.</excerpt>
+          <fti-names>'ag':29 'also':34 'alway':10 'answer':3 'assent':37 'basi':15 'chrysler':31 'co.and':27 'council':8 'd':22 'd-dearborn':21 'daimlerchrysl':28 'dearborn':23 'dingel':20 'express':35 'ford':25 'friend':5 'group':32 'hear':45 'john':19 'learn':39 'motor':26 'nm2aqg4gf2t':46 'particip':42 'presid':12 'pyaardosti.com':4 'rep':18 'said':7 'u.s':17 'wp':2 'wp-answer':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pyaardosti.com/www-louisvuittonforfans-com-0top3kps-7qve-63taj&amp;sa=U&amp;ei=5KcUUOHAMuLJ6wGr64CABQ&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNG7xo4ZhepVsOqcW4UYyt8KuRAnHg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929366</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>nm2aqg4gf2t</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:03:06-04:00</created-at>
+          <title>Voters head to primary polls Aug. 7</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democrat: Incumbent U.S. Rep. John Dingell, Dearborn; Daniel Marcin, Ann Arbor. (The 12th District covers parts of Wayne and Washtenaw counties, and all of Monroe County. It includes west Dearborn, Dearborn Heights, ...</excerpt>
+          <fti-names>'12th':20 '7':7 'ann':17 'arbor':18 'aug':6 'counti':28,33 'cover':22 'daniel':15 'dearborn':14,37,38 'democrat':8 'dingel':13 'district':21 'head':2 'height':39 'herald':42 'includ':35 'incumb':9 'john':12 'marcin':16 'monro':32 'newspap':43 'part':23 'poll':5 'primari':4 'rep':11 'time':41 'times-herald':40 'u.s':10 'voter':1 'washtenaw':27 'wayn':25 'west':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downriversundaytimes.com/2012/07/28/voters-head-to-primary-polls-aug-7/&amp;sa=U&amp;ei=5KcUUOHAMuLJ6wGr64CABQ&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNFLt4LEC3dYrCQzIhxO6TVqyIoAdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929364</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Herald Newspapers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:03:05-04:00</created-at>
+          <title>WYANDOTTE: Solar Garden highlights city&amp;#39;s &amp;#39;green side,&amp;#39; generates ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That&amp;#39;s a big deal for the city, so big that officials decided to reveal the project at a recent ribbon-cutting ceremony attended by U.S. Rep. John Dingell (D-15th District), who praised the city for exploring the use of renewable ...</excerpt>
+          <fti-names>'15th':42 'attend':34 'big':13,19 'ceremoni':33 'citi':5,17,47 'cut':32 'd':41 'd-15th':40 'deal':14 'decid':22 'dingel':39 'district':43 'explor':49 'garden':3 'generat':9 'green':7 'highlight':4 'john':38 'offici':21 'prais':45 'project':26 'recent':29 'renew':53 'rep':37 'reveal':24 'ribbon':31 'ribbon-cut':30 'side':8 'solar':2 'thenewsherald.com':54 'u.s':36 'use':51 'wyandott':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thenewsherald.com/articles/2012/07/28/news/doc5009c6d0aa15d784544242.txt&amp;sa=U&amp;ei=5KcUUOHAMuLJ6wGr64CABQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNFjZw3fITTCo23S4wYsxO50SHYIdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929363</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thenewsherald.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:49:13-04:00</created-at>
+          <title>Jennifer Britt: Hopeful Signs, But keep the Pressure Up! | Wisconsin ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Gary Peters: (248) 273-4227. Congressman John Dingell: (313) 278-2936. For background information on the campaign to stop foreclosure evictions, go to peoplebeforebanks.org. For updates follow us on ...</excerpt>
+          <fti-names>'-2936':22 '-4227':16 '248':14 '273':15 '278':21 '313':20 'background':24 'britt':2 'campaign':28 'congressman':11,17 'dingel':19 'evict':32 'follow':38 'foreclosur':31 'gari':12 'go':33 'hope':3 'inform':25 'jennif':1 'john':18 'keep':6 'peoplebeforebanks.org':35 'peter':13 'pressur':8 'sign':4 'stop':30 'updat':37 'us':39 'wibailoutpeopl':41 'wisconsin':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wibailoutpeople.org/2012/07/27/jennifer-britt-hopeful-signs-but-keep-the-pressure-up/&amp;sa=U&amp;ei=J1MTUMmFOoes8QTKgYGIAg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEXwObDAYRuxtYbINhGjUTBjYbFVg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920833</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>wibailoutpeople</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400110</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:49:13-04:00</created-at>
+          <title>Want to understand the Supreme Court&amp;#39;s Obamacare decision? Talk ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He picked up the cause from his congressman father, John Dingell Sr., a close ally of FDR who sponsored the first universal health care bill in 1933 and died 12 years later. His pictures still adorn the walls of his son&amp;#39;s office.</excerpt>
+          <fti-names>'12':40 '1933':37 'admin':54 'adorn':46 'alli':25 'bill':35 'care':34 'caus':15 'close':24 'congressman':18 'court':6 'decis':9 'die':39 'dingel':21 'father':19 'fdr':27 'first':31 'health':33 'john':20 'later':42 'obamacar':8 'offic':53 'pick':12 'pictur':44 'son':51 'sponsor':29 'sr':22 'still':45 'suprem':5 'talk':10 'understand':3 'univers':32 'wall':48 'want':1 'year':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/mi-moc/john-dingell-michigan-representative/want-to-understand-the-supreme-courts-obamacare-decision-talk-to-john-mlive-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwant-to-understand-the-supreme-courts-obamacare-decision-talk-to-john-mlive-com&amp;sa=U&amp;ei=J1MTUMmFOoes8QTKgYGIAg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHYHE0eA439T3OOQlb_UATGPSCQNQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920829</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">41864</page-views-count>
+      <youtube-id>DingellMI15</youtube-id>
+      <unaccented-name>John Dingell</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float" nil="true"></party-votes-percentage>
+        <abstains-percentage type="float" nil="true"></abstains-percentage>
+        <votes-most-often-with-id type="integer" nil="true"></votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer" nil="true"></abstains>
+        <cosponsored-bills type="integer" nil="true"></cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer" nil="true"></sponsored-bills>
+        <votes-least-often-with-id type="integer" nil="true"></votes-least-often-with-id>
+        <person-id type="integer">403472</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer" nil="true"></same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer" nil="true"></sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer" nil="true"></cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer" nil="true"></opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position nil="true"></votes-republican-position>
+      <blog-article-count nil="true"></blog-article-count>
+      <fax nil="true"></fax>
+      <user-approval nil="true"></user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">0</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">0.0</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Dingell</lastname>
+      <congress-office nil="true"></congress-office>
+      <middlename>David</middlename>
+      <firstname>John</firstname>
+      <website nil="true"></website>
+      <birthday type="date">1894-02-02</birthday>
+      <person-id type="integer">403472</person-id>
+      <phone nil="true"></phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position nil="true"></votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array"/>
+      <bioguide-id>D000354</bioguide-id>
+      <metavid-id nil="true"></metavid-id>
+      <name>John Dingell</name>
+      <total-session-votes nil="true"></total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array"/>
+      <page-views-count type="integer">60</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>John Dingell</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

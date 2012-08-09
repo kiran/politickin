@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.8011695906433</party-votes-percentage>
+        <abstains-percentage type="float">0.523560209424084</abstains-percentage>
+        <votes-most-often-with-id type="integer">412473</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">9</abstains>
+        <cosponsored-bills type="integer">207</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">49</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412471</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1604</votes-republican-position>
+      <fax>202-225-3407</fax>
+      <blog-article-count type="integer">2335</blog-article-count>
+      <user-approval type="float">4.8</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">42</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.8011695906433</with-party-percentage>
+      <lastname>Scott</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1117 Longworth House Office Building</congress-office>
+      <firstname>Tim</firstname>
+      <bioguide-id>S001184</bioguide-id>
+      <website>http://timscott.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1965-09-19</birthday>
+      <person-id type="integer">412471</person-id>
+      <phone>202-225-3176</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">326</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:12:45-04:00</created-at>
+          <title>SC Freshmen to Support Stopgap Spending Bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and other congressional conservatives - including Republican Reps. Trey Gowdy of Spartanburg, Jeff Duncan of Laurens County and Tim Scott of North Charleston - don't want to add another volatile issue to the mix. They consider the $1.047-trillion stopga</excerpt>
+          <fti-names>'1.047':44 'add':34 'anoth':35 'bill':7 'charleston':29 'columbia':48 'congression':10 'conserv':11 'consid':42 'counti':23 'duncan':20 'freshmen':2 'gowdi':16 'includ':12 'issu':37 'jeff':19 'lauren':22 'mix':40 'north':28 'rep':14 'republican':13 'sc':1,49 'scott':26 'spartanburg':18 'spend':6 'stopga':46 'stopgap':5 'support':4 'tim':25 'trey':15 'trillion':45 'volatil':36 'want':32 'wltx':47</fti-names>
+          <source-url>http://www.wltx.com/</source-url>
+          <url>http://www.wltx.com/news/story.aspx?storyid=196399</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971829</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WLTX | Columbia, SC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:18:12-04:00</created-at>
+          <title>Chick-fil-A rallying point for conservative pols</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...a picture of a picture of Duncan sitting at his desk, which was covered with bags of food from the restaurant. South Carolina Rep. Tim Scott and the staff of the South Carolina Republican party similarly shared their Chick-fil-A meals online. Republican</excerpt>
+          <fti-names>'bag':25 'carolina':32,42 'chick':2,49 'chick-fil-a':1,48 'conserv':8 'cover':23 'desk':20 'duncan':16 'fil':3,50 'food':27 'meal':52 'onlin':53 'parti':44 'petersburgh':59 'pictur':11,14 'point':6 'pol':9 'ralli':5 'rep':33 'republican':43,54 'restaur':30 'scott':35 'share':46 'similar':45 'sit':17 'south':31,41 'st':58 'staff':38 'tim':34 'tv':57 'wtsp':56 'wtsp-tv':55</fti-names>
+          <source-url>http://wtsp.com/</source-url>
+          <url>http://feedproxy.google.com/~r/wtsp/national/~3/LvG2f6uGfQU/Chick-fil-A-rallying-point-for-conservative-pols</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970944</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WTSP-TV St. Petersburgh</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:49-04:00</created-at>
+          <title>Why Romney's Defeat Could Help the GOP</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Bobby Jindal (La.), Susana Martinez (N.M.), Nikki Haley (S.C.) and Brian Sandoval (Nev.), as well as South Carolina Rep. Tim Scott as non-white Republicans &#8212; Cruz, Rubio, Sandoval and Martinez are Hispanic, Jindal and Haley are Indian-American, and Sc</excerpt>
+          <fti-names>'american':48 'bobbi':9 'brian':19 'carolina':26 'chicago':52 'could':5 'cruz':35 'defeat':4 'gop':8 'haley':16,44 'help':6 'hispan':41 'indian':47 'indian-american':46 'jindal':10,42 'la':11 'martinez':13,39 'n.m':14 'nbc':51 'nev':21 'nikki':15 'non':32 'non-whit':31 'rep':27 'republican':34 'romney':2 'rubio':36 's.c':17 'sandov':20,37 'sc':50 'scott':29 'south':25 'susana':12 'tim':28 'well':23 'white':33</fti-names>
+          <source-url>http://www.nbcchicago.com/</source-url>
+          <url>http://feeds.nbcchicago.com/click.phdo?i=b79fe03843204c42ec29ef3e0054fc91</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969983</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBC Chicago</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:49-04:00</created-at>
+          <title>Gingrich backs Romney foreign trip, talks conventions</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...in prime time and show people what a diverse party we are.&quot; Included on Gingrich's list of fresh GOP faces were South Carolina Rep. Tim Scott, Florida Rep. Allen West and New Mexico Gov. Susana Martinez. &#8211; Check out the CNN Electoral Map and Calculato</excerpt>
+          <fti-names>'allen':37 'back':2 'calculato':52 'carolina':31 'check':45 'cnn':48,53 'convent':7 'divers':16 'elector':49 'face':28 'florida':35 'foreign':4 'fresh':26 'gingrich':1,22 'gop':27 'gov':42 'includ':20 'list':24 'map':50 'martinez':44 'mexico':41 'new':40 'parti':17 'peopl':13 'prime':9 'rep':32,36 'romney':3 'scott':34 'show':12 'south':30 'susana':43 'talk':6 'tim':33 'time':10 'trip':5 'west':38</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://politicalticker.blogs.cnn.com/2012/08/01/gingrich-backs-romney-foreign-trip-talks-conventions/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969982</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:49-04:00</created-at>
+          <title>Tea Party supporters help elect another &quot;hispanic&quot; in Texas primary</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...something media routinely overlook. Tea Party support was important for Cruz and Rubio&#8217;s victories, and also for Rep. Tim Scott (R-S.C.), Rep. Allen West (R-Fla.) and South Carolina Gov. Nikki Haley (R). All those named above are technically minoritie</excerpt>
+          <fti-names>'allen':37 'also':27 'anoth':6 'c':35 'carolina':44 'cruz':21 'elect':5 'fla':41 'gov':45 'haley':47 'help':4 'hispan':7 'import':19 'media':12 'minoriti':55 'name':51 'nikki':46 'overlook':14 'parti':2,16 'primari':10 'r':33,40,48 'r-fla':39 'r-s':32 'rep':29,36 'report':58 'routin':13 'rubio':23 'scott':31 'someth':11 'south':43 'support':3,17 'tea':1,15 'technic':54 'texa':9 'tim':30 'us':57 'victori':25 'west':38</fti-names>
+          <source-url>http://www.theusreport.com/</source-url>
+          <url>http://www.theusreport.com/the-us-report/2012/8/1/tea-party-supporters-help-elect-another-hispanic-in-texas-pr.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969981</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The US Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:14:15-04:00</created-at>
+          <title>Union Dues Are A Prohibitively Bad Investment</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Orrin Hatch (R-Ut.) and Rep. Tim Scott (R-S.C.). The ERA extends guarantees to union members in the private sector like paycheck protection and regular recertification elections. Paycheck protection measures would ensure that members have a say ...</excerpt>
+          <fti-names>'bad':6 'c':20 'due':2 'elect':38 'ensur':43 'era':22 'extend':23 'forb':49 'guarante':24 'hatch':9 'invest':7 'like':32 'measur':41 'member':27,45 'orrin':8 'paycheck':33,39 'privat':30 'prohibit':5 'protect':34,40 'r':11,18 'r-s':17 'r-ut':10 'recertif':37 'regular':36 'rep':14 'say':48 'scott':16 'sector':31 'tim':15 'union':1,26 'ut':12 'would':42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.forbes.com/sites/realspin/2012/07/31/union-dues-are-a-prohibitively-bad-investment/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:23:05-04:00</date>
+          <id type="integer">16967238</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:14:28-04:00</created-at>
+          <title>Union Dues Are A Prohibitively Bad Investment</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...solution has been put forth in the form of the Employee Rights Act (ERA), a bill cosponsored by Sen. Orrin Hatch (R-Ut.) and Rep. Tim Scott (R-S.C.). The ERA extends guarantees to union members in the private sector like paycheck protection and regular </excerpt>
+          <fti-names>'act':20 'bad':6 'bill':23 'c':39 'cosponsor':24 'due':2 'employe':18 'era':21,41 'extend':42 'forb':56 'form':15 'forth':12 'guarante':43 'hatch':28 'invest':7 'like':51 'member':46 'orrin':27 'paycheck':52 'privat':49 'prohibit':5 'protect':53 'put':11 'r':30,37 'r-s':36 'r-ut':29 'regular':55 'rep':33 'right':19 'scott':35 'sector':50 'sen':26 'solut':8 'tim':34 'union':1,45 'ut':31</fti-names>
+          <source-url>http://www.forbes.com/</source-url>
+          <url>http://www.forbes.com/sites/realspin/2012/07/31/union-dues-are-a-prohibitively-bad-investment/?utm_source=allactivity&amp;utm_medium=rss&amp;utm_campaign=20120731</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967239</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Forbes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:49-04:00</created-at>
+          <title>Graham: Nation starting to move to port vision</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...&quot;in a budget of $3 trillion, that's not a whole lot.&quot; &quot;If you fund them all 100 percent you would solve the issue,&quot; said U.S. Rep. Tim Scott, whose district in includes Charleston. &quot;If the projects are relevant to economic outcomes and they are importan</excerpt>
+          <fti-names>'100':26 '3':13 'aiken':55 'budget':11 'charleston':42 'district':39 'econom':49 'fund':23 'graham':1 'importan':54 'includ':41 'issu':32 'lot':20 'move':5 'nation':2 'outcom':50 'percent':27 'port':7 'project':45 'relev':47 'rep':35 'said':33 'scott':37 'solv':30 'standard':56 'start':3 'tim':36 'trillion':14 'u.s':34 'vision':8 'whole':19 'whose':38 'would':29</fti-names>
+          <source-url>http://www.aikenstandard.com/</source-url>
+          <url>http://feedproxy.google.com/~r/AllStoriesTheAikenStandard/~3/NXWC3odUoac/SC--Graham-Ports--1st-Ld-Wr2012-07-30T11-01-46</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961664</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Aiken Standard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:48:02-04:00</created-at>
+          <title>Scott's vets event an insult to veterans, says Rose</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a complete slap in the face to that historic event, this evening Rep. Tim Scott gave local World War II veterans a paper certificate, and after he voted for a budget that cut $11 billion from veterans' benefits. This apparent disrespect left ...</excerpt>
+          <fti-names>'11':45 'appar':51 'benefit':49 'billion':46 'budget':42 'certif':35 'complet':13 'cut':44 'disrespect':52 'even':23 'event':4,21 'examin':54 'face':17 'gave':27 'histor':20 'ii':31 'insult':6 'left':53 'local':28 'paper':34 'rep':24 'rose':10 'say':9 'scott':1,26 'slap':14 'tim':25 'vet':3 'veteran':8,32,48 'vote':39 'war':30 'world':29</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/scott-s-vets-event-an-insult-to-veterans-says-rose</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T22:51:06-04:00</date>
+          <id type="integer">16931096</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:48:01-04:00</created-at>
+          <title>Gen. George Patton's boots, symbolic at WWII event</title>
+          <contains-term>representative</contains-term>
+          <excerpt>About 300 veterans were reminded of that at a ceremony hosted by U.S. Representative South Carolina, Tim Scott. &#8220;If it weren&#8217;t for you there wouldn&#8217;t be a world left at all, all.&#8221; Scott said from the podium. Also speaking at the event at ...</excerpt>
+          <fti-names>'300':11 'also':49 'boot':5 'carolina':25 'ceremoni':19 'event':9,53 'gen':1 'georg':2 'host':20 'left':40 'patton':3 'podium':48 'remind':14 'repres':23 'said':45 'scott':27,44 'south':24 'speak':50 'symbol':6 'tim':26 'u.s':22 'veteran':12 'wcbd':55 'weren':30 'world':39 'wouldn':35 'wwii':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.counton2.com/news/2012/jul/28/gen-george-pattons-boots-symbolic-wwii-event-ar-4228144/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T19:02:02-04:00</date>
+          <id type="integer">16931094</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WCBD</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Tim Scott [R, SC-1]</name>
+      <total-session-votes type="integer">1710</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepTimScott</youtube-id>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:59:33-04:00</created-at>
+          <title>Don&amp;#39;t let Rep. Tim Scott pick your pocket! - blog*spot</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>One of the best ways to get the word out beyond the progressive base is to get letters in local newspapers. Can you write a letter to the editor of your local newspaper to help get the word out that Rep. Tim Scott is holding the ...</excerpt>
+          <fti-names>'base':25 'best':15 'beyond':22 'blog':10 'editor':40 'get':18,28,47 'help':46 'hold':56 'jami':58 'let':3 'letter':29,37 'local':31,43 'newspap':32,44 'one':12 'pick':7 'pocket':9 'progress':24 'rep':4,52 'sanderson':59 'scott':6,54 'spot':11 'tim':5,53 'way':16 'word':20,49 'write':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thepoliticsofjamiesanderson.blogspot.com/2012/07/dont-let-rep-tim-scott-pick-your-pocket.html&amp;sa=U&amp;ei=81oWUPfpF8jz0gHcsYHYCA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGGJ1J02BxfbmuImx05N89N4ie5VA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950168</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jamie Sanderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:59:30-04:00</created-at>
+          <title>Wounded Times: Rep. Tim Scott gave veterans a piece of paper and ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a complete slap in the face to that historic event, this evening Rep. Tim Scott gave local World War II veterans a paper certificate, and after he voted for a budget that cut $11 billion from veterans&amp;#39; benefits. This apparent ...</excerpt>
+          <fti-names>'11':47 'appar':53 'benefit':51 'billion':48 'budget':44 'certif':37 'complet':15 'costo':56 'cut':46 'even':25 'event':23 'face':19 'gave':6,29 'histor':22 'ii':33 'kathi':55 'local':30 'namguardianangel@aol.com':54 'paper':11,36 'piec':9 'rep':3,26 'scott':5,28 'slap':16 'tim':4,27 'time':2 'veteran':7,34,50 'vote':41 'war':32 'world':31 'wound':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://woundedtimes.blogspot.com/2012/07/rep-tim-scott-gave-veterans-piece-of.html&amp;sa=U&amp;ei=81oWUPfpF8jz0gHcsYHYCA&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNFNGLTWUBNIlgGWN2SgB8ZPoIi-xw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950163</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Namguardianangel@aol.com (Kathie Costos)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:59:16-04:00</created-at>
+          <title>US Rep. Tim Scott bags groceries, talks to voters | WCBD-TV 2</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MONCKS CORNER, S.C. - Congressman Tim Scott is set to spend some time bagging groceries at the Piggly Wiggly.</excerpt>
+          <fti-names>'2':13 'bag':5,26 'congressman':17 'corner':15 'groceri':6,27 'monck':14 'pigg':30 'rep':2 's.c':16 'scott':4,19 'set':21 'spend':23 'talk':7 'tim':3,18 'time':25 'tv':12 'us':1 'voter':9 'wcbd':11 'wcbd-tv':10 'wigg':31 'www2.counton2.com':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.counton2.com/news/2012/jul/27/us-rep-tim-scott-bags-groceries-talks-voters-ar-4218913/&amp;sa=U&amp;ei=81oWUPfpF8jz0gHcsYHYCA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFNC05Nw3BsdGeZt4PopU3harbPBQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16950160</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.counton2.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:47:55-04:00</created-at>
+          <title>80 years ago today, US veterans protested that they were given ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a complete slap in the face to that historic event, this evening Rep. Tim Scott gave local World War II veterans a paper certificate, and after he voted for a budget that cut $11 billion from veterans&amp;#39; benefits. This apparent ...</excerpt>
+          <fti-names>'11':46 '80':1 'ago':3 'appar':52 'benefit':50 'billion':47 'budget':43 'certif':36 'complet':14 'cut':45 'even':24 'event':22 'face':18 'gave':28 'given':11 'histor':21 'ii':32 'local':29 'paper':35 'protest':7 'regroc':53 'rep':25 'scott':27 'slap':15 'tim':26 'today':4 'us':5 'veteran':6,33,49 'vote':40 'war':31 'world':30 'year':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://current.com/community/93856532_80-years-ago-today-us-veterans-protested-that-they-were-given-certificates-instead-of-promised-benefits-today-rep-t-scott-gave-veterans-cheesy-certificates-after-voting-to-cut-vet-benefits.htm%3Fxid%3DRSSfeed&amp;sa=U&amp;ei=nuoUUMy5MI2s8ASmjoHQBQ&amp;ved=0CEkQmAEwCQ&amp;usg=AFQjCNFWnFYwEz_AhccasUSNsKYY-gd7_Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931090</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>regroce</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:47:47-04:00</created-at>
+          <title>Don&amp;#39;t let Rep. Tim Scott pick your pocket! - blog*spot</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>One of the best ways to get the word out beyond the progressive base is to get letters in local newspapers. Can you write a letter to the editor of your local newspaper to help get the word out that Rep. Tim Scott is holding the ...</excerpt>
+          <fti-names>'base':25 'best':15 'beyond':22 'blog':10 'editor':40 'get':18,28,47 'help':46 'hold':56 'jami':58 'let':3 'letter':29,37 'local':31,43 'newspap':32,44 'one':12 'pick':7 'pocket':9 'progress':24 'rep':4,52 'sanderson':59 'scott':6,54 'spot':11 'tim':5,53 'way':16 'word':20,49 'write':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thepoliticsofjamiesanderson.blogspot.com/2012/07/dont-let-rep-tim-scott-pick-your-pocket.html&amp;sa=U&amp;ei=nuoUUMy5MI2s8ASmjoHQBQ&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNF1R76GIac5ntOLK2AqDQ9PGkno5w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931083</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jamie Sanderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:47:44-04:00</created-at>
+          <title>US Rep. Tim Scott bags groceries, talks to voters | WCBD-TV 2</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MONCKS CORNER, S.C. - Congressman Tim Scott is set to spend some time bagging groceries at the Piggly Wiggly.</excerpt>
+          <fti-names>'2':13 'bag':5,26 'congressman':17 'corner':15 'groceri':6,27 'monck':14 'pigg':30 'rep':2 's.c':16 'scott':4,19 'set':21 'spend':23 'talk':7 'tim':3,18 'time':25 'tv':12 'us':1 'voter':9 'wcbd':11 'wcbd-tv':10 'wigg':31 'www2.counton2.com':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.counton2.com/news/2012/jul/27/us-rep-tim-scott-bags-groceries-talks-voters-ar-4218913/&amp;sa=U&amp;ei=nuoUUMy5MI2s8ASmjoHQBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFyKfQkIDXxUaN96PYG2HNf1XsQ1w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931082</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.counton2.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:31:12-04:00</created-at>
+          <title>Veronica case too daunting even for D.C. lawmakers | WCBD-TV 2</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A United States congressman is also not happy with the ruling&#8212;Although, U-S Representative, Tim Scott says there is little his office could do. &#8220;I met with the Veronica support group they came by my office in D.C. and we ...</excerpt>
+          <fti-names>'/list/local-news/':57 '2':12 'also':18 'although':24 'came':47 'case':2 'congressman':16 'could':37 'd.c':7,52 'daunt':4 'even':5 'group':45 'happi':20 'lawmak':8 'littl':34 'met':40 'offic':36,50 'repres':28 'rule':23 'say':31 'scott':30 'state':15 'support':44 'tim':29 'tv':11 'u':26 'u-':25 'unit':14 'veronica':1,43 'wcbd':10 'wcbd-tv':9 'www2.counton2.com':56 'www2.counton2.com/list/local-news':55</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.counton2.com/news/2012/jul/27/veronica-ar-4223012/&amp;sa=U&amp;ei=_lwTUMKnKIq08AT-vYCIBw&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNEaZLqC4_y9oi-UOqPBQFw_0aImZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923727</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.counton2.com/list/local-news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:31:11-04:00</created-at>
+          <title>US Rep. Tim Scott bags groceries, talks to voters | WCBD-TV 2</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MONCKS CORNER, S.C. - Congressman Tim Scott is set to spend some time bagging groceries at the Piggly Wiggly.</excerpt>
+          <fti-names>'2':13 'bag':5,26 'congressman':17 'corner':15 'groceri':6,27 'monck':14 'pigg':30 'rep':2 's.c':16 'scott':4,19 'set':21 'spend':23 'talk':7 'tim':3,18 'time':25 'tv':12 'us':1 'voter':9 'wcbd':11 'wcbd-tv':10 'wigg':31 'www2.counton2.com':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.counton2.com/news/2012/jul/27/us-rep-tim-scott-bags-groceries-talks-voters-ar-4218913/&amp;sa=U&amp;ei=_lwTUMKnKIq08AT-vYCIBw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNG_aqs8bN7RPBfZE5kRwI0yT4DVhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923718</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.counton2.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:33:14-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=jNYQUNjKLNS16AGZvIDICg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNGnL728kqK0R2zlmq4QWw_DROo4PA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860638</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412471</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:32:49-04:00</created-at>
+          <title>Florida Woman Charged With Sending Hoax Anthrax Letters To ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tim Scott (R-S.C.)&amp;lt;a href=&amp;quot;http://goosecreek.patch.com/articles/veep-speculation-greets-mcdonnell-in-s-c&amp;quot; target=&amp;quot;_hplink&amp;quot;&amp;gt; has already started referring &amp;lt;/a&amp;gt;to McDonnell as &amp;quot;Mr. Vice President.&amp;quot; &amp;lt;strong&amp;gt</excerpt>
+          <fti-names>'/a':28 '/articles/veep-speculation-greets-mcdonnell-in-s-c&amp;quot;':21 'alreadi':25 'anthrax':7 'c':16 'charg':3 'editor':41 'florida':1 'goosecreek.patch.com':20 'goosecreek.patch.com/articles/veep-speculation-greets-mcdonnell-in-s-c':19 'gt':36 'hoax':6 'hplink':23 'href':18 'huffington':38 'letter':8 'mcdonnel':30 'mr':32 'news':40 'post':39 'presid':34 'r':14 'r-s':13 'refer':27 'rep':10 'scott':12 'send':5 'start':26 'strong':35 'target':22 'tim':11 'vice':33 'woman':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/24/hoax-anthrax-letters-florida_n_1700265.html&amp;sa=U&amp;ei=BpMPUPqMDvO80AGFu4GYDw&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNH38IiXN4Ge5ZgvNzoKdu2eYQ0TsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852835</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5049</page-views-count>
+      <unaccented-name>Tim Scott</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

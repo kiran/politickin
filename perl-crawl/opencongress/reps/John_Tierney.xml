@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.9484721390054</party-votes-percentage>
+        <abstains-percentage type="float">2.9086678301338</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">226</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">274</cosponsored-bills-passed-rank>
+        <abstains type="integer">50</abstains>
+        <cosponsored-bills type="integer">220</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">113</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">412471</votes-least-often-with-id>
+        <person-id type="integer">400407</person-id>
+        <cosponsored-bills-rank type="integer">303</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">392</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">317</votes-republican-position>
+      <blog-article-count type="integer">7847</blog-article-count>
+      <fax>202-225-5915</fax>
+      <user-approval type="float">3.25</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">119</oc-users-tracking>
+      <contact-webform>http://www.house.gov/tierney/IMA/email.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.9484721390054</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Tierney</lastname>
+      <congress-office>2238 Rayburn House Office Building</congress-office>
+      <middlename>F.</middlename>
+      <firstname>John</firstname>
+      <website>http://tierney.house.gov/</website>
+      <birthday type="date">1951-09-18</birthday>
+      <person-id type="integer">400407</person-id>
+      <phone>202-225-8020</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1568</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:58:00-04:00</created-at>
+          <title>What&#8217;s Really At Stake In The 6th District</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In the race for Congress in the 6th district, voters have a clear choice between incumbent Democratic Rep. John Tierney, of Salem, and former Republican state Sen. Richard Tisei, of Wakefield. Tisei has gotten the press to focus on fundraising and his ow</excerpt>
+          <fti-names>'6th':8,17 '90.9':54 'choic':23 'clear':22 'congress':14 'democrat':26 'district':9,18 'fm':55 'focus':47 'former':33 'fundrais':49 'gotten':43 'incumb':25 'john':28 'ow':52 'press':45 'race':12 'realli':3 'rep':27 'republican':34 'richard':37 'salem':31 'sen':36 'stake':5 'state':35 'tierney':29 'tisei':38,41 'voter':19 'wakefield':40 'wbur':53</fti-names>
+          <source-url>http://www.wbur.org/</source-url>
+          <url>http://feeds.wbur.org/~r/wbur_news/boston/~3/hRTO9xNMnP4/6th-district-issues</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973608</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBUR | 90.9 FM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:57:59-04:00</created-at>
+          <title>Experts: Libertarian's run likely a boon for Tierney</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A Libertarian software architect mounting a long-shot third-party campaign against U.S. Rep. John Tierney and Republican challenger Richard Tisei will only benefit the Salem Democratic congressman, analysts say, with Tierney still reeling after his wife </excerpt>
+          <fti-names>'analyst':40 'architect':13 'benefit':35 'boon':7 'boston':49 'campaign':22 'challeng':30 'congressman':39 'democrat':38 'expert':1 'herald':50 'john':26 'libertarian':2,11 'like':5 'long':17 'long-shot':16 'mount':14 'parti':21 'reel':45 'rep':25 'republican':29 'richard':31 'run':4 'salem':37 'say':41 'shot':18 'softwar':12 'still':44 'third':20 'third-parti':19 'tierney':9,27,43 'tisei':32 'u.s':24 'wife':48</fti-names>
+          <source-url>http://www.bostonherald.com/</source-url>
+          <url>http://feedproxy.google.com/~r/bostonherald/~3/1BWEKOsRNwQ/view.bg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973607</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:06:40-04:00</created-at>
+          <title>Parade wraps up week's events</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...and several firefighters also showed their colors. Several local and area politicians including Mayor Donna Holaday, U.S. Rep. John Tierney and City Councilor Thomas Jones were seen waving to the crowd. This year&#8217;s edition of the parade contained noti</excerpt>
+          <fti-names>'also':10 'area':17 'citi':28 'color':13 'contain':45 'councilor':29 'crowd':37 'donna':21 'edit':41 'event':6 'firefight':9 'holaday':22 'includ':19 'john':25 'jone':31 'local':15 'mayor':20 'newburyportnews.com':47 'noti':46 'parad':1,44 'politician':18 'rep':24 'seen':33 'sever':8,14 'show':11 'thoma':30 'tierney':26 'u.s':23 'wave':34 'week':4 'wrap':2 'year':39</fti-names>
+          <source-url>http://www.newburyportnews.com/</source-url>
+          <url>http://www.newburyportnews.com/local/x2068760577/Parade-wraps-up-weeks-events</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973010</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewburyportNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:06:39-04:00</created-at>
+          <title>Rep. John Tierney Could Spoil The Democratic Barrel In Mass.</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...open-government groups said this week that the House Committee on Ethics should investigate whether U.S. Representative John F. Tierney was required to publicly disclose more than $200,000 that his wife received while managing a bank account with money </excerpt>
+          <fti-names>'000':40 '200':39 '90.9':53 'account':49 'bank':48 'barrel':8 'committe':21 'could':4 'democrat':7 'disclos':36 'ethic':23 'f':30 'fm':54 'govern':13 'group':14 'hous':20 'investig':25 'john':2,29 'manag':46 'mass':10 'money':51 'open':12 'open-govern':11 'public':35 'receiv':44 'rep':1 'repres':28 'requir':33 'said':15 'spoil':5 'tierney':3,31 'u.s':27 'wbur':52 'week':17 'whether':26 'wife':43</fti-names>
+          <source-url>http://www.wbur.org/</source-url>
+          <url>http://feeds.wbur.org/~r/wbur_news/boston/~3/6lDLhpUpGjQ/john-tierney</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973009</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBUR | 90.9 FM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:07:08-04:00</created-at>
+          <title>Delegation urges aid for Mass. fishermen</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...reduce &#8220;confidence&#8221; in the estimates. Kerry&#8217;s appeal for relief was joined by U.S. Sen. Scott Brown and U.S. Reps. Barney Frank, John Tierney and William Keating. Rep. Ed Markey called for federal assistance but did not question the assessment. In</excerpt>
+          <fti-names>'aid':3 'appeal':14 'assess':46 'assist':40 'barney':27 'boston':48 'brown':23 'call':37 'confid':8 'deleg':1 'ed':35 'estim':11 'feder':39 'fishermen':6 'frank':28 'herald':49 'john':29 'join':18 'keat':33 'kerri':12 'markey':36 'mass':5 'question':44 'reduc':7 'relief':16 'rep':26,34 'scott':22 'sen':21 'tierney':30 'u.s':20,25 'urg':2 'william':32</fti-names>
+          <source-url>http://www.bostonherald.com/</source-url>
+          <url>http://feedproxy.google.com/~r/bostonherald/news/~3/EYhOVKGLh1Q/view.bg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972278</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:07:06-04:00</created-at>
+          <title>Rep. John Tierney can keep running, but voters must weigh scandal</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...F. Tierney spoke with reporters outside of the John Joseph&#8230; (Essdras M Suarez/The Boston&#8230;) The scandal surrounding Representative John Tierney doesn&#8217;t implicate his responsibilities in public office and, barring fresh disclosures, shouldn&#8217;t obli</excerpt>
+          <fti-names>'bar':41 'boston':25 'boston.com':47 'disclosur':43 'doesn':32 'essdra':22 'f':12 'fresh':42 'implic':34 'john':2,20,30 'joseph':21 'keep':5 'm':23 'must':9 'obli':46 'offic':39 'outsid':17 'public':38 'rep':1 'report':16 'repres':29 'respons':36 'run':6 'scandal':11,27 'shouldn':44 'spoke':14 'suarez/the':24 'surround':28 'tierney':3,13,31 'voter':8 'weigh':10</fti-names>
+          <source-url>http://www.boston.com/</source-url>
+          <url>http://feeds.boston.com/click.phdo?i=a560617a25a28fd843518e63b1c3b950</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972277</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:00:59-04:00</created-at>
+          <title>Massachusetts Congressmen push NOAA Fisheries Service to re-evaluate yellowtail assessment</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...in 2013, according to Maggie Mooney-Seus, spokeswoman for the NOAA Fisheries Service. Frank joined Reps. William Keating and John Tierney in signing a letter Tuesday to Samuel D. Rauch III, acting assistant administrator for fisheries at the Fisheries S</excerpt>
+          <fti-names>'2013':14 'accord':15 'act':45 'administr':47 'assess':12 'assist':46 'congressmen':2 'd':42 'evalu':10 'fisheri':5,25,49,52 'frank':27 'iii':44 'john':33 'join':28 'keat':31 'letter':38 'maggi':17 'massachusett':1 'mooney':19 'mooney-seus':18 'noaa':4,24 'push':3 'rauch':43 're':9 're-evalu':8 'rep':29 'samuel':41 'servic':6,26 'seus':20 'sign':36 'southcoasttoday.com':54 'spokeswoman':21 'tierney':34 'tuesday':39 'william':30 'yellowtail':11</fti-names>
+          <source-url>http://www.southcoasttoday.com/</source-url>
+          <url>http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20120801/NEWS/208010495/-1/rss14</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970017</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SouthCoastToday.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:19:28-04:00</created-at>
+          <title>Taliban happy Pakistan reopened NATO supply line</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. John Tierney, the Democrat from Massachusetts who led the Warlord, Inc. report, said the new contract has resulted in some increased contractor oversight and accountability, but &quot;the Department of Defense must take more aggressive steps to ...</excerpt>
+          <fti-names>'account':33 'aggress':42 'associ':45 'contract':24 'contractor':30 'defens':38 'democrat':12 'depart':36 'happi':2 'inc':19 'increas':29 'john':9 'led':16 'line':7 'massachusett':14 'must':39 'nato':5 'new':23 'oversight':31 'pakistan':3 'press':46 'reopen':4 'rep':8 'report':20 'result':26 'said':21 'step':43 'suppli':6 'take':40 'taliban':1 'tierney':10 'warlord':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://hosted2.ap.org/OHCAN/CREPnewswire/Article_2012-07-31-Afghan-NATO-Taliban%20Joy/id-14d23c055439410c9b4c38f66c8325bd</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T02:16:19-04:00</date>
+          <id type="integer">16967334</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:36:01-04:00</created-at>
+          <title>Gay Republican Runs For Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...told Tisei. &#8220;There&#8217;s a few of us around. Not many, but a few of us around.&#8221;Tisei faces eight-term incumbent Democrat Rep. John Tierney, who narrowly trailed Tisei in a May poll that Tierney claimed was skewed towards Republican voters. Tisei came </excerpt>
+          <fti-names>'around':14,22 'came':50 'claim':43 'congress':5 'democrat':29 'eight':26 'eight-term':25 'face':24 'gay':1 'god':53 'incumb':28 'joe':51 'john':31 'mani':16 'may':39 'narrowli':34 'poll':40 'rep':30 'republican':2,47 'run':3 'skew':45 'term':27 'tierney':32,42 'tisei':7,23,36,49 'told':6 'toward':46 'trail':35 'us':13,21 'voter':48</fti-names>
+          <source-url>http://www.joemygod.blogspot.com/</source-url>
+          <url>http://joemygod.blogspot.com/2012/07/gay-republican-runs-for-congress.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961764</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Joe. My. God.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:44:52-04:00</created-at>
+          <title>Tierney scrambles to save career</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...by a gambling ring scandal that landed his wife and brother-in-law in prison, Democratic Rep. John Tierney is scrambling for his political life. And he&#8217;s finding lots of support from top House Democrats, including Minority Leader Nancy Pelosi of Calif</excerpt>
+          <fti-names>'brother':17 'brother-in-law':16 'calif':49 'career':5 'democrat':22,42 'find':35 'gambl':8 'hous':41 'includ':43 'john':24 'land':12 'law':19 'leader':45 'life':31 'lot':36 'minor':44 'nanci':46 'pelosi':47 'polit':30 'politico':51 'prison':21 'rep':23 'ring':9 'save':4 'scandal':10 'scrambl':2,27 'support':38 'tierney':1,25 'top':40 'wife':14</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0712/79097.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16950694</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>John_F._Tierney</metavid-id>
+      <name>Rep. John Tierney [D, MA-6]</name>
+      <total-session-votes type="integer">1669</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:39:37-04:00</created-at>
+          <title>Bleeding Heartland:: Iowa Congressional 1Q fundraising news ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Ryan&amp;#39;s home town is in IA-01, and he ran GOP Representative Jim Nussle&amp;#39;s campaigns in this district before Nussle ran for governor and Braley won the open seat in 2006. ... with Heath Shuler, $1000 from the DUTCH PAC affiliated with Dutch   Ruppers</excerpt>
+          <fti-names>'-01':15 '1000':44 '1q':5 '2006':40 'affili':49 'bleed':1 'braley':34 'campaign':24 'congression':4 'desmoinesdem':53 'district':27 'dutch':47,51 'fundrais':6 'gop':19 'governor':32 'heartland':2 'heath':42 'home':10 'ia':14 'iowa':3 'jim':21 'news':7 'nussl':22,29 'open':37 'pac':48 'ran':18,30 'repres':20 'rupper':52 'ryan':8 'seat':38 'shuler':43 'town':11 'won':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bleedingheartland.com/diary/5448/iowa-congressional-1q-fundraising-news-roundup&amp;sa=U&amp;ei=-OWMT4HuGsmA2wWWzdCEDA&amp;ved=0CEUQmAEwBw&amp;usg=AFQjCNHB58s-hunLSv-DQmb3QRI7bLIMgQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14525795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>desmoinesdem</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:10:08-04:00</created-at>
+          <title>Bleeding Heartland:: Iowa Congressional 1Q fundraising news ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Ryan&amp;#39;s home town is in IA-01, and he ran GOP Representative Jim Nussle&amp;#39;s campaigns in this district before Nussle ran for governor and Braley won the open seat in 2006. ... with Heath Shuler, $1000 from the DUTCH PAC affiliated with Dutch   Ruppers</excerpt>
+          <fti-names>'-01':15 '1000':44 '1q':5 '2006':40 'affili':49 'bleed':1 'braley':34 'campaign':24 'congression':4 'desmoinesdem':53 'district':27 'dutch':47,51 'fundrais':6 'gop':19 'governor':32 'heartland':2 'heath':42 'home':10 'ia':14 'iowa':3 'jim':21 'news':7 'nussl':22,29 'open':37 'pac':48 'ran':18,30 'repres':20 'rupper':52 'ryan':8 'seat':38 'shuler':43 'town':11 'won':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bleedingheartland.com/diary/5448/iowa-congressional-1q-fundraising-news-roundup&amp;sa=U&amp;ei=bVKMT8q-N4eh2QWEuKTiCQ&amp;ved=0CEEQmAEwBg&amp;usg=AFQjCNFgzt2Zw1HWuu7SGQBfbvkPu5lp9Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14506059</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>desmoinesdem</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:25:19-04:00</created-at>
+          <title>Richard Tisei Outraises John Tierney for Second Straight Quarter ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. By Joshua Miller, Roll Call Posted at 5:17 p.m. on April 13. Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'13':32 '17':28 '5':27 'announc':39 'april':31 'call':24 'd':37 'd-mass':36 'figur':45 'first':42 'first-quart':41 'fundrais':44 'john':4,14,34 'joshua':21 'mass':38 'massachusett':10 'miller':22 'outrais':3,13 'p.m':29 'post':25 'quarter':9,19,43 'rep':33 'richard':1,11 'roll':23 'second':7,17 'straight':8,18 'teamtisei':47 'tierney':5,15,35 'tisei':2,12 'today':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tiseiforcongress.com/news/richard-tisei-outraises-john-tierney-for-second-straight-quarter/1582/&amp;sa=U&amp;ei=f6eNT7nRFOGL8AH-mOCSBw&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNH37UF5CPQI4YDtYC1P64mycP1goQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14544493</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>teamtisei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:39:36-04:00</created-at>
+          <title>Richard Tisei Outraises John Tierney for Second Straight Quarter ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. By Joshua Miller, Roll Call Posted at 5:17 p.m. on April 13. Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'13':32 '17':28 '5':27 'announc':39 'april':31 'call':24 'd':37 'd-mass':36 'figur':45 'first':42 'first-quart':41 'fundrais':44 'john':4,14,34 'joshua':21 'mass':38 'massachusett':10 'miller':22 'outrais':3,13 'p.m':29 'post':25 'quarter':9,19,43 'rep':33 'richard':1,11 'roll':23 'second':7,17 'straight':8,18 'teamtisei':47 'tierney':5,15,35 'tisei':2,12 'today':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tiseiforcongress.com/news/richard-tisei-outraises-john-tierney-for-second-straight-quarter/1582/&amp;sa=U&amp;ei=-OWMT4HuGsmA2wWWzdCEDA&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNEbgftkVPPDvWwhbgFfHB_3vLWTBg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14525790</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>teamtisei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:10:06-04:00</created-at>
+          <title>Richard Tisei Outraises John Tierney for Second Straight Quarter ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. By Joshua Miller, Roll Call Posted at 5:17 p.m. on April 13. Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'13':32 '17':28 '5':27 'announc':39 'april':31 'call':24 'd':37 'd-mass':36 'figur':45 'first':42 'first-quart':41 'fundrais':44 'john':4,14,34 'joshua':21 'mass':38 'massachusett':10 'miller':22 'outrais':3,13 'p.m':29 'post':25 'quarter':9,19,43 'rep':33 'richard':1,11 'roll':23 'second':7,17 'straight':8,18 'teamtisei':47 'tierney':5,15,35 'tisei':2,12 'today':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tiseiforcongress.com/news/richard-tisei-outraises-john-tierney-for-second-straight-quarter/1582/&amp;sa=U&amp;ei=bVKMT8q-N4eh2QWEuKTiCQ&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNHZ5U-T17p5CNp3SyYheh8_y716xA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14506051</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>teamtisei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-15T23:48:08-04:00</created-at>
+          <title>Rep. Allen West Says There Are Communists in Congress; Is He ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>John Tierney,. Nydia Velazquez,. Maxine Waters,. Mel Watt,. Henry Waxman,. Peter Welch,. Frederica Wilson,. Lynn Woolsey. The following individuals were members of the Congressional Progressive Caucus at various ...</excerpt>
+          <fti-names>'allen':2 'caucus':37 'communist':7 'congress':9 'congression':35 'follow':29 'frederica':24 'henri':20 'individu':30 'jenni':40 'john':12 'jone':41 'lynn':26 'maxin':16 'mel':18 'member':32 'nydia':14 'peter':22 'progress':36 'rep':1 'say':4 'tierney':13 'various':39 'velazquez':15 'water':17 'watt':19 'waxman':21 'welch':23 'west':3 'wilson':25 'woolsey':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://patriotupdate.com/21393/rep-allen-west-says-there-are-communists-in-congress-is-he-right&amp;sa=U&amp;ei=d5aLT_W2NuWq2QWPrsTHCQ&amp;ved=0CDkQmAEwBA&amp;usg=AFQjCNHmHtacUrZpxO-djBUx8hwuuu8yRg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14488867</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jennie Jones</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-15T23:48:08-04:00</created-at>
+          <title>Richard Tisei Outraises John Tierney for Second Straight Quarter ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. By Joshua Miller, Roll Call Posted at 5:17 p.m. on April 13. Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'13':32 '17':28 '5':27 'announc':39 'april':31 'call':24 'd':37 'd-mass':36 'figur':45 'first':42 'first-quart':41 'fundrais':44 'john':4,14,34 'joshua':21 'mass':38 'massachusett':10 'miller':22 'outrais':3,13 'p.m':29 'post':25 'quarter':9,19,43 'rep':33 'richard':1,11 'roll':23 'second':7,17 'straight':8,18 'teamtisei':47 'tierney':5,15,35 'tisei':2,12 'today':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tiseiforcongress.com/news/richard-tisei-outraises-john-tierney-for-second-straight-quarter/1582/&amp;sa=U&amp;ei=d5aLT_W2NuWq2QWPrsTHCQ&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNH1GVvAj8uTYADjbLOMSo9VGzAjQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14488865</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>teamtisei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-15T12:50:03-04:00</created-at>
+          <title>Richard Tisei Outraises John Tierney for Second Straight Quarter ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. By Joshua Miller, Roll Call Posted at 5:17 p.m. on April 13. Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'13':32 '17':28 '5':27 'announc':39 'april':31 'call':24 'd':37 'd-mass':36 'figur':45 'first':42 'first-quart':41 'fundrais':44 'john':4,14,34 'joshua':21 'mass':38 'massachusett':10 'miller':22 'outrais':3,13 'p.m':29 'post':25 'quarter':9,19,43 'rep':33 'richard':1,11 'roll':23 'second':7,17 'straight':8,18 'teamtisei':47 'tierney':5,15,35 'tisei':2,12 'today':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tiseiforcongress.com/news/richard-tisei-outraises-john-tierney-for-second-straight-quarter/1582/&amp;sa=U&amp;ei=O_yKT7v3AsnO2wWDg7HrCQ&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNFFuZ8pZIRnKuiFk02i6YnkH0LZfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14467823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>teamtisei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:25:19-04:00</created-at>
+          <title>Massachusetts: Richard Tisei Outraises John Tierney for Second ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Massachusetts: Richard Tisei Outraises John Tierney for Second Straight Quarter. (Bill Clark/CQ Roll Call File Photo). UPDATED 5:50 p.m. | Rep. John Tierney (D-Mass.) announced his first-quarter fundraising figures today.</excerpt>
+          <fti-names>'5':26 '50':27 'announc':35 'bill':19 'call':22 'clark/cq':20 'd':33 'd-mass':32 'figur':41 'file':23 'first':38 'first-quart':37 'fundrais':40 'john':5,13,30 'joshua':44 'joshuamiller@rollcall.com':43 'mass':34 'massachusett':1,9 'miller':45 'outrais':4,12 'p.m':28 'photo':24 'quarter':18,39 'rep':29 'richard':2,10 'roll':21 'second':8,16 'straight':17 'tierney':6,14,31 'tisei':3,11 'today':42 'updat':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/massachusetts_tisei_outraises_tierney_for_second_straight_quarter-213768-1.html&amp;sa=U&amp;ei=f6eNT7nRFOGL8AH-mOCSBw&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNG_KSZuNev21tohvGUupF30l806kA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14544492</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JoshuaMiller@rollcall.com (Joshua Miller)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400407</commentariable-id>
+          <created-at type="datetime">2012-04-15T12:50:04-04:00</created-at>
+          <title>Weekly &amp;#39;On the Hill&amp;#39; Update &#171; Wider Opportunities for Women Blog</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>A Democratic alternative, H.R. 4227, was introduced by Reps. John Tierney (D, MA), Ruben Hinojosa (D, TX) and George Miller (D, CA) and requires states to describe in their state plans their vision and goals for developing ...</excerpt>
+          <fti-names>'4227':15 'altern':13 'blog':10 'ca':32 'd':22,26,31 'democrat':12 'describ':37 'develop':47 'georg':29 'goal':45 'h.r':14 'hill':4 'hinojosa':25 'introduc':17 'john':20 'ma':23 'malakyusuf':48 'miller':30 'opportun':7 'plan':41 'rep':19 'requir':34 'ruben':24 'state':35,40 'tierney':21 'tx':27 'updat':5 'vision':43 'week':1 'wider':6 'women':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wow-blog.org/2012/04/13/weekly-on-the-hill-update-8/&amp;sa=U&amp;ei=O_yKT7v3AsnO2wWDg7HrCQ&amp;ved=0CFMQmAEwCg&amp;usg=AFQjCNFxanMQhFXJEp5Or-KdGTR3lIjy6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14467830</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>malakyusuf</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>T000266</bioguide-id>
+      <page-views-count type="integer">19173</page-views-count>
+      <youtube-id>CongressmanTierney</youtube-id>
+      <unaccented-name>John Tierney</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.9262536873156</party-votes-percentage>
+        <abstains-percentage type="float">1.39616055846422</abstains-percentage>
+        <votes-most-often-with-id type="integer">412405</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">24</abstains>
+        <cosponsored-bills type="integer">161</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">400436</votes-least-often-with-id>
+        <person-id type="integer">412406</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1609</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">2073</blog-article-count>
+      <user-approval type="float">6.08333333333333</user-approval>
+      <url nil="true"></url>
+      <middlename nil="true"></middlename>
+      <oc-users-tracking type="integer">49</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.9262536873156</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Gardner</lastname>
+      <congress-office>213 Cannon House Office Building</congress-office>
+      <firstname>Cory</firstname>
+      <website>http://gardner.house.gov/</website>
+      <metavid-id nil="true"></metavid-id>
+      <birthday type="date">1974-08-22</birthday>
+      <person-id type="integer">412406</person-id>
+      <phone>202-225-4676</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>G000562</bioguide-id>
+      <votes-democratic-position type="integer">377</votes-democratic-position>
+      <youtube-id nil="true"></youtube-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:41:00-04:00</created-at>
+          <title>Romney veep shortlisters Portman, Pawlenty to blitz Colorado, Michigan</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Colo., at 8:30 a.m. Mountain Time on Wednesday, according to the Romney campaign. He will be joined by freshman Rep. Cory Gardner (R-Colo.), former congressman Bob Beauprez (R-Colo.) and Colorado Republican Party Chairman Ryan Call. Portman, Call and Be</excerpt>
+          <fti-names>'30':13 '8':12 'a.m':14 'accord':19 'beauprez':39 'blitz':7 'bob':38 'call':49,51 'campaign':23 'chairman':47 'colo':10,35,42 'colorado':8,44 'congressman':37 'cori':31 'former':36 'freshman':29 'gardner':32 'join':27 'michigan':9 'mountain':15 'parti':46 'pawlenti':5 'portman':4,50 'post':56 'r':34,41 'r-colo':33,40 'rep':30 'republican':45 'romney':1,22 'ryan':48 'shortlist':3 'time':16 'veep':2 'washington':55 'wednesday':18</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=d3ab06de98cd66993afce050a2e68620</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973396</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:59-04:00</created-at>
+          <title>Romney veep shortlisters Portman, Pawlenty to blitz Colorado, Michigan</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Colo., at 8:30 a.m. Mountain Time on Wednesday, according to the Romney campaign. He will be joined by freshman Rep. Cory Gardner (R-Colo.), former congressman Bob Beauprez (R-Colo.) and Colorado Republican Party Chairman Ryan Call. Portman, Call and Be</excerpt>
+          <fti-names>'30':13 '8':12 'a.m':14 'accord':19 'beauprez':39 'blitz':7 'bob':38 'call':49,51 'campaign':23 'chairman':47 'colo':10,35,42 'colorado':8,44 'congressman':37 'cori':31 'former':36 'freshman':29 'gardner':32 'join':27 'michigan':9 'mountain':15 'parti':46 'pawlenti':5 'portman':4,50 'post':56 'r':34,41 'r-colo':33,40 'rep':30 'republican':45 'romney':1,22 'ryan':48 'shortlist':3 'time':16 'veep':2 'washington':55 'wednesday':18</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=d7381d69aa11e07c9b1d0e5f76294438</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973395</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:57-04:00</created-at>
+          <title>No word yet from Coffman and Tipton, say personhood supporters</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...and women are a key voters in Colorado elections. Personhood supporters have yet to hear from Rep. Mike Coffman and Rep. Cory Gardner about whether they will endorse their amendment this year, as they did in 2010, Personhood USA legal analyst Gualberto </excerpt>
+          <fti-names>'2010':47 'amend':40 'analyst':51 'coffman':5,29 'colorado':18 'coloradopols.com':53 'cori':32 'elect':19 'endors':38 'gardner':33 'gualberto':52 'hear':25 'key':15 'legal':50 'mike':28 'personhood':9,20,48 'rep':27,31 'say':8 'support':10,21 'tipton':7 'usa':49 'voter':16 'whether':35 'women':12 'word':2 'year':42 'yet':3,23</fti-names>
+          <source-url>http://coloradopols.com/</source-url>
+          <url>http://www.coloradopols.com/diary/18256/no-word-yet-from-coffman-and-tipton-say-personhood-supporters</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16972808</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ColoradoPols.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:58-04:00</created-at>
+          <title>Romney&#8217;s surrogates&#8217; position on wind tax credit at odds with his own</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the Romney campaign held a &#8220;Strengthening our Middle Class&#8221; event at the Rio Grande Company that featured Colorado Congressman Cory Gardner, R-Yuma, and Sen. John Thune, R-South Dakota, whose name had been mentioned as a potential running mate. &#8220;I</excerpt>
+          <fti-names>'campaign':16 'class':22 'colorado':31 'compani':28 'congressman':32 'cori':33 'credit':8 'dakota':45 'event':23 'featur':30 'gardner':34 'grand':27 'held':17 'john':40 'kdvr.com':57 'mate':55 'mention':50 'middl':21 'name':47 'odd':10 'posit':4 'potenti':53 'r':36,43 'r-south':42 'r-yuma':35 'rio':26 'romney':1,15 'run':54 'sen':39 'south':44 'strengthen':19 'surrog':3 'tax':7 'thune':41 'whose':46 'wind':6 'yuma':37</fti-names>
+          <source-url>http://kdvr.com/</source-url>
+          <url>http://kdvr.com/2012/08/06/117675/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972809</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KDVR.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:45:57-04:00</created-at>
+          <title>Ruth A. Remple: Vote for Brandon Schaffer</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Cory Gardner has once again voted to extend the Bush tax cuts for the wealthiest 2 percent of Americans. He supports budget cuts to balance the budget by cutting programs like Social Security and Medicare, while giving the Koch brothers a break on their</excerpt>
+          <fti-names>'2':23 'american':26 'balanc':32 'brandon':6 'break':49 'brother':47 'budget':29,34 'bush':17 'camera':53 'cori':8 'cut':19,30,36 'daili':52 'extend':15 'gardner':9 'give':44 'koch':46 'like':38 'medicar':42 'percent':24 'program':37 'rempl':3 'ruth':1 'schaffer':7 'secur':40 'social':39 'support':28 'tax':18 'vote':4,13 'wealthiest':22</fti-names>
+          <source-url>http://www.dailycamera.com/</source-url>
+          <url>http://www.dailycamera.com/letters/ci_21247272/ruth-remple-vote-brandon-schaffer?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972807</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Camera</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:31:29-04:00</created-at>
+          <title>Legislation would expand tax benefits of college savings</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...become more flexible under legislation introduced in Congress on Thursday by two Colorado lawmakers. Colorado&#194;s U.S. Reps. Cory Gardner, R-Yuma, and Jared Polis, D-Boulder, teamed with U.S. Rep. Ron Paul, R-Texas, and others to introduce the Making Col</excerpt>
+          <fti-names>'becom':9 'benefit':5 'boulder':36 'col':52 'colleg':7 'colorado':21 'coloradoan':54 'colorado&#226;':23 'congress':16 'cori':26 'd':35 'd-boulder':34 'expand':3 'flexibl':11 'gardner':27 'introduc':14,49 'jare':32 'lawmak':22 'legisl':1,13 'make':51 'other':47 'paul':42 'poli':33 'r':29,44 'r-texa':43 'r-yuma':28 'rep':25,40 'ron':41 'save':8 'tax':4 'team':37 'texa':45 'thursday':18 'two':20 'u.s':24,39 'would':2 'yuma':30</fti-names>
+          <source-url>http://www.coloradoan.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.coloradoan.com/article/20120802/NEWS01/308020043/-1/rss04</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970632</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Coloradoan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:31:27-04:00</created-at>
+          <title>House GOP slams administration for limiting federal drilling</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the Interior Department&#8217;s Bureau of Land Management, agreed. &#8220;Most of the large plays are on private and state lands.&#8221; But Rep. Cory Gardner (R-Colo.) said there is nothing geologically unique to federal lands as compared to private areas. He cont</excerpt>
+          <fti-names>'administr':4 'agre':17 'area':49 'bureau':13 'colo':35 'compar':46 'cont':51 'cori':31 'depart':11 'drill':8 'feder':7,43 'gardner':32 'geolog':40 'gop':2 'hill':53 'hous':1 'interior':10 'land':15,28,44 'larg':21 'limit':6 'manag':16 'noth':39 'play':22 'privat':25,48 'r':34 'r-colo':33 'rep':30 'said':36 'slam':3 'state':27 'uniqu':41</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/241819-house-gop-pushes-administration-for-more-federal-drilling</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970631</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:39:03-04:00</created-at>
+          <title>Colorado Republicans Break With Romney on Wind Power Credit</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the Denver paper this afternoon. Circling back with three GOP members of Congress, Reps. Scott Tipton, Mike Coffman, and Cory Gardner, who had expressed support for extension of the wind power tax credit considered key to the preservation of hundreds of</excerpt>
+          <fti-names>'afternoon':14 'back':16 'break':3 'circl':15 'coffman':27 'colorado':1 'coloradopols.com':51 'congress':22 'consid':43 'cori':29 'credit':9,42 'denver':11 'express':33 'extens':36 'gardner':30 'gop':19 'hundr':49 'key':44 'member':20 'mike':26 'paper':12 'power':8,40 'preserv':47 'rep':23 'republican':2 'romney':5 'scott':24 'support':34 'tax':41 'three':18 'tipton':25 'wind':7,39</fti-names>
+          <source-url>http://coloradopols.com/</source-url>
+          <url>http://www.coloradopols.com/diary/18233/colorado-republicans-break-with-romney-on-wind-power-credit</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969668</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ColoradoPols.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:34-04:00</created-at>
+          <title>House pulls extension of exisiting farm bill from agenda</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The House was expected to take a vote on the extension today , but, according to U.S. Rep. Cory Gardner, R-Colo., leaders decided instead to remain focused on passing a new five-year piece of legislation before the existing farm bill expires on Sept.</excerpt>
+          <fti-names>'accord':23 'agenda':9 'bill':7,52 'colo':31 'cori':27 'decid':33 'exisit':5 'exist':50 'expect':13 'expir':53 'extens':3,20 'farm':6,51 'five':43 'five-year':42 'focus':37 'gardner':28 'hous':1,11 'instead':34 'leader':32 'legisl':47 'new':41 'pass':39 'piec':45 'pull':2 'r':30 'r-colo':29 'remain':36 'rep':26 'sept':55 'take':15 'today':21 'tribun':57 'u.s':25 'vote':17 'year':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.greeleytribune.com/news/1686621-113/farm-bill-extension-gardner</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T20:02:54-04:00</date>
+          <id type="integer">16966474</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:43:37-04:00</created-at>
+          <title>Romney Shafts Colorado GOP Delegation (And Colorado)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...His head in the sand stance is even more baffling given this is a jobs issue.&quot; ...Of Colorado's Republicans in Congress, Reps. Cory Gardner, Scott Tipton and Mike Coffman all support extending the wind PTC; Rep. Doug Lamborn, R-Colorado Springs, is the </excerpt>
+          <fti-names>'baffl':17 'coffman':37 'colorado':3,7,25,49 'coloradopols.com':53 'congress':29 'cori':31 'deleg':5 'doug':45 'even':15 'extend':40 'gardner':32 'given':18 'gop':4 'head':9 'issu':23 'job':22 'lamborn':46 'mike':36 'ptc':43 'r':48 'r-colorado':47 'rep':30,44 'republican':27 'romney':1 'sand':12 'scott':33 'shaft':2 'spring':50 'stanc':13 'support':39 'tipton':34 'wind':42</fti-names>
+          <source-url>http://coloradopols.com/</source-url>
+          <url>http://www.coloradopols.com/diary/18219/romney-shafts-colorado-gop-delegation-and-colorado</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966476</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ColoradoPols.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Cory Gardner [R, CO-4]</name>
+      <total-session-votes type="integer">1695</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax nil="true"></fax>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:35-04:00</created-at>
+          <title>Tea Party Freshman Tax Theft Roll of Shame | ShortFormContent at ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Chip Cravaack (R-MN): $25580.84. Rep. Sean Duffy (R-WI): $24525.00. Rep. Bill Flores (R-TX): $10997.45. Rep. Cory Gardner (R-CO): $20978.07. Rep. Bill Johnson (R-OH): $4889.76. Rep. Mike Pompeo (R-KS): ...</excerpt>
+          <fti-names>'10997.45':31 '20978.07':38 '24525.00':24 '25580.84':17 '4889.76':45 'bill':26,40 'c':53 'chip':12 'co':37 'cori':33 'cravaack':13 'duffi':20 'flore':27 'freshman':3 'gardner':34 'johnson':41 'ks':51 'mike':47 'mn':16 'oh':44 'parti':2 'pompeo':48 'r':15,22,29,36,43,50 'r-co':35 'r-ks':49 'r-mn':14 'r-oh':42 'r-tx':28 'r-wi':21 'rep':11,18,25,32,39,46 'roll':6 'rose':54 'sean':19 'shame':8 'shortformcont':9 'stephen':52 'tax':4 'tea':1 'theft':5 'tx':30 'wi':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://shortformcontent.blogspot.com/2012/07/tea-party-freshman-tax-theft-roll-of.html&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNEubqiN4TMfIyELdhBj-TfwjESzLA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677244</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stephen C. Rose</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:34-04:00</created-at>
+          <title>the yellow fringe: the magnificent seven teabaggers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Chip Cravaack (R-MN): $25580.84; Rep. Sean Duffy (R-WI): $24525.00; Rep. Bill Flores (R-TX): $10997.45; Rep. Cory Gardner (R-CO): $20978.07; Rep. Bill Johnson (R-OH): $4889.76; Rep. Mike Pompeo (R-KS): $8848.00 ...</excerpt>
+          <fti-names>'10997.45':27 '20978.07':34 '24525.00':20 '25580.84':13 '4889.76':41 '8848.00':48 'bill':22,36 'chip':8 'co':33 'cori':29 'cravaack':9 'duffi':16 'flore':23 'fring':3,51 'gardner':30 'johnson':37 'ks':47 'magnific':5 'mike':43 'mn':12 'oh':40 'pompeo':44 'r':11,18,25,32,39,46 'r-co':31 'r-ks':45 'r-mn':10 'r-oh':38 'r-tx':24 'r-wi':17 'rep':14,21,28,35,42 'sean':15 'seven':6 'teabagg':7 'tx':26 'wi':19 'yellow':2,50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yellowfringe.blogspot.com/2012/07/magnificent-seven-teabaggers.html&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNGoZ4mZTU6Ub-FXfZbeNRFEZIjvyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677243</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>the yellow fringe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:33-04:00</created-at>
+          <title>&amp;quot;Joker Presents:&amp;quot;: 7 Tea Party Freshmen Spent Over $100/K In ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>ThinkProgress examined spending records for the 112th Congress and found seven GOP freshmen &#8212; Reps. Chip Cravaack (R-MN), Sean Duffy (R-WI), Bill Flores (R-TX), Cory Gardner (R-CO), Bill Johnson (R-OH), Mike ...</excerpt>
+          <fti-names>'100/k':9 '112th':17 '7':3 'bill':35,45 'chip':25 'co':44 'congress':18 'cori':40 'cravaack':26 'duffi':31 'examin':12 'flore':36 'found':20 'freshmen':6,23 'gardner':41 'gop':22 'johnson':46 'joker':1 'jokerpres':51 'mike':50 'mn':29 'oh':49 'parti':5 'present':2 'r':28,33,38,43,48 'r-co':42 'r-mn':27 'r-oh':47 'r-tx':37 'r-wi':32 'record':14 'rep':24 'sean':30 'seven':21 'spend':13 'spent':7 'tea':4 'thinkprogress':11 'twitter':52 'tx':39 'wi':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jokerpresents.blogspot.com/2012/07/7-tea-party-freshmen-spent-over-100k-in.html&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNGtFWGqeMkAkEfqff-H7HFb1OvBVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677240</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>@JokerPresents (Twitter)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:33-04:00</created-at>
+          <title>Five House Republican Freshmen to Watch | Congress.org &#8211; Get ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Cory Gardner (Colo.): &#8220;Gardner got an early score when halfway through his first session, leaders held a successful vote on his bill to roll back Clean Air Act regulations. Another measure, to spur oil and gas production, ...</excerpt>
+          <fti-names>'act':37 'air':36 'anoth':39 'back':34 'beckwith':49 'bill':31 'clean':35 'colo':12 'congress.org':7 'cori':10 'earli':16 'first':22 'five':1 'freshmen':4 'gardner':11,13 'gas':45 'get':8 'got':14 'halfway':19 'held':25 'hous':2 'leader':24 'measur':40 'oil':43 'product':46 'regul':38 'rep':9 'republican':3 'roll':33 'ryan':47 'score':17 'session':23 'spur':42 'success':27 'teagu':48 'vote':28 'watch':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.congress.org/news/five-house-republican-freshmen-to-watch/&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFPHJaFkynlGUcnvYtgkO0L8WajdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677239</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ryan Teague Beckwith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:32-04:00</created-at>
+          <title>Motor City Liberal: Seven Tea Party Freshmen Spent More Than ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>ThinkProgress examined spending records for the 112th Congress and found seven GOP freshmen &#8212; Reps. Chip Cravaack (R-MN), Sean Duffy (R-WI), Bill Flores (R-TX), Cory Gardner (R-CO), Bill Johnson (R-OH), Mike ...</excerpt>
+          <fti-names>'112th':17 'bill':35,45 'c':52 'chip':25 'citi':2 'co':44 'congress':18 'cori':40 'cravaack':26 'duffi':31 'examin':12 'flore':36 'found':20 'freshmen':7,23 'gardner':41 'gop':22 'johnni':51 'johnson':46 'liber':3 'mike':50 'mn':29 'motor':1 'oh':49 'parti':6 'r':28,33,38,43,48 'r-co':42 'r-mn':27 'r-oh':47 'r-tx':37 'r-wi':32 'record':14 'rep':24 'sean':30 'seven':4,21 'spend':13 'spent':8 'tea':5 'thinkprogress':11 'tx':39 'wi':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://motorcityliberal.blogspot.com/2012/07/seven-tea-party-freshmen-spent-more.html&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNE5w6fM9xhDEAUG5r1avGDQErdoZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677238</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Johnny C</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:29-04:00</created-at>
+          <title>Colorado&amp;#39;s Cory Gardner stands out in Washington</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Colorado&amp;#39;s Cory Gardner stands out in Washington : The Denver Post&amp;#39;s political and editorial writers give a daily dish of Colorado political news, analysis and commentary on local, state and national issues. ... U.S. Rep. Cory Gardner along with   </excerpt>
+          <fti-names>'along':46 'analysi':33 'blogs.denverpost.com':48 'colorado':1,9,30 'commentari':35 'cori':3,11,44 'daili':27 'denver':18 'dish':28 'editori':23 'gardner':4,12,45 'give':25 'issu':41 'local':37 'nation':40 'news':32 'polit':21,31 'post':19 'rep':43 'stand':5,13 'state':38 'u.s':42 'washington':8,16 'writer':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.denverpost.com/thespot/2012/07/16/cory-gardner-news/76644/&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFC27OHMYqfKXlj8tpSbI6Vq1TfhA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677236</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://blogs.denverpost.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:34-04:00</created-at>
+          <title>Colorado Speaker Frank McNulty and US Rep. Cory Gardner call for ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Colorado Speaker Frank McNulty and US Rep. Cory Gardner call for coordinated forest management plan. July 6th, 2012 | Add a Comment. 11mcnulty DENVER&#8212;Congressman Cory Gardner, R-Yuma, sent a letter to U.S. Secretary of ...</excerpt>
+          <fti-names>'11mcnulty':33 '2012':29 '6th':28 'add':30 'call':10,21 'chg0p':48 'colorado':1,12 'comment':32 'congressman':35 'coordin':23 'cori':8,19,36 'denver':34 'forest':24 'frank':3,14 'gardner':9,20,37 'juli':27 'letter':43 'manag':25 'mcnulti':4,15 'plan':26 'r':39 'r-yuma':38 'rep':7,18 'secretari':46 'sent':41 'speaker':2,13 'u.s':45 'us':6,17 'yuma':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://coloradohousegop.com/2012/07/colorado-speaker-frank-mcnulty-and-us-rep-cory-gardner-call-for-coordinated-forest-management-plan/&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEaDRWPqtt1ygHzhtg3vLfpuLge8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16677242</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CHg0p</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:36-04:00</created-at>
+          <title>KSIR News: US Rep Cory Gardner Vows Republicans Will Continue ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Rep Cory Gardner Vows Republicans Will Continue Fight Against Obamacare. Congressman Cory Gardner is sounding off against the US Supreme Court&amp;#39;s decision Thursday to uphold the individual mandate of President ...</excerpt>
+          <fti-names>'congressman':22 'continu':10,18 'cori':5,13,23 'court':32 'decis':34 'fight':19 'gardner':6,14,24 'individu':39 'ksir':1 'mandat':40 'news':2 'newsroom':43 'obamacar':21 'presid':42 'rep':4,12 'republican':8,16 'sound':26 'suprem':31 'thursday':35 'uphold':37 'us':3,11,30 'vow':7,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.ksir.com/2012/06/us-rep-cory-gardner-vows-republicans.html&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNFLgA066oLE1FWPqleukNiatD14QQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16677246</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Newsroom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:19:35-04:00</created-at>
+          <title>House Approves Gardner Energy Bill Despite Obama Opposition ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Cory Gardner (R-Yuma) cast the Strategic Energy Production Act of 2012 (H.R. 4480) as a common-sense effort to produce more oil and gas at home rather than abroad. &#8220;These bipartisan pieces of legislation make sure ...</excerpt>
+          <fti-names>'2012':22 '4480':24 'abroad':41 'act':20 'approv':2 'bill':5 'bipartisan':43 'cast':15 'common':28 'common-sens':27 'cori':10 'despit':6 'effort':30 'energi':4,18 'gardner':3,11 'gas':36 'h.r':23 'home':38 'hous':1 'legisl':46 'make':47 'mark':49 'obama':7 'oil':34 'opposit':8 'piec':44 'produc':32 'product':19 'r':13 'r-yuma':12 'rather':39 'rep':9 'sens':29 'strateg':17 'stricherz':50 'sure':48 'yuma':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecoloradoobserver.com/2012/06/house-approves-gardner-energy-bill-despite-obama-opposition/&amp;sa=U&amp;ei=wdkEUPbJB8TW2gX06djFBQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNE5OXn1e41bC8ujCoKAwqAk7adTOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-24T01:00:00-04:00</date>
+          <id type="integer">16677245</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Stricherz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412406</commentariable-id>
+          <created-at type="datetime">2012-06-06T22:48:18-04:00</created-at>
+          <title>Beltway Blog -- Polis measure to cut oil shale research funding ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Scott Tipton, R-Cortez, talks about domestic energy production Wednesday at the U.S. Capitol. On stage with him are Republican Reps. Cory Gardner, to the right, and Mike Coffman and Doug Lamborn at the end on the ...</excerpt>
+          <fti-names>'allison':50 'beltway':1 'blog':2 'capitol':26 'coffman':41 'cori':34 'cortez':16 'cut':6 'domest':19 'doug':43 'end':47 'energi':20 'fund':10 'gardner':35 'lamborn':44 'measur':4 'mike':40 'oil':7 'poli':3 'product':21 'r':15 'r-cortez':14 'rep':11,33 'republican':32 'research':9 'right':38 'scott':12 'shale':8 'sherri':51 'stage':28 'talk':17 'tipton':13 'u.s':25 'wednesday':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.denverpost.com/thespot/2012/06/06/beltway-blog-polis-measure-cut-oil-shale-research-funding-passes-colorado-gop-push-domestic-energy-agenda/72851/&amp;sa=U&amp;ei=cRbQT_W8Aqbs2QW-yaC8DA&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNFJN1zWi4LwIGpsWd69emdBwZ8P-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">15680960</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Allison Sherry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6078</page-views-count>
+      <unaccented-name>Cory Gardner</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

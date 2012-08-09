@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-04T08:01:33-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.3497536945813</party-votes-percentage>
+        <abstains-percentage type="float">5.52646887725422</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">215</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">76</cosponsored-bills-passed-rank>
+        <abstains type="integer">95</abstains>
+        <cosponsored-bills type="integer">309</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">189</party-votes-percentage-rank>
+        <sponsored-bills type="integer">33</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400289</person-id>
+        <cosponsored-bills-rank type="integer">86</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-10-09T23:48:40-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">89</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">310</votes-republican-position>
+      <fax>202-225-6923</fax>
+      <blog-article-count type="integer">6258</blog-article-count>
+      <user-approval type="float">3.74074074074074</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">148</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/nadler/emailform.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.3497536945813</with-party-percentage>
+      <lastname>Nadler</lastname>
+      <middlename>L.</middlename>
+      <congress-office>2334 Rayburn House Office Building</congress-office>
+      <firstname>Jerrold</firstname>
+      <website>http://nadler.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1947-06-13</birthday>
+      <bioguide-id>N000002</bioguide-id>
+      <person-id type="integer">400289</person-id>
+      <phone>202-225-5635</phone>
+      <religion>Jewish</religion>
+      <votes-democratic-position type="integer">1516</votes-democratic-position>
+      <metavid-id>Jerrold_Nadler</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:50:13-04:00</created-at>
+          <title>Congress Blocks Successive Efforts to Reduce Government Secrecy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...public reporting on these topics, offered by Rep. Bobby Scott (D-VA), was defeated 10-19. Another amendment introduced by Rep. Jerrold Nadler (D-NY) would have required publication of unclassified summaries of decisions of the Foreign Intelligence Surve</excerpt>
+          <fti-names>'-19':25 '10':24 'amend':27 'anoth':26 'antiwar.com':50 'block':2 'bobbi':17 'congress':1 'd':20,34 'd-ni':33 'd-va':19 'decis':44 'defeat':23 'effort':4 'foreign':47 'govern':7 'intellig':48 'introduc':28 'jerrold':31 'nadler':32 'ny':35 'offer':14 'public':9,39 'reduc':6 'rep':16,30 'report':10 'requir':38 'scott':18 'secreci':8 'success':3 'summari':42 'surv':49 'topic':13 'unclassifi':41 'va':21 'would':36</fti-names>
+          <source-url>http://www.antiwar.com/</source-url>
+          <url>http://feedproxy.google.com/~r/AWCBlog/~3/3Uw1dXX7MtY/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973517</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AntiWar.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:50:12-04:00</created-at>
+          <title>Holograms for the TSA, Mobile Device Management for the DOD, and More</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Agency has issued a draft request for proposal for mobile device management and a mobile applications store. More here. Rep. Jerrold Nadler and Rep. John Conyers Jr. proposed amendments to the Electronic Communications Privacy Act that would require the</excerpt>
+          <fti-names>'act':47 'agenc':13 'amend':41 'applic':28 'communic':45 'conyer':38 'devic':6,23 'dod':10 'draft':17 'electron':44 'govloop':52 'hologram':1 'issu':15 'jerrold':33 'john':37 'jr':39 'manag':7,24 'mobil':5,22,27 'nadler':34 'privaci':46 'propos':20,40 'rep':32,36 'request':18 'requir':50 'store':29 'tsa':4 'would':49</fti-names>
+          <source-url>http://www.govloop.com/</source-url>
+          <url>http://www.govloop.com/xn/detail/1154385:BlogPost:2297933</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973516</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GovLoop</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:58:41-04:00</created-at>
+          <title>Romney: Don't shoot the God-fearing</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Romney's defense, he isn't alone in presuming the Wisconsin shootings hold particular resonance for the religious community. Rep. Jerrold Nadler, D-N.Y., also put out a statement that would strike most non-religious people as a tad insensitive: &quot;People </excerpt>
+          <fti-names>'alon':15 'also':35 'angel':54 'communiti':27 'd':32 'd-n':31 'defens':11 'fear':8 'god':7 'god-fear':6 'hold':21 'insensit':51 'isn':13 'jerrold':29 'los':53 'n':33 'nadler':30 'non':45 'non-religi':44 'particular':22 'peopl':47,52 'presum':17 'put':36 'religi':26,46 'rep':28 'reson':23 'romney':1,9 'shoot':4,20 'statement':39 'strike':42 'tad':50 'time':55 'wisconsin':19 'would':41 'y':34</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/OpinionLa/~3/1f2wCLhnWmo/la-ol-romney-wisconsin-shootings-20120806,0,5748784.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972924</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:58:41-04:00</created-at>
+          <title>Proposed Privacy Law Demands Court Warrants for Cloud Data</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...technology is evolving at an exponential rate and, as such, requires corresponding updates to our privacy laws,&#8221; said Rep. Jerrold Nadler (D-New York), who is sponsoring the package with Rep. John Conyers Jr. (D-Michigan). &#8220;This new legislation will</excerpt>
+          <fti-names>'cloud':8 'conyer':43 'correspond':21 'court':5 'd':32,46 'd-michigan':45 'd-new':31 'data':9 'demand':4 'evolv':12 'exponenti':15 'jerrold':29 'john':42 'jr':44 'law':3,26 'legisl':50 'michigan':47 'nadler':30 'new':33,49 'packag':39 'privaci':2,25 'propos':1 'rate':16 'rep':28,41 'requir':20 'said':27 'sponsor':37 'technolog':10 'updat':22 'warrant':6 'wire':52 'york':34</fti-names>
+          <source-url>http://www.wired.com/</source-url>
+          <url>http://feeds.wired.com/~r/wired/index/~3/GqG65uRGJBU/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972923</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wired</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:02-04:00</created-at>
+          <title>Canadians behind U.S. bill to help Jews expelled from Arab countries</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Cotler said. &#8220;They themselves really took the ball and ran with it.&#8221; Among three Democrats sponsoring the bill, Rep. Jerrold Nadler of New York said it was &#8220;simply wrong to recognize the rights of Palestinian refugees without recognizing the right</excerpt>
+          <fti-names>'among':24 'arab':10 'ball':19 'behind':2 'bill':4,29 'canadian':1 'cotler':12 'countri':11 'democrat':26 'expel':8 'help':6 'jerrold':31 'jew':7 'nadler':32 'new':34 'palestinian':46 'ran':21 'realli':16 'recogn':42,49 'refuge':47 'rep':30 'right':44,51 'said':13,36 'simpli':39 'sponsor':27 'star':54 'three':25 'took':17 'u.s':3 'windsor':53 'without':48 'wrong':40 'york':35</fti-names>
+          <source-url>http://www.windsorstar.com/</source-url>
+          <url>http://www.windsorstar.com/news/canada/Canadians+behind+bill+help+Jews+expelled+from+Arab+countries/7036205/story.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971774</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Windsor Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:00-04:00</created-at>
+          <title>House Committee Approves Aerial Surveillance Bill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...District of Columbia. Democrats on the Committee felt the bill would obstruct EPA&#8217;s ability to perform its duties. Rep. Jerrold Nadler (D-NY) said, &#8220;The only purpose of this bill is to make EPA enforcement of the Clean Water Act more difficult and m</excerpt>
+          <fti-names>'abil':21 'act':48 'aerial':4 'aero-news.net':53 'approv':3 'bill':6,16,38 'clean':46 'columbia':9 'committe':2,13 'd':30 'd-ni':29 'democrat':10 'difficult':50 'district':7 'duti':25 'enforc':43 'epa':19,42 'felt':14 'hous':1 'jerrold':27 'm':52 'make':41 'nadler':28 'ny':31 'obstruct':18 'perform':23 'purpos':35 'rep':26 'said':32 'surveil':5 'water':47 'would':17</fti-names>
+          <source-url>http://www.aero-news.net/</source-url>
+          <url>http://www.aero-news.net/index.cfm?do=main.textpost&amp;id=54d5a536-fc7a-496a-8bbb-5137404de539</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971773</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Aero-News.net</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:10:44-04:00</created-at>
+          <title>Controversy Ahead Of House Hearing On GOP's 'English Only' Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...someone who came here from the Soviet Union that they shouldn&#8217;t vote because they have poor English language skills?&#8221; Rep. Jerrold Nadler (D-NY) said in a statement . &#8220;I really don&#8217;t think this country gains, and in fact I believe we are harmed,</excerpt>
+          <fti-names>'ahead':2 'believ':54 'bill':11 'came':14 'controversi':1 'countri':48 'd':36 'd-ni':35 'english':9,29 'fact':52 'gain':49 'gop':7 'harm':57 'hear':5 'hous':4 'jerrold':33 'languag':30 'memo':60 'nadler':34 'ny':37 'point':59 'poor':28 'realli':43 'rep':32 'said':38 'shouldn':22 'skill':31 'someon':12 'soviet':18 'statement':41 'talk':58 'think':46 'union':19 'vote':24</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://feedproxy.google.com/~r/TPMmuckraker/~3/0OJAXUxCwHw/steve_king_english_only_proenglish.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970828</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:10:44-04:00</created-at>
+          <title>Steve King: Idea That Diversity Strengthens America Has 'Never Been Backed Up By Logic'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the 24.5 million people in the United States who need language assistance from their government in some situations,&quot; said Rep. Jerrold Nadler (D-N.Y.). Rep. John Conyers (D-Mich.) gave his opening remarks entirely in Spanish -- with imperfect pronunciat</excerpt>
+          <fti-names>'24.5':16 'america':7 'assist':26 'back':11 'conyer':43 'd':38,45 'd-mich':44 'd-n':37 'divers':5 'entir':51 'gave':47 'govern':29 'huffington':58 'idea':3 'imperfect':55 'jerrold':35 'john':42 'king':2 'languag':25 'logic':14 'mich':46 'million':17 'n':39 'nadler':36 'need':24 'never':9 'open':49 'peopl':18 'post':59 'pronunciat':56 'remark':50 'rep':34,41 'said':33 'situat':32 'spanish':53 'state':22 'steve':1 'strengthen':6 'unit':21 'y':40</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/02/steve-king-diversity_n_1734431.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970827</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:10:43-04:00</created-at>
+          <title>English-Only Debated, Again</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...educational programs is a &#8220;far less restrictive&#8221; means of encouraging immigrants to learn English than passing laws, said Rep. Jerrold Nadler, D-N.Y., ranking member of the House Judiciary Subcommittee on the Constitution. Some committee members won</excerpt>
+          <fti-names>'committe':42 'constitut':40 'd':28 'd-n':27 'debat':4 'educ':6 'encourag':15 'english':2,19 'english-on':1 'far':10 'hous':35 'immigr':16 'jerrold':25 'journal':46 'judiciari':36 'law':22 'learn':18 'less':11 'mean':13 'member':32,43 'n':29 'nadler':26 'nation':45 'pass':21 'program':7 'rank':31 'rep':24 'restrict':12 'said':23 'subcommitte':37 'won':44 'y':30</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://www.nationaljournal.com/thenextamerica/politics/english-only-debated-again-20120802</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970826</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:10:43-04:00</created-at>
+          <title>U.S. House can&#8217;t muster votes to pass Franks bill limiting abortions in Washington</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...pediatrician step in to block the procedure. &#8220;This bill does not even have an exception to protect a woman&#8217;s health&#8221; said Rep. Jerrold Nadler, D-N.Y. But Rep. Chris Smith, R-N.J., said the most common type of abortion after 20 weeks &#8220;includes di</excerpt>
+          <fti-names>'20':60 'abort':12,58 'az':64 'bill':10,23 'block':19 'capitol':65 'chris':46 'common':55 'd':41 'd-n':40 'di':63 'even':26 'except':29 'frank':9 'health':35 'hous':2 'includ':62 'j':51 'jerrold':38 'limit':11 'muster':5 'n':42,50 'nadler':39 'pass':8 'pediatrician':15 'procedur':21 'protect':31 'r':49 'r-n':48 'rep':37,45 'said':36,52 'smith':47 'step':16 'time':66 'type':56 'u.s':1 'vote':6 'washington':14 'week':61 'woman':33 'y':43</fti-names>
+          <source-url>http://azcapitoltimes.com/</source-url>
+          <url>http://azcapitoltimes.com/news/2012/08/02/u-s-house-cant-muster-votes-to-pass-trent-franks-bill-limiting-abortions-in-washington/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970825</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AZ Capitol Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jerrold Nadler [D, NY-8]</name>
+      <total-session-votes type="integer">1624</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>CongressmanNadler</youtube-id>
+      <district>8</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:16-04:00</created-at>
+          <title>On The Go &#8211; July 19, 2012 | Travel One Inc.</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dem Lawmaker Files Bill to Require Airlines to Seat Families Together (Source: The Hill) New York Rep. Jerrold Nadler (D-N.Y.) is introducing legislation that would require airlines to assign seats together to passengers who ...</excerpt>
+          <fti-names>'19':5 '2012':6 'airlin':16,39 'assign':41 'bill':13 'd':30 'd-n':29 'dem':10 'famili':19 'file':12 'go':3 'hill':23 'inc':9 'introduc':34 'jerrold':27 'juli':4 'lawmak':11 'legisl':35 'n':31 'nadler':28 'new':24 'one':8 'passeng':45 'rep':26 'requir':15,38 'seat':18,42 'sourc':21 'steven':47 'togeth':20,43 'travel':7 'would':37 'y':32 'york':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://traveloneinc.com/on-the-go/on-the-go-july-19-2012-2/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Don-the-go-july-19-2012-2&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CDUQmAEwBg&amp;usg=AFQjCNGL4kU0P9e_HJcVnNdHdh_7MWlc0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750292</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>SteveN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:07-04:00</created-at>
+          <title>Committee approves Franks bill to limit abortions in Washington ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;The Constitution requires that any restriction on access to abortion provide an exception to protect the life or health of a woman,&#8221; said Rep. Jerrold Nadler, D-N.Y. The bill does allow an abortion if &#8220;substantial and irreversible ...</excerpt>
+          <fti-names>'abort':7,19,45 'access':17 'allow':43 'approv':2 'bill':4,41 'committe':1 'constitut':11 'crane':51 'd':37 'd-n':36 'except':22 'frank':3 'health':28 'irrevers':49 'jerrold':34 'life':26 'limit':6 'n':38 'nadler':35 'protect':24 'provid':20 'rep':33 'requir':12 'restrict':15 'said':32 'steve':50 'substanti':47 'washington':9 'woman':31 'y':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cronkitenewsonline.com/2012/07/committee-approves-franks-bill-to-limit-abortions-in-washington/&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNG7GCHRwIgAabHdVwI_-NXWTliKbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750286</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Crane</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:18-04:00</created-at>
+          <title>Antonin Scalia Says He&amp;#39;s Not Feuding With John Roberts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... there remains a respect for the rule of law, for precedent, and for the ability of Congress to legislate on matters that affect the American people,&amp;quot; Rep. Jerrold Nadler (D-N.Y.) said in a statement. &amp;quot;By not caving in to the most ...</excerpt>
+          <fti-names>'abil':25 'affect':33 'american':35 'antonin':1 'cave':50 'congress':27 'd':41 'd-n':40 'editor':59 'feud':7 'huffington':56 'jerrold':38 'john':9 'law':19 'legisl':29 'matter':31 'n':42 'nadler':39 'news':58 'peopl':36 'post':57 'preced':21 'remain':12 'rep':37 'respect':14 'robert':10 'rule':17 'said':44 'say':3 'scalia':2 'statement':47 'y':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/18/antonin-scalia-john-roberts_n_1684886.html&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNFHXtexHZmKf3KqcjgwKyEKQiZOBw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16750294</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:12-04:00</created-at>
+          <title>Make an Historical Call Today</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steve Chabot (R-OH-1) 202-225-2216 (pledged support of the PRA) Rep. John Conyers (D-MI-14) 202-225-5126. Rep. Jerrold Nadler (D-NY-8) 202-225-5635. Rep. Mike Pence (R-IN-6) 202-225-3021 (cosponsored ...</excerpt>
+          <fti-names>'-2216':15 '-225':14,29,39,49 '-3021':50 '-5126':30 '-5635':40 '1':12 '14':27 '202':13,28,38,48 '6':47 '8':37 'call':4 'chabot':8 'conyer':23 'cosponsor':51 'd':25,35 'd-mi':24 'd-ni':34 'histor':3 'jerrold':32 'john':22 'make':1 'mi':26 'mike':42 'nadler':33 'ny':36 'oh':11 'penc':43 'pledg':16 'pra':20 'r':10,45 'r-in':44 'r-oh':9 'rep':6,21,31,41 'ronreale2012':52 'steve':7 'support':17 'today':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ronreale2014.com/2012/07/17/make-an-historical-call-today/&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNE76y7ovIHaLhtK5iRDwgyVOXI6xw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16750287</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RonReale2012</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:19-04:00</created-at>
+          <title>Legislation aims to keep families seated together - The Travel Trolley</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A Congressman from New York has introduced legislation to help keep families seated together on commercial flights. U.S. Rep. Jerrold Nadler, D-N.Y., said he introduced the so-called &#8220;Families Flying Together Act of 2012&#8243; ...</excerpt>
+          <fti-names>'2012':48 'act':46 'aim':2 'call':42 'commerci':26 'congressman':12 'd':33 'd-n':32 'defeo':50 'famili':5,22,43 'fli':44 'flight':27 'help':20 'introduc':17,38 'jerrold':30 'keep':4,21 'legisl':1,18 'n':34 'nadler':31 'new':14 'rep':29 'said':36 'seat':6,23 'so-cal':40 'todd':49 'togeth':7,24,45 'travel':9 'trolley':10 'u.s':28 'y':35 'york':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thetraveltrolley.com/2012/07/legislation-aims-to-keep-families-seated-together/&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNFjUGMHag9jl-vjJJGdpTqnDL26PA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16750295</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Todd DeFeo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:13-04:00</created-at>
+          <title>Capitol Confidential &#187; Rep. Nadler: Families Should Fly Together</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Ever been asked to switch seats on a flight so a family can sit together? Well, don&amp;#39;t get up just yet -- new legislation is in the works to keep families together. Rep. Jerrold Nadler of New York&amp;#39;s 8th Congressional District today ...</excerpt>
+          <fti-names>'8th':48 'ask':11 'capitol':1 'confidenti':2 'congression':49 'daili':53 'district':50 'ever':9 'famili':5,20,39 'fli':7 'flight':17 'get':27 'jerrold':42 'keep':38 'legisl':32 'nadler':4,43 'new':31,45 'polit':54 'rep':3,41 'seat':14 'sit':22 'switch':13 'today':51 'togeth':8,23,40 'well':24 'work':36 'yet':30 'york':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.timesunion.com/capitol/archives/139841/rep-nadler-families-should-fly-together/&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNEMPA0jpgG0s6Br9C2LPX44ND807w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16750289</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Daily Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:12-04:00</created-at>
+          <title>Rep. Nadler: Families Should Fly Together | New York Daily News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jerrold Nadler of New York&amp;#39;s 8th Congressional District today introduced the Families Flying Together Act of 2012. The act would require the Department of Transportation to have each airline carrier enact policies to ...</excerpt>
+          <fti-names>'/blogs/dailypolitics':48 '2012':29 '8th':18 'act':27,31 'airlin':41 'carrier':42 'congression':19 'daili':9 'depart':35 'district':20 'enact':43 'famili':3,24 'fli':5,25 'introduc':22 'jerrold':12 'nadler':2,13 'new':7,15 'news':10 'polici':44 'rep':1,11 'requir':33 'today':21 'togeth':6,26 'transport':37 'would':32 'www.nydailynews.com':47 'www.nydailynews.com/blogs/dailypolitics':46 'york':8,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nydailynews.com/blogs/dailypolitics/2012/07/rep-nadler-families-should-fly-together-0&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CCMQmAEwAg&amp;usg=AFQjCNHqBss4OCZnGH_W7wLaHKE9P-ldKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16750288</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.nydailynews.com/blogs/dailypolitics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:27:14-04:00</created-at>
+          <title>H.R.5956: State Secrets Protection Act - U.S. Congress ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative. Jerrold Nadler. D-NY. View Co-Sponsors (6)Hide Co-Sponsors. Rep. John Conyers [D, MI-14] Added June 18, 2012; Rep. Bob Filner [D, CA-51] Added June 18, 2012; Rep. Maurice Hinchey [D, NY-22] ...</excerpt>
+          <fti-names>'-14':28 '-22':48 '-51':38 '18':31,41 '2012':32,42 '6':18 'act':5 'ad':29,39 'bob':34 'ca':37 'co':16,21 'co-sponsor':15,20 'congress':7 'conyer':25 'd':12,26,36,46 'd-ni':11 'filner':35 'h.r.5956':1 'hide':19 'hinchey':45 'jerrold':9 'john':24 'june':30,40 'mauric':44 'mi':27 'nadler':10 'ny':13,47 'opencongress.org':49 'protect':4 'rep':23,33,43 'repres':8 'secret':3 'sponsor':17,22 'state':2 'u.s':6 'view':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.opencongress.org/bill/112-h5956/show&amp;sa=U&amp;ei=CtAIUNuSKIGy2QXCnpDHBw&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNEwd40DKnVRxc9wYAqNFIfyISQqsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-17T01:00:00-04:00</date>
+          <id type="integer">16750290</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>opencongress.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:51:01-04:00</created-at>
+          <title>Can Democrats revive their dislike of Ex-Im? | M ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>In 2004, Rep. Jerrold Nadler (D., N.Y.) railed against the bank for subsidizing GE and other companies that &#8220;ship jobs overseas.&#8221; He too labeled these subsidies &#8220;corporate welfare.&#8221; Supporting Rep. Nadler&amp;#39;s legislation to ...</excerpt>
+          <fti-names>'2004':12 'bank':21 'carney':47 'compani':27 'corpor':37 'd':16 'democrat':2 'dislik':5 'ex':8 'ex-im':7 'ge':24 'im':9 'jerrold':14 'job':30 'label':34 'legisl':43 'm':10 'n.y':17 'nadler':15,41 'oversea':31 'p':46 'rail':18 'rep':13,40 'reviv':3 'ship':29 'subsid':23 'subsidi':36 'support':39 'timothi':45 'welfar':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://m.washingtonexaminer.com/can-democrats-revive-their-dislike-of-ex-im/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcan-democrats-revive-their-dislike-of-ex-im&amp;sa=U&amp;ei=dZ-NT4-qFOGW2QW-zdGMDA&amp;ved=0CCUQmAEwAA&amp;usg=AFQjCNFjZeivkXpZmR-5NjOF0ZMPXORL2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14542544</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Timothy P. Carney</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400289</commentariable-id>
+          <created-at type="datetime">2012-04-17T12:51:03-04:00</created-at>
+          <title>asics &#187; Blog Archive &#187; And on the second day, they read&#8230; Tales ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>... govern,&#8221; said Representative Jerrold Nadler,Christian Louboutin Shoes, a senior Democratic membership of the House Judiciary Committee, who went on apt impeach Republicans of having crushed aboard the Constitution surrounded the ...</excerpt>
+          <fti-names>'aboard':38 'apt':32 'archiv':3 'asic':1,43 'blog':2 'christian':17 'committe':28 'constitut':40 'crush':37 'day':8 'democrat':22 'govern':12 'hous':26 'impeach':33 'jerrold':15 'judiciari':27 'louboutin':18 'membership':23 'nadler':16 'read':10 'repres':14 'republican':34 'said':13 'second':7 'senior':21 'shoe':19 'surround':41 'tale':11 'went':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://asics.manablog.jp/archives/16823&amp;sa=U&amp;ei=dZ-NT4-qFOGW2QW-zdGMDA&amp;ved=0CDIQmAEwAw&amp;usg=AFQjCNEtiDwKUIzWT8RjRw5rjtcL9VfCFQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14542547</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>asics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">24032</page-views-count>
+      <unaccented-name>Jerrold Nadler</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

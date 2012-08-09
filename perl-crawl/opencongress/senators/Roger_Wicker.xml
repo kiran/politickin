@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">87.1794871794872</party-votes-percentage>
+        <abstains-percentage type="float">1.26582278481013</abstains-percentage>
+        <votes-most-often-with-id type="integer">300023</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">29</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">5</abstains>
+        <cosponsored-bills type="integer">260</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">53</party-votes-percentage-rank>
+        <sponsored-bills type="integer">19</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">400432</person-id>
+        <cosponsored-bills-rank type="integer">16</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">53</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">340</votes-republican-position>
+      <fax>202-228-0378</fax>
+      <blog-article-count type="integer">7647</blog-article-count>
+      <user-approval type="float">2.59649122807018</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">365</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.wicker.senate.gov/public/index.cfm?FuseAction=Contact.EMailSenatorWicker</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">87.1794871794872</with-party-percentage>
+      <lastname>Wicker</lastname>
+      <middlename>F.</middlename>
+      <congress-office>555 Dirksen Senate Office Building</congress-office>
+      <firstname>Roger</firstname>
+      <website>http://www.wicker.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1951-07-05</birthday>
+      <person-id type="integer">400432</person-id>
+      <phone>202-224-6253</phone>
+      <religion>Southern Baptist</religion>
+      <bioguide-id>W000437</bioguide-id>
+      <votes-democratic-position type="integer">173</votes-democratic-position>
+      <metavid-id>Roger_F._Wicker</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:16:53-04:00</created-at>
+          <title>What's magical about Jackson County? Shipyards and delicious fried meats (Political Skinny)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Busby, R-Pascagoula; Jackson County Supervisors Barry Cumbest, Mike Mangum and John McKay; and Rep. John Read, R-Gautier. Sen. Roger Wicker, R-Tupelo, sent out a statement last week recognizing the talented Mississippi athletes in the world spotlight at</excerpt>
+          <fti-names>'athlet':51 'barri':21 'busbi':14 'counti':6,19 'cumbest':22 'delici':9 'fri':10 'gautier':34 'gulf':57 'jackson':5,18 'john':26,30 'last':45 'live':58 'magic':3 'mangum':24 'mckay':27 'meat':11 'mike':23 'mississippi':50 'pascagoula':17 'polit':12 'r':16,33,39 'r-gautier':32 'r-pascagoula':15 'r-tupelo':38 'read':31 'recogn':47 'rep':29 'roger':36 'sen':35 'sent':41 'shipyard':7 'skinni':13 'spotlight':55 'statement':44 'supervisor':20 'talent':49 'tupelo':40 'week':46 'wicker':37 'world':54</fti-names>
+          <source-url>http://www.gulflive.com/</source-url>
+          <url>http://blog.gulflive.com/mississippi-press-news/2012/08/whats_magical_about_jackson_co.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973257</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Gulf Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:31:19-04:00</created-at>
+          <title>Reese leads Mississippi Olympians</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...women's basketball team. She earned a gold medal at the 1988 Seoul Games playing for the U.S. women's squad. Mississippi Sen. Roger Wicker praised the state Olympians. &quot;The talented Olympians from our state are ready for success on the world stage,&quot; Wic</excerpt>
+          <fti-names>'1988':16 'basketbal':7 'biloxi':49 'earn':10 'game':18 'gold':12 'herald':51 'lead':2 'medal':13 'mississippi':3,26 'olympian':4,33,36 'play':19 'prais':30 'readi':41 'rees':1 'roger':28 'sen':27 'seoul':17 'squad':25 'stage':47 'state':32,39 'success':43 'sun':50 'talent':35 'team':8 'u.s':22 'wic':48 'wicker':29 'women':5,23 'world':46</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/08/03/4103829/reese-leads-mississippi-olympians.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972400</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:51:09-04:00</created-at>
+          <title>Air Force leader headlines military salute</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Mississippi Gulf Coast Chamber of Commerce for 34 years. It honors local military personnel. Donley is expected to be joined by U.S. Sen. Roger Wicker and U.S. Rep. Steven Palazzo, both R-Miss., and commanders of coast military installations. AP 8/1/12.</excerpt>
+          <fti-names>'34':14 '8/1/12':48 'air':1 'ap':47 'chamber':10 'coast':9,44 'command':42 'commerc':12 'donley':21 'expect':23 'forc':2 'gulf':8 'headlin':4 'honor':17 'instal':46 'join':26 'leader':3 'local':18 'militari':5,19,45 'miss':40 'mississippi':7 'palazzo':36 'personnel':20 'polit':50 'r':39 'r-miss':38 'rep':34 'roger':30 'salut':6 'sen':29 'steven':35 'u.s':28,33 'wicker':31 'yall':49 'year':15</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/air_force_leader_headlines_military_salute/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971423</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:12:10-04:00</created-at>
+          <title>'Salute' to feature secretary of the Air Force</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...tie or dress uniform preferred, but business dress is also accepted. At the event, Donley is expected to be joined by U.S. Sen. Roger Wicker, U.S. Rep. Steven Palazzo and commanders of Coast military installations and they'll recognize the contributions</excerpt>
+          <fti-names>'accept':19 'air':7 'also':18 'biloxi':50 'busi':15 'coast':41 'command':39 'contribut':49 'donley':23 'dress':11,16 'event':22 'expect':25 'featur':3 'forc':8 'herald':52 'instal':43 'join':28 'll':46 'militari':42 'palazzo':37 'prefer':13 'recogn':47 'rep':35 'roger':32 'salut':1 'secretari':4 'sen':31 'steven':36 'sun':51 'tie':9 'u.s':30,34 'uniform':12 'wicker':33</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/07/31/4095868/salute-to-feature-secretary-of.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970347</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:12:09-04:00</created-at>
+          <title>Air Force leader headlines military salute</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Gulf Coast Chamber of Commerce for 34 years. It honors local military personnel. Donley is expected to be joined by U.S. Sen. Roger Wicker and U.S. Rep. Steven Palazzo, both R-Miss., and commanders of coast military installations. There will also be a c</excerpt>
+          <fti-names>'34':13 'air':1 'also':48 'biloxi':52 'c':51 'chamber':9 'coast':8,43 'command':41 'commerc':11 'donley':20 'expect':22 'forc':2 'gulf':7 'headlin':4 'herald':54 'honor':16 'instal':45 'join':25 'leader':3 'local':17 'militari':5,18,44 'miss':39 'palazzo':35 'personnel':19 'r':38 'r-miss':37 'rep':33 'roger':29 'salut':6 'sen':28 'steven':34 'sun':53 'u.s':27,32 'wicker':30 'year':14</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/08/01/4096808/air-force-leader-headlines-military.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970346</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:30:56-04:00</created-at>
+          <title>What to Know About the New Flood Insurance Program</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Introduced by Senator Roger Wicker (R-Miss.), the Consumer Option for an Alternative System to Allocate Losses (COASTAL) Act is now an amendment to the NFIP and will help determine whether a claim is the result of water or wind damage.</excerpt>
+          <fti-names>'act':29 'alloc':26 'altern':23 'amend':33 'claim':43 'coastal':28 'consum':19 'damag':51 'determin':40 'flood':7 'help':39 'insur':8,52 'introduc':10 'journal':53 'know':3 'loss':27 'miss':17 'new':6 'nfip':36 'option':20 'program':9 'r':16 'r-miss':15 'result':46 'roger':13 'senat':12 'system':24 'water':48 'whether':41 'wicker':14 'wind':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.insurancejournal.com/news/national/2012/07/31/257675.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T12:46:15-04:00</date>
+          <id type="integer">16968042</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Insurance Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:30:55-04:00</created-at>
+          <title>Incumbents hold lead in funds</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>As usual, incumbents collected the largest sums. Incumbent U.S. Sen. Roger Wicker, R-Miss., earned nearly two-thirds of the total amount this period with $317,791. Fifty-five percent came from political action committees; the rest from individual donors.</excerpt>
+          <fti-names>'317':33 '791':34 'action':42 'amount':29 'came':39 'collect':9 'committe':43 'daili':51 'donor':48 'earn':21 'fifti':36 'fifty-f':35 'five':37 'fund':5 'hold':2 'incumb':1,8,13 'individu':47 'journal':52 'largest':11 'lead':3 'miss':20 'mississippi':50 'ne':49 'near':22 'percent':38 'period':31 'polit':41 'r':19 'r-miss':18 'rest':45 'roger':16 'sen':15 'sum':12 'third':25 'total':28 'two':24 'two-third':23 'u.s':14 'usual':7 'wicker':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://djournal.com/pages/full_story/push?article-Incumbents+hold+lead+in+funds%20&amp;id=19622629&amp;instance=home_news_2nd_left</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T06:35:12-04:00</date>
+          <id type="integer">16968041</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NE Mississippi Daily Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:05:00-04:00</created-at>
+          <title>Incumbents hold lead in funds</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>As usual, incumbents collected the largest sums. Incumbent U.S. Sen. Roger Wicker, R-Miss., earned nearly two-thirds of the total amount this period with $317,791. Fifty-five percent came from political action committees; the rest from individual donors.</excerpt>
+          <fti-names>'317':33 '791':34 'action':42 'amount':29 'came':39 'collect':9 'committe':43 'daili':51 'donor':48 'earn':21 'fifti':36 'fifty-f':35 'five':37 'fund':5 'hold':2 'incumb':1,8,13 'individu':47 'journal':52 'largest':11 'lead':3 'miss':20 'mississippi':50 'ne':49 'near':22 'percent':38 'period':31 'polit':41 'r':19 'r-miss':18 'rest':45 'roger':16 'sen':15 'sum':12 'third':25 'total':28 'two':24 'two-third':23 'u.s':14 'usual':7 'wicker':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://djournal.com/view/full_story/19622629/article-Incumbents-hold-lead-in-funds?instance=home_news_2nd_left</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T06:35:12-04:00</date>
+          <id type="integer">16953141</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NE Mississippi Daily Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:21-04:00</created-at>
+          <title>Miss. Incumbents hold lead in funds</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...filed this month with the Federal Election Committee. As usual, incumbents collected the largest sums. Incumbent U.S. Sen. Roger Wicker, R-Miss., earned nearly two-thirds of the total amount this period with $317,791. Fifty-five percent came from politi</excerpt>
+          <fti-names>'317':42 '791':43 'amount':38 'came':48 'collect':18 'committe':14 'earn':30 'elect':13 'feder':12 'fifti':45 'fifty-f':44 'file':7 'five':46 'fund':6 'hold':3 'incumb':2,17,22 'largest':20 'lead':4 'miss':1,29 'month':9 'near':31 'percent':47 'period':40 'polit':52 'politi':50 'r':28 'r-miss':27 'roger':25 'sen':24 'sum':21 'third':34 'total':37 'two':33 'two-third':32 'u.s':23 'usual':16 'wicker':26 'yall':51</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/miss._incumbents_hold_lead_in_funds/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963206</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:20-04:00</created-at>
+          <title>Cancer awareness event provides opportunity to remember late friend, legislator Ezell Lee</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...then drove over to Merchants &amp; Marine Bank in Pascagoula, which hosted the event. Republican U.S. Sens. Thad Cochran and Roger Wicker, and U.S. Rep. Steven Palazzo on Friday applauded the award of a $1.5 billion Navy contract to design and construct the</excerpt>
+          <fti-names>'1.5':46 'applaud':41 'awar':2 'award':43 'bank':19 'billion':47 'cancer':1 'cochran':30 'construct':53 'contract':49 'design':51 'drove':14 'event':3,25 'ezel':11 'friday':40 'friend':9 'gulf':55 'host':23 'late':8 'lee':12 'legisl':10 'live':56 'marin':18 'merchant':17 'navi':48 'opportun':5 'palazzo':38 'pascagoula':21 'provid':4 'rememb':7 'rep':36 'republican':26 'roger':32 'sen':28 'steven':37 'thad':29 'u.s':27,35 'wicker':33</fti-names>
+          <source-url>http://www.gulflive.com/</source-url>
+          <url>http://blog.gulflive.com/mississippi-press-news/2012/07/cancer_awareness_event_provide.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963205</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Gulf Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Roger Wicker [R, MS]</name>
+      <total-session-votes type="integer">390</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>senatorwicker</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:03:52-04:00</created-at>
+          <title>Monday Morning Tip Sheet | MSGOP.org | Mississippi Republican ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Roger Wicker says only bipartisan effort will keep Social Security viable, the &#8220;Buffett Rule&#8221; is a political ploy and the United States must stand with Israel against the specter of a nuclear Iran. Wicker made his remarks in a ...</excerpt>
+          <fti-names>'admin':48 'bipartisan':13 'buffett':21 'effort':14 'iran':41 'israel':34 'keep':16 'made':43 'mississippi':6 'monday':1 'morn':2 'msgop.org':5 'must':31 'nuclear':40 'ploy':26 'polit':25 'remark':45 'republican':7 'roger':9 'rule':22 'say':11 'secur':18 'sen':8 'sheet':4 'social':17 'specter':37 'stand':32 'state':30 'tip':3 'unit':29 'viabl':19 'wicker':10,42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://msgop.org/index.php/2012/04/monday-morning-tip-sheet-10/&amp;sa=U&amp;ei=hrCNT-7fL4fi2gWZhsiVDA&amp;ved=0CEUQmAEwBg&amp;usg=AFQjCNG6mjj5k3ak3sxjk6AnNZxHybjYoQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14547314</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:03:51-04:00</created-at>
+          <title>Wicker Discusses Alternatives To Affordable Care Act &#187; Vicksburg ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>US Senator Roger Wicker (R-MS). (MPB) &#8211; The Affordable Care Act needs to go, says U.S. Senator Roger Wicker. Answering reporters&amp;#39; questions at the University of Mississippi, Wicker advocated instead for more competition ...</excerpt>
+          <fti-names>'act':7,20 'advoc':38 'afford':5,18 'altern':3 'answer':29 'care':6,19 'competit':42 'discuss':2 'feed':44 'go':23 'instead':39 'mississippi':36 'mpb':16 'ms':15 'need':21 'question':31 'r':14 'r-ms':13 'report':30 'roger':11,27 'say':24 'senat':10,26 'u.s':25 'univers':34 'us':9 'vicksburg':8 'wicker':1,12,28,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://vicksburgdailynews.com/2012/04/16/wicker-discusses-alternatives-to-affordable-care-act/&amp;sa=U&amp;ei=hrCNT-7fL4fi2gWZhsiVDA&amp;ved=0CDYQmAEwAw&amp;usg=AFQjCNHLCTxbiEW-1QGwBu5sIe3bq5rZ6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14547311</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:10:24-04:00</created-at>
+          <title>House welcomes beauty queen, hero&amp;#39;s family and seafood museum ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Roger Wicker, R-Tupelo, was one of several speakers at the $30 million Infinity Space Center&amp;#39;s ribbon-cutting event on Wednesday. The other speakers included Rep. Steven Palazzo, R-Biloxi, and Sen. Thad Cochran ...</excerpt>
+          <fti-names>'30':24 'beauti':3 'biloxi':45 'center':28 'cochran':49 'cut':32 'event':33 'famili':7 'gulf':50 'hero':5 'hous':1 'impact':53 'includ':39 'infin':26 'live':51 'million':25 'museum':10 'news':52 'one':18 'palazzo':42 'queen':4 'r':15,44 'r-biloxi':43 'r-tupelo':14 'rep':40 'ribbon':31 'ribbon-cut':30 'roger':12 'seafood':9 'sen':11,47 'sever':20 'space':27 'speaker':21,38 'steven':41 'thad':48 'tupelo':16 'wednesday':35 'welcom':2 'wicker':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.msgulf.com/2012/04/16/house-welcomes-beauty-queen-heros-family-and-seafood-museum-reps-political-skinny/&amp;sa=U&amp;ei=L-2MT5HMPKec2AX81_ztCw&amp;ved=0CFcQmAEwCg&amp;usg=AFQjCNEadsjnpJxQFVm-H60S9wMbZpQOug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14528004</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gulf Live News Impact</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:10:24-04:00</created-at>
+          <title>Monday Morning Tip Sheet | MSGOP.org | Mississippi Republican ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Roger Wicker says only bipartisan effort will keep Social Security viable, the &#8220;Buffett Rule&#8221; is a political ploy and the United States must stand with Israel against the specter of a nuclear Iran. Wicker made his remarks in a ...</excerpt>
+          <fti-names>'admin':48 'bipartisan':13 'buffett':21 'effort':14 'iran':41 'israel':34 'keep':16 'made':43 'mississippi':6 'monday':1 'morn':2 'msgop.org':5 'must':31 'nuclear':40 'ploy':26 'polit':25 'remark':45 'republican':7 'roger':9 'rule':22 'say':11 'secur':18 'sen':8 'sheet':4 'social':17 'specter':37 'stand':32 'state':30 'tip':3 'unit':29 'viabl':19 'wicker':10,42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://msgop.org/index.php/2012/04/monday-morning-tip-sheet-10/&amp;sa=U&amp;ei=L-2MT5HMPKec2AX81_ztCw&amp;ved=0CEUQmAEwBg&amp;usg=AFQjCNGLpCvIOIQQmZgjQLEobilTwcIo9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14528000</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:10:24-04:00</created-at>
+          <title>Wicker Discusses Alternatives To Affordable Care Act &#187; Vicksburg ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>US Senator Roger Wicker (R-MS). (MPB) &#8211; The Affordable Care Act needs to go, says U.S. Senator Roger Wicker. Answering reporters&amp;#39; questions at the University of Mississippi, Wicker advocated instead for more competition ...</excerpt>
+          <fti-names>'act':7,20 'advoc':38 'afford':5,18 'altern':3 'answer':29 'care':6,19 'competit':42 'discuss':2 'feed':44 'go':23 'instead':39 'mississippi':36 'mpb':16 'ms':15 'need':21 'question':31 'r':14 'r-ms':13 'report':30 'roger':11,27 'say':24 'senat':10,26 'u.s':25 'univers':34 'us':9 'vicksburg':8 'wicker':1,12,28,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://vicksburgdailynews.com/2012/04/16/wicker-discusses-alternatives-to-affordable-care-act/&amp;sa=U&amp;ei=L-2MT5HMPKec2AX81_ztCw&amp;ved=0CDYQmAEwAw&amp;usg=AFQjCNG3Bz3z3nqp5oVjch2e6X5LYS30GQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527997</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:50:41-04:00</created-at>
+          <title>House welcomes beauty queen, hero&amp;#39;s family and seafood museum ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Roger Wicker, R-Tupelo, was one of several speakers at the $30 million Infinity Space Center&amp;#39;s ribbon-cutting event on Wednesday. The other speakers included Rep. Steven Palazzo, R-Biloxi, and Sen. Thad Cochran ...</excerpt>
+          <fti-names>'30':24 'beauti':3 'biloxi':45 'center':28 'cochran':49 'cut':32 'event':33 'famili':7 'gulf':50 'hero':5 'hous':1 'impact':53 'includ':39 'infin':26 'live':51 'million':25 'museum':10 'news':52 'one':18 'palazzo':42 'queen':4 'r':15,44 'r-biloxi':43 'r-tupelo':14 'rep':40 'ribbon':31 'ribbon-cut':30 'roger':12 'seafood':9 'sen':11,47 'sever':20 'space':27 'speaker':21,38 'steven':41 'thad':48 'tupelo':16 'wednesday':35 'welcom':2 'wicker':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.msgulf.com/2012/04/16/house-welcomes-beauty-queen-heros-family-and-seafood-museum-reps-political-skinny/&amp;sa=U&amp;ei=71uMT76kL8eg2AW17OmyCQ&amp;ved=0CEQQmAEwBg&amp;usg=AFQjCNGezv7Ze9NxZo8W0fnYa1yr9mVs6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508618</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gulf Live News Impact</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:50:40-04:00</created-at>
+          <title>Monday Morning Tip Sheet | MSGOP.org | Mississippi Republican ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Roger Wicker says only bipartisan effort will keep Social Security viable, the &#8220;Buffett Rule&#8221; is a political ploy and the United States must stand with Israel against the specter of a nuclear Iran. Wicker made his remarks in a ...</excerpt>
+          <fti-names>'admin':48 'bipartisan':13 'buffett':21 'effort':14 'iran':41 'israel':34 'keep':16 'made':43 'mississippi':6 'monday':1 'morn':2 'msgop.org':5 'must':31 'nuclear':40 'ploy':26 'polit':25 'remark':45 'republican':7 'roger':9 'rule':22 'say':11 'secur':18 'sen':8 'sheet':4 'social':17 'specter':37 'stand':32 'state':30 'tip':3 'unit':29 'viabl':19 'wicker':10,42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://msgop.org/index.php/2012/04/monday-morning-tip-sheet-10/&amp;sa=U&amp;ei=71uMT76kL8eg2AW17OmyCQ&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNEbCxkUKzlHxKg7Mmy3_9mdDbURkQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508615</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:03:52-04:00</created-at>
+          <title>Wicker speaks on debt, deficit and defense - Politics - SunHerald.com</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>OXFORD -- U.S. Sen. Roger Wicker says only bipartisan effort will keep Social Security viable, the &#8220;Buffett Rule&#8221; is a political ploy and the United States must stand with Israel against the specter of a nuclear Iran.</excerpt>
+          <fti-names>'/local/index.xml':48 'bipartisan':17 'buffett':25 'debt':4 'defens':7 'deficit':5 'effort':18 'iran':45 'israel':38 'keep':20 'must':35 'nuclear':44 'oxford':10 'ploy':30 'polit':8,29 'roger':13 'rule':26 'say':15 'secur':22 'sen':12 'social':21 'speak':2 'specter':41 'stand':36 'state':34 'sunherald.com':9 'u.s':11 'unit':33 'viabl':23 'wicker':1,14 'www.sunherald.com':47 'www.sunherald.com/local/index.xml':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sunherald.com/2012/04/14/3882457/wicker-speaks-on-debt-deficit.html&amp;sa=U&amp;ei=hrCNT-7fL4fi2gWZhsiVDA&amp;ved=0CFIQmAEwCQ&amp;usg=AFQjCNFDdK-KTTfLOis0Tq4PwSp23HpoAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14547317</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sunherald.com/local/index.xml</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:50:41-04:00</created-at>
+          <title>Wicker speaks on debt, deficit and defense - Politics - SunHerald.com</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>OXFORD -- U.S. Sen. Roger Wicker says only bipartisan effort will keep Social Security viable, the &#8220;Buffett Rule&#8221; is a political ploy and the United States must stand with Israel against the specter of a nuclear Iran.</excerpt>
+          <fti-names>'/local/index.xml':48 'bipartisan':17 'buffett':25 'debt':4 'defens':7 'deficit':5 'effort':18 'iran':45 'israel':38 'keep':20 'must':35 'nuclear':44 'oxford':10 'ploy':30 'polit':8,29 'roger':13 'rule':26 'say':15 'secur':22 'sen':12 'social':21 'speak':2 'specter':41 'stand':36 'state':34 'sunherald.com':9 'u.s':11 'unit':33 'viabl':23 'wicker':1,14 'www.sunherald.com':47 'www.sunherald.com/local/index.xml':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sunherald.com/2012/04/14/3882457/wicker-speaks-on-debt-deficit.html&amp;sa=U&amp;ei=71uMT76kL8eg2AW17OmyCQ&amp;ved=0CE0QmAEwCA&amp;usg=AFQjCNEcS5z7nWiN8uET8ml82YCOmtja-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14508620</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sunherald.com/local/index.xml</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400432</commentariable-id>
+          <created-at type="datetime">2012-04-16T00:19:54-04:00</created-at>
+          <title>Congress Restricts LEED Spending - JohnnyBravo&amp;#39;s blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Sen. Roger Wicker, R-Miss., helped lead the effort to place the language into the appropriations bill on grounds that the Pentagon needed to think more about building products&amp;#39; green qualities over the course of their entire ...</excerpt>
+          <fti-names>'appropri':24 'bill':25 'blog':7 'build':36 'congress':1 'cours':42 'effort':17 'entir':45 'green':38 'ground':27 'help':14 'johnnybravo':5,46 'languag':21 'lead':15 'leed':3 'miss':13 'need':31 'pentagon':30 'place':19 'product':37 'qualiti':39 'r':12 'r-miss':11 'restrict':2 'roger':9 'sen':8 'spend':4 'think':33 'wicker':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://esnd73bnd.typepad.com/blog/2012/04/congress-restricts-leed-spending-1.html&amp;sa=U&amp;ei=552LT66dM6PK2AW9tsGMAw&amp;ved=0CE0QmAEwCA&amp;usg=AFQjCNFmW7julepdHXtISyyNZ4x3B0V4Aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14490988</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JohnnyBravo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">26429</page-views-count>
+      <unaccented-name>Roger Wicker</unaccented-name>
+      <oc-user-comments type="integer">14</oc-user-comments>
+    </person>
+  </people>
+</hash>
