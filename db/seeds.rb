@@ -15,23 +15,20 @@
 #         c.gather_information
 #     end
 # end
+require 'csv'
 
 Congressman.delete_all
-open("db/seeds/congressmen.csv") do |data|
-  groups.read.each_line do |congressman|
-    next if group.empty?
-    first_name, last_name, party, state, district = congressman.chomp.split(",")
-    c = Congressman.create!(:first_name=>first_name, :last_name=>last_name,
-     :party=>party, :state=>state,:title=>"representative", :district =>district)
-    # c.gather_information
-  end
+CSV.foreach("db/seeds/congressmen.csv") do |congressman|
+  next if congressman.empty?
+  c = Congressman.create!(:first_name=>congressman[0], :last_name=>congressman[1],
+   :party=>congressman[2], :state=>congressman[3],
+   :title=>"representative", :district =>congressman[4])
+  # c.gather_information
 end
-open("db/seeds/senators.csv") do |data|
-  groups.read.each_line do |congressman|
-    next if group.empty?
-    first_name, last_name, party, state = congressman.chomp.split(",")
-    c = Congressman.create!(:first_name=>first_name, :last_name=>last_name,
-     :party=>party, :state=>state,:title=>"senator", :district => "")
-    # c.gather_information
-  end
+CSV.foreach("db/seeds/senators.csv") do |congressman|
+  next if congressman.empty?
+  c = Congressman.create!(:first_name=>congressman[0], :last_name=>congressman[1],
+   :party=>congressman[2], :state=>congressman[3],
+   :title=>"senator", :district =>congressman[4])
+  # c.gather_information
 end

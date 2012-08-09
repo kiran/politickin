@@ -26,7 +26,7 @@ module Services
 
     first_name, last_name = extract_name_from_congresspedia(data)
     bioguide_id, crp_id = data['bioguide_id'], data['crp_id']
-    watchdog = Thread.new { watchdog_data = Watchdog.search(bioguide_id) }
+    # watchdog = Thread.new { watchdog_data = Watchdog.search(bioguide_id) }
     # flickr = Thread.new { flickr_data = Flickr.search(first_name, last_name) }
     words = Thread.new { words_data = CapitolWords.search(bioguide_id) }
     contributor = Thread.new { contributor_data = OpenSecrets.search_contributors(crp_id) }

@@ -1,5 +1,5 @@
 class Congressman < ActiveRecord::Base
-	validates_presence_of :name, :party, :title, :constituency
+  validates_presence_of :first_name, :last_name, :party, :state, :title
 
   # Return cached data or find it out.
   def information
