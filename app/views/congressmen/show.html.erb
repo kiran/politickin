@@ -6,19 +6,26 @@
 <%  parsed_json = {} %>
 
 <div class='row'>
-<div class="span3">
-  <img class="thumbnail" src="/assets/photos/<%= parsed_json['bioguide_id'] %>.jpg" alt="" />
-</div>
-  <div class="span3 offset3">
+  <div class="span3">
+    <img class="thumbnail" src="/assets/photos/<%= @congressman.bioguide_id %>.jpg" alt="" />
+  </div>
+  <div class="span6">
+    <ul class='unstyled'>
+      <li><strong>Birthday:</strong> <%= @congressman.birthdate %></li>
+      <li><strong>Education:</strong> <%= @congressman.education %></li>
+      <li><strong>Predictability:</strong> <%= @congressman.predictability %></li>
+    </ul>
+  </div>
+  <div class="span3">
     <h2><%= @congressman.party_name %>
-    <%= @congressman.title %>
+    <%= (@congressman.title == 'Rep')? 'Representative' : 'Senator' %>
     <%= @congressman.state %>-<%= @congressman.district %></h2>
     <ul class="unstyled">
-    <li><i class='icon-phone'></i> Phone: <%= parsed_json['phone'] %></li>
-    <li><i class='icon-globe'></i> <a href="<%= parsed_json['website'] %>">Website</a></li>
-    <li><i class='icon-pencil'></i> <a href="<%= parsed_json['webform'] %>">Contact</a></li>
-    <li><i class='icon-book'></i> <a href="<%= parsed_json['congresspedia_url'] %>">Congresspedia</a></li>
-    <li><i class='icon-twitter'></i> <a href="http://www.twitter.com/#/@<%= parsed_json['twitter_id'] %>">Twitter</a></li>
+    <li><i class='icon-phone'></i> Phone: <%= @congressman.phone %></li>
+    <li><i class='icon-globe'></i> <a href="<%= @congressman.website %>">Website</a></li>
+    <li><i class='icon-pencil'></i> <a href="<%= @congressman.webform %>">Contact</a></li>
+    <li><i class='icon-book'></i> <a href="<%= @congressman.open_congress_url %>">Congresspedia</a></li>
+    <li><i class='icon-twitter'></i> <a href="http://www.twitter.com/<%= @congressman.twitter_id %>">Twitter</a></li>
     </ul>
   </div>
 </div>

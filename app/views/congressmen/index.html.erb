@@ -7,17 +7,17 @@
     <tr>
       <th>Name</th>
       <th>Party Affiliation</th>
-      <th>Title</th>
+      <th>State</th>
       <th>District</th>
       <th></th>
     </tr>
 
   <% @congressmen.each do |congressman| %>
     <tr class='<%=congressman.party%>'>
-      <td><%= link_to congressman.name, congressman %></td>
-      <td><%= congressman.party %></td>
-      <td><%= congressman.title %></td>
+      <td><%= congressman.title %>. <%= link_to congressman.name, congressman %></td>
+      <td><%= congressman.party_name %></td>
       <td><%= congressman.state %></td>
+      <td><%= congressman.district %></td>
       <td><%= link_to congressman do %><div class='btn btn-small'>Go</i><% end %></td>
     </tr>
   <% end %>
