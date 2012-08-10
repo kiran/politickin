@@ -22,13 +22,13 @@ CSV.foreach("db/seeds/congressmen.csv") do |congressman|
   next if congressman.empty?
   c = Congressman.create!(:first_name=>congressman[0], :last_name=>congressman[1],
    :party=>congressman[2], :state=>congressman[3],
-   :title=>"representative", :district =>congressman[4])
+   :title=>"Representative", :district =>congressman[4])
   # c.gather_information
 end
 CSV.foreach("db/seeds/senators.csv") do |congressman|
   next if congressman.empty?
   c = Congressman.create!(:first_name=>congressman[0], :last_name=>congressman[1],
    :party=>congressman[2], :state=>congressman[3],
-   :title=>"senator", :district =>congressman[4])
+   :title=>"Senator", :district =>congressman[4])
   # c.gather_information
 end
