@@ -1,0 +1,37 @@
+<div class="span6">
+    <h2><%= @congressman.party_name %>
+    <%= (@congressman.title == 'Rep')? 'Representative' : 'Senator' %>
+    <%= @congressman.state %>-<%= @congressman.district %></h2>
+    <ul class="unstyled">
+    <% if not @congressman.congress_address.nil? and not @congressman.congress_address.empty? %>
+      <li><i class='icon-map-marker'></i>Address: <%= @congressman.congress_address %> </a></li>
+    <% end %>
+    <% if not @congressman.phone.nil? and not @congressman.phone.empty? %>
+      <li><i class='icon-phone'></i> Phone: <%= @congressman.phone %></li>
+    <% end %>
+    <% if not @congressman.website.nil? and not @congressman.website.empty? %>
+      <li><i class='icon-globe'></i> <a href="<%= @congressman.website %>">Website</a></li>
+    <% end %>
+    <% if not @congressman.webform.nil? and not @congressman.webform.empty? %>
+      <li><i class='icon-pencil'></i> <a href="<%= @congressman.webform %>">Contact</a></li>
+    <% end %>
+    <% if not @congressman.open_congress_url.nil? and not @congressman.open_congress_url.empty? %>
+      <li><i class='icon-legal'></i> <a href="<%= @congressman.open_congress_url %>">Congresspedia</a></li>
+    <% end %>
+    <% if not @congressman.wikipedia_url.nil? and not @congressman.wikipedia_url.empty? %>
+      <li><i class='icon-book'></i> <a href="<%= @congressman.wikipedia_url %>">Wikipedia</a></li>
+    <% end %>
+    <% if not @congressman.twitter_id.nil? and not @congressman.twitter_id.empty? %>
+      <li><i class='icon-twitter'></i> <a href="http://www.twitter.com/<%= @congressman.twitter_id %>">Twitter</a></li>
+    <% end %>
+    <% if not @congressman.rss.nil? and not @congressman.rss.empty? %>
+      <li><i class='icon-rss'></i> <a href="<%= @congressman.rss %>">Official RSS</a></li>
+    <% end %>
+    <% if not @congressman.youtube_url.empty? %>
+      <li><i class='icon-facetime-video'></i> <a href="<%= @congressman.youtube_url %>">YouTube</a></li>
+    <% end %>
+    <% if not @congressman.facebook_id.nil? and not @congressman.facebook_id.empty? %>
+      <li><i class='icon-facebook'></i> <a href="http://www.facebook.com/<%= @congressman.facebook_id %>">Facebook</a></li>
+    <% end %>
+    </ul>
+  </div>

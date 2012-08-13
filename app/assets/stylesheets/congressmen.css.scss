@@ -1,6 +1,8 @@
 // Place all the styles related to the Congressmen controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+$repRed: #C43C35;
+$demBlue: #0B8CCC;
 
 .bar-graph {
   height: 10px;
@@ -13,4 +15,18 @@
   border-right: 1px #FFF solid;
   color: #EEE;
   padding: 3px;
+}
+
+#bills-chart.R path{
+  fill: $repRed;
+}
+#bills-chart.D path{
+  fill: $demBlue;
+}
+#bills-chart {
+  text {
+    font-family: sans-serif;
+    font-size: 1em;
+    fill: #333;
+  }
 }

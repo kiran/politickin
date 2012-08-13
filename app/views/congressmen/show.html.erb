@@ -6,45 +6,51 @@
 <%  parsed_json = {} %>
 
 <div class='row'>
+  <% if @congressman.in_office %>
+    <div class='span12 alert alert-success'>
+      Currently in office
+    </div>
+  <% else %>
+    <div class='span12 alert alert-error'>
+      Not in office
+    </div>
+  <% end %> 
   <div class="span3">
     <img class="thumbnail" src="/assets/photos/<%= @congressman.bioguide_id %>.jpg" alt="" />
   </div>
-  <div class="span6">
-    <ul class='unstyled'>
-      <li><strong>Birthday:</strong> <%= @congressman.birthdate %></li>
-      <li><strong>Education:</strong> <%= @congressman.education %></li>
-      <li><strong>Predictability:</strong> <%= @congressman.predictability %></li>
-    </ul>
-  </div>
   <div class="span3">
-    <h2><%= @congressman.party_name %>
-    <%= (@congressman.title == 'Rep')? 'Representative' : 'Senator' %>
-    <%= @congressman.state %>-<%= @congressman.district %></h2>
-    <ul class="unstyled">
-    <li><i class='icon-phone'></i> Phone: <%= @congressman.phone %></li>
-    <li><i class='icon-globe'></i> <a href="<%= @congressman.website %>">Website</a></li>
-    <li><i class='icon-pencil'></i> <a href="<%= @congressman.webform %>">Contact</a></li>
-    <li><i class='icon-book'></i> <a href="<%= @congressman.open_congress_url %>">Congresspedia</a></li>
-    <li><i class='icon-twitter'></i> <a href="http://www.twitter.com/<%= @congressman.twitter_id %>">Twitter</a></li>
+    <ul class='unstyled'>
+      <li><strong>Predictability:</strong> <%= number_to_percentage(@congressman.predictability*100) %></li>
     </ul>
   </div>
+  <%= render :partial => "social" %>
+</div>
+<hr>
+
+<div class='row'>
+  <h2>On the Issues</h2>
+  <p>Click through to explore issues:</p>
+    <div class="span6">
+        <h3>Word Frequency in Congressional Record</h3>
+        <!-- <div id="chart" class='<%=@congressman.party%>'></div> -->
+    </div>
 </div>
 
 <hr>
 
-<div class='row'>
-<h2>On the Issues</h2>
-<p>Click through to explore issues:</p>
-<div class="span6">
-    <h3>Word Frequency in Congressional Record</h3>
-    <div id="chart" class='<%=@congressman.party%>'></div>
-</div>
-</div>
+<%= render :partial => 'quickfacts' %>
 
 <hr>
 
 <% contributors = parsed_json['opensecrets_contributors'] %>
 <% unless contributors.nil? %>
+
+    t.float    "pct_spent"
+    t.float    "pct_self"
+    t.float    "pct_indiv"
+    t.float    "pct_pac"
+    t.integer  "money_raised"
+
   <div class='row'>
     <h2>Finances</h2>
     <div class='span6'>

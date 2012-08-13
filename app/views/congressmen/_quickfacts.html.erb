@@ -1,0 +1,73 @@
+<div class='row'>
+  <h2>Quick Facts</h2>
+    <div class="span6">
+        <h3>Legislative Activity</h3>
+
+    <ul class='unstyled'>
+      <% unless @congressman.n_bills_cosponsored.nil? %>
+        <li><h4>Bills</h4>
+            <div id='bills-chart' class='<%= @congressman.party %>'
+              data-cosponsored='<%= @congressman.n_bills_cosponsored %>'
+              data-introduced='<%= @congressman.n_bills_introduced %>'
+              data-debated='<%= @congressman.n_bills_debated %>'
+              data-enacted='<%= @congressman.n_bills_enacted %>'></div>
+        </li>
+      <% end %>
+      <% unless @congressman.n_earmark_requested.nil? or @congressman.n_earmark_requested.nil? %>
+        <li><h4>Earmarks:</h4>
+          <ul>
+            <li>Number received/requested: <%= @congressman.n_earmark_received %>/<%= @congressman.n_earmark_requested %></li>
+            <li>Amount received/requested: $<%= number_to_human(@congressman.amt_earmark_received) %>/$<%= number_to_human(@congressman.amt_earmark_requested) %>
+            <% width = Float(@congressman.amt_earmark_received)/Float(@congressman.amt_earmark_requested)*100 %>
+            <% color = (@congressman.party == 'R')? 'progress-danger' : '' %>
+            <div class='progress <%= color %>' style="width: 80%"><div class="bar"
+              style="width: <%= width %>%;"><%= number_with_precision(width, :precision => 1) %>%</div>
+            </div>
+          </ul>
+        </li>
+      <% end %>
+      <% unless @congressman.nominate.nil? %>
+        <li><strong>Nominate:</strong> <%= @congressman.nominate %> </a></li>
+      <% end %>
+      <% unless @congressman.pct_vote_received.nil? %>
+        <li><strong>Pct vote received:</strong> <%= @congressman.pct_vote_received %></li>
+      <% end %>
+      <% unless @congressman.predictability.nil? %>
+        <li><strong>Predictability:</strong> <%= number_to_percentage(@congressman.predictability*100) %> </li>
+      <% end %>
+      <% if not @congressman.bills_sponsored.nil? and not @congressman.bills_sponsored.empty? %>
+        <li><i class='icon-pencil'></i><strong>Bills sponsored: </strong>
+          <% bills = JSON.parse(@congressman.bills_sponsored) %>
+          <% bills.each do |bill| %>
+            <a href="<%= bill %>">b</a>
+          <% end %>
+        </li>
+      <% end %>
+      <% unless @congressman.last_elected_year.nil? or @congressman.last_elected_year.empty? %>
+        <li><i class='icon-legal'></i> <strong>Last elected year:</strong> <%= @congressman.last_elected_year %></li>
+        <li><strong>Amount votes received:</strong> <%= number_to_human(@congressman.n_vote_received) %></li>
+      <% end %>
+      <% unless @congressman.n_speeches.nil? or @congressman.words_per_speech.nil? %>
+        <li><strong>Speeches:</strong> average <%= @congressman.words_per_speech %> words/speech (in <%= @congressman.n_speeches %> speeches)
+        </li>
+      <% end %>
+    </ul>
+    </div>
+    <div class="span6">
+        <h3>Biographical Facts</h3>
+        <ul class='unstyled'>
+          <% unless @congressman.nickname.nil? or @congressman.nickname.empty? %>
+            <li><strong>Nickname:</strong> <%= @congressman.nickname %></li>
+          <% end %>
+          <% unless @congressman.birthdate.nil? or @congressman.birthdate.empty? %>
+            <li><strong>Birth:</strong> <%= @congressman.birthdate %>, <%= @congressman.birthplace %></li>
+          <% end %>
+          <% unless @congressman.religion.nil? or @congressman.religion.empty? %>
+            <li><strong>Religion:</strong> <%= @congressman.religion %></li>
+          <% end %>
+          <% unless @congressman.education.nil? or @congressman.education.empty? %>
+            <li><strong>Education:</strong> <%= @congressman.education %></li>
+          <% end %>
+        </ul>
+    </div>
+</div>
