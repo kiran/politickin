@@ -3,6 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 $repRed: #C43C35;
 $demBlue: #0B8CCC;
+$indGray: #C5C5C5;
 
 .bar-graph {
   height: 10px;
@@ -22,6 +23,9 @@ $demBlue: #0B8CCC;
 }
 #bills-chart.D path{
   fill: $demBlue;
+}
+#bills-chart path {
+  fill: $indGray;
 }
 #bills-chart {
   text {
