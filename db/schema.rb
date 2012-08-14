@@ -11,12 +11,12 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120810063516) do
+ActiveRecord::Schema.define(:version => 20120812061012) do
 
   create_table "congressmen", :force => true do |t|
-    t.string   "first_name",            :null => false
+    t.string   "first_name",                              :null => false
     t.string   "middle_name"
-    t.string   "last_name",             :null => false
+    t.string   "last_name",                               :null => false
     t.string   "suffix"
     t.string   "birthdate"
     t.string   "gender"
@@ -40,8 +40,8 @@ ActiveRecord::Schema.define(:version => 20120810063516) do
     t.string   "fec_id"
     t.string   "crp_id"
     t.string   "votesmart_id"
-    t.datetime "created_at",            :null => false
-    t.datetime "updated_at",            :null => false
+    t.datetime "created_at",                              :null => false
+    t.datetime "updated_at",                              :null => false
     t.boolean  "in_office"
     t.string   "name_suffix"
     t.string   "congress_address"
@@ -72,6 +72,31 @@ ActiveRecord::Schema.define(:version => 20120810063516) do
     t.float    "nominate"
     t.float    "pct_vote_received"
     t.float    "predictability"
+    t.integer  "person_id"
+    t.integer  "abstains"
+    t.float    "abstains_percentage"
+    t.integer  "abstains_percentage_rank"
+    t.integer  "cosponsored_bills"
+    t.integer  "cosponsored_bills_rank"
+    t.integer  "sponsored_bills"
+    t.integer  "sponsored_bills_rank"
+    t.integer  "sponsored_bills_passed"
+    t.integer  "sponsored_bills_passed_rank"
+    t.integer  "cosponsored_bills_passed"
+    t.integer  "cosponsored_bills_passed_rank"
+    t.float    "with_party_percentage"
+    t.float    "party_votes_percentage"
+    t.integer  "party_votes_percentage_rank"
+    t.integer  "total_session_votes"
+    t.integer  "votes_democratic_position"
+    t.integer  "votes_republican_position"
+    t.integer  "votes_least_often_with_id"
+    t.integer  "votes_most_often_with_id"
+    t.integer  "same_party_votes_least_often_with_id"
+    t.integer  "opposing_party_votes_most_often_with_id"
+    t.integer  "metavid_id"
+    t.text     "recent_news"
+    t.text     "recent_blogs"
   end
 
 end
