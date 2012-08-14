@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-19T01:30:49-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">84.8958333333333</party-votes-percentage>
+        <abstains-percentage type="float">2.78481012658228</abstains-percentage>
+        <votes-most-often-with-id type="integer">300083</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">46</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">228</cosponsored-bills-passed-rank>
+        <abstains type="integer">11</abstains>
+        <cosponsored-bills type="integer">209</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">174</party-votes-percentage-rank>
+        <sponsored-bills type="integer">20</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">400284</person-id>
+        <cosponsored-bills-rank type="integer">195</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412384</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">127</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">326</votes-republican-position>
+      <fax nil="true"></fax>
+      <blog-article-count type="integer">7506</blog-article-count>
+      <user-approval type="float">4.24</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">194</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.moran.senate.gov/public/index.cfm?p=e-mail-jerry</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">84.8958333333333</with-party-percentage>
+      <lastname>Moran</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>M000934</bioguide-id>
+      <congress-office>354 Russell Senate Office Building</congress-office>
+      <firstname>Jerry</firstname>
+      <website>http://www.moran.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1954-05-29</birthday>
+      <person-id type="integer">400284</person-id>
+      <phone>202-224-6521</phone>
+      <religion>Methodist</religion>
+      <votes-democratic-position type="integer">166</votes-democratic-position>
+      <metavid-id>Jerry_Moran</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:06:57-04:00</created-at>
+          <title>Airbus to double $12B it spends with US suppliers</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...unless we approve more qualified suppliers. And that is precisely why we are here.&quot; McArtor was in Wichita with U.S. Sen. Jerry Moran to host the first Air Capital Supplier Summit. Kansas' aerospace industry encompasses more than 450 companies and accou</excerpt>
+          <fti-names>'12b':4 '450':47 'accou':50 'aerospac':42 'air':37 'airbus':1 'airportbusiness.com':51 'approv':12 'capit':38 'compani':48 'doubl':3 'encompass':44 'first':36 'host':34 'industri':43 'jerri':31 'kansa':41 'mcartor':24 'moran':32 'precis':19 'qualifi':14 'sen':30 'spend':6 'summit':40 'supplier':9,15,39 'u.s':29 'unless':10 'us':8 'wichita':27</fti-names>
+          <source-url>http://airportbusiness.com/</source-url>
+          <url>http://www.aviationpros.com/news/10756188/airbus-to-double-12b-it-spends-with-us-suppliers/news/10756188/airbus-to-double-12b-it-spends-with-us-suppliers</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973845</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AirportBusiness.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:06:55-04:00</created-at>
+          <title>Airbus to double US$12 bil. it spends with US suppliers</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...unless we approve more qualified suppliers. And that is precisely why we are here.&#8221; McArtor was in Wichita with U.S. Sen. Jerry Moran to host the first Air Capital Supplier Summit. Kansas' aerospace industry encompasses more than 450 companies and acc</excerpt>
+          <fti-names>'12':5 '450':49 'acc':52 'aerospac':44 'air':39 'airbus':1 'approv':14 'bil':6 'capit':40 'china':53 'compani':50 'doubl':3 'encompass':46 'first':38 'host':36 'industri':45 'jerri':33 'kansa':43 'mcartor':26 'moran':34 'post':54 'precis':21 'qualifi':16 'sen':32 'spend':8 'summit':42 'supplier':11,17,41 'u.s':31 'unless':12 'us':4,10 'wichita':29</fti-names>
+          <source-url>http://www.chinapost.com.tw/</source-url>
+          <url>http://www.chinapost.com.tw/business/company-focus/2012/08/08/350218/Airbus-to.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973844</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>China Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:40-04:00</created-at>
+          <title>Airbus looks to Wichita to help it grow</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...represented by more than 200 people &#8212; that the company has already agreed to second supplier conference in Kansas. Sen. Jerry Moran says the date and location of that event have yet to be worked out. But what Monday&#8217;s turnout and Airbus&#8217; commitmen</excerpt>
+          <fti-names>'200':13 'agre':20 'airbus':1,50 'alreadi':19 'busi':53 'commitmen':51 'compani':17 'confer':24 'date':32 'event':37 'grow':8 'help':6 'jerri':28 'journal':54 'kansa':26 'locat':34 'look':2 'monday':46 'moran':29 'peopl':14 'repres':9 'say':30 'second':22 'sen':27 'supplier':23 'turnout':48 'wichita':4,52 'work':42 'yet':39</fti-names>
+          <source-url>http://wichita.bizjournals.com/wichita/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_wichita/~3/AGZgkH9KtOw/airbus-looks-to-wichita-to-help-it-grow.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973213</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wichita Business Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:40-04:00</created-at>
+          <title>Airbus summit builds links to Kansas aviation companies</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...goal is to help grow the aviation industry in Kansas as Airbus expands its business relationships with area suppliers, said Sen. Jerry Moran. &#8220;What I think this conference supplies is hope,&#8221; Moran said. It provides suppliers a chance to connect with</excerpt>
+          <fti-names>'airbus':1,20 'area':26 'aviat':7,15 'build':3 'busi':23 'chanc':46 'compani':8 'confer':36 'connect':48 'expand':21 'goal':9 'grow':13 'help':12 'hope':39 'industri':16 'jerri':30 'kansa':6,18 'kansas.com':50 'link':4 'moran':31,40 'provid':43 'relationship':24 'said':28,41 'sen':29 'summit':2 'suppli':37 'supplier':27,44 'think':34</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://www.kansas.com/2012/08/06/2438240/airbus-summit-builds-links-to.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973212</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:40-04:00</created-at>
+          <title>Airbus to double $12B it spends with US suppliers</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...unless we approve more qualified suppliers. And that is precisely why we are here.&quot; McArtor was in Wichita with U.S. Sen. Jerry Moran to host the first Air Capital Supplier Summit. Kansas' aerospace industry encompasses more than 450 companies and accou</excerpt>
+          <fti-names>'12b':4 '450':47 'accou':50 'aerospac':42 'air':37 'airbus':1 'approv':12 'capit':38 'compani':48 'doubl':3 'encompass':44 'first':36 'host':34 'industri':43 'jerri':31 'kansa':41 'mcartor':24 'moran':32 'precis':19 'qualifi':14 'sen':30 'spend':6 'summit':40 'supplier':9,15,39 'u.s':29 'unless':10 'us':8 'wichita':27 'wvec.com':51</fti-names>
+          <source-url>http://www.wvec.com/</source-url>
+          <url>http://www.wvec.com/news/national/165181846.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973211</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WVEC.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:14:38-04:00</created-at>
+          <title>Summit aims to expand Kansas aviation sector</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Kansas aviation suppliers with a Wichita event called the Air Capital Supplier Summit. Today&#8217;s event is hosted by U.S. Sen. Jerry Moran and Airbus Americas chairman Allan McArtor. It comes just months after the aircraft maker&#8217;s biggest competitor, B</excerpt>
+          <fti-names>'aim':2 'air':17 'airbus':32 'aircraft':43 'allan':35 'america':33 'aviat':6,9 'b':48 'biggest':46 'call':15 'capit':18 'chairman':34 'come':38 'competitor':47 'event':14,23 'expand':4 'host':25 'jerri':29 'kansa':5,8 'kansascity.com':49 'maker':44 'mcartor':36 'month':40 'moran':30 'sector':7 'sen':28 'summit':1,20 'supplier':10,19 'today':21 'u.s':27 'wichita':13</fti-names>
+          <source-url>http://www.kansascity.com/</source-url>
+          <url>http://www.kansascity.com/2012/08/06/3745615/summit-aims-to-expand-kansas-aviation.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973210</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KansasCity.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:41:44-04:00</created-at>
+          <title>Senate panel backs wind perk's extension</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...tax credit beyond this year. The vote was 19-5. Sen. Pat Roberts, R-Dodge City, voted for the extension, and Sen. Jerry Moran, R-Hays, who is not on the committee, had urged passage. Roberts and Sen. Chuck Grassley, R-Iowa, crossed party lines to vote w</excerpt>
+          <fti-names>'-5':17 '19':16 'back':3 'beyond':10 'chuck':48 'citi':24 'committe':41 'credit':9 'cross':53 'dodg':23 'extens':7,28 'grassley':49 'hay':35 'hutchnews.com':59 'iowa':52 'jerri':31 'line':55 'moran':32 'panel':2 'parti':54 'passag':44 'pat':19 'perk':5 'r':22,34,51 'r-dodg':21 'r-hay':33 'r-iowa':50 'robert':20,45 'sen':18,30,47 'senat':1 'tax':8 'urg':43 'vote':14,25,57 'w':58 'wind':4 'year':12</fti-names>
+          <source-url>http://www.hutchnews.com/</source-url>
+          <url>http://www.hutchnews.com/Localregional/final-version--wind-energy-bill-passes-panel</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971333</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HutchNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:41:49-04:00</created-at>
+          <title>Kansas senators back wind power tax credit</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Grassley of Iowa joined the democrats in voting for the measure, according to the American Wind Energy Association. Kansas Sen. Jerry Moran is not on the committee, but submitted a letter in support. But the tax credit is expected to run into a lot toug</excerpt>
+          <fti-names>'accord':19 'american':22 'associ':25 'back':3 'committe':34 'credit':7,44 'democrat':13 'energi':24 'expect':46 'grassley':8 'iowa':10 'jerri':28 'join':11 'kansa':1,26 'kansas.com':53 'letter':38 'lot':51 'measur':18 'moran':29 'power':5 'run':48 'sen':27 'senat':2 'submit':36 'support':40 'tax':6,43 'toug':52 'vote':15 'wind':4,23</fti-names>
+          <source-url>http://www.kansas.com/</source-url>
+          <url>http://blogs.kansas.com/business/2012/08/02/kansas-senators-back-wind-power-tax-credit/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971335</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kansas.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:41:48-04:00</created-at>
+          <title>Wind tax credit gets a boost</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...tax credit beyond this year. The vote was 19-5. Sen. Pat Roberts, R-Dodge City, voted for the extension, and Sen. Jerry Moran, R-Hays, who is not on the committee, had urged passage. &#8220;This was an extremely important step to provide critical certainty </excerpt>
+          <fti-names>'-5':16 '19':15 'beyond':9 'boost':6 'certainti':53 'citi':23 'committe':40 'credit':3,8 'critic':52 'dodg':22 'extens':27 'extrem':47 'get':4 'hay':34 'hutchnews.com':54 'import':48 'jerri':30 'moran':31 'passag':43 'pat':18 'provid':51 'r':21,33 'r-dodg':20 'r-hay':32 'robert':19 'sen':17,29 'step':49 'tax':2,7 'urg':42 'vote':13,24 'wind':1 'year':11</fti-names>
+          <source-url>http://www.hutchnews.com/</source-url>
+          <url>http://www.hutchnews.com/Latestlocalnews/Wind-tax-credit-gets-a-boost</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971334</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HutchNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:45:43-04:00</created-at>
+          <title>GOP senator blasts USDA for endorsing 'Meatless Mondays'</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The Raw Story reports that Sen. Jerry Moran (R-Kansas) expressed his indignation over a USDA newsletter that urged employees not to eat meat on Mondays for environmental reasons. The USDA &quot;Greening Headquarters Update,&quot; sent out last week, pointed out that</excerpt>
+          <fti-names>'blast':3 'digit':51 'eat':32 'employe':29 'endors':6 'environment':37 'express':20 'gop':1 'green':41 'headquart':42 'indign':22 'jerri':15 'journal':52 'kansa':19 'last':46 'meat':33 'meatless':7 'monday':8,35 'moran':16 'newslett':26 'point':48 'r':18 'r-kansa':17 'raw':10 'reason':38 'report':12 'sen':14 'senat':2 'sent':44 'stori':11 'updat':43 'urg':28 'usda':4,25,40 'week':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.digitaljournal.com/article/329706</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T11:06:02-04:00</date>
+          <id type="integer">16967867</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Digital Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Jerry Moran [R, KS]</name>
+      <total-session-votes type="integer">384</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>CongressJerryMoran</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:55:49-04:00</created-at>
+          <title>Live Webcast April 24&#8211;The Start-up Act: Building America&amp;#39;s ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>9:00-9:45 a.m.. Keynote Address: Senator Jerry Moran, Kansas. Senator Mark Warner, Virginia. 9:45 a.m.-12:00 p.m.. Panel Discussion: Paula Collins, Vice President, Government Relations, Texas Instruments Incorporated ...</excerpt>
+          <fti-names>'-12':32 '-9':15 '..':18,35 '00':14,33 '24':4 '45':16,30 '9':13,29 'a.m':17,31 'act':9 'address':20 'america':11 'april':3 'build':10 'collin':39 'discuss':37 'govern':42 'incorpor':46 'instrument':45 'jerri':22 'kansa':24 'keynot':19 'live':1 'mark':26 'moran':23 'p.m':34 'page':47 'panel':36 'paula':38 'presid':41 'relat':43 'senat':21,25 'start':7 'start-up':6 'texa':44 'vice':40 'virginia':28 'warner':27 'webcast':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americaandtheglobaleconomy.wordpress.com/2012/04/17/live-webcast-april-24-the-start-up-act-building-americas-entrepreneurial-future/&amp;sa=U&amp;ei=pK6NT9HsCePU2AXyqe2QDA&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNGjF29Q0biraxssETOiSKCmCMFcEA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14546659</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>PAGE</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:55:48-04:00</created-at>
+          <title>Watch live: Startup Weekend KC pitches and Sen. Jerry Moran at 3 ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The finish line is in sight for the 12 teams of the 54-hour business-building sprint that is Startup Weekend Kansas City. Those teams will conclude a whirlwind weekend by delivering pitches for their products this evening at the ...</excerpt>
+          <fti-names>'12':21 '3':12 '54':25 'build':29 'busi':28 'business-build':27 'citi':36 'conclud':40 'deliv':45 'even':51 'finish':14 'hour':26 'jerri':9 'kansa':35 'kc':5 'line':15 'live':2 'michael':54 'moran':10 'pitch':6,46 'product':49 'sen':8 'sight':18 'sprint':30 'staci':55 'startup':3,33 'team':22,38 'watch':1 'weekend':4,34,43 'whirlwind':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.siliconprairienews.com/2012/04/watch-live-startup-weekend-kc-pitches-and-sen-jerry-moran-at-3-45&amp;sa=U&amp;ei=pK6NT9HsCePU2AXyqe2QDA&amp;ved=0CDEQmAEwAg&amp;usg=AFQjCNElfaG2mZnzu1H5e0x5PRE9pNWJqw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14546657</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michael Stacy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:55:48-04:00</created-at>
+          <title>Senator Jerry Moran tours Wichita tornado damage | Hutch Post</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Moran (seen above) talks with Sedgwick County Commissioner Dave Unruh during his visit to the Oaklawn neighborhood badly damaged Saturday night. WASHINGTON, D.C. &#8211; Kansas Senator Jerry Moran Sunday, ...</excerpt>
+          <fti-names>'bad':28 'commission':18 'counti':17 'd.c':33 'damag':7,29 'dave':19 'fred':39 'gough':40 'hutch':8 'jerri':2,36 'kansa':34 'moran':3,11,37 'neighborhood':27 'night':31 'oaklawn':26 'post':9 'saturday':30 'sedgwick':16 'seen':12 'senat':1,10,35 'sunday':38 'talk':14 'tornado':6 'tour':4 'unruh':20 'visit':23 'washington':32 'wichita':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hutchpost.com/2012/04/16/senator-jerry-moran-tours-wichita-tornado-damage/&amp;sa=U&amp;ei=pK6NT9HsCePU2AXyqe2QDA&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNHcK4eBPI_qaYOm7HQgBhyqulOLeg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14546656</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred Gough</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:03:46-04:00</created-at>
+          <title>Meet the 112th | Brownback tours devastated mobile home park</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>He and Sen. Jerry Moran, R-Kan., said an assessment is under way to determine whether the damage is severe enough to trigger federal disaster aid. Moran and Rep. Mike Pompeo, R-Wichita, said they will be working with ...</excerpt>
+          <fti-names>'112th':3 'aid':36 'assess':20 'brownback':4 'damag':28 'determin':25 'devast':6 'disast':35 'eagl':53 'enough':31 'feder':34 'home':8 'jerri':13 'kan':17 'meet':1 'mike':40 'mobil':7 'moran':14,37 'park':9 'pompeo':41 'r':16,43 'r-kan':15 'r-wichita':42 'rep':39 'said':18,45 'sen':12 'sever':30 'tour':5 'trigger':33 'way':23 'whether':26 'wichita':44,52 'work':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/brownback-tours-devastated-mobile-home-park/&amp;sa=U&amp;ei=oeuMT_eSD8HG2wWD_vHyCw&amp;ved=0CFEQmAEwCQ&amp;usg=AFQjCNFDV8KcB1_cfYOe5RLdcsZEeq0jww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527497</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Wichita Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:03:45-04:00</created-at>
+          <title>Senator Jerry Moran tours Wichita tornado damage | Hutch Post</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Moran (seen above) talks with Sedgwick County Commissioner Dave Unruh during his visit to the Oaklawn neighborhood badly damaged Saturday night. WASHINGTON, D.C. &#8211; Kansas Senator Jerry Moran Sunday, ...</excerpt>
+          <fti-names>'bad':28 'commission':18 'counti':17 'd.c':33 'damag':7,29 'dave':19 'fred':39 'gough':40 'hutch':8 'jerri':2,36 'kansa':34 'moran':3,11,37 'neighborhood':27 'night':31 'oaklawn':26 'post':9 'saturday':30 'sedgwick':16 'seen':12 'senat':1,10,35 'sunday':38 'talk':14 'tornado':6 'tour':4 'unruh':20 'visit':23 'washington':32 'wichita':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hutchpost.com/2012/04/16/senator-jerry-moran-tours-wichita-tornado-damage/&amp;sa=U&amp;ei=oeuMT_eSD8HG2wWD_vHyCw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNFlpzXoHKtzMk0HzOAzwLXjWo5V_A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527489</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fred Gough</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:43:50-04:00</created-at>
+          <title>Meet the 112th | Brownback tours devastated mobile home park</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Brownback said Saturday&amp;#39;s storms were an extraordinarily broad event, with more than 90 tornadoes spread out over 40 percent of the state. He and Sen. Jerry Moran, R-Kan., said an assessment is under way to determine ...</excerpt>
+          <fti-names>'112th':3 '40':28 '90':23 'assess':43 'broad':18 'brownback':4,10 'determin':48 'devast':6 'eagl':51 'event':19 'extraordinarili':17 'home':8 'jerri':36 'kan':40 'meet':1 'mobil':7 'moran':37 'park':9 'percent':29 'r':39 'r-kan':38 'said':11,41 'saturday':12 'sen':35 'spread':25 'state':32 'storm':14 'tornado':24 'tour':5 'way':46 'wichita':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/brownback-tours-devastated-mobile-home-park/&amp;sa=U&amp;ei=U1qMT-bKEsKg2AW35dDECQ&amp;ved=0CEgQmAEwBw&amp;usg=AFQjCNH3TtTVvsAYzdaONhtakFEllCq2qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508025</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Wichita Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:03:45-04:00</created-at>
+          <title>Watch live: Startup Weekend KC pitches and Sen. Jerry Moran at 3 ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The finish line is in sight for the 12 teams of the 54-hour business-building sprint that is Startup Weekend Kansas City. Those teams will conclude a whirlwind weekend by delivering pitches for their products this evening at the ...</excerpt>
+          <fti-names>'12':21 '3':12 '54':25 'build':29 'busi':28 'business-build':27 'citi':36 'conclud':40 'deliv':45 'even':51 'finish':14 'hour':26 'jerri':9 'kansa':35 'kc':5 'line':15 'live':2 'michael':54 'moran':10 'pitch':6,46 'product':49 'sen':8 'sight':18 'sprint':30 'staci':55 'startup':3,33 'team':22,38 'watch':1 'weekend':4,34,43 'whirlwind':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.siliconprairienews.com/2012/04/watch-live-startup-weekend-kc-pitches-and-sen-jerry-moran-at-3-45&amp;sa=U&amp;ei=oeuMT_eSD8HG2wWD_vHyCw&amp;ved=0CDEQmAEwAg&amp;usg=AFQjCNH5_pzopb93hNHTtDLrYimBOWXpkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14527490</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michael Stacy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:43:51-04:00</created-at>
+          <title>KFDI News &amp;gt; Gov. Brownback: We&amp;#39;ll pull together</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Brownback: We&amp;#39;ll pull together. Sunday, April 15, 2012. Gov. Sam Brownback toured tornado-damaged areas around the state Sunday, including Wichita and Oaklawn. Also on the tour was U.S. Sen. Jerry Moran, U.S. Rep. Mike Pompeo, Ks.</excerpt>
+          <fti-names>'15':16 '2012':17 'also':34 'april':15 'area':25 'around':26 'brownback':4,9,20 'damag':24 'gov':3,18 'includ':30 'jerri':41 'kfdi':1 'ks':47 'll':6,11 'mike':45 'moran':42 'news':2 'news.kfdi.com':48 'oaklawn':33 'pompeo':46 'pull':7,12 'rep':44 'sam':19 'sen':40 'state':28 'sunday':14,29 'togeth':8,13 'tornado':23 'tornado-damag':22 'tour':21,37 'u.s':39,43 'wichita':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.kfdi.com/news/147522905.html&amp;sa=U&amp;ei=U1qMT-bKEsKg2AW35dDECQ&amp;ved=0CFIQmAEwCQ&amp;usg=AFQjCNHCCua8JsiRioHP-DfLzyTKX4hQbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14508027</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://news.kfdi.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:43:48-04:00</created-at>
+          <title>Watch live: Startup Weekend KC pitches and Sen. Jerry Moran at 3 ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The finish line is in sight for the 12 teams of the 54-hour business-building sprint that is Startup Weekend Kansas City. Those teams will conclude a whirlwind weekend by delivering pitches for their products this evening at the ...</excerpt>
+          <fti-names>'12':21 '3':12 '54':25 'build':29 'busi':28 'business-build':27 'citi':36 'conclud':40 'deliv':45 'even':51 'finish':14 'hour':26 'jerri':9 'kansa':35 'kc':5 'line':15 'live':2 'michael':54 'moran':10 'pitch':6,46 'product':49 'sen':8 'sight':18 'sprint':30 'staci':55 'startup':3,33 'team':22,38 'watch':1 'weekend':4,34,43 'whirlwind':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.siliconprairienews.com/2012/04/watch-live-startup-weekend-kc-pitches-and-sen-jerry-moran-at-3-45&amp;sa=U&amp;ei=U1qMT-bKEsKg2AW35dDECQ&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNEPyGr_ChnFOldv56En93N_nQ71cA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14508017</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michael Stacy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400284</commentariable-id>
+          <created-at type="datetime">2012-04-16T00:13:30-04:00</created-at>
+          <title>KFDI News &amp;gt; Gov. Brownback: We&amp;#39;ll pull together</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Brownback: We&amp;#39;ll pull together. Sunday, April 15, 2012. Gov. Sam Brownback toured tornado-damaged areas around the state Sunday, including Wichita and Oaklawn. Also on the tour was U.S. Sen. Jerry Moran, U.S. Rep. Mike Pompeo, Ks.</excerpt>
+          <fti-names>'15':16 '2012':17 'also':34 'april':15 'area':25 'around':26 'brownback':4,9,20 'damag':24 'gov':3,18 'includ':30 'jerri':41 'kfdi':1 'ks':47 'll':6,11 'mike':45 'moran':42 'news':2 'news.kfdi.com':48 'oaklawn':33 'pompeo':46 'pull':7,12 'rep':44 'sam':19 'sen':40 'state':28 'sunday':14,29 'togeth':8,13 'tornado':23 'tornado-damag':22 'tour':21,37 'u.s':39,43 'wichita':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.kfdi.com/news/147522905.html&amp;sa=U&amp;ei=aZyLT_nqEMaW2QWd89jECQ&amp;ved=0CEQQmAEwBg&amp;usg=AFQjCNGHWOyrgMq0vnKC5nC5SdJ7Yv1O3g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14490526</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://news.kfdi.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22869</page-views-count>
+      <unaccented-name>Jerry Moran</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

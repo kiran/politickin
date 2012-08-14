@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-07T15:01:41-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.6312916919345</party-votes-percentage>
+        <abstains-percentage type="float">4.07213496218732</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">246</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">59</cosponsored-bills-passed-rank>
+        <abstains type="integer">70</abstains>
+        <cosponsored-bills type="integer">580</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">225</party-votes-percentage-rank>
+        <sponsored-bills type="integer">50</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">400237</person-id>
+        <cosponsored-bills-rank type="integer">9</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">10</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">273</votes-republican-position>
+      <fax>202-225-9817</fax>
+      <blog-article-count type="integer">13628</blog-article-count>
+      <user-approval type="float">3.93589743589744</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">188</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://lee.house.gov/?sectionid=44&amp;sectiontree=18,44</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.6312916919345</with-party-percentage>
+      <lastname>Lee</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>2267 Rayburn House Office Building</congress-office>
+      <firstname>Barbara</firstname>
+      <website>http://lee.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1946-07-16</birthday>
+      <person-id type="integer">400237</person-id>
+      <phone>202-225-2661</phone>
+      <religion>Baptist</religion>
+      <bioguide-id>L000551</bioguide-id>
+      <votes-democratic-position type="integer">1511</votes-democratic-position>
+      <metavid-id>Barbara_Lee</metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:48-04:00</created-at>
+          <title>Mercury News editorial: VA needs to move faster on veterans benefits backlog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Gary Peterson wrote about a weekend &quot;Fix It&quot; summit in San Francisco organized by U.S. Reps. Jackie Speier, D-Hillsborough, and Barbara Lee, D-Oakland. The idea was that veterans who had cases pending for long periods could meet with VA officials and te</excerpt>
+          <fti-names>'backlog':12 'barbara':35 'benefit':11 'case':47 'could':52 'd':32,38 'd-hillsborough':31 'd-oakland':37 'editori':3 'faster':8 'fix':19 'francisco':24 'gari':13 'hillsborough':33 'idea':41 'jacki':29 'jose':61 'lee':36 'long':50 'meet':53 'mercuri':1,62 'move':7 'need':5 'news':2,63 'oakland':39 'offici':56 'organ':25 'pend':48 'period':51 'peterson':14 'rep':28 'san':23,60 'speier':30 'summit':21 'te':58 'u.s':27 'va':4,55 'veteran':10,44 'weekend':18 'wrote':15</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/editorials/ci_21257821?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973474</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:47-04:00</created-at>
+          <title>Campaign Notebook</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...available. Also, Ives has won the endorsement of Barbara Lee, who founded and leads the Barbara Lee Political Office and Barbara Lee Family Foundation and has worked to elect women since she co&#173;founded the White House Project in 1998. She also serves o</excerpt>
+          <fti-names>'1998':42 'also':4,44 'avail':3 'barbara':11,18,23 'campaign':1 'co':35 'elect':31 'endors':9 'famili':25 'found':14,36 'foundat':26 'hous':39 'ive':5 'lead':16 'lee':12,19,24 'newburyportnews.com':47 'notebook':2 'o':46 'offic':21 'polit':20 'project':40 'serv':45 'sinc':33 'white':38 'women':32 'won':7 'work':29</fti-names>
+          <source-url>http://www.newburyportnews.com/</source-url>
+          <url>http://www.newburyportnews.com/local/x614302691/Campaign-Notebook</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973473</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewburyportNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:54:30-04:00</created-at>
+          <title>Oakland Tribune editorial: Fixing veterans' benefits process a national priority</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a weekend &quot;Fix It&quot; summit in San Francisco that had been organized by U.S. Reps. Jackie Speier, D-San Francisco, and Barbara Lee, D-Oakland. The idea was that many veterans who had cases pending for long periods could meet with the VA officials and tell</excerpt>
+          <fti-names>'area':61 'barbara':33 'bay':60 'benefit':6 'case':46 'could':51 'd':29,36 'd-oakland':35 'd-san':28 'editori':3 'fix':4,13 'francisco':18,31 'idea':39 'insid':59 'jacki':26 'lee':34 'long':49 'mani':42 'meet':52 'nation':9 'oakland':1,37 'offici':56 'organ':22 'pend':47 'period':50 'prioriti':10 'process':7 'rep':25 'san':17,30 'speier':27 'summit':15 'tell':58 'tribun':2 'u.s':24 'va':55 'veteran':5,43 'weekend':12</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/opinion/ci_21248758/oakland-tribune-editorial-fixing-veterans-benefits-process-national?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972873</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:54:29-04:00</created-at>
+          <title>New bill would bar feds from seizing properties rented to medical marijuana businesses</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...business owners have invested millions of dollars in building their companies, creating jobs, and paying their taxes,&quot; Rep. Barbara Lee, D-Oakland, said in a statement issued Friday by Americans for Safe Access. &quot;We should be protecting and implementing</excerpt>
+          <fti-names>'access':47 'american':44 'area':56 'bar':4 'barbara':32 'bay':55 'bill':2 'build':22 'busi':13,14 'compani':24 'creat':25 'd':35 'd-oakland':34 'dollar':20 'fed':5 'friday':42 'implement':53 'insid':54 'invest':17 'issu':41 'job':26 'lee':33 'marijuana':12 'medic':11 'million':18 'new':1 'oakland':36 'owner':15 'pay':28 'properti':8 'protect':51 'rent':9 'rep':31 'safe':46 'said':37 'seiz':7 'statement':40 'tax':30 'would':3</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/rss/ci_21247588?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972872</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:54:28-04:00</created-at>
+          <title>Rep. Barbara Lee Steps Up For Medical Marijuana</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Barbara Lee wants the feds to keep its hands off Oakland's marijuana dispensaries. Congresswoman Barbara Lee wants the federal Justice Department to back off. The Oakland congresswoman last week introduced a bill that would prohibit federal prosecutors </excerpt>
+          <fti-names>'area':49 'back':32 'barbara':2,9,24 'bay':48 'bill':41 'congresswoman':23,36 'depart':30 'dispensari':22 'fed':13 'feder':28,45 'hand':17 'introduc':39 'justic':29 'keep':15 'last':37 'lee':3,10,25 'marijuana':8,21 'medic':7 'nbc':47 'oakland':19,35 'prohibit':44 'prosecutor':46 'rep':1 'step':4 'want':11,26 'week':38 'would':43</fti-names>
+          <source-url>http://www.nbcbayarea.com/</source-url>
+          <url>http://feeds.nbcbayarea.com/click.phdo?i=317faa4fe802aa61fbe929f0250fb2a6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972871</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBC Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:43:25-04:00</created-at>
+          <title>65,000 Bay Area immigrants could benefit from deportation policy, study states</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...youths live in the South Bay and East Bay districts of Reps. Zoe Lofgren, D-San Jose; George Miller, D-Martinez; and Barbara Lee, D-Oakland. As the Obama administration readies for a rush of applications from young illegal immigrants seeking work permit</excerpt>
+          <fti-names>'000':2 '65':1 'administr':45 'applic':51 'area':4 'barbara':37 'bay':3,18,21 'benefit':7 'contra':59 'costa':60 'could':6 'd':28,34,40 'd-martinez':33 'd-oakland':39 'd-san':27 'deport':9 'district':22 'east':20 'georg':31 'illeg':54 'immigr':5,55 'jose':30 'lee':38 'live':14 'lofgren':26 'martinez':35 'miller':32 'oakland':41 'obama':44 'permit':58 'polici':10 'readi':46 'rep':24 'rush':49 'san':29 'seek':56 'south':17 'state':12 'studi':11 'time':61 'work':57 'young':53 'youth':13 'zoe':25</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/news/ci_21243195/65-000-bay-area-immigrants-could-benefit-from?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972484</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:50:23-04:00</created-at>
+          <title>New bill would bar feds from seizing properties rented to medical marijuana businesses</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...owners have invested millions of dollars in building their companies, creating jobs, and paying their taxes,&quot; Rep. Barbara Lee, D-Oakland, said in a statement issued Friday by Americans for Safe Access. &quot;We should be protecting and implementing the will</excerpt>
+          <fti-names>'access':46 'american':43 'bar':4 'barbara':31 'bill':2 'build':21 'busi':13 'compani':23 'creat':24 'd':34 'd-oakland':33 'dollar':19 'fed':5 'friday':41 'implement':52 'invest':16 'issu':40 'job':25 'jose':57 'lee':32 'marijuana':12 'medic':11 'mercuri':58 'million':17 'new':1 'news':59 'oakland':35 'owner':14 'pay':27 'properti':8 'protect':50 'rent':9 'rep':30 'safe':45 'said':36 'san':56 'seiz':7 'statement':39 'tax':29 'would':3</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/medical-marijuana/ci_21230054/new-bill-would-bar-feds-from-seizing-properties?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972206</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:28-04:00</created-at>
+          <title>Congresswoman Introduces Bill to Protect Landlords of Compliant Medical Marijuana Businesses</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...D.C. August 3, 2012 - Late yesterday, Congresswoman Barbara Lee (D-CA) and seven initial co-sponsors introduced HR 6335, the States' Medical Marijuana Property Rights Protection Act, in an attempt to stop the seizure of property from landlords of state </excerpt>
+          <fti-names>'2012':15 '3':14 '6335':32 'act':40 'attempt':43 'august':13 'barbara':19 'bill':3 'busi':11 'ca':23 'co':28 'co-sponsor':27 'compliant':8 'congresswoman':1,18 'd':22 'd-ca':21 'd.c':12 'hr':31 'initi':26 'introduc':2,30 'landlord':6,51 'late':16 'lee':20 'marijuana':10,36 'medic':9,35 'properti':37,49 'protect':5,39 'right':38 'seizur':47 'seven':25 'sponsor':29 'state':34,53 'stop':45 'yesterday':17 'yubanet':54</fti-names>
+          <source-url>http://www.yubanet.com/</source-url>
+          <url>http://feedproxy.google.com/~r/Yubanet/~3/3bY6YctSWXM/Congresswoman-Introduces-Bill-to-Protect-Landlords-of-Compliant-Medical-Marijuana-Businesses.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971712</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>YubaNet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:28-04:00</created-at>
+          <title>New bill would bar feds from seizing properties rented to medical marijuana businesses</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...owners have invested millions of dollars in building their companies, creating jobs, and paying their taxes,&quot; Rep. Barbara Lee, D-Oakland, said in a statement issued Friday by Americans for Safe Access. &quot;We should be protecting and implementing the will</excerpt>
+          <fti-names>'access':46 'american':43 'bar':4 'barbara':31 'bill':2 'build':21 'busi':13 'compani':23 'contra':55 'costa':56 'creat':24 'd':34 'd-oakland':33 'dollar':19 'fed':5 'friday':41 'implement':52 'invest':16 'issu':40 'job':25 'lee':32 'marijuana':12 'medic':11 'million':17 'new':1 'oakland':35 'owner':14 'pay':27 'properti':8 'protect':50 'rent':9 'rep':30 'safe':45 'said':36 'seiz':7 'statement':39 'tax':29 'time':57 'would':3</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/news/ci_21230056/new-bill-would-bar-feds-from-seizing-properties?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971711</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:28-04:00</created-at>
+          <title>New bill would bar feds from seizing properties rented to medical marijuana businesses</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...owners have invested millions of dollars in building their companies, creating jobs, and paying their taxes,&quot; Rep. Barbara Lee, D-Oakland, said in a statement issued Friday by Americans for Safe Access. &quot;We should be protecting and implementing the will</excerpt>
+          <fti-names>'access':46 'american':43 'bar':4 'barbara':31 'bill':2 'build':21 'busi':13 'compani':23 'contra':55 'costa':56 'creat':24 'd':34 'd-oakland':33 'dollar':19 'fed':5 'friday':41 'implement':52 'invest':16 'issu':40 'job':25 'lee':32 'marijuana':12 'medic':11 'million':17 'new':1 'oakland':35 'owner':14 'pay':27 'properti':8 'protect':50 'rent':9 'rep':30 'safe':45 'said':36 'seiz':7 'statement':39 'tax':29 'time':57 'would':3</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/politics-government/ci_21230056/new-bill-would-bar-feds-from-seizing-properties?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971710</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Barbara Lee [D, CA-9]</name>
+      <total-session-votes type="integer">1649</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepLee</youtube-id>
+      <district>9</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:15-04:00</created-at>
+          <title>IFARA Blog: IAS 2012: Barbara Lee</title>
+          <contains-term>congress</contains-term>
+          <excerpt>IAS 2012: Barbara Lee. Short interview with Congresswoman Barbara Lee, at the AIDS 2012 conference. No comments: Post a Comment. Newer Post Older Post Home. Subscribe to: Post Comments (Atom). Treatment Update 2012. Welcome ...</excerpt>
+          <fti-names>'2012':4,8,20,39 'aid':19 'atom':36 'barbara':5,9,15 'blog':2 'comment':23,26,35 'confer':21 'congresswoman':14 'home':31 'ia':3,7 'ifara':1 'interview':12 'jim':41 'lee':6,10,16 'newer':27 'older':29 'post':24,28,30,34 'short':11 'subscrib':32 'treatment':37 'updat':38 'welcom':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ifarablog.org/2012/07/ias-2012-barbara-lee.html&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNE_kuQuzDLHemCKdWByG4OzicfQcQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859656</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:15-04:00</created-at>
+          <title>Congressional leaders say bipartisanship, enthusiasm are key to ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Barbara Lee (D-CA) joined Sens. Chris Coon (D-DE), Marco Rubio (R-FL) and Mike Enzi (R-WY) at a panel discussion Wednesday at the International AIDS Conference in Washington focusing on sustaining the ...</excerpt>
+          <fti-names>'aid':41 'barbara':10 'bipartisanship':4 'ca':14 'chris':17 'confer':42 'congression':1 'coon':18 'd':13,20 'd-ca':12 'd-de':19 'de':21 'discuss':36 'enthusiasm':5 'enzi':29 'fl':26 'focus':45 'intern':40 'join':15 'key':7 'leader':2 'lee':11 'marco':22 'mazzotta':50 'meredith':49 'mike':28 'panel':35 'r':25,31 'r-fl':24 'r-wi':30 'rep':9 'rubio':23 'say':3 'sen':16 'sustain':47 'washington':44 'wednesday':37 'wy':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sciencespeaksblog.org/2012/07/25/congressional-leaders-say-bipartisanship-enthusiasm-are-key-to-continued-aids-support-on-the-hill/&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNGy63SOVQVenEiRCdZzvW2G8IGLKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859653</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Meredith Mazzotta</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:13-04:00</created-at>
+          <title>LISTEN: Roland Martin, Rep. Barbara Lee Discuss The Impact Of ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Roland Martin talks with Rep. Barbara Lee about the International AIDS Conference, how to get more people tested for the HIV/AIDS virus and then receive subsequent treatment for the devastating disease. Subscribe to the ...</excerpt>
+          <fti-names>'aid':21 'barbara':5,16 'confer':22 'devast':40 'discuss':7 'diseas':41 'get':25 'hiv/aids':31 'impact':9 'intern':20 'lee':6,17 'listen':1 'martin':3,12,46 'peopl':27 'receiv':35 'rep':4,15 'report':47 'roland':2,11,45 'subscrib':42 'subsequ':36 'talk':13 'test':28 'treatment':37 'virus':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rolandmartinreports.com/blog/2012/07/roland-s-martin-daily-podcast-07-25-12-roland-martin-rep-barbara-lee-discuss-the-impact-of-hivaids-in-the-black-community-how-to-get-more-individuals-tested/&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHEcvkhupW9lFHMJzbi-1TDjqGvfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859650</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Roland Martin Reports</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:12-04:00</created-at>
+          <title>The HereAfter Report: Rep. Barbara Lee and Dazon Dixon Diallo on ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>DemocracyNow.org - The 2012 International AIDS Conference has raised hopes that the U.S. will increase its efforts to end the epidemic both globally and here at home, where HIV/AIDS continues to pose a major health ...</excerpt>
+          <fti-names>'2012':14 'aid':16 'barbara':5 'confer':17 'continu':40 'dazon':8 'democracynow.org':12 'diallo':10 'dixon':9 'effort':27 'end':29 'epidem':31 'global':33 'health':45 'hereaft':2 'hiv/aids':39 'home':37 'hope':20 'increas':25 'intern':15 'k4l':49 'knowledg':46 'lee':6 'life':48 'major':44 'pose':42 'rais':19 'rep':4 'report':3 'u.s':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://know4life.blogspot.com/2012/07/rep-barbara-lee-and-dazon-dixon-diallo.html&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNH3HOUhdAOz80O74wTBErqVxe6q6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859648</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Knowledge for LIFE (K4L)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:10-04:00</created-at>
+          <title>NewBlackMan (in Exile): Rep. Barbara Lee and Dazon Dixon Diallo ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>We&amp;#39;re joined by Dazon Dixon Diallo, a pioneer in the HIV/AIDS and reproductive justice arena; and by Democratic Rep. Barbara Lee of California, a leader in the global fight against HIV/AIDS and has worked to establish a ...</excerpt>
+          <fti-names>'anthoni':50 'arena':26 'barbara':5,31 'california':34 'dazon':8,15 'democrat':29 'diallo':10,17 'dixon':9,16 'establish':47 'exil':3 'fight':40 'global':39 'hiv/aids':22,42 'join':13 'justic':25 'leader':36 'lee':6,32 'mark':49 'neal':51 'newblackman':1 'pioneer':19 're':12 'rep':4,30 'reproduct':24 'work':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newblackman.blogspot.com/2012/07/rep-barbara-lee-and-dazon-dixon-diallo.html&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNEzNjKMUeOER7en9xEP8hWba3g0xg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859647</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Anthony Neal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:15:41-04:00</created-at>
+          <title>Women&amp;#39;s Health Policy Report: House Subpanel Approves Funding ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The subcommittee voted down an amendment by Rep. Barbara Lee (D-Calif.) that would have eliminated the Planned Parenthood funding ban, as well as an amendment by Rep. Nita Lowey (D-N.Y.) that would have ...</excerpt>
+          <fti-names>'/site/news2?lcmd=pub.date.desc&amp;cmd=search':50 'amend':15,36 'approv':8 'ban':31 'barbara':18 'calif':22 'd':21,42 'd-calif':20 'd-n':41 'elimin':26 'fund':9,30 'health':3 'hous':6 'lee':19 'lowey':40 'n':43 'nita':39 'parenthood':29 'plan':28 'polici':4 'rep':17,38 'report':5 'subcommitte':11 'subpanel':7 'vote':12 'well':33 'women':1 'would':24,46 'www.nationalpartnership.org':49 'www.nationalpartnership.org/site/news2?lcmd=pub.date.desc&amp;cmd=search':48 'y':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nationalpartnership.org/site/News2%3Fabbr%3Ddaily2_%26page%3DNewsArticle%26id%3D34575&amp;sa=U&amp;ei=W80IUNGYF4PY2QWWlJ25Bw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGnpyOouhEHTFdn3y0n_HhifxsbrQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16749798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.nationalpartnership.org/site/News2?lcmd=pub.date.desc&amp;cmd=search</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:15:41-04:00</created-at>
+          <title>Congress Set to Waste 57 Percent of Our Taxes</title>
+          <contains-term>congress</contains-term>
+          <excerpt>We can insist that they keep the bipartisan ban on military sponsorships of NASCAR and other sporting events &#8212; and vote for budget-cutting amendments being proposed by Rep. Barbara Lee. You&amp;#39;ll remember that Barbara ...</excerpt>
+          <fti-names>'57':5 'amend':34 'ban':18 'barbara':39,45 'bipartisan':17 'budget':32 'budget-cut':31 'congress':1 'cut':33 'event':27 'insist':12 'keep':15 'lee':40 'll':42 'lorenzo':46 'militari':20 'nascar':23 'percent':6 'propos':36 'rememb':43 'rep':38 'set':2 'sponsorship':21 'sport':26 'tax':9 'vote':29 'wast':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.lorenzohagerty.com/blog/%3Fp%3D625&amp;sa=U&amp;ei=W80IUNGYF4PY2QWWlJ25Bw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFznKd4tnvWbvisMhlXNJmCAon9Bw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16749797</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lorenzo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:15:39-04:00</created-at>
+          <title>Newsfeed : Resolution by Rep. Barbara Lee Supports Global HIV ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Barbara Lee (D&#8211;Calif.) introduced a resolution expressing support for continued international cooperation to combat HIV/AIDS.</excerpt>
+          <fti-names>'barbara':5,11 'calif':14 'combat':25 'continu':21 'cooper':23 'd':13 'express':18 'global':8 'hiv':9 'hiv/aids':26 'intern':22 'introduc':15 'lee':6,12 'newsfe':1 'rep':4,10 'resolut':2,17 'support':7,19 'www.poz.com':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.poz.com/rssredir/articles/AIDS2012_Representatives_HIV_1_22695.shtml&amp;sa=U&amp;ei=W80IUNGYF4PY2QWWlJ25Bw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNE8_N48aiMzs_qkbVNoySQXv4ZQjA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16749792</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.poz.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:12-04:00</created-at>
+          <title>Newsfeed : Resolution by Rep. Barbara Lee Supports Global HIV ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Barbara Lee (D&#8211;Calif.) introduced a resolution expressing support for continued international cooperation to combat HIV/AIDS.</excerpt>
+          <fti-names>'barbara':5,11 'calif':14 'combat':25 'continu':21 'cooper':23 'd':13 'express':18 'global':8 'hiv':9 'hiv/aids':26 'intern':22 'introduc':15 'lee':6,12 'newsfe':1 'rep':4,10 'resolut':2,17 'support':7,19 'www.poz.com':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.poz.com/articles/AIDS2012_Representatives_HIV_1_22695.shtml&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEd0KkdaK9eVl-fKoJlIoCh1VoyVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16859649</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.poz.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400237</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:25:14-04:00</created-at>
+          <title>Rep. Barbara Lee blasts &amp;#39;meaningless&amp;#39; Obamacare repeal vote | The ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Barbara Lee (D-CA) slammed House Republicans on Tuesday for planning to vote for the 31st time to repeal the Affordable Care Act. &#8220;I rise in strong opposition to the GOP&amp;#39;s Patients&amp;#39; Rights Repeal Act,&#8221; she said on the ...</excerpt>
+          <fti-names>'31st':27 'act':34,47 'afford':32 'barbara':2,11 'blast':4 'ca':15 'care':33 'd':14 'd-ca':13 'dolan':54 'eric':52 'gop':42 'hous':17 'lee':3,12 'meaningless':5 'obamacar':6 'opposit':39 'patient':44 'plan':22 'rep':1,10 'repeal':7,30,46 'republican':18 'right':45 'rise':36 'said':49 'slam':16 'strong':38 'time':28 'tuesday':20 'vote':8,24 'w':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rawstory.com/rs/2012/07/10/rep-barbara-lee-blasts-meaningless-obamacare-repeal-vote/&amp;sa=U&amp;ei=lrgQUNHqEbGP0QHZzYDYAw&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNFJn4Rerlt4ZQ8XQwUGpkg2utXnWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16859652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric W. Dolan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">44480</page-views-count>
+      <unaccented-name>Barbara Lee</unaccented-name>
+      <oc-user-comments type="integer">10</oc-user-comments>
+    </person>
+  </people>
+</hash>

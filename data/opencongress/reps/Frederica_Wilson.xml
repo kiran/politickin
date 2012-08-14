@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.3235105701473</party-votes-percentage>
+        <abstains-percentage type="float">9.1913903432228</abstains-percentage>
+        <votes-most-often-with-id type="integer">400103</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">158</abstains>
+        <cosponsored-bills type="integer">288</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">14</sponsored-bills>
+        <votes-least-often-with-id type="integer">400643</votes-least-often-with-id>
+        <person-id type="integer">412412</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">358</votes-republican-position>
+      <blog-article-count type="integer">2115</blog-article-count>
+      <metavid-id nil="true"></metavid-id>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">22</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.3235105701473</with-party-percentage>
+      <youtube-id nil="true"></youtube-id>
+      <lastname>Wilson</lastname>
+      <congress-office>2229 Rayburn House Office Building</congress-office>
+      <firstname>Frederica</firstname>
+      <bioguide-id>W000808</bioguide-id>
+      <fax>202-226-0777</fax>
+      <website>http://wilson.house.gov/</website>
+      <birthday type="date">1942-11-05</birthday>
+      <person-id type="integer">412412</person-id>
+      <phone>202-225-4506</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1488</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:57-04:00</created-at>
+          <title>Miami-Dade August 14 Election: A Haters Guide</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to produce those mail pieces. Dr. Rudy Moise: Anyone else get the sense this wealthy physician is running against Congresswoman Frederica Wilson for a second time only because his ego can't help itself? This is the same guy, after all, who has bankrolle</excerpt>
+          <fti-names>'14':5 'anyon':18 'august':4 'bankroll':53 'congresswoman':29 'dade':3 'dr':15 'ego':39 'elect':6 'els':19 'frederica':30 'get':20 'guid':9 'guy':48 'hater':8 'help':42 'mail':13 'miami':2,54 'miami-dad':1 'mois':17 'new':55 'physician':25 'piec':14 'produc':11 'rudi':16 'run':27 'second':34 'sens':22 'time':35,56 'wealthi':24 'wilson':31</fti-names>
+          <source-url>http://www.miaminewtimes.com/</source-url>
+          <url>http://www.miaminewtimes.com/2012-08-09/news/miami-dade-august-14-election-a-haters-guide/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973651</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami New Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:08:17-04:00</created-at>
+          <title>The Five Worst Primary Candidates: Our Haters Guide To Next Tuesday's Election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...any of these folks: 5. Dr. Rudolph Moise Anyone else get the sense this wealthy physician is running against Congresswoman Frederica Wilson for a second time only because his ego can't help itself? This is the same guy, after all, who has bankrolled B-m</excerpt>
+          <fti-names>'5':18 'anyon':22 'b':59 'b-m':58 'bankrol':57 'candid':5 'congresswoman':33 'dr':19 'ego':43 'elect':13 'els':23 'five':2 'folk':17 'frederica':34 'get':24 'guid':8 'guy':52 'hater':7 'help':46 'm':60 'miami':61 'mois':21 'new':62 'next':10 'physician':29 'primari':4 'rudolph':20 'run':31 'second':38 'sens':26 'time':39,63 'tuesday':11 'wealthi':28 'wilson':35 'worst':3</fti-names>
+          <source-url>http://www.miaminewtimes.com/</source-url>
+          <url>http://blogs.miaminewtimes.com/riptide/2012/08/our_haters_guide_to_tuesdays_e.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973035</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami New Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:23:07-04:00</created-at>
+          <title>Rivals wage bitter dispute for Miami-Dade commission seat</title>
+          <contains-term>congress</contains-term>
+          <excerpt>She&#8217;s been the city&#8217;s mayor since the city was incorporated in 2003. In 2010 she ran a lackluster campaign for Congress and lost to state Rep. Frederica Wilson.</excerpt>
+          <fti-names>'2003':24 '2010':26 'bitter':3 'campaign':31 'citi':15,20 'commiss':9 'congress':33 'dade':8 'disput':4 'frederica':39 'herald':42 'incorpor':22 'lacklust':30 'lost':35 'mayor':17 'miami':7,41 'miami-dad':6 'ran':28 'rep':38 'rival':1 'seat':10 'sinc':18 'state':37 'wage':2 'wilson':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.miamiherald.com/2012/07/30/2921582_rivals-wage-bitter-dispute-for.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T16:50:49-04:00</date>
+          <id type="integer">16967376</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:23:07-04:00</created-at>
+          <title>The Herald recommends</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Two years ago, U.S. Rep. Frederica Wilson came out on top in a nine-candidate race with 35 percent of the vote in what was then Congressional District 17, with Dr. Rudy Moise, 57, a Haitian-American physician, taking second with 16 percent.</excerpt>
+          <fti-names>'16':47 '17':33 '35':22 '57':38 'ago':6 'american':42 'came':11 'candid':19 'congression':31 'district':32 'dr':35 'frederica':9 'haitian':41 'haitian-american':40 'herald':2,50 'miami':49 'mois':37 'nine':18 'nine-candid':17 'percent':23,48 'physician':43 'race':20 'recommend':3 'rep':8 'rudi':36 'second':45 'take':44 'top':14 'two':4 'u.s':7 'vote':26 'wilson':10 'year':5</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.miamiherald.com/2012/07/30/2916613_the-herald-recommends.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T07:03:50-04:00</date>
+          <id type="integer">16967375</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:38:06-04:00</created-at>
+          <title>Rivals wage bitter dispute for Miami-Dade commission seat</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the North Dade community council, then turned her attention to the creation of Miami Gardens. She&#8217;s been the city&#8217;s mayor since the city was incorporated in 2003. In 2010 she ran a lackluster campaign for Congress and lost to state Rep. Frederica Wi</excerpt>
+          <fti-names>'2003':39 '2010':41 'attent':19 'bitter':3 'campaign':46 'citi':30,35 'commiss':9 'communiti':14 'congress':48 'council':15 'creation':22 'dade':8,13 'disput':4 'frederica':54 'garden':25 'herald':57 'incorpor':37 'lacklust':45 'lost':50 'mayor':32 'miami':7,24,56 'miami-dad':6 'north':12 'ran':43 'rep':53 'rival':1 'seat':10 'sinc':33 'state':52 'turn':17 'wage':2 'wi':55</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/07/30/2921582/rivals-wage-bitter-dispute-for.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961821</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:16:09-04:00</created-at>
+          <title>The Herald recommends</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Two years ago, U.S. Rep. Frederica Wilson came out on top in a nine-candidate race with 35 percent of the vote in what was then Congressional District 17, with Dr. Rudy Moise, 57, a Haitian-American physician, taking second with 16 percent.</excerpt>
+          <fti-names>'16':47 '17':33 '35':22 '57':38 'ago':6 'american':42 'came':11 'candid':19 'congression':31 'district':32 'dr':35 'frederica':9 'haitian':41 'haitian-american':40 'herald':2,50 'miami':49 'mois':37 'nine':18 'nine-candid':17 'percent':23,48 'physician':43 'race':20 'recommend':3 'rep':8 'rudi':36 'second':45 'take':44 'top':14 'two':4 'u.s':7 'vote':26 'wilson':10 'year':5</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.miamiherald.com/2012/07/30/2916613/the-herald-recommends.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T23:54:20-04:00</date>
+          <id type="integer">16951017</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:23:07-04:00</created-at>
+          <title>Obama intervenes for Democratic freshman</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The latest example comes from south Florida, where first-term Democratic Rep. Frederica Wilson received the president&#8217;s formal backing Friday. Wilson faces a rematch with Haitian-American Rudy Moise, whom she bested in the 2010 primary in the heavily ...</excerpt>
+          <fti-names>'2010':43 'american':35 'back':26 'best':40 'come':9 'democrat':4,17 'exampl':8 'face':29 'first':15 'first-term':14 'florida':12 'formal':25 'frederica':19 'freshman':5 'friday':27 'haitian':34 'haitian-american':33 'heavili':47 'interven':2 'latest':7 'mois':37 'obama':1 'politico.com':48 'presid':23 'primari':44 'receiv':21 'rematch':31 'rep':18 'rudi':36 'south':11 'term':16 'wilson':20,28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/blogs/charlie-mahtesian/2012/07/obama-intervenes-for-democratic-freshman-130376.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T10:32:37-04:00</date>
+          <id type="integer">16967377</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:16:24-04:00</created-at>
+          <title>Obama intervenes for Democratic freshman</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...usually a sign they&#8217;re sweating a little bit. The latest example comes from south Florida, where first-term Democratic Rep. Frederica Wilson received the president&#8217;s formal backing Friday . Wilson faces a rematch with Haitian-American Rudy Moise, wh</excerpt>
+          <fti-names>'american':44 'back':35 'bit':14 'come':18 'democrat':4,26 'exampl':17 'face':38 'first':24 'first-term':23 'florida':21 'formal':34 'frederica':28 'freshman':5 'friday':36 'haitian':43 'haitian-american':42 'interven':2 'latest':16 'littl':13 'mois':46 'obama':1 'politico':49 'presid':32 're':10 'receiv':30 'rematch':40 'rep':27 'rudi':45 'sign':8 'south':20 'sweat':11 'term':25 'usual':6 'wh':47 'wilson':29,37</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=c31628355c48f1bd6dc9103e607a6f2d</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951021</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:22:38-04:00</created-at>
+          <title>Sarah Palin On Chick-Fil-A: Republican Shows Support Amid Gay Rights Debate</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Sen. Patrick Leahy Peter Welch &quot;This is an historic moment and I applaud the President for his decision and courage,&quot; Rep. Peter Welch (D-Vt.) said. &quot;One of the greatest and most liberating human emotions is acceptance. And what the President did today </excerpt>
+          <fti-names>'accept':52 'amid':11 'applaud':27 'chick':5 'chick-fil-a':4 'courag':34 'd':39 'd-vt':38 'debat':14 'decis':32 'emot':50 'fil':6 'gay':12 'greatest':45 'histor':23 'huffington':60 'human':49 'leahi':17 'liber':48 'moment':24 'one':42 'palin':2 'patrick':16 'peter':18,36 'post':61 'presid':29,56 'rep':35 'republican':8 'right':13 'said':41 'sarah':1 'sen':15 'show':9 'support':10 'today':58 'vt':40 'welch':19,37</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/07/28/sarah-palin-chick-fil-a_n_1713583.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931452</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:40:02-04:00</created-at>
+          <title>President Obama Endorses Rep. Frederica Wilson For Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and punished middle-class Americans. We cannot let them succeed, and that is why we need to re-elect Congresswoman Frederica Wilson,&#8221; President Obama said. Rep. Wilson said she graciously accepts the endorsement. &#8220;As an early and enthusiastic suppor</excerpt>
+          <fti-names>'accept':41 'american':14 'cannot':16 'cbs':50 'class':13 'congress':8 'congresswoman':30 'earli':46 'elect':29 'endors':3,43 'enthusiast':48 'frederica':5,31 'gracious':40 'let':17 'miami':51 'middl':12 'middle-class':11 'need':25 'obama':2,34 'presid':1,33 'punish':10 're':28 're-elect':27 'rep':4,36 'said':35,38 'succeed':19 'suppor':49 'wilson':6,32,37</fti-names>
+          <source-url>http://miami.cbslocal.com/</source-url>
+          <url>http://miami.cbslocal.com/2012/07/27/president-obama-endorses-rep-frederica-wilson-for-congress/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16924291</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS Miami</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Frederica Wilson [D, FL-17]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">1561</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>17</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:15:11-04:00</created-at>
+          <title>Chuck on the Right Side: Are You a Racist?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>When this story hit the news media, all hell broke loose. We had so-called black leaders such as Jesse Jackson, Al Sharpton, and Rep. Frederica Wilson (D-Miami), come to Sanford, Florida to stir up trouble by depicting the ...</excerpt>
+          <fti-names>'al':32 'black':26 'broke':19 'call':25 'chuck':1,52 'come':41 'd':39 'd-miami':38 'depict':50 'florida':44 'frederica':36 'hell':18 'hit':13 'jackson':31 'jess':30 'leader':27 'loos':20 'media':16 'miami':40 'news':15 'racist':9 'rep':35 'right':4 'sanford':43 'sharpton':33 'side':5 'so-cal':23 'stir':46 'stori':12 'troubl':48 'wilson':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chuckontherightside.blogspot.com/2012/07/are-you-racist.html&amp;sa=U&amp;ei=s2wWUIKhJanm0QH5_IGwCA&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNG2SI2vNfIvst-qMOv4DtsrzP8j-w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951004</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chuck</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:15:05-04:00</created-at>
+          <title>CD 24: Frederica Wilson Faces a Dem Primary Rematch Against Rudy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>CD 24: Frederica Wilson Faces a Dem Primary Rematch Against Rudy Moise Sunshine State News U.S. Rep. Frederica Wilson won the congressional seat representing parts of Broward and Miami-Dade counties vacated by ...</excerpt>
+          <fti-names>'24':2,13 'admin':46 'broward':38 'cd':1,12 'congression':33 'counti':43 'dade':42 'dem':7,18 'face':5,16 'frederica':3,14,29 'miami':41 'miami-dad':40 'mois':23 'news':26 'part':36 'primari':8,19 'rematch':9,20 'rep':28 'repres':35 'rudi':11,22 'seat':34 'state':25 'sunshin':24 'u.s':27 'vacat':44 'wilson':4,15,30 'won':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/fl-moc/fredrica-wilson-florida-representative/cd-24-frederica-wilson-faces-a-dem-primary-rematch-against-rudy-moise-sunshine-state-news/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcd-24-frederica-wilson-faces-a-dem-primary-rematch-against-rudy-moise-sunshine-state-news&amp;sa=U&amp;ei=s2wWUIKhJanm0QH5_IGwCA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNF6-ffua4z2dtEOVuZVLER3K9Zdrg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951000</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:15:04-04:00</created-at>
+          <title>By any reasonable measure, FL-17&amp;#39;s Frederica Wilson is ... - blog*spot</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Eleanor Sobel, or with U.S. Rep. Frederica Wilson in Washington, D.C., he is over-represented by ineffective Rubber Stamps with no history of being serious and thoughtful statesmen, where being effective and right on public ...</excerpt>
+          <fti-names>'-17':6 'beach':50 'blog':11,51 'd.c':23 'effect':44 'eleanor':13 'fl':5 'frederica':8,19 'hallandal':49 'histori':35 'ineffect':30 'measur':4 'over-repres':26 'public':48 'reason':3 'rep':18 'repres':28 'right':46 'rubber':31 'serious':38 'sobel':14 'spot':12 'stamp':32 'statesmen':41 'thought':40 'u.s':17 'washington':22 'wilson':9,20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hallandalebeachblog.blogspot.com/2012/07/by-any-reasonable-measure-fl-17s.html&amp;sa=U&amp;ei=s2wWUIKhJanm0QH5_IGwCA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNE5A_64lCQiMHxleW-8gcKbwVHz3A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950999</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Hallandale Beach Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:15:00-04:00</created-at>
+          <title>President Obama endorses Rep. Frederica Wilson | Naked Politics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Looks like Democratic Congresswoman Frederica Wilson won the endorsement war against her rival Democrat, Rudy Moise, who was endorsed by Haitian president Michel Martelly in May. Moise has sent out mailers ...</excerpt>
+          <fti-names>'caputo':41 'congresswoman':12 'democrat':11,22 'endors':3,17,27 'frederica':5,13 'haitian':29 'like':10 'look':9 'mailer':39 'marc':40 'martelli':32 'may':34 'michel':31 'mois':24,35 'nake':7 'obama':2 'polit':8 'presid':1,30 'rep':4 'rival':21 'rudi':23 'sent':37 'war':18 'wilson':6,14 'won':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiherald.typepad.com/nakedpolitics/2012/07/president-obama-endorses-rep-frederica-wilson.html&amp;sa=U&amp;ei=s2wWUIKhJanm0QH5_IGwCA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNHWRsWwc0X12z-6nDiaeYFyobK3Dg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16950998</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:22:17-04:00</created-at>
+          <title>Test-bashing in Florida could hurt poor and minority students the ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Against that hopeful backdrop, U.S. Rep. Frederica Wilson, D-Miami, (pictured here) offered some particularly biting assessments of Florida&amp;#39;s education reforms last week. In an op-ed for the Miami Herald, the former principal ...</excerpt>
+          <fti-names>'assess':30 'backdrop':16 'bash':3 'bite':29 'could':6 'd':22 'd-miami':21 'ed':42 'educ':34 'florida':5,32 'former':48 'frederica':19 'herald':46 'hope':15 'hurt':7 'last':36 'matus':51 'miami':23,45 'minor':10 'offer':26 'op':41 'op-':40 'particular':28 'pictur':24 'poor':8 'princip':49 'reform':35 'rep':18 'ron':50 'student':11 'test':2 'test-bash':1 'u.s':17 'week':37 'wilson':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redefinedonline.org/2012/07/test-bashing-in-florida-could-hurt-poor-and-minority-students-the-most/&amp;sa=U&amp;ei=tPIUUN7aLYaw8AS-sIGoBw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGYCwJYr1rj8PT4lTC0h4fuKPyEBQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931445</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ron Matus</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:22:13-04:00</created-at>
+          <title>President Obama endorses Rep. Frederica Wilson | Naked Politics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Looks like Democratic Congresswoman Frederica Wilson won the endorsement war against her rival Democrat, Rudy Moise, who was endorsed by Haitian president Michel Martelly in May. Moise has sent out mailers ...</excerpt>
+          <fti-names>'caputo':41 'congresswoman':12 'democrat':11,22 'endors':3,17,27 'frederica':5,13 'haitian':29 'like':10 'look':9 'mailer':39 'marc':40 'martelli':32 'may':34 'michel':31 'mois':24,35 'nake':7 'obama':2 'polit':8 'presid':1,30 'rep':4 'rival':21 'rudi':23 'sent':37 'war':18 'wilson':6,14 'won':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiherald.typepad.com/nakedpolitics/2012/07/president-obama-endorses-rep-frederica-wilson.html&amp;sa=U&amp;ei=tPIUUN7aLYaw8AS-sIGoBw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGvVk5d3DCVR1RxUBwRrwyLI3u6fw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931440</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:39:57-04:00</created-at>
+          <title>Legislators get the Micro &amp;amp; Macro Vision of Building An AIDS-free ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... for bringing together state leaders such as Congressional Representatives Representative Debbie Wasserman Schultz, Representative Ted Deutch andRepresentative Frederica Wilson who came out to hear from national, ...</excerpt>
+          <fti-names>'aid':11 'aids-fre':10 'andrepres':29 'bring':14 'build':8 'came':33 'congression':20 'debbi':23 'deutch':28 'frederica':30 'free':12 'get':2 'hear':36 'leader':17 'legisl':1 'macro':5 'micro':4 'nation':38 'repres':21,22,26 'rwhp':39 'schultz':25 'state':16 'ted':27 'togeth':15 'vision':6 'wasserman':24 'wilson':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.rwhp.org/legislators-get-the-micro-macro-vision-of-building-an-aids-free-generation/&amp;sa=U&amp;ei=DF8TUMqOFIqc8QTFo4DICA&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNFawx_UIyAbKH2hGqwfoW5XJDGiGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16924284</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RWHP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:39:57-04:00</created-at>
+          <title>Test-bashing in Florida could hurt poor and minority students the ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Against that hopeful backdrop, U.S. Rep. Frederica Wilson, D-Miami, (pictured here) offered some particularly biting assessments of Florida&amp;#39;s education reforms last week. In an op-ed for the Miami Herald, the former principal ...</excerpt>
+          <fti-names>'assess':30 'backdrop':16 'bash':3 'bite':29 'could':6 'd':22 'd-miami':21 'ed':42 'educ':34 'florida':5,32 'former':48 'frederica':19 'herald':46 'hope':15 'hurt':7 'last':36 'matus':51 'miami':23,45 'minor':10 'offer':26 'op':41 'op-':40 'particular':28 'pictur':24 'poor':8 'princip':49 'reform':35 'rep':18 'ron':50 'student':11 'test':2 'test-bash':1 'u.s':17 'week':37 'wilson':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redefinedonline.org/2012/07/test-bashing-in-florida-could-hurt-poor-and-minority-students-the-most/&amp;sa=U&amp;ei=DF8TUMqOFIqc8QTFo4DICA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGLLTCe1HqO5ZkxKSYL1-BPMFNmLA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16924281</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ron Matus</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:39:56-04:00</created-at>
+          <title>President Obama endorses Rep. Frederica Wilson | Naked Politics</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Looks like Democratic Congresswoman Frederica Wilson won the endorsement war against her rival Democrat, Rudy Moise, who was endorsed by Haitian president Michel Martelly in May. Moise has sent out mailers ...</excerpt>
+          <fti-names>'caputo':41 'congresswoman':12 'democrat':11,22 'endors':3,17,27 'frederica':5,13 'haitian':29 'like':10 'look':9 'mailer':39 'marc':40 'martelli':32 'may':34 'michel':31 'mois':24,35 'nake':7 'obama':2 'polit':8 'presid':1,30 'rep':4 'rival':21 'rudi':23 'sent':37 'war':18 'wilson':6,14 'won':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiherald.typepad.com/nakedpolitics/2012/07/president-obama-endorses-rep-frederica-wilson.html&amp;sa=U&amp;ei=DF8TUMqOFIqc8QTFo4DICA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNH31gqrx3x1D31UtXIYLJWteCsNBg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16924278</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412412</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:15:06-04:00</created-at>
+          <title>CD 24: Frederica Wilson Faces a Dem Primary Rematch Against Rudy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Frederica Wilson won the congressional seat representing parts of Broward and Miami-Dade counties vacated by Kendrick Meek in 2010, beating out eight other candidates in the Democratic primary -- but Dr. Rudy ...</excerpt>
+          <fti-names>'2010':34 '24':2 'beat':35 'broward':23 'candid':39 'cd':1 'congression':18 'counti':28 'dade':27 'dem':7 'democrat':42 'derbi':48 'dr':45 'eight':37 'face':5 'frederica':3,14 'kendrick':31 'kevin':47 'meek':32 'miami':26 'miami-dad':25 'part':21 'primari':8,43 'rematch':9 'rep':13 'repres':20 'rudi':11,46 'seat':19 'u.s':12 'vacat':29 'wilson':4,15 'won':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sunshinestatenews.com/story/cd-24-frederica-wilson-faces-dem-primary-rematch-against-rudy-moise&amp;sa=U&amp;ei=s2wWUIKhJanm0QH5_IGwCA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNF-P1pHhybCx6RXnT76QLBxmXxBxA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16951001</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kevin Derby</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5908</page-views-count>
+      <unaccented-name>Frederica Wilson</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

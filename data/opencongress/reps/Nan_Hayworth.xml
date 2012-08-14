@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">88.0631948507899</party-votes-percentage>
+        <abstains-percentage type="float">0.58173356602676</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">10</abstains>
+        <cosponsored-bills type="integer">164</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412452</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">13</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1505</votes-republican-position>
+      <fax>202- 225-3289</fax>
+      <blog-article-count type="integer">2235</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">21</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <bioguide-id>H001054</bioguide-id>
+      <with-party-percentage type="float">88.0631948507899</with-party-percentage>
+      <lastname>Hayworth</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1440 Longworth House Office Building</congress-office>
+      <firstname>Nan</firstname>
+      <website>http://hayworth.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1959-12-14</birthday>
+      <person-id type="integer">412452</person-id>
+      <phone>202-225-5441</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">511</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:42:56-04:00</created-at>
+          <title>Nan Hayworth's Lady Problems: Did Her Campaign Manager Tell Women 'To Wear as Little As Possible' at Party?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...history of saying sketchy things about women, because that would be (A) dodgy and (B) just plain bad politics. For Republican Rep. Nan Hayworth, of New York's 18th Congressional District, however, this (perplexingly) is not a hypothetical at all. That 2</excerpt>
+          <fti-names>'18th':48 '2':61 'b':34 'bad':37 'campaign':8 'congression':49 'district':50 'dodgi':32 'hayworth':2,43 'histori':20 'howev':51 'hypothet':57 'ladi':4 'littl':15 'manag':9 'nan':1,42 'new':45 'parti':19 'perplex':53 'plain':36 'polit':38 'possibl':17 'problem':5 'rep':41 'republican':40 'say':22 'sketchi':23 'tell':10 'thing':24 'villag':62 'voic':63 'wear':13 'women':11,26 'would':29 'york':46</fti-names>
+          <source-url>http://www.villagevoice.com/</source-url>
+          <url>http://feeds.villagevoice.com/~r/blogs/runninscared/~3/oPGgfHXSnsE/nan_hayworths_l.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973422</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Village Voice</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:48:34-04:00</created-at>
+          <title>Making The Case For A Cuomo Endorsement</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in Senate races &#8211; to the extent he engages at all &#8211; until well into the fall. Saland, for the record, also has a GOP primary challenger: Neil DiCarlo, a Putnam County Republican who ran a failed primary campaign against now-Rep. Nan Hayworth in 2010</excerpt>
+          <fti-names>'2010':52 'also':27 'campaign':44 'capit':53 'case':3 'challeng':32 'counti':37 'cuomo':6 'dicarlo':34 'endors':7 'engag':15 'extent':13 'fail':42 'fall':22 'gop':30 'hayworth':50 'make':1 'nan':49 'neil':33 'now-rep':46 'primari':31,43 'putnam':36 'race':10 'ran':40 'record':26 'rep':48 'republican':38 'saland':23 'senat':9 'tonight':54 'well':19</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/making-the-case-for-a-cuomo-endorsement/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972831</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:48:33-04:00</created-at>
+          <title>Mid-Hudson Political Report: Tax-cut debates continue to rage</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Campaign Committee, for instance, put out a press release titled &quot;Millionaires Toast Champagne Glasses To Thank Congresswoman Nan Hayworth&quot; shortly after the vote. This area's representatives split on party lines on the tax vote, with Reps. Hayworth, R-</excerpt>
+          <fti-names>'area':37 'campaign':13 'champagn':25 'committe':14 'congresswoman':29 'continu':10 'cut':8 'debat':9 'glass':26 'hayworth':31,50 'herald':54 'herald-record':53 'hudson':3 'instanc':16 'line':43 'mid':2 'mid-hudson':1 'millionair':23 'nan':30 'parti':42 'polit':4 'press':20 'put':17 'r':51 'rage':12 'record':55 'releas':21 'rep':49 'report':5 'repres':39 'short':32 'split':40 'tax':7,46 'tax-cut':6 'thank':28 'time':52 'titl':22 'toast':24 'vote':35,47</fti-names>
+          <source-url>http://www.recordonline.com/</source-url>
+          <url>http://recordonline.com/apps/pbcs.dll/article?AID=/20120806/NEWS/208060318/-1/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972830</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Times Herald-Record</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:48:33-04:00</created-at>
+          <title>Freshmen Republicans don&#8217;t all claim tea-party ties</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...from Syracuse, N.Y., continue to embrace the tea party. Others are moving away. Another Republican congresswoman from New York, Nan Hayworth, who only a year ago said she &#8220;belonged to a tea- party group,&#8221; more recently has bragged about voting with </excerpt>
+          <fti-names>'ago':36 'anoth':24 'away':23 'belong':39 'brag':48 'claim':6 'congresswoman':26 'continu':14 'embrac':16 'freshmen':1 'group':44 'hayworth':31 'herald':53 'miami':52 'move':22 'n.y':13 'nan':30 'new':28 'other':20 'parti':9,19,43 'recent':46 'republican':2,25 'said':37 'syracus':12 'tea':8,18,42 'tea-parti':7 'tie':10 'vote':50 'year':35 'york':29</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/08/06/2936483/freshmen-republicans-dont-all.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972829</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:39:12-04:00</created-at>
+          <title>Democratic poll finds Maloney 3 points behind Hayworth</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...congressional candidate Sean Maloney trails freshman Republican Rep. Nan Hayworth by three percentage points in the Hudson Valley&#8217;s new 18th Congressional District, according to a poll commissioned by a Democratic political action committee and a majo</excerpt>
+          <fti-names>'18th':29 '3':5 'accord':32 'action':41 'behind':7 'candid':10 'commiss':36 'committe':42 'congression':9,30 'democrat':1,39 'district':31 'find':3 'freshman':14 'hayworth':8,18 'hudson':25,49 'majo':45 'maloney':4,12 'nan':17 'new':28 'percentag':21 'point':6,22 'polit':40,46 'poll':2,35 'rep':16 'republican':15 'sean':11 'three':20 'trail':13 'valley':26</fti-names>
+          <source-url>http://polhudson.lohudblogs.com/</source-url>
+          <url>http://polhudson.lohudblogs.com/2012/08/02/democratic-poll-finds-maloney-3-points-behind-hayworth/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970670</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politics on the Hudson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:39:11-04:00</created-at>
+          <title>A Trifecta Of Gay Support For Johnson</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...and Rep. Carolyn Maloney co-hosted a fund-raiser for Wappingers Falls Mayor Matt Alexander, who was hoping to take on GOP Rep. Nan Hayworth in November. Alexander a 5-way Democrat primary on June 26 to another openly gay candidate, former Spitzer/Paters</excerpt>
+          <fti-names>'26':45 '5':39 'alexand':24,37 'anoth':47 'candid':50 'capit':53 'carolyn':10 'co':13 'co-host':12 'democrat':41 'fall':21 'former':51 'fund':17 'fund-rais':16 'gay':4,49 'gop':31 'hayworth':34 'hope':27 'host':14 'johnson':7 'june':44 'maloney':11 'matt':23 'mayor':22 'nan':33 'novemb':36 'open':48 'primari':42 'raiser':18 'rep':9,32 'spitzer/paters':52 'support':5 'take':29 'tonight':54 'trifecta':2 'wapping':20 'way':40</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/a-trifecta-of-gay-support-for-johnson/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970669</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:39:11-04:00</created-at>
+          <title>Rep. Hayworth's opponent slightly trails her in Dem poll</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Nan Hayworth (R-N.Y.) leads Democrat Sean Patrick Maloney by a narrow 48 to 45 percent, according to a new poll from House Majority PAC and the Service Employees International Union obtained by The Hill. The poll shows Maloney jumping into a 6-point lea</excerpt>
+          <fti-names>'45':27 '48':25 '6':55 'accord':29 'dem':9 'democrat':18 'employe':41 'hayworth':2,12 'hill':47,59 'hous':35 'intern':42 'jump':52 'lea':57 'lead':17 'major':36 'maloney':21,51 'n':15 'nan':11 'narrow':24 'new':32 'obtain':44 'oppon':4 'pac':37 'patrick':20 'percent':28 'point':56 'poll':10,33,49 'r':14 'r-n':13 'rep':1 'sean':19 'servic':40 'show':50 'slight':5 'trail':6 'union':43 'y':16</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/ballot-box/house-races/241905-rep-hayworths-opponent-slightly-trails-her-in-dem-poll</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970668</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:39:09-04:00</created-at>
+          <title>House Dems: Hayworth And Maloney In Virtual Tie</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Majority PAC is lauding a new Democratic-funded poll that shows Sean Maloney is within the margin of error against GOP Rep. Nan Hayworth. The survey found that Maloney, a former Spitzer and Clinton administration official, receives 45 percent of the vot</excerpt>
+          <fti-names>'45':47 'administr':44 'capit':52 'clinton':43 'dem':2 'democrat':16 'democratic-fund':15 'error':28 'former':40 'found':36 'fund':17 'gop':30 'hayworth':3,33 'hous':1 'laud':12 'major':9 'maloney':5,22,38 'margin':26 'nan':32 'new':14 'offici':45 'pac':10 'percent':48 'poll':18 'receiv':46 'rep':31 'sean':21 'show':20 'spitzer':41 'survey':35 'tie':8 'tonight':53 'virtual':7 'vot':51 'within':24</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/house-dems-hayworth-and-maloney-in-virtual-tie/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970667</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:42:48-04:00</created-at>
+          <title>News: Reed has given to other hopefuls</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...New York Republican incumbents in toss-up races &#194; such as Reps. Ann Marie Buerkle, of Onondaga, Chris Gibson, of Kinderhook, and Nan Hayworth, of Westchester County &#194; Reed is running in a redrawn district rated &#194;likely Republican&#194; by the nonpartisan</excerpt>
+          <fti-names>'ann':21 'buerkl':23 'chris':26 'counti':35 'district':43 'gazett':53 'gibson':27 'given':4 'hayworth':32 'hope':7 'incumb':11 'kinderhook':29 'mari':22 'nan':31 'new':8 'news':1 'nonpartisan':49 'onondaga':25 'race':16 'rate':44 'redrawn':42 'reed':2,37 'rep':20 'republican':10 'republican&#226;':46 'run':39 'star':52 'star-gazett':51 'toss':14 'toss-up':13 'westchest':34 'york':9 '&#226;':17,36 '&#226;like':45</fti-names>
+          <source-url>http://www.stargazette.com/</source-url>
+          <url>http://www.stargazette.com/article/20120801/NEWS01/308010078/-1/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16969706</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Star-Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:40:27-04:00</created-at>
+          <title>Local officials join workers in call for raise of minimum wage</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...out near City Hall, low wage workers, seniors, the unemployed, community groups and local elected officials urged Rep. Nan Hayworth to support the Catching up to 1968 Act of 2012 which would raise the minimum wage to $10 an hour. Willie Read, a Poughkee</excerpt>
+          <fti-names>'10':49 '1968':38 '2012':41 'act':39 'action':57 'call':6 'catch':35 'citi':14 'citizen':56 'communiti':22 'elect':26 'group':23 'hall':15 'hayworth':31 'hour':51 'join':3 'local':1,25 'low':16 'minimum':10,46 'nan':30 'near':13 'ny':58 'offici':2,27 'poughke':55 'rais':8,44 'read':53 'rep':29 'senior':19 'support':33 'unemploy':21 'urg':28 'wage':11,17,47 'willi':52 'worker':4,18 'would':43</fti-names>
+          <source-url>http://citizenactionny.org/</source-url>
+          <url>http://feedproxy.google.com/~r/citizenactionny/~3/MH-nEW84umg/9478</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16972466</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Citizen Action NY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Nan Hayworth [R, NY-19]</name>
+      <total-session-votes type="integer">1709</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepNanHayworth</youtube-id>
+      <district>19</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:59:19-04:00</created-at>
+          <title>Daily Kos: Republican Rep. Steve LaTourette unexpectedly retires</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Nan Hayworth [R, NY-19] Rep. Jerry Lewis [R, CA-41] Rep. Ileana Ros-Lehtinen [R, FL-18] Rep. Lee Terry [R, NE-2]. He was also one of just two Republicans to vote against the &amp;quot;Emergency Mortgage Relief Program ...</excerpt>
+          <fti-names>'-18':28 '-19':14 '-2':34 '-41':20 'also':37 'ca':19 'daili':1 'david':52 'emerg':47 'fl':27 'hayworth':11 'ileana':22 'jarman':53 'jerri':16 'kos':2 'latourett':6 'lee':30 'lehtinen':25 'lewi':17 'mortgag':48 'nan':10 'ne':33 'ny':13 'one':38 'program':50 'r':12,18,26,32 'relief':49 'rep':4,9,15,21,29 'republican':3,42 'retir':8 'ros':24 'ros-lehtinen':23 'rss@dailykos.com':51 'steve':5 'terri':31 'two':41 'unexpect':7 'vote':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/07/30/1115173/-Republican-Rep-Steve-LaTourette-unexpectedly-retires&amp;sa=U&amp;ei=A0oXUMmhFY7vqQGJ1IDAAQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNG0Aw268MqVK_Er79MvQe8X15EJYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960487</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (David Jarman)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:59:16-04:00</created-at>
+          <title>House leaders wary of farm, postal bill showdowns &#8211; Albany Times ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>FILE &#8211; In this July 10, 2012, file photo, House Speaker John Boehner, R-Ohio, speak to the media at the Capitol in Washington, as Rep. Nan Hayworth, R-NY., House Majority Whip Kevin McCarthy, R-Calif., House Speaker ...</excerpt>
+          <fti-names>'10':15 '2012':16 'admin':52 'albani':9 'bill':7 'boehner':22 'calif':49 'capitol':32 'farm':5 'file':11,17 'hayworth':38 'hous':1,19,42,50 'john':21 'juli':14 'kevin':45 'leader':2 'major':43 'mccarthi':46 'media':29 'nan':37 'ny':41 'ohio':25 'photo':18 'postal':6 'r':24,40,48 'r-calif':47 'r-ni':39 'r-ohio':23 'rep':36 'showdown':8 'speak':26 'speaker':20,51 'time':10 'wari':3 'washington':34 'whip':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ny-moc/nan-hayworth-new-york-representative/house-leaders-wary-of-farm-postal-bill-showdowns-albany-times-union/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dhouse-leaders-wary-of-farm-postal-bill-showdowns-albany-times-union&amp;sa=U&amp;ei=A0oXUMmhFY7vqQGJ1IDAAQ&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNEtImHQuF-ajf9w5ljxKj8OY4r5pA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960480</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:13:50-04:00</created-at>
+          <title>Hayworth Outraises Maloney; Has Five Times More Cash On-Hand ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Nan Hayworth. &#8220;We&amp;#39;re excited to see this quarter&amp;#39;s strong show of support for Congresswoman Hayworth,&#8221; said campaign spokesman Michael Knowles. &#8220;These numbers demonstrate what we&amp;#39;ve suspected all along: that ...</excerpt>
+          <fti-names>'along':43 'campaign':31 'cash':8 'congresswoman':28 'demonstr':37 'dunn':46 'excit':17 'five':5 'hand':11 'hayworth':1,14,29 'knowl':34 'maloney':3 'michael':33 'nan':13 'number':36 'on-hand':9 'outrais':2 'quarter':21 're':16 'rep':12 'said':30 'sara':45 'see':19 'show':24 'spokesman':32 'strong':23 'support':26 'suspect':41 'time':6 've':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theexaminernews.com/hayworth-outraises-maloney-has-five-times-more-cash-on-hand/&amp;sa=U&amp;ei=FiYWUK3sHYX20gGxlYGgCQ&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNGMmFHrDxU1sKAeKL7kPJ48uSxSYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947487</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sara Dunn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:13:42-04:00</created-at>
+          <title>The Hill&amp;#39;s Most Beautiful People List Includes Reps. Bachmann, Himes</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Jim Himes (D-Conn.) at number 16, former physician Rep. Nan Hayworth (R-N.Y.) in the 33rd spot and Rep. Bobby Scott (D-Va.) finishing in the 41st position. Ayotte, 44, is the only member of the Senate who made the list and ...</excerpt>
+          <fti-names>'16':19 '33rd':31 '41st':43 '44':46 'admin':59 'ayott':45 'bachmann':10 'beauti':5 'bobbi':35 'conn':16 'd':15,38 'd-conn':14 'd-va':37 'finish':40 'former':20 'hayworth':24 'hill':2 'hime':11,13 'includ':8 'jim':12 'list':7,57 'made':55 'member':50 'n':27 'nan':23 'number':18 'peopl':6 'physician':21 'posit':44 'r':26 'r-n':25 'rep':9,22,34 'scott':36 'senat':53 'spot':32 'va':39 'y':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ny-moc/nan-hayworth-new-york-representative/the-hills-most-beautiful-people-list-includes-reps-bachmann-himes-hayworth-christian-post/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dthe-hills-most-beautiful-people-list-includes-reps-bachmann-himes-hayworth-christian-post&amp;sa=U&amp;ei=FiYWUK3sHYX20gGxlYGgCQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNFZIqGG_-EOZwB4zkW00-X1lD9c2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947483</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:59:17-04:00</created-at>
+          <title>Hayworth Outraises Maloney; Has Five Times More Cash On-Hand ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Nan Hayworth. &#8220;We&amp;#39;re excited to see this quarter&amp;#39;s strong show of support for Congresswoman Hayworth,&#8221; said campaign spokesman Michael Knowles. &#8220;These numbers demonstrate what we&amp;#39;ve suspected all along: that ...</excerpt>
+          <fti-names>'along':43 'campaign':31 'cash':8 'congresswoman':28 'demonstr':37 'dunn':46 'excit':17 'five':5 'hand':11 'hayworth':1,14,29 'knowl':34 'maloney':3 'michael':33 'nan':13 'number':36 'on-hand':9 'outrais':2 'quarter':21 're':16 'rep':12 'said':30 'sara':45 'see':19 'show':24 'spokesman':32 'strong':23 'support':26 'suspect':41 'time':6 've':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theexaminernews.com/hayworth-outraises-maloney-has-five-times-more-cash-on-hand/&amp;sa=U&amp;ei=A0oXUMmhFY7vqQGJ1IDAAQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNHdPiPY32nhJTlYdpeTMZ-FP170gg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960482</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sara Dunn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:54:11-04:00</created-at>
+          <title>Hayworth Outraises Maloney; Has Five Times More Cash On-Hand ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Nan Hayworth. &#8220;We&amp;#39;re excited to see this quarter&amp;#39;s strong show of support for Congresswoman Hayworth,&#8221; said campaign spokesman Michael Knowles. &#8220;These numbers demonstrate what we&amp;#39;ve suspected all along: that ...</excerpt>
+          <fti-names>'along':43 'campaign':31 'cash':8 'congresswoman':28 'demonstr':37 'dunn':46 'excit':17 'five':5 'hand':11 'hayworth':1,14,29 'knowl':34 'maloney':3 'michael':33 'nan':13 'number':36 'on-hand':9 'outrais':2 'quarter':21 're':16 'rep':12 'said':30 'sara':45 'see':19 'show':24 'spokesman':32 'strong':23 'support':26 'suspect':41 'time':6 've':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theexaminernews.com/hayworth-outraises-maloney-has-five-times-more-cash-on-hand/&amp;sa=U&amp;ei=zrMUUK3FAYai8QSO9YCYCw&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNF8kArypZRqX-zCF-xZSiashQiSOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929778</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sara Dunn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:11:38-04:00</created-at>
+          <title>A Post Office in Honor of CIA Officer Gregg Wenzel | Secrecy News</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... as Gregg David Wenzel did, to protect our American liberties, honoring him through the tradition of naming a post office for his extraordinary service to our country is both fitting and inspiring,&#8221; said Rep. Nan Hayworth (R-NY) ...</excerpt>
+          <fti-names>'aftergood':53 'american':21 'cia':7 'countri':39 'david':15 'extraordinari':35 'fit':42 'gregg':9,14 'hayworth':48 'honor':5,23 'inspir':44 'liberti':22 'name':29 'nan':47 'news':12 'ny':51 'offic':3,8,32 'post':2,31 'protect':19 'r':50 'r-ni':49 'rep':46 'said':45 'secreci':11 'servic':36 'steven':52 'tradit':27 'wenzel':10,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fas.org/blog/secrecy/2012/07/usps_wenzel.html&amp;sa=U&amp;ei=abUQUKjMHIL68gSW1oDQAw&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNHuyieuCYJ4-iYKPPCeNXLw30FgzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16859244</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steven Aftergood</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:17:10-04:00</created-at>
+          <title>Fore! by Frank Seltzer | JR Cigars Blog</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>This brings the total to 210 (the original sponsor and 209 co-sponsors. Rep Heath Schuler from North Carolina and Rep. Nan Hayworth are the latest. (It would be very nice to have 218 co sponsors because that would be over ...</excerpt>
+          <fti-names>'209':18 '210':13 '218':42 'blog':7 'bring':9 'carolina':27 'cigar':6 'co':20,43 'co-sponsor':19 'f':50 'fore':1 'frank':3 'hayworth':31 'heath':23 'jr':5 'latest':34 'nan':30 'nice':39 'north':26 'origin':15 'rep':22,29 'schuler':24 'seltzer':4,51 'sponsor':16,21,44 'total':11 'would':36,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.jrcigars.com/%3Fp%3D9558&amp;sa=U&amp;ei=NWUPUOm-KqX62AXm1IGoBA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNE4BsZwuDb_Mj1t-8FrsbRVglLBBQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16849610</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>F. Seltzer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:17:10-04:00</created-at>
+          <title>A Post Office in Honor of CIA Officer Gregg Wenzel | Secrecy News</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... as Gregg David Wenzel did, to protect our American liberties, honoring him through the tradition of naming a post office for his extraordinary service to our country is both fitting and inspiring,&#8221; said Rep. Nan Hayworth (R-NY) ...</excerpt>
+          <fti-names>'aftergood':53 'american':21 'cia':7 'countri':39 'david':15 'extraordinari':35 'fit':42 'gregg':9,14 'hayworth':48 'honor':5,23 'inspir':44 'liberti':22 'name':29 'nan':47 'news':12 'ny':51 'offic':3,8,32 'post':2,31 'protect':19 'r':50 'r-ni':49 'rep':46 'said':45 'secreci':11 'servic':36 'steven':52 'tradit':27 'wenzel':10,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fas.org/blog/secrecy/2012/07/usps_wenzel.html&amp;sa=U&amp;ei=NWUPUOm-KqX62AXm1IGoBA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNFBm_LIvlxe7VBJLl1ETmJW2J4HZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16849609</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steven Aftergood</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412452</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:11:38-04:00</created-at>
+          <title>Representative Boren Co-Sponsors HR 2239 for Functional ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>... Representative Elton Gallegly (R-CA-24), and Representative Jesse Jackson, Jr. (D-IL-2), Representative Tammy Baldwin (D-WI-2), Representative Maurice Hinchey (D-NY-22), Representative Nan Hayworth (R-NY-19), ...</excerpt>
+          <fti-names>'19':46 '2':25,32 '22':39 '2239':7 '24':16 'baldwin':28 'boren':2 'ca':15 'co':4 'co-sponsor':3 'd':23,30,37 'd-il':22 'd-ni':36 'd-wi':29 'elton':11 'function':9 'galleg':12 'hayworth':42 'hinchey':35 'hr':6 'ibsimpact':47 'il':24 'jackson':20 'jess':19 'jr':21 'mauric':34 'nan':41 'ny':38,45 'r':14,44 'r-ca':13 'r-ni':43 'repres':1,10,18,26,33,40 'sponsor':5 'tammi':27 'wi':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ibsimpact.wordpress.com/2012/07/23/representative-boren-co-sponsors-hr-2239-for-functional-gastrointestinal-and-motility-disorders/&amp;sa=U&amp;ei=abUQUKjMHIL68gSW1oDQAw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNESBN_Va-WZOTTDtFOonoZ-MEWVNw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16859242</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ibsimpact</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6108</page-views-count>
+      <unaccented-name>Nan Hayworth</unaccented-name>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

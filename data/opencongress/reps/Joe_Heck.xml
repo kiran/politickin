@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">90.7450523864959</party-votes-percentage>
+        <abstains-percentage type="float">0.058173356602676</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">161</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">18</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">412446</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1559</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">2430</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">29</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <metavid-id nil="true"></metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">90.7450523864959</with-party-percentage>
+      <lastname>Heck</lastname>
+      <congress-office>132 Cannon House Office Building</congress-office>
+      <youtube-id>RepJoeHeck</youtube-id>
+      <firstname>Joe</firstname>
+      <website>http://heck.house.gov/</website>
+      <birthday type="date">1961-10-30</birthday>
+      <person-id type="integer">412446</person-id>
+      <fax>202- 225-2185</fax>
+      <phone>202-225-3252</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>H001055</bioguide-id>
+      <votes-democratic-position type="integer">485</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:42:59-04:00</created-at>
+          <title>Oceguera launches first TV ad in race against Heck</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...The 30-second ad (video below) portrays Oceguera, a Democrat, as a &quot;champion for the middle class&quot; in his race against U.S. Rep. Joe Heck, R-Nev., who isn't referred to in the campaign commercial. &quot;Raised by a single mom, John Oceguera knew he'd have to</excerpt>
+          <fti-names>'30':11 'ad':5,13 'campaign':45 'champion':22 'class':26 'commerci':46 'd':56 'democrat':19 'first':3 'heck':9,34 'isn':39 'joe':33 'john':52 'journal':63 'knew':54 'las':59 'launch':2 'lvrj.com':64 'middl':25 'mom':51 'nev':37 'oceguera':1,17,53 'portray':16 'r':36 'r-nev':35 'race':7,29 'rais':47 'refer':41 'rep':32 'review':62 'review-journ':61 'second':12 'singl':50 'tv':4 'u.s':31 'vega':60 'video':14</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=434539&amp;44=165229026&amp;32=4051&amp;7=457127&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fblogs%2Fpolitics%2FOceguera_launches_first_TV_ad_in_race_against_Heck.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973423</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:40:33-04:00</created-at>
+          <title>Washington Digest: Republicans extend tax cuts for all</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...party lines. Rep. Tim Johnson of Illinois was the only Republican to vote against the bill while 19 Democrats voted for it. Reps. Joe Heck and Mark Amodei, both R-Nev., voted for the bill. Rep. Shelley Berkley, D-Nev., voted against it. A separate vote </excerpt>
+          <fti-names>'19':26 'amodei':36 'berkley':47 'bill':24,44 'cut':6 'd':49 'd-nev':48 'democrat':27 'digest':2 'extend':4 'heck':33 'illinoi':15 'joe':32 'johnson':13 'journal':61 'las':57 'line':10 'lvrj.com':62 'mark':35 'nev':40,50 'parti':9 'r':39 'r-nev':38 'rep':11,31,45 'republican':3,19 'review':60 'review-journ':59 'separ':55 'shelley':46 'tax':5 'tim':12 'vega':58 'vote':21,28,41,51,56 'washington':1</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=165045866&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fwashington-digest-republicans-extend-tax-cuts-for-all-165045866.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972467</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:40:06-04:00</created-at>
+          <title>One-year Medicare pay freeze proposed in House</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the SGR, but it offsets the cost of boosting doctor pay by eliminating provisions of the health system reform law. Reps. Joe Heck, DO (R, Nev.), and Allyson Schwartz (D, Pa.) also have offered a bill that repeals the SGR by redirecting unspent war funds</excerpt>
+          <fti-names>'allyson':37 'also':41 'amednews.com':55 'bill':45 'boost':18 'cost':16 'd':39 'doctor':19 'elimin':22 'freez':6 'fund':54 'health':26 'heck':32 'hous':9 'joe':31 'law':29 'medicar':4 'nev':35 'offer':43 'offset':14 'one':2 'one-year':1 'pa':40 'pay':5,20 'propos':7 'provis':23 'r':34 'redirect':51 'reform':28 'rep':30 'repeal':47 'schwartz':38 'sgr':11,49 'system':27 'unspent':52 'war':53 'year':3</fti-names>
+          <source-url>http://www.ama-assn.org/amednews/</source-url>
+          <url>http://www.ama-assn.org/amednews/2012/07/30/gvsd0802.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970673</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>amednews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:40:04-04:00</created-at>
+          <title>Laxalt endorses Romney, whose father helped him win '66 Nevada governor's race</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...political establishment. He has won the public endorsements of Gov. Brian Sandoval, Lt. Gov. Brian Krolicki, and U.S. Reps. Joe Heck and Mark Amodei, as well as most of the Republicans serving in the Nevada Legislature. Former U.S. Rep. Barbara Vucanovi</excerpt>
+          <fti-names>'66':9 'amodei':37 'barbara':53 'brian':24,28 'endors':2,21 'establish':15 'father':5 'former':50 'gov':23,27 'governor':11 'heck':34 'help':6 'joe':33 'journal':59 'krolicki':29 'las':55 'laxalt':1 'legislatur':49 'lt':26 'lvrj.com':60 'mark':36 'nevada':10,48 'polit':14 'public':20 'race':13 'rep':32,52 'republican':44 'review':58 'review-journ':57 'romney':3 'sandov':25 'serv':45 'u.s':31,51 'vega':56 'vucanovi':54 'well':39 'whose':4 'win':8 'won':18</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=164816326&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Flaxalt-endorses-romney-whose-father-helped-him-win-66-nevada-governor-s-race-164816326.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970672</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:40:02-04:00</created-at>
+          <title>For online video ads, act before space runs out</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...feels the pain in Nevada, where the firm is handling online strategy for Democrat John Oceguera&#8217;s bid to unseat Republican Rep. Joe Heck . Oceguera&#8217;s campaign has not reserved any of these prime-time online ads, known as &#8220;pre-roll,&#8221; because it d</excerpt>
+          <fti-names>'act':5 'ad':4,47 'bid':27 'campaign':36 'd':55 'democrat':23 'feel':10 'firm':17 'handl':19 'heck':33 'joe':32 'john':24 'known':48 'nevada':14 'oceguera':25,34 'onlin':2,20,46 'pain':12 'politico':57 'pre':51 'pre-rol':50 'prime':44 'prime-tim':43 'rep':31 'republican':30 'reserv':39 'roll':52 'run':8 'space':7 'strategi':21 'time':45 'unseat':29 'video':3</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79296.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970671</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:42:54-04:00</created-at>
+          <title>Stolen Valor bill advances</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...service to gain benefits or a preferential job. The Stolen Valor Act now moves to a final House vote, which its sponsor Rep. Joe Heck, R-Nev., said could take place when Congress returns in September from a monthlong recess. The legislation was okayed b</excerpt>
+          <fti-names>'act':16 'advanc':4 'b':50 'benefit':8 'bill':3 'congress':38 'could':34 'final':21 'gain':7 'heck':29 'hous':22 'job':12 'joe':28 'journal':55 'las':51 'legisl':47 'lvrj.com':56 'monthlong':44 'move':18 'nev':32 'okay':49 'place':36 'preferenti':11 'r':31 'r-nev':30 'recess':45 'rep':27 'return':39 'review':54 'review-journ':53 'said':33 'septemb':41 'servic':5 'sponsor':26 'stolen':1,14 'take':35 'valor':2,15 'vega':52 'vote':23</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=164680406&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fstolen-valor-bill-advances-164680406.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16969713</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:46:46-04:00</created-at>
+          <title>Mitt Romney Would End Wind Energy Tax Credit</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The organization previously aired ads against Reps. Joe Heck (R-Nev.), Lou Barletta (R-Pa.) and Frank Guinta (R-N.H.). UPDATE: 7:54 p.m. -- Rep. Tom Latham (R-Iowa) said in a statement later Monday that he was disappointed in Romney's position ...</excerpt>
+          <fti-names>'54':35 '7':34 'ad':13 'air':12 'barletta':22 'credit':8 'disappoint':52 'end':4 'energi':6 'frank':27 'guinta':28 'h':32 'heck':17 'huffington':57 'iowa':42 'joe':16 'later':47 'latham':39 'lou':21 'mitt':1 'monday':48 'n':31 'nev':20 'organ':10 'p.m':36 'pa':25 'posit':56 'post':58 'previous':11 'r':19,24,30,41 'r-iowa':40 'r-n':29 'r-nev':18 'r-pa':23 'rep':15,37 'romney':2,54 'said':43 'statement':46 'tax':7 'tom':38 'updat':33 'wind':5 'would':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/30/mitt-romney-wind-energy-tax-credit_n_1721369.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T20:11:15-04:00</date>
+          <id type="integer">16966617</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:46:46-04:00</created-at>
+          <title>Political Eye: Mi Familia Vota registers 'anybody and everybody'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>And the competitive congressional races could be affected in Southern Nevada, particularly in U.S. Rep. Joe Heck's 3rd Congressional District, where the Republican is facing Democrat John Oceguera, the state Assembly speaker. Murrieta said his only concern</excerpt>
+          <fti-names>'3rd':28 'affect':17 'anybodi':7 'assembl':41 'competit':12 'concern':47 'congression':13,29 'could':15 'democrat':36 'district':30 'everybodi':9 'eye':2 'face':35 'familia':4 'heck':26 'joe':25 'john':37 'journal':51 'las':48 'mi':3 'murrieta':43 'nevada':20 'oceguera':38 'particular':21 'polit':1 'race':14 'regist':6 'rep':24 'republican':33 'review':50 'said':44 'southern':19 'speaker':42 'state':40 'u.s':23 'vega':49 'vota':5</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.lvrj.com/news/political-eye-mi-familia-vota-registers-anybody-and-everybody-164234876.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T18:16:43-04:00</date>
+          <id type="integer">16966616</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:00:00-04:00</created-at>
+          <title>Democrats target House members on upcoming tax vote</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...(IN-08) Congressman Roscoe Bartlett (MD-06) Congresswoman Vicky Hartzler (MO-04) Congressman Jon Runyan (NJ-03) Congressman Joe Heck (NV-03) Congressman Michael Grimm (NY-11) Congresswoman Nan Hayworth (NY-18) Congressman Chris Gibson (NY-19) Congresswo</excerpt>
+          <fti-names>'-03':25,30 '-04':20 '-06':15 '-08':10 '-11':35 '-18':40 '-19':45 'abc':47 'bartlett':13 'chris':42 'congressman':11,21,26,31,41 'congresswo':46 'congresswoman':16,36 'democrat':1 'gibson':43 'grimm':33 'hartzler':18 'hayworth':38 'heck':28 'hous':3 'joe':27 'jon':22 'md':14 'member':4 'michael':32 'mo':19 'nan':37 'news':48 'nj':24 'nv':29 'ny':34,39,44 'rosco':12 'runyan':23 'target':2 'tax':7 'upcom':6 'vicki':17 'vote':8</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://abcnews.go.com/Politics/OTUS/democrats-target-house-members-upcoming-tax-vote/story?id=16886666</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960502</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:59:52-04:00</created-at>
+          <title>Pinoy veterans score Pentagon inaction on Obama order</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Daniel Akaka (D-HI) and Rep. Joe Heck (R-NV) and the White House Commission on Asian Pacific Americans to update this US Army policy. They look forward to your kind assistance and prompt action as commander-in-chief,&#8221; the letter said.</excerpt>
+          <fti-names>'ab':55 'abs-cbn':54 'action':45 'akaka':10 'american':29 'armi':34 'asian':27 'assist':42 'cbn':56 'chief':50 'command':48 'commander-in-chief':47 'commiss':25 'd':12 'd-hi':11 'daniel':9 'forward':38 'heck':17 'hi':13 'hous':24 'inact':5 'joe':16 'kind':41 'letter':52 'look':37 'nv':20 'obama':7 'order':8 'pacif':28 'pentagon':4 'pinoy':1 'polici':35 'prompt':44 'r':19 'r-nv':18 'rep':15 'said':53 'score':3 'updat':31 'us':33 'veteran':2 'white':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.abs-cbnnews.com/global-filipino/07/30/12/pinoy-veterans-score-pentagon-inaction-obama-order</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T22:06:58-04:00</date>
+          <id type="integer">16960495</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABS-CBN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. Joe Heck [R, NV-3]</name>
+      <total-session-votes type="integer">1718</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>3</district>
+      <middlename nil="true"></middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:15:19-04:00</created-at>
+          <title>Rubio Makes Campaign Stop in Las Vegas - 8 News NOW</title>
+          <contains-term>republican</contains-term>
+          <excerpt>... must pay it forward. Someone in the crowd shouted &amp;quot;Rubio for Vice President,&amp;quot; but he only smiled, and never answered whether or not, he&amp;#39;d run. Other republican candidates were there, including Representative Joe Heck.</excerpt>
+          <fti-names>'8':8 'answer':30 'bell':47 'campaign':3 'candid':39 'crowd':18 'd':35 'forward':14 'heck':45 'includ':42 'joe':44 'las':6 'make':2 'matt':46 'must':11 'never':29 'news':9 'pay':12 'presid':23 'repres':43 'republican':38 'rubio':1,20 'run':36 'shout':19 'smile':27 'someon':15 'stop':4 'vega':7 'vice':22 'whether':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.8newsnow.com/story/19138923/rubio-makes-campaign-stop-in-las-vegas&amp;sa=U&amp;ei=ZSYWUMLnD8-t0AG1_IDgCA&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGx6YEzF89HT7SXjrlrAjK2A9_CHg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Bell</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:15:14-04:00</created-at>
+          <title>Busy day for a 95-year-old Filipino veteran | thepinoyweekly.com</title>
+          <contains-term>representative</contains-term>
+          <excerpt>He also met with US Representative Joe Heck (R-Las Vegas NV) in Heck&amp;#39;s Capitol Hill office. Almeda discussed his lobbying Defense Secretary Leon Panetta and VA Secretary Eric Shinseki after a joint hearing of the House ...</excerpt>
+          <fti-names>'95':5 'almeda':31 'also':13 'atlas':51 'busi':1 'capitol':28 'day':2 'defens':35 'discuss':32 'eric':42 'filipino':9 'hear':47 'heck':19,26 'hill':29 'hous':50 'joe':18 'joint':46 'las':22 'leon':37 'lobbi':34 'met':14 'nv':24 'offic':30 'old':8 'panetta':38 'r':21 'r-las':20 'repres':17 'secretari':36,41 'shinseki':43 'thepinoyweekly.com':11 'us':16 'va':40 'vega':23 'veteran':10 'year':7 'year-old':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thepinoyweekly.com/%3Fp%3D9059&amp;sa=U&amp;ei=ZSYWUMLnD8-t0AG1_IDgCA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFLG4k6cXTvho-WLNpBJwJII_nKhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947515</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Atlas</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:15:01-04:00</created-at>
+          <title>APNewsBreak: Dem group, union reserve $20M ad buy &#8211; The ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Republicans have reserved more than $ 1.6 million to help Rep. Joe Heck in a Las Vegas swing district as he tries to turn back a challenge from state Assembly Speaker John Oceguera. House Majority PAC has reserved ...</excerpt>
+          <fti-names>'1.6':15 '20m':6 'ad':7 'admin':47 'apnewsbreak':1 'assembl':38 'back':33 'buy':8 'challeng':35 'dem':2 'district':27 'group':3 'heck':21 'help':18 'hous':42 'joe':20 'john':40 'las':24 'major':43 'million':16 'oceguera':41 'pac':44 'rep':19 'republican':10 'reserv':5,12,46 'speaker':39 'state':37 'swing':26 'tri':30 'turn':32 'union':4 'vega':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/nv-moc/joe-heck-nevada-representative/apnewsbreak-dem-group-union-reserve-20m-ad-buy-the-republic/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dapnewsbreak-dem-group-union-reserve-20m-ad-buy-the-republic&amp;sa=U&amp;ei=ZSYWUMLnD8-t0AG1_IDgCA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFRGs9aqurm-7aZX8P2dY84vN9q0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947510</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:15:18-04:00</created-at>
+          <title>Disabled Veterans National Foundation Urges Passage of Bill to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Joe Heck of Nevada and Rep. Jim Renacci of Ohio introduced the bill after Hecks advisory council of Southern Nevada veterans brought the issue to his attention, according to the Las Vegas TSG Business News.</excerpt>
+          <fti-names>'accord':38 'admin':46 'advisori':26 'attent':37 'bill':8,23 'brought':32 'busi':44 'council':27 'disabl':1 'foundat':4 'heck':12,25 'introduc':21 'issu':34 'jim':17 'joe':11 'las':41 'nation':3 'nevada':14,30 'news':45 'ohio':20 'passag':6 'renacci':18 'rep':10,16 'southern':29 'tsg':43 'urg':5 'vega':42 'veteran':2,31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.retirementonlinefind.com/uncategorized/disabled-veterans-national-foundation-urges-passage-of-bill-to-financially-help-retired-veterans-who-receive-pensions-for-assisted-living-services/&amp;sa=U&amp;ei=ZSYWUMLnD8-t0AG1_IDgCA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNHyiBs84pG0VDN6nqULybLhfdD6dA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16947519</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:56:50-04:00</created-at>
+          <title>Busy day for a 95-year-old Filipino veteran | thepinoyweekly.com</title>
+          <contains-term>representative</contains-term>
+          <excerpt>He also met with US Representative Joe Heck (R-Las Vegas NV) in Heck&amp;#39;s Capitol Hill office. Almeda discussed his lobbying Defense Secretary Leon Panetta and VA Secretary Eric Shinseki after a joint hearing of the House ...</excerpt>
+          <fti-names>'95':5 'almeda':31 'also':13 'atlas':51 'busi':1 'capitol':28 'day':2 'defens':35 'discuss':32 'eric':42 'filipino':9 'hear':47 'heck':19,26 'hill':29 'hous':50 'joe':18 'joint':46 'las':22 'leon':37 'lobbi':34 'met':14 'nv':24 'offic':30 'old':8 'panetta':38 'r':21 'r-las':20 'repres':17 'secretari':36,41 'shinseki':43 'thepinoyweekly.com':11 'us':16 'va':40 'vega':23 'veteran':10 'year':7 'year-old':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thepinoyweekly.com/%3Fp%3D9059&amp;sa=U&amp;ei=f7QUUKK1GI6g8gS30oGgAg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHYf3EcKoGxuVO_P5Rhs3E9CMgREw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929788</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Atlas</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:57:21-04:00</created-at>
+          <title>HR.741 | Providing for further consideration of the bill (H.R. 4078) to ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>... for further consideration of the bill (H.R. 4078) to provide that no agency may take any significant regulatory action until the unemployment rate is equal to or less than 6.0 percent1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'4078':10,19 '6.0':41 'action':30 'agenc':24 'bill':8,17 'consider':5,14 'equal':36 'h.r':9,18 'hr.741':1 'less':39 'may':25 'pass':44 'percent1/2':42 'provid':2,21 'rate':34 'regulatori':29 'repres':45 'result':43 'signific':28 'take':26 'unemploy':33 'vote':46 'www.votetocracy.com':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr741-providing-for-further-consideration-of-the-bill-hr-4078-to-provide-that-no-agency-may-take-any-significant-regulatory-action-until-the-unemployment-rate-is-equal-to-or-less-than-60-percent-41729&amp;sa=U&amp;ei=f7QUUKK1GI6g8gS30oGgAg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNE4BGrPQ5Tj1lbf5hotqBaMOWSkWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929795</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:57:12-04:00</created-at>
+          <title>Disabled Veterans National Foundation Urges Passage of Bill to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Joe Heck of Nevada and Rep. Jim Renacci of Ohio introduced the bill after Hecks advisory council of Southern Nevada veterans brought the issue to his attention, according to the Las Vegas TSG Business News.</excerpt>
+          <fti-names>'accord':38 'admin':46 'advisori':26 'attent':37 'bill':8,23 'brought':32 'busi':44 'council':27 'disabl':1 'foundat':4 'heck':12,25 'introduc':21 'issu':34 'jim':17 'joe':11 'las':41 'nation':3 'nevada':14,30 'news':45 'ohio':20 'passag':6 'renacci':18 'rep':10,16 'southern':29 'tsg':43 'urg':5 'vega':42 'veteran':2,31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.retirementonlinefind.com/uncategorized/disabled-veterans-national-foundation-urges-passage-of-bill-to-financially-help-retired-veterans-who-receive-pensions-for-assisted-living-services/&amp;sa=U&amp;ei=f7QUUKK1GI6g8gS30oGgAg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHqEMRhN9ahp8eTWDM0v71XsAm-HA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929791</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:00:33-04:00</created-at>
+          <title>Pursuing Help for Vets | Move To The Balloon</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Joe Heck has sponsored a bill to help some disabled veterans get adequate housing aid. Some veterans lack disposable income and are able to get housing benefits if they do not have sufficient pay to provide ...</excerpt>
+          <fti-names>'abl':32 'adequ':22 'aid':24 'balloon':8 'benefit':36 'bill':15 'congressman':9 'disabl':19 'dispos':28 'get':21,34 'heck':11 'help':2,17 'hous':23,35 'incom':29 'joe':10 'lack':27 'move':5 'pay':43 'provid':45 'pursu':1 'sponsor':13 'suffici':42 'timkuptz':46 'vet':4 'veteran':20,26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://movetotheballoon.com/awareness/pursuing-help-for-vets/&amp;sa=U&amp;ei=z1UTUObBMcfk0QGXjYHQCg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNHOrX4oZE9lT2zD1tFkULc6Ua3tWg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16921554</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TimKuptz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:06:24-04:00</created-at>
+          <title>Commentary: Stolen valor &#8211; Round 2 | NY Daily Record</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Scott Brown and Representative Joe Heck, both running for re-election, have sponsored a new version of the bill. The 2006 Act made it a crime to falsely claim the receipt of military decorations or medals. If the Congressional ...</excerpt>
+          <fti-names>'2':5 '2006':30 'act':31 'bill':28 'brown':10 'claim':38 'commentari':1 'congression':48 'crime':35 'daili':7 'decor':43 'elect':20 'fals':37 'forsyth':50 'heck':14 'joe':13 'made':32 'medal':45 'militari':42 'new':24 'ny':6 're':19 're-elect':18 'receipt':40 'record':8 'repres':12 'round':4 'run':16 'scott':9,49 'sponsor':22 'stolen':2 'valor':3 'version':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nydailyrecord.com/blog/2012/07/24/commentary-stolen-valor-round-2/&amp;sa=U&amp;ei=rAUSUN6AOYn09gTO5oGYBQ&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGCDUI5sToSYh4YNSKKx0kdH51FDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16890126</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Scott Forsyth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412446</commentariable-id>
+          <created-at type="datetime">2012-07-20T23:07:42-04:00</created-at>
+          <title>Interesting Things Might be Happening in Nevada | Race 4 2012</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The Las Vegas region is also home to one of the most contested House races in the country involving the reelection of freshman Republican Rep. Joe Heck. The local Republicans aren&amp;#39;t buying it. Republicans still expect the ...</excerpt>
+          <fti-names>'2012':10 '4':9 'also':16 'aren':41 'b':50 'buy':43 'contest':23 'countri':28 'expect':47 'freshman':33 'happen':5 'heck':37 'home':17 'hous':24 'interest':1 'involv':29 'joe':36 'las':12 'local':39 'low':51 'mark':49 'might':3 'nevada':7 'one':19 'race':8,25 'reelect':31 'region':14 'rep':35 'republican':34,40,45 'still':46 'thing':2 'vega':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://race42012.com/2012/07/20/interesting-things-might-be-happening-in-nevada/&amp;sa=U&amp;ei=_RwKUOjmOuKe2AW9goz4Dw&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNFX1RPoXYvhh4nk603KY5L7m5neQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16778991</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark B. Lowe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5455</page-views-count>
+      <unaccented-name>Joe Heck</unaccented-name>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

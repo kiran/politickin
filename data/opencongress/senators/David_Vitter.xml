@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-07-10T16:56:06-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">84.2931937172775</party-votes-percentage>
+        <abstains-percentage type="float">3.29113924050633</abstains-percentage>
+        <votes-most-often-with-id type="integer">400408</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:24-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">34</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">18</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">74</cosponsored-bills-passed-rank>
+        <abstains type="integer">13</abstains>
+        <cosponsored-bills type="integer">209</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">41</party-votes-percentage-rank>
+        <sponsored-bills type="integer">74</sponsored-bills>
+        <votes-least-often-with-id type="integer">400050</votes-least-often-with-id>
+        <person-id type="integer">400418</person-id>
+        <cosponsored-bills-rank type="integer">37</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-29T21:04:58-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">9</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">2</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">322</votes-republican-position>
+      <middlename nil="true"></middlename>
+      <blog-article-count type="integer">17612</blog-article-count>
+      <user-approval type="float">3.46846846846847</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">649</oc-users-tracking>
+      <bioguide-id>V000127</bioguide-id>
+      <contact-webform>http://www.vitter.senate.gov/public/index.cfm?FuseAction=Contact.ContactForm</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">84.2931937172775</with-party-percentage>
+      <lastname>Vitter</lastname>
+      <congress-office>516 Hart Senate Office Building</congress-office>
+      <metavid-id>David_Vitter</metavid-id>
+      <firstname>David</firstname>
+      <website>http://www.vitter.senate.gov/</website>
+      <birthday type="date">1961-05-03</birthday>
+      <person-id type="integer">400418</person-id>
+      <phone>202-224-4623</phone>
+      <youtube-id>SenatorVitter</youtube-id>
+      <religion>Catholic</religion>
+      <votes-democratic-position type="integer">133</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:49-04:00</created-at>
+          <title>LSU health officials optimistic system's role will grow under Affordable Care Act</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...in the Medicaid program and have a mission to serve this population. LSU services will be critical post reform. U.S. Sen. David Vitter believes the recent Medicaid cuts and the Affordable Care Act will cause significant changes within the charity hospit</excerpt>
+          <fti-names>'act':13,46 'afford':11,44 'believ':37 'care':12,45 'caus':48 'chang':50 'chariti':53 'critic':30 'cut':41 'david':35 'grow':9 'health':2 'hospit':54 'lsu':1,26 'medicaid':16,40 'mission':21 'monro':56 'news':57 'offici':3 'optimist':4 'popul':25 'post':31 'program':17 'recent':39 'reform':32 'role':7 'sen':34 'serv':23 'servic':27 'signific':49 'star':58 'system':5 'u.s':33 'vitter':36 'within':51</fti-names>
+          <source-url>http://www.thenewsstar.com/</source-url>
+          <url>http://thenewsstar.com/article/20120807/NEWS01/120807020/-1/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973907</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Monroe News Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:04:07-04:00</created-at>
+          <title>Lawmakers knock welfare-to-work waivers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...welfare-to-work programs. The programs are required under the landmark 1996 welfare reform law. Republican Sen. David Vitter and Republican Reps. Charles Boustany and Jeff Landry recently co-sponsored measures they say would preserve the work requiremen</excerpt>
+          <fti-names>'1996':20 'boustani':32 'charl':31 'co':38 'co-sponsor':37 'david':26 'jeff':34 'knock':2 'landmark':19 'landri':35 'law':23 'lawmak':1 'measur':40 'monro':49 'news':50 'preserv':44 'program':12,14 'recent':36 'reform':22 'rep':30 'republican':24,29 'requir':16 'requiremen':47 'say':42 'sen':25 'sponsor':39 'star':51 'vitter':27 'waiver':7 'welfar':4,9,21 'welfare-to-work':3,8 'work':6,11,46 'would':43</fti-names>
+          <source-url>http://www.thenewsstar.com/</source-url>
+          <url>http://thenewsstar.com/article/20120805/NEWS01/120805007/-1/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972672</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Monroe News Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:49:35-04:00</created-at>
+          <title>Beck Drops Another Hint About His Bigs Plans for September 12</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...and President Obama. Nevertheless, top Republicans criticized Democrats for &#8220;protecting&#8221; Weiner. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;1,432 days ago, Sen. David Vitter admitted to being a regular customer of a prostitution service. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;(An ac</excerpt>
+          <fti-names>'1':23 '12':11 '432':24 'ac':41 'admit':30 'ago':26 'anoth':3 'beck':1 'big':7 'blaze':43 'critic':18 'custom':35 'david':28 'day':25 'democrat':19 'drop':2 'hint':4 'nevertheless':15 'obama':14 'plan':8 'presid':13 'prostitut':38 'protect':21 'regular':34 'republican':17 'sen':27 'septemb':10 'servic':39 'top':16 'vitter':29 'weiner':22</fti-names>
+          <source-url>http://www.theblaze.com/</source-url>
+          <url>http://www.theblaze.com/stories/beck-drops-another-hint-about-his-bigs-plans-for-september-12/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971417</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Blaze</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:11:55-04:00</created-at>
+          <title>Outrage mounts over Gulf oil rig removal policy</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...a growing number of federal legislators. A federal bill called the Rigs to Reef Habitat Protection Act filed by U.S. Sen. David Vitter (R-La.), with a complimentary House version by Rep. Steve Palazzo (R-Miss.) also calls for platforms to be left in pla</excerpt>
+          <fti-names>'act':25 'also':47 'bill':17 'call':18,48 'caller':59 'caller-tim':58 'christi':57 'complimentari':37 'corpus':56 'david':30 'feder':13,16 'file':26 'grow':10 'gulf':4 'habitat':23 'hous':38 'la':34 'left':53 'legisl':14 'miss':46 'mount':2 'number':11 'oil':5 'outrag':1 'palazzo':43 'pla':55 'platform':50 'polici':8 'protect':24 'r':33,45 'r-la':32 'r-miss':44 'reef':22 'remov':7 'rep':41 'rig':6,20 'sen':29 'steve':42 'time':60 'u.s':28 'version':39 'vitter':31</fti-names>
+          <source-url>http://www.caller.com/</source-url>
+          <url>http://www.caller.com/news/2012/aug/01/outrage-mounts-over-rig-removal-policy/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970341</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:11:54-04:00</created-at>
+          <title>Corps sending the Butcher to unclog Lake Providence Port</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...&quot;a critical artery to transport our crops to the rest of the country and the world. I'm thrilled,&quot; Thompson said. U.S. Sen. David Vitter stressed the importance of keeping the Mississippi River navigation operable. &quot;The Mississippi River is the most pro</excerpt>
+          <fti-names>'arteri':12 'butcher':4 'corp':1 'countri':22 'critic':11 'crop':16 'david':33 'import':37 'keep':39 'lake':7 'm':27 'mississippi':41,46 'monro':53 'navig':43 'news':54 'oper':44 'port':9 'pro':51 'provid':8 'rest':19 'river':42,47 'said':30 'sen':32 'send':2 'star':55 'stress':35 'thompson':29 'thrill':28 'transport':14 'u.s':31 'unclog':6 'vitter':34 'world':25</fti-names>
+          <source-url>http://www.thenewsstar.com/</source-url>
+          <url>http://thenewsstar.com/article/20120801/NEWS01/208010313/-1/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970340</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Monroe News Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:27:39-04:00</created-at>
+          <title>Corps sending the 'Butcher' to unclog Lake Providence Port</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>The Butcher, a cutterhead dredge that can chew through silt like a beaver through a weeping willow, is on the way to clear the clogged channel leading into the Lake Providence Port harbor. U.S. Rep. Rodney Alexander, R-Quitman, and U.S. Sen. Mary Landrie</excerpt>
+          <fti-names>'alexand':46 'beaver':22 'butcher':4,11 'channel':35 'chew':17 'clear':32 'clog':34 'corp':1 'cutterhead':13 'dredg':14 'harbor':42 'lake':7,39 'landri':54 'lead':36 'like':20 'mari':53 'monro':56 'news':57 'port':9,41 'provid':8,40 'quitman':49 'r':48 'r-quitman':47 'rep':44 'rodney':45 'sen':52 'send':2 'silt':19 'star':58 'u.s':43,51 'unclog':6 'way':30 'weep':25 'willow':26</fti-names>
+          <source-url>http://www.thenewsstar.com/</source-url>
+          <url>http://thenewsstar.com/article/20120731/NEWS01/120731014/-1/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16968016</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Monroe News Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:26:08-04:00</created-at>
+          <title>Obama's Dream Act by fiat condemned by lawmakers, enforcement agents</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Senator David Vitter (R-LA), a ranking member of the Senate Armed Services Committee, slammed President Barack Obama's immigration policy changes Sunday during an appearance on Fox News Channel. Vitter. Sen. Vitter told anchor Shannon Bream that ...</excerpt>
+          <fti-names>'act':4 'agent':11 'anchor':47 'appear':38 'arm':24 'barack':29 'bream':49 'chang':34 'channel':42 'committe':26 'condemn':7 'david':13 'dream':3 'enforc':10 'examin':51 'fiat':6 'fox':40 'immigr':32 'la':17 'lawmak':9 'member':20 'news':41 'obama':1,30 'polici':33 'presid':28 'r':16 'r-la':15 'rank':19 'sen':44 'senat':12,23 'servic':25 'shannon':48 'slam':27 'sunday':35 'told':46 'vitter':14,43,45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/obama-s-dream-act-by-fiat-condemned-by-lawmakers-enforcement-agents-1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T19:49:46-04:00</date>
+          <id type="integer">16963140</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:26:38-04:00</created-at>
+          <title>Geithner doubts Libor manipulation cost taxpayers bailout money [Los Angeles Times]</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. David Vitter (R-La.) criticized Geithner and other U.S. officials for using the rate in connection with some bailouts in 2008 when they knew it was vulnerable to misreporting. &quot;That was the best alternative available at the time ...</excerpt>
+          <fti-names>'2008':34 'altern':47 'angel':10 'avail':48 'bailout':7,32 'best':46 'businessweek':52 'connect':29 'cost':5 'critic':18 'david':13 'doubt':2 'geithner':1,19 'knew':37 'la':17 'libor':3 'los':9 'manipul':4 'misreport':42 'money':8 'offici':23 'r':16 'r-la':15 'rate':27 'sen':12 'taxpay':6 'time':11,51 'u.s':22 'use':25 'vitter':14 'vulner':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://investing.businessweek.com/research/stocks/news/article.asp?docKey=600-201207270502KRTRIB__BUSNEWS_35289_41132-1&amp;params=timestamp||07/27/2012%205:02%20AM%20ET||headline||Geithner%20doubts%20Libor%20manipulation%20cost%20taxpayers%20bailout%20money%20%5BLos%20Angeles%20Times%5D||docSource||Knight%20Ridder/Tribune||provider||ACQUIREMEDIA&amp;ticker=AIG:US</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T16:43:39-04:00</date>
+          <id type="integer">16968015</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Businessweek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:58:20-04:00</created-at>
+          <title>Comment on Saints owner offers to buy Times-Picayune by Jeff Landaw</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...that the company will not entertain an offer to sell the newspaper to Benson. And in a separate letter Thursday, U.S. Sen. David Vitter of Louisiana urges Advance to sell the paper. &#8220;From a pure business perspective, you&#8217;re about to get smoked,&#8221; V</excerpt>
+          <fti-names>'advanc':41 'benson':27 'busi':49 'buy':7 'comment':1 'compani':16 'david':36 'entertain':19 'get':55 'jeff':12 'landaw':13 'letter':32 'louisiana':39 'newspap':25 'offer':5,21 'owner':4 'paper':45 'perspect':50 'picayun':10 'poynter':58 'pure':48 're':52 'romensko':59 'saint':3 'sell':23,43 'sen':35 'separ':31 'smoke':56 'thursday':33 'time':9 'times-picayun':8 'u.s':34 'urg':40 'v':57 'vitter':37</fti-names>
+          <source-url>http://www.poynter.org/category/latest-news/romenesko/</source-url>
+          <url>http://www.poynter.org/latest-news/mediawire/182826/saints-owner-offers-to-buy-times-picayune/#comment-48095</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953076</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Poynter (Romensko)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:58:18-04:00</created-at>
+          <title>Senate Panel Adopts Chemicals Reform Bill</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...environmental and health advocates, chemical manufacturers, and consumer products makers. Additionally, he said, Sens. David Vitter (R-La.), Michael D. Crapo (R-Idaho), and Lamar Alexander (R-Tenn.) began meeting with Lautenberg in recent weeks on TSCA </excerpt>
+          <fti-names>'addit':17 'adopt':3 'advoc':10 'alexand':34 'began':38 'bill':6 'chemic':4,11 'consum':14 'crapo':28 'd':27 'david':21 'environment':7,47 'health':9 'idaho':31 'la':25 'lamar':33 'lautenberg':41 'maker':16 'manufactur':12 'meet':39 'michael':26 'panel':2 'product':15 'r':24,30,36 'r-idaho':29 'r-la':23 'r-tenn':35 'recent':43 'reform':5 'said':19 'scienc':48 'sen':20 'senat':1 'technolog':49 'tenn':37 'tsca':46 'vitter':22 'week':44</fti-names>
+          <source-url>http://pubs.acs.org/journals/esthag/index.html</source-url>
+          <url>http://feedproxy.google.com/~r/EnvironmentalScienceTechnologyOnlineNews/~3/Ewn7kTIKSDY/Senate-Panel-Adopts-Chemicals-Reform.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953075</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Environmental Science &amp; Technology</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-228-5061</fax>
+      <name>Sen. David Vitter [R, LA]</name>
+      <total-session-votes type="integer">382</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:26-04:00</created-at>
+          <title>U.S. farm bill has varying effects in Louisiana | Not Vanilla</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Before he voted in opposition, Sen. David Vitter, a Republican, attached an amendment to the bill that he says aimed to close loopholes in the federal animal-fighting law related to attendance at dogfights and cockfights. Vitter ...</excerpt>
+          <fti-names>'admin':49 'aim':30 'amend':23 'anim':38 'animal-fight':37 'attach':21 'attend':43 'bill':3,26 'close':32 'cockfight':47 'david':17 'dogfight':45 'effect':6 'farm':2 'feder':36 'fight':39 'law':40 'loophol':33 'louisiana':8 'opposit':15 'relat':41 'republican':20 'say':29 'sen':16 'u.s':1 'vanilla':10 'vari':5 'vitter':18,48 'vote':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.notvanilla.us/u-s-farm-bill-has-varying-effects-in-louisiana/&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNEDHyirbEdXN-4wRvASZxbDkubhhQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953062</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:25-04:00</created-at>
+          <title>Obama&amp;#39;s Dream Act By Fiat Condemned By Lawmakers - One Old Vet</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Senator David Vitter (R-LA), a ranking member of the Senate Armed Services Committee, slammed President Barack Obama&amp;#39;s immigration policy changes Sunday during an appearance on Fox News Channel. Vitter. Sen.</excerpt>
+          <fti-names>'act':4 'appear':39 'arm':25 'barack':30 'chang':35 'channel':43 'committe':27 'condemn':7 'david':14 'dream':3 'fiat':6 'fox':41 'immigr':33 'la':18 'lawmak':9 'member':21 'news':42 'obama':1,31 'old':11 'one':10 'oov':46 'polici':34 'presid':29 'r':17 'r-la':16 'rank':20 'sen':45 'senat':13,24 'servic':26 'slam':28 'sunday':36 'vet':12 'vitter':15,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oneoldvet.com/%3Fp%3D25506&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNEwIVCt7DT8OewS1KCDmn50m8cgWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953061</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>OOV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:27-04:00</created-at>
+          <title>Nick&amp;#39;s perusals: Senator Mangles Facts on Drilling Moratorium</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In an email to constituents, Republican Sen. David Vitterof Louisiana claims &#8220;the Obama administration shut down the entire offshore oil and gas industry&#8221; after the 2010 Gulf of Mexico oil spill. That&amp;#39;s not true.</excerpt>
+          <fti-names>'2010':35 'administr':23 'claim':20 'constitu':14 'david':17 'drill':8 'email':12 'entir':27 'fact':6 'gas':31 'gulf':36 'industri':32 'johnson':46 'louisiana':19 'mangl':5 'mexico':38 'moratorium':9 'nick':1,45 'obama':22 'offshor':28 'oil':29,39 'perus':3 'republican':15 'sen':16 'senat':4 'shut':24 'spill':40 'true':44 'vitterof':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nicksperusals.blogspot.com/2012/07/senator-mangles-facts-on-drilling.html&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNHMMFQ-B6ptzmxw0KyYueUg4Tgt2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16953065</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>nick johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:11-04:00</created-at>
+          <title>Sen. David Vitter urges SEC to appeal Ponzi scheme ruling | NOLA ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Proceedings were blocked that could lead to compensation for victims of Allen Stanford&amp;#39;s $7 billion Ponzi scheme.</excerpt>
+          <fti-names>'7':26 'allen':23 'appeal':7 'billion':27 'block':14 'compens':19 'could':16 'david':2 'lead':17 'nola':11 'picayun':32 'ponzi':8,28 'proceed':12 'rule':10 'scheme':9,29 'sec':5 'sen':1 'staff':33 'stanford':24 'time':31 'times-picayun':30 'urg':4 'victim':21 'vitter':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/sen_david_vitter_urges_sec_to.html&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHOt0EAJXU1TDGilz7CdDrw8-P9yw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16953054</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Picayune Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:38:53-04:00</created-at>
+          <title>Senator David Vitter To Steve Newhouse: Sell Times-Picayune ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator David Vitter urged Times-Picayune owner Steve Newhouse to sell the newspaper to avoid controversial cuts planned for the fall. In May, the 175-year old paper announced that it will be ending daily publication.</excerpt>
+          <fti-names>'175':36 'announc':40 'avoid':26 'controversi':27 'cut':28 'daili':46 'david':2,12 'end':45 'fall':32 'may':34 'newhous':6,20 'newspap':24 'old':38 'owner':18 'paper':39 'picayun':10,17 'plan':29 'public':47 'sell':7,22 'senat':1,11 'steve':5,19 'time':9,16 'times-picayun':8,15 'urg':14 'vibreez':48 'vitter':3,13 'year':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://vibreeze.com/blog/senator-david-vitter-to-steve-newhouse-sell-times-picayune/&amp;sa=U&amp;ei=shIVUITlHJOE8AS-g4CoBg&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNG1220UwcIWnYvcYQQMUfSNIr2S5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933530</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>viBREEZE</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:38:52-04:00</created-at>
+          <title>Nick&amp;#39;s perusals: Senator Mangles Facts on Drilling Moratorium</title>
+          <contains-term>republican</contains-term>
+          <excerpt>In an email to constituents, Republican Sen. David Vitterof Louisiana claims &#8220;the Obama administration shut down the entire offshore oil and gas industry&#8221; after the 2010 Gulf of Mexico oil spill. That&amp;#39;s not true.</excerpt>
+          <fti-names>'2010':35 'administr':23 'claim':20 'constitu':14 'david':17 'drill':8 'email':12 'entir':27 'fact':6 'gas':31 'gulf':36 'industri':32 'johnson':46 'louisiana':19 'mangl':5 'mexico':38 'moratorium':9 'nick':1,45 'obama':22 'offshor':28 'oil':29,39 'perus':3 'republican':15 'sen':16 'senat':4 'shut':24 'spill':40 'true':44 'vitterof':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nicksperusals.blogspot.com/2012/07/senator-mangles-facts-on-drilling.html&amp;sa=U&amp;ei=shIVUITlHJOE8AS-g4CoBg&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNGuByEsUMvtwRv8fPQ8P-MLe7xI1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933529</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>nick johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:38:43-04:00</created-at>
+          <title>Sen. David Vitter urges SEC to appeal Ponzi scheme ruling | NOLA ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Proceedings were blocked that could lead to compensation for victims of Allen Stanford&amp;#39;s $7 billion Ponzi scheme.</excerpt>
+          <fti-names>'7':26 'allen':23 'appeal':7 'billion':27 'block':14 'compens':19 'could':16 'david':2 'lead':17 'nola':11 'picayun':32 'ponzi':8,28 'proceed':12 'rule':10 'scheme':9,29 'sec':5 'sen':1 'staff':33 'stanford':24 'time':31 'times-picayun':30 'urg':4 'victim':21 'vitter':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/sen_david_vitter_urges_sec_to.html&amp;sa=U&amp;ei=shIVUITlHJOE8AS-g4CoBg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFgzoZK4PzT_HMerlEAg73NCTzVYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Times-Picayune Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:24-04:00</created-at>
+          <title>David Vitter to Steve Newhouse: I urge you to sell - Jim Romenesko</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>&#8220;I urge you to sell&#8221; the Times-Picayune, U.S. Sen. David Vitter tells Steven Newhouse. July 26, 2012. Steven Newhouse Chairman Advance Publications 950 Fingerboard Rd. Staten Island, NY 10305. Dear Steven Newhouse: ...</excerpt>
+          <fti-names>'10305':43 '2012':31 '26':30 '950':37 'advanc':35 'chairman':34 'david':1,24 'dear':44 'fingerboard':38 'island':41 'jim':11,47 'juli':29 'newhous':5,28,33,46 'ny':42 'picayun':21 'public':36 'rd':39 'romenesko':12 'sell':10,17 'sen':23 'staten':40 'steve':4 'steven':27,32,45 'tell':26 'time':20 'times-picayun':19 'u.s':22 'urg':7,14 'vitter':2,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jimromenesko.com/2012/07/26/david-vitter-to-steve-newhouse-i-urge-you-to-sell/&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNFjKTQ_MSrzE7ISPeq0oZ1_0uOyJg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16953059</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:23-04:00</created-at>
+          <title>Sen. David Vitter, R-La.(first row);Sen. Lisa Murkowski, R ... - Flickr</title>
+          <contains-term>senate</contains-term>
+          <excerpt>John Cornyn, R-Texas; Sen. John Barrasso, R-Wyo.; and Sen. David Vitter, R-La.hold a news conference to unveil domestic energy and jobs legislation. LOCATION: Senate Radio/TV Gallery, U.S. Capitol Photos by Lingjing ...</excerpt>
+          <fti-names>'barrasso':21 'capitol':45 'confer':32 'cornyn':15 'david':2,27 'domest':35 'energi':36 'first':7 'flickr':13 'galleri':43 'job':38 'john':14,20 'la':6 'legisl':39 'lingj':48 'lisa':10 'locat':40 'murkowski':11 'news':31,52 'nobody@flickr.com':49 'photo':46 'r':5,12,17,23 'r-la':4 'r-la.hold':29 'r-texa':16 'r-wyo':22 'radio':51 'radio/tv':42 'row':8 'sen':1,9,19,26 'senat':41 'servic':53 'talk':50 'texa':18 'u.s':44 'unveil':34 'vitter':3,28 'wyo':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.flickr.com/photos/talkradionews/7651269148/&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNF-ZrBB5a1MTtrA83TRlD-hp8YwBw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16953058</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>nobody@flickr.com (Talk Radio News Service)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400418</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:57:20-04:00</created-at>
+          <title>Sen. David Vitter urges Newhouse to sell The Times-Picayune | Blog ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>On the heels of Tom Benson releasing a letter to Steven Newhouse asking Newhouse to sell The Times-Picayune (and getting an immediate no), now Sen. David Vitter has released his own letter to Newhouse &#8212; and ...</excerpt>
+          <fti-names>'allman':51 'ask':25 'benson':18 'blog':12 'david':2,40 'get':34 'heel':15 'immedi':36 'kevin':50 'letter':21,46 'newhous':5,24,26,48 'picayun':11,32 'releas':19,43 'sell':7,28 'sen':1,39 'steven':23 'time':10,31 'times-picayun':9,30 'tom':17 'urg':4 'vitter':3,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bestofneworleans.com/blogofneworleans/archives/2012/07/26/sen-david-vitter-urges-newhouse-to-sell-the-times-picayune&amp;sa=U&amp;ei=tpIWUPm0GeSM0QHbhYGACw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNGX3MFkj2VFdcFe4uBwVY0QSCRbgA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16953056</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kevin Allman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">35964</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>David Vitter</unaccented-name>
+      <oc-user-comments type="integer">20</oc-user-comments>
+    </person>
+  </people>
+</hash>

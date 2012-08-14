@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.3619271445358</party-votes-percentage>
+        <abstains-percentage type="float">0.988947062245491</abstains-percentage>
+        <votes-most-often-with-id type="integer">400247</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">213</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">339</cosponsored-bills-passed-rank>
+        <abstains type="integer">17</abstains>
+        <cosponsored-bills type="integer">252</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">315</party-votes-percentage-rank>
+        <sponsored-bills type="integer">17</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400077</person-id>
+        <cosponsored-bills-rank type="integer">264</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:55-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">296</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1572</votes-republican-position>
+      <blog-article-count type="integer">8505</blog-article-count>
+      <fax>202-225-3512</fax>
+      <user-approval type="float">4.51724137931035</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">179</oc-users-tracking>
+      <bioguide-id>C001053</bioguide-id>
+      <contact-webform>http://www.cole.house.gov/contact-tom.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.3619271445358</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Cole</lastname>
+      <congress-office>2458 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Tom</firstname>
+      <website>http://www.cole.house.gov/</website>
+      <birthday type="date">1949-04-28</birthday>
+      <person-id type="integer">400077</person-id>
+      <phone>202-225-6165</phone>
+      <religion>Methodist</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">466</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:50-04:00</created-at>
+          <title>Roll call: How Oklahoma's congressional delegation voted this week</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Vote 1: Approving presidential appointees: The House has passed the Presidential Appointment Efficiency and Streamlining Act (S. 679), sponsored by Sen. Chuck Schumer, D-N.Y. The bill would eliminate the requirement that the Senate approve presidential a</excerpt>
+          <fti-names>'1':12 '679':28 'act':26 'appoint':22 'appointe':15 'approv':13,47 'bill':39 'call':2 'chuck':32 'congression':6 'd':35 'd-n':34 'deleg':7 'effici':23 'elimin':41 'hous':17 'n':36 'oklahoma':4 'pass':19 'presidenti':14,21,48 'requir':43 'roll':1 'schumer':33 'sen':31 'senat':46 'sponsor':29 'streamlin':25 'tulsa':50 'vote':8,11 'week':10 'world':51 'would':40 'y':37</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120805_16_A12_WSIGOe226825&amp;rss_lnk=11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16973351</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:37:13-04:00</created-at>
+          <title>Congress, with much left to do, takes 5 weeks off</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the government operating after the end of the fiscal year on Sept. 30. &quot;I think we've got some good things,&quot; said Rep. Tom Cole, R-Okla. &quot;But we're not going to be able to make a lot of decisions that need to be made until the American people decide (in</excerpt>
+          <fti-names>'30':23 '5':8 'abl':46 'american':60,66 'american-statesman':65 'austin':64 'cole':35 'congress':1 'decid':62 'decis':52 'end':16 'fiscal':19 'go':43 'good':30 'got':28 'govern':12 'left':4 'lot':50 'made':57 'make':48 'much':3 'need':54 'okla':38 'oper':13 'peopl':61 'r':37 'r-okla':36 're':41 'rep':33 'said':32 'sept':22 'statesman':67 'take':7 'thing':31 'think':25 'tom':34 've':27 'week':9 'year':20</fti-names>
+          <source-url>http://www.statesman.com/</source-url>
+          <url>http://www.statesman.com/news/nation/congress-with-much-left-to-do-takes-5-2427698.html?cxtype=rss_news</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972151</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Austin American-Statesman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:41:33-04:00</created-at>
+          <title>GOP lawmakers confident in Romney as they enter recess</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...depend on November. &#8220;We won't be able to do what we want to accomplish if Barack Obama is in the White House,&#8221; said Rep. Tom Cole (R-Okla.). Yet despite an economic recovery that has hit the summertime skids for a third straight year, Obama retains </excerpt>
+          <fti-names>'abl':17 'accomplish':24 'barack':26 'cole':36 'confid':3 'depend':10 'despit':41 'econom':43 'enter':8 'gop':1 'hill':59 'hit':47 'hous':32 'lawmak':2 'novemb':12 'obama':27,56 'okla':39 'r':38 'r-okla':37 'recess':9 'recoveri':44 'rep':34 'retain':57 'romney':5 'said':33 'skid':50 'straight':54 'summertim':49 'third':53 'tom':35 'want':22 'white':31 'won':14 'year':55 'yet':40</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/homenews/house/242023-gop-lawmakers-confident-in-romney-as-they-enter-recess</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971550</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:43-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Vote 1: Tribal economic development: The House has rejected the Indian Tribal Trade and Investment Demonstration Project Act (H.R. 2362), sponsored by Rep. Tom Cole, R-Okla. The bill would have ordered the Interior Secretary to authorize up to ...</excerpt>
+          <fti-names>'1':4 '2362':22 'act':20 'author':40 'bill':32 'call':2 'cole':27 'demonstr':18 'develop':7 'econom':6 'h.r':21 'hous':9 'indian':13 'interior':37 'invest':17 'okla':30 'order':35 'project':19 'r':29 'r-okla':28 'reject':11 'rep':25 'roll':1 'secretari':38 'sponsor':23 'tom':26 'trade':15 'tribal':5,14 'tulsa':43 'vote':3 'world':44 'would':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=16</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T03:01:38-04:00</date>
+          <id type="integer">16959811</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:52:01-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Vote 1: Tribal economic development: The House has rejected the Indian Tribal Trade and Investment Demonstration Project Act (H.R. 2362), sponsored by Rep. Tom Cole, R-Okla. The bill would have ordered the Interior Secretary to authorize up to ...</excerpt>
+          <fti-names>'1':4 '2362':22 'act':20 'author':40 'bill':32 'call':2 'cole':27 'demonstr':18 'develop':7 'econom':6 'h.r':21 'hous':9 'indian':13 'interior':37 'invest':17 'okla':30 'order':35 'project':19 'r':29 'r-okla':28 'reject':11 'rep':25 'roll':1 'secretari':38 'sponsor':23 'tom':26 'trade':15 'tribal':5,14 'tulsa':43 'vote':3 'world':44 'would':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T02:33:00-04:00</date>
+          <id type="integer">16945904</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:51:59-04:00</created-at>
+          <title>How they voted</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>House TRIBAL ECONOMIC DEVELOPMENT: The House rejected the Indian Tribal Trade and Investment Demonstration Project Act (H.R. 2362), sponsored by Rep. Tom Cole, R-Okla. The bill would have ordered the Interior Secretary to authorize up to six Indian tribes </excerpt>
+          <fti-names>'2362':21 'act':19 'author':39 'bill':31 'chicago':45 'cole':26 'demonstr':17 'develop':7 'econom':6 'h.r':20 'hous':4,9 'indian':12,43 'interior':36 'invest':16 'okla':29 'order':34 'project':18 'r':28 'r-okla':27 'reject':10 'rep':24 'secretari':37 'six':42 'sponsor':22 'sun':47 'sun-tim':46 'time':48 'tom':25 'trade':14 'tribal':5,13 'tribe':44 'vote':3 'would':32</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://posttrib.suntimes.com/news/14070726-418/how-they-voted.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:50:03-04:00</date>
+          <id type="integer">16945903</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Sun-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:37:13-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...The House has rejected the Indian Tribal Trade and Investment Demonstration Project Act (H.R. 2362), sponsored by Rep. Tom Cole, R-Okla. The bill would have ordered the Interior Secretary to authorize up to six Indian tribes to partner with Turkish comp</excerpt>
+          <fti-names>'2362':17 'act':15 'author':35 'bill':27 'call':2 'cole':22 'comp':45 'demonstr':13 'h.r':16 'hous':4 'indian':8,39 'interior':32 'invest':12 'okla':25 'order':30 'partner':42 'project':14 'r':24 'r-okla':23 'reject':6 'rep':20 'roll':1 'secretari':33 'six':38 'sponsor':18 'tom':21 'trade':10 'tribal':9 'tribe':40 'tulsa':46 'turkish':44 'world':47 'would':28</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16966221</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:52:03-04:00</created-at>
+          <title>Ruling surprises mother of convicted Army officer from Edmond</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tom Cole, R-Moore, said: &#8220;Having met with Lt. Behenna&#8217;s family and reviewed his case, I profoundly disagree with the appeals court&#8217;s failure to overturn his conviction. &#8220;The U.S. government has placed soldiers like Lt. Behenna under extremely </excerpt>
+          <fti-names>'appeal':33 'armi':6 'behenna':21,49 'case':27 'cole':12 'convict':5,40 'court':34 'daili':52 'disagre':30 'edmond':9 'extrem':51 'failur':36 'famili':23 'govern':43 'like':47 'lt':20,48 'met':18 'moor':15 'mother':3 'offic':7 'oklahoman':53 'overturn':38 'place':45 'profound':29 'r':14 'r-moor':13 'rep':10 'review':25 'rule':1 'said':16 'soldier':46 'surpris':2 'tom':11 'u.s':42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://newsok.com/ruling-surprises-mother-of-convicted-army-officer-from-edmond/article/3696343</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T23:48:22-04:00</date>
+          <id type="integer">16945905</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Oklahoman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:54:24-04:00</created-at>
+          <title>Roundtable airs local concern on issues</title>
+          <contains-term>congress</contains-term>
+          <excerpt>NORMAN &#8212; Congressman Tom Cole, R-Oklahoma, and area business leaders held a roundtable discussion. Local business leaders and other interested parties met Friday in the David L. Boren Auditorium of the National Weather Center in an informal question-and </excerpt>
+          <fti-names>'air':2 'area':15 'auditorium':36 'boren':35 'busi':16,23 'center':41 'cole':10 'concern':4 'congressman':8 'david':33 'discuss':21 'friday':30 'held':18 'inform':44 'interest':27 'issu':6 'l':34 'leader':17,24 'local':3,22 'met':29 'nation':39 'norman':7,48 'oklahoma':13 'parti':28 'question':46 'question-and':45 'r':12 'r-oklahoma':11 'roundtabl':1,20 'tom':9 'transcript':49 'weather':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://normantranscript.com/x614300264/Roundtable-airs-local-concern-on-issues</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T02:48:30-04:00</date>
+          <id type="integer">16929228</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Norman Transcript</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:45:25-04:00</created-at>
+          <title>Native American tribal leaders: Indian Country shouldn't be hostage to far-off conflicts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Business cannot operate under these conditions. This bill would have changed that. Rep. Tom Cole (R-Okla.), the only Native American member of Congress, introduced this legislation with the sole intention of creating economic sovereignty for Native America</excerpt>
+          <fti-names>'america':54 'american':2,37 'bill':23 'busi':16 'cannot':17 'chang':26 'cole':30 'condit':21 'conflict':15 'congress':40 'countri':6 'creat':49 'econom':50 'far':13 'far-off':12 'hostag':10 'indian':5 'intent':47 'introduc':41 'leader':4 'legisl':43 'member':38 'nativ':1,36,53 'okla':33 'oper':18 'r':32 'r-okla':31 'rep':28 'shouldn':7 'sole':46 'sovereignti':51 'thehill.com':55 'tom':29 'tribal':3 'would':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://thehill.com/blogs/global-affairs/guest-commentary/240669-native-american-tribal-leaders-indian-country-shouldnt-be-hostage-to-far-off-conflicts</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T08:54:46-04:00</date>
+          <id type="integer">16920560</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Thehill.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Tom_Cole</metavid-id>
+      <name>Rep. Tom Cole [R, OK-4]</name>
+      <total-session-votes type="integer">1702</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:40-04:00</created-at>
+          <title>Which U.S. Representatives signed the letter to President Obama ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>These are the U.S. Representatives who signed the letter to President Obama. If one of these is your Representative, call and thank them! Everyone likes ... Charles Dent (PA) Henry Waxman (CA) Ileana Ros-Lehtinen (FL) Chaka Fattah (PA) Joe   Crowley (NY) D</excerpt>
+          <fti-names>'azi':53 'ca':40 'call':29 'chaka':46 'charl':35 'crowley':50 'd':52 'dent':36 'everyon':33 'fattah':47 'fl':45 'groth':54 'henri':38 'ileana':41 'joe':49 'lehtinen':44 'letter':6,18 'like':34 'ny':51 'obama':9,21 'one':23 'pa':37,48 'presid':8,20 'repres':3,14,28 'ros':43 'ros-lehtinen':42 'sign':4,16 'thank':31 'u.s':2,13 'waxman':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.invisiblechildren.com/2012/07/30/which-u-s-representatives-have-signed-the-letter-to-president-obama/&amp;sa=U&amp;ei=H0YXUMvXDZGm8gSu2YHADg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNH5e3LYpi3ZGDFEl1e8fpl9WnwwRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959804</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Azy Groth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:40-04:00</created-at>
+          <title>The Roll on Capitol Hill: Wheels of Change &#8212; National Spinal Cord ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Kyle Morrison, center, visits Rep. Tom Cole with his father, Kendall, right. As successful as the Roll on Capitol Hill was, all involved agree it was only a beginning. Tobin says he is already figuring out the logistics for a bigger turnout next year.</excerpt>
+          <fti-names>'agre':35 'alreadi':45 'begin':40 'bigger':52 'capitol':4,30 'center':14 'chang':8 'cole':18 'cord':11 'father':21 'figur':46 'hill':5,31 'ian':56 'involv':34 'kendal':22 'kyle':12 'logist':49 'morrison':13 'nation':9 'next':54 'rep':16 'right':23 'roll':2,28 'ruder':57 'say':42 'spinal':10 'success':25 'tobin':41 'tom':17 'turnout':53 'visit':15 'wheel':6 'year':55</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.spinalcord.org/the-roll-on-capitol-hill-wheels-of-change/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dthe-roll-on-capitol-hill-wheels-of-change&amp;sa=U&amp;ei=H0YXUMvXDZGm8gSu2YHADg&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNFbl85WsTsJli0xS19ndfHi0kMv8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959800</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ian Ruder</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:49:41-04:00</created-at>
+          <title>Failure of Oklahoma Rep. Tom Cole&amp;#39;s bill to help American Indian ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Failure of Oklahoma Rep. Tom Cole&amp;#39;s bill to help American Indian tribes linked &#8230; NewsOK.com. Failure of Oklahoma Rep. Tom Cole&amp;#39;s bill to help American Indian tribes linked to animosity toward Turkey. A bill authored by ...</excerpt>
+          <fti-names>'admin':50 'american':11,23,38 'animos':43 'author':48 'bill':8,20,35,47 'cole':6,18,33 'failur':1,13,28 'help':10,22,37 'indian':12,24,39 'link':26,41 'newsok.com':27 'oklahoma':3,15,30 'rep':4,16,31 'tom':5,17,32 'toward':44 'tribe':25,40 'turkey':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ok-moc/tom-cole-oklahoma-representative/failure-of-oklahoma-rep-tom-coles-bill-to-help-american-indian-tribes-linked-newsok-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dfailure-of-oklahoma-rep-tom-coles-bill-to-help-american-indian-tribes-linked-newsok-com&amp;sa=U&amp;ei=PwQWUNLyAomi8ASTtICQAw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHRfrPc9wqQVnk5WiRGcd1cIOVqPg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945894</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:49:37-04:00</created-at>
+          <title>Turkey and the Indians &#8211; The Washington Post</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tom Cole (R-Okla.), the bill&amp;#39;s sponsor, explains the ties that bind the disparate populations that live half a globe apart: &#8220;There&amp;#39;s a deep interest,&#8221; he said on the House floor last night. &#8220;There has been for hundreds of years.</excerpt>
+          <fti-names>'aira':52 'apart':31 'bill':15 'bind':22 'cole':10 'deep':35 'dispar':24 'explain':18 'floor':42 'globe':30 'half':28 'hous':41 'hundr':49 'indian':4 'interest':36 'last':43 'live':27 'night':44 'okla':13 'popul':25 'post':7 'r':12 'r-okla':11 'rep':8 'said':38 'sponsor':17 'tie':20 'tom':9 'turkey':1 'washington':6 'year':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.turkishnews.com/en/content/2012/07/29/turkey-and-the-indians-the-washington-post/&amp;sa=U&amp;ei=PwQWUNLyAomi8ASTtICQAw&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNGBryigPSxUTbT5ADEuHeHzbt_QsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945892</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>aira</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:45:11-04:00</created-at>
+          <title>A Native American Traditional Teaching Blog.: The Republic of Turkey</title>
+          <contains-term>congress</contains-term>
+          <excerpt>the U.S. House of Representatives voted on H.R. 2362, the Indian Tribal Trade and Investment Demonstration Project Act of 2011. Introduced by Rep. Tom Cole (R-Okla.), the only Native American member of Congress.</excerpt>
+          <fti-names>'2011':30 '2362':19 'act':28 'american':3,42 'blog':6 'cole':35 'congress':45 'demonstr':26 'grandfath':46 'h.r':18 'hous':13 'indian':21 'introduc':31 'invest':25 'member':43 'nativ':2,41 'okla':38 'project':27 'r':37 'r-okla':36 'rep':33 'repres':15 'republ':8 'teach':5 'tom':34 'trade':23 'tradit':4 'tribal':22 'turkey':10 'u.s':12 'vote':16 'walkingfox':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mysmudgingblog.blogspot.com/2012/07/the-republic-of-turkey.html&amp;sa=U&amp;ei=MlITULqoHJPU9ASCioHwDg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNF_IW95oA3VdAvyFnKvUd3FTq_vJA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920553</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Grandfather Walkingfox</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:45:02-04:00</created-at>
+          <title>A Native American Traditional Teaching Blog.: The Republic of Turkey</title>
+          <contains-term>congress</contains-term>
+          <excerpt>the U.S. House of Representatives voted on H.R. 2362, the Indian Tribal Trade and Investment Demonstration Project Act of 2011. Introduced by Rep. Tom Cole (R-Okla.), the only Native American member of Congress.</excerpt>
+          <fti-names>'2011':30 '2362':19 'act':28 'american':3,42 'blog':6 'cole':35 'congress':45 'demonstr':26 'grandfath':46 'h.r':18 'hous':13 'indian':21 'introduc':31 'invest':25 'member':43 'nativ':2,41 'okla':38 'project':27 'r':37 'r-okla':36 'rep':33 'repres':15 'republ':8 'teach':5 'tom':34 'trade':23 'tradit':4 'tribal':22 'turkey':10 'u.s':12 'vote':16 'walkingfox':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mysmudgingblog.blogspot.com/2012/07/the-republic-of-turkey.html&amp;sa=U&amp;ei=qwASUPvYDOSK7AHfxoHoBw&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNF8PcXvoWQ0RsxwqwnDMJxNLUlGRw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888894</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Grandfather Walkingfox</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:54:01-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Tom Cole (OK Republican), No. Rep. K. Conaway (TX Republican), No. Rep. Jim Costa (CA Democrat), No. Rep. Chip Cravaack (MN Republican), No. Rep. Eric Crawford (AR Republican), No. Rep. Ander Crenshaw (FL Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'ander':41 'ar':37 'ca':25 'chip':29 'cole':12 'conaway':18 'costa':24 'cravaack':30 'crawford':36 'crenshaw':42 'democrat':26 'drill':9 'eric':35 'fl':43 'hr.6168':1 'jim':23 'k':17 'mn':31 'obama':3 'offshor':8 'ok':13 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'republican':14,20,32,38,44 'tom':11 'tx':19 'www.votetocracy.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=waUUUIWKGun00gHhyICwCQ&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNEfJ2EeLBd8RGcxQ562W9sPd5ZjKQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929222</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:45:09-04:00</created-at>
+          <title>Armenian Issue Blog &#187; Turkish investment on tribal lands gets blocked</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The act was initially introduced in June of 2011 by Rep. Tom Cole (R-OK), himself an American Indian, as a means of limiting foreign trade preferences on Indian tribal lands to one country, Turkey. Supporters of its adoption ...</excerpt>
+          <fti-names>'2011':19 'act':12 'admin':51 'adopt':50 'american':29 'armenian':1 'block':10 'blog':3 'cole':23 'countri':45 'foreign':36 'get':9 'indian':30,40 'initi':14 'introduc':15 'invest':5 'issu':2 'june':17 'land':8,42 'limit':35 'mean':33 'ok':26 'one':44 'prefer':38 'r':25 'r-ok':24 'rep':21 'support':47 'tom':22 'trade':37 'tribal':7,41 'turkey':46 'turkish':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.armenianissueblog.org/2012/07/25/turkish-investment-on-tribal-lands-gets-blocked/&amp;sa=U&amp;ei=MlITULqoHJPU9ASCioHwDg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFCq_bvVk30TwFqIUgr6ym7IPRWOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16920548</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:45:03-04:00</created-at>
+          <title>Turkish Digest: Turkish group pledges continued support of Native ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Introduced by Rep. Tom Cole (R-Okla.), the only Native American member of Congress, the bill had the full backing of major tribal groups and strong bipartisan support. 58% (222) of the members present voted in favor of the ...</excerpt>
+          <fti-names>'222':40 '58':39 'american':21 'back':30 'bill':26 'bipartisan':37 'cole':14 'congress':24 'continu':6 'digest':2,51 'favor':47 'full':29 'group':4,34 'introduc':10 'major':32 'member':22,43 'nativ':9,20 'okla':17 'pledg':5 'present':44 'r':16 'r-okla':15 'rep':12 'strong':36 'support':7,38 'tom':13 'tribal':33 'turkish':1,3,50 'vote':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://turkishdigest.blogspot.com/2012/07/turkish-group-pledges-continued-support.html&amp;sa=U&amp;ei=qwASUPvYDOSK7AHfxoHoBw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFMZkbb6mYD70BTnzSu595d9FChFw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888900</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Turkish Digest</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400077</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:42:39-04:00</created-at>
+          <title>FarmPolicy &#187; Blog Archives &#187; Rep. Tom Cole (R., Okla.) The Daily ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>2012 Farm Bill. April 26- Senate Ag Comm Passes Farm Bill. June 21- Senate Passes Farm Bill. Senate Ag Comm Farm Bill Info. July 12- House Ag Comm Passes Farm Bill. House Ag Comm Farm Bill Info.</excerpt>
+          <fti-names>'12':35 '2012':11 '21':23 '26':15 'ag':17,29,37,43 'april':14 'archiv':3 'bill':13,21,27,32,41,46 'blog':2 'cole':6 'comm':18,30,38,44 'daili':10 'farm':12,20,26,31,40,45 'farmpolici':1 'good':49 'hous':36,42 'info':33,47 'juli':34 'june':22 'keith':48 'okla':8 'pass':19,25,39 'r':7 'rep':4 'senat':16,24,28 'tom':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://farmpolicy.com/2012/07/24/rep-tom-cole-r-okla-the-daily-rundown-on-msnbc-7-24/&amp;sa=U&amp;ei=H0YXUMvXDZGm8gSu2YHADg&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNH-4dC5ksrM1Ndn0EcDL5Y5hKMXFw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16959798</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keith Good</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22156</page-views-count>
+      <youtube-id>RepTomCole</youtube-id>
+      <unaccented-name>Tom Cole</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

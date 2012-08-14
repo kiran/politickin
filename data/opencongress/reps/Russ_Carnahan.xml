@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-08T13:08:12-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.6236559139785</party-votes-percentage>
+        <abstains-percentage type="float">2.61780104712042</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">240</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">199</cosponsored-bills-passed-rank>
+        <abstains type="integer">45</abstains>
+        <cosponsored-bills type="integer">351</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">14</party-votes-percentage-rank>
+        <sponsored-bills type="integer">27</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400638</person-id>
+        <cosponsored-bills-rank type="integer">54</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">160</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">12</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">400</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">8440</blog-article-count>
+      <user-approval type="float">1.3125</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">131</oc-users-tracking>
+      <contact-webform>http://carnahan.house.gov/contact.shtml</contact-webform>
+      <metavid-id>Russ_Carnahan</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.6236559139785</with-party-percentage>
+      <lastname>Carnahan</lastname>
+      <congress-office>1710 Longworth House Office Building</congress-office>
+      <youtube-id>congressmancarnahan</youtube-id>
+      <firstname>Russ</firstname>
+      <website>http://carnahan.house.gov/</website>
+      <birthday type="date">1958-07-10</birthday>
+      <person-id type="integer">400638</person-id>
+      <fax>202-225-7452</fax>
+      <phone>202-225-2671</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>C001060</bioguide-id>
+      <votes-democratic-position type="integer">1584</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:23-04:00</created-at>
+          <title>5 Things to Know for Tuesday's Missouri primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...few have grabbed as much attention as the 1st District, where incumbent William Lacy Clay Jr. will face 3rd District Rep. Russ Carnahan. The unusual battle came about after Missouri's Legislature was faced with reducing the state's nine congressional di</excerpt>
+          <fti-names>'1st':18 '3rd':28 '5':1 'attent':15 'battl':35 'bellevill':52 'came':36 'carnahan':32 'clay':24 'congression':50 'democrat':55 'di':51 'district':19,29 'face':27,43 'grab':12 'incumb':21 'jr':25 'know':4 'laci':23 'legislatur':41 'missouri':8,39 'much':14 'news':54 'news-democrat':53 'nine':49 'primari':9 'reduc':45 'rep':30 'russ':31 'state':47 'thing':2 'tuesday':6 'unusu':34 'william':22</fti-names>
+          <source-url>http://www.bnd.com/</source-url>
+          <url>http://www.bnd.com/2012/08/07/2274633/5-things-to-know-for-tuesdays.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973333</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Belleville News-Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:23-04:00</created-at>
+          <title>Representatives Clay, Carnahan face off for 1st District</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...few have grabbed as much attention as the 1st District, where incumbent William Lacy Clay Jr. will face 3rd District Rep. Russ Carnahan. The unusual battle came about after Missouri&#8217;s Legislature was faced with reducing the state&#8217;s nine congressiona</excerpt>
+          <fti-names>'1st':7,17 '3rd':27 'attent':14 'battl':34 'came':35 'carnahan':3,31 'clay':2,23 'congressiona':49 'district':8,18,28 'face':4,26,42 'grab':11 'incumb':20 'jr':24 'kmov':50 'laci':22 'legislatur':40 'missouri':38 'much':13 'nine':48 'reduc':44 'rep':29 'repres':1 'russ':30 'state':46 'unusu':33 'william':21</fti-names>
+          <source-url>http://www.kmov.com/</source-url>
+          <url>http://www.kmov.com/news/local/Congressional-candidates-Clay-Carnahan-face-off-for-1st-District-cast-their-votes-165301186.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973332</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KMOV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:23-04:00</created-at>
+          <title>Carnahan, Clay make final push in new first district</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...U.S. Representatives after polls close Tuesday in Missouri&#8217;s new First Congressional District. U.S. Rep.&#8217;s Lacy Clay and Russ Carnahan are competing for the Democratic nomination in the new district after their previous districts were drawn together</excerpt>
+          <fti-names>'carnahan':1,30 'clay':2,27 'close':14 'compet':32 'congression':21 'democrat':35 'district':9,22,40,44 'drawn':46 'final':4 'first':8,20 'laci':26 'make':3 'missouri':17 'new':7,19,39 'nomin':36 'politicmo':48 'poll':13 'previous':43 'push':5 'rep':24 'repres':11 'russ':29 'togeth':47 'tuesday':15 'u.s':10,23</fti-names>
+          <source-url>http://politicmo.com/</source-url>
+          <url>http://politicmo.com/2012/08/07/carnahan-clay-make-final-push-in-new-first-district/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973331</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PoliticMo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:22-04:00</created-at>
+          <title>GOP picking nominee for much-anticipated Missouri Senate race</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the Senate Agriculture Committee; a showdown between two of Missouri's most prominent Democratic families, as Reps. Russ Carnahan and William Lacy Clay vie for a St. Louis-area seat in a race brought on by congressional redistricting; and a Democrati</excerpt>
+          <fti-names>'agricultur':14 'anticip':7 'area':41 'brought':46 'carnahan':30 'clay':34 'committe':15 'congression':49 'democrat':25 'democrati':53 'detroit':54 'famili':26 'gop':1 'laci':33 'loui':40 'louis-area':39 'missouri':8,21 'much':6 'much-anticip':5 'news':55 'nomine':3 'onlin':56 'pick':2 'promin':24 'race':10,45 'redistrict':50 'rep':28 'russ':29 'seat':42 'senat':9,13 'showdown':17 'st':38 'two':19 'vie':35 'william':32</fti-names>
+          <source-url>http://detnews.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.detroitnews.com/article/20120807/POLITICS01/208070403/1022/rss10</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973330</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit News Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:22-04:00</created-at>
+          <title>Jamie Dupree's Washington Insider: Several congressional incumbents on alert today</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Rep. Hansen Clarke is facing off with Rep. Gary Peters in the Democratic Primary for the 14th District; in Missouri, Rep. Russ Carnahan and Rep. Bill Clay will battle in the Democratic Primary for Missouri's 1st District. While two of those lawmakers wi</excerpt>
+          <fti-names>'14th':28 '1st':48 'alert':10 'battl':40 'bill':37 'carnahan':34 'clark':14 'clay':38 'congression':7 'democrat':24,43 'district':29,49 'dupre':2 'face':16 'gari':20 'hansen':13 'incumb':8 'insid':5 'jami':1 'lawmak':54 'missouri':31,46 'peter':21 'primari':25,44 'radio':57 'rep':12,19,32,36 'russ':33 'sever':6 'today':11 'two':51 'washington':4 'wi':55 'wsb':56</fti-names>
+          <source-url>http://wsbradio.com/</source-url>
+          <url>http://www.wsbradio.com/weblogs/jamie-dupree/2012/aug/07/several-congressional-incumbents-alert-today/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973329</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WSB Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:22-04:00</created-at>
+          <title>Races to Watch: Missouri, Kansas, Wash., Mich.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...McCaskill and ads she is running targeting her potential opponents. Another race to watch for is the battle between Reps. Russ Carnahan and William Lacy Clay for a new redistricted St. Louis-area seat, the First District of Missouri. Kansas The question</excerpt>
+          <fti-names>'ad':10 'anoth':18 'area':41 'battl':25 'blog':54 'carnahan':29 'clay':33 'district':45 'first':44 'journal':53 'kansa':5,48 'laci':32 'loui':40 'louis-area':39 'mccaskil':8 'mich':7 'missouri':4,47 'new':36 'oppon':17 'potenti':16 'question':50 'race':1,19 'redistrict':37 'rep':27 'run':13 'russ':28 'seat':42 'st':38 'street':52 'target':14 'wall':51 'wash':6 'watch':3,21 'william':31</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/washwire/2012/08/07/races-to-watch-missouri-kansas-wash-mich/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973328</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:22-04:00</created-at>
+          <title>Battle St. Louis: Political Scions Face Off in Redistricting Matchup</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...St. Louis is a reelection Thunderdome for two political scions. Two men enter, one man leaves. Democratic Reps. Russ Carnahan and Lacy Clay, Jr. will square off for the whole of the city, which they&#8217;ve shared in Congress for almost a decade, in a prim</excerpt>
+          <fti-names>'abc':57 'almost':51 'battl':1 'carnahan':30 'citi':43 'clay':33 'congress':49 'decad':53 'democrat':27 'enter':23 'face':6 'jr':34 'laci':32 'leav':26 'loui':3,12 'man':25 'matchup':10 'men':22 'news':58 'one':24 'polit':4,19 'prim':56 'redistrict':9 'reelect':15 'rep':28 'russ':29 'scion':5,20 'share':47 'squar':36 'st':2,11 'thunderdom':16 'two':18,21 've':46 'whole':40</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=ea57c669f803aaa7fde01919b13ef7a5</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973327</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:34:22-04:00</created-at>
+          <title>Carnahan-Clay race tops Mo. slate for Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...his father was governor of Missouri before dying in a 2000 plane crash and his sister is Missouri's secretary of state. Russ Carnahan won election to the U.S. House of Representatives in 2004. Clay is the namesake of his father, William Lacy Clay Sr., w</excerpt>
+          <fti-names>'2000':20 '2004':43 'bellevill':56 'carnahan':2,33 'carnahan-clay':1 'clay':3,44,53 'congress':9 'crash':22 'democrat':59 'die':17 'elect':35 'father':11,50 'governor':13 'hous':39 'laci':52 'missouri':15,27 'mo':6 'namesak':47 'news':58 'news-democrat':57 'plane':21 'race':4 'repres':41 'russ':32 'secretari':29 'sister':25 'slate':7 'sr':54 'state':31 'top':5 'u.s':38 'w':55 'william':51 'won':34</fti-names>
+          <source-url>http://www.bnd.com/</source-url>
+          <url>http://www.bnd.com/2012/08/07/2274635/carnahan-clay-race-tops-mo-slate.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973326</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Belleville News-Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:34:40-04:00</created-at>
+          <title>Poll: Clay Leads Carnahan In Missouri Dem Showdown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. William Lacy Clay is heavily favored to win his Democratic primary Tuesday, in a match-up with fellow Democratic Rep. Russ Carnahan that was triggered by redistricting, according to a new SurveyUSA poll. Clay leads Carnahan 56 percent to 35 percent</excerpt>
+          <fti-names>'35':50 '56':47 'accord':38 'carnahan':4,32,46 'clay':2,12,44 'dem':7 'democrat':19,29 'favor':15 'fellow':28 'heavili':14 'laci':11 'lead':3,45 'match':25 'match-up':24 'memo':54 'missouri':6 'new':41 'percent':48,51 'point':53 'poll':1,43 'primari':20 'redistrict':37 'rep':9,30 'russ':31 'showdown':8 'surveyusa':42 'talk':52 'trigger':35 'tuesday':21 'william':10 'win':17</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://livewire.talkingpointsmemo.com/entries/poll-clay-leads-carnahan-in-missouri-dem-showdown</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972740</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:32:52-04:00</created-at>
+          <title>Russ Carnahan ad with soul music on urban radio stations</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...people, Jason Thompson wanted to know more about his neighbors. He decided to do something about it. ST. LOUIS &#8226; U.S. Rep. Russ Carnahan is up on St. Louis' urban radio stations with a minute-long ad driven by a soft soul soundtrack. &quot;For Russ, fighti</excerpt>
+          <fti-names>'ad':3,47 'carnahan':2,33 'decid':22 'dispatch':61 'driven':48 'fighti':56 'jason':12 'know':16 'long':46 'loui':29,38,58 'minut':45 'minute-long':44 'music':6 'neighbor':20 'peopl':11 'post':60 'post-dispatch':59 'radio':9,40 'rep':31 'russ':1,32,55 'soft':51 'someth':25 'soul':5,52 'soundtrack':53 'st':28,37,57 'station':10,41 'thompson':13 'u.s':30 'urban':8,39 'want':14</fti-names>
+          <source-url>http://www.stltoday.com/</source-url>
+          <url>http://www.stltoday.com/news/local/govt-and-politics/political-fix/russ-carnahan-ad-with-soul-music-on-urban-radio-stations/article_f3eb43ce-deb0-11e1-af3b-0019bb30f31a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972429</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>St. Louis Post-Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. Russ Carnahan [D, MO-3]</name>
+      <total-session-votes type="integer">1674</total-session-votes>
+      <sunlight-nickname>Russ</sunlight-nickname>
+      <district>3</district>
+      <middlename nil="true"></middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:31:09-04:00</created-at>
+          <title>MISSOURI SLUGFEST&#8230; Top Democrats Duke It Out in Bloody Twitter</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Local Democrats were hoping the race and rhetoric between U.S. Reps. William Lacy Clay Jr. and Rep. Russ Carnahan would remain civil. The two top Missouri Democrats are battling in the August 7 primary over who gets to ...</excerpt>
+          <fti-names>'7':43 'admin':49 'august':42 'battl':39 'bloodi':9 'carnahan':29 'civil':32 'clay':24 'democrat':4,12,37 'duke':5 'get':47 'hope':14 'jr':25 'laci':23 'local':11 'missouri':1,36 'primari':44 'race':16 'remain':31 'rep':21,27 'rhetor':18 'russ':28 'slugfest':2 'top':3,35 'twitter':10 'two':34 'u.s':20 'william':22 'would':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.extremeconservatives.com/2012/07/missouri-slugfest-top-democrats-duke-it-out-in-bloody-twitter-brawl/&amp;sa=U&amp;ei=9v8VUIeDOZOw8ASNp4CQAg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNENn7AdiV38DfY9FWIjhDR0cyrlUg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945619</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:31:08-04:00</created-at>
+          <title>MISSOURI SLUGFEST&#8230; Top Democrats Duke It Out in Ugly Twitter ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Local Democrats were hoping the race and rhetoric between U.S. Reps. William Lacy Clay Jr. and Rep. Russ Carnahan would remain civil. The two top Missouri Democrats are battling in the August 7 primary over who gets to ...</excerpt>
+          <fti-names>'7':43 'august':42 'battl':39 'carnahan':29 'civil':32 'clay':24 'democrat':4,12,37 'duke':5 'get':47 'hoft':50 'hope':14 'jim':49 'jr':25 'laci':23 'local':11 'missouri':1,36 'primari':44 'race':16 'remain':31 'rep':21,27 'rhetor':18 'russ':28 'slugfest':2 'top':3,35 'twitter':10 'two':34 'u.s':20 'ugli':9 'william':22 'would':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thegatewaypundit.com/2012/07/ouch-top-democrats-slug-it-out-in-bloody-twitter-brawl/&amp;sa=U&amp;ei=9v8VUIeDOZOw8ASNp4CQAg&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNEWcdnkpJBxqAVPEMcbyC6ZQ3OyrQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945617</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Hoft</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:47:09-04:00</created-at>
+          <title>MISSOURI SLUGFEST&#8230; Top Democrats Duke It Out in Bloody Twitter</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Local Democrats were hoping the race and rhetoric between U.S. Reps. William Lacy Clay Jr. and Rep. Russ Carnahan would remain civil. The two top Missouri Democrats are battling in the August 7 primary over who gets to ...</excerpt>
+          <fti-names>'7':43 'admin':49 'august':42 'battl':39 'bloodi':9 'carnahan':29 'civil':32 'clay':24 'democrat':4,12,37 'duke':5 'get':47 'hope':14 'jr':25 'laci':23 'local':11 'missouri':1,36 'primari':44 'race':16 'remain':31 'rep':21,27 'rhetor':18 'russ':28 'slugfest':2 'top':3,35 'twitter':10 'two':34 'u.s':20 'william':22 'would':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.extremeconservatives.com/2012/07/missouri-slugfest-top-democrats-duke-it-out-in-bloody-twitter-brawl/&amp;sa=U&amp;ei=J6QUUOfzHYnf0QHAy4HYCQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGPy_OoFb_EtQkx-2UDVWjP9DFeZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929081</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:47:07-04:00</created-at>
+          <title>MISSOURI SLUGFEST&#8230; Top Democrats Duke It Out in Ugly Twitter ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Local Democrats were hoping the race and rhetoric between U.S. Reps. William Lacy Clay Jr. and Rep. Russ Carnahan would remain civil. The two top Missouri Democrats are battling in the August 7 primary over who gets to ...</excerpt>
+          <fti-names>'7':43 'august':42 'battl':39 'carnahan':29 'civil':32 'clay':24 'democrat':4,12,37 'duke':5 'get':47 'hoft':50 'hope':14 'jim':49 'jr':25 'laci':23 'local':11 'missouri':1,36 'primari':44 'race':16 'remain':31 'rep':21,27 'rhetor':18 'russ':28 'slugfest':2 'top':3,35 'twitter':10 'two':34 'u.s':20 'ugli':9 'william':22 'would':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thegatewaypundit.com/2012/07/ouch-top-democrats-slug-it-out-in-bloody-twitter-brawl/&amp;sa=U&amp;ei=J6QUUOfzHYnf0QHAy4HYCQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNElqDQnjqDe1ENuK2yWpkv4XtjE4Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929078</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Hoft</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:40:24-04:00</created-at>
+          <title>Soundbites &#171; Honolulu Notes</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The St. Louis Post-Dispatch endorsing Democrat Representative Russ Carnahan in the upcoming primary. &#8220;It&amp;#39;s a really simple rule: if you&amp;#39;re wearing a tie, you should be wearing socks.&#8221; - House Speaker John Boehner ...</excerpt>
+          <fti-names>'boehner':39 'carnahan':14 'democrat':11 'dispatch':9 'endors':10 'honolulu':2,40 'hous':36 'john':38 'loui':6 'note':3,41 'post':8 'post-dispatch':7 'primari':18 're':27 'realli':22 'repres':12 'rule':24 'russ':13 'simpl':23 'sock':35 'soundbit':1 'speaker':37 'st':5 'tie':30 'upcom':17 'wear':28,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://honolulunotes.com/2012/07/26/soundbites-35/&amp;sa=U&amp;ei=FlETUMrxAeb40gGBmIGACg&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHys2A3H73j9mQ4HU3JwWJvUg2JrA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920311</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Honolulu Notes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:40:24-04:00</created-at>
+          <title>Joyner-Kersee Jumps Into Politics, Endorses Clay - Creve Coeur ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Joyner-Kersee on Tuesday added her name to the list of people endorsing incumbent Rep. William Lacy Clay in his 1st Congressional District race against Rep. Russ Carnahan. The fellow colleagues face off in the 1 ...</excerpt>
+          <fti-names>'1':47 '1st':32 'ad':16 'carnahan':39 'clay':8,29 'coeur':10 'colleagu':42 'congression':33 'creve':9 'district':34 'endors':7,24 'face':43 'fellow':41 'incumb':25 'joyner':2,12 'joyner-kerse':1,11 'jump':4 'kerse':3,13 'laci':28 'list':21 'maggi':48 'name':18 'peopl':23 'polit':6 'race':35 'rep':26,37 'rotermund':49 'russ':38 'tuesday':15 'william':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crevecoeur.patch.com/articles/joyner-kersee-jumps-into-politics-endorses-clay&amp;sa=U&amp;ei=FlETUMrxAeb40gGBmIGACg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNHzCKiqV7s1gVIQMsn21leAlBXTXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920310</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maggie Rotermund</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:31:08-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Bruce Braley (IA Democrat), Yes. Rep. Corrine Brown (FL Democrat), Yes. Rep. George Butterfield (NC Democrat), Yes. Rep. Lois Capps (CA Democrat), Yes. Rep. Michael Capuano (MA Democrat), Yes. Rep. Russ Carnahan (MO ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'braley':12 'brown':18 'bruce':11 'butterfield':24 'ca':31 'capp':30 'capuano':36 'carnahan':42 'corrin':17 'democrat':14,20,26,32,38 'drill':9 'fl':19 'georg':23 'hr.6168':1 'ia':13 'loi':29 'ma':37 'michael':35 'mo':43 'nc':25 'obama':3 'offshor':8 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'russ':41 'www.votetocracy.com':44 'yes':15,21,27,33,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=9v8VUIeDOZOw8ASNp4CQAg&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNFw7TKPhB9XV0QxXMKsv6BtGCHqpA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16945618</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:47:07-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Bruce Braley (IA Democrat), Yes. Rep. Corrine Brown (FL Democrat), Yes. Rep. George Butterfield (NC Democrat), Yes. Rep. Lois Capps (CA Democrat), Yes. Rep. Michael Capuano (MA Democrat), Yes. Rep. Russ Carnahan (MO ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'braley':12 'brown':18 'bruce':11 'butterfield':24 'ca':31 'capp':30 'capuano':36 'carnahan':42 'corrin':17 'democrat':14,20,26,32,38 'drill':9 'fl':19 'georg':23 'hr.6168':1 'ia':13 'loi':29 'ma':37 'michael':35 'mo':43 'nc':25 'obama':3 'offshor':8 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'russ':41 'www.votetocracy.com':44 'yes':15,21,27,33,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=J6QUUOfzHYnf0QHAy4HYCQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHsz0OYKZbsqDH_nfeM-gBWEiLNIw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929079</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:39:59-04:00</created-at>
+          <title>Republican Candidate Joins 1st District Ad War - Creve Coeur, MO ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. William Lacy Clay succeeded his father to the seat in 2000. Rep. Bill Clay held the seat for 32 years. Hamlin&amp;#39;s ad comes one week after Clay and his Democratic challenger in the Aug. 7 primary, Rep. Russ Carnahan ...</excerpt>
+          <fti-names>'1st':4 '2000':22 '32':30 '7':47 'ad':6,34 'aug':46 'bill':24 'candid':2 'carnahan':51 'challeng':43 'clay':14,25,39 'coeur':9 'come':35 'creve':8 'democrat':42 'district':5 'father':17 'hamlin':32 'held':26 'join':3 'laci':13 'maggi':52 'mo':10 'one':36 'primari':48 'rep':11,23,49 'republican':1 'rotermund':53 'russ':50 'seat':20,28 'succeed':15 'war':7 'week':37 'william':12 'year':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crevecoeur.patch.com/articles/republican-candidate-joins-1st-district-ad-war&amp;sa=U&amp;ei=ff8RUNX6Aofm8gSt6IHoBg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNF9QvAPPj8zCLMKD3erTMm104GT6g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888645</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maggie Rotermund</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400638</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:31:10-04:00</created-at>
+          <title>Members of Congress Show Firebird Pride</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Russ Carnahan (D-Mo.), Rep. Danny K. Davis (D-Ill.) Rep. Mike Doyle (D-Pa.), Rep. Howard Coble (R-N.C.), Rep. David Price (D-N.C.), Rep. Jim Costa (D-Calf.), Rep. Tim Holden (D-Pa.), Rep. Peter DeFazio (D-Ore.) ...</excerpt>
+          <fti-names>'c':32,39 'calf':45 'carnahan':9 'cobl':28 'congress':3 'costa':42 'd':11,18,24,37,44,50,56 'd-calf':43 'd-ill':17 'd-mo':10 'd-n':36 'd-ore':55 'd-pa':23,49 'danni':14 'davi':16 'david':34 'defazio':54 'doyl':22 'firebird':5 'holden':48 'howard':27 'ill':19 'jim':41 'k':15 'member':1 'mike':21 'mo':12 'n':31,38 'ore':57 'pa':25,51 'peter':53 'price':35 'pride':6 'r':30 'r-n':29 'rep':7,13,20,26,33,40,46,52 'report':61 'russ':8 'show':4 'staff':60 'tim':47 'web':59 'wi':58</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtoninformer.com/index.php/local/item/11489-members-of-congress-show-firebird-pride&amp;sa=U&amp;ei=9v8VUIeDOZOw8ASNp4CQAg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNEAaYE5Pdo-zVCLQpT4jwLfuV9pKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16945621</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>WI Web Staff Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20768</page-views-count>
+      <unaccented-name>Russ Carnahan</unaccented-name>
+      <oc-user-comments type="integer">10</oc-user-comments>
+    </person>
+  </people>
+</hash>

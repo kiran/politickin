@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-06-27T06:00:58-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.9142519219397</party-votes-percentage>
+        <abstains-percentage type="float">1.62885398487493</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">312</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">99</cosponsored-bills-passed-rank>
+        <abstains type="integer">28</abstains>
+        <cosponsored-bills type="integer">211</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">29</party-votes-percentage-rank>
+        <sponsored-bills type="integer">10</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400230</person-id>
+        <cosponsored-bills-rank type="integer">180</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">179</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">414</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">5301</blog-article-count>
+      <user-approval type="float">1.54166666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">90</oc-users-tracking>
+      <contact-webform>http://langevin.house.gov/comments.shtml</contact-webform>
+      <metavid-id>James_R._Langevin</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.9142519219397</with-party-percentage>
+      <lastname>Langevin</lastname>
+      <congress-office>109 Cannon House Office Building</congress-office>
+      <youtube-id>jimlangevin</youtube-id>
+      <firstname>James</firstname>
+      <website>http://langevin.house.gov/</website>
+      <birthday type="date">1964-04-22</birthday>
+      <person-id type="integer">400230</person-id>
+      <fax>202-225-5976</fax>
+      <phone>202-225-2735</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>L000559</bioguide-id>
+      <votes-democratic-position type="integer">1605</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:19-04:00</created-at>
+          <title>Medicare hike buoys four hospitals</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Boston market, others as if they were in Connecticut. &#8220;You have to look at the reality in Rhode Island,&#8221; Reed said. Rep. Jim Langevin (D-1st District) said under the old system, providers could move across the border to Massachusetts and be paid at </excerpt>
+          <fti-names>'1st':32 'across':42 'border':44 'boston':6 'buoy':3 'connecticut':14 'could':40 'd':31 'd-1st':30 'district':33 'four':4 'hike':2 'hospit':5 'island':24 'jim':28 'langevin':29 'look':18 'market':7 'massachusett':46 'medicar':1 'move':41 'old':37 'other':8 'paid':49 'provid':39 'realiti':21 'reed':25 'rep':27 'rhode':23 'said':26,34 'sun':53 'system':38 'wester':52</fti-names>
+          <source-url>http://www.thewesterlysun.com/</source-url>
+          <url>http://www.thewesterlysun.com/news/medicare-hike-buoys-four-hospitals/article_567ea2e4-e099-11e1-9f23-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973465</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Westerly Sun</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:22-04:00</created-at>
+          <title>Rules of Cyberwar Stumping Pentagon</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&quot;We are facing significant fiscal challenges in the coming years,&quot; said Rep. Jim Langevin, D-R.I. &quot;Cyberrelated activities are faring reasonably well so far, but nothing is immune, and even noncyberspecific cuts could have an impact on your commands as ...</excerpt>
+          <fti-names>'activ':25 'challeng':11 'come':14 'command':46 'could':40 'cut':39 'cyberrel':24 'cyberwar':3 'd':21 'd-r':20 'even':37 'face':8 'far':31 'fare':27 'fiscal':10 'immun':35 'impact':43 'jim':18 'langevin':19 'network':49 'newsfactor':48 'noncyberspecif':38 'noth':33 'pentagon':5 'r':22 'reason':28 'rep':17 'rule':1 'said':16 'signific':9 'stump':4 'well':29 'year':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.newsfactor.com/story.xhtml?story_id=1230048QHW63&amp;page=2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T14:02:34-04:00</date>
+          <id type="integer">16922138</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsFactor Network</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:20-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&quot;We are facing significant fiscal challenges in the coming years,&quot; said Rep. Jim Langevin, D-R.I. &quot;Cyberrelated activities are faring reasonably well so far, but nothing is immune, and even noncyberspecific cuts could have an impact on your ...</excerpt>
+          <fti-names>'activ':27 'challeng':13 'come':16 'could':42 'cut':41 'cyberrel':26 'cyberwar':7 'd':23 'd-r':22 'even':39 'face':10 'far':33 'fare':29 'financ':49 'fiscal':12 'grappl':3 'immun':37 'impact':45 'jim':20 'langevin':21 'noncyberspecif':40 'noth':35 'pentagon':1 'r':24 'reason':30 'rep':19 'rule':5 'said':18 'signific':11 'still':2 'well':31 'yahoo':48 'year':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://finance.yahoo.com/news/pentagon-still-grappling-rules-cyberwar-131440348.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T09:38:54-04:00</date>
+          <id type="integer">16922133</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo Finance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:13:56-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&quot;We are facing significant fiscal challenges in the coming years,&quot; said Rep. Jim Langevin, D-R.I. &quot;Cyberrelated activities are faring reasonably well so far, but nothing is immune, and even noncyberspecific cuts could have an impact on your ...</excerpt>
+          <fti-names>'activ':27 'challeng':13 'come':16 'could':42 'cut':41 'cyberrel':26 'cyberwar':7 'd':23 'd-r':22 'even':39 'face':10 'far':33 'fare':29 'financ':49 'fiscal':12 'grappl':3 'immun':37 'impact':45 'jim':20 'langevin':21 'noncyberspecif':40 'noth':35 'pentagon':1 'r':24 'reason':30 'rep':19 'rule':5 'said':18 'signific':11 'still':2 'well':31 'yahoo':48 'year':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://finance.yahoo.com/news/pentagon-still-grappling-rules-cyberwar-224538248.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T09:10:16-04:00</date>
+          <id type="integer">16948291</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo Finance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:44-04:00</created-at>
+          <title>Pentagon grapples with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON (AP) &#8212; The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwar</excerpt>
+          <fti-names>'ago':44 'ap':8 'attack':35 'back':29 'base':34 'comput':33 'computer-bas':32 'congress':40 'cyberwar':6,49 'cyberwarfar':21 'fire':28 'four':42 'grappl':2,13 'leader':38 'militari':37,46 'minnesota':51 'month':43 'mpr':50 'pentagon':1,10 'public':52 'radio':53 'rule':4,19 'senior':36 'still':12 'told':39 'top':48 'washington':7 'wednesday':41 'write':17</fti-names>
+          <source-url>http://www.mpr.org/</source-url>
+          <url>http://feeds.mpr.org/~r/MPR_NewsFeatures/~3/NqktKhA1S3o/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890825</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MPR | Minnesota Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:43-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON (AP) &#8212; The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwar</excerpt>
+          <fti-names>'ago':45 'ap':9 'attack':36 'back':30 'base':35 'comput':34 'computer-bas':33 'congress':41 'cyberwar':7,50 'cyberwarfar':22 'fire':29 'four':43 'grappl':3,14 'intelligenc':53 'leader':39 'militari':38,47 'month':44 'pentagon':1,11 'post':52 'rule':5,20 'seattl':51 'senior':37 'still':2,13 'told':40 'top':49 'washington':8 'wednesday':42 'write':18</fti-names>
+          <source-url>http://seattlepi.nwsource.com/</source-url>
+          <url>http://www.seattlepi.com/business/article/Pentagon-still-grappling-with-rules-of-cyberwar-3735346.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890824</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Seattle Post Intelligencer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:43-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON (AP) &#8212; The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwar</excerpt>
+          <fti-names>'ago':45 'ap':9 'attack':36 'back':30 'base':35 'beaumont':51 'comput':34 'computer-bas':33 'congress':41 'cyberwar':7,50 'cyberwarfar':22 'enterpris':52 'fire':29 'four':43 'grappl':3,14 'leader':39 'militari':38,47 'month':44 'pentagon':1,11 'rule':5,20 'senior':37 'still':2,13 'told':40 'top':49 'washington':8 'wednesday':42 'write':18</fti-names>
+          <source-url>http://beaumontenterprise.com/</source-url>
+          <url>http://www.beaumontenterprise.com/business/article/Pentagon-still-grappling-with-rules-of-cyberwar-3735346.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890823</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beaumont Enterprise</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:43-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwarrior pr</excerpt>
+          <fti-names>'ago':44 'attack':35 'back':29 'base':34 'cbs':51 'comput':33 'computer-bas':32 'congress':40 'cyberwar':7 'cyberwarfar':21 'cyberwarrior':49 'fire':28 'four':42 'grappl':3,13 'leader':38 'militari':37,46 'month':43 'news':52 'pentagon':1,10 'pr':50 'rule':5,19 'senior':36 'still':2,12 'told':39 'top':48 'washington':8 'wednesday':41 'write':17</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/cbsnews/feed/~3/G37OJVyeuz8/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890822</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:43-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON (AP) - The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwar</excerpt>
+          <fti-names>'ago':45 'ap':9 'attack':36 'back':30 'base':35 'chicago':53 'comput':34 'computer-bas':33 'congress':41 'cyberwar':7,50 'cyberwarfar':22 'fire':29 'four':43 'fox':52 'grappl':3,14 'leader':39 'militari':38,47 'month':44 'pentagon':1,11 'rule':5,20 'senior':37 'still':2,13 'told':40 'top':49 'washington':8 'wednesday':42 'write':18</fti-names>
+          <source-url>http://www.myfoxchicago.com/</source-url>
+          <url>http://www.myfoxchicago.com/story/19119072/pentagon-still-grappling-with-rules-of-cyberwar</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890821</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>My Fox Chicago </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:19:43-04:00</created-at>
+          <title>Pentagon still grappling with rules of cyberwar</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON (AP) &#8212; The Pentagon is still grappling with how to write the rules of cyberwarfare, such as when and how to fire back against a computer-based attack, senior military leaders told Congress Wednesday. Four months ago the military's top cyberwar</excerpt>
+          <fti-names>'ago':45 'ap':9,52 'attack':36 'back':30 'base':35 'comput':34 'computer-bas':33 'congress':41 'cyberwar':7,50 'cyberwarfar':22 'findlaw':51 'fire':29 'four':43 'grappl':3,14 'leader':39 'militari':38,47 'month':44 'news':53 'pentagon':1,11 'rule':5,20 'senior':37 'still':2,13 'told':40 'top':49 'washington':8 'wednesday':42 'write':18</fti-names>
+          <source-url>http://legalnews.findlaw.com/</source-url>
+          <url>http://news.findlaw.com/apnews/8aa82536bc20460fb1503e21efc81418</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890820</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FindLaw: AP News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. James Langevin [D, RI-2]</name>
+      <total-session-votes type="integer">1691</total-session-votes>
+      <sunlight-nickname>Jim</sunlight-nickname>
+      <district>2</district>
+      <middlename>R.</middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:01:45-04:00</created-at>
+          <title>The Saturday Morning Post: Quick hits on politics &amp;amp; more in RI ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Meanwhile, Republican Party Chairman Mark Zaccaria is touting Jim Halderman, a candidate for South Kingstown Rep. Spencer Dickinson&amp;#39;s seat in District 35, as &#8220;probably the top prospect&#8221; among GOP challengers. 6. Jim Langevin&amp;#39;s office   wants Rh</excerpt>
+          <fti-names>'35':34 '6':43 'among':40 'candid':23 'chairman':15 'challeng':42 'dickinson':29 'district':33 'gop':41 'halderman':21 'hit':6 'jim':20,44 'kingstown':26 'langevin':45 'mark':16 'meanwhil':12 'morn':3 'nesi':51 'offic':47 'parti':14 'polit':8 'post':4 'probabl':36 'prospect':39 'quick':5 'rep':27 'republican':13 'rh':49 'ri':11 'saturday':2 'seat':31 'south':25 'spencer':28 'ted':50 'top':38 'tout':19 'want':48 'zaccaria':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.wpri.com/2012/07/21/the-saturday-morning-post-quick-hits-on-politics-more-in-ri-24/&amp;sa=U&amp;ei=F20LUOOBM8Oo2wXghJUM&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFEqGtA37hASuJwPe3L3wwXdrIF-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T01:00:00-04:00</date>
+          <id type="integer">16787081</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ted Nesi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:01:45-04:00</created-at>
+          <title>FERC goes back to Congress again for more cyber oversight ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In 2008, Reps. Bennie Thompson (D-Miss.) and Jim Langevin (D-R.I.) promote legislationthat would have given the agency authority to require power plants to immediately fix cybersecurity holes. Lawmakers have pushed ...</excerpt>
+          <fti-names>'2008':12 'agenc':32 'author':33 'back':3 'benni':14 'congress':5 'cyber':9 'cybersecur':41 'd':17,23 'd-miss':16 'd-r':22 'ferc':1 'fix':40 'given':30 'goe':2 'hole':42 'immedi':39 'jim':20,46 'langevin':21 'lawmak':43 'legislationthat':27 'miss':18 'oversight':10 'plant':37 'power':36 'promot':26 'push':45 'r':24 'rep':13 'requir':35 'thompson':15 'would':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thecre.com/fisma/%3Fp%3D2247&amp;sa=U&amp;ei=F20LUOOBM8Oo2wXghJUM&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFwZRqUbjfaMlC7KP6M6EaZWvFNyw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16787087</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jim</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:01:44-04:00</created-at>
+          <title>Langevin, Agriculture Leaders Meet at Farmer&amp;#39;s Daughter ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Recognizing that Rhode Island must take full advantage of opportunities in its sizable agricultural community to rebuild the state&amp;#39;s economy, Congressman Jim Langevin (D-RI) joined representatives of the RI Center for ...</excerpt>
+          <fti-names>'/articles/hows-your-sex-life':45 'advantag':16 'agricultur':2,22 'center':41 'communiti':23 'congressman':30 'd':34 'd-ri':33 'daughter':8 'economi':29 'farmer':6 'full':15 'island':12 'jim':31 'join':36 'langevin':1,32 'leader':3 'meet':4 'must':13 'narragansett.patch.com':44 'narragansett.patch.com/articles/hows-your-sex-life':43 'opportun':18 'rebuild':25 'recogn':9 'repres':37 'rhode':11 'ri':35,40 'sizabl':21 'state':27 'take':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://narragansett.patch.com/articles/langevin-agriculture-leaders-meet-at-farmer-s-daughter&amp;sa=U&amp;ei=F20LUOOBM8Oo2wXghJUM&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNGgQZVWMf-RM6cQNjrspr0qyFrNyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16787080</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://narragansett.patch.com/articles/hows-your-sex-life</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:01:45-04:00</created-at>
+          <title>Roll on Capitol Hill: A Unified Voice for Disability Rights &#8212; UsersFirst</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Jim Langevin from RI. I am not exactly sure how it ... Representative Jim Langevin from RI, who is a power wheelchair user, spoke to us in support of our cause along with Representative John Conyers. The room was filled with ...</excerpt>
+          <fti-names>'admin':53 'along':43 'capitol':3 'caus':42 'conyer':47 'disabl':9 'exact':20 'fill':51 'hill':4 'jim':13,25 'john':46 'langevin':14,26 'power':32 'repres':12,24,45 'ri':16,28 'right':10 'roll':1 'room':49 'spoke':35 'support':39 'sure':21 'unifi':6 'us':37 'user':34 'usersfirst':11 'voic':7 'wheelchair':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.usersfirst.org/unified-voice-for-disability-rights/&amp;sa=U&amp;ei=F20LUOOBM8Oo2wXghJUM&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNETN8OyGmOgZyAvNmpY7QVCJdNWDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16787082</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:27-04:00</created-at>
+          <title>Click it: Remember to check computer for malware - Home &#187; Other ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim Langevin, D-R.I., and co-founder of Congress&amp;#39; cybersecurity caucus, said computer uses have a responsibility to practice good sense and make sure their computers are not infected or being hijacked by criminals.</excerpt>
+          <fti-names>'caucus':25 'check':5 'click':1 'co':20 'co-found':19 'comput':6,27,40 'congress':23 'crimin':48 'cybersecur':24 'd':15 'd-r':14 'founder':21 'good':34 'hijack':46 'home':9 'infect':43 'jim':12 'langevin':13 'make':37 'malwar':8 'practic':33 'r':16 'rememb':3 'rep':11 'respons':31 'said':26 'sens':35 'sure':38 'use':28 'www.philstar.com':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.philstar.com/Article.aspx%3FarticleId%3D825573%26publicationSubCategoryId%3D200&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNHzw1DowTj8GOaJDcGDbszWavjqtA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16459601</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.philstar.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:26-04:00</created-at>
+          <title>FBI to shut down Internet for users infected with malware - WTKR-TV 3</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim Langevin, D-R.I., and co-founder of Congress&amp;#39; cybersecurity caucus, said computer uses have a responsibility to practice good sense and make sure their computers are not infected or being hijacked by criminals.</excerpt>
+          <fti-names>'3':14 'caucus':29 'co':24 'co-found':23 'comput':31,44 'congress':27 'crimin':52 'cybersecur':28 'd':19 'd-r':18 'fbi':1 'founder':25 'good':38 'hijack':50 'infect':8,47 'internet':5 'jim':16 'langevin':17 'make':41 'malwar':10 'practic':37 'r':20 'rep':15 'respons':35 'said':30 'sens':39 'shut':3 'staff':54 'sure':42 'tv':13 'use':32 'user':7 'web':53 'wtkr':12 'wtkr-tv':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wtkr.com/2012/07/08/fbi-to-shut-down-internet-for-users-infected-with-malware/&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNG4R50jucInfHOmyk8r-4CzAschTw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16459597</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Web Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:25-04:00</created-at>
+          <title>we don&amp;#39;t need no stinkin&amp;#39; Mal de ware! - AdScam/The Horror!</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Jim Langevin (D., R.I.), co-founder of Congress&amp;#39; cybersecurity caucus, said&#8230; &#8220;Computer users have a responsibility to practice good sense and make sure their computers aren&amp;#39;t infected or being hijacked by criminals.</excerpt>
+          <fti-names>'adscam/the':10 'aren':39 'caucus':23 'co':18 'co-found':17 'comput':25,38 'congress':21 'crimin':46 'cybersecur':22 'd':15 'de':8 'founder':19 'georg':47 'good':32 'hijack':44 'horror':11 'infect':41 'jim':13 'langevin':14 'make':35 'mal':7 'need':4 'parker':48 'practic':31 'r.i':16 'rep':12 'respons':29 'said':24 'sens':33 'stinkin':6 'sure':36 'user':26 'ware':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://adscam.typepad.com/my_weblog/2012/07/we-dont-need-no-stinkin-mal-de-ware.html&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNHRcAhqLXVQzChIyvw3LnyDRaVmag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16459596</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>George Parker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:27-04:00</created-at>
+          <title>Steny Hoyer and the Fate of American Manufacturing - Not For Nothing</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Today, House Minority Whip Steny Hoyer was in Rhode Island highlighting Congressman Jim Langevin&amp;#39;s work on job training and Congressman Cicilline&amp;#39;s work on manufacturing. I asked him if the nation&amp;#39;s modest industrial ...</excerpt>
+          <fti-names>'american':7 'ask':39 'cicillin':33 'congressman':23,32 'david':47 'fate':5 'highlight':22 'hous':13 'hoyer':2,17 'industri':46 'island':21 'jim':24 'job':29 'langevin':25 'manufactur':8,37 'minor':14 'modest':45 'nation':43 'noth':11 'rhode':20 'scharfenberg':48 'steni':1,16 'today':12 'train':30 'whip':15 'work':27,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.thephoenix.com/BLOGS/notfornothing/archive/2012/07/06/steny-hoyer-and-the-fate-of-american-manufacturing.aspx&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNEw6RyR85q164SE6KehSB_dau4nYA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16459603</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>David Scharfenberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:27-04:00</created-at>
+          <title>GoLocalProv | News | NEW: Langevin, Hoyer Address Keys to Job ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Building on their shared efforts to create quality job opportunities in the short and long-term, Congressman Steny Hoyer (D-MD), the Democratic Whip of the U.S. House of Representatives, joined Congressman Jim Langevin ...</excerpt>
+          <fti-names>'/lifestyle/1304/':48 'address':6 'build':10 'congressman':27,43 'creat':16 'd':31 'd-md':30 'democrat':34 'effort':14 'golocalprov':1 'hous':39 'hoyer':5,29 'jim':44 'job':9,18 'join':42 'key':7 'langevin':4,45 'long':25 'long-term':24 'md':32 'new':3 'news':2 'opportun':19 'qualiti':17 'repres':41 'share':13 'short':22 'steni':28 'term':26 'u.s':38 'whip':35 'www.golocalprov.com':47 'www.golocalprov.com/lifestyle/1304':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.golocalprov.com/news/new-langevin-hoyer-address-keys-to-job-growth-in-ri/&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNEhiBdt0K8OiSwaaIcWZ8DrHbUKuw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16459600</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.golocalprov.com/lifestyle/1304/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400230</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:20:28-04:00</created-at>
+          <title>Democrats announce their endorsed candidates for 2012</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>... their announcement of the slate of candidates who will be running on the Democratic ticket. As previously announced, the Charlestown Dems are backing Senator Sheldon Whitehouse and Rep. Jim Langevin for re-election.</excerpt>
+          <fti-names>'2012':7 'announc':2,9,25 'back':30 'candid':5,14 'charlestown':27 'collett':44 'dem':28 'democrat':1,21 'elect':41 'endors':4 'jim':36 'langevin':37 'noreply@blogger.com':42 'previous':24 're':40 're-elect':39 'rep':35 'run':18 'senat':31 'sheldon':32 'slate':12 'ticket':22 'whitehous':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.progressive-charlestown.com/2012/07/democrats-announce-their-endorsed.html&amp;sa=U&amp;ei=-E36T_npK8fo2gXlt7DtBg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNE3KYZW0AwiSAWT3do-qggKwf2NEQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-04T01:00:00-04:00</date>
+          <id type="integer">16459604</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>noreply@blogger.com (Will Collette)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">18486</page-views-count>
+      <unaccented-name>James Langevin</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

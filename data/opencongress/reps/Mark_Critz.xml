@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">76.5084944346807</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">400183</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">213</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">7</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">412386</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412466</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">726</votes-republican-position>
+      <blog-article-count type="integer">3354</blog-article-count>
+      <fax>202-225-5974</fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">30</oc-users-tracking>
+      <contact-webform>https://critz.house.gov/contact/email-me.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">76.5084944346807</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Critz</lastname>
+      <congress-office>1022 Longworth House Office Building</congress-office>
+      <middlename>S.</middlename>
+      <firstname>Mark</firstname>
+      <website>http://critz.house.gov/</website>
+      <birthday type="date">1962-01-05</birthday>
+      <bioguide-id>C001081</bioguide-id>
+      <person-id type="integer">412386</person-id>
+      <phone>202-225-2065</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1306</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:36:55-04:00</created-at>
+          <title>Critz, Rothfus dispute status of Republican&#8217;s staffers&#8217; tax status</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Rep. Mark Critz accused his opponent of evading taxes on his campaign employee payroll, but Republican challenger Keith Rothfus contends he has done nothing illegal and owes no back taxes. The dispute centers on whether politicians should consider campa</excerpt>
+          <fti-names>'accus':14 'back':39 'campa':49 'campaign':22 'center':43 'challeng':27 'consid':48 'contend':30 'critz':1,13 'disput':3,42 'done':33 'employe':23 'entertain':51 'evad':18 'illeg':35 'keith':28 'mark':12 'noth':34 'oppon':16 'owe':37 'payrol':24 'pittsburgh':50 'politician':46 'rep':11 'republican':6,26 'rothfus':2,29 'staffer':8 'status':4,10 'tax':9,19,40 'whether':45</fti-names>
+          <source-url>http://www.pittsburghlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/alltribstories/~3/BDNkJs0ePQA/tax-critz-campaign-rothfus-employees-taxes-dispute-employee-independent-contractors</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973361</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pittsburgh Entertainment</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:10:32-04:00</created-at>
+          <title>Luke Russert Only Wants To Guard Your Dreams And Visions, Baby</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...which shrunk to 25 this Congress. At least seven of them &#8212; including Altmire, who lost a primary to a more liberal Democratic Rep. Mark Critz (PA) &#8212; won&#8217;t be returning to Washington next year. Okay, so maybe he&#8217;s not very representative of where</excerpt>
+          <fti-names>'25':15 'altmir':24 'babi':11 'congress':17 'critz':36 'democrat':33 'dream':8 'firedoglak':56 'guard':6 'includ':23 'least':19 'liber':32 'lost':26 'luke':1 'mark':35 'mayb':48 'next':44 'okay':46 'pa':37 'primari':28 'rep':34 'repres':53 'return':41 'russert':2 'seven':20 'shrunk':13 'vision':10 'want':4 'washington':43 'won':38 'year':45</fti-names>
+          <source-url>http://www.firedoglake.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firedoglake/tbogg/~3/c1NHaqJ6rdM/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970532</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firedoglake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:10:32-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D-Calif.) Rep. Mark Critz (D-Pa.) Rep. Henry Cuellar (D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.) Rep. David Loebsack (D-Iowa) Rep</excerpt>
+          <fti-names>'ben':18 'boswel':13 'c':60 'calif':35 'chandler':19 'connolli':26 'costa':32 'critz':38 'cuellar':44 'cut':9 'd':15,21,28,34,40,46,52,58,65 'd-calif':33 'd-ind':51 'd-iowa':14,64 'd-ki':20 'd-n':57 'd-pa':39 'd-tex':45 'd-va':27 'david':62 'democrat':2 'donnelli':50 'e':25 'gerald':24 'henri':43 'hous':6 'ind':53 'iowa':16,66 'jim':31 'joe':49 'kissel':56 'ky':22 'larri':55 'leonard':12 'loebsack':63 'mark':37 'n':59 'pa':41 'plan':10 'post':70 'rep':11,17,23,30,36,42,48,54,61,67 'republican':7 'tax':8 'tex':47 'va':29 'vote':3 'washington':69</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970531</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:10:28-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly (D-Va.) Rep. Jim Costa (D-Calif.) Rep. Mark Critz (D-Pa.) Rep. Henry Cuellar (D-Tex.) Rep. Joe Donnelly (D-Ind.) Rep. Larry Kissell (D-N.C.) Rep. David Loebsack (D-Iowa) Rep</excerpt>
+          <fti-names>'ben':18 'boswel':13 'c':60 'calif':35 'chandler':19 'connolli':26 'costa':32 'critz':38 'cuellar':44 'cut':9 'd':15,21,28,34,40,46,52,58,65 'd-calif':33 'd-ind':51 'd-iowa':14,64 'd-ki':20 'd-n':57 'd-pa':39 'd-tex':45 'd-va':27 'david':62 'democrat':2 'donnelli':50 'e':25 'gerald':24 'henri':43 'hous':6 'ind':53 'iowa':16,66 'jim':31 'joe':49 'kissel':56 'ky':22 'larri':55 'leonard':12 'loebsack':63 'mark':37 'n':59 'pa':41 'plan':10 'post':70 'rep':11,17,23,30,36,42,48,54,61,67 'republican':7 'tax':8 'tex':47 'va':29 'vote':3 'washington':69</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:38:27-04:00</created-at>
+          <title>Sunlight Foundation Reporting Group: Super PAC Profile: Workers' Voices the super PAC of the average citizen?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...in Ohio. The group&#8217;s independent expenditures to date have been minimal, with just under $2,500 spent in support of Rep. Mark Critz, D-Pa., since April. Earlier campaign activity by the group included an attack ad on Senate candidate Josh Mandel, R-Oh</excerpt>
+          <fti-names>'2':32 '500':33 'activ':48 'ad':55 'april':45 'attack':54 'averag':15 'campaign':47 'candid':58 'citizen':16 'critz':40 'd':42 'd-pa':41 'date':25 'earlier':46 'expenditur':23 'foundat':2,65 'group':4,20,51 'includ':52 'independ':22 'josh':59 'mandel':60 'mark':39 'minim':28 'oh':63 'ohio':18 'pa':43 'pac':6,12 'profil':7 'r':62 'r-oh':61 'rep':38 'report':3 'senat':57 'sinc':44 'spent':34 'sunlight':1,64 'super':5,11 'support':36 'voic':9 'worker':8</fti-names>
+          <source-url>http://www.sunlightfoundation.com/</source-url>
+          <url>http://reporting.sunlightfoundation.com/2012/super-pac-profile-workers-voices-super-pac-average-citizen/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966272</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sunlight Foundation</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:38:23-04:00</created-at>
+          <title>Republicans Outraising Democratic Rivals in House Races</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Representative Allen West of Florida ... Only one vulnerable Democratic incumbent, Mark Critz in Pennsylvania, had less money to spend than his opponent. Republican Keith Rothfus had $644,936 in the bank at the end of June while Critz had ...</excerpt>
+          <fti-names>'644':34 '936':35 'allen':9 'bank':38 'bloomberg':47 'critz':19,45 'democrat':3,16 'end':41 'florida':12 'hous':6 'incumb':17 'june':43 'keith':31 'less':23 'mark':18 'money':24 'one':14 'oppon':29 'outrais':2 'pennsylvania':21 'race':7 'repres':8 'republican':1,30 'rival':4 'rothfus':32 'spend':26 'vulner':15 'west':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bloomberg.com/news/2012-07-31/republicans-outraising-democratic-rivals-in-house-races.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:21:47-04:00</date>
+          <id type="integer">16966271</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bloomberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:44:20-04:00</created-at>
+          <title>Rescue remembered: Events mark 10th anniversary of Quecreek drama</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Former Gov. Mark Schweiker and U.S. Rep. Mark Critz, D-Johnstown, recalled the historical rescue. &#8220;What occurred here was nothing short of remarkable,&#8221; Schweiker said. &#8220;It&#8217;s why you have a visitors center. We can tell the whole world that as proud </excerpt>
+          <fti-names>'10th':5 'anniversari':6 'center':43 'critz':18 'd':20 'd-johnstown':19 'democrat':55 'drama':9 'event':3 'former':10 'gov':11 'histor':24 'johnstown':21 'mark':4,12,17 'noth':30 'occur':27 'proud':52 'quecreek':8 'recal':22 'remark':33 'rememb':2 'rep':16 'rescu':1,25 'said':35 'schweiker':13,34 'short':31 'tell':46 'tribun':54 'tribune-democrat':53 'u.s':15 'visitor':42 'whole':48 'world':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://tribune-democrat.com/local/x1962234191/Rescue-remembered-Events-mark-10th-anniversary-of-Quecreek-drama</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T00:02:41-04:00</date>
+          <id type="integer">16959895</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tribune-Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-30T00:15:43-04:00</created-at>
+          <title>Critz, Toomey statements on the christening of ship</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Mark Critz, D-Johnstown, on July 18 inserted the following remarks into the Congressional Record to recognize the christening of the USS Somerset: Mr. Speaker, I rise to recognize the christening of the USS Somerset. On July 28, 2012, the USS ...</excerpt>
+          <fti-names>'18':18 '2012':50 '28':49 'christen':6,30,42 'congression':25 'critz':1,12 'd':14 'd-johnstown':13 'democrat':55 'follow':21 'insert':19 'johnstown':15 'juli':17,48 'mark':11 'mr':35 'recogn':28,40 'record':26 'remark':22 'rep':10 'rise':38 'ship':8 'somerset':34,46 'speaker':36 'statement':3 'toomey':2 'tribun':54 'tribune-democrat':53 'u.s':9 'uss':33,45,52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://tribune-democrat.com/local/x1923089143/Critz-Toomey-statements-on-the-christening-of-ship</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T23:19:44-04:00</date>
+          <id type="integer">16946094</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tribune-Democrat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-30T00:16:02-04:00</created-at>
+          <title>Miners, rescuers gather on 10th anniversary of Quecreek rescue</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Schweiker, U.S. Rep. Mark Critz, D-Johnstown, and miners Blaine Mayhugh, Tom Foy and John Unger were among those who dedicated the newly completed visitors center on Bill and Lori Arnold&#8217;s Lincoln Township farm, a few yards from where the ...</excerpt>
+          <fti-names>'10th':5 'among':28 'anniversari':6 'arnold':41 'bill':38 'blain':20 'center':36 'complet':34 'critz':14 'd':16 'd-johnstown':15 'dedic':31 'farm':45 'foy':23 'gather':3 'john':25 'johnstown':17 'lincoln':43 'lori':40 'mark':13 'mayhugh':21 'miner':1,19 'newli':33 'pittsburgh':52 'quecreek':8 'rep':12 'rescu':9 'rescuer':2 'review':55 'schweiker':10 'tom':22 'township':44 'tribun':54 'tribune-review':53 'u.s':11 'unger':26 'visitor':35 'yard':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://triblive.com/usworld/2257016-74/miners-mine-quecreek-rescue-schweiker-needs-center-mark-rescuers-ceremony</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T16:31:43-04:00</date>
+          <id type="integer">16946098</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PITTSBURGH TRIBUNE-REVIEW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:57:42-04:00</created-at>
+          <title>Miners, rescuers gather on 10th anniversary of Quecreek rescue</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Schweiker, U.S. Rep. Mark Critz, D-Johnstown, and miners Blaine Mayhugh, Tom Foy and Unger were among those who dedicated the newly completed visitors&#8217; center on Bill and Lori Arnold&#8217;s Lincoln Township farm, a few yards from where the rescue ...</excerpt>
+          <fti-names>'10th':5 'among':27 'anniversari':6 'arnold':40 'bill':37 'blain':20 'center':35 'complet':33 'critz':14 'd':16 'd-johnstown':15 'dedic':30 'farm':44 'foy':23 'gather':3 'johnstown':17 'lincoln':42 'lori':39 'mark':13 'mayhugh':21 'miner':1,19 'newli':32 'pittsburgh':52 'quecreek':8 'rep':12 'rescu':9,51 'rescuer':2 'review':55 'schweiker':10 'tom':22 'township':43 'tribun':54 'tribune-review':53 'u.s':11 'unger':25 'visitor':34 'yard':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://triblive.com/home/2257016-74/miners-mine-quecreek-rescue-schweiker-rescuers-center-miracle-needs-nine</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T15:20:08-04:00</date>
+          <id type="integer">16929296</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PITTSBURGH TRIBUNE-REVIEW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Mark Critz [D, PA-12]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>12</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:48:00-04:00</created-at>
+          <title>So which Democrats are playing Convention Hookie? Or: My dog ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Mark Critz of Pennsylvania also got his butt redistricted and find himself representing a district that would more likely vote for Dracula than Barack Obama. Poor Rep. Critz could only say he has always focused ...</excerpt>
+          <fti-names>'also':16 'alway':45 'barack':35 'butt':19 'congressman':11 'convent':6 'could':40 'critz':13,39 'democrat':3 'district':26 'dog':10 'dracula':33 'find':22 'focus':46 'got':17 'hooki':7 'like':30 'mark':12 'obama':36 'pennsylvania':15 'play':5 'poor':37 'redistrict':20 'rep':38 'repres':24 'say':42 'uppiti':47 'vote':31 'woman':48 'would':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uppitywoman08.wordpress.com/2012/07/15/so-which-democrats-will-be-playing-democratic-convention-hookie/&amp;sa=U&amp;ei=3YADUPb5OsXY2AWyy7WTCw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHZGM_ovSoq9wIDmPJQCiZBIcGpQw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647806</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Uppity Woman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:47:58-04:00</created-at>
+          <title>Update: Critz Raises More, Rothfus Reports More Cash On Hand ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Mark Critz has reported his strongest fundraising quarter since being elected to office in 2010, having raised $596496 between April 5 and June 30.</excerpt>
+          <fti-names>'2010':26 '30':35 '5':32 '596496':29 'april':31 'cash':8 'critz':2,13 'elect':22 'fundrais':18 'hand':10 'june':34 'kelly.cernetich':36 'mark':12 'offic':24 'quarter':19 'rais':3,28 'rep':11 'report':6,15 'rothfus':5 'sinc':20 'strongest':17 'updat':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/update-critz-raises-more-rothfus-reports-more-cash-on-hand/38041/&amp;sa=U&amp;ei=3YADUPb5OsXY2AWyy7WTCw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHhp-vNENgh0_b7evMSpgG0NtY9Qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16647801</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kelly.Cernetich</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:47:59-04:00</created-at>
+          <title>7/12 Morning Buzz | PoliticsPA</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Critz Votes Against Obamacare Repeal: After Rep. Mark Critz voted against the repeal of the Affordable Healthcare Act, his opponent Keith Rothfus seized the opportunity to portray Critz as an opponent of Medicare.</excerpt>
+          <fti-names>'7/12':1 'act':22 'afford':20 'buzz':3 'critz':5,13,32 'healthcar':21 'keegan.gibson':38 'keith':25 'mark':12 'medicar':37 'morn':2 'obamacar':8 'oppon':24,35 'opportun':29 'politicspa':4 'portray':31 'rep':11 'repeal':9,17 'rothfus':26 'seiz':27 'vote':6,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/712-morning-buzz-2/37914/&amp;sa=U&amp;ei=3YADUPb5OsXY2AWyy7WTCw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNEeDOO_DCoemCR1-LIGTexDqGBPCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16647803</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keegan.Gibson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:35:17-04:00</created-at>
+          <title>A Growing List of Democrats Who Will Skip The Convention</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Then two representative from upstate New York, Bill Owens and Kathy Hochul announced that they too couldn&amp;#39;t bear to leave home. Later Congressman Mark Critz of Pennsylvania told his fellow Democrats that he was ...</excerpt>
+          <fti-names>'announc':23 'bear':29 'bill':18 'congressman':34 'convent':10 'couldn':27 'critz':36 'democrat':5,42 'fellow':41 'grow':2 'hochul':22 'home':32 'hoosierman':46 'kathi':21 'later':33 'leav':31 'list':3 'mark':35 'new':16 'owen':19 'pennsylvania':38 'repres':13 'skip':8 'told':39 'two':12 'upstat':15 'york':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://teapartyatperrysburg.blogspot.com/2012/07/growing-list-of-democrats-who-will-skip.html&amp;sa=U&amp;ei=5-gAUMWnGqLe2AWO3_iYCw&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNHEmxULyWs4qjMBXeOcMjD_SEW5-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16596269</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Hoosierman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:35:13-04:00</created-at>
+          <title>7/12 Morning Buzz | PoliticsPA</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Critz Votes Against Obamacare Repeal: After Rep. Mark Critz voted against the repeal of the Affordable Healthcare Act, his opponent Keith Rothfus seized the opportunity to portray Critz as an opponent of Medicare.</excerpt>
+          <fti-names>'7/12':1 'act':22 'afford':20 'buzz':3 'critz':5,13,32 'healthcar':21 'keegan.gibson':38 'keith':25 'mark':12 'medicar':37 'morn':2 'obamacar':8 'oppon':24,35 'opportun':29 'politicspa':4 'portray':31 'rep':11 'repeal':9,17 'rothfus':26 'seiz':27 'vote':6,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/712-morning-buzz-2/37914/&amp;sa=U&amp;ei=5-gAUMWnGqLe2AWO3_iYCw&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNF8ndWVAozxE_ThnQV7yO4OQMphwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16596266</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keegan.Gibson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:35:11-04:00</created-at>
+          <title>Critz Votes Against Obamacare Repeal | PoliticsPA</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>After Rep. Mark Critz voted against the repeal of the Affordable Healthcare Act, his opponent Keith Rothfus seized the opportunity to portray Critz as an opponent of Medicare. The debate even lead to a heated rhetorical battle ...</excerpt>
+          <fti-names>'act':19 'afford':17 'battl':43 'critz':1,10,29 'debat':36 'even':37 'healthcar':18 'heat':41 'keith':22 'kelly.cernetich':44 'lead':38 'mark':9 'medicar':34 'obamacar':4 'oppon':21,32 'opportun':26 'politicspa':6 'portray':28 'rep':8 'repeal':5,14 'rhetor':42 'rothfus':23 'seiz':24 'vote':2,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicspa.com/critz-votes-against-obamacare-repeal/37888/&amp;sa=U&amp;ei=5-gAUMWnGqLe2AWO3_iYCw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFZnsk-H4hOvGtqMEtMhuVWuT9SAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16596263</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kelly.Cernetich</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:48:00-04:00</created-at>
+          <title>Representative Mark Critz press conference announcing - Flickr</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Mark Critz speaks at a press conference announcing he will co-sponser the Bring Jobs Home Act.</excerpt>
+          <fti-names>'act':26 'announc':6,16 'bring':23 'co':20 'co-spons':19 'confer':5,15 'critz':3,10 'flickr':7 'home':25 'job':24 'mark':2,9 'press':4,14 'repres':1,8 'speak':11 'sponser':21 'steelwork':28 'unit':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.flickr.com/photos/unitedsteelworkers/7545041322/&amp;sa=U&amp;ei=3YADUPb5OsXY2AWyy7WTCw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFB9rDwb6SIOLwK9BNwRODcKgbqbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16647808</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>United Steelworkers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:35:04-04:00</created-at>
+          <title>Representative Mark Critz press conference announcing - Flickr</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Mark Critz speaks at a press conference announcing he will co-sponser the Bring Jobs Home Act.</excerpt>
+          <fti-names>'act':26 'announc':6,16 'bring':23 'co':20 'co-spons':19 'confer':5,15 'critz':3,10 'flickr':7 'home':25 'job':24 'mark':2,9 'press':4,14 'repres':1,8 'speak':11 'sponser':21 'steelwork':28 'unit':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.flickr.com/photos/unitedsteelworkers/7545041322/&amp;sa=U&amp;ei=5-gAUMWnGqLe2AWO3_iYCw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNF2VYnd_mnSx4m4tYTE4bBHj8R2MQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16596261</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>United Steelworkers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:47:59-04:00</created-at>
+          <title>US Rep. Mark Critz in the Tribune-Review - Marcellus Shale Coalition</title>
+          <contains-term>senate</contains-term>
+          <excerpt>U.S. Rep. Mark Critz in the Tribune-Review: Stick to Fracking Science, Not the Politics. June 23, 2012. Share. Share. Email. Earn. By Lockerz. By: Mark S. Critz. At a recent U.S. Senate Appropriations Committee hearing, Environmental ...</excerpt>
+          <fti-names>'2012':31 '23':30 'appropri':47 'coalit':12,53 'committe':48 'critz':4,16,41 'earn':35 'email':34 'environment':50 'frack':24 'hear':49 'june':29 'lockerz':37 'marcellus':10,51 'mark':3,15,39 'polit':28 'recent':44 'rep':2,14 'review':9,21 'scienc':25 'senat':46 'shale':11,52 'share':32,33 'stick':22 'tribun':8,20 'tribune-review':7,19 'u.s':13,45 'us':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marcelluscoalition.org/2012/06/u-s-rep-mark-critz-in-the-tribune-review-stick-to-fracking-science-not-the-politics/&amp;sa=U&amp;ei=3YADUPb5OsXY2AWyy7WTCw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFtvQReuHf7Fv6-K0a06amvDmJCIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-23T01:00:00-04:00</date>
+          <id type="integer">16647802</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marcellus Shale Coalition</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412386</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:35:13-04:00</created-at>
+          <title>US Rep. Mark Critz in the Tribune-Review - Marcellus Shale Coalition</title>
+          <contains-term>senate</contains-term>
+          <excerpt>U.S. Rep. Mark Critz in the Tribune-Review: Stick to Fracking Science, Not the Politics. June 23, 2012. Share. Share. Email. Earn. By Lockerz. By: Mark S. Critz. At a recent U.S. Senate Appropriations Committee hearing, Environmental ...</excerpt>
+          <fti-names>'2012':31 '23':30 'appropri':47 'coalit':12,53 'committe':48 'critz':4,16,41 'earn':35 'email':34 'environment':50 'frack':24 'hear':49 'june':29 'lockerz':37 'marcellus':10,51 'mark':3,15,39 'polit':28 'recent':44 'rep':2,14 'review':9,21 'scienc':25 'senat':46 'shale':11,52 'share':32,33 'stick':22 'tribun':8,20 'tribune-review':7,19 'u.s':13,45 'us':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://marcelluscoalition.org/2012/06/u-s-rep-mark-critz-in-the-tribune-review-stick-to-fracking-science-not-the-politics/&amp;sa=U&amp;ei=5-gAUMWnGqLe2AWO3_iYCw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNF6MSNQSSf3FWDT7ljDtkewTYx_cg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-23T01:00:00-04:00</date>
+          <id type="integer">16596264</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marcellus Shale Coalition</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6584</page-views-count>
+      <youtube-id>RepMarkCritz</youtube-id>
+      <unaccented-name>Mark Critz</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

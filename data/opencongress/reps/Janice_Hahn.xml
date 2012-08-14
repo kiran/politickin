@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">96.9437652811736</party-votes-percentage>
+        <abstains-percentage type="float">6.19266055045872</abstains-percentage>
+        <votes-most-often-with-id type="integer">412440</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">54</abstains>
+        <cosponsored-bills type="integer">255</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">412398</votes-least-often-with-id>
+        <person-id type="integer">412498</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400255</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">182</votes-republican-position>
+      <blog-article-count type="integer">1710</blog-article-count>
+      <fax>202-226-7290</fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">12</oc-users-tracking>
+      <contact-webform>https://hahn.house.gov/contact-me/email-me</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">96.9437652811736</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Hahn</lastname>
+      <congress-office>2400 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Janice</firstname>
+      <bioguide-id>H001063</bioguide-id>
+      <website>http://hahn.house.gov/</website>
+      <birthday type="date">1952-03-30</birthday>
+      <person-id type="integer">412498</person-id>
+      <phone>202-225-8220</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">793</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:42:21-04:00</created-at>
+          <title>House reprimands Calif. Rep. Laura Richardson for ethic charges</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...used taxpayer-funded resources for personal and political activities, and obstructed the investigation. The embarrassing vote comes as Richardson faces a tough race to win re-election against fellow Democratic Rep. Janice Hahn in a newly drawn district.</excerpt>
+          <fti-names>'activ':19 'calif':3 'charg':9 'come':27 'democrat':41 'district':49 'drawn':48 'elect':38 'embarrass':25 'ethic':8 'face':30 'fellow':40 'fund':13 'hahn':44 'hous':1 'investig':23 'janic':43 'laura':5 'newli':47 'obstruct':21 'person':16 'petersburg':52 'polit':18 'race':33 're':37 're-elect':36 'rep':4,42 'reprimand':2 'resourc':14 'richardson':6,29 'st':51 'tampabay.com':50 'taxpay':12 'taxpayer-fund':11 'time':53 'tough':32 'use':10 'vote':26 'win':35</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/news/article1243984.ece</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16973411</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:50:49-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson in ethics case</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...of a House member comes as Richardson faces a tough election in a redrawn district against fellow Democratic Rep. Janice Hahn of San Pedro, who bested her by 20 percentage points in the June primary. Though a reprimand is not as serious as a censure or </excerpt>
+          <fti-names>'20':37 'angel':56 'best':34 'case':8 'censur':53 'come':13 'democrat':26 'district':23 'elect':19 'ethic':7 'face':16 'fellow':25 'hahn':29 'hous':1,11 'janic':28 'june':42 'laura':4 'los':55 'member':12 'pedro':32 'percentag':38 'point':39 'primari':43 'redrawn':22 'rep':3,27 'reprimand':2,46 'richardson':5,15 'san':31 'serious':50 'though':44 'time':57 'tough':18</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/sports/basketball/wnba/sparks/~3/F1V_vjRHctc/la-na-richardson-ethics-20120803,0,4741558.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971638</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:40-04:00</created-at>
+          <title>Ethics Committee Finds Rep. Laura Richardson Guilty</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Richardson had delayed the interview with the committee because of her upcoming bruising primary fight with Democratic Rep. Janice Hahn. She finally agreed to the interview in June, but then, incredibly, cut the interview short, demanding that it end so</excerpt>
+          <fti-names>'agre':30 'big':48 'bruis':20 'committe':2,15 'cut':39 'delay':10 'demand':43 'democrat':24 'end':46 'ethic':1 'fight':22 'final':29 'find':3 'govern':49 'guilti':7 'hahn':27 'incred':38 'interview':12,33,41 'janic':26 'june':35 'laura':5 'primari':21 'rep':4,25 'richardson':6,8 'short':42 'upcom':19</fti-names>
+          <source-url>http://biggovernment.com/</source-url>
+          <url>http://feedproxy.google.com/~r/BigGovernment/~3/djp6kL_wlq8/Ethics-committee-finds-Rep-Laura-Richardson-Guilty</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970660</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Big Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:39-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...said. The embarrassing vote comes as Richardson faces a tough race to win reelection against fellow Democratic Rep. Janice Hahn of San Pedro in a newly drawn district. The House chamber was nearly empty, despite the rare moment, as Ethics Committee memb</excerpt>
+          <fti-names>'chamber':39 'chicago':51 'come':13 'committe':49 'democrat':25 'despit':43 'disciplin':2 'district':36 'drawn':35 'embarrass':11 'empti':42 'ethic':7,48 'face':16 'fellow':24 'hahn':28 'hous':1,38 'janic':27 'laura':4 'memb':50 'misconduct':8 'moment':46 'near':41 'newli':34 'pedro':31 'race':19 'rare':45 'reelect':22 'rep':3,26 'richardson':5,15 'said':9 'san':30 'tough':18 'tribun':52 'vote':12 'win':21</fti-names>
+          <source-url>http://www.chicagotribune.com/</source-url>
+          <url>http://feeds.chicagotribune.com/~r/chicagotribune/news/nationworld/~3/J35IzvlMo_s/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970659</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:39-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in Richardson's political career. She faces a re-election campaign in a newly re-drawn 44th District against fellow Democrat Rep. Janice Hahn, who enjoys a high profile in the Los Angeles area and last year won a special election to replace Rep. Jane Ha</excerpt>
+          <fti-names>'44th':24 'angel':40 'area':41 'campaign':17 'career':10 'democrat':28 'district':25 'drawn':23 'elect':16,48 'enjoy':33 'face':12 'fellow':27 'ha':53 'hahn':31 'high':35 'hous':1 'istockanalyst':54 'jane':52 'janic':30 'last':43 'laura':4 'los':39 'newli':20 'polit':9 'profil':36 're':15,22 're-drawn':21 're-elect':14 'rep':3,29,51 'replac':50 'reprimand':2 'richardson':5,7 'special':47 'won':45 'year':44</fti-names>
+          <source-url>http://www.istockanalyst.com/</source-url>
+          <url>http://www.istockanalyst.com/article/viewarticle/articleid/5974241</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970658</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>iStockAnalyst</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:38-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(R-Ala.) said. The embarrassing vote comes as Richardson faces a tough race to win reelection against fellow Democratic Rep. Janice Hahn of San Pedro in a newly drawn district. The House chamber was nearly empty, despite the rare moment, as Ethics Commi</excerpt>
+          <fti-names>'ala':11 'chamber':42 'come':16 'commi':52 'courant':54 'democrat':28 'despit':46 'disciplin':2 'district':39 'drawn':38 'embarrass':14 'empti':45 'ethic':7,51 'face':19 'fellow':27 'hahn':31 'hartford':53 'hous':1,41 'janic':30 'laura':4 'misconduct':8 'moment':49 'near':44 'newli':37 'pedro':34 'r':10 'r-ala':9 'race':22 'rare':48 'reelect':25 'rep':3,29 'richardson':5,18 'said':12 'san':33 'tough':21 'vote':15 'win':24</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623722/s/21fc04da/l/0L0Scourant0N0Cnews0Cnation0Eworld0Cla0Epn0Ehouse0Edisciplines0Erep0Elaura0Erichardson0Efor0Eethical0Emisconduct0E20A120A80A20H0A0H23575130Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970657</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:38-04:00</created-at>
+          <title>Long Beach Rep. Laura Richardson slapped with reprimand, $10,000 fine</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...with a $10,000 fine and was another blow to the three-term lawmaker's uphill re-election race against fellow Democrat Rep. Janice Hahn. Richardson admitted to all seven counts levied against her and agreed to accept the reprimand. But in a speech on the</excerpt>
+          <fti-names>'000':10,15 '10':9,14 'accept':51 'admit':40 'agre':49 'anoth':19 'beach':2,61 'blow':20 'count':44 'democrat':35 'elect':31 'fellow':34 'fine':11,16 'hahn':38 'janic':37 'laura':4 'lawmak':26 'levi':45 'long':1,60 'press':63 'press-telegram':62 'race':32 're':30 're-elect':29 'rep':3,36 'reprimand':8,53 'richardson':5,39 'seven':43 'slap':6 'speech':57 'telegram':64 'term':25 'three':24 'three-term':23 'uphil':28</fti-names>
+          <source-url>http://www.presstelegram.com/</source-url>
+          <url>http://www.presstelegram.com/news/ci_21219228/house-reprimands-long-beach-rep-laura-richardson-fines?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970656</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Long Beach Press-Telegram</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:38-04:00</created-at>
+          <title>South Bay Rep. Laura Richardson slapped with reprimand, $10,000 fine</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...with a $10,000 fine and was another blow to the three-term lawmaker's uphill re-election race against fellow Democrat Rep. Janice Hahn. Richardson admitted to all seven counts levied against her and agreed to accept the reprimand. But in a speech on the</excerpt>
+          <fti-names>'000':10,15 '10':9,14 'accept':51 'admit':40 'agre':49 'anoth':19 'bay':2 'blow':20 'count':44 'daili':61 'democrat':35 'elect':31 'fellow':34 'fine':11,16 'hahn':38 'janic':37 'l.a':60 'laura':4 'lawmak':26 'levi':45 'news':62 'race':32 're':30 're-elect':29 'rep':3,36 'reprimand':8,53 'richardson':5,39 'seven':43 'slap':6 'south':1 'speech':57 'term':25 'three':24 'three-term':23 'uphil':28</fti-names>
+          <source-url>http://www.dailynews.com/</source-url>
+          <url>http://www.dailynews.com/news/ci_21219227/house-reprimands-south-bay-rep-laura-richardson-fines?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970655</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>L.A. Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:37-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...R-Ala. The embarrassing vote comes as Richardson faces a tough race to win re-election against fellow Democratic Rep. Janice Hahn in a newly drawn district. The House chamber was nearly empty, despite the rare moment, as Ethics Committee members present</excerpt>
+          <fti-names>'ala':11 'bangor':53 'chamber':40 'come':15 'committe':50 'daili':54 'democrat':29 'despit':44 'district':37 'drawn':36 'elect':26 'embarrass':13 'empti':43 'ethic':7,49 'face':18 'fellow':28 'hahn':32 'hous':1,39 'janic':31 'laura':4 'member':51 'misconduct':8 'moment':47 'near':42 'newli':35 'news':55 'present':52 'r':10 'r-ala':9 'race':21 'rare':46 're':25 're-elect':24 'rep':3,30 'reprimand':2 'richardson':5,17 'tough':20 'vote':14 'win':23</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/02/news/nation/house-reprimands-rep-laura-richardson-for-ethical-misconduct/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970654</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:36:36-04:00</created-at>
+          <title>House reprimands Richardson for conduct violations</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...for government service. Rep. Laura Richardson, D-Calif., faces an uphill re-election race against fellow Democratic Rep. Janice Hahn. Rep. Laura Richardson, D-Calif., faces an uphill re-election race against fellow Democratic Rep. Janice Hahn. The repri</excerpt>
+          <fti-names>'calif':15,34 'conduct':5 'd':14,33 'd-calif':13,32 'democrat':25,44 'elect':21,40 'face':16,35 'fellow':24,43 'govern':8 'hahn':28,47 'hous':1 'janic':27,46 'laura':11,30 'race':22,41 're':20,39 're-elect':19,38 'rep':10,26,29,45 'repri':49 'reprimand':2 'richardson':3,12,31 'servic':9 'today':51 'uphil':18,37 'usa':50 'violat':6</fti-names>
+          <source-url>http://www.usatoday.com/</source-url>
+          <url>http://rssfeeds.usatoday.com/~r/usatoday-NewsTopStories/~3/Z0MSfgiUxy4/1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970653</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>USA Today</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Janice Hahn [D, CA-36]</name>
+      <total-session-votes type="integer">818</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>36</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:56:47-04:00</created-at>
+          <title>Updated! 57 Co-sponsors for the HEART for Women Act. Can we get ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Mike Ross (D-AR-04). Rep. Lois Capps (D-CA-23). Rep. Joe Baca (D-CA-43). Rep. Janice Hahn (D-CA-36). Rep. Barbara Lee (D-CA-09). Rep. Laura Richardson (D-CA-37). Rep. Linda Sanchez (D-CA-39). Rep.</excerpt>
+          <fti-names>'04':21 '09':49 '23':28 '36':42 '37':56 '39':63 '43':35 '57':2 'act':11 'admin':65 'ar':20 'baca':31 'barbara':44 'ca':27,34,41,48,55,62 'capp':24 'co':4 'co-sponsor':3 'd':19,26,33,40,47,54,61 'd-ar':18 'd-ca':25,32,39,46,53,60 'get':14 'hahn':38 'heart':8 'janic':37 'joe':30 'laura':51 'lee':45 'linda':58 'loi':23 'mike':16 'rep':15,22,29,36,43,50,57,64 'richardson':52 'ross':17 'sanchez':59 'sponsor':5 'updat':1 'women':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yourethecureblog.heart.org/2012/07/20/updated-57-co-sponsors-for-the-heart-for-women-act-can-we-get-to-100/&amp;sa=U&amp;ei=bUkXUMXHFYfk9ASyuICYBg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNELEmn5C7hvPjKBtYIdy0J31ZttKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16960381</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:56:47-04:00</created-at>
+          <title>Dem. Rep. Janice Hahn and GOP Rep. Devin Nunes discuss health ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Republican Devin Nunes recently debated ObamaCare with Congresswoman Democrat Janice Hahn on Los Angeles&amp;#39; KABC TV, July 2012 Thanks to abc7. Source: YouTube. Related eBooks ...</excerpt>
+          <fti-names>'2012':30 'abc7':33 'angel':26 'congressman':12 'congresswoman':20 'debat':17 'dem':1 'democrat':21 'devin':8,14 'discuss':10 'dsnatm3m':38 'ebook':37 'gop':6 'hahn':4,23 'health':11 'janic':3,22 'juli':29 'kabc':27 'los':25 'nune':9,15 'obamacar':18 'recent':16 'relat':36 'rep':2,7 'republican':13 'sourc':34 'thank':31 'tv':28 'youtub':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nature-soul.com/2012/07/21/dem-_rep-_janice_hahn_and_gop_rep-_devin_nunes_discuss_health_care_72012/&amp;sa=U&amp;ei=bUkXUMXHFYfk9ASyuICYBg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNF4tVKM3-Owvdu6duoNmc4ImHFhNg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16960380</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dsnatm3m</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:56:48-04:00</created-at>
+          <title>Endorsements in DA race - The Sausage Factory</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Lacey, who serves as chief deputy to District Attorney Steve Cooley, said she has been endorsed by a number of elected officials, including Reps. Janice Hahn, D- Los Angeles, and Rep. Brad Sherman, D-Sherman Oaks.</excerpt>
+          <fti-names>'angel':36 'attorney':16 'brad':39 'chief':12 'cooley':18 'd':34,42 'd-sherman':41 'da':3 'deputi':13 'district':15 'elect':28 'endors':1,23 'factori':7 'hahn':33 'includ':30 'janic':32 'lacey':8 'los':35 'number':26 'oak':44 'offici':29 'orlov':46 'race':4 'rep':31,38 'rick':45 'said':19 'sausag':6 'serv':10 'sherman':40,43 'steve':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.dailynews.com/politics/2012/07/endorsements-in-da-race.html&amp;sa=U&amp;ei=bUkXUMXHFYfk9ASyuICYBg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFhje6O2JK0gKHCzKsaYIVnsLg0sA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16960385</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rick Orlov</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:56:48-04:00</created-at>
+          <title>Race Matters: Letter from Congressional Asian Pacific American ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Bobby Scott Associate Members Rep. Karen Bass Rep. Howard Berman Rep. Gerald Connolly Rep. John Conyers, Jr. Rep. Joseph Crowley Rep. Susan Davis Rep. Bob Filner Rep. RaulM. Grijalva Rep. Janice Hahn ...</excerpt>
+          <fti-names>'american':8 'asian':6 'associ':12 'bass':16 'berman':19 'bob':34 'bobbi':10 'congression':5 'connolli':22 'conyer':25 'crowley':29 'davi':32 'filner':35 'gerald':21 'grijalva':38 'hahn':41 'howard':18 'janic':40 'john':24 'joseph':28 'jr':26 'karen':15 'letter':3 'matter':2,43 'member':13 'pacif':7 'race':1,42 'raulm':37 'rep':9,14,17,20,23,27,30,33,36,39 'scott':11 'susan':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://endnseers.blogspot.com/2012/07/letter-from-congressional-asian-pacific.html&amp;sa=U&amp;ei=bUkXUMXHFYfk9ASyuICYBg&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFx39aL7wOX2jKu7YBg6yeUAIaPEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16960383</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Race Matters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:57-04:00</created-at>
+          <title>California &amp;#39;Homeowner Bill of Rights&amp;#39; signed by Gov.</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Raul Grijalva [D, AZ-7] Rep. Michael Grimm [R, NY-13] Rep. Frank Guinta [R, NH-1] Rep. Brett Guthrie [R, KY-2] Rep. Janice Hahn [D, CA-36] Rep. Ralph Hall [R, TX-4] Rep. Colleen Hanabusa [D, HI-1] Rep. Richard Hanna [R ...</excerpt>
+          <fti-names>'-1':25,49 '-13':19 '-2':31 '-36':37 '-4':43 '-7':13 'az':12 'bill':3 'brett':27 'ca':36 'california':1 'colleen':45 'd':11,35,47 'frank':21 'gov':8 'grijalva':10 'grimm':16 'guinta':22 'guthri':28 'hahn':34 'hall':40 'hanabusa':46 'hanna':52 'hi':48 'homeown':2 'janic':33 'ky':30 'michael':15 'nh':24 'ny':18 'probatecourtco.com':54 'r':17,23,29,41,53 'ralph':39 'raul':9 'rep':14,20,26,32,38,44,50 'richard':51 'right':5 'sign':6 'tx':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/california-%25E2%2580%2598homeowner-bill-of-rights%25E2%2580%2599-signed-by-gov/&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNEw9ebc09LnPB494lU8unD2_wTN-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16584152</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:57-04:00</created-at>
+          <title>Letter from Congressional Asian Pacific American Caucus to DHS on</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Bobby Scott Associate Members Rep. Karen Bass Rep. Howard Berman Rep. Gerald Connolly Rep. John Conyers, Jr. Rep. Joseph Crowley Rep. Susan Davis Rep. Bob Filner Rep. RaulM. Grijalva Rep. Janice Hahn ...</excerpt>
+          <fti-names>'american':6 'asian':4 'associ':14 'bass':18 'berman':21 'bob':36 'bobbi':12 'caucus':7 'congression':3 'connolli':24 'conyer':27 'crowley':31 'davi':34 'dhs':9 'filner':37 'gerald':23 'grijalva':40 'hahn':43 'howard':20 'janic':42 'john':26 'joseph':30 'jr':28 'karen':17 'letter':1 'matter':45 'member':15 'pacif':5 'race':44 'raulm':39 'rep':11,16,19,22,25,29,32,35,38,41 'scott':13 'susan':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://endnseers.blogspot.com/2012/07/letter-from-congressional-asian-pacific.html&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFFg1vs2rfs9E8gStNYB_6JqGh0mQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16584149</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Race Matters</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:57-04:00</created-at>
+          <title>House Passes Border Security Legislation</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The second border security-related bill the House passed is H.R. 4005, the Gauging American Port Security (GAPS) Act, introduced by Rep. Janice Hahn (R-CA). This legislation requires the Secretary of Homeland Security to ...</excerpt>
+          <fti-names>'4005':18 'act':25 'american':21 'bill':12 'border':3,8 'ca':33 'fair':43 'gap':24 'gaug':20 'gov':44 'h.r':17 'hahn':30 'homeland':40 'hous':1,14 'introduc':26 'janic':29 'legisl':5,35 'pass':2,15 'port':22 'r':32 'r-ca':31 'relat':11,46 'rep':28 'requir':36 'second':7 'secretari':38 'secur':4,10,23,41 'security-rel':9 'team':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://immigrationreform.com/2012/07/03/house-passes-border-security-legislation/&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNFepKT-yumkCBskr7Vum9UTL6RM_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16584154</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>FAIR Gov't Relations Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:58-04:00</created-at>
+          <title>Transpo Bill Rumor: DeFazio Says Conference Committee &amp;#39;Gutted ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>And Rep. Janice Hahn (D-CA) has a motion to preserve the language in the Senate bill creating a national freight program, complete with a strategic plan and policy, including goals to reduce environmental impacts, improve ...</excerpt>
+          <fti-names>'bill':2,26 'ca':15 'committe':7 'complet':32 'confer':6 'creat':27 'd':14 'd-ca':13 'defazio':4 'environment':43 'freight':30 'goal':40 'gut':8 'hahn':12 'impact':44 'improv':45 'includ':39 'janic':11 'languag':22 'motion':18 'nation':29 'plan':36 'polici':38 'preserv':20 'program':31 'reduc':42 'rep':10 'rumor':3 'say':5 'senat':25 'snyder':47 'strateg':35 'tanya':46 'transpo':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dc.streetsblog.org/2012/06/27/today-in-conference-land-a-free-pass-for-road-builders-and-texting-teens/&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNG7rIFJjMSyBPGlUpUKESxx2F7Xug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16584157</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tanya Snyder</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:58-04:00</created-at>
+          <title>Wednesday&amp;#39;s Political Roundup - The West Ranch Beacon</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Motion to Instruct Conferees on H.R. 4348 &#8211; Surface Transportation Extension Act of 2012, Part II (Offered by Rep. Janice Hahn). Motion to Instruct Conferees on H.R. 4348 &#8211; Surface Transportation Extension Act of 2012, Part ...</excerpt>
+          <fti-names>'2012':21,41 '4348':15,35 'act':19,39 'admin':43 'beacon':8 'confere':12,32 'extens':18,38 'h.r':14,34 'hahn':28 'ii':23 'instruct':11,31 'janic':27 'motion':9,29 'offer':24 'part':22,42 'polit':3 'ranch':7 'rep':26 'roundup':4 'surfac':16,36 'transport':17,37 'wednesday':1 'west':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://westranchbeacon.com/2012/06/wednesday%25E2%2580%2599s-political-roundup-124/&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNF_Yetz_AbwdZ9yM4QD9CE-mR8rTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16584156</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412498</commentariable-id>
+          <created-at type="datetime">2012-07-12T22:50:57-04:00</created-at>
+          <title>Daily Schedule - The Republican Cloakroom</title>
+          <contains-term>republican</contains-term>
+          <excerpt>H.R. 5972 - Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2013 (Sponsored by Rep. Tom Latham ... GAPS Act (Sponsored by Rep. Janice Hahn / Homeland Security Committee) ...</excerpt>
+          <fti-names>'2013':18 '5972':7 'act':17,25 'agenc':15 'appropri':16 'cloakroom':5 'committe':33 'daili':1 'develop':12 'gap':24 'h.r':6 'hahn':30 'homeland':31 'hous':9 'janic':29 'latham':23 'relat':14 'rep':21,28 'repcloakroom.house.gov':34 'republican':4 'schedul':2 'secur':32 'sponsor':19,26 'tom':22 'transport':8 'urban':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://repcloakroom.house.gov/News/DocumentSingle.aspx%3FDocumentID%3D301053&amp;sa=U&amp;ei=EI3_T4OZO-aw2QXg5JX7Aw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHGs-BtFRdT_GP6rQuL6ewB3StksQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16584153</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://repcloakroom.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">2648</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Janice Hahn</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

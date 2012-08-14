@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-08T15:37:32-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.9526123936817</party-votes-percentage>
+        <abstains-percentage type="float">4.24665503199535</abstains-percentage>
+        <votes-most-often-with-id type="integer">412440</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">170</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">73</abstains>
+        <cosponsored-bills type="integer">246</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">123</party-votes-percentage-rank>
+        <sponsored-bills type="integer">30</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400639</person-id>
+        <cosponsored-bills-rank type="integer">138</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">349</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">367</votes-republican-position>
+      <fax>202-225-4403</fax>
+      <bioguide-id>C001061</bioguide-id>
+      <blog-article-count type="integer">9022</blog-article-count>
+      <user-approval type="float">1.81818181818182</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">161</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/cleaver/IMA/issue.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.9526123936817</with-party-percentage>
+      <lastname>Cleaver</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1433 Longworth House Office Building</congress-office>
+      <firstname>Emanuel</firstname>
+      <website>http://www.house.gov/cleaver/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1944-10-26</birthday>
+      <person-id type="integer">400639</person-id>
+      <phone>202-225-4535</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1530</votes-democratic-position>
+      <metavid-id>Emanuel_Cleaver</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:32-04:00</created-at>
+          <title>Carnahan-Clay race tops Mo. slate for Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to ignore that.&quot; Two of the state's eight congressional incumbents &#8212; 3rd District Republican Blaine Luetkemeyer and Democrat Emanuel Cleaver of the 5th District &#8212; will advance to November's general election without primary opposition, while the four</excerpt>
+          <fti-names>'3rd':21 '5th':32 'advanc':35 'blain':24 'carnahan':2 'carnahan-clay':1 'chronicl':49 'clay':3 'cleaver':29 'congress':9 'congression':19 'democrat':27 'district':22,33 'eight':18 'elect':40 'emanuel':28 'four':46 'francisco':48 'general':39 'ignor':11 'incumb':20 'luetkemey':25 'mo':6 'novemb':37 'opposit':43 'primari':42 'race':4 'republican':23 'san':47 'slate':7 'state':16 'top':5 'two':13 'without':41</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Carnahan-Clay-race-tops-Mo-slate-for-Congress-3767668.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973349</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:35:48-04:00</created-at>
+          <title>Republicans want to rewrite law imposing $50-billion cut in military spending</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...defense spending is restored. I unequivocally support well-examined and necessary funding for the military, said U.S. Rep. Emanuel Cleaver. We must not, however, haphazardly slash programs that assist, for instance, education and children living in pove</excerpt>
+          <fti-names>'50':7 'assist':42 'billion':8 'children':47 'cleaver':33 'cut':9 'defens':13 'educ':45 'emanuel':32 'examin':22 'fund':25 'haphazard':38 'herald':52 'howev':37 'impos':6 'instanc':44 'law':5 'live':48 'miami':51 'militari':11,28 'must':35 'necessari':24 'pove':50 'program':40 'rep':31 'republican':1 'restor':16 'rewrit':4 'said':29 'slash':39 'spend':12,14 'support':19 'u.s':30 'unequivoc':18 'want':2 'well':21 'well-examin':20</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/08/06/2935250/republicans-want-to-rewrite-law.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972749</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:33:41-04:00</created-at>
+          <title>UAB, Congressman Bachus raising palliative care's profile on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and training. One of the bills already has bipartisan support from sponsors Rep. Spencer Bachus, R-Vestavia Hills, and Rep. Emanuel Cleaver, D-Mo. &quot;Right now, thousands of patients who are suffering from pain, shortness of breath, nausea and other sympt</excerpt>
+          <fti-names>'alabama':56 'alreadi':18 'bachus':3,26 'bill':17 'bipartisan':20 'breath':50 'capitol':10 'care':6 'cleaver':34 'congressman':2 'd':36 'd-mo':35 'emanuel':33 'everyth':55 'hill':11,30 'mo':37 'nausea':51 'one':14 'pain':47 'palliat':5 'patient':42 'profil':8 'r':28 'r-vestavia':27 'rais':4 'rep':24,32 'right':38 'short':48 'spencer':25 'sponsor':23 'suffer':45 'support':21 'sympt':54 'thousand':40 'train':13 'uab':1 'vestavia':29</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/sweethome/2012/08/uab_congressman_bachus_raising.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972434</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:40:37-04:00</created-at>
+          <title>Hispanic pols unhappy with Charlotte contracts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Pacific American caucus and Congressional Black Caucus to discuss minority contracting. Congressional Black Caucus Chairman Emanuel Cleaver (D-Mo.) said the contracts for black business owners is about 14 percent and that it could go higher before the c</excerpt>
+          <fti-names>'14':36 'american':8 'black':12,19,31 'busi':32 'c':46 'caucus':9,13,20 'chairman':21 'charlott':5 'cleaver':23 'congression':11,18 'contract':6,17,29 'could':41 'd':25 'd-mo':24 'discuss':15 'emanuel':22 'go':42 'higher':43 'hispan':1 'minor':16 'mo':26 'owner':33 'pacif':7 'percent':37 'pol':2 'politico':48 'said':27 'unhappi':3</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79355.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971546</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:40:37-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...House.&quot; The embarrassing vote comes as Richardson faces a tough race to win reelection in a newly drawn district. Rep. Emanuel Cleaver (D-Mo.), the Congressional Black Caucus chairman and a Richardson supporter, said on the House floor, &quot;I know that she</excerpt>
+          <fti-names>'black':36 'caucus':37 'chairman':38 'cleaver':30 'come':13 'congression':35 'd':32 'd-mo':31 'district':27 'drawn':26 'emanuel':29 'embarrass':11 'ethic':7 'face':16 'floor':47 'hous':1,9,46 'know':49 'laura':4 'misconduct':8 'mo':33 'newli':25 'race':19 'rantburg':52 'reelect':22 'rep':3,28 'reprimand':2 'richardson':5,15,41 'said':43 'support':42 'tough':18 'vote':12 'win':21</fti-names>
+          <source-url>http://rantburg.com/</source-url>
+          <url>http://www.rantburg.com/poparticle.php?D=2012-08-03&amp;ID=349552</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971545</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Rantburg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:40:34-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson in ethics case</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...no member wants to sit in judgment of a colleague, it is our duty to protect the integrity of the House,&quot; Dent said. Rep. Emanuel Cleaver II (D-Mo.), chairman of the Congressional Black Caucus whom Richardson was sitting with, said, &quot;I know that she reg</excerpt>
+          <fti-names>'angel':57 'black':43 'case':8 'caucus':44 'chairman':39 'cleaver':34 'colleagu':18 'congression':42 'd':37 'd-mo':36 'dent':30 'duti':22 'emanuel':33 'ethic':7 'hous':1,29 'ii':35 'integr':26 'judgment':15 'know':52 'laura':4 'los':56 'member':10 'mo':38 'protect':24 'reg':55 'rep':3,32 'reprimand':2 'richardson':5,46 'said':31,50 'sit':13,48 'time':58 'want':11</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/sports/basketball/wnba/sparks/~3/F1V_vjRHctc/la-na-richardson-ethics-20120803,0,4741558.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971544</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:57:37-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...more months and much more of her time and attention, is in the best interests of her constituents and of the House.&#8221; Rep. Emanuel Cleaver (D-Mo.), the Congressional Black Caucus chairman and a Richardson supporter, said on the House floor, &#8220;I know t</excerpt>
+          <fti-names>'attent':18 'best':22 'black':39 'caucus':40 'chairman':41 'cleaver':33 'congression':38 'constitu':26 'courant':55 'd':35 'd-mo':34 'disciplin':2 'emanuel':32 'ethic':7 'floor':50 'hartford':54 'hous':1,30,49 'interest':23 'know':52 'laura':4 'misconduct':8 'mo':36 'month':10 'much':12 'rep':3,31 'richardson':5,44 'said':46 'support':45 'time':16</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623722/s/21fc04da/l/0L0Scourant0N0Cnews0Cnation0Eworld0Cla0Epn0Ehouse0Edisciplines0Erep0Elaura0Erichardson0Efor0Eethical0Emisconduct0E20A120A80A20H0A0H23575130Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970499</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:57:37-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...months and much more of her time and attention, is in the best interests of her constituents and of the House.&#8221; Rep. Emanuel Cleaver (D-Mo.), the Congressional Black Caucus chairman and a Richardson supporter, said on the House floor, &#8220;I know that s</excerpt>
+          <fti-names>'attent':17 'best':21 'black':38 'caucus':39 'chairman':40 'chicago':54 'cleaver':32 'congression':37 'constitu':25 'd':34 'd-mo':33 'disciplin':2 'emanuel':31 'ethic':7 'floor':49 'hous':1,29,48 'interest':22 'know':51 'laura':4 'misconduct':8 'mo':35 'month':9 'much':11 'rep':3,30 'richardson':5,43 'said':45 'support':44 'time':15 'tribun':55</fti-names>
+          <source-url>http://www.chicagotribune.com/</source-url>
+          <url>http://feeds.chicagotribune.com/~r/chicagotribune/news/nationworld/~3/J35IzvlMo_s/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970498</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:57:31-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...many more months and much more of her time and attention, is in the best interests of her constituents and of the House.&#8221; Rep. Emanuel Cleaver, D-Mo., the Congressional Black Caucus chairman and a Richardson supporter, said on the House floor, &#8220;I kn</excerpt>
+          <fti-names>'attent':19 'bangor':54 'best':23 'black':40 'caucus':41 'chairman':42 'cleaver':34 'congression':39 'constitu':27 'd':36 'd-mo':35 'daili':55 'emanuel':33 'ethic':7 'floor':51 'hous':1,31,50 'interest':24 'kn':53 'laura':4 'mani':9 'misconduct':8 'mo':37 'month':11 'much':13 'news':56 'rep':3,32 'reprimand':2 'richardson':5,45 'said':47 'support':46 'time':17</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/02/news/nation/house-reprimands-rep-laura-richardson-for-ethical-misconduct/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970497</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:36:32-04:00</created-at>
+          <title>The Not-So-Happy Anniversary of the Debt-Ceiling Crisis</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>As Speaker John Boehner explained, he got 98 percent of what he wanted, while Democratic Representative Emanuel Cleaver compared passing the Budget Control Act to a &quot;sugar-coated satan sandwich.&quot; And yet the victory may prove pyrrhic unless Mitt Romney ...</excerpt>
+          <fti-names>'98':20 'act':36 'anniversari':6 'atlant':54 'boehner':16 'budget':34 'ceil':11 'cleaver':30 'coat':41 'compar':31 'control':35 'crisi':12 'debt':10 'debt-ceil':9 'democrat':27 'emanuel':29 'explain':17 'got':19 'happi':5 'john':15 'may':48 'mitt':52 'not-so-happi':2 'onlin':55 'pass':32 'percent':21 'prove':49 'pyrrhic':50 'repres':28 'romney':53 'sandwich':43 'satan':42 'speaker':14 'sugar':40 'sugar-co':39 'unless':51 'victori':47 'want':25 'yet':45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.theatlantic.com/politics/archive/2012/07/the-not-so-happy-anniversary-of-the-debt-ceiling-crisis/260458/?single_page=true</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T07:59:55-04:00</date>
+          <id type="integer">16966213</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlantic Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Emanuel Cleaver [D, MO-5]</name>
+      <total-session-votes type="integer">1646</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:41:47-04:00</created-at>
+          <title>Jeese Jackson being treated at Mayo Clinic |</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Another Democratic congressman, Emanuel Cleaver, pronounced he&amp;#39;d oral with members of Jackson&amp;#39;s family and believed a Illinois authority is &#8220;fine (and) he&amp;#39;ll be back.&#8221; Cleaver, a authority of a Congressional Black Caucus, ...</excerpt>
+          <fti-names>'admin':43 'anoth':8 'author':27,37 'back':34 'believ':24 'black':41 'caucus':42 'cleaver':12,35 'clinic':7 'congression':40 'congressman':10 'd':15 'democrat':9 'emanuel':11 'famili':22 'fine':29 'illinoi':26 'jackson':2,20 'jees':1 'll':32 'mayo':6 'member':18 'oral':16 'pronounc':13 'treat':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://healthcollege.edu.pl/2012/07/jeese-jackson-being-treated-at-mayo-clinic/&amp;sa=U&amp;ei=6kUXUMuACKb00gGejICoCQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGkRnr2ptoh3vwDihDdulMkO5CPvw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959741</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:41:47-04:00</created-at>
+          <title>Jackson being treated at Mayo Clinic for depression &#8212; Financial Press</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Another Democratic congressman, Emanuel Cleaver, said he&amp;#39;d spoken with members of Jackson&amp;#39;s family and believed the Illinois legislator is &#8220;fine (and) he&amp;#39;ll be back.&#8221; Cleaver, the chairman of the Congressional Black ...</excerpt>
+          <fti-names>'anoth':11 'back':37 'believ':27 'black':44 'chairman':40 'cleaver':15,38 'clinic':6 'cnn':45 'congression':43 'congressman':13 'd':18 'democrat':12 'depress':8 'emanuel':14 'famili':25 'financi':9 'fine':32 'illinoi':29 'jackson':1,23 'legisl':30 'll':35 'mayo':5 'member':21 'press':10 'said':16 'spoken':19 'treat':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://financialpress.com/2012/07/30/jackson-being-treated-at-mayo-clinic-for-depression/&amp;sa=U&amp;ei=6kUXUMuACKb00gGejICoCQ&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNF-gHKinhPAcI1-3b6Ene-5T9LH8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959736</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:41:47-04:00</created-at>
+          <title>Rep. Jesse Jackson being treated at Mayo Clinic for depression ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Another Democratic congressman, Emanuel Cleaver, said he&amp;#39;d spoken with members of Jackson&amp;#39;s family and believed the Illinois legislator is &amp;quot;fine (and) he&amp;#39;ll be back.&amp;quot; Cleaver, the chairman of the Congressional Black ...</excerpt>
+          <fti-names>'admin':45 'anoth':11 'back':37 'believ':27 'black':44 'chairman':40 'cleaver':15,38 'clinic':8 'congression':43 'congressman':13 'd':18 'democrat':12 'depress':10 'emanuel':14 'famili':25 'fine':32 'illinoi':29 'jackson':3,23 'jess':2 'legisl':30 'll':35 'mayo':7 'member':21 'rep':1 'said':16 'spoken':19 'treat':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/mo-moc/emanuel-cleaver-missouri-representative/rep-jesse-jackson-being-treated-at-mayo-clinic-for-depression-cnn/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-jesse-jackson-being-treated-at-mayo-clinic-for-depression-cnn&amp;sa=U&amp;ei=6kUXUMuACKb00gGejICoCQ&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNHZPXpcc-kWb3bloVIMDEyTWqJ9gA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959735</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:36:46-04:00</created-at>
+          <title>Rep. Jackson being treated for depression &#8212; Financial Press</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Another Democratic congressman, Emanuel Cleaver, said he&amp;#39;d spoken with members of Jackson&amp;#39;s family and believed the Illinois legislator is &#8220;fine (and) he&amp;#39;ll be back.&#8221; Cleaver, the chairman of the Congressional Black ...</excerpt>
+          <fti-names>'anoth':9 'back':35 'believ':25 'black':42 'chairman':38 'cleaver':13,36 'cnn':43 'congression':41 'congressman':11 'd':16 'democrat':10 'depress':6 'emanuel':12 'famili':23 'financi':7 'fine':30 'illinoi':27 'jackson':2,21 'legisl':28 'll':33 'member':19 'press':8 'rep':1 'said':14 'spoken':17 'treat':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://financialpress.com/2012/07/29/rep-jackson-being-treated-for-depression/&amp;sa=U&amp;ei=SAEWUKa_Goy08ATEqoC4DQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNGGfAgy4eZ4w8TEfr7hIp2WpgqkKQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945731</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:51:19-04:00</created-at>
+          <title>Rep. Jesse Jackson being treated at Mayo Clinic for depression ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Another Democratic congressman, Emanuel Cleaver, said he&amp;#39;d spoken with members of Jackson&amp;#39;s family and believed the Illinois legislator is &#8220;fine (and) he&amp;#39;ll be back.&#8221; Cleaver, the chairman of the Congressional Black ...</excerpt>
+          <fti-names>'anoth':11 'back':37 'believ':27 'black':44 'chairman':40 'cleaver':15,38 'clinic':8 'congression':43 'congressman':13 'd':18 'democrat':12 'depress':10 'dutton':46 'emanuel':14 'famili':25 'fine':32 'illinoi':29 'jackson':3,23 'jess':2 'legisl':30 'll':35 'mayo':7 'member':21 'nick':45 'rep':1 'said':16 'spoken':19 'treat':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wtvr.com/2012/07/28/rep-jesse-jackson-being-treated-at-mayo-clinic-for-depression/&amp;sa=U&amp;ei=JKUUUM7vI8jt0gHh-YCYCA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNH7sUj4L82SYbDWI_5oqdKmUJqncg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929162</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Nick Dutton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:43:39-04:00</created-at>
+          <title>Red Tape Delays Grandparents Visit With Dying Grandson ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>We also contacted Kansas City Congressman Emanuel Cleaver&amp;#39;s office to assist Cedanor in completing the paperwork for the visas. But even all that help hasn&amp;#39;t been enough to overcome the mountain of red tape that ...</excerpt>
+          <fti-names>'also':10 'assist':20 'cedanor':21 'citi':13 'cleaver':16 'complet':23 'congressman':14 'contact':11 'delay':3 'die':7 'emanuel':15 'enough':37 'even':30 'grandpar':4 'grandson':8 'hampton':47 'hasn':34 'help':33 'jill':46 'kansa':12 'mountain':41 'offic':18 'overcom':39 'paperwork':25 'red':1,43 'tape':2,44 'visa':28 'visit':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fox2now.com/2012/07/26/red-tape-delays-grandparents-visit-with-dying-grandson/&amp;sa=U&amp;ei=VwASUJK0AoaQ9gTq0IDQDw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNGVFGr1s264PDPAxEiuknfDJOyBww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888808</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jill Hampton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:43:39-04:00</created-at>
+          <title>Plastic Sax: Confirmation: Weekly News &amp;amp; Notes</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>*&amp;quot;(F)*ck New York, look at the sh*t thats going on in KC,&amp;quot; Phonologotronic asserts as he promotes an August 3 performance titled Fluid Fractures. *Rep. Emanuel Cleaver paid tribute to the late Ben Kynard. *Tim Finn wrote a ...</excerpt>
+          <fti-names>'3':28 'assert':22 'august':27 'bag':49 'ben':41 'ck':8 'cleaver':35 'confirm':3 'emanuel':34 'f':7 'finn':44 'fluid':31 'fractur':32 'go':17 'happi':47 'kc':20 'kynard':42 'late':40 'look':11 'new':9 'news':5 'note':6 'paid':36 'perform':29 'phonologotron':21 'plastic':1 'promot':25 'rep':33 'sax':2 'sh':14 'that':16 'tim':43 'titl':30 'tribut':37 'week':4 'wrote':45 'york':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://plasticsax.blogspot.com/2012/07/confirmation-weekly-news-notes_25.html&amp;sa=U&amp;ei=VwASUJK0AoaQ9gTq0IDQDw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHa9ewdwjdFtNtCkrP6ovv-uTwIFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888809</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Happy In Bag</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:51:47-04:00</created-at>
+          <title>The Early Word: Foreign Policy - NYTimes.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Representative Emanuel Cleaver II, Democrat of Missouri, is becoming known around the Capitol for the eccentric weekly letters he writes to fellow members of Congress, Politico reports. In one of them, he discussed the ...</excerpt>
+          <fti-names>'around':17 'becom':15 'capitol':19 'cleaver':9 'congress':31 'democrat':11 'discuss':39 'earli':2 'eccentr':22 'emanuel':8 'f':43 'fellow':28 'foreign':4 'ii':10 'jada':42 'known':16 'letter':24 'member':29 'missouri':13 'nytimes.com':6 'one':35 'polici':5 'politico':32 'report':33 'repres':7 'smith':44 'week':23 'word':3 'write':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecaucus.blogs.nytimes.com/2012/07/25/the-early-word-foreign-policy/&amp;sa=U&amp;ei=wLAQULSVPIjc9ASYqIGwDg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFILsKUYN-Tn8PQSiXLn22ogpVRnw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858526</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>By JADA F. SMITH</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-25T22:51:47-04:00</created-at>
+          <title>Plastic Sax: Confirmation: Weekly News &amp;amp; Notes</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>*&amp;quot;(F)*ck New York, look at the sh*t thats going on in KC,&amp;quot; Phonologotronic asserts as he promotes an August 3 performance titled Fluid Fractures. *Rep. Emanuel Cleaver paid tribute to the late Ben Kynard. *Tim Finn wrote a ...</excerpt>
+          <fti-names>'3':28 'assert':22 'august':27 'bag':49 'ben':41 'ck':8 'cleaver':35 'confirm':3 'emanuel':34 'f':7 'finn':44 'fluid':31 'fractur':32 'go':17 'happi':47 'kc':20 'kynard':42 'late':40 'look':11 'new':9 'news':5 'note':6 'paid':36 'perform':29 'phonologotron':21 'plastic':1 'promot':25 'rep':33 'sax':2 'sh':14 'that':16 'tim':43 'titl':30 'tribut':37 'week':4 'wrote':45 'york':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://plasticsax.blogspot.com/2012/07/confirmation-weekly-news-notes_25.html&amp;sa=U&amp;ei=wLAQULSVPIjc9ASYqIGwDg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNFEXsc2NFRfqJXhVXRAukfjlN9Cxw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858523</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Happy In Bag</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400639</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:41:46-04:00</created-at>
+          <title>Rep. Emanuel Cleaver&amp;#39;s Letters Bring DC Together Over Twilight ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>What Washington gained in Congressional Black Caucus chairman Rep. Emanuel Cleaver, the literary world most certainly lost. Politico has a great story up on Rep. Cleaver&amp;#39;s prolific and quite descriptive letter-writing -- a ...</excerpt>
+          <fti-names>'alex':46 'alvarez':47 'black':16 'bring':6 'caucus':17 'certain':26 'chairman':18 'cleaver':3,21,36 'congression':15 'dc':7 'descript':41 'emanuel':2,20 'gain':13 'great':31 'letter':5,43 'letter-writ':42 'literari':23 'lost':27 'politico':28 'prolif':38 'quit':40 'rep':1,19,35 'stori':32 'togeth':8 'twilight':10 'washington':12 'world':24 'write':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/online/rep-emanuel-cleavers-letters-brings-dc-together-over-twilight-frogs/&amp;sa=U&amp;ei=6kUXUMuACKb00gGejICoCQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNE1jM527E_A_j3VkoQ1J6sV6u3b1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16959733</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alex Alvarez</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22148</page-views-count>
+      <unaccented-name>Emanuel Cleaver</unaccented-name>
+      <oc-user-comments type="integer">14</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-11T18:51:23-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">62.55119953189</party-votes-percentage>
+        <abstains-percentage type="float">0.58173356602676</abstains-percentage>
+        <votes-most-often-with-id type="integer">412386</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">18</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">381</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">10</abstains>
+        <cosponsored-bills type="integer">201</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">356</party-votes-percentage-rank>
+        <sponsored-bills type="integer">16</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">412231</person-id>
+        <cosponsored-bills-rank type="integer">215</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400227</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">216</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400648</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">978</votes-republican-position>
+      <blog-article-count type="integer">9049</blog-article-count>
+      <fax>202-226-2274</fax>
+      <user-approval type="float">3.375</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">172</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/altmire/webforms/issue_subscribe.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">62.55119953189</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Altmire</lastname>
+      <congress-office>332 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Jason</firstname>
+      <website>http://altmire.house.gov/</website>
+      <birthday type="date">1968-03-07</birthday>
+      <person-id type="integer">412231</person-id>
+      <phone>202-225-2565</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1069</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:29:10-04:00</created-at>
+          <title>Please To Be Shutting The Nepotistic Piehole Now, Please</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...slot sends the wrong message to people in the middle who are legitimately up for grabs in this race,&quot; said Pennsylvania Rep. Jason Altmire (D-PA). Elizabeth Warren is in favor of regulating the crooks who ruined the economy and got away scot-free with e</excerpt>
+          <fti-names>'altmir':33 'away':52 'crook':45 'd':35 'd-pa':34 'e':57 'economi':49 'elizabeth':37 'esquir':58 'favor':41 'free':55 'got':51 'grab':25 'jason':32 'legitim':22 'messag':14 'middl':19 'nepotist':6 'pa':36 'pennsylvania':30 'peopl':16 'piehol':7 'pleas':1,9 'race':28 'regul':43 'rep':31 'ruin':47 'said':29 'scot':54 'scot-fre':53 'send':11 'shut':4 'slot':10 'warren':38 'wrong':13</fti-names>
+          <source-url>http://www.esquire.com/</source-url>
+          <url>http://www.esquire.com/blogs/politics/Luke_Russert_Deadline_Hero?src=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971444</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Esquire</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:29:48-04:00</created-at>
+          <title>Centrist Dems fret about Warren's prime role at convention</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...slot sends the wrong message to people in the middle who are legitimately up for grabs in this race,&quot; said Pennsylvania Rep. Jason Altmire (D-PA). Altmire is among the dwindling ranks of the Blue Dog Coalition, the group of moderate Democrats in the Hou</excerpt>
+          <fti-names>'altmir':34,38 'among':40 'blog':58 'blue':46 'centrist':1 'coalit':48 'convent':10 'd':36 'd-pa':35 'dem':2 'democrat':53 'dog':47 'dwindl':42 'fret':3 'grab':26 'group':50 'hou':56 'jason':33 'legitim':23 'messag':15 'middl':20 'moder':52 'msnbc':57 'pa':37 'pennsylvania':31 'peopl':17 'prime':7 'race':29 'rank':43 'rep':32 'role':8 'said':30 'send':12 'slot':11 'warren':5 'wrong':14</fti-names>
+          <source-url>http://www.msnbc.msn.com/id/3032105/</source-url>
+          <url>http://firstread.nbcnews.com/_news/2012/08/02/13086806-centrist-dems-fret-about-warrens-prime-role-at-convention</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970365</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:29:36-04:00</created-at>
+          <title>Luke Russert Only Wants To Guard Your Dreams And Visions, Baby</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...sends the wrong message to people in the middle who are legitimately up for grabs in this race,&#8221; said Pennsylvania Rep. Jason Altmire (D-PA). Altmire is among the dwindling ranks of the Blue Dog Coalition, the group of moderate Democrats in the House.</excerpt>
+          <fti-names>'altmir':34,38 'among':40 'babi':11 'blue':46 'coalit':48 'd':36 'd-pa':35 'democrat':53 'dog':47 'dream':8 'dwindl':42 'firedoglak':57 'grab':26 'group':50 'guard':6 'hous':56 'jason':33 'legitim':23 'luke':1 'messag':15 'middl':20 'moder':52 'pa':37 'pennsylvania':31 'peopl':17 'race':29 'rank':43 'rep':32 'russert':2 'said':30 'send':12 'vision':10 'want':4 'wrong':14</fti-names>
+          <source-url>http://www.firedoglake.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firedoglake/tbogg/~3/c1NHaqJ6rdM/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970364</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firedoglake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:28:52-04:00</created-at>
+          <title>Daily Kos Elections Morning Digest: An instant contender for craziest campaign ad of the year</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Leading Off: America was founded on the unique vision that our creator gave us life, the foundation of freedom, liberty, to speak as you choose and own what you earn, and the pursuit of happiness, the call to fully and courageously live the dream God put</excerpt>
+          <fti-names>'ad':12 'america':18 'call':52 'campaign':11 'choos':40 'contend':8 'courag':56 'craziest':10 'creator':27 'daili':1,62 'digest':5 'dream':59 'earn':45 'elect':3 'found':20 'foundat':32 'freedom':34 'fulli':54 'gave':28 'god':60 'happi':50 'instant':7 'kos':2,63 'lead':16 'liberti':35 'life':30 'live':57 'morn':4 'pursuit':48 'put':61 'speak':37 'uniqu':23 'us':29 'vision':24 'year':15</fti-names>
+          <source-url>http://www.dailykos.com/</source-url>
+          <url>http://feeds.dailykos.com/~r/dailykos/index/~3/-TqvTiJjoqg/-Daily-Kos-Elections-Morning-Digest-An-instant-contender-for-craziest-campaign-ad-of-the-year</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16965930</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Kos</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:33:55-04:00</created-at>
+          <title>Redistricting turns comrades into competitors</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Steven R. Rothman in New Jersey, and Rep. Mark S. Critz besting Rep. Jason Altmire, a fellow conservative Democrat in Pennsylvania. &quot;These races tend to turn friends into enemies and bring out the worst in every political actor,&quot; said David ...</excerpt>
+          <fti-names>'actor':43 'altmir':20 'best':17 'bring':36 'competitor':5 'comrad':3 'conserv':23 'critz':16 'david':45 'democrat':24 'enemi':34 'everi':41 'fellow':22 'friend':32 'intern':48 'jason':19 'jersey':11 'mark':14 'new':10 'pennsylvania':26 'polit':42 'press':47 'r':7 'race':28 'redistrict':1 'rep':13,18 'rothman':8 'said':44 'steven':6 'tend':29 'turn':2,31 'unit':46 'worst':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.upi.com/Top_News/US/2012/07/29/Politics-2012-Redistricting-turns-comrades-into-competitors/UPI-59901343548800/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T03:58:54-04:00</date>
+          <id type="integer">16944721</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:34:03-04:00</created-at>
+          <title>Politics 2012: Redistricting turns comrades into competitors</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Rep. Bill Pascrell Jr. ousting longtime friend, Rep. Steven R. Rothman in New Jersey, and Rep. Mark S. Critz besting Rep. Jason Altmire, a fellow conservative Democrat in Pennsylvania. &quot;These races tend to turn friends into enemies and bring out the wor</excerpt>
+          <fti-names>'2012':2 'altmir':30 'best':27 'bill':9 'bring':46 'competitor':7 'comrad':5 'conserv':33 'critz':26 'democrat':34 'enemi':44 'fellow':32 'friend':14,42 'istockanalyst':50 'jason':29 'jersey':21 'jr':11 'longtim':13 'mark':24 'new':20 'oust':12 'pascrel':10 'pennsylvania':36 'polit':1 'r':17 'race':38 'redistrict':3 'rep':8,15,23,28 'rothman':18 'steven':16 'tend':39 'turn':4,41 'wor':49</fti-names>
+          <source-url>http://www.istockanalyst.com/</source-url>
+          <url>http://www.istockanalyst.com/article/viewarticle/articleid/5965169</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16944722</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>iStockAnalyst</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:29:20-04:00</created-at>
+          <title>House Committee Takes Up Water Bills with Agriculture Impacts</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-Va.) and Jason Altmire (D-Pa.), would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. ** H.R. 5961, by Rep. Shelley Moore Capito (R-W.V.), would amend the Clean Water Act to prohibit</excerpt>
+          <fti-names>'5961':38 'act':33,53 'activ':36 'ag':57 'agricultur':8,35 'altmir':17 'amend':49 'bill':6 'capito':43 'clean':31,51 'committe':2 'connect':58 'd':19 'd-pa':18 'elimin':22 'exempt':27 'h.r':37 'hous':1 'hurt':11 'impact':9 'jason':16 'limit':23 'moor':42 'pa':20 'prohibit':55 'provid':28 'r':13,45 'r-va':12 'r-w':44 'regulatori':26 'rep':40 'robert':10 'shelley':41 'take':3 'v':47 'va':14 'w':46 'water':5,32,52 'wisconsin':56 'would':21,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wisconsinagconnection.com/story-national.php?Id=1677&amp;yr=2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:28:52-04:00</date>
+          <id type="integer">16919602</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wisconsin Ag Connection</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:30:04-04:00</created-at>
+          <title>House Committee Takes Up Water Bills with Agriculture Impacts</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-Va.) and Jason Altmire (D-Pa.), would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. ** H.R. 5961, by Rep. Shelley Moore Capito (R-W.V.), would amend the Clean Water Act to prohibit</excerpt>
+          <fti-names>'5961':38 'act':33,53 'activ':36 'agricultur':8,35 'altmir':17 'amend':49 'bill':6 'capito':43 'clean':31,51 'committe':2 'd':19 'd-pa':18 'dairi':57 'elimin':22 'exempt':27 'h.r':37 'hous':1 'hurt':11 'impact':9 'jason':16 'limit':23 'moor':42 'pa':20 'produc':58 'profession':56 'prohibit':55 'provid':28 'r':13,45 'r-va':12 'r-w':44 'regulatori':26 'rep':40 'robert':10 'shelley':41 'take':3 'v':47 'va':14 'w':46 'water':5,32,52 'wisconsin':60 'would':21,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.pdpw.org/news_headline.php?tbl=us&amp;yr=12&amp;id=1677</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T07:14:33-04:00</date>
+          <id type="integer">16928735</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Professional Dairy Producers of Wisconsin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:30:05-04:00</created-at>
+          <title>Mental illness and stigma</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Mental Health First Aid Higher Education Act (S. 3325/H.R. 5996), introduced by Senator Mark Begich (D-AK) and Congressman Jason Altmire (D-PA) and awaiting passage in Congress, would authorize a 5-year demonstration program to fund Mental ...</excerpt>
+          <fti-names>'3325/h.r':14 '5':39 '5996':15 'act':12 'aid':9 'ak':23 'altmir':27 'author':37 'await':32 'begich':20 'congress':35 'congressman':25 'd':22,29 'd-ak':21 'd-pa':28 'demonstr':41 'educ':11 'first':8 'fund':44 'health':7 'higher':10 'ill':2 'introduc':16 'jason':26 'mark':19 'mental':1,6,45 'pa':30 'passag':33 'patch':46 'program':42 'senat':18 'stigma':4 'would':36 'year':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://meriden.patch.com/blog_posts/mental-illness-and-stigma</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T19:54:31-04:00</date>
+          <id type="integer">16928736</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Patch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:29:20-04:00</created-at>
+          <title>Intraparty elections turn allies into foes</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Steven R. Rothman, a longtime friend, and in Pennsylvania, Rep. Mark S. Critz knocked off Rep. Jason Altmire, a fellow conservative Democrat. Some incumbent battles are the result of redistricting, in which the party that controls the state ...</excerpt>
+          <fti-names>'alli':4 'altmir':24 'battl':31 'bend':45 'bulletin':46 'conserv':27 'control':42 'critz':19 'democrat':28 'elect':2 'fellow':26 'foe':6 'friend':12 'incumb':30 'intraparti':1 'jason':23 'knock':20 'longtim':11 'mark':17 'parti':40 'pennsylvania':15 'r':8 'redistrict':36 'rep':16,22 'result':34 'rothman':9 'state':44 'steven':7 'turn':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.bendbulletin.com/article/20120725/NEWS0107/207250363/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T07:59:52-04:00</date>
+          <id type="integer">16919601</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bend Bulletin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Jason_Altmire</metavid-id>
+      <name>Rep. Jason Altmire [D, PA-4]</name>
+      <bioguide-id>A000362</bioguide-id>
+      <total-session-votes type="integer">1709</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:28:58-04:00</created-at>
+          <title>In Congress, Win a Race, Lose a Friend | Epou</title>
+          <contains-term>congress</contains-term>
+          <excerpt>As in the Illinois race, Democratic Reps. Jason Altmire and Mark Critz didn&amp;#39;t know each other well before their April primary in southwestern Pennsylvania&amp;#39;s 12th district. Critz, a longtime district director for the late Rep.</excerpt>
+          <fti-names>'12th':36 'altmir':18 'april':30 'congress':2 'critz':21,38 'democrat':15 'didn':22 'director':42 'district':37,41 'epou':9 'eta':47 'friend':8 'illinoi':13 'jason':17 'know':24 'late':45 'longtim':40 'lose':6 'mark':20 'pennsylvania':34 'phi':48 'primari':31 'race':5,14 'rep':16,46 'southwestern':33 'sport':49 'well':27 'win':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://epou.net/%3Fp%3D42774&amp;sa=U&amp;ei=50IXUN27L6jd0QGboIHoCQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNF8twgWLJyw1ks1GmGnwrkSTiMaLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959184</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eta Phi Sports</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:28:58-04:00</created-at>
+          <title>Politics 2012: Redistricting turns comrades into competitors ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Other incumbent-on-incumbent contests found Rep. Bill Pascrell Jr. ousting longtime friend, Rep. Steven R. Rothman in New Jersey, and Rep. Mark S. Critz besting Rep. Jason Altmire, a fellow conservative Democrat in ...</excerpt>
+          <fti-names>'2012':2 'admin':43 'altmir':37 'best':34 'bill':16 'competitor':7 'comrad':5 'conserv':40 'contest':13 'critz':33 'democrat':41 'fellow':39 'found':14 'friend':21 'incumb':10,12 'incumbent-on-incumb':9 'jason':36 'jersey':28 'jr':18 'longtim':20 'mark':31 'new':27 'oust':19 'pascrel':17 'polit':1 'r':24 'redistrict':3 'rep':15,22,30,35 'rothman':25 'steven':23 'turn':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.efinditnow.com/news/politics-2012-redistricting-turns-comrades-into-competitors/&amp;sa=U&amp;ei=50IXUN27L6jd0QGboIHoCQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNEiFoMebpTV40y--QY7UOGUUg8XWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959182</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:32:14-04:00</created-at>
+          <title>Politics 2012: Redistricting turns comrades into competitors ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Other incumbent-on-incumbent contests found Rep. Bill Pascrell Jr. ousting longtime friend, Rep. Steven R. Rothman in New Jersey, and Rep. Mark S. Critz besting Rep. Jason Altmire, a fellow conservative Democrat in ...</excerpt>
+          <fti-names>'2012':2 'admin':43 'altmir':37 'best':34 'bill':16 'competitor':7 'comrad':5 'conserv':40 'contest':13 'critz':33 'democrat':41 'fellow':39 'found':14 'friend':21 'incumb':10,12 'incumbent-on-incumb':9 'jason':36 'jersey':28 'jr':18 'longtim':20 'mark':31 'new':27 'oust':19 'pascrel':17 'polit':1 'r':24 'redistrict':3 'rep':15,22,30,35 'rothman':25 'steven':23 'turn':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.efinditnow.com/news/politics-2012-redistricting-turns-comrades-into-competitors/&amp;sa=U&amp;ei=JvIVUPfoNo6o8QTfxYHIDQ&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNGQmq0npXHlIg08rMOd4ELvDJIehQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16944689</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:32:20-04:00</created-at>
+          <title>Obama told to back off U.N. gun treaty | Wildman&amp;#39;s Hangout</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Now some 130 lawmakers, consisting of mostly Republicans, but also including Democrats such as Reps. Jason Altmire, Sanford Bishop, Jerry Costello, Danny Davis and Peter DeFazio sent off a letter to the Obama administration opposing the   treaty. The lette</excerpt>
+          <fti-names>'130':14 'administr':45 'also':21 'altmir':28 'back':4 'bishop':30 'consist':16 'costello':32 'danni':33 'davi':34 'defazio':37 'democrat':23 'gun':7 'hangout':11 'includ':22 'jason':27 'jerri':31 'lawmak':15 'lett':50 'letter':41 'most':18 'obama':1,44 'oppos':46 'peter':36 'rep':26 'republican':19 'sanford':29 'sent':38 'told':2 'treati':8,48 'u.n':6 'wildman':9,51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wildmanhangout.com/wordpress/%3Fp%3D10323&amp;sa=U&amp;ei=JvIVUPfoNo6o8QTfxYHIDQ&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNFeasZPReiVZsn-dVOskwBLc47TAw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944697</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Wildman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:32:16-04:00</created-at>
+          <title>In Congress, Win a Race, Lose a Friend | Epou</title>
+          <contains-term>congress</contains-term>
+          <excerpt>As in the Illinois race, Democratic Reps. Jason Altmire and Mark Critz didn&amp;#39;t know each other well before their April primary in southwestern Pennsylvania&amp;#39;s 12th district. Critz, a longtime district director for the late Rep.</excerpt>
+          <fti-names>'12th':36 'altmir':18 'april':30 'congress':2 'critz':21,38 'democrat':15 'didn':22 'director':42 'district':37,41 'epou':9 'eta':47 'friend':8 'illinoi':13 'jason':17 'know':24 'late':45 'longtim':40 'lose':6 'mark':20 'pennsylvania':34 'phi':48 'primari':31 'race':5,14 'rep':16,46 'southwestern':33 'sport':49 'well':27 'win':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://epou.net/%3Fp%3D42774&amp;sa=U&amp;ei=JvIVUPfoNo6o8QTfxYHIDQ&amp;ved=0CCwQmAEwBA&amp;usg=AFQjCNHdeheSO1ObK5_p5oyNNalufmh5Pg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944693</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eta Phi Sports</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:29:56-04:00</created-at>
+          <title>Obama told to back off U.N. gun treaty | Wildman&amp;#39;s Hangout</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Now some 130 lawmakers, consisting of mostly Republicans, but also including Democrats such as Reps. Jason Altmire, Sanford Bishop, Jerry Costello, Danny Davis and Peter DeFazio sent off a letter to the Obama administration opposing the   treaty. The lette</excerpt>
+          <fti-names>'130':14 'administr':45 'also':21 'altmir':28 'back':4 'bishop':30 'consist':16 'costello':32 'danni':33 'davi':34 'defazio':37 'democrat':23 'gun':7 'hangout':11 'includ':22 'jason':27 'jerri':31 'lawmak':15 'lett':50 'letter':41 'most':18 'obama':1,44 'oppos':46 'peter':36 'rep':26 'republican':19 'sanford':29 'sent':38 'told':2 'treati':8,48 'u.n':6 'wildman':9,51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wildmanhangout.com/wordpress/%3Fp%3D10323&amp;sa=U&amp;ei=GqAUUKagJcry0gH-i4GgCA&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHfHDZXDetOmp3eQS8d4fGuQ3yyNg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928729</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Wildman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:29:02-04:00</created-at>
+          <title>DownWithTyranny!: Republicans Don&amp;#39;t Want Regulations... Not Even ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Most of the 13 who voted with the GOP on the overall bill were joined by Blue Dogs Heath Shuler (NC) Tim Holden (PA), and Jason Altmire (PA) and by sleazy corporate shills Steve Israel (NY), Lipinksi, Jr (IL) and Gene Green ...</excerpt>
+          <fti-names>'13':12 'altmir':35 'bill':21 'blue':25 'corpor':40 'dog':26 'downwithtyranni':1,51 'even':8 'gene':49 'gop':17 'green':50 'heath':27 'holden':31 'il':47 'israel':43 'jason':34 'join':23 'jr':46 'lipinksi':45 'nc':29 'ny':44 'overal':20 'pa':32,36 'regul':6 'republican':2 'shill':41 'shuler':28 'sleazi':39 'steve':42 'tim':30 'vote':14 'want':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/republicans-dont-want-regulations-not.html&amp;sa=U&amp;ei=ak4TULeVBK-q0AGT5IDYCg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFw7oxANuYnzl3uw2lokImw6sdNOw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16919592</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:29:58-04:00</created-at>
+          <title>Northeast-Midwest Institute&amp;#39;s Mississippi River Basin Blog: House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-VA) and Jason Altmire (D-PA), which would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. H.R. 5961, sponsored by Rep. Shelley Moore Capito (R-WV), ...</excerpt>
+          <fti-names>'5961':40 'act':35 'activ':38 'agricultur':37 'altmir':18 'basin':8 'blog':9 'capito':46 'clean':33 'd':20 'd-pa':19 'elimin':24 'exempt':29 'gorman':51 'h.r':39 'hous':10 'hurt':12 'institut':4 'jason':17 'limit':25 'mark':50 'midwest':3 'mississippi':6 'moor':45 'northeast':2 'northeast-midwest':1 'pa':21 'provid':30 'r':14,48 'r-va':13 'r-wv':47 'regulatori':28 'rep':43 'river':7 'robert':11 'shelley':44 'sponsor':41 'va':15 'water':34 'would':23 'wv':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nemwuppermiss.blogspot.com/2012/07/house-transportation-and-infrastructure.html&amp;sa=U&amp;ei=GqAUUKagJcry0gH-i4GgCA&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNEn77uOtII3Y_aDZhB2F6f22p6Y1w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16928733</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Gorman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:29:01-04:00</created-at>
+          <title>Northeast-Midwest Institute&amp;#39;s Mississippi River Basin Blog: House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-VA) and Jason Altmire (D-PA), which would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. H.R. 2541, sponsored by Rep. Jaime Herrera Beutler (R-WA), ...</excerpt>
+          <fti-names>'2541':40 'act':35 'activ':38 'agricultur':37 'altmir':18 'basin':8 'beutler':46 'blog':9 'clean':33 'd':20 'd-pa':19 'elimin':24 'exempt':29 'gorman':51 'h.r':39 'herrera':45 'hous':10 'hurt':12 'institut':4 'jaim':44 'jason':17 'limit':25 'mark':50 'midwest':3 'mississippi':6 'northeast':2 'northeast-midwest':1 'pa':21 'provid':30 'r':14,48 'r-va':13 'r-wa':47 'regulatori':28 'rep':43 'river':7 'robert':11 'sponsor':41 'va':15 'wa':49 'water':34 'would':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nemwuppermiss.blogspot.com/2012/07/house-transportation-and-infrastructure_26.html&amp;sa=U&amp;ei=ak4TULeVBK-q0AGT5IDYCg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGjoGGYLhH7E803tlFiyeMB64MJjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16919589</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Gorman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412231</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:29:06-04:00</created-at>
+          <title>Northeast-Midwest Institute&amp;#39;s Mississippi River Basin Blog: House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Robert Hurt (R-VA) and Jason Altmire (D-PA), which would eliminate limits on the regulatory exemptions provided in the Clean Water Act for agricultural activities. H.R. 2541, sponsored by Rep. Jaime Herrera Beutler (R-WA), ...</excerpt>
+          <fti-names>'2541':40 'act':35 'activ':38 'agricultur':37 'altmir':18 'basin':8 'beutler':46 'blog':9 'clean':33 'd':20 'd-pa':19 'elimin':24 'exempt':29 'gorman':51 'h.r':39 'herrera':45 'hous':10 'hurt':12 'institut':4 'jaim':44 'jason':17 'limit':25 'mark':50 'midwest':3 'mississippi':6 'northeast':2 'northeast-midwest':1 'pa':21 'provid':30 'r':14,48 'r-va':13 'r-wa':47 'regulatori':28 'rep':43 'river':7 'robert':11 'sponsor':41 'va':15 'wa':49 'water':34 'would':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nemwuppermiss.blogspot.com/2012/07/house-transportation-and-infrastructure_26.html&amp;sa=U&amp;ei=8PwRUK-0HoOi8ATVloDgDw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFhjNjPPeJSdtHcJd03VTY-7HerUw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16887957</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mark Gorman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22748</page-views-count>
+      <youtube-id>congressmanaltmire</youtube-id>
+      <unaccented-name>Jason Altmire</unaccented-name>
+      <oc-user-comments type="integer">10</oc-user-comments>
+    </person>
+  </people>
+</hash>

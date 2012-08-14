@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-11T13:14:54-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">65.3220559531555</party-votes-percentage>
+        <abstains-percentage type="float">10.587550901687</abstains-percentage>
+        <votes-most-often-with-id type="integer">400442</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">83</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">182</abstains>
+        <cosponsored-bills type="integer">163</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">380</party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">412225</person-id>
+        <cosponsored-bills-rank type="integer">170</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400227</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">272</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400244</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">817</votes-republican-position>
+      <fax>202-226-6422</fax>
+      <blog-article-count type="integer">9734</blog-article-count>
+      <user-approval type="float">5.10810810810811</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">203</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://shuler.house.gov/zipauth.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">65.3220559531555</with-party-percentage>
+      <lastname>Shuler</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>229 Cannon House Office Building</congress-office>
+      <firstname>Heath</firstname>
+      <website>http://shuler.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412225</person-id>
+      <phone>202-225-6401</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>S001171</bioguide-id>
+      <votes-democratic-position type="integer">1004</votes-democratic-position>
+      <metavid-id>Heath_Shuler</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:51:26-04:00</created-at>
+          <title>Investing in the grid: When the going gets tough, the tough get &#8230; creative</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The U.S. grid system was born in the 1920s, and has seen few major upgrades since the 1960s. With America&#8217;s growing population and exploding demand &#8212; bigger houses, A/C units, TVs, iThings &#8212; we have serious congestion and inadequate capacity on our n</excerpt>
+          <fti-names>'1920s':22 '1960s':31 'a/c':42 'america':33 'bigger':40 'born':19 'capac':52 'congest':49 'creativ':13 'demand':39 'explod':38 'get':8,12 'go':7 'grid':4,16 'grist':56 'grow':35 'hous':41 'inadequ':51 'invest':1 'ith':45 'major':27 'n':55 'popul':36 'seen':25 'serious':48 'sinc':29 'system':17 'tough':9,11 'tvs':44 'u.s':15 'unit':43 'upgrad':28</fti-names>
+          <source-url>http://www.grist.org/</source-url>
+          <url>http://grist.org/climate-energy/investing-in-the-grid-when-the-going-gets-tough-the-tough-get-creative/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972535</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Grist</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:13:45-04:00</created-at>
+          <title>Redskins' Jenkins back after knee injury</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...end Adam Carriker, who was bothered last season and this spring by blisters on his feet, was given a rest day on Friday. ... Rep. Heath Shuler (D-N.C.), whom the Redskins selected third overall in the 1994 draft, was at practice and spoke with rookie qu</excerpt>
+          <fti-names>'1994':45 'adam':8 'antonio':56 'back':3 'blister':19 'bother':12 'c':36 'carrik':9 'd':34 'd-n':33 'day':27 'draft':46 'end':7 'express':57 'feet':22 'friday':29 'given':24 'heath':31 'injuri':6 'jenkin':2 'knee':5 'last':13 'n':35 'overal':42 'practic':49 'qu':54 'redskin':1,39 'rep':30 'rest':26 'rooki':53 'san':55 'season':14 'select':40 'shuler':32 'spoke':51 'spring':17 'third':41</fti-names>
+          <source-url>http://www.mysanantonio.com/</source-url>
+          <url>http://www.mysanantonio.com/sports/article/Redskins-Jenkins-back-after-knee-injury-3760640.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971834</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Antonio Express</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:16:04-04:00</created-at>
+          <title>Contemplating a Post-Pelosi House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;There&#8217;s no one who works harder than Nancy Pelosi, and there&#8217;s no one who raises more money than she does,&#8221; said retiring Rep. Heath Shuler (N.C.), who challenged Pelosi for Minority Leader in 2010, garnering 43 votes. &#8220;In light of the super ...</excerpt>
+          <fti-names>'2010':42 '43':44 'call':52 'challeng':36 'contempl':1 'garner':43 'harder':13 'heath':32 'hous':6 'leader':40 'light':47 'minor':39 'money':25 'n.c':34 'nanci':15 'one':10,21 'onlin':53 'pelosi':5,16,37 'post':4 'post-pelosi':3 'rais':23 'rep':31 'retir':30 'roll':51 'said':29 'shuler':33 'super':50 'vote':45 'work':12</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.rollcall.com/issues/58_14/Contemplating-a-Post-Pelosi-House-216576-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T21:58:37-04:00</date>
+          <id type="integer">16967266</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:33:55-04:00</created-at>
+          <title>Pelosi: Republicans use Israel to bamboozle Jewish voters while they give tax cuts to the rich</title>
+          <contains-term>republican</contains-term>
+          <excerpt>She didn&#8217;t win that position in a random drawing.&#160; They voted her in.&#160; She even had a challenger last time, Rep. Heath Shuler of North Carolina.&#160; He&#8217;s retiring after this term. Some listeners might parse this dimwitted exposition of crude ...</excerpt>
+          <fti-names>'bamboozl':6 'blog':61 'carolina':43 'challeng':35 'crude':58 'cut':13 'didn':18 'dimwit':55 'draw':26 'even':32 'event':60 'exposit':56 'give':11 'heath':39 'human':59 'israel':4 'jewish':7 'last':36 'listen':51 'might':52 'north':42 'pars':53 'pelosi':1 'posit':22 'random':25 'rep':38 'republican':2 'retir':46 'rich':16 'shuler':40 'tax':12 'term':49 'time':37 'use':3 'vote':28 'voter':8 'win':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.humanevents.com/2012/07/30/pelosi-republicans-use-israel-to-bamboozle-jewish-voters-while-they-give-tax-cuts-to-the-rich/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T14:49:07-04:00</date>
+          <id type="integer">16961709</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Human Events (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:13:16-04:00</created-at>
+          <title>NFL Confidential: Jaguars, Jones-Drew are stuck in standoff</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Quarterback Heath Shuler, the third pick in the 1994 draft ... As it turned out, Shuler, now a congressman, was a bust anyway. Those negotiations showed how players and their agents try to avoid the perception they caved at the end of a holdout.</excerpt>
+          <fti-names>'1994':19 'agent':40 'anyway':32 'avoid':43 'bust':31 'cave':47 'confidenti':2 'congressman':28 'draft':20 'drew':6 'end':50 'florida':54 'heath':12 'holdout':53 'jaguar':3 'jone':5 'jones-drew':4 'negoti':34 'nfl':1 'percept':45 'pick':16 'player':37 'quarterback':11 'show':35 'shuler':13,25 'standoff':10 'stuck':8 'third':15 'time':56 'times-union':55 'tri':41 'turn':23 'union':57</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://jacksonville.com/sports/football/jaguars/2012-07-28/story/nfl-confidential-jaguars-jones-drew-are-stuck-standoff?amp&amp;amp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T22:36:47-04:00</date>
+          <id type="integer">16950307</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Florida Times-Union</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:54:34-04:00</created-at>
+          <title>NFL Confidential: Jaguars, Jones-Drew are stuck in standoff</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Quarterback Heath Shuler, the third pick in the 1994 draft ... As it turned out, Shuler, now a congressman, was a bust anyway. Those negotiations showed how players and their agents try to avoid the perception they caved at the end of a holdout.</excerpt>
+          <fti-names>'1994':19 'agent':40 'anyway':32 'avoid':43 'bust':31 'cave':47 'confidenti':2 'congressman':28 'draft':20 'drew':6 'end':50 'florida':54 'heath':12 'holdout':53 'jaguar':3 'jone':5 'jones-drew':4 'negoti':34 'nfl':1 'percept':45 'pick':16 'player':37 'quarterback':11 'show':35 'shuler':13,25 'standoff':10 'stuck':8 'third':15 'time':56 'times-union':55 'tri':41 'turn':23 'union':57</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://jacksonville.com/sports/football/jaguars/2012-07-28/story/nfl-confidential-jaguars-jones-drew-are-stuck-standoff</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T22:36:47-04:00</date>
+          <id type="integer">16931147</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Florida Times-Union</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:54:39-04:00</created-at>
+          <title>Party not</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>But there are more moderate Democrats in the same position, like Rep. Jim Matheson of Utah, who is facing Mia Love, a popular mayor. In North Carolina, two moderate Democrats &#8211; Heath Shuler and Brad Miller &#8211; retired. The best weapon for ...</excerpt>
+          <fti-names>'best':40 'brad':36 'carolina':29 'charlotteobserver.com':43 'democrat':8,32 'face':21 'heath':33 'jim':15 'like':13 'love':23 'matheson':16 'mayor':26 'mia':22 'miller':37 'moder':7,31 'north':28 'parti':1 'popular':25 'posit':12 'rep':14 'retir':38 'shuler':34 'two':30 'utah':18 'weapon':41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.charlotteobserver.com/2012/07/28/3412875/party-not.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T17:50:27-04:00</date>
+          <id type="integer">16931148</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CharlotteObserver.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:32:35-04:00</created-at>
+          <title>C Street Scandal, the Media, the Future of the Family: An Interview with Jeff Sharlet</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Rep. Heath Shuler, who at the beginning of the summer seemed to want the word out that he lived in this fundamentalist frat house, refused to confirm or deny his residence there by the end of the summer. My favorite was Senator Mark Pryor.</excerpt>
+          <fti-names>'begin':22 'c':1 'confirm':42 'deni':44 'dispatch':61 'end':50 'famili':10 'favorit':55 'frat':38 'fundamentalist':37 'futur':7 'heath':17 'hous':39 'interview':12 'jeff':14 'live':34 'mark':58 'media':5 'pryor':59 'refus':40 'religion':60 'rep':16 'resid':46 'scandal':3 'seem':26 'senat':57 'sharlet':15 'shuler':18 'street':2 'summer':25,53 'want':28 'word':30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.religiondispatches.org/archive/atheologies/1867/c_street_scandal%2C_the_media%2C_the_future_of_the_family%3A_an_interview_with_jeff_sharlet/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T04:01:17-04:00</date>
+          <id type="integer">16923802</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Religion Dispatches</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:24:04-04:00</created-at>
+          <title>With Meadows victory, Republicans set sights on 11th District seat</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rogers, a WNC native who lives in Brasstown, is incumbent Democratic Rep. Heath Shuler&#8217;s former chief of staff. He jumped into the race in February, soon after his boss decided not to seek re-election, easily defeating his primary competition with 56 ...</excerpt>
+          <fti-names>'11th':8 '56':54 'boss':40 'brasstown':18 'chief':27 'competit':52 'decid':41 'defeat':49 'democrat':21 'district':9 'easili':48 'elect':47 'februari':36 'former':26 'heath':23 'incumb':20 'jump':31 'live':16 'meadow':2 'mountain':55 'nativ':14 'primari':51 'race':34 're':46 're-elect':45 'rep':22 'republican':4 'roger':11 'seat':10 'seek':44 'set':5 'shuler':24 'sight':6 'soon':37 'staff':29 'victori':3 'wnc':13 'xpress':56</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.mountainx.com/article/44423/With-Meadows-victory-Republicans-set-sights-on-11th-District-seat</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T22:48:41-04:00</date>
+          <id type="integer">16893065</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mountain Xpress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:42:01-04:00</created-at>
+          <title>The Congressional Sportsmen&#8217;s Foundation Promotes Conservation Through Two Days of Events</title>
+          <contains-term>congress</contains-term>
+          <excerpt>and Representative Heath Shuler (NC), hosted the event. &#8220;Thank you to the caucus members who come together to work on behalf of sportsmen,&#8221; said Jeff Crane, President of the CSF. &#8220;By working in a bipartisan fashion, we can ensure the futur ...</excerpt>
+          <fti-names>'ammoland.com':54 'behalf':33 'bipartisan':47 'caucus':25 'come':28 'congression':2 'conserv':7 'crane':38 'csf':42 'day':10 'ensur':51 'event':12,20 'fashion':48 'foundat':5 'futur':53 'heath':15 'host':18 'jeff':37 'member':26 'nc':17 'presid':39 'promot':6 'repres':14 'said':36 'shuler':16 'sportsmen':3,35 'thank':21 'togeth':29 'two':9 'work':31,44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ammoland.com/2012/07/24/the-congressional-sportsmens-foundation-promotes-conservation-through-two-days-of-events/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T15:53:30-04:00</date>
+          <id type="integer">16853008</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AmmoLand.com </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Heath Shuler [D, NC-11]</name>
+      <total-session-votes type="integer">1537</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>11</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:41-04:00</created-at>
+          <title>Second primary is Tuesday | morganton.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The winner of the primary will face Democrat Hayden Rogers, the former chief of staff for Rep. Heath Shuler, who is retiring from Congress. Other Republican races Burke County voters will see on their ballot include: &#187; N.C. Lt.</excerpt>
+          <fti-names>'/list/local-news/':46 'ballot':40 'burk':33 'chief':18 'congress':29 'counti':34 'democrat':13 'face':12 'former':17 'hayden':14 'heath':23 'includ':41 'lt':43 'morganton.com':5 'n.c':42 'primari':2,10 'race':32 'rep':22 'republican':31 'retir':27 'roger':15 'second':1 'see':37 'shuler':24 'staff':20 'tuesday':4 'voter':35 'winner':7 'www2.morganton.com':45 'www2.morganton.com/list/local-news':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.morganton.com/news/2012/jul/15/second-primary-tuesday-ar-2432009/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNH36qYBkUeTNy5WG8fJyLUCZjVPWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16679653</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.morganton.com/list/local-news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:38-04:00</created-at>
+          <title>Legislative Updates &amp;amp; Next Steps! :: Western North Carolina Alliance</title>
+          <contains-term>congress</contains-term>
+          <excerpt>And although we were successful this time around, our Rep. Heath Shuler voted against us, urging Congress to keep the terrible coal ash amendment. Please take a moment and ask Rep. Shuler to do the right thing next time ...</excerpt>
+          <fti-names>'allianc':8 'although':10 'amend':32 'around':16 'ash':31 'ask':38 'carolina':7 'coal':30 'congress':25 'heath':19 'keep':27 'legisl':1 'moment':36 'next':3,46 'north':6 'pleas':33 'rep':18,39 'right':44 'shuler':20,40 'step':4 'success':13 'take':34 'terribl':29 'thing':45 'time':15,47 'updat':2 'urg':24 'us':23 'vote':21 'western':5 'wncaadmin':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wnca.org/legislative-updates-next-steps/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNF7Tvee973sZ6y3a27sftjOv-mFiA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16679646</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>WNCAADMIN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:33-04:00</created-at>
+          <title>Rep. Heath Shuler releases statement on ACA repeal bill vote | Take ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>(Mountain Xpress) Washington, DC &#8212; Today U.S. Representative Heath Shuler (D-NC) released the following statement following the vote on H.R. 6079, a bill to repeal in full the Affordable Care Act : &#8220;I see today&amp;#39;s vote as a ...</excerpt>
+          <fti-names>'6079':33 'aca':7 'act':43 'afford':41 'agn':51 'bill':9,35 'care':42 'cheek':52 'd':22 'd-nc':21 'dc':15 'follow':26,28 'full':39 'h.r':32 'heath':2,19 'mountain':12 'nc':23 'releas':4,24 'rep':1 'repeal':8,37 'repres':18 'see':45 'shuler':3,20 'statement':5,27 'take':11 'today':16,46 'u.s':17 'vote':10,30,48 'washington':14 'xpress':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mattandagnes.com/2012/07/rep-heath-shuler-releases-statement-on-aca-repeal-bill-vote/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGkyZWIH76kANiqh5vqd3f9XoLa6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16679645</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Agnes Cheek</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:41-04:00</created-at>
+          <title>Rep. Heath Shuler releases statement on ACA repeal bill vote ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Heath Shuler releases matter on ACA dissolution check vote. July 13, 2012,; Leave a comment,; Author: admin,; Categories: Health; Tags: Heath News. User Score ...</excerpt>
+          <fti-names>'13':22 '2012':23 'aca':7,17 'admin':28,36 'author':27 'bill':9 'categori':29 'check':19 'comment':26 'dissolut':18 'health':30 'heath':2,12,32 'juli':21 'leav':24 'matter':15 'news':33 'releas':4,14 'rep':1,11 'repeal':8 'score':35 'shuler':3,13 'statement':5 'tag':31 'user':34 'vote':10,20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://strongdaddy.com/2012/07/13/rep-heath-shuler-releases-statement-on-aca-repeal-bill-vote/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNH0mTlG5zFJYr7rRZ4Xt-XuduV_Pw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16679651</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:39-04:00</created-at>
+          <title>Shuler votes no on ObamaCare repeal | Hendersonville Lightning</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Heath Shuler, the three-term incumbent who is retiring from Congress, joined Democrats in voting against the ObamaCare repeal that the House passed on Wednesday. Republican leaders pushed through the ...</excerpt>
+          <fti-names>'billmoss':42 'congress':22 'democrat':24 'heath':11 'hendersonvill':7 'hous':33 'incumb':17 'join':23 'leader':38 'lightn':8 'obamacar':5,29 'pass':34 'push':39 'rep':10 'repeal':6,30 'republican':37 'retir':20 'shuler':1,12 'term':16 'three':15 'three-term':14 'u.s':9 'vote':2,26 'wednesday':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hendersonvillelightning.com/blog/2012/henderson-county-politics/shuler-votes-no-on-obamacare-repeal/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGSW28VaPuTlPOxsDOQGSVu1Nyq8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16679649</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>billmoss</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:39-04:00</created-at>
+          <title>McIntyre, Kissell vote to repeal the Affordable Care Act &#171; The ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. G.K. Butterfield &#8211; 1st District Rep. David Price &#8211; 4th District Rep. Heath Shuler &#8211; 11th District Rep. Mel Watt &#8211; 12th District Rep. Brad Miller &#8211; 13th District. Possibly related posts: NC delegation splits on budget bill that ...</excerpt>
+          <fti-names>'11th':24 '12th':29 '13th':34 '1st':14 '4th':19 'act':9 'afford':7 'bill':44 'brad':32 'budget':43 'butterfield':13 'care':8 'clayton':46 'david':17 'deleg':40 'district':15,20,25,30,35 'g.k':12 'heath':22 'henkel':47 'kissel':2 'mcintyr':1 'mel':27 'miller':33 'nc':39 'possibl':36 'post':38 'price':18 'relat':37 'rep':11,16,21,26,31 'repeal':5 'shuler':23 'split':41 'vote':3 'watt':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pulse.ncpolicywatch.org/2012/07/11/mcintyre-kissell-vote-to-repeal-the-affordable-care-act/&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFq44m9rSIpnoezk1W6wr-BerETfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16679648</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Clayton Henkel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:37:41-04:00</created-at>
+          <title>Democrats give Hayden Rogers a lift | newsobserver.com projects</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Democratic strategists put some added muscle behind underdog Hayden Rogers in his campaign to fill the Congressional seat left open by his former boss, U.S. Rep. Heath Shuler, in the 11th District. In a move that will open ...</excerpt>
+          <fti-names>'11th':39 'ad':13 'behind':15 'boss':32 'campaign':21 'congression':25 'democrat':1,9 'district':40 'fill':23 'former':31 'give':2 'hayden':3,17 'heath':35 'left':27 'lift':6 'malleusmaleficarum':47 'move':43 'muscl':14 'newsobserver.com':7 'open':28,46 'project':8 'put':11 'rep':34 'roger':4,18 'seat':26 'shuler':36 'strategist':10 'u.s':33 'underdog':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://projects.newsobserver.com/node/25116&amp;sa=U&amp;ei=LAgFUP7eOoaw2QXow5CgBQ&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNGS-3fLi0r75xS2Jy7zrG4ZuEdREg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16679652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MalleusMaleficarum</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-05-30T23:24:29-04:00</created-at>
+          <title>North Carolina: Mark Meadows Gets Patrick McHenry Endorsement ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The winner of the GOP primary in the western North Carolina district is the favorite to win the general election against the Democratic nominee, Hayden Rogers, the former chief of staff to retiring Rep. Heath Shuler (D-N.C.). The newly ...</excerpt>
+          <fti-names>'c':48 'carolina':2,19 'chief':37 'd':46 'd-n':45 'democrat':31 'district':20 'elect':28 'endors':8 'favorit':23 'former':36 'general':27 'get':5 'gop':13 'hayden':33 'heath':43 'joshua':52 'joshuamiller@rollcall.com':51 'mark':3 'mchenri':7 'meadow':4 'miller':53 'n':47 'newli':50 'nomine':32 'north':1,18 'patrick':6 'primari':14 'rep':42 'retir':41 'roger':34 'shuler':44 'staff':39 'western':17 'win':25 'winner':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/north_carolina_mark_meadows_gets_patrick_mchenry_endorsement-214932-1.html&amp;sa=U&amp;ei=a-TGT9OzDIvAgQfo-fiJDg&amp;ved=0CD4QmAEwBQ&amp;usg=AFQjCNFTvNnVHo2hzbQGFbMBYa0XhCmWPA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-30T01:00:00-04:00</date>
+          <id type="integer">15493107</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JoshuaMiller@rollcall.com (Joshua Miller)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-05-30T23:24:28-04:00</created-at>
+          <title>Re: Armed EPA agents | Piedmont Publius</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Richard Burr and Kay Hagan &#8211;as well as Rep. Heath Shuler regarding the visit paid by above-mentioned armed EPA agents, who by the way were accompanied by an Asheville police officer. Surprise &#8212; only Burr&amp;#39;s office ...</excerpt>
+          <fti-names>'above-ment':23 'accompani':34 'agent':4,28 'arm':2,26 'ashevill':37 'burr':8,42 'epa':3,27 'hagan':11 'heath':16 'hieb':46 'kay':10 'mention':25 'offic':39,44 'paid':21 'piedmont':5 'polic':38 'publius':6 're':1 'regard':18 'rep':15 'richard':7 'sam':45 'shuler':17 'surpris':40 'visit':20 'way':32 'well':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://triad.johnlocke.org/blog/%3Fp%3D16389&amp;sa=U&amp;ei=a-TGT9OzDIvAgQfo-fiJDg&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNEy_cGMI1uZb56gKDFflP_rQoJ0lg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-30T01:00:00-04:00</date>
+          <id type="integer">15493106</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sam Hieb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412225</commentariable-id>
+          <created-at type="datetime">2012-05-30T23:24:27-04:00</created-at>
+          <title>New Jersey: More Members Side With Bill Pascrell | At the Races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Jerry Costello&amp;#39;s (Ill.) Costello For Congress account donated $2000; Rep. Carolyn McCarthy&amp;#39;s (N.Y.) CAP PAC donated $3500; Rep. Nick Rahall&amp;#39;s (W.Va.) Keep Nick Rahall in Congress account donated $2000; Retiring Rep. Heath Shuler&amp;#39;s ...</excerpt>
+          <fti-names>'2000':21,43 '3500':30 'abbi':50 'abbylivingston@cqrollcall.com':49 'account':19,41 'bill':7 'cap':27 'carolyn':23 'congress':18,40 'costello':13,16 'donat':20,29,42 'heath':46 'ill':15 'jerri':12 'jersey':2 'keep':36 'livingston':51 'mccarthi':24 'member':4 'n.y':26 'new':1 'nick':32,37 'pac':28 'pascrel':8 'race':11 'rahal':33,38 'rep':22,31,45 'retir':44 'shuler':47 'side':5 'w.va':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/news/new_jersey_more_members_side_with_bill_pascrell-214928-1.html&amp;sa=U&amp;ei=a-TGT9OzDIvAgQfo-fiJDg&amp;ved=0CC0QmAEwAQ&amp;usg=AFQjCNHjPaZng1YD6x4Rgy3Mu78LT140fQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-30T01:00:00-04:00</date>
+          <id type="integer">15493103</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AbbyLivingston@cqrollcall.com (Abby Livingston)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23194</page-views-count>
+      <unaccented-name>Heath Shuler</unaccented-name>
+      <oc-user-comments type="integer">11</oc-user-comments>
+    </person>
+  </people>
+</hash>

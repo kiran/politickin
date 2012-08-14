@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-06-24T11:35:00-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">88.4955752212389</party-votes-percentage>
+        <abstains-percentage type="float">1.39616055846422</abstains-percentage>
+        <votes-most-often-with-id type="integer">412451</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:25-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">233</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">37</cosponsored-bills-passed-rank>
+        <abstains type="integer">24</abstains>
+        <cosponsored-bills type="integer">305</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">349</party-votes-percentage-rank>
+        <sponsored-bills type="integer">35</sponsored-bills>
+        <votes-least-often-with-id type="integer">400237</votes-least-often-with-id>
+        <person-id type="integer">400219</person-id>
+        <cosponsored-bills-rank type="integer">172</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-18T21:36:05-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">21</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">13</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1500</votes-republican-position>
+      <fax>202-226-2279</fax>
+      <blog-article-count type="integer">10598</blog-article-count>
+      <user-approval type="float">2.97916666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">131</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://peteking.house.gov/zip.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">88.4955752212389</with-party-percentage>
+      <lastname>King</lastname>
+      <middlename>T.</middlename>
+      <bioguide-id>K000210</bioguide-id>
+      <congress-office>339 Cannon House Office Building</congress-office>
+      <firstname>Peter</firstname>
+      <website>http://peteking.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1944-04-05</birthday>
+      <person-id type="integer">400219</person-id>
+      <phone>202-225-7896</phone>
+      <religion>Roman Catholic</religion>
+      <votes-democratic-position type="integer">517</votes-democratic-position>
+      <metavid-id>Peter_T._King</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:52:57-04:00</created-at>
+          <title>SEE IT: &#8216;Zero Dark Thirty&#8217; trailer sheds light on bin Laden take out</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...were given access to secret files about the May 1 mission on the Al Qaeda leader's compound in Pakistan. At the time, Rep. Pete King (L.I.), among other Republicans, condemned the Obama White House, Bigelow and writer Mark Boal for crafting a pro-admini</excerpt>
+          <fti-names>'1':23 'access':16 'admini':59 'al':27 'among':41 'bigelow':49 'bin':10 'boal':53 'compound':31 'condemn':44 'craft':55 'daili':62 'dark':4 'file':19 'given':15 'hous':48 'king':39 'l.i':40 'laden':11 'leader':29 'light':8 'mark':52 'may':22 'mission':24 'new':60 'news':63 'obama':46 'pakistan':33 'pete':38 'pro':58 'pro-admini':57 'qaeda':28 'rep':37 'republican':43 'secret':18 'see':1 'shed':7 'take':12 'thirti':5 'time':36 'trailer':6 'white':47 'writer':51 'york':61 'zero':3</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://www.nydailynews.com/entertainment/tv-movies/zero-dark-trailer-released-shedding-a-a-light-kathryn-bigelow-controversial-movie-u-s-operation-osama-bin-laden-article-1.1130118?localLinksEnabled=false</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972860</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:48:25-04:00</created-at>
+          <title>Week in one liners: Romney, Reid, Pelosi</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...a president who's all foam and no beer.&#8221; &#8212; Former Minnesota Gov. Tim Pawlenty knocking Obama. &quot;It's sort of a buzz kill.&quot; &#8212; Rep. Pete King complaining about Obama's 'Forward.' slogan. &quot;Ugh.&quot; &#8212; Obama staffer Stephanie Cutter 's one-word response </excerpt>
+          <fti-names>'beer':16 'buzz':29 'complain':34 'cutter':44 'foam':13 'former':17 'forward':38 'gov':19 'kill':30 'king':33 'knock':22 'liner':4 'minnesota':18 'obama':23,36,41 'one':3,47 'one-word':46 'pawlenti':21 'pelosi':7 'pete':32 'politico':51 'presid':9 'reid':6 'rep':31 'respons':49 'romney':5 'slogan':39 'sort':26 'staffer':42 'stephani':43 'tim':20 'ugh':40 'week':1 'word':48</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=095e0be234c6d33444530bb1e179e9c4</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972202</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:51-04:00</created-at>
+          <title>Week in one liners: Romney, Reid, Pelosi</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...a president who's all foam and no beer.&#8221; &#8212; Former Minnesota Gov. Tim Pawlenty knocking Obama. &quot;It's sort of a buzz kill.&quot; &#8212; Rep. Pete King complaining about Obama's 'Forward.' slogan. &quot;Ugh.&quot; &#8212; Obama staffer Stephanie Cutter 's one-word response </excerpt>
+          <fti-names>'beer':16 'buzz':29 'complain':34 'cutter':44 'foam':13 'former':17 'forward':38 'gov':19 'kill':30 'king':33 'knock':22 'liner':4 'minnesota':18 'obama':23,36,41 'one':3,47 'one-word':46 'pawlenti':21 'pelosi':7 'pete':32 'politico':51 'presid':9 'reid':6 'rep':31 'respons':49 'romney':5 'slogan':39 'sort':26 'staffer':42 'stephani':43 'tim':20 'ugh':40 'week':1 'word':48</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/blogs/click/2012/08/week-in-one-liners-romney-reid-pelosi-130401.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971688</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:00-04:00</created-at>
+          <title>Obama slogan draws complaints</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&quot;Forward! Period. Full stop,&quot; he has joked to his campaign staff, according to an Obama adviser. On that, if on nothing else, Mr. Obama has bipartisan support. &quot;It's sort of a buzz kill,&quot; said Rep. Pete King (R.,</excerpt>
+          <fti-names>'accord':16 'advis':20 'bipartisan':30 'buzz':37 'campaign':14 'complaint':4 'draw':3 'els':26 'forward':5 'full':7 'joke':11 'kill':38 'king':42 'mr':27 'noth':25 'obama':1,19,28 'period':6 'pete':41 'politico.com':44 'r':43 'rep':40 'said':39 'slogan':2 'sort':34 'staff':15 'stop':8 'support':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/politico44/2012/07/obama-slogan-draws-complaints-130583.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T06:41:10-04:00</date>
+          <id type="integer">16966727</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:04-04:00</created-at>
+          <title>Punctuation Nerds Stopped by Obama Slogan</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...to an Obama adviser. On that, if on nothing else, Mr. Obama has bipartisan support. &quot;It's sort of a buzz kill,&quot; said Rep. Pete King (R., N.Y.). The period was a subject of a spirited debate as Mr. Obama's senior advisers and outside consultants spent ho</excerpt>
+          <fti-names>'advis':10,49 'bipartisan':20 'buzz':27 'consult':52 'debat':43 'els':16 'ho':54 'journal':57 'kill':28 'king':32 'mr':17,45 'n.y':34 'nerd':2 'noth':15 'obama':5,9,18,46 'outsid':51 'period':36 'pete':31 'punctuat':1 'r':33 'rep':30 'said':29 'senior':48 'slogan':6 'sort':24 'spent':53 'spirit':42 'stop':3 'street':56 'subject':39 'support':21 'wall':55</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390444840104577553020326811222.html?mod=rss_Today's_Most_Popular</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966731</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:03-04:00</created-at>
+          <title>Punctuation Nerds Stopped by Obama Slogan</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...to an Obama adviser. On that, if on nothing else, Mr. Obama has bipartisan support. &quot;It's sort of a buzz kill,&quot; said Rep. Pete King (R., N.Y.). The period was a subject of a spirited debate as Mr. Obama's senior advisers and outside consultants spent ho</excerpt>
+          <fti-names>'advis':10,49 'bipartisan':20 'buzz':27 'consult':52 'debat':43 'els':16 'ho':54 'journal':57 'kill':28 'king':32 'mr':17,45 'n.y':34 'nerd':2 'noth':15 'obama':5,9,18,46 'outsid':51 'period':36 'pete':31 'punctuat':1 'r':33 'rep':30 'said':29 'senior':48 'slogan':6 'sort':24 'spent':53 'spirit':42 'stop':3 'street':56 'subject':39 'support':21 'wall':55</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390444840104577553020326811222.html?mod=wsj_india_main</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966730</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:03-04:00</created-at>
+          <title>Punctuation Nerds Stopped by Obama Slogan</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...to an Obama adviser.On that, if on nothing else, Mr. Obama has bipartisan support.&quot;It's sort of a buzz kill,&quot; said Rep. Pete King (R., N.Y.).The period was a subject of a spirited debate as Mr. Obama's senior advisers and outside consultants spent hours</excerpt>
+          <fti-names>'advis':48 'adviser.on':10 'bipartisan':19 'buzz':26 'consult':51 'debat':42 'els':15 'hour':53 'journal':56 'kill':27 'king':31 'mr':16,44 'n.y':33 'nerd':2 'noth':14 'obama':5,9,17,45 'outsid':50 'period':35 'pete':30 'punctuat':1 'r':32 'rep':29 'said':28 'senior':47 'slogan':6 'sort':23 'spent':52 'spirit':41 'stop':3 'street':55 'subject':38 'support':20 'wall':54</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390444840104577553020326811222.html?mod=WSJ_topics_obama</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966729</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:53:03-04:00</created-at>
+          <title>Obama slogan draws complaints</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...slogan, but evidently isn't sold. &quot;Forward! Period. Full stop,&quot; he has joked to his campaign staff, according to an Obama adviser. On that, if on nothing else, Mr. Obama has bipartisan support. &quot;It's sort of a buzz kill,&quot; said Rep. Pete King (R., N.Y.).</excerpt>
+          <fti-names>'accord':22 'advis':26 'bipartisan':36 'buzz':43 'campaign':20 'complaint':4 'draw':3 'els':32 'evid':7 'forward':11 'full':13 'isn':8 'joke':17 'kill':44 'king':48 'mr':33 'n.y':50 'noth':31 'obama':1,25,34 'period':12 'pete':47 'politico':52 'r':49 'rep':46 'said':45 'slogan':2,5 'sold':10 'sort':40 'staff':21 'stop':14 'support':37</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=8f94765f261dff6070ff57c508ce0d8f</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966728</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:52:28-04:00</created-at>
+          <title>Rep. King: Self avowed terrorist invited to White House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Obama administration minions may have violated U.S. law last month by welcoming an Egyptian with ties to terrorism to the White House in order to lobby for the release of an imprisoned terrorist known as the Blind Sheik, claimed Rep. Pete King ...</excerpt>
+          <fti-names>'administr':11 'avow':4 'blind':46 'claim':48 'egyptian':23 'examin':52 'hous':9,31 'imprison':41 'invit':6 'king':2,51 'known':43 'last':18 'law':17 'lobbi':35 'may':13 'minion':12 'month':19 'obama':10 'order':33 'pete':50 'releas':38 'rep':1,49 'self':3 'sheik':47 'terror':27 'terrorist':5,42 'tie':25 'u.s':16 'violat':15 'welcom':21 'white':8,30</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/rep-king-self-avowed-terrorist-invited-to-white-house</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T15:48:46-04:00</date>
+          <id type="integer">16930023</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:08:03-04:00</created-at>
+          <title>Europe Wants &#8216;Tangible Evidence&#8217; of Hezbollah Terrorism Before Acting Against It</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...House Intelligence Committee chairman Rep. Mike Rogers (R-Mich.) and House Homeland Security Committee chairman Rep. Pete King (R-N.Y.) both told The Hill Wednesday they believe Iran and Hezbollah were involved. The Israeli government, hopeful that an a</excerpt>
+          <fti-names>'act':9 'believ':41 'chairman':15,27 'cnsnews.com':54 'committe':14,26 'europ':1 'evid':4 'govern':49 'hezbollah':6,44 'hill':38 'homeland':24 'hope':50 'hous':12,23 'intellig':13 'involv':46 'iran':42 'isra':48 'king':30 'mich':21 'mike':17 'n':33 'pete':29 'r':20,32 'r-mich':19 'r-n':31 'rep':16,28 'roger':18 'secur':25 'tangibl':3 'terror':7 'told':36 'want':2 'wednesday':39 'y':34</fti-names>
+          <source-url>http://www.cnsnews.com/</source-url>
+          <url>http://cnsnews.com/news/article/europe-wants-tangible-evidence-hezbollah-terrorism-acting-against-it</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922011</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNSNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Peter King [R, NY-3]</name>
+      <total-session-votes type="integer">1695</total-session-votes>
+      <sunlight-nickname>Pete</sunlight-nickname>
+      <youtube-id>RepPeterKing</youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:31-04:00</created-at>
+          <title>Conservative Corner 2008-2012: Romney leads Obama; UN Arms ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Pete King, current chairman of the House Homeland Security Committee, in a statement on Thursday. ... But, according to Rep. King, the U.S. investigators involved in his vetting either ignored Hani&amp;#39;s Facebook page or didn&amp;#39;t check it at all. On   Fa</excerpt>
+          <fti-names>'-2012':4 '2008':3 'accord':26 'arm':9 'chairman':13 'check':46 'committe':19 'conserv':1 'corner':2 'current':12 'didn':44 'either':37 'fa':51 'facebook':41 'hani':39 'homeland':17 'hous':16 'ignor':38 'investig':32 'involv':33 'karen':53 'king':11,29 'lead':6 'noreply@blogger.com':52 'obama':7 'page':42 'pete':10 'rep':28 'romney':5 'secur':18 'statement':22 'thursday':24 'u.s':31 'un':8 'vet':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://conservativecorner-karen.blogspot.com/2012/07/romney-leads-obama-un-arms-trade-treaty.html&amp;sa=U&amp;ei=tEsXUO_zF4n29gTY_ICgCg&amp;ved=0CEIQmAEwCQ&amp;usg=AFQjCNFhpAC40N-X8xspAzYlg4gUnEBnbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960843</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>noreply@blogger.com (Karen)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:29-04:00</created-at>
+          <title>Rep. King: Self avowed terrorist invited to White House | The Moral ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Obama administration minions may have violated U.S. law last month by welcoming an Egyptian with ties to terrorism to the White House ... say Rep. Pete King.</excerpt>
+          <fti-names>'admin':38 'administr':13 'avow':4 'egyptian':25 'hous':9,33 'invit':6 'king':2,37 'last':20 'law':19 'may':15 'minion':14 'month':21 'moral':11 'obama':12 'pete':36 'rep':1,35 'say':34 'self':3 'terror':29 'terrorist':5 'tie':27 'u.s':18 'violat':17 'welcom':23 'white':8,32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.themoralliberal.com/2012/07/30/rep-king-self-avowed-terrorist-invited-to-white-house/&amp;sa=U&amp;ei=tEsXUO_zF4n29gTY_ICgCg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNEtQXRczPDffUOPIznNCXW001t7LA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960833</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:28-04:00</created-at>
+          <title>Rep. King: Self avowed terrorist invited to White House &#8211; Common ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... Egyptian with ties to terrorism to the White House in order to lobby for the release of an imprisoned terrorist known as the Blind Sheik, claimed Rep. Pete King, current chairman of the House Homeland Security Committee, ...</excerpt>
+          <fti-names>'avow':4 'blind':34 'chairman':41 'claim':36 'committe':47 'common':10 'current':40 'dogzilla':48 'egyptian':11 'homeland':45 'hous':9,19,44 'imprison':29 'invit':6 'king':2,39 'known':31 'lobbi':23 'order':21 'pete':38 'releas':26 'rep':1,37 'secur':46 'self':3 'sheik':35 'terror':15 'terrorist':5,30 'tie':13 'white':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://commonamericanjournal.com/%3Fp%3D48264&amp;sa=U&amp;ei=tEsXUO_zF4n29gTY_ICgCg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNERbt29iYL3kyySSmZLnDO-5fSmfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16960831</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dogzilla</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:02:01-04:00</created-at>
+          <title>EU to Israel: As long as Hezbollah only attacks you Jews, we won&amp;#39;t ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Neither Bulgaria nor the U.S. have yet publicly assigned blame, although House Intelligence Committee chairman Rep. Mike Rogers (R-Mich.) and House Homeland Security Committee chairman Rep. Pete King (R-N.Y.) both ...</excerpt>
+          <fti-names>'ain':52 'although':25 'assign':23 'attack':9 'blame':24 'bulgaria':16 'chairman':29,41 'committe':28,40 'eu':1 'hezbollah':7 'homeland':38 'hous':26,37 'intellig':27 'israel':3 'jew':11 'king':44 'long':5 'mich':35 'mike':31 'n':47 'neither':15 'pete':43 'public':22 'r':34,46 'r-mich':33 'r-n':45 'rep':30,42 'roger':32 'say':50 'secur':39 'u.s':19 'won':13 'y':48 'yet':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://quitenormal.wordpress.com/2012/07/28/eu-to-israel-as-long-as-hezbollah-only-attacks-you-jews-we-wont-consider-them-terrorists/&amp;sa=U&amp;ei=XDEWUL26LJPU9ASCioHwDg&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNEmfopLL4UBimblAcSBnIF3xFVbFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Say It Ain't So</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:01:50-04:00</created-at>
+          <title>Rep. King: Self avowed terrorist invited to White House &#8211; Common ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... Egyptian with ties to terrorism to the White House in order to lobby for the release of an imprisoned terrorist known as the Blind Sheik, claimed Rep. Pete King, current chairman of the House Homeland Security Committee, ...</excerpt>
+          <fti-names>'avow':4 'blind':34 'chairman':41 'claim':36 'committe':47 'common':10 'current':40 'dogzilla':48 'egyptian':11 'homeland':45 'hous':9,19,44 'imprison':29 'invit':6 'king':2,39 'known':31 'lobbi':23 'order':21 'pete':38 'releas':26 'rep':1,37 'secur':46 'self':3 'sheik':35 'terror':15 'terrorist':5,30 'tie':13 'white':8,18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://commonamericanjournal.com/%3Fp%3D48264&amp;sa=U&amp;ei=XDEWUL26LJPU9ASCioHwDg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNGMv-vlgTOxA5WJ9yos6HjxSDG9fQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16948104</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dogzilla</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:06:31-04:00</created-at>
+          <title>EU to Israel: As long as Hezbollah only attacks you Jews, we won&amp;#39;t ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Neither Bulgaria nor the U.S. have yet publicly assigned blame, although House Intelligence Committee chairman Rep. Mike Rogers (R-Mich.) and House Homeland Security Committee chairman Rep. Pete King (R-N.Y.) both ...</excerpt>
+          <fti-names>'ain':52 'although':25 'assign':23 'attack':9 'blame':24 'bulgaria':16 'chairman':29,41 'committe':28,40 'eu':1 'hezbollah':7 'homeland':38 'hous':26,37 'intellig':27 'israel':3 'jew':11 'king':44 'long':5 'mich':35 'mike':31 'n':47 'neither':15 'pete':43 'public':22 'r':34,46 'r-mich':33 'r-n':45 'rep':30,42 'roger':32 'say':50 'secur':39 'u.s':19 'won':13 'y':48 'yet':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://quitenormal.wordpress.com/2012/07/28/eu-to-israel-as-long-as-hezbollah-only-attacks-you-jews-we-wont-consider-them-terrorists/&amp;sa=U&amp;ei=tEsXUO_zF4n29gTY_ICgCg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNHPECo9Xr5qTp3MZtDZ-ZGdjLCzRg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960837</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Say It Ain't So</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:02:03-04:00</created-at>
+          <title>Lawsuit and recall of Sen. John McCain has begun</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The following article was forwarded to me by my friend xxxxxxx, which analyzes the possible reasons for Senator McCain&amp;#39;s unjust attack on Representative Michele Bachman for her questioning why someone with strong family ties to the Muslim   Brotherhood</excerpt>
+          <fti-names>'american':49 'analyz':22 'articl':12 'attack':31 'bachman':35 'begun':9 'brotherhood':48 'famili':43 'follow':11 'forward':14 'friend':19 'gazett':51 'john':6 'lawsuit':1 'mccain':7,28 'michel':34 'muslim':47 'possibl':24 'post':50 'question':38 'reason':25 'recal':3 'repres':33 'sen':5 'senat':27 'someon':40 'strong':42 'tie':44 'unjust':30 'xxxxxxx':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sonoranalliance.com/2012/07/27/lawsuit-and-recall-of-sen-john-mccain-has-begun/&amp;sa=U&amp;ei=XDEWUL26LJPU9ASCioHwDg&amp;ved=0CDkQmAEwBw&amp;usg=AFQjCNEhI2teuH43Jc0lt1XInHZdScAuKg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16948111</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>American Post Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:01:59-04:00</created-at>
+          <title>Infidel Bloggers Alliance: EU Says It Doesn&amp;#39;t Have Enough &#8220;Tangible ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Neither Bulgaria nor the U.S. have yet publicly assigned blame, although House Intelligence Committee chairman Rep. Mike Rogers (R-Mich.) and House Homeland Security Committee chairman Rep. Pete King (R-N.Y.) both ...</excerpt>
+          <fti-names>'allianc':3 'although':22 'assign':20 'blame':21 'blogger':2 'bulgaria':13 'chairman':26,38 'committe':25,37 'doesn':7 'enough':10 'eu':4 'homeland':35 'hous':23,34 'infidel':1 'intellig':24 'king':41 'mich':32 'mike':28 'n':44 'neither':12 'pastorius':47 'pete':40 'public':19 'r':31,43 'r-mich':30 'r-n':42 'rep':27,39 'roger':29 'say':5 'secur':36 'tangibl':11 'u.s':16 'y':45 'yet':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ibloga.blogspot.com/2012/07/eu-says-it-doesnt-have-enough-tangible.html&amp;sa=U&amp;ei=XDEWUL26LJPU9ASCioHwDg&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNH54sg2JJ-OfgY2LBD7B3xCYFE_gQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16948107</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Pastorius</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:01:58-04:00</created-at>
+          <title>Blog @ MoreWhat.com &#187; A Terrorist in the White House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>White House visit by a terror-linked Egyptian pol violated federal law, Rep. Pete King tells Homeland Security Secretary Janet Napolitano Jul 26, 2012. Napolitano conceded that it &amp;#39;was a fair point to make,&amp;#39; but the Egyptian ...</excerpt>
+          <fti-names>'2012':33 '26':32 'blog':1 'conced':35 'egyptian':17,46 'fair':40 'feder':20 'homeland':26 'hous':8,10 'janet':29 'jul':31 'king':24 'law':21 'link':16 'make':43 'matthew':48 'morewhat.com':2 'napolitano':30,34 'pete':23 'point':41 'pol':18 'rep':22 'secretari':28 'secur':27 'stanford':47 'tell':25 'terror':15 'terror-link':14 'terrorist':4 'violat':19 'visit':11 'white':7,9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://morewhat.com/w30/a-terrorist-in-the-white-house/&amp;sa=U&amp;ei=XDEWUL26LJPU9ASCioHwDg&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNE1kr4cniVb8x0sjP9hOleAQSESRw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16948106</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stanford Matthews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400219</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:47:37-04:00</created-at>
+          <title>EU to Israel: As long as Hezbollah only attacks you Jews, we won&amp;#39;t ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Neither Bulgaria nor the U.S. have yet publicly assigned blame, although House Intelligence Committee chairman Rep. Mike Rogers (R-Mich.) and House Homeland Security Committee chairman Rep. Pete King (R-N.Y.) both ...</excerpt>
+          <fti-names>'ain':52 'although':25 'assign':23 'attack':9 'blame':24 'bulgaria':16 'chairman':29,41 'committe':28,40 'eu':1 'hezbollah':7 'homeland':38 'hous':26,37 'intellig':27 'israel':3 'jew':11 'king':44 'long':5 'mich':35 'mike':31 'n':47 'neither':15 'pete':43 'public':22 'r':34,46 'r-mich':33 'r-n':45 'rep':30,42 'roger':32 'say':50 'secur':39 'u.s':19 'won':13 'y':48 'yet':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://quitenormal.wordpress.com/2012/07/28/eu-to-israel-as-long-as-hezbollah-only-attacks-you-jews-we-wont-consider-them-terrorists/&amp;sa=U&amp;ei=UsAUUKKLGaqx6wHq54CwDg&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNF_MVfCQNYqIYooWxe6SYQiy4xXyw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930016</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Say It Ain't So</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27367</page-views-count>
+      <unaccented-name>Peter King</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

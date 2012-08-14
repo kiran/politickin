@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">90.9560723514212</party-votes-percentage>
+        <abstains-percentage type="float">2.0253164556962</abstains-percentage>
+        <votes-most-often-with-id type="integer">300072</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">34</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">76</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">84</cosponsored-bills-passed-rank>
+        <abstains type="integer">8</abstains>
+        <cosponsored-bills type="integer">217</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">17</party-votes-percentage-rank>
+        <sponsored-bills type="integer">22</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">400546</person-id>
+        <cosponsored-bills-rank type="integer">61</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">79</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">1</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">352</votes-republican-position>
+      <metavid-id>John_Thune</metavid-id>
+      <blog-article-count type="integer">13805</blog-article-count>
+      <user-approval type="float">4.59493670886076</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">203</oc-users-tracking>
+      <contact-webform>http://www.thune.senate.gov/public/index.cfm/contact</contact-webform>
+      <youtube-id>JohnThune</youtube-id>
+      <email nil="true"></email>
+      <bioguide-id>T000250</bioguide-id>
+      <with-party-percentage type="float">90.9560723514212</with-party-percentage>
+      <lastname>Thune</lastname>
+      <fax>202-228-5429</fax>
+      <congress-office>511 Dirksen Senate Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://www.thune.senate.gov/</website>
+      <birthday type="date">1961-01-07</birthday>
+      <person-id type="integer">400546</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-224-2321</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">167</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:29-04:00</created-at>
+          <title>Headache awaits Obama post election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...defense, and join with Congress in finding alternative savings that do not jeopardize our national security,&#8221; Republican Sen. John Thune, one of the bill&#8217;s sponsors, said last month. But during a congressional committee hearing last month, Obama&#8217;s</excerpt>
+          <fti-names>'altern':13 'await':2 'bill':29 'cnn':45 'committe':39 'congress':10 'congression':38 'defens':6 'elect':5 'find':12 'headach':1 'hear':40 'jeopard':18 'john':24 'join':8 'last':33,41 'month':34,42 'nation':20 'obama':3,43 'one':26 'post':4 'republican':22 'said':32 'save':14 'secur':21 'sen':23 'sponsor':31 'thune':25</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://whitehouse.blogs.cnn.com/2012/08/07/headache-awaits-obama-post-election/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973903</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:28-04:00</created-at>
+          <title>VP contender Portman to counter Obama Wednesday in Colorado</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...finishes his event, scheduled to begin at 1:15 p.m., at the Auraria Campus nearby. Portman comes to Colorado two days after Sen. John Thune, R-South Dakota, stumped here on Monday. Portman, who could help Romney carry the battleground state of Ohio, is </excerpt>
+          <fti-names>'1':17 '15':18 'auraria':22 'battleground':50 'begin':15 'campus':23 'carri':48 'colorado':9,28 'come':26 'contend':2 'could':45 'counter':5 'dakota':38 'day':30 'event':12 'finish':10 'help':46 'john':33 'kdvr.com':55 'monday':42 'nearbi':24 'obama':6 'ohio':53 'p.m':19 'portman':3,25,43 'r':36 'r-south':35 'romney':47 'schedul':13 'sen':32 'south':37 'state':51 'stump':39 'thune':34 'two':29 'vp':1 'wednesday':7</fti-names>
+          <source-url>http://kdvr.com/</source-url>
+          <url>http://kdvr.com/2012/08/07/vp-contender-portman-to-counter-obama-in-colorado/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973902</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KDVR.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:28-04:00</created-at>
+          <title>Pay No Attention To Our Glaring Contradiction</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...been good in terms of my state's economy and some of the jobs that come with it.&quot; Stokols points to a letter signed by Sen. John Thune this past February with other Senators strongly in favor of renewal of the wind production tax credit. As we've discus</excerpt>
+          <fti-names>'attent':3 'coloradopols.com':57 'come':23 'contradict':7 'credit':52 'discus':56 'economi':16 'favor':44 'februari':38 'glare':6 'good':9 'job':21 'john':34 'letter':30 'past':37 'pay':1 'point':27 'product':50 'renew':46 'sen':33 'senat':41 'sign':31 'state':14 'stokol':26 'strong':42 'tax':51 'term':11 'thune':35 've':55 'wind':49</fti-names>
+          <source-url>http://coloradopols.com/</source-url>
+          <url>http://www.coloradopols.com/diary/18259/pay-no-attention-to-our-glaring-contradiction</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973901</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ColoradoPols.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:23:09-04:00</created-at>
+          <title>Senate panel passes bill to block EU airline law</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The 19-member panel voted to approve an updated version of a bipartisan bill authored by Republican Senator John Thune and Democratic Senator Claire McCaskill. Thune called on the Senate to pass the bill immediately to apply more pressure on the ...</excerpt>
+          <fti-names>'19':11 'airlin':8 'appli':46 'approv':16 'author':24 'bill':4,23,43 'bipartisan':22 'block':6 'call':36 'clair':33 'democrat':31 'eu':7 'immedi':44 'john':28 'law':9 'mccaskil':34 'member':12 'nbcnews.com':51 'panel':2,13 'pass':3,41 'pressur':48 'republican':26 'senat':1,27,32,39 'thune':29,35 'updat':18 'version':19 'vote':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.msnbc.msn.com/id/48427384/ns/travel-news/t/senate-panel-passes-bill-block-eu-airline-law/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T18:15:32-04:00</date>
+          <id type="integer">16967997</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NBCNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:23:18-04:00</created-at>
+          <title>Senate panel votes to shield U.S. airlines from EU fees</title>
+          <contains-term>senate</contains-term>
+          <excerpt>&quot;I think the EU's unilateral imposition of this is unfair and it does violate American sovereignty,&quot; said Sen. John Thune (R-S.D.). The vote disappointed environmental groups. Annie Petsonk, international counsel at Environmental Defense Fund, calls the ..</excerpt>
+          <fti-names>'airlin':7 'american':26 'anni':41 'call':49 'counsel':44 'd':35 'defens':47 'disappoint':38 'environment':39,46 'eu':9,14 'fee':10 'fund':48 'group':40 'imposit':17 'intern':43 'john':30 'panel':2 'petsonk':42 'r':33 'r-s':32 'said':28 'sen':29 'senat':1 'shield':5 'sovereignti':27 'think':12 'thune':31 'today':52 'u.s':6 'unfair':21 'unilater':16 'usa':51 'violat':25 'vote':3,37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://travel.usatoday.com/flights/post/2012/07/a-senate-panel-voted-tuesday-to-prevent-/815798/1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T17:25:25-04:00</date>
+          <id type="integer">16967999</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>USA Today</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:23:49-04:00</created-at>
+          <title>John McCain Responds To Dick Cheney's Sarah Palin Criticism</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Huge respect 4 all she's done 4 GOP.&quot; Who: Sen. Jon Thune (R-S.D.) The Buzz: Thune, &lt;a href=&quot;http://www.huffingtonpost.com/2011/02/22/john-thune-2012-not-running-for-president_n_826582.html&quot; target=&quot;_hplink ...</excerpt>
+          <fti-names>'/2011/02/22/john-thune-2012-not-running-for-president_n_826582.html':35 '4':13,18 'buzz':29 'cheney':6 'critic':10 'd':27 'dick':5 'done':17 'gop':19 'hplink':37 'href':32 'huffington':38 'huge':11 'john':1 'jon':22 'mccain':2 'palin':9 'post':39 'r':25 'r-s':24 'respect':12 'respond':3 'sarah':8 'sen':21 'target':36 'thune':23,30 'www.huffingtonpost.com':34 'www.huffingtonpost.com/2011/02/22/john-thune-2012-not-running-for-president_n_826582.html':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/30/john-mccain-dick-cheney-sarah-palin_n_1718706.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T13:01:45-04:00</date>
+          <id type="integer">16963103</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:35:17-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Mike Lee is one of the most conservative members of the Senate. The freshman Utah Republican was elected with strong Tea Party backing and, like Sen. John Thune of South Dakota, he's a man of the West. Mention the possibility that Thune ...</excerpt>
+          <fti-names>'back':32 'conserv':17 'dakota':40 'elect':27 'freshman':23 'john':36 'lee':11 'like':34 'man':44 'member':18 'mention':48 'mike':10 'news':54 'npr':53 'one':13 'parti':31 'possibl':50 'republican':25 'right':6 'romney':9 'sen':2,35 'senat':21 'south':39 'strong':29 'stuff':7 'tea':30 'thune':3,37,52 'utah':24 'west':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.npr.org/2012/07/29/157506548/does-sen-thune-have-the-right-stuff-for-romney?ft=1&amp;f=1003</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T06:14:55-04:00</date>
+          <id type="integer">16933426</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NPR News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:54:42-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Mike Lee is one of the most conservative members of the Senate. The freshman Utah Republican was elected with strong Tea Party backing and, like Sen. John Thune of South Dakota, he's a man of the West. Mention the possibility that Thune, 51, might team up </excerpt>
+          <fti-names>'51':53 'back':32 'conserv':17 'dakota':40 'elect':27 'freshman':23 'john':36 'lee':11 'like':34 'man':44 'member':18 'mention':48 'might':54 'mike':10 'news':58 'npr':57 'one':13 'parti':31 'possibl':50 'republican':25 'right':6 'romney':9 'sen':2,35 'senat':21 'south':39 'strong':29 'stuff':7 'tea':30 'team':55 'thune':3,37,52 'utah':24 'west':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.npr.org/2012/07/29/157506548/does-sen-thune-have-the-right-stuff-for-romney</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T05:53:26-04:00</date>
+          <id type="integer">16953015</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NPR News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:24:39-04:00</created-at>
+          <title>John Thune Makes Case For Romney, But VP Chances Still Slim</title>
+          <contains-term>republican</contains-term>
+          <excerpt>John Thune could be Mitt Romney&#8216;s VP choice, and Mike Lee, one of the most conservative members of the Senate, is pulling for him. NPR reports that, should you mention Thune&#8217;s name around the freshman Utah Republican, his eyes light up, and he states: </excerpt>
+          <fti-names>'around':46 'case':4 'chanc':9 'choic':20 'conserv':28 'could':14 'eye':52 'freshman':48 'inquisitr':59 'john':1,12 'lee':23 'light':53 'make':3 'member':29 'mention':42 'mike':22 'mitt':16 'name':45 'npr':37 'one':24 'pull':34 'report':38 'republican':50 'romney':6,17 'senat':32 'slim':11 'state':57 'still':10 'thune':2,13,43 'utah':49 'vp':8,19</fti-names>
+          <source-url>http://www.inquisitr.com/</source-url>
+          <url>http://feedproxy.google.com/~r/Inquisitr/~3/PmJ-J3bF6w4/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16963108</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Inquisitr</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:36:29-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...conservative members of the Senate. The freshman Utah Republican was elected with strong Tea Party backing and, like Sen. John Thune of South Dakota, he's a man of the West. Mention the possibility that Thune, 51, might team up with Republican president</excerpt>
+          <fti-names>'51':46 'back':25 'broadcast':55 'conserv':10 'dakota':33 'elect':20 'freshman':16 'georgia':53 'john':29 'like':27 'man':37 'member':11 'mention':41 'might':47 'parti':24 'possibl':43 'presid':52 'public':54 'republican':18,51 'right':6 'romney':9 'sen':2,28 'senat':14 'south':32 'strong':22 'stuff':7 'tea':23 'team':48 'thune':3,30,45 'utah':17 'west':40</fti-names>
+          <source-url>http://www.gpb.org/</source-url>
+          <url>http://feedproxy.google.com/~r/GPBNewsFeed/~3/oE53n8K5JNc/does-sen-thune-have-the-right-stuff-for-romney</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16933454</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Georgia Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. John Thune [R, SD]</name>
+      <total-session-votes type="integer">387</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:16-04:00</created-at>
+          <title>Ranchers Seek Better Communication On Wildfires - KDLT</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. John Thune on Friday visited with firefighters and ranchers in the Edgemont area of southwest South Dakota, where a blaze scorched nearly 14 square miles of grasslands and timber, primarily on National Forest lands.</excerpt>
+          <fti-names>'/index.php?option=com_content&amp;task=blogcategory&amp;id=1&amp;itemid=57':45 '14':31 'area':21 'better':3 'blaze':28 'communic':4 'dakota':25 'edgemont':20 'firefight':15 'forest':41 'friday':12 'grassland':35 'john':9 'kdlt':7 'land':42 'mile':33 'nation':40 'near':30 'primarili':38 'rancher':1,17 'scorch':29 'seek':2 'sen':8 'south':24 'southwest':23 'squar':32 'thune':10 'timber':37 'visit':13 'wildfir':6 'www.kdlt.com':44 'www.kdlt.com/index.php?option=com_content&amp;task=blogcategory&amp;id=1&amp;itemid=57':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kdlt.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D18774%26Itemid%3D57&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNELF4SJT2WDiX2uJX_xeh8cbti7xw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16427568</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.kdlt.com/index.php?option=com_content&amp;task=blogcategory&amp;id=1&amp;Itemid=57</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:14-04:00</created-at>
+          <title>Many Americans Are &amp;#39;Dying&amp;#39; Under The Tyranny That Is Obamacare ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Appearing on Hugh Hewitt&amp;#39;s conservative radio show on Tuesday, Sen. John Thune made it clear that he will &#8220;kickstart&#8221; the repeal Obamacare process, after Hewitt (his boss) demanded that republicans move quickly to end ...</excerpt>
+          <fti-names>'american':2 'appear':11 'boss':38 'clear':26 'conserv':16 'demand':39 'die':4 'end':45 'francoi':47 'hewitt':14,36 'hugh':13 'john':22 'kickstart':30 'made':24 'mani':1 'move':42 'obamacar':10,33 'process':34 'quick':43 'radio':17 'repeal':32 'republican':41 'sen':21 'serg':46 'show':18 'thune':23 'tuesday':20 'tyranni':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://toxichominid.com/2012/07/05/many-americans-are-dying-under-the-tyranny-that-is-obamacare-says-john-thune/&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEEGYctdo7Hn3E85h9JrwNOyklz8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16427566</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Serge Francois</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:20-04:00</created-at>
+          <title>Dependable Renegade: Happy Hour News Briefs</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Dumb and dumber - The notable bright and shining intellect that is South Dakota&amp;#39;s (should that place actually exist) Sen. John Thune agrees with Hugh Hewlitt that people are already dying under Obamacare. It should be ...</excerpt>
+          <fti-names>'actual':24 'agre':29 'alreadi':36 'brief':6 'bright':12 'dakota':19 'depend':1 'die':37 'dumb':7 'dumber':9 'exist':25 'happi':3 'hewlitt':32 'hour':4 'hugh':31 'intellect':15 'john':27 'news':5 'notabl':11 'obamacar':39 'peopl':34 'place':23 'renegad':2 'sen':26 'shine':14 'south':18 'tengrain':43 'thune':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dependablerenegade.com/dependable_renegade/2012/07/happy-hour.html&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CFMQmAEwDA&amp;usg=AFQjCNFyBczD8QLCecO5d4eAp0lAlmoQTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16427574</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tengrain</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:19-04:00</created-at>
+          <title>Minority leader: Odds long to undo health care law</title>
+          <contains-term>senate</contains-term>
+          <excerpt>In this June 26, 2012 photo, Senate Minority Leader Mitch McConnell, of Ky., center, accompanied by Sen. John Cornyn, R-Texas, left, and Sen. John Thune, R-S.D., speaks to reporters outside the Senate. (AP Photo/J. Scott ...</excerpt>
+          <fti-names>'/subindex/news/national':52 '2012':14 '26':13 'accompani':24 'ap':47 'care':8 'center':23 'cornyn':28 'd':40 'health':7 'john':27,35 'june':12 'ky':22 'law':9 'leader':2,18 'left':32 'long':4 'mcconnel':20 'minor':1,17 'mitch':19 'odd':3 'outsid':44 'photo':15 'photo/j':48 'r':30,38 'r-s':37 'r-texa':29 'report':43 'scott':49 'sen':26,34 'senat':16,46 'speak':41 'texa':31 'thune':36 'undo':6 'www.wishtv.com':51 'www.wishtv.com/subindex/news/national':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wishtv.com/dpps/news/politics/congress/minority-leader-says-odds-long-to-undo-health-care-law-nt12-jgr_4226550&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNGgitVw-Ngqw_yXP8THJWpHAyAovg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-04T01:00:00-04:00</date>
+          <id type="integer">16427572</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wishtv.com/subindex/news/national</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:20-04:00</created-at>
+          <title>Minority leader: Odds long to undo health care law | Online Athens</title>
+          <contains-term>senate</contains-term>
+          <excerpt>In this June 26, 2012 file photo, Senate Minority Leader Mitch McConnell, of Ky., center, accompanied by Sen. John Cornyn, R-Texas, left, and Sen. John Thune, R-S.D., speaks to reporters outside the Senate, on Capitol Hill ...</excerpt>
+          <fti-names>'2012':16 '26':15 'accompani':27 'associ':53 'athen':11 'capitol':51 'care':8 'center':26 'cornyn':31 'd':43 'file':17 'health':7 'hill':52 'john':30,38 'june':14 'ky':25 'law':9 'leader':2,21 'left':35 'long':4 'mcconnel':23 'minor':1,20 'mitch':22 'odd':3 'onlin':10 'outsid':47 'photo':18 'press':54 'r':33,41 'r-s':40 'r-texa':32 'report':46 'sen':29,37 'senat':19,49 'speak':44 'texa':34 'thune':39 'undo':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://onlineathens.com/national-news/2012-07-02/minority-leader-odds-long-undo-health-care-law&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNEfqdF0YZg0OyHsBt-9nw0jk08xew</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16427573</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:18-04:00</created-at>
+          <title>GOP: Voters Will Have Final Say On Health Care Law - Vos Iz Neias</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Senate Minority Leader Mitch McConnell of Ky., center, accompanied by Sen. John Cornyn, R-Texas, left, and Sen. John Thune, R-S.D., speaks to reporters outside the Senate, on Capitol Hill in Washington, Tuesday, June 26, ...</excerpt>
+          <fti-names>'26':52 'accompani':22 'capitol':46 'care':9 'center':21 'cornyn':26 'd':38 'final':5 'gop':1 'health':8 'hill':47 'iz':12 'john':25,33 'june':51 'ky':20 'law':10 'leader':16 'left':30 'mcconnel':18 'minor':15 'mitch':17 'neia':13 'outsid':42 'r':28,36 'r-s':35 'r-texa':27 'report':41 'say':6 'sen':24,32 'senat':14,44 'speak':39 'texa':29 'thune':34 'tuesday':50 'vinnew':53 'vos':11 'voter':2 'washington':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.vosizneias.com/109062/2012/07/01/washington-gop-voters-will-have-final-say-on-health-care-law/&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNHtiRuRJ1mBb9iqStW8-Opi_NRiug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16427571</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>vinnews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:09-04:00</created-at>
+          <title>Sen. John Thune &amp;#39;On the Record&amp;#39; &#171; Gretawire</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Check out our interview from tonight&amp;#39;s show and join the debate on the Supreme Court and Pres. Obama&amp;#39;s national health care reform law!</excerpt>
+          <fti-names>'care':30 'check':8 'court':23 'debat':19 'greta':33 'gretawir':7 'health':29 'interview':11 'john':2 'join':17 'law':32 'nation':28 'obama':26 'pres':25 'record':6 'reform':31 'sen':1 'show':15 'suprem':22 'susteren':35 'thune':3 'tonight':13 'van':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gretawire.foxnewsinsider.com/video/sen-john-thune-on-the-record-6/&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNGyVvm0KfgfzmbatvtrVrqugfiYSw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16427565</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Greta Van Susteren</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:16-04:00</created-at>
+          <title>John Thune On Being Mitt Romney&amp;#39;s VP: &amp;#39;I Don&amp;#39;t Think You Ever ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>WASHINGTON -- Sen. John Thune (R-S.D.) on Tuesday ducked questions about whether he has been talking to Mitt Romney about being the candidate&amp;#39;s vice president, though he did not rule out the possibility of taking the ...</excerpt>
+          <fti-names>'candid':39 'd':22 'duck':25 'editor':58 'ever':14 'huffington':55 'john':1,17 'mitt':5,34 'news':57 'possibl':50 'post':56 'presid':42 'question':26 'r':20 'r-s':19 'romney':6,35 'rule':47 'sen':16 'take':52 'talk':32 'think':12 'though':43 'thune':2,18 'tuesday':24 'vice':41 'vp':8 'washington':15 'whether':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/06/26/john-thune-mitt-romney-vice-president_n_1628428.html&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNHvAQiWM6eKJSdN9OxgSi8got4Qng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16427569</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:15-04:00</created-at>
+          <title>John Thune Eyes Rise in Ranks : Roll Call News</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. John Thune may have just been elected Senate Republican Conference chairman in January, but he is still eyeing a move up the leadership ladder this year with either a run for Whip or for National Republican ...</excerpt>
+          <fti-names>'call':8 'chairman':21 'confer':20 'either':38 'elect':17 'eye':3,28 'humberto':48 'humbertosanchez@cqrollcall.com':47 'januari':23 'john':1,11 'ladder':34 'leadership':33 'may':13 'move':30 'nation':45 'news':9 'rank':6 'republican':19,46 'rise':4 'roll':7 'run':40 'sanchez':49 'sen':10 'senat':18 'still':27 'thune':2,12 'whip':42 'year':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rollcall.com/issues/57_140/John-Thune-Eyes-Rise-In-Ranks-214767-1.html&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGnZNABk7Cx3rOYmc0a9EExfmGTpA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-22T01:00:00-04:00</date>
+          <id type="integer">16427567</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>HumbertoSanchez@cqrollcall.com (Humberto Sanchez)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400546</commentariable-id>
+          <created-at type="datetime">2012-07-07T03:51:17-04:00</created-at>
+          <title>Sen. John Thune Speaks About Romney&amp;#39;s Stance on Marriage and ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator John Thune (R-SD) joined Fox News Sunday to speak out about a range of issues from gay marriage to the possibility of running with Mitt Romney. Regarding Romney&amp;#39;s stance on gay marriage, Thune said, &#8220;I think ...</excerpt>
+          <fti-names>'fox':19,52 'gay':31,46 'issu':29 'john':2,13 'join':18 'marriag':10,32,47 'mitt':39 'news':20,53 'possibl':35 'r':16 'r-sd':15 'rang':27 'regard':41 'romney':6,40,42 'run':37 'said':49 'sd':17 'sen':1 'senat':12 'speak':4,23 'stanc':8,44 'sunday':21,54 'think':51 'thune':3,14,48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://foxnewsinsider.com/2012/05/13/fox-news-sunday-guest-sen-john-thune/&amp;sa=U&amp;ei=ber3T_LrDpTq2wXgi_3tBg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNFIoSYbRkAJnR0d-UBhcOu3E7IAGQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-13T01:00:00-04:00</date>
+          <id type="integer">16427570</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Fox News Sunday</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">36012</page-views-count>
+      <unaccented-name>John Thune</unaccented-name>
+      <oc-user-comments type="integer">11</oc-user-comments>
+    </person>
+  </people>
+</hash>

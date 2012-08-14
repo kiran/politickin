@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.6484131922838</party-votes-percentage>
+        <abstains-percentage type="float">6.51541593949971</abstains-percentage>
+        <votes-most-often-with-id type="integer">412464</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">21</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">417</cosponsored-bills-passed-rank>
+        <abstains type="integer">112</abstains>
+        <cosponsored-bills type="integer">145</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">158</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400392</person-id>
+        <cosponsored-bills-rank type="integer">397</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">296</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1521</votes-republican-position>
+      <blog-article-count type="integer">7592</blog-article-count>
+      <fax>202-225-9187</fax>
+      <user-approval type="float">2.33333333333333</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">150</oc-users-tracking>
+      <contact-webform>http://sullivan.house.gov/zipauth.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.6484131922838</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Sullivan</lastname>
+      <congress-office>434 Cannon House Office Building</congress-office>
+      <middlename>A.</middlename>
+      <firstname>John</firstname>
+      <website>http://sullivan.house.gov</website>
+      <birthday type="date">1965-01-01</birthday>
+      <bioguide-id>S001155</bioguide-id>
+      <person-id type="integer">400392</person-id>
+      <phone>202-225-2211</phone>
+      <religion>Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">360</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:57:22-04:00</created-at>
+          <title>National Republican figure to hold fundraiser for Bridenstine</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...take place at the Hilton Tulsa Southern Hills and is being hosted by all six Oklahoma Republicans in Congress, including Rep. John Sullivan. Bridenstine defeated Sullivan in the June 26 Republican primary for the seat. Ticketing information is available</excerpt>
+          <fti-names>'26':38 'avail':47 'bridenstin':8,32 'congress':27 'defeat':33 'figur':3 'fundrais':6 'hill':16 'hilton':13 'hold':5 'host':20 'includ':28 'inform':45 'john':30 'june':37 'nation':1 'oklahoma':24 'place':10 'primari':40 'rep':29 'republican':2,25,39 'seat':43 'six':23 'southern':15 'sullivan':31,34 'take':9 'ticket':44 'tulsa':14,48 'world':49</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120807_336_0_USHous519397&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973602</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:06:14-04:00</created-at>
+          <title>Mental exam for man: Allegedly threatened US rep.</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...magistrate judge has ordered a mental competency examination for a Skiatook man who allegedly threated Republican U.S. Rep. John Sullivan of Tulsa. The exam for 52-year-old Wayne Franklin Miles was ordered during a hearing Monday in U.S. District Court </excerpt>
+          <fti-names>'52':34 'alleg':5,22 'chronicl':53 'compet':15 'court':50 'district':49 'exam':2,32 'examin':16 'francisco':52 'franklin':39 'hear':45 'john':27 'judg':10 'magistr':9 'man':4,20 'mental':1,14 'mile':40 'monday':46 'old':37 'order':12,42 'rep':8,26 'republican':24 'san':51 'skiatook':19 'sullivan':28 'threat':23 'threaten':6 'tulsa':30 'u.s':25,48 'us':7 'wayn':38 'year':36 'year-old':35</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Mental-exam-for-man-Allegedly-threatened-US-rep-3766862.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973005</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:06:08-04:00</created-at>
+          <title>Romney and the &#8216;Missing Evidence&#8221; Instruction (Sullivan)</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in Indiana next week. If you are a Republican and you are campaigning in Indiana in August, you are in trouble. _________ John Sullivan is an Indianapolis attorney who has been active in politics since 1968. He is a former Chairperson of the Indiana Rec</excerpt>
+          <fti-names>'1968':42 'activ':38 'attorney':34 'august':24 'campaign':20 'chairperson':47 'comment':53 'evid':5 'former':46 'indiana':9,22,50 'indianapoli':33 'inform':52 'instruct':6 'john':29 'miss':4 'next':10 'polit':40 'rec':51 'republican':16 'romney':1 'sinc':41 'sullivan':7,30 'troubl':28 'week':11</fti-names>
+          <source-url>http://www.juancole.com/</source-url>
+          <url>http://www.juancole.com/2012/08/romney-and-the-missing-evidence-instruction-sullivan.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972273</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Informed Comment</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:15:40-04:00</created-at>
+          <title>Letter to the Editor: Fascinating</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...July 22 column, &#8220;How about the facts?&#8221; This was a discussion about opponents of the Affordable Care Act, in particular Rep. John Sullivan&#8217;s &#8220;dubious&#8221; use of a survey by a group called Doctor-Patient Medical Association. Averill used an email p</excerpt>
+          <fti-names>'22':7 'act':23 'afford':21 'associ':43 'averil':44 'call':38 'care':22 'column':8 'discuss':16 'doctor':40 'doctor-pati':39 'dubious':30 'editor':4 'email':47 'fact':12 'fascin':5 'group':37 'john':27 'juli':6 'letter':1 'medic':42 'oppon':18 'p':48 'particular':25 'patient':41 'rep':26 'sullivan':28 'survey':34 'tulsa':49 'use':31,45 'world':50</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120803_62_A18_Iwasfa976787&amp;rss_lnk=7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971855</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:34:16-04:00</created-at>
+          <title>Investigation continues into threats against congressman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...continue to investigate the man who is accused of making threats against U.S. Rep. John Sullivan, R-Okla., but authorities said Thursday that they don&#8217;t think anyone else was involved. Wayne Franklin Miles, 52, of Skiatook, faces a federal complaint o</excerpt>
+          <fti-names>'52':42 'accus':14 'anyon':35 'author':27 'complaint':48 'congressman':6 'continu':2,7 'els':36 'face':45 'feder':47 'franklin':40 'investig':1,9 'involv':38 'john':21 'make':16 'man':11 'mile':41 'o':49 'okla':25 'r':24 'r-okla':23 'rep':20 'said':28 'skiatook':44 'sullivan':22 'think':34 'threat':4,17 'thursday':29 'tulsa':50 'u.s':19 'wayn':39 'world':51</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120802_11_0_Offici917896&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970994</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:34:17-04:00</created-at>
+          <title>Man accused of threatening Oklahoma congressman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Okla. (AP) &#8212; Federal prosecutors have filed a complaint against a Skiatook man who allegedly threatened U.S. Rep. John Sullivan . The Tulsa World ( http://bit.ly/ OGCXX4 ) reports that court documents released Wednesday indicate Wayne Miles went to Sk</excerpt>
+          <fti-names>'accus':2 'alleg':20 'ap':8 'bit.ly':29 'chronicl':45 'complaint':14 'congressman':6 'court':33 'document':34 'feder':9 'file':12 'francisco':44 'indic':37 'john':24 'man':1,18 'mile':39 'ogcxx4':30 'okla':7 'oklahoma':5 'prosecutor':10 'releas':35 'rep':23 'report':31 'san':43 'sk':42 'skiatook':17 'sullivan':25 'threaten':4,21 'tulsa':27 'u.s':22 'wayn':38 'wednesday':36 'went':40 'world':28</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Man-accused-of-threatening-Oklahoma-congressman-3756506.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970995</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:34:08-04:00</created-at>
+          <title>Skiatook man arrested on alleged threats against congressman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...&#8212; A man remains in custody after police say he entered the Skiatook police station and threatened to kill U.S. Rep. John Sullivan. Wayne Franklin Miles, 52, entered the police station at 11:50 p.m. July 22, an administrative assistant to Tulsa County </excerpt>
+          <fti-names>'11':40 '22':44 '50':41 '52':34 'administr':46 'alleg':5 'arrest':3 'assist':47 'congressman':8 'counti':50 'custodi':13 'enter':18,35 'franklin':32 'john':29 'juli':43 'kill':26 'man':2,10 'mile':33 'p.m':42 'polic':15,21,37 'remain':11 'rep':28 'say':16 'skiatook':1,20 'station':22,38 'sullivan':30 'threat':6 'threaten':24 'tulsa':49,51 'u.s':27 'wayn':31 'world':52</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120801_11_0_SKIATO988658&amp;rss_lnk=11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970993</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:27-04:00</created-at>
+          <title>Dems dominate race for cash</title>
+          <contains-term>republican</contains-term>
+          <excerpt>John Sullivan, D-Rushville, received $5,000 from Uihlein ... According to the House Republicans, U.S. Rep. Aaron Schock approached Leader Cross last year about starting a similar program to the federal Young Guns effort. Cross agreed, and ...</excerpt>
+          <fti-names>'000':13 '5':12 'aaron':23 'accord':16 'agre':42 'approach':25 'cash':5 'cross':27,41 'd':9 'd-rushvill':8 'daili':46 'dem':1 'domin':2 'effort':40 'feder':37 'gazett':47 'gun':39 'hous':19 'john':6 'last':28 'leader':26 'program':34 'race':3 'receiv':11 'rep':22 'republican':20 'rushvill':10 'sauk':44 'schock':24 'similar':33 'start':31 'sullivan':7 'u.s':21 'uihlein':15 'valley':45 'year':29 'young':38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.saukvalley.com/2012/07/30/dems-dominate-race-for-cash/c2gjvrk/?__xsl=/print.xsl</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:47:41-04:00</date>
+          <id type="integer">16967317</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sauk Valley Daily Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:31-04:00</created-at>
+          <title>CAPITOL FACTS: Democrats way ahead in money race</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...filing period began on April 1. The Uihlein list reads like a &quot;Who's Who&quot; of hot campaigns. Randy Frese, who is up against Sen. John Sullivan (D-Rushville), received $5,000 from Uihlein. Frese raised an impressive $111K during the quarter, and had $127K</excerpt>
+          <fti-names>'000':41 '1':14 '111k':48 '127k':54 '5':40 'ahead':5 'april':13 'began':11 'campaign':26 'capitol':1 'd':37 'd-rushvill':36 'democrat':3 'fact':2 'file':9 'frese':28,44 'hot':25 'impress':47 'john':34 'like':19 'list':17 'money':7 'period':10 'quarter':51 'race':8 'rais':45 'randi':27 'read':18 'receiv':39 'rushvill':38 'sen':33 'sullivan':35 'time':56 'uihlein':16,43 'way':4</fti-names>
+          <source-url>http://www.mywebtimes.com/index.php</source-url>
+          <url>http://www.mywebtimes.com/archives/ottawa/display.php?id=459997</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967318</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:37:41-04:00</created-at>
+          <title>Governor Quinn signs new laws to protect Illinois seniors</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Senate Bill 3171, sponsored by Sen. John Sullivan (D-Quincy) and Rep. Dan Brady (R-Bloomington), brings Illinois law into compliance with federal law regarding the release of health records of the deceased. The new legislation allows the executor of the ..</excerpt>
+          <fti-names>'3171':12 'allow':48 'bill':11 'bloomington':27 'bradi':24 'bring':28 'complianc':32 'd':19 'd-quinci':18 'dan':23 'deceas':44 'examin':53 'executor':50 'feder':34 'governor':1 'health':40 'illinoi':8,29 'john':16 'law':5,30,35 'legisl':47 'new':4,46 'protect':7 'quinci':20 'quinn':2 'r':26 'r-bloomington':25 'record':41 'regard':36 'releas':38 'rep':22 'sen':15 'senat':10 'senior':9 'sign':3 'sponsor':13 'sullivan':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/governor-quinn-signs-new-laws-to-protect-illinois-seniors</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T13:17:15-04:00</date>
+          <id type="integer">16950595</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>John_Sullivan</metavid-id>
+      <name>Rep. John Sullivan [R, OK-1]</name>
+      <total-session-votes type="integer">1607</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:34:29-04:00</created-at>
+          <title>Why is One Term Obama attacking the Wrong Mormon? : Taxes</title>
+          <contains-term>senate</contains-term>
+          <excerpt>SOURCE: The U.S. Senate Web Site that Obama has not read. Or is playing Morons for Stupid H.R. 2401, Transparency In Regulatory Analysis Of Impacts On The Nation &#8226; Introduced by Rep. John Sullivan (OK) on June 24, ...</excerpt>
+          <fti-names>'24':47 '2401':29 'abisha44':48 'analysi':33 'attack':6 'h.r':28 'impact':35 'introduc':39 'john':42 'june':46 'mormon':9 'moron':25 'nation':38 'obama':5,18 'ok':44 'one':3 'play':24 'read':21 'regulatori':32 'rep':41 'senat':14 'site':16 'sourc':11 'stupid':27 'sullivan':43 'tax':10 'term':4 'transpar':30 'u.s':13 'web':15 'wrong':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.debtordebt.com/forum/why-is-one-term-obama-attacking-the-wrong-mormon-t148136.html&amp;sa=U&amp;ei=NGMWUK-5BqLa0QH50oHICA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHDjud4jD1BeBzieFT5BI1U9oaaCg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950569</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>abisha44</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:55:51-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=39sQUKmnJYjm9ASnkoGACQ&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNFLu2RFuQLdLHf8P2qpOYLGnObacg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860858</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-12T00:58:05-04:00</created-at>
+          <title>End the Obamacare tax on religion! | CatholicVote.org</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Paul Ryan [R-WI1]. 48. Rep. Robert &#8220;Bobby&#8221; Schilling [R-IL17]. 49. Rep. Jean Schmidt [R-OH2]. 50. Rep. Peter &#8220;Pete&#8221; Sessions [R-TX32]. 51. Rep. John Shimkus [R-IL19]. 52. Rep. John Sullivan [R-OK1]. 53. Rep.</excerpt>
+          <fti-names>'48':14 '49':22 '50':29 '51':37 '52':44 '53':51 'bobbi':17 'catholicvot':53 'catholicvote.org':7 'end':1 'il17':21 'il19':43 'jean':24 'john':39,46 'obamacar':3 'oh2':28 'ok1':50 'paul':9 'pete':32 'peter':31 'r':12,20,27,35,42,49 'r-il17':19 'r-il19':41 'r-oh2':26 'r-ok1':48 'r-tx32':34 'r-wi1':11 'religion':6 'rep':8,15,23,30,38,45,52 'robert':16 'ryan':10 'schill':18 'schmidt':25 'session':33 'shimkus':40 'sullivan':47 'tax':4 'tx32':36 'wi1':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.catholicvote.org/discuss/index.php%3Fp%3D32854&amp;sa=U&amp;ei=UFn-T9mjKenO2gW1t_3CBA&amp;ved=0CE0QmAEwCw&amp;usg=AFQjCNEk80p8WEWaHJb6GYL16IguOYbpWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16553973</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CatholicVote</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:36:35-04:00</created-at>
+          <title>Sixteen House GOP Freshmen Forget Principles in Support of Wind ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>As Tom Pyle of the Institute for Energy Research notes in a post here, the sixteen freshmen Republicans would be well advised to consider the defeat of Rep. John Sullivan (R-Okla.) in the June 26 Republican primary election ...</excerpt>
+          <fti-names>'26':47 'advis':32 'consid':34 'defeat':36 'editor':51 'elect':50 'energi':18 'forget':5 'freshmen':4,27 'gop':3 'hous':2 'institut':16 'john':39 'june':46 'note':20 'okla':43 'post':23 'primari':49 'principl':6 'pyle':13 'r':42 'r-okla':41 'rep':38 'republican':28,48 'research':19 'sixteen':1,26 'sullivan':40 'support':8 'tom':12 'well':31 'wind':10 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://junkscience.com/2012/07/10/sixteen-house-gop-freshmen-forget-principles-in-support-of-wind-subsidies/&amp;sa=U&amp;ei=wPT8T7TFMqOe2wXYo4zoBg&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNGFil6zlJhB0OiJm9hHYlFjiCFd-A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16522234</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-07T00:57:30-04:00</created-at>
+          <title>All Eyes on Oklahoma</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Last Tuesday, Congressman John Sullivan of Oklahoma lost his electoral primary to a man named Jim Bridestine. Mr. Bridestine is now heavily favored to win in November and become Oklahoma&amp;#39;s newest Congressman.</excerpt>
+          <fti-names>'becom':33 'bridestin':21,23 'congressman':7,37 'elector':14 'eye':2 'favor':27 'heavili':26 'jim':20 'john':8 'last':5 'lost':12 'm':39 'man':18 'max':38 'mr':22 'name':19 'newest':36 'novemb':31 'oklahoma':4,11,34 'primari':15 'sullivan':9 'tuesday':6 'win':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://westreferenceattorneys.com/2012/07/all-eyes-on-oklahoma/&amp;sa=U&amp;ei=n8H3T9qAG4Ti2gXL7vn-Bg&amp;ved=0CFIQmAEwDA&amp;usg=AFQjCNEvfH04GuWmv4S5cdQP7GSxGttIKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16426420</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max M.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-07T00:57:25-04:00</created-at>
+          <title>Most incumbents survive primary scare on June 26 But Bridenstine ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Most incumbents survive primary scare on June 26 But Bridenstine defeats Sullivan. Lt. Cmdr. Jim Bridenstine easily swept past Rep. John Sullivan in the First District GOP primary while other incumbent politicians escaped ...</excerpt>
+          <fti-names>'26':8,18 'admin':44 'bridenstin':10,20,26 'cmdr':24 'defeat':21 'district':36 'easili':27 'escap':43 'first':35 'gop':37 'incumb':2,12,41 'jim':25 'john':31 'june':7,17 'lt':23 'past':29 'politician':42 'primari':4,14,38 'rep':30 'scare':5,15 'sullivan':22,32 'surviv':3,13 'swept':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.tulsabeacon.com/%3Fp%3D6086&amp;sa=U&amp;ei=n8H3T9qAG4Ti2gXL7vn-Bg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNFDux_nUWIoPp--dBYMcyBDzuKRCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16426417</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-06T05:01:54-04:00</created-at>
+          <title>All Eyes on Oklahoma</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Last Tuesday, Congressman John Sullivan of Oklahoma lost his electoral primary to a man named Jim Bridestine. Mr. Bridestine is now heavily favored to win in November and become Oklahoma&amp;#39;s newest Congressman.</excerpt>
+          <fti-names>'becom':33 'bridestin':21,23 'congressman':7,37 'elector':14 'eye':2 'favor':27 'heavili':26 'jim':20 'john':8 'last':5 'lost':12 'm':39 'man':18 'max':38 'mr':22 'name':19 'newest':36 'novemb':31 'oklahoma':4,11,34 'primari':15 'sullivan':9 'tuesday':6 'win':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://westreferenceattorneys.com/2012/07/all-eyes-on-oklahoma/&amp;sa=U&amp;ei=c6n2T7nuO8Ts2QXztby_Cw&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGJDz6jssVbZJuKiqfLrd5lqQgNKA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16411941</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max M.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-03T03:06:01-04:00</created-at>
+          <title>The Case of Jim Bridenstine and John Sullivan: What Is Democracy ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 46%, those who voted, so it seems, were simply tired of Sullivan, and couldn&amp;#39;t be persuaded by the catchphrase used in the signature of his campaign emails: &#8220;John Sullivan, Oklahoma&amp;#39;s Most Conservative Congressman&#8221;.</excerpt>
+          <fti-names>'46':12 'bridenstin':5 'campaign':38 'case':2 'catchphras':31 'congressman':46 'conserv':45 'couldn':25 'democraci':11 'email':39 'jim':4 'john':7,40 'oklahoma':42 'persuad':28 'seem':18 'selectingston':47 'signatur':35 'simpli':20 'sullivan':8,23,41 'tire':21 'use':32 'vote':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://selectingstones.com/2012/07/02/the-case-of-jim-bridenstine-and-john-sullivan-what-is-democracy/&amp;sa=U&amp;ei=0ZnyT-uYO4i42QXIg8y7CA&amp;ved=0CFMQmAEwDA&amp;usg=AFQjCNEdedWogOwESXA3ptdbkiF0gZvNwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16355539</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>selectingstones</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-07-01T02:21:18-04:00</created-at>
+          <title>In The Know: Congressman John Sullivan loses ... - Medicare Buz</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In The Know: Congressman John Sullivan loses GOP primary. Posted by: : Category: Medicare. Gang of Six - Cartoon by DonkeyHotey Oklahoma has modernized its Medicaid eligibility and enrollment system so that ...</excerpt>
+          <fti-names>'buz':9 'cartoon':26 'categori':21 'congressman':4,13 'donkeyhotey':28 'elig':34 'enrol':36 'gang':23 'gop':17 'john':5,14 'know':3,12 'lose':7,16 'medicaid':33 'medicar':8,22 'medicarebuz.com':40 'modern':31 'oklahoma':29 'post':19 'primari':18 'six':25 'sullivan':6,15 'system':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://medicarebuz.com/in-the-know-congressman-john-sullivan-loses-gop-primary/&amp;sa=U&amp;ei=WuzvT-6EBqSU2QXszYSBAg&amp;ved=0CFMQmAEwDA&amp;usg=AFQjCNGL8_h2HwK2R69RomG2C2bd8WDS8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16317746</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://medicarebuz.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400392</commentariable-id>
+          <created-at type="datetime">2012-06-30T01:22:55-04:00</created-at>
+          <title>Jim Bridenstine defeats John Sullivan | Tulsa Beacon</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>In unofficial results Tuesday, Lt. Cmdr. Jim Bridenstine defeated U.S. Rep. John Sullivan in a stunning upset in the 1st District race in the Republican primary. Bridenstine will face Democrat John Olson and Independent Craig ...</excerpt>
+          <fti-names>'1st':27 'admin':43 'beacon':7 'bridenstin':2,15,34 'cmdr':13 'craig':42 'defeat':3,16 'democrat':37 'district':28 'face':36 'independ':41 'jim':1,14 'john':4,19,38 'lt':12 'olson':39 'primari':33 'race':29 'rep':18 'republican':32 'result':10 'stun':23 'sullivan':5,20 'tuesday':11 'tulsa':6 'u.s':17 'unoffici':9 'upset':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.tulsabeacon.com/%3Fp%3D6072&amp;sa=U&amp;ei=Ho3uT4vgHqHq6wG2lP2IBg&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNFY9SPBLDdcTBWk6NgF6Hpu_cSOMw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16291983</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20031</page-views-count>
+      <youtube-id>SullivanOK01</youtube-id>
+      <unaccented-name>John Sullivan</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

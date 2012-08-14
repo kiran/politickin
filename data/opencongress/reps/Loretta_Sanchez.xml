@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.5073201782304</party-votes-percentage>
+        <abstains-percentage type="float">8.60965677719604</abstains-percentage>
+        <votes-most-often-with-id type="integer">400663</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">74</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">148</abstains>
+        <cosponsored-bills type="integer">197</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">94</party-votes-percentage-rank>
+        <sponsored-bills type="integer">10</sponsored-bills>
+        <votes-least-often-with-id type="integer">412473</votes-least-often-with-id>
+        <person-id type="integer">400356</person-id>
+        <cosponsored-bills-rank type="integer">199</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">191</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">358</votes-republican-position>
+      <blog-article-count type="integer">8218</blog-article-count>
+      <fax>202-225-5859</fax>
+      <user-approval type="float">2.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">70</oc-users-tracking>
+      <bioguide-id>S000030</bioguide-id>
+      <contact-webform>http://www.lorettasanchez.house.gov/index.php?option=com_content&amp;task=view&amp;id=218&amp;Itemid=17</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.5073201782304</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Sanchez</lastname>
+      <congress-office>1114 Longworth House Office Building</congress-office>
+      <middlename>B.</middlename>
+      <firstname>Loretta</firstname>
+      <website>http://www.lorettasanchez.house.gov</website>
+      <birthday type="date">1960-01-07</birthday>
+      <person-id type="integer">400356</person-id>
+      <phone>202-225-2965</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1469</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:55:01-04:00</created-at>
+          <title>Loretta Sanchez to host Job Hunters Boot Camp in Anaheim on 8/8</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...can skip to the end and leave a response. Pinging is currently not allowed. U.S. Rep. Loretta Sanchez is hosting a half-day workshop for job seekers at the Anaheim Downtown Community Center this Wednesday, August 8, 2012, from 8:30am to 1:00pm. The &#8220;J</excerpt>
+          <fti-names>'00pm':57 '1':56 '2012':51 '30am':54 '8':50,53 '8/8':12 'allow':26 'ana':62 'anaheim':10,43 'august':49 'boot':7 'camp':8 'center':46 'communiti':45 'current':24 'day':36 'downtown':44 'end':17 'half':35 'half-day':34 'host':4,32 'hunter':6 'j':59 'job':5,39 'leav':19 'loretta':1,29 'new':60 'ping':22 'rep':28 'respons':21 'sanchez':2,30 'santa':61 'seeker':40 'skip':14 'u.s':27 'wednesday':48 'workshop':37</fti-names>
+          <source-url>http://newsantaana.com/</source-url>
+          <url>http://feedproxy.google.com/~r/NewSantaAna/~3/C2u6_XTU1_M/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973575</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New Santa Ana</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:50:07-04:00</created-at>
+          <title>U.S. Rep. Sanchez to visit Santa Ana&#8217;s Road Less Traveled on Aug. 7</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Loretta Sanchez is scheduled to visit newly-opened small businesses in downtown Santa Ana on Tuesday, August 7 from 2pm to 5pm. The business visits will begin at 2:15pm at the &#8220;Road Less Traveled&#8221; store located at 125 N. Broadway, Ste. C, in Do</excerpt>
+          <fti-names>'125':55 '15pm':46 '2':45 '2pm':36 '5pm':38 '7':14,34 'ana':7,30,64 'aug':13 'august':33 'begin':43 'broadway':57 'busi':26,40 'c':59 'downtown':28 'less':10,50 'locat':53 'loretta':16 'n':56 'new':62 'newli':23 'newly-open':22 'open':24 'rep':2,15 'road':9,49 'sanchez':3,17 'santa':6,29,63 'schedul':19 'small':25 'ste':58 'store':52 'travel':11,51 'tuesday':32 'u.s':1 'visit':5,21,41</fti-names>
+          <source-url>http://newsantaana.com/</source-url>
+          <url>http://feedproxy.google.com/~r/NewSantaAna/~3/NWNk2Fuh8Y0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972529</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New Santa Ana</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:06:18-04:00</created-at>
+          <title>Landmines for Obama in Ohio--Tea party wins in Texas, Georgia--List of attendees for RGA Aspen fundraiser--NRSC to hit Sherrod Brown on coal--DNC rounds up nasty trip coverage</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the Hill. They&#8217;ll be joined by three members: House Majority Whip Kevin McCarthy (R-CA), Rep. Patrick McHenry (R-NC) and Rep. Loretta Sanchez (D-CA). If you want a reminder of why POLITICO has the best congressional coverage, check out Jon and Jake on</excerpt>
+          <fti-names>'aspen':17 'attende':14 'best':72 'brown':23 'ca':48,61 'check':75 'coal':25 'congression':73 'coverag':31,74 'd':60 'd-ca':59 'dnc':26 'fundrais':18 'georgia':11 'hill':33 'hit':21 'hous':41 'jake':79 'join':37 'jon':77 'kevin':44 'landmin':1 'list':12 'll':35 'loretta':57 'major':42 'mccarthi':45 'mchenri':51 'member':40 'nasti':29 'nc':54 'nrsc':19 'obama':3 'ohio':5 'parti':7 'patrick':50 'politico':69,82 'r':47,53 'r-ca':46 'r-nc':52 'remind':66 'rep':49,56 'rga':16 'round':27 'sanchez':58 'sherrod':22 'tea':6 'texa':10 'three':39 'trip':30 'want':64 'whip':43 'win':8</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=a9b401a2d2b82fa23cc76091711b3158</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970928</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:06:07-04:00</created-at>
+          <title>TEA PARTY TRIUMPH: Texas underdog Cruz pulls 13-point stunner over GOP establishment candidate for Kay Bailey seat -- ROMNEY WORRY: NYT/CBS has Obama +6 in FL, OH -- ED GILLESPIE bday</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...taxes, Rep. Steve LaTourette&#8217;s retirement, his favorite young members, and how he corrals Republican votes. In studio: Rep. Loretta Sanchez (D-Calif.). From Capitol Hill: Rep Patrick McHenry (R-N.C.) and Manu Raju. politico.com/livestream ; simulcasts</excerpt>
+          <fti-names>'+6':24 '/livestream':70 '13':8 'bailey':17 'bday':30 'c':64 'calif':54 'candid':14 'capitol':56 'corral':44 'cruz':6 'd':53 'd-calif':52 'ed':28 'establish':13 'favorit':38 'fl':26 'gillespi':29 'gop':12 'hill':57 'kay':16 'latourett':34 'loretta':50 'manu':66 'mchenri':60 'member':40 'n':63 'nyt/cbs':21 'obama':23 'oh':27 'parti':2 'patrick':59 'point':9 'politico':73 'politico.com':69 'politico.com/livestream':68 'pull':7 'r':62 'r-n':61 'raju':67 'rep':32,49,58 'republican':45 'retir':36 'romney':19 'sanchez':51 'seat':18 'simulcast':71 'steve':33 'studio':48 'stunner':10 'tax':31 'tea':1 'texa':4 'triumph':3 'underdog':5 'vote':46 'worri':20 'young':39</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=47c5e850b93352e8427991f9655fed0a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970927</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:56:58-04:00</created-at>
+          <title>Move over Marco, Cruz a rising star, Dold/Bono Mack confront Cantor, Ignatius: anti-leaks bill doesn&#8217;t fix problem, Boehner/Reid strike spending deal, Zients on the Hill, Geoff Davis resigns, trivia</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to discuss the future of the Republican party. We'll also be joined by Rep. Patrick McHenry (R-NC) from Capitol Hill and Rep. Loretta Sanchez (D-CA) in studio. POLITICO&#8217;s Manu Raju will offer a live update. Watch at www.politico.com/livestream and loc</excerpt>
+          <fti-names>'/livestream':78 'also':43 'anti':14 'anti-leak':13 'bill':16 'boehner/reid':21 'ca':62 'cantor':11 'capitol':54 'confront':10 'cruz':4 'd':61 'd-ca':60 'davi':30 'deal':24 'discuss':34 'doesn':17 'dold/bono':8 'fix':19 'futur':36 'geoff':29 'hill':28,55 'ignatius':12 'join':45 'leak':15 'live':72 'll':42 'loc':80 'loretta':58 'mack':9 'manu':67 'marco':3 'mchenri':49 'move':1 'nc':52 'offer':70 'parti':40 'patrick':48 'politico':65,82 'problem':20 'r':51 'r-nc':50 'raju':68 'rep':47,57 'republican':39 'resign':31 'rise':6 'sanchez':59 'spend':23 'star':7 'strike':22 'studio':64 'trivia':32 'updat':73 'watch':74 'www.politico.com':77 'www.politico.com/livestream':76 'zient':25</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=e7e903c9d992743bd4ad9ffe6046afe6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969964</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:11:47-04:00</created-at>
+          <title>Congressional Caucus briefing on young people and IT careers</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Loretta Sanchez, D-Calif., gave opening remarks, discussing the IT industry's challenge to engage a young generation that -- while tech-savvy -- shows little interest in IT careers. Read more.</excerpt>
+          <fti-names>'brief':3 'calif':15 'career':9,40 'caucus':2 'challeng':24 'congression':1 'd':14 'd-calif':13 'discuss':19 'engag':26 'gave':16 'generat':29 'industri':22 'interest':37 'littl':36 'loretta':11 'open':17 'peopl':6 'read':41 'remark':18 'rep':10 'sanchez':12 'savvi':34 'show':35 'smartbrief':43 'tech':33 'tech-savvi':32 'young':5,28</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.smartbrief.com/servlet/rdrc?u=%2Fnews%2FstoryDetails.jsp%3Fissueid%3DA7D3CB10-0EE7-4DF3-8FC0-13FE7BAB23D6%26copyid%3D4749A829-3FAE-4F1A-A749-EC04DC2D484B%26brief%3Dcomptia%26sb_code%3Drss%26%26campaign%3Drss&amp;i=A7D3CB10-0EE7-4DF3-8FC0-13FE7BAB23D6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:37:24-04:00</date>
+          <id type="integer">16967212</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SmartBrief</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:12:08-04:00</created-at>
+          <title>Santa Ana college student interns in D.C.</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...educational reform and public policy,&#8221; said Meza Vega. She is majoring in psychology and is serving with the office of Rep. Loretta Sanchez. &#8220;This year&#8217;s summer interns represent the diversity and vast potential of the Latino community,&#8221; said Es</excerpt>
+          <fti-names>'ana':2 'colleg':3 'communiti':45 'counti':50 'd.c':7 'divers':38 'educ':8 'es':47 'intern':5,35 'latino':44 'loretta':29 'major':18 'meza':14 'offic':26 'orang':49 'polici':12 'potenti':41 'psycholog':20 'public':11 'reform':9 'regist':51 'rep':28 'repres':36 'said':13,46 'sanchez':30 'santa':1 'serv':23 'student':4 'summer':34 'vast':40 'vega':15 'year':32</fti-names>
+          <source-url>http://www.ocregister.com/</source-url>
+          <url>http://oclatinolink.ocregister.com/2012/07/31/yvette-meza-vega-of-santa-ana-is-interning-for-loretta-sanchez/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967214</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Orange County Register</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:12:07-04:00</created-at>
+          <title>Consequences of women in combat</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...should have the same opportunity as men. However, all Americans should then be mandated to register for the draft. Rep. Loretta Sanchez, California Democrat, and Sen. Kirsten E. Gillibrand, New York Democrat, recently introduced legislation to encourage</excerpt>
+          <fti-names>'american':15 'california':28 'combat':5 'consequ':1 'democrat':29,37 'draft':24 'e':33 'encourag':42 'gillibrand':34 'howev':13 'introduc':39 'kirsten':32 'legisl':40 'loretta':26 'mandat':19 'men':12 'new':35 'opportun':10 'recent':38 'regist':21 'rep':25 'sanchez':27 'sen':31 'time':44 'washington':43 'women':3 'york':36</fti-names>
+          <source-url>http://www.washingtontimes.com/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629401/s/21eaada3/l/0L0Swashingtontimes0N0Cnews0C20A120Cjul0C310Cconsequences0Eof0Ewomen0Ein0Ecombat0C0Dutm0Isource0FRSS0IFeed0Gutm0Imedium0FRSS/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967213</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:53:46-04:00</created-at>
+          <title>The Failures of Missile Defense</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a March 6, 2012, hearing of the Strategic Force Subcommittee of the House Committee on Armed Services, Rep. Loretta Sanchez (D-CA) noted that the DSB and the NRC had expressed concern about the overall effectiveness of U.S. missile defenses.</excerpt>
+          <fti-names>'2012':10 '6':9 'arm':22 'ca':29 'committe':20 'concern':39 'd':28 'd-ca':27 'defens':5,47 'dsb':33 'effect':43 'express':38 'failur':2 'forc':15 'hear':11 'hous':19 'interest':50 'loretta':25 'march':8 'missil':4,46 'nation':49 'note':30 'nrc':36 'onlin':51 'overal':42 'rep':24 'sanchez':26 'servic':23 'strateg':14 'subcommitte':16 'u.s':45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://nationalinterest.org/commentary/the-failures-missile-defense-7248</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T06:11:19-04:00</date>
+          <id type="integer">16892712</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The National Interest Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:18:14-04:00</created-at>
+          <title>Sanchez hosting a free workshop on doing business abroad on Thursday</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Loretta Sanchez is hosting a free small business workshop &#8220;Expanding your Markets: Doing Business Abroad&#8221; on Thursday, July 26, 2012, from 8:00am to 11:00am, at the Rancho Santiago Community College District, located at 2323 N. Broadway St., in</excerpt>
+          <fti-names>'00am':35,38 '11':37 '2012':32 '2323':48 '26':31 '8':34 'abroad':9,27 'ana':55 'broadway':50 'busi':8,20,26 'colleg':44 'communiti':43 'district':45 'expand':22 'free':4,18 'host':2,16 'juli':30 'locat':46 'loretta':13 'market':24 'n':49 'new':53 'rancho':41 'rep':12 'sanchez':1,14 'santa':54 'santiago':42 'small':19 'st':51 'thursday':11,29 'workshop':5,21</fti-names>
+          <source-url>http://newsantaana.com/</source-url>
+          <url>http://feedproxy.google.com/~r/NewSantaAna/~3/lrXzt7FsrGk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New Santa Ana</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Loretta_Sanchez</metavid-id>
+      <name>Rep. Loretta Sanchez [D, CA-47]</name>
+      <total-session-votes type="integer">1571</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>47</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:38:10-04:00</created-at>
+          <title>Missing Tigers&#8230; www.vbsdb.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>On February 29, 2012, Rep. Buck McKeon (R-CA) and Rep. Loretta Sanchez (D-CA) introduced H.R. 4122, to prohibit the private possession and breeding of big cats. The bill will insure that lions, tigers and other dangerous big cats &#8212; which ...</excerpt>
+          <fti-names>'2012':7 '29':6 '4122':23 'big':32,44 'bill':35 'breed':30 'buck':9 'ca':13,20 'cat':33,45 'd':19 'd-ca':18 'danger':43 'februari':5 'h.r':22 'insur':37 'introduc':21 'lion':39 'loretta':16 'mckeon':10 'miss':1 'mitari':48 'possess':28 'privat':27 'prohibit':25 'r':12 'r-ca':11 'rep':8,15 'sanchez':17 'tiger':2,40 'www.vbsdb.com':3 'zora':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.vbsdb.com/liger-lion-hybrids/missing-tigers&amp;sa=U&amp;ei=AVYWUOaOJOvD0AGG5ICwCg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNG6tNfLSadnC7DL94mu4TkE3FlS-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949998</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Zora Mitary</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:37:39-04:00</created-at>
+          <title>Commentary: The Failures of Missile Defense | The National Interest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a March 6, 2012, hearing of the Strategic Force Subcommittee of the House Committee on Armed Services, Rep. Loretta Sanchez (D-CA) noted that the DSB and the NRC had expressed concern about the overall effectiveness of U.S. missile   defenses. In respon</excerpt>
+          <fti-names>'2012':14 '6':13 'arm':26 'ca':33 'commentari':1 'committe':24 'concern':43 'coyl':55 'd':32 'd-ca':31 'defens':6,51 'dsb':37 'effect':47 'express':42 'failur':3 'forc':19 'hear':15 'hous':23 'interest':9 'loretta':29 'march':12 'missil':5,50 'nation':8 'note':34 'nrc':40 'overal':46 'philip':54 'rep':28 'respon':53 'sanchez':30 'servic':27 'strateg':18 'subcommitte':20 'u.s':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nationalinterest.org/commentary/the-failures-missile-defense-7248&amp;sa=U&amp;ei=KegUUM2pDaaZ0QGhooD4Cw&amp;ved=0CEIQmAEwCQ&amp;usg=AFQjCNETREv4VBEFcbacdIIPRQsR5YqIZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16931007</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Philip Coyle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:29:56-04:00</created-at>
+          <title>Commentary: The Failures of Missile Defense | The National Interest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a March 6, 2012, hearing of the Strategic Force Subcommittee of the House Committee on Armed Services, Rep. Loretta Sanchez (D-CA) noted that the DSB and the NRC had expressed concern about the overall effectiveness of U.S. missile   defenses. In respon</excerpt>
+          <fti-names>'2012':14 '6':13 'arm':26 'ca':33 'commentari':1 'committe':24 'concern':43 'coyl':55 'd':32 'd-ca':31 'defens':6,51 'dsb':37 'effect':47 'express':42 'failur':3 'forc':19 'hear':15 'hous':23 'interest':9 'loretta':29 'march':12 'missil':5,50 'nation':8 'note':34 'nrc':40 'overal':46 'philip':54 'rep':28 'respon':53 'sanchez':30 'servic':27 'strateg':18 'subcommitte':20 'u.s':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nationalinterest.org/commentary/the-failures-missile-defense-7248&amp;sa=U&amp;ei=s1wTUIzgB-nf0QGq_IGYCA&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNGGrJx_zfyL5Wu58lWRyJ9VZYO6fA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923621</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Philip Coyle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:52:01-04:00</created-at>
+          <title>Commentary: The Failures of Missile Defense | The National Interest</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In a March 6, 2012, hearing of the Strategic Force Subcommittee of the House Committee on Armed Services, Rep. Loretta Sanchez (D-CA) noted that the DSB and the NRC had expressed concern about the overall effectiveness of U.S. missile   defenses. In respon</excerpt>
+          <fti-names>'2012':14 '6':13 'arm':26 'ca':33 'commentari':1 'committe':24 'concern':43 'coyl':55 'd':32 'd-ca':31 'defens':6,51 'dsb':37 'effect':47 'express':42 'failur':3 'forc':19 'hear':15 'hous':23 'interest':9 'loretta':29 'march':12 'missil':5,50 'nation':8 'note':34 'nrc':40 'overal':46 'philip':54 'rep':28 'respon':53 'sanchez':30 'servic':27 'strateg':18 'subcommitte':20 'u.s':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nationalinterest.org/commentary/the-failures-missile-defense-7248&amp;sa=U&amp;ei=Yx4SUK2WE4r-9QTXiYGACw&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNEmJYamgIuSP7bPQ1FTIL2tDSRbnQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892692</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Philip Coyle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:37:42-04:00</created-at>
+          <title>Sanchez hosting a free workshop on doing business abroad on ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Loretta Sanchez is hosting a free small business workshop &#8220;Expanding your Markets: Doing Business Abroad&#8221; on Thursday, July 26, 2012, from 8:00am to 11:00am, at the Rancho Santiago Community College ...</excerpt>
+          <fti-names>'00am':35,38 '11':37 '2012':32 '26':31 '8':34 'abroad':9,27 'busi':8,20,26 'colleg':44 'communiti':43 'editor':45 'expand':22 'free':4,18 'host':2,16 'juli':30 'loretta':13 'market':24 'rancho':41 'rep':12 'sanchez':1,14 'santiago':42 'small':19 'thursday':29 'u.s':11 'workshop':5,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsantaana.com/2012/07/24/sanchez-hosting-a-free-workshop-on-doing-business-abroad-on-thursday/&amp;sa=U&amp;ei=KegUUM2pDaaZ0QGhooD4Cw&amp;ved=0CEcQmAEwCg&amp;usg=AFQjCNE8KAevrjszRemeOQX9s5L5kwA1UA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16931008</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:52:07-04:00</created-at>
+          <title>Sanchez hosting a free workshop on doing business abroad on ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Loretta Sanchez is hosting a free small business workshop &#8220;Expanding your Markets: Doing Business Abroad&#8221; on Thursday, July 26, 2012, from 8:00am to 11:00am, at the Rancho Santiago Community College ...</excerpt>
+          <fti-names>'00am':35,38 '11':37 '2012':32 '26':31 '8':34 'abroad':9,27 'busi':8,20,26 'colleg':44 'communiti':43 'editor':45 'expand':22 'free':4,18 'host':2,16 'juli':30 'loretta':13 'market':24 'rancho':41 'rep':12 'sanchez':1,14 'santiago':42 'small':19 'thursday':29 'u.s':11 'workshop':5,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsantaana.com/2012/07/24/sanchez-hosting-a-free-workshop-on-doing-business-abroad-on-thursday/&amp;sa=U&amp;ei=Yx4SUK2WE4r-9QTXiYGACw&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNFA5uFAUOCld_utn5w4KSH_I5Koaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16892698</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:15:06-04:00</created-at>
+          <title>MegaVote for California&amp;#39;s 40th &amp;amp; 47th Congressional Districts ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The bill passed under suspension of the rules, meaning that a two-thirds majority was required for passage. Rep. Loretta Sanchez voted YES; Rep. Ed Royce voted YES. Sequestration Report &#8211; Passage &#8211; Vote Passed (414-2 ...</excerpt>
+          <fti-names>'-2':44 '40th':5 '414':43 '47th':6 'bill':10 'california':3 'congression':7 'district':8 'ed':34 'loretta':29 'major':23 'mean':17 'megavot':1 'mitchel':46 'pass':11,42 'passag':27,40 'rachael':45 'rep':28,33 'report':39 'requir':25 'royc':35 'rule':16 'sanchez':30 'sequestr':38 'suspens':13 'third':22 'two':21 'two-third':20 'vote':31,36,41 'yes':32,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fullertonchamber.com/political-action/megavote-for-californias-40th-47th-congressional-districts-23-9714&amp;sa=U&amp;ei=QNIQUP3sJorA8ATY4YDoCw&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNFwCGmGD2CEMObvkcp9JDeurThqrQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860516</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rachael Mitchell</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-26T01:15:01-04:00</created-at>
+          <title>Sanchez hosting a free workshop on doing business abroad on ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Loretta Sanchez is hosting a free small business workshop &#8220;Expanding your Markets: Doing Business Abroad&#8221; on Thursday, July 26, 2012, from 8:00am to 11:00am, at the Rancho Santiago Community College ...</excerpt>
+          <fti-names>'00am':35,38 '11':37 '2012':32 '26':31 '8':34 'abroad':9,27 'busi':8,20,26 'colleg':44 'communiti':43 'editor':45 'expand':22 'free':4,18 'host':2,16 'juli':30 'loretta':13 'market':24 'rancho':41 'rep':12 'sanchez':1,14 'santiago':42 'small':19 'thursday':29 'u.s':11 'workshop':5,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsantaana.com/2012/07/24/sanchez-hosting-a-free-workshop-on-doing-business-abroad-on-thursday/&amp;sa=U&amp;ei=QNIQUP3sJorA8ATY4YDoCw&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNH1tKkYLJCKxNWZNDlCobzbLYNWEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16860512</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:22:17-04:00</created-at>
+          <title>Sanchez hosting a free workshop on doing business abroad on ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Loretta Sanchez is hosting a free small business workshop &#8220;Expanding your Markets: Doing Business Abroad&#8221; on Thursday, July 26, 2012, from 8:00am to 11:00am, at the Rancho Santiago Community College ...</excerpt>
+          <fti-names>'00am':35,38 '11':37 '2012':32 '26':31 '8':34 'abroad':9,27 'busi':8,20,26 'colleg':44 'communiti':43 'editor':45 'expand':22 'free':4,18 'host':2,16 'juli':30 'loretta':13 'market':24 'rancho':41 'rep':12 'sanchez':1,14 'santiago':42 'small':19 'thursday':29 'u.s':11 'workshop':5,21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newsantaana.com/2012/07/24/sanchez-hosting-a-free-workshop-on-doing-business-abroad-on-thursday/&amp;sa=U&amp;ei=mJAPUJraN-aw0QGNkoGADg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHzziSrIGkQwuDIn3ycrF4hHBSz-g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16852652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400356</commentariable-id>
+          <created-at type="datetime">2012-07-25T02:22:28-04:00</created-at>
+          <title>CompTIA and Congressional Caucus Hold a Briefing on Young ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Loretta Sanchez (D-CA), the co- chair of the Congressional Caucus on Small Business IT, gave opening remarks, discussing the IT industry&amp;#39;s challenge to engage a young generation that &#8211; while tech-savvy ...</excerpt>
+          <fti-names>'brief':7 'busi':25 'ca':15 'caucus':4,22 'chair':18 'challeng':35 'co':17 'comptia':1 'congression':3,21 'congresswoman':10 'd':14 'd-ca':13 'discuss':30 'elizabeth':46 'engag':37 'gave':27 'generat':40 'hold':5 'hyman':47 'industri':33 'loretta':11 'open':28 'remark':29 'sanchez':12 'savvi':45 'small':24 'tech':44 'tech-savvi':43 'young':9,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.comptia.org/2012/07/23/comptia-and-congressional-caucus-hold-a-briefing-on-young-people-and-it-careers/&amp;sa=U&amp;ei=mJAPUJraN-aw0QGNkoGADg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNF65i3Fktk7aW0KvQd0LzjsQrgs8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16852660</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Elizabeth Hyman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">20215</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Loretta Sanchez</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

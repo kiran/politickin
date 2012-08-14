@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T07:26:31-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">90.9326424870466</party-votes-percentage>
+        <abstains-percentage type="float">2.27848101265823</abstains-percentage>
+        <votes-most-often-with-id type="integer">400194</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">15</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">3</cosponsored-bills-passed-rank>
+        <abstains type="integer">9</abstains>
+        <cosponsored-bills type="integer">260</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">37</party-votes-percentage-rank>
+        <sponsored-bills type="integer">5</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">300021</person-id>
+        <cosponsored-bills-rank type="integer">16</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">65</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">351</votes-republican-position>
+      <metavid-id>Saxby_Chambliss</metavid-id>
+      <blog-article-count type="integer">10361</blog-article-count>
+      <user-approval type="float">2.6962962962963</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">1329</oc-users-tracking>
+      <contact-webform>http://www.chambliss.senate.gov/public/index.cfm?p=Email</contact-webform>
+      <youtube-id>SenatorChambliss</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">90.9326424870466</with-party-percentage>
+      <lastname>Chambliss</lastname>
+      <bioguide-id>C000286</bioguide-id>
+      <fax>202-224-0103</fax>
+      <congress-office>416 Russell Senate Office Building</congress-office>
+      <firstname>Saxby</firstname>
+      <website>http://www.chambliss.senate.gov</website>
+      <birthday type="date">1943-11-10</birthday>
+      <person-id type="integer">300021</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-224-3521</phone>
+      <religion>Episcopalian</religion>
+      <votes-democratic-position type="integer">157</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:23-04:00</created-at>
+          <title>Dome: New poll shows McCrory&#8217;s lead shrinking</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the weekend, including Republican National Committee Chairman Reince Priebus in Mecklenburg County and Georgia GOP Sen. Saxby Chambliss working the east. The Obama campaign, meanwhile, on Saturday hosted singer Janelle Monae in Chapel Hill as part of a </excerpt>
+          <fti-names>'campaign':32 'chairman':15 'chambliss':26 'chapel':41 'committe':14 'counti':20 'dome':1 'east':29 'georgia':22 'gop':23 'hill':42 'host':36 'includ':11 'janell':38 'lead':7 'mccrori':5 'meanwhil':33 'mecklenburg':19 'mona':39 'nation':13 'new':2 'news':48 'obama':31 'observ':49 'part':44 'poll':3 'priebus':17 'reinc':16 'republican':12 'saturday':35 'saxbi':25 'sen':24 'show':4 'shrink':8 'singer':37 'weekend':10 'work':27</fti-names>
+          <source-url>http://www.newsobserver.com/</source-url>
+          <url>http://www.newsobserver.com/2012/08/06/2250988/dome-new-poll-shows-mccrorys-lead.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973710</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The News &amp; Observer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:23-04:00</created-at>
+          <title>Chambliss expects little progress on deficit reduction until after election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Sen. Saxby Chambliss (R-GA) does not expect much to happen in Congress between now and the November election when it comes to tackling the nation&#8217;s deficit. Members of the U.S. Senate and the U.S. House will be too focused on the election and reluctan</excerpt>
+          <fti-names>'atlanta':58 'busi':59 'chambliss':1,13 'chronicl':60 'come':33 'congress':24 'deficit':6,39 'elect':10,30,55 'expect':2,19 'focus':52 'ga':16 'happen':22 'hous':48 'littl':3 'member':40 'much':20 'nation':37 'novemb':29 'progress':4 'r':15 'r-ga':14 'reduct':7 'reluctan':57 'saxbi':12 'sen':11 'senat':44 'tackl':35 'u.s':43,47</fti-names>
+          <source-url>http://www.bizjournals.com/atlanta/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_atlanta/~3/oQ-DIwtN-oA/chambliss-expects-little-progress-on.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973709</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Business Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:22-04:00</created-at>
+          <title>Leaders ask public's help in pushing for budget compromise</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...the cuts could kill 38,700 jobs in Georgia, which ranks fifth in the United States in military facilities. U.S. Sen. Saxby Chambliss said every contractor at Fort Benning could lose 20 percent of its business there. &quot;The impact at the community level, w</excerpt>
+          <fti-names>'20':42 '38':15 '700':16 'ask':2 'ben':39 'budget':9 'busi':46 'chambliss':33 'communiti':52 'compromis':10 'contractor':36 'could':13,40 'cut':12 'everi':35 'facil':29 'fifth':22 'fort':38 'georgia':19 'help':5 'impact':49 'job':17 'kill':14 'leader':1 'level':53 'lose':41 'militari':28 'percent':43 'public':3 'push':7 'rank':21 'said':34 'saxbi':32 'sen':31 'star':55 'state':26 'stripe':57 'u.s':30 'unit':25 'w':54</fti-names>
+          <source-url>http://www.stripes.com/</source-url>
+          <url>http://feeds.stripes.com/~r/starsandstripes/general/~3/3TtAvtnx6mg/leaders-ask-public-s-help-in-pushing-for-budget-compromise-1.185077</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973708</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Stars and Stripes</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:42-04:00</created-at>
+          <title>There are now 50 campaign offices in the state</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...students and later gave a concert at The Arts Center in Carrboro. There was a lot of activity over the weekend, including Republican National Committee Chairman Reince Priebus in Mecklenburg County and Georgia GOP Sen. Saxby Chambliss working the east..</excerpt>
+          <fti-names>'..':50 '50':4 'activ':27 'art':18 'campaign':5 'carrboro':21 'center':19 'chairman':35 'chambliss':46 'committe':34 'concert':15 'counti':40 'dome':53 'east':49 'gave':13 'georgia':42 'gop':43 'includ':31 'later':12 'lot':25 'mecklenburg':39 'nation':33 'offic':6 'priebus':37 'reinc':36 'republican':32 'saxbi':45 'sen':44 'state':9 'student':10 'weekend':30 'work':47</fti-names>
+          <source-url>http://projects.newsobserver.com/dome</source-url>
+          <url>http://projects.newsobserver.com/under_the_dome/there_are_now_50_campaign_offices_in_the_state</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973074</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Under the Dome</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:42-04:00</created-at>
+          <title>Southern Republicans make N.C. stand</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Tipsheet has a report on Sen. Saxby Chambliss&#8217;s weekend tour of eastern North Carolina, where the Georgia senator stumped for Mitt Romney. The Chambliss swing is notable in that it&#8217;s another example of Southern Republicans banding together in an att</excerpt>
+          <fti-names>'anoth':38 'att':47 'band':43 'carolina':20 'chambliss':13,30 'eastern':18 'exampl':39 'georgia':23 'make':3 'mitt':27 'n.c':4 'north':19 'notabl':33 'politico':49 'report':9 'republican':2,42 'romney':28 'saxbi':12 'sen':11 'senat':24 'southern':1,41 'stand':5 'stump':25 'swing':31 'tipsheet':6 'togeth':44 'tour':16 'weekend':15</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=fc40cc665e06278b2a42ebcb2dd4ad93</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973073</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:00-04:00</created-at>
+          <title>Bill allows coin sales to ease museum's debt</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...and Soldier Center Commemorative Coin to be used to help retire the museum's $15 million debt. Sponsored by U.S. Sen. Saxby Chambliss, R-Moultrie, the bill has been sent to the president for his signature after approval in the Senate and House. The bill</excerpt>
+          <fti-names>'15':24 'allow':2 'approv':48 'bill':1,37,55 'center':12 'chambliss':32 'coin':3,14 'columbus':56 'commemor':13 'debt':9,26 'eas':6 'enquir':59 'georgia':60 'help':19 'hous':53 'ledger':58 'ledger-enquir':57 'million':25 'moultri':35 'museum':7,22 'presid':43 'r':34 'r-moultri':33 'retir':20 'sale':4 'saxbi':31 'sen':30 'senat':51 'sent':40 'signatur':46 'soldier':11 'sponsor':27 'u.s':29 'use':17</fti-names>
+          <source-url>http://www.ledger-enquirer.com/mld/ledgerenquirer/</source-url>
+          <url>http://www.ledger-enquirer.com/2012/08/03/2146846/bill-allows-coin-sales-to-ease.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16971921</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Ledger-Enquirer (Georgia)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:01-04:00</created-at>
+          <title>Congress approves change in coin sales for Infantry Museum</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Infantry Museum and Soldier Center Commemorative Coin to be used to help retire the museum&#8217;s $15 million debt. Sponsored by Sen. Saxby Chambliss, R-Moultrie, the bill has been sent to the president for his signature after approval in the Senate and Ho</excerpt>
+          <fti-names>'15':26 'approv':2,49 'bill':38 'center':14 'chambliss':33 'chang':3 'coin':5,16 'columbus':55 'commemor':15 'congress':1 'debt':28 'enquir':58 'georgia':59 'help':21 'ho':54 'infantri':8,10 'ledger':57 'ledger-enquir':56 'million':27 'moultri':36 'museum':9,11,24 'presid':44 'r':35 'r-moultri':34 'retir':22 'sale':6 'saxbi':32 'sen':31 'senat':52 'sent':41 'signatur':47 'soldier':13 'sponsor':29 'use':19</fti-names>
+          <source-url>http://www.ledger-enquirer.com/mld/ledgerenquirer/</source-url>
+          <url>http://www.ledger-enquirer.com/2012/08/03/2146252/congress-approves-change-in-coin.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971922</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Ledger-Enquirer (Georgia)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:05:35-04:00</created-at>
+          <title>TMZ: Attempted SWATting at Miley Cyrus&#8217;s Home</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...do believe Sen. Saxby Chambliss might be getting some results with DoJ, though. For what it&#8217;s worth. Things that have NOT invaded Miley Cyrus&#8217;s home: &#8211; talent &#8211; the DEA &#8211; child protective services &#8211; a sustainable career &#8211; responsible paren</excerpt>
+          <fti-names>'attempt':2 'believ':10 'career':44 'chambliss':13 'child':39 'comment':50 'cyrus':6,33 'dea':38 'doj':20 'get':16 'home':8,35 'invad':31 'might':14 'miley':5,32 'paren':46 'patterico':47 'pontif':49 'protect':40 'respons':45 'result':18 'saxbi':12 'sen':11 'servic':41 'sustain':43 'swat':3 'talent':36 'thing':27 'though':21 'tmz':1 'worth':26</fti-names>
+          <source-url>http://patterico.com/</source-url>
+          <url>http://patterico.com/2012/08/01/tmz-attempted-swatting-at-miley-cyruss-home/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971122</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Patterico's Pontifications Comments</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:05:34-04:00</created-at>
+          <title>Bipartisan group, senators pushes for 2012 debate on national debt</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...about the national debt. In a letter to the commission on Wednesday, Republican Sens. Lindsay Graham of South Carolina and Saxby Chambliss of Georgia, Democratic Sen. Mark Pryor of Arkansas and independent Sen. Joe Lieberman of Connecticut urged moderat</excerpt>
+          <fti-names>'2012':6 'arkansa':40 'bipartisan':1 'carolina':29 'chambliss':32 'commiss':20 'connecticut':47 'debat':7 'debt':10,14 'democrat':35 'file':51 'georgia':34 'graham':26 'group':2 'independ':42 'joe':44 'kaus':50 'letter':17 'lieberman':45 'lindsay':25 'mark':37 'moderat':49 'nation':9,13 'pryor':38 'push':4 'republican':23 'saxbi':31 'sen':24,36,43 'senat':3 'south':28 'urg':48 'wednesday':22</fti-names>
+          <source-url>http://dailycaller.com/kausfiles/</source-url>
+          <url>http://dailycaller.com/2012/08/02/bipartisan-group-senators-pushes-for-2012-debate-on-national-debt/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971121</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kaus Files</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:05:34-04:00</created-at>
+          <title>Senate Cybersecurity Bill Fails to Make It to Floor Vote</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...citing over 90 amendments, many of which were non-germane and including one Republican amendment to repeal healthcare. Sen. Saxby Chambliss (R-Ga.) said Thursday the divide continued to be over whether the government or industry know how best to protect</excerpt>
+          <fti-names>'90':13 'amend':14,26 'best':51 'bill':3 'chambliss':32 'cite':11 'continu':40 'cybersecur':2 'divid':39 'fail':4 'floor':9 'ga':35 'german':21 'govern':46 'healthcar':29 'includ':23 'industri':48 'know':49 'make':6 'mani':15 'multichannel':54 'news':55 'non':20 'non-german':19 'one':24 'protect':53 'r':34 'r-ga':33 'repeal':28 'republican':25 'said':36 'saxbi':31 'sen':30 'senat':1 'thursday':37 'vote':10 'whether':44</fti-names>
+          <source-url>http://www.multichannel.com/</source-url>
+          <url>http://www.multichannel.com/article/488089-Senate_Cybersecurity_Bill_Fails_to_Make_It_to_Floor_Vote.php?rssid=20073</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971120</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Multichannel News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Saxby Chambliss [R, GA]</name>
+      <total-session-votes type="integer">386</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:37-04:00</created-at>
+          <title>Crop Insurance: Bad for Taxpayers, Bad for the Environment ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>... grasslands to grow row crops, but Lucas pressured them to withdraw it. Members of the full House are expected to offer the &#8220;conservation compliance&#8221; amendment successfully championed by Sen. Saxby Chambliss (R-Ga.) ...</excerpt>
+          <fti-names>'amend':34 'bad':3,6 'chambliss':40 'champion':36 'complianc':33 'conserv':32 'crop':1,14 'environ':9 'expect':28 'faber':45 'full':25 'ga':43 'grassland':10 'grow':12 'hous':26 'insur':2 'luca':16 'member':22 'offer':30 'pressur':17 'r':42 'r-ga':41 'row':13 'saxbi':39 'scott':44 'sen':38 'success':35 'taxpay':5 'withdraw':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ewg.org/agmag/2012/07/crop-insurance-bad-for-taxpayers-bad-for-the-environment/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNHzHPNtMZTjxXnGp1KrqLQMNHGqlQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16602383</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Scott Faber</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:34-04:00</created-at>
+          <title>Patterico&amp;#39;s Pontifications &#187; Saxby Chambliss Blasts Holder on ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator Saxby Chambliss strongly criticized the Department of Justice on Wednesday for its &#8220;notably silent&#8221; response to a string of anonymous pranks wherein authorities have been dispatched guns ablaze to the homes ...</excerpt>
+          <fti-names>'ablaz':38 'anonym':30 'author':33 'blast':6 'chambliss':5,12 'critic':14 'depart':16 'dispatch':36 'gun':37 'holder':7 'home':41 'justic':18 'notabl':23 'patterico':1,42 'pontif':3 'prank':31 'respons':25 'saxbi':4,11 'senat':10 'silent':24 'string':28 'strong':13 'u.s':9 'wednesday':20 'wherein':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://patterico.com/2012/07/12/saxby-chambliss-blasts-holder-on-nonresponse-to-swattings/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNHT5hwbMjGJ0fbhr9SziGqERJ8SfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16602378</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Patterico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:36-04:00</created-at>
+          <title>Allergic to Bull: Saxby Chambliss Urges More Action From Holder on ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator Saxby Chambliss strongly criticized the Department of Justice on Wednesday for its &#8220;notably silent&#8221; response to a string of anonymous pranks wherein authorities have been dispatched guns ablaze to the homes ...</excerpt>
+          <fti-names>'a.w':45 'ablaz':41 'action':8 'allerg':1 'anonym':33 'author':36 'bull':3 'chambliss':5,15 'critic':17 'depart':19 'dispatch':39 'gun':40 'holder':10 'home':44 'justic':21 'notabl':26 'prank':34 'respons':28 'saxbi':4,14 'senat':13 'silent':27 'string':31 'strong':16 'u.s':12 'urg':6 'wednesday':23 'wherein':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://allergic2bull.blogspot.com/2012/07/saxby-chambliss-urges-more-action-from.html&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNG2E87EYr9lq8cOpB3Sv-ipkOjRtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16602382</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>A.W.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:35-04:00</created-at>
+          <title>Sen. Saxby Chambliss comments on Senate farm bill &amp;#39;no vote ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>U.S. Sen. Saxby Chambliss, (R- Ga.), former chairman of the Senate Committee on Agriculture, Nutrition and Forestry, voted against final passage of S.3240, the Agriculture Reform, Food, and Jobs Act of 2012.</excerpt>
+          <fti-names>'/secc-has-become-leading-forum':45 '2012':42 'act':40 'agricultur':24,35 'bill':8 'chairman':18 'chambliss':3,14 'comment':4 'committe':22 'farm':7 'final':30 'food':37 'forestri':27 'former':17 'ga':16 'job':39 'nutrit':25 'passag':31 'r':15 'reform':36 's.3240':33 'saxbi':2,13 'sen':1,12 'senat':6,21 'southeastfarmpress.com':44 'southeastfarmpress.com/secc-has-become-leading-forum':43 'u.s':11 'vote':10,28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://southeastfarmpress.com/government/sen-saxby-chambliss-comments-senate-farm-bill-no-vote&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNH24vw87Nd-pGiHbZaK_nSsQ8G0Qg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16602379</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://southeastfarmpress.com/secc-has-become-leading-forum</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:40-04:00</created-at>
+          <title>The Jawa Report: Thank You Senator Saxby Chambliss!: Chambliss ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Chambliss Press Release: WASHINGTON &#8211; Today, U.S. Sen. Saxby Chambliss, R-Ga., sent a letter to Attorney General Eric Holder regarding recent reports that several conservative political commentators have been ...</excerpt>
+          <fti-names>'attorney':27 'chambliss':8,9,11,19 'comment':38 'conserv':36 'eric':29 'ga':22 'general':28 'hand':42 'holder':30 'jawa':2 'letter':25 'polit':37 'press':12 'r':21 'r-ga':20 'recent':32 'regard':31 'releas':13 'report':3,33 'saxbi':7,18 'sen':17 'senat':6,10 'sent':23 'sever':35 'stabl':41 'thank':4 'today':15 'u.s':16 'washington':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mypetjawa.mu.nu/archives/212588.php&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNHPqMYf5AdcwTr3St-I4ZNtKdK5eg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16602387</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stable Hand</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:38-04:00</created-at>
+          <title>GOP Sen. Saxby Chambliss to DOJ: What are you doing about ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Michelle Malkin updates us&#8230; Finally, someone on Capitol Hill confronts the Justice Department. Finally. More please: Chambliss Demands Inquiry Into &#8230;Continue reading &#187;</excerpt>
+          <fti-names>'capitol':19 'chambliss':4,28 'confront':21 'continu':32 'demand':29 'depart':24 'doj':6 'final':16,25 'gop':1 'hill':20 'inquiri':30 'justic':23 'malkin':13 'michell':12 'pleas':27 'radiopatriot':34 'read':33 'saxbi':3 'sen':2 'someon':17 'updat':14 'us':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://radiopatriot.wordpress.com/2012/06/07/gop-sen-saxby-chambliss-to-doj-what-are-you-doing-about-swattings/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNH31b_jOuQV_INccayXtYcHEvn9Rw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16602384</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>radiopatriot</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:36-04:00</created-at>
+          <title>ABC News Reports Sen. Saxby Chambliss Requested DOJ ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>ABC News has now picked up on the story of the SWATting of bloggers, reporting that Senator Saxby Chambliss (R-GA) has written to the Department of Justice...</excerpt>
+          <fti-names>'abc':1,9 'blogger':22 'chambliss':6,27 'conserv':39 'depart':35 'doj':8 'ga':30 'justic':37 'lone':38 'news':2,10 'pick':13 'r':29 'r-ga':28 'report':3,23 'request':7 'saxbi':5,26 'sen':4 'senat':25 'stori':17 'swat':20 'written':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://lonelyconservative.com/2012/06/abc-news-reports-sen-saxby-chambliss-requested-doj-investigation-of-blogger-swattings/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHeuXXkALdz-MC2UW0bztHOyp2BwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16602381</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lonely Conservative</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:35-04:00</created-at>
+          <title>Sen. Saxby Chambliss Requests DOJ Investigate SWATting : The ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Robert Stacy McCain, a contributor to the American Spectator and founder of The Other McCain Blog, wrote about Kimberlin, and shortly after, his wife&amp;#39;s place of employment received a phone call from Kimberlin accusing ...</excerpt>
+          <fti-names>'accus':43 'american':16 'blog':24 'call':40 'chambliss':3 'contributor':13 'doj':5 'employ':36 'founder':19 'investig':6 'kimberlin':27,42 'mccain':11,23 'phone':39 'place':34 'receiv':37 'request':4 'robert':9 'saxbi':2 'sen':1 'short':29 'smitti':44 'spectat':17 'staci':10 'swat':7 'wife':32 'wrote':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theothermccain.com/2012/06/06/sen-saxby-chambliss-requests-doj-investigate-swatting/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNF7nFgCgnhfKu74gGwp3oT6vUaDYw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16602380</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>smitty</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:28-04:00</created-at>
+          <title>Michelle Malkin &#187; GOP Sen. Saxby Chambliss to DOJ: What are you ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>WASHINGTON &#8211; Today, U.S. Sen. Saxby Chambliss, R-Ga., sent a letter to Attorney General Eric Holder regarding recent reports that several conservative political commentators have been targeted with harassing and ...</excerpt>
+          <fti-names>'attorney':25 'chambliss':6,17 'comment':36 'conserv':34 'doj':8 'eric':27 'ga':20 'general':26 'gop':3 'harass':41 'holder':28 'letter':23 'malkin':2,44 'michell':1,43 'polit':35 'r':19 'r-ga':18 'recent':30 'regard':29 'report':31 'saxbi':5,16 'sen':4,15 'sent':21 'sever':33 'target':39 'today':13 'u.s':14 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://michellemalkin.com/2012/06/06/sen-saxby-chambliss-to-doj-what-are-you-doing-about-swattings/&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGHbZfFzSOChGMjz-4tzixu8LSNaA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16602377</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michelle Malkin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300021</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:08:39-04:00</created-at>
+          <title>Middle East and Other Musings: Meeting With Sen. Saxby Chambliss</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Meeting With Sen. Saxby Chambliss. Today&amp;#39;s vote in Wisconsin is not an attack on Unions as much as it is a desire on the part of sound and sane government to unhook from the crippling grasp of union power which has led to ...</excerpt>
+          <fti-names>'attack':24 'chambliss':10,15 'crippl':46 'desir':33 'dick':55 'east':2 'govern':41 'grasp':47 'led':53 'meet':6,11 'middl':1 'much':28 'muse':5 'part':36 'power':50 'sane':40 'saxbi':9,14 'sen':8,13 'sound':38 'today':16 'unhook':43 'union':26,49 'vote':18 'wisconsin':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dick-meom.blogspot.com/2012/06/meeting-with-sen-saxby-chambliss.html&amp;sa=U&amp;ei=K1MBUJbUNKjq2QX3pMSiCw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGvsOZ_04M4QUfBQZXgxnfd6xYkDQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-05T01:00:00-04:00</date>
+          <id type="integer">16602386</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dick</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">42703</page-views-count>
+      <unaccented-name>Saxby Chambliss</unaccented-name>
+      <oc-user-comments type="integer">31</oc-user-comments>
+    </person>
+  </people>
+</hash>

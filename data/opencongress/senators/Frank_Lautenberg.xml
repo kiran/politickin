@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-17T14:01:00-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.6015424164524</party-votes-percentage>
+        <abstains-percentage type="float">1.51898734177215</abstains-percentage>
+        <votes-most-often-with-id type="integer">300038</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">24</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">258</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">12</party-votes-percentage-rank>
+        <sponsored-bills type="integer">61</sponsored-bills>
+        <votes-least-often-with-id type="integer">400105</votes-least-often-with-id>
+        <person-id type="integer">300064</person-id>
+        <cosponsored-bills-rank type="integer">18</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">12</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">150</votes-republican-position>
+      <biography nil="true"></biography>
+      <bioguide-id>L000123</bioguide-id>
+      <blog-article-count type="integer">14464</blog-article-count>
+      <user-approval type="float">2.51851851851852</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">979</oc-users-tracking>
+      <contact-webform>http://www.lautenberg.senate.gov/contact/routing.cfm</contact-webform>
+      <metavid-id>Frank_Lautenberg</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.6015424164524</with-party-percentage>
+      <lastname>Lautenberg</lastname>
+      <congress-office>324 Hart Senate Office Building</congress-office>
+      <youtube-id>franklautenberg</youtube-id>
+      <firstname>Frank</firstname>
+      <website>http://www.lautenberg.senate.gov/</website>
+      <birthday type="date">1924-01-23</birthday>
+      <person-id type="integer">300064</person-id>
+      <fax>202-228-4054</fax>
+      <phone>202-224-3224</phone>
+      <religion>Jewish</religion>
+      <votes-democratic-position type="integer">368</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:41-04:00</created-at>
+          <title>In wake of violence, some lawmakers defiant in calls for tougher gun laws</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...a peaceful community, and our thoughts are with those in mourning and others still recovering from their wounds,&quot; said Sen. Frank Lautenberg, D-N.J., in a statement. &quot;We send a message of sympathy to the family and friends of the victims and ask colleag</excerpt>
+          <fti-names>'ask':58 'call':9 'cbs':60 'colleag':59 'communiti':16 'd':37 'd-n':36 'defiant':7 'famili':51 'frank':34 'friend':53 'gun':12 'j':39 'lautenberg':35 'law':13 'lawmak':6 'messag':46 'mourn':24 'n':38 'news':61 'other':26 'peac':15 'recov':28 'said':32 'sen':33 'send':44 'statement':42 'still':27 'sympathi':48 'thought':19 'tougher':11 'victim':56 'violenc':4 'wake':2 'wound':31</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/cbsnews/feed/~3/jMzfMQ0fBug/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973807</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>Arguing for tougher laws, Lautenberg criticizes Christie's response to massacres</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...- Standing on the steps of City Hall here and flanked by other elected officials, U.S. Sen. Frank Lautenberg (D-NJ) took umbrage with Gov. Chris Christie's response to back to back shootings in America, the latest Sunday at a Wisconsin house of worship </excerpt>
+          <fti-names>'america':47 'argu':1 'back':42,44 'chris':37 'christi':7,38 'citi':17 'critic':6 'd':31 'd-nj':30 'elect':24 'flank':21 'frank':28 'gov':36 'hall':18 'hous':54 'jersey':59 'latest':49 'lautenberg':5,29 'law':4 'massacr':11 'new':58 'nj':32 'offici':25 'politick':57 'respons':9,40 'sen':27 'shoot':45 'stand':12 'step':15 'sunday':50 'took':33 'tougher':3 'u.s':26 'umbrag':34 'wisconsin':53 'worship':56</fti-names>
+          <source-url>http://www.politickernj.com/</source-url>
+          <url>http://www.politickernj.com/58903/arguing-tougher-laws-lautenberg-criticizes-christies-response-massacres</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973806</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politicker: New Jersey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>The Myth of New Jersey&#8217;s &#8220;Balanced&#8221; Supreme Court?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...decisions and broadly interpreting state election law to permit Democrats to replace U.S. Sen. Robert Torricelli with Frank Lautenberg on the ballot only a month before Election Day 2002. More recently, Democrats have argued that Christie can appoint on</excerpt>
+          <fti-names>'2002':38 'appoint':47 'argu':43 'balanc':7 'ballot':31 'blog':50 'broad':12 'christi':45 'court':9 'day':37 'decis':10 'democrat':19,41 'elect':15,36 'fedsoc':49 'frank':27 'interpret':13 'jersey':5 'lautenberg':28 'law':16 'month':34 'myth':2 'new':4 'permit':18 'recent':40 'replac':21 'robert':24 'sen':23 'state':14 'suprem':8 'torricelli':25 'u.s':22</fti-names>
+          <source-url>http://www.fedsocblog.com/blog/</source-url>
+          <url>http://www.fedsocblog.com/blog/the_myth_of_new_jerseys_balanced_supreme_court/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973805</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FedSoc Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>The Record: Hate, again</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...religious divides in this country than we are to dealing effectively with high-caliber, multiround, assault-style weaponry. Sen. Frank Lautenberg put it well in the shooting's aftermath, when he said, &quot;The ability to worship freely and without fear is a</excerpt>
+          <fti-names>'abil':40 'aftermath':35 'assault':22 'assault-styl':21 'calib':19 'countri':9 'deal':14 'divid':6 'effect':15 'fear':46 'frank':26 'freeli':43 'hate':3 'high':18 'high-calib':17 'lautenberg':27 'multiround':20 'northjersey.com':49 'put':28 'record':2 'religi':5 'said':38 'sen':25 'shoot':33 'style':23 'weaponri':24 'well':30 'without':45 'worship':42</fti-names>
+          <source-url>http://www.northjersey.com/</source-url>
+          <url>http://www.northjersey.com/r?19=961&amp;43=516422&amp;44=165228386&amp;32=4497&amp;7=309037&amp;40=http%3A%2F%2Fwww.northjersey.com%2Fnews%2Fopinions%2F165228386_Hate__again.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973804</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NorthJersey.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>The Paranoid Style of Democratic politics</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...all of these crackpot theories we unfounded. With Bush gone, Democrats now see the Koch Brothers as the manipulators. Sen. Frank Lautenberg, D-N.J., said last month they were &quot;putting together a secret group of donors, and they are going to put $400 mil</excerpt>
+          <fti-names>'400':51 'brother':22 'bush':15 'crackpot':10 'd':30 'd-n':29 'democrat':5,17 'donor':44 'examin':54 'frank':27 'go':48 'gone':16 'group':42 'j':32 'koch':21 'last':34 'lautenberg':28 'manipul':25 'mil':52 'month':35 'n':31 'paranoid':2 'polit':6 'put':38,50 'said':33 'secret':41 'see':19 'sen':26 'style':3 'theori':11 'togeth':39 'unfound':13 'washington':53</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/the-paranoid-style-of-democratic-politics/article/2504249?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973803</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>After Colorado, Wisconsin shootings, N.J. lawmakers push for limits on bullets, gun sales</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...in Oak Creek, Wis., left 18 people dead and more than 60 others wounded. Michael Reynolds/European Pressphoto AgencySen. Frank Lautenberg is leading a drive to tighten the nation's gun laws in the wake of deadly shootings in Colorado and Wisconsin. He's</excerpt>
+          <fti-names>'18':19 '60':25 'agencysen':31 'bullet':11 'colorado':2,52 'creek':16 'dead':21,49 'drive':37 'frank':32 'gun':12,43 'lautenberg':33 'law':44 'lawmak':6 'lead':35 'left':18 'limit':9 'michael':28 'n.j':5 'nation':41 'nj.com':57 'oak':15 'other':26 'peopl':20 'pressphoto':30 'push':7 'reynolds/european':29 'sale':13 'shoot':4,50 'tighten':39 'wake':47 'wis':17 'wisconsin':3,54 'wound':27</fti-names>
+          <source-url>http://www.nj.com/</source-url>
+          <url>http://www.nj.com/news/index.ssf/2012/08/after_colorado_shootings_nj_la.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973802</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:40-04:00</created-at>
+          <title>PolitiFact N.J.: Truth-O-Meter reviews claims from Democratic ad, Sen. Frank Lautenberg about tax cuts, guns</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Congressional Campaign Committee. Runyan is up for reelection this year and is challenged by Democrat Shelley Adler. U.S. Sen. Frank Lautenberg (D-NJ) made his claim in an opinion-editorial column posted July 30 on NorthJersey.com. Read a recap of how t</excerpt>
+          <fti-names>'30':54 'ad':11 'adler':35 'campaign':20 'challeng':31 'claim':8,45 'column':51 'committe':21 'congression':19 'cut':17 'd':41 'd-nj':40 'democrat':10,33 'editori':50 'frank':13,38 'gun':18 'juli':53 'lautenberg':14,39 'made':43 'meter':6 'n.j':2 'nj':42 'nj.com':63 'northjersey.com':56 'o':5 'opinion':49 'opinion-editori':48 'politifact':1 'post':52 'read':57 'recap':59 'reelect':26 'review':7 'runyan':22 'sen':12,37 'shelley':34 'tax':16 'truth':4 'truth-o-met':3 'u.s':36 'year':28</fti-names>
+          <source-url>http://www.nj.com/</source-url>
+          <url>http://www.nj.com/news/index.ssf/2012/08/politifact_nj_truth-o-meter_re.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973801</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:46-04:00</created-at>
+          <title>Congress Breaks Without Passing Gun Bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Friday without acting on a new gun control measure proposed by a Long Island lawmaker. Rep. Carolyn McCarthy (D-Mineola) and Sen. Frank Lautenberg (D-NJ) had proposed the Stop Online Ammunition Sales Act, which would restrict the sale of ammunition thro</excerpt>
+          <fti-names>'act':9,42 'ammunit':40,49 'bill':6 'break':2 'carolyn':23 'congress':1 'control':14 'd':26,33 'd-mineola':25 'd-nj':32 'frank':30 'friday':7 'gun':5,13 'island':20,52 'lautenberg':31 'lawmak':21 'long':19,51 'mccarthi':24 'measur':15 'mineola':27 'new':12 'nj':34 'onlin':39 'pass':4 'press':53 'propos':16,36 'rep':22 'restrict':45 'sale':41,47 'sen':29 'stop':38 'thro':50 'without':3,8 'would':44</fti-names>
+          <source-url>http://www.longislandpress.com/</source-url>
+          <url>http://www.longislandpress.com/2012/08/06/congress-breaks-without-passing-mccarthys-gun-bill/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973187</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Long Island Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:46-04:00</created-at>
+          <title>Renewed calls for gun control</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...after this weekend's deadly shooting at a Sikh temple in Wisconsin. (It's pronounced &quot;sick&quot; by the way, not &quot;seek&quot;.) U.S. Sen. Frank Lautenberg of New Jersey is pushing a bill to close what is known as the &quot;terror gap,&quot; which would give the feds the aut</excerpt>
+          <fti-names>'aut':53 'bill':37 'call':2 'close':39 'control':5 'dead':10 'fed':51 'frank':29 'gap':46 'give':49 'gun':4 'jersey':33 'known':42 'lautenberg':30 'new':32 'pronounc':20 'push':35 'renew':1 'seek':26 'sen':28 'shoot':11 'sick':21 'sikh':14 'templ':15 'terror':45 'u.s':27 'wabc':54 'way':24 'weekend':8 'wisconsin':17 'would':48</fti-names>
+          <source-url>http://abclocal.go.com/wabc/index</source-url>
+          <url>http://abclocal.go.com/wabc/story?section=news&amp;id=8763484&amp;rss=rss-wabc-article-8763484</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973186</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WABC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:44-04:00</created-at>
+          <title>PolitiFact N.J.: Frank Lautenberg says gun violence claimed more American lives in U.S. than in Iraq and Afghanistan</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...join the conversation about it at NJ.com. You can also follow us on Facebook and Twitter. Jennifer Brown/The Star-LedgerU.S. Sen. Frank Lautenberg said more Americans died from gun violence in the U.S. than have died in the wars in Iraq and Afghanistan.</excerpt>
+          <fti-names>'afghanistan':18,63 'also':28 'american':10,46 'brown/the':36 'claim':8 'convers':21 'die':47,56 'facebook':32 'follow':29 'frank':3,42 'gun':6,49 'iraq':16,61 'jennif':35 'join':19 'lautenberg':4,43 'ledgeru':39 'live':11 'n.j':2 'nj.com':25,64 'politifact':1 'said':44 'say':5 'sen':41 'star':38 'star-ledgeru':37 'twitter':34 'u.s':13,53 'us':30 'violenc':7,50 'war':59</fti-names>
+          <source-url>http://www.nj.com/</source-url>
+          <url>http://www.nj.com/news/index.ssf/2012/08/frank_lautenberg_guns.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973185</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Sen. Frank Lautenberg [D, NJ]</name>
+      <total-session-votes type="integer">389</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <middlename>R.</middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:02:09-04:00</created-at>
+          <title>GUNS TO BE RESTRICTED? - Antzinpantz</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Frank Lautenberg (N.J.) and Rep. Carolyn McCarthy (N.Y.) said the new law would make the sale of ammunition &#8220;safer for law-abiding Americans who are sick and tired of the ease with which criminals can now ...</excerpt>
+          <fti-names>'abid':29 'american':30 'ammunit':24 'antzinpantz':5 'carolyn':12 'crimin':41 'eas':38 'frank':7 'gun':1 'lautenberg':8 'law':18,28 'law-abid':27 'make':20 'mccarthi':13 'n.j':9 'n.y':14 'new':17 'rep':11 'restrict':4 'safer':25 'said':15 'sale':22 'sen':6 'sick':33 'tire':35 'vilmar':44 'would':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://antzinpantz.com/kns/archives/64320&amp;sa=U&amp;ei=woUWUMOpFcfs0gG8rIHwCA&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNF-ynqiTWvt6IDzaENK1NLt2ngisA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16952294</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Vilmar</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:02:09-04:00</created-at>
+          <title>The Westerner: Dem lawmakers to announce bill limiting online ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Two Democratic lawmakers on Monday will announce new legislation to regulate the online and mail-order sale of ammunition. Sen. Frank Lautenberg (N.J.) and Rep. Carolyn McCarthy (N.Y.) said the new law would make ...</excerpt>
+          <fti-names>'ammunit':29 'announc':6,16 'bill':7 'carolyn':36 'dem':3 'democrat':11 'duboi':46 'frank':31,45 'lautenberg':32 'law':42 'lawmak':4,12 'legisl':18 'limit':8 'mail':25 'mail-ord':24 'make':44 'mccarthi':37 'monday':14 'n.j':33 'n.y':38 'new':17,41 'onlin':9,22 'order':26 'regul':20 'rep':35 'said':39 'sale':27 'sen':30 'two':10 'western':2 'would':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thewesterner.blogspot.com/2012/07/dem-lawmakers-to-announce-bill-limiting.html&amp;sa=U&amp;ei=woUWUMOpFcfs0gG8rIHwCA&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNGATvXDQoKyz377rnzBg5OvvBD7BQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952295</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Frank DuBois</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:53:05-04:00</created-at>
+          <title>Senate Advances to Propose Amendments on Cyber Bill</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Senator Chuck Schumer of New York submitted a gun control amendment, co-sponsored by Democratic Senators Frank Lautenberg, Barbara Boxer, Jack Reed, Bob Menendez, Kirsten Gillibrand, and Dianne Feinstein, that ...</excerpt>
+          <fti-names>'advanc':2 'amend':5,19 'barbara':28 'bill':8 'bob':32 'boxer':29 'chuck':10 'clabough':42 'co':21 'co-sponsor':20 'control':18 'cyber':7 'democrat':24 'diann':37 'feinstein':38 'frank':26 'gillibrand':35 'gun':17 'jack':30 'kirsten':34 'lautenberg':27 'menendez':33 'new':13 'propos':4 'raven':41 'rc6960@live.com':40 'reed':31 'schumer':11 'senat':1,9,25 'sponsor':22 'submit':15 'york':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thenewamerican.com/usnews/congress/item/12240-senate-advances-to-propose-amendments-on-cyber-bill&amp;sa=U&amp;ei=3gcVUMbKEoLg0QH64oGQCA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNEReHyTb19Vennn7K2o1yanhgF00Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932500</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rc6960@live.com (Raven Clabough)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-28T01:01:09-04:00</created-at>
+          <title>Get Alerts on Pro Gun Control Members of Congress - VoterTide Blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>NJ Senator Frank Lautenberg To Respond To Colorado By Introducing Gun Control Legislation colm.es/PrMAEZ #p2 &#8212; Alan Colmes (@AlanColmes) July 21, 2012. Kudos to Sen. Robert Menendez the New Jersey Democrat ...</excerpt>
+          <fti-names>'/prmaez':27 '2012':34 '21':33 'alan':29 'alancolm':31 'alert':2 'blog':11 'colm':30 'colm.es':26 'colm.es/prmaez':25 'colorado':19 'congress':9 'control':6,23 'democrat':43 'frank':14 'get':1 'gun':5,22 'introduc':21 'jersey':42 'juli':32 'kudo':35 'lautenberg':15 'legisl':24 'marq':44 'member':7 'menendez':39 'new':41 'nj':12 'p2':28 'pro':4 'respond':17 'robert':38 'sen':37 'senat':13 'votertid':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.votertide.com/get-alerts-on-pro-gun-control-members-of-congress/&amp;sa=U&amp;ei=_3ETUJyVMoHK9gTo8YDwAw&amp;ved=0CE4QmAEwCw&amp;usg=AFQjCNGRwGnb6yeJnF5lvTcOOtkZsHwORA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16925647</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marq</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-27T02:32:36-04:00</created-at>
+          <title>Gun Control Push: A Non Starter? - VoterTide Blog</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>NJ Senator Frank Lautenberg To Respond To Colorado By Introducing Gun Control Legislation colm.es/PrMAEZ #p2 &#8212; Alan Colmes (@AlanColmes) July 21, 2012. Kudos to Sen. Robert Menendez the New Jersey Democrat ...</excerpt>
+          <fti-names>'/prmaez':24 '2012':31 '21':30 'alan':26 'alancolm':28 'blog':8 'colm':27 'colm.es':23 'colm.es/prmaez':22 'colorado':16 'control':2,20 'democrat':40 'frank':11 'gun':1,19 'introduc':18 'jersey':39 'juli':29 'kudo':32 'lautenberg':12 'legisl':21 'marq':41 'menendez':36 'new':38 'nj':9 'non':5 'p2':25 'push':3 'respond':14 'robert':35 'sen':34 'senat':10 'starter':6 'votertid':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.votertide.com/gun-control-push-a-non-starter/&amp;sa=U&amp;ei=_TUSUK-HA4jF6wGO8oDIDA&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNGk2X-Bxl3cDmEJVcFEmtmjFv_7Hg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16894883</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marq</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-27T02:32:34-04:00</created-at>
+          <title>New Jersey Senator Frank Lautenberg Floor Speech: &#8220;Calls for Real ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>New Jersey Senator Frank Lautenberg Floor Speech: &#8220;Calls for Real Action on Gun Reform&#8221; &#8211; 7/23/12. July 24, 2012 &#183; Unedited Politics ... Like this: Like. Be the first to like this. Posted In: Congress Tagged: jersey, lautenberg, senator, speech ...</excerpt>
+          <fti-names>'2012':28 '24':27 '7/23/12':25 'action':21 'call':8,18 'congress':42 'first':36 'floor':6,16 'frank':4,14 'gun':23 'jersey':2,12,44 'juli':26 'lautenberg':5,15,45 'like':31,33,38 'new':1,11 'polit':30,49 'post':40 'real':10,20 'reform':24 'senat':3,13,46 'speech':7,17,47 'tag':43 'unedit':29,48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/24/new-jersey-senator-frank-lautenberg-floor-speech-calls-for-real-action-on-gun-reform-72312/&amp;sa=U&amp;ei=_TUSUK-HA4jF6wGO8oDIDA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNE04bnUhvD_P6HpnLBmixYZQPm_ZQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16894876</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-26T03:12:17-04:00</created-at>
+          <title>Senate Committee Adopts TSCA Reform Bill | Chemical ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Credit: Courtesy of Frank Lautenberg. To download a PDF of the amended version of S. 847, go to http://cenm.ag/847. The Senate Environment &amp;amp; Public Works Committee today approved legislation that would fundamentally ...</excerpt>
+          <fti-names>'/847.':28 '847':23 'adopt':3 'amend':19 'approv':36 'bill':6 'cenm.ag':27 'cenm.ag/847':26 'chemic':7 'cheryl':41 'committe':2,34 'courtesi':9 'credit':8 'download':14 'environ':31 'frank':11 'fundament':40 'go':24 'hogu':42 'lautenberg':12 'legisl':37 'pdf':16 'public':32 'reform':5 'senat':1,30 'today':35 'tsca':4 'version':20 'work':33 'would':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cen.acs.org/articles/90/web/2012/07/Senate-Committee-Adopts-TSCA-Reform.html&amp;sa=U&amp;ei=ye0QUOW8M4qx0QGX0IDwDA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNGQZQfDKj6AWuoNdFjrFh4xUDIDMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16861823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cheryl Hogue</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-26T03:12:15-04:00</created-at>
+          <title>New Jersey Senator Frank Lautenberg Floor Speech: &#8220;Calls for Real ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>New Jersey Senator Frank Lautenberg Floor Speech: &#8220;Calls for Real Action on Gun Reform&#8221; &#8211; 7/23/12. July 24, 2012 &#183; Unedited Politics ... Like this: Like. Be the first to like this. Posted In: Congress Tagged: jersey, lautenberg, senator, speech ...</excerpt>
+          <fti-names>'2012':28 '24':27 '7/23/12':25 'action':21 'call':8,18 'congress':42 'first':36 'floor':6,16 'frank':4,14 'gun':23 'jersey':2,12,44 'juli':26 'lautenberg':5,15,45 'like':31,33,38 'new':1,11 'polit':30,49 'post':40 'real':10,20 'reform':24 'senat':3,13,46 'speech':7,17,47 'tag':43 'unedit':29,48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/24/new-jersey-senator-frank-lautenberg-floor-speech-calls-for-real-action-on-gun-reform-72312/&amp;sa=U&amp;ei=ye0QUOW8M4qx0QGX0IDwDA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGFfJkfM72dH-u0l5FisCDhqcpSlA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16861820</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-29T05:53:04-04:00</created-at>
+          <title>Would the Colorado Movie Theater Shooting Prompt You to Make ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Friday&amp;#39;s tragic events in Colorado have had every politician coming out of the woodwork to discuss gun control including New Jersey&amp;#39;s own Senator Frank Lautenberg.</excerpt>
+          <fti-names>'colorado':3,16 'come':21 'control':29 'discuss':27 'event':14 'everi':19 'frank':36 'friday':11 'gearhart':39 'gun':28 'includ':30 'jersey':32 'jim':38 'lautenberg':37 'make':10 'movi':4 'new':31 'politician':20 'prompt':7 'senat':35 'shoot':6 'show':40 'theater':5 'tragic':13 'woodwork':25 'would':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nj1015.com/would-the-colorado-movie-theater-shooting-prompt-you-to-make-stricter-gun-laws/&amp;sa=U&amp;ei=3gcVUMbKEoLg0QH64oGQCA&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNF82bMxHt_eb3DE9SPPQ_Tn5W6U0A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16932499</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Gearhart Show</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300064</commentariable-id>
+          <created-at type="datetime">2012-07-25T04:12:11-04:00</created-at>
+          <title>NJ Senators Announce Transit Funding - Hoboken, NJ Patch</title>
+          <contains-term>senator</contains-term>
+          <excerpt>By Claire Moses; Email the author; 1:20 pm. Tweet. Email. Print. 4 Comments. &#8249; Back to Article. new Video_thumb. Embed | Share. U.S. Senator Frank Lautenberg on Monday morning at the Hoboken bus terminal. context ...</excerpt>
+          <fti-names>'1':15 '20':16 '4':21 'announc':3 'articl':25 'author':14 'back':23 'bus':41 'clair':10,44 'comment':22 'context':43 'email':12,19 'emb':29 'frank':33 'fund':5 'hoboken':6,40 'lautenberg':34 'monday':36 'morn':37 'mose':11,45 'new':26 'nj':1,7 'patch':8 'pm':17 'print':20 'senat':2,32 'share':30 'termin':42 'thumb':28 'transit':4 'tweet':18 'u.s':31 'video':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hoboken.patch.com/articles/nj-senators-announce-transit-funding&amp;sa=U&amp;ei=VaoPUOiEA8TC0QHTiIH4AQ&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNEv0VVRPM_G5MGZka-D2SHxfRQRww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16854953</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Claire Moses</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">37299</page-views-count>
+      <unaccented-name>Frank Lautenberg</unaccented-name>
+      <oc-user-comments type="integer">20</oc-user-comments>
+    </person>
+  </people>
+</hash>

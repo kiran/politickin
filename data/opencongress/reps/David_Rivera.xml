@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.8713450292398</party-votes-percentage>
+        <abstains-percentage type="float">0.523560209424084</abstains-percentage>
+        <votes-most-often-with-id type="integer">400344</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">9</abstains>
+        <cosponsored-bills type="integer">208</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412415</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1571</votes-republican-position>
+      <blog-article-count type="integer">2300</blog-article-count>
+      <fax>202-226-0346</fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">15</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.8713450292398</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Rivera</lastname>
+      <congress-office>417 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>David</firstname>
+      <website>http://rivera.house.gov/</website>
+      <birthday type="date">1965-09-16</birthday>
+      <person-id type="integer">412415</person-id>
+      <phone>202-225-2778</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">485</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:02:21-04:00</created-at>
+          <title>Obama campaign to rumored David Rivera ringer: Stop stealing our logo</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...who had never heard of Sternad until he decided to run this year, are starting to suspect he's a plant from Republican Rep. David Rivera. A charge they both deny. But there are curious links: the Wyndham hotel company worker is using the same Hialeah ma</excerpt>
+          <fti-names>'campaign':2 'charg':39 'compani':51 'curious':46 'david':5,36 'decid':20 'deni':42 'heard':15 'herald':60 'hialeah':57 'hotel':50 'link':47 'logo':11 'ma':58 'miami':59 'never':14 'obama':1 'plant':32 'rep':35 'republican':34 'ringer':7 'rivera':6,37 'rumor':4 'run':22 'start':26 'steal':9 'sternad':17 'stop':8 'suspect':28 'use':54 'worker':52 'wyndham':49 'year':24</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://miamiherald.typepad.com/nakedpolitics/2012/08/obama-campaign-to-rumored-david-rivera-ringer-stop-stealing-our-logo.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972961</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:48-04:00</created-at>
+          <title>Absentee ballot fraud made easy in Miami-Dade</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...stigmatize the vote-by-mail process or make the process more difficult by creating obstacles to voting by mail,&#8221; U.S. Rep. David Rivera, a Republican from Miami, said in a statement, echoing his comments on Spanish-language radio. &#8220;This would only r</excerpt>
+          <fti-names>'absente':1 'ballot':2 'comment':44 'creat':24 'dade':9 'david':32 'difficult':22 'easi':5 'echo':42 'fraud':3 'herald':55 'languag':48 'made':4 'mail':15,29 'make':18 'miami':8,37,54 'miami-dad':7 'obstacl':25 'process':16,20 'r':53 'radio':49 'rep':31 'republican':35 'rivera':33 'said':38 'spanish':47 'spanish-languag':46 'statement':41 'stigmat':10 'u.s':30 'vote':13,27 'vote-by-mail':12 'would':51</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/08/05/2934181/absentee-ballot-fraud-made-easy.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972521</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:47-04:00</created-at>
+          <title>The suspicious campaign of Justin Lamar Sternad. A David Rivera ringer?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...so happen to emanate from the same Hialeah outfit that did nearly $100,000 worth of work for incumbent Republican Congressman David Rivera in 2010. One Sternard mailer repeats some tough (and likely false) comments from Rivera about another Democratic c</excerpt>
+          <fti-names>'000':25 '100':24 '2010':36 'anoth':50 'c':52 'campaign':3 'comment':46 'congressman':32 'david':9,33 'democrat':51 'eman':15 'fals':45 'happen':13 'herald':54 'hialeah':19 'incumb':30 'justin':5 'lamar':6 'like':44 'mailer':39 'miami':53 'near':23 'one':37 'outfit':20 'repeat':40 'republican':31 'ringer':11 'rivera':10,34,48 'sternad':7 'sternard':38 'suspici':2 'tough':42 'work':28 'worth':26</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://miamiherald.typepad.com/nakedpolitics/2012/08/the-suspicious-campaign-of-justin-lamar-sternad-a-david-rivera-ringer.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972520</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:02:22-04:00</created-at>
+          <title>Hill Climbers: Rivera Aide Displays Competitive Intensity</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...everything in life 110 percent. Its a lesson she learned on and off the lacrosse field and one she brings to freshman Rep. David Riveras office every day. Speaker John Boehner holds his weekly news conference in the Capitol on Thursday. Few Americans ar</excerpt>
+          <fti-names>'110':11 'aid':4 'american':50 'ar':51 'boehner':38 'bring':27 'call':53 'capitol':46 'climber':2 'competit':6 'confer':43 'david':31 'day':35 'display':5 'everi':34 'everyth':8 'field':23 'freshman':29 'hill':1 'hold':39 'intens':7 'john':37 'lacross':22 'learn':17 'lesson':15 'life':10 'news':42 'offic':33 'one':25 'percent':12 'rep':30 'rivera':3,32 'roll':52 'speaker':36 'thursday':48 'week':41</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_17/Hill-Climbers-Rivera-Aide-Displays-Competitive-Intensity-216730-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972962</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:42-04:00</created-at>
+          <title>Four candidates vie to represent Little Havana, South Beach on Miami-Dade commission</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...many of the same neighborhoods as Barreiro. But he originally filed to run for U.S. Congress in southwest Miami-Dade against Rep. David Rivera. Garcia&#8217;s plans changed after he had a public falling out with Democratic Party officials. That prompted Bra</excerpt>
+          <fti-names>'barreiro':21 'beach':9 'bra':57 'candid':2 'chang':43 'commiss':14 'congress':30 'dade':13,35 'david':38 'democrat':52 'fall':49 'file':25 'four':1 'garcia':40 'havana':7 'herald':59 'littl':6 'mani':15 'miami':12,34,58 'miami-dad':11,33 'neighborhood':19 'offici':54 'origin':24 'parti':53 'plan':42 'prompt':56 'public':48 'rep':37 'repres':5 'rivera':39 'run':27 'south':8 'southwest':32 'u.s':29 'vie':3</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/08/01/2926226/four-candidates-vie-to-represent.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969930</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:42-04:00</created-at>
+          <title>Democrats 'serve' Eric Cantor with 'wanted' poster for Rep. Vern Buchanan</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...been trying to play up Buchanan's problems in hopes of defeating him. Seconds after Cantor walked by came Florida Rep. David Rivera (seen in background of woman in green sweater) who also had a &quot;wanted&quot; poster pushed his way. Photo provided by DCCC....</excerpt>
+          <fti-names>'also':44 'background':37 'buchanan':11,17 'came':30 'cantor':4,27 'david':33 'dccc':55 'defeat':23 'democrat':1 'eric':3 'florida':31 'green':41 'hope':21 'petersburg':58 'photo':52 'play':15 'poster':7,48 'problem':19 'provid':53 'push':49 'rep':9,32 'rivera':34 'second':25 'seen':35 'serv':2 'st':57 'sweater':42 'tampabay.com':56 'time':59 'tri':13 'vern':10 'walk':28 'want':6,47 'way':51 'woman':39</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/blogs/the-buzz-florida-politics/content/democrats-serve-eric-cantor-wanted-poster-rep-vern-buchanan</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969929</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:56-04:00</created-at>
+          <title>Key Largo&#8217;s Aquarius, last remaining underwater habitat lab, in jeopardy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Ros-Lehtinen, who represents the Keys and has made four dives to Aquarius. She and fellow Congress members Mario Diaz-Balart and David Rivera took a boat ride out to Aquarius in mid-July, applauding the aquanauts when they finished their long decompress</excerpt>
+          <fti-names>'applaud':49 'aquanaut':51 'aquarius':4,25,44 'balart':34 'boat':40 'congress':29 'david':36 'decompress':57 'diaz':33 'diaz-balart':32 'dive':23 'fellow':28 'finish':54 'four':22 'habitat':8 'herald':59 'jeopardi':11 'juli':48 'key':1,18 'lab':9 'largo':2 'last':5 'lehtinen':14 'long':56 'made':21 'mario':31 'member':30 'miami':58 'mid':47 'mid-juli':46 'remain':6 'repres':16 'ride':41 'rivera':37 'ros':13 'ros-lehtinen':12 'took':38 'underwat':7</fti-names>
+          <source-url>http://www.miamiherald.com/</source-url>
+          <url>http://www.miamiherald.com/2012/07/31/2924005/key-largos-aquarius-last-remaining.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16967143</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Miami Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:54-04:00</created-at>
+          <title>Endorsement war in Dem race to challenge Rep. David Rivera</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Emily's List, which supports aborton-rights women candidates, this morning said it was endoring District 26 Congressional candidate Gloria Romero Roses, which could be a big deal if it spends some hard-to-come-by dollars to advertise the little-known Democ</excerpt>
+          <fti-names>'26':28 'aborton':17 'aborton-right':16 'advertis':51 'big':38 'candid':20,30 'challeng':7 'come':47 'congression':29 'could':35 'david':9 'deal':39 'dem':4 'democ':56 'district':27 'dollar':49 'emili':11 'endor':26 'endors':1 'gloria':31 'hard':45 'hard-to-come-bi':44 'known':55 'list':13 'littl':54 'little-known':53 'miamiherald.com':57 'morn':22 'race':5 'rep':8 'right':18 'rivera':10 'romero':32 'rose':33 'said':23 'spend':42 'support':15 'war':2 'women':19</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://miamiherald.typepad.com/nakedpolitics/2012/07/local-vs-dc-endorsement-war-in-dem-race-to-challenge-rep-david-rivera.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:50:40-04:00</date>
+          <id type="integer">16967141</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MiamiHerald.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:54-04:00</created-at>
+          <title>VP contender Marco Rubio touts the new &#8216;Mitt&#8217;s VP&#8217; smartphone app</title>
+          <contains-term>representative</contains-term>
+          <excerpt>During his tenure serving as Speaker of the Florida House, Rubio shared his residence with another Florida State Representative, David Rivera. The two men co-owned a home together in Tallahassee, which later fell into foreclosure after deferring ...</excerpt>
+          <fti-names>'anoth':28 'app':12 'co':38 'co-own':37 'contend':2 'david':32 'defer':51 'fell':47 'florida':21,29 'foreclosur':49 'home':41 'hous':22 'later':46 'marco':3 'men':36 'mitt':8 'new':7 'own':39 'repres':31 'resid':26 'rivera':33 'rubio':4,23 'serv':16 'share':24 'smartphon':11 'speaker':18 'state':30 'tallahasse':44 'tenur':15 'togeth':42 'tout':5 'two':35 'vp':1,10 'worldnews.com':52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://article.wn.com/view/2012/07/31/VP_contender_Marco_Rubio_touts_the_new_Mitt_s_VP_smartphone_/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:00:34-04:00</date>
+          <id type="integer">16967142</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Worldnews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:56-04:00</created-at>
+          <title>The booming business of being Rubio</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...disclosure report. And Rubio is underwater on both his Miami home and a Tallahassee rental property he owns with Rep. David Rivera (R-Fla.), a longtime friend whom the senator served with in the Florida House and who remains at the center of a federal i</excerpt>
+          <fti-names>'boom':2 'busi':3 'center':49 'david':27 'disclosur':7 'feder':52 'fla':31 'florida':42 'friend':34 'home':17 'hous':43 'longtim':33 'miami':16 'own':24 'politico':55 'properti':22 'r':30 'r-fla':29 'remain':46 'rental':21 'rep':26 'report':8 'rivera':28 'rubio':6,10 'senat':37 'serv':38 'tallahasse':20 'underwat':12</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=6dad08d002e6a0fd45de9d599eda9ed6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967144</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>R000590</bioguide-id>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. David Rivera [R, FL-25]</name>
+      <total-session-votes type="integer">1710</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>25</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:56:38-04:00</created-at>
+          <title>Are we bored of each other - Boston Globe by endorling</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Dems rip Rep. David Rivera then each other &#8211; Miami Herald The Democrats running to unseat Republican Congressman David Rivera ripped the scandal-plagued incumbent on Wednesday. But they also turned on each ...</excerpt>
+          <fti-names>'also':40 'bore':3 'boston':7 'congressman':27 'david':14,28 'dem':11 'democrat':22 'endorl':10,44 'globe':8 'herald':20 'incumb':35 'miami':19 'plagu':34 'rep':13 'republican':26 'rip':12,30 'rivera':15,29 'run':23 'scandal':33 'scandal-plagu':32 'turn':41 'unseat':25 'wednesday':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/endorling/view_entry/77530&amp;sa=U&amp;ei=OkwWUNmAJunp0QGf-oCIDA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGsLLz78Fj7nwOT_O28So7n3620Zw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16949631</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>endorling</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:22:53-04:00</created-at>
+          <title>Capitol Hill Cubans: Members Walk Out on Odebrecht CEO</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mario Diaz-Balart (R-FL) and U.S. Rep. David Rivera (R-FL) walked out when Odebrecht USA&amp;#39;s President and CEO Gilberto Neves got up to speak. The walk-out was in protest of Odebrecht&amp;#39;s unwillingness to break ties with ...</excerpt>
+          <fti-names>'balart':13 'break':52 'capitol':1,56 'ceo':9,33 'cuban':3,58 'david':20 'diaz':12 'diaz-balart':11 'fl':16,24 'gilberto':34 'got':36 'hill':2,57 'mario':10 'member':4 'neve':35 'noreply@blogger.com':55 'odebrecht':8,28,48 'presid':31 'protest':46 'r':15,23 'r-fl':14,22 'rep':19 'rivera':21 'speak':39 'tie':53 'u.s':18 'unwilling':50 'usa':29 'walk':5,25,42 'walk-out':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capitolhillcubans.com/2012/07/members-walk-out-on-odebrecht-ceo.html&amp;sa=U&amp;ei=xuQUUJjVNYOo8QSkq4FY&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFUa7E4zMYETuPbmjBgzwtruvRWFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930831</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>noreply@blogger.com (Capitol Hill Cubans)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:22:52-04:00</created-at>
+          <title>Are we bored of each other - Boston Globe by endorling</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Dems rip Rep. David Rivera then each other &#8211; Miami Herald The Democrats running to unseat Republican Congressman David Rivera ripped the scandal-plagued incumbent on Wednesday. But they also turned on each ...</excerpt>
+          <fti-names>'also':40 'bore':3 'boston':7 'congressman':27 'david':14,28 'dem':11 'democrat':22 'endorl':10,44 'globe':8 'herald':20 'incumb':35 'miami':19 'plagu':34 'rep':13 'republican':26 'rip':12,30 'rivera':15,29 'run':23 'scandal':33 'scandal-plagu':32 'turn':41 'unseat':25 'wednesday':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/endorling/view_entry/77530&amp;sa=U&amp;ei=xuQUUJjVNYOo8QSkq4FY&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNE0uBoSpkUJbADEJUeOIpoDXnOAJQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930830</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>endorling</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:22:50-04:00</created-at>
+          <title>State cops, prosecutors were ready to charge US Rep. David Rivera ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>State cops, prosecutors were ready to charge US Rep. David Rivera Tampabay.com. In the summer of 2011, the arrest of U.S. Rep. David Rivera seemed all but certain. Agents with the Florida Department of Law Enforcement ...</excerpt>
+          <fti-names>'2011':28 'admin':48 'agent':40 'arrest':30 'certain':39 'charg':7,18 'cop':2,13 'david':10,21,34 'depart':44 'enforc':47 'florida':43 'law':46 'prosecutor':3,14 'readi':5,16 'rep':9,20,33 'rivera':11,22,35 'seem':36 'state':1,12 'summer':26 'tampabay.com':23 'u.s':32 'us':8,19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ga-moc/david-scott-georgia-representative/state-cops-prosecutors-were-ready-to-charge-us-rep-david-rivera-tampabay-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dstate-cops-prosecutors-were-ready-to-charge-us-rep-david-rivera-tampabay-com&amp;sa=U&amp;ei=xuQUUJjVNYOo8QSkq4FY&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFhRB2l5VFdw_KsRgN8-RkcrY4wRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930826</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:27:47-04:00</created-at>
+          <title>RNC highlights Obama-foreclosures criticism of Dem candidate Joe ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>That&amp;#39;s especially true in the battleground District 26 race against Republican Rep. David Rivera. &amp;quot;Former Obama Administration Official: Obama Isn&amp;#39;t Doing Enough On Foreclosures,&amp;quot; the RNC just said in an email concerning ...</excerpt>
+          <fti-names>'26':19 'administr':28 'battleground':17 'candid':9 'caputo':46 'concern':44 'critic':6 'david':24 'dem':8 'district':18 'email':43 'enough':34 'especi':13 'foreclosur':5,36 'former':26 'highlight':2 'isn':31 'joe':10 'marc':45 'obama':4,27,30 'obama-foreclosur':3 'offici':29 'race':20 'rep':23 'republican':22 'rivera':25 'rnc':1,38 'said':40 'true':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsmiami.com/rnc-highlights-obama-foreclosures-criticism-of-dem-candidate-joe-garcia-former-obama-official/&amp;sa=U&amp;ei=MVwTUKGaLoWS9QTnmIDgCA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEP3fG6tAQPf58E0-J80dbFzOLxXw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923361</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:27:47-04:00</created-at>
+          <title>Are we bored of each other - Boston Globe by endorling</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Dems rip Rep. David Rivera then each other &#8211; Miami Herald The Democrats running to unseat Republican Congressman David Rivera ripped the scandal-plagued incumbent on Wednesday. But they also turned on each ...</excerpt>
+          <fti-names>'also':40 'bore':3 'boston':7 'congressman':27 'david':14,28 'dem':11 'democrat':22 'endorl':10,44 'globe':8 'herald':20 'incumb':35 'miami':19 'plagu':34 'rep':13 'republican':26 'rip':12,30 'rivera':15,29 'run':23 'scandal':33 'scandal-plagu':32 'turn':41 'unseat':25 'wednesday':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/endorling/view_entry/77530&amp;sa=U&amp;ei=MVwTUKGaLoWS9QTnmIDgCA&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGk5D_P3q8XROIR9L_Vqa9h2r4lnw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923358</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>endorling</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:56:36-04:00</created-at>
+          <title>From union-busting to carpetbaggers to David Rivera-bashing, D-26 ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Democrats running to unseat Republican Congressman David Rivera ripped the scandal-plagued incumbent on Tuesday. But they also turned on each other. Candidate Gustavo Marin, of Perrine, suggested that fellow ...</excerpt>
+          <fti-names>'-26':13 'also':33 'bash':11 'bust':4 'candid':38 'caputo':47 'carpetbagg':6 'congressman':20 'd':12 'david':8,21 'democrat':15 'fellow':45 'gustavo':39 'incumb':28 'marc':46 'marin':40 'perrin':42 'plagu':27 'republican':19 'rip':23 'rivera':10,22 'rivera-bash':9 'run':16 'scandal':26 'scandal-plagu':25 'suggest':43 'tuesday':30 'turn':34 'union':3 'union-bust':2 'unseat':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiherald.typepad.com/nakedpolitics/2012/07/from-union-busting-to-carpetbaggers-to-david-rivera-bashing-d-26-dems-take-off-gloves.html&amp;sa=U&amp;ei=OkwWUNmAJunp0QGf-oCIDA&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNFUxvgOxPYPP8Bj8an3K54vZdCk0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16949627</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:56:29-04:00</created-at>
+          <title>Senior Cuban spy goes after Rep. David Rivera | Babal&#250; Blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Via Cuba Confidential: Senior Spy-Diplomat Condemns Florida Congressman David Rivera The Cuban News Agency (ACN) reports that expelled spy Josefina.</excerpt>
+          <fti-names>'acn':27 'agenc':26 'alberto':33 'babal&#250;':9 'blog':10 'condemn':18 'confidenti':13 'congressman':20 'cruz':36 'cuba':12 'cuban':2,24 'david':7,21 'de':34 'diplomat':17 'expel':30 'florida':19 'goe':4 'josefina':32 'la':35 'news':25 'rep':6 'report':28 'rivera':8,22 'senior':1,14 'spi':3,16,31 'spy-diplomat':15 'via':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://babalublog.com/2012/07/senior-cuban-spy-goes-after-rep-david-rivera/&amp;sa=U&amp;ei=OkwWUNmAJunp0QGf-oCIDA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEpMqWqactNg3z5euy_FloXJoFWJA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16949620</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alberto de la Cruz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:22:51-04:00</created-at>
+          <title>From union-busting to carpetbaggers to David Rivera-bashing, D-26 ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Democrats running to unseat Republican Congressman David Rivera ripped the scandal-plagued incumbent on Tuesday. But they also turned on each other. Candidate Gustavo Marin, of Perrine, suggested that fellow ...</excerpt>
+          <fti-names>'-26':13 'also':33 'bash':11 'bust':4 'candid':38 'caputo':47 'carpetbagg':6 'congressman':20 'd':12 'david':8,21 'democrat':15 'fellow':45 'gustavo':39 'incumb':28 'marc':46 'marin':40 'perrin':42 'plagu':27 'republican':19 'rip':23 'rivera':10,22 'rivera-bash':9 'run':16 'scandal':26 'scandal-plagu':25 'suggest':43 'tuesday':30 'turn':34 'union':3 'union-bust':2 'unseat':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiherald.typepad.com/nakedpolitics/2012/07/from-union-busting-to-carpetbaggers-to-david-rivera-bashing-d-26-dems-take-off-gloves.html&amp;sa=U&amp;ei=xuQUUJjVNYOo8QSkq4FY&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNG47y2reGL4wc7yzMyowLl5SXtqhQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930829</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Caputo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412415</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:22:47-04:00</created-at>
+          <title>Senior Cuban spy goes after Rep. David Rivera | Babal&#250; Blog</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Via Cuba Confidential: Senior Spy-Diplomat Condemns Florida Congressman David Rivera The Cuban News Agency (ACN) reports that expelled spy Josefina.</excerpt>
+          <fti-names>'acn':27 'agenc':26 'alberto':33 'babal&#250;':9 'blog':10 'condemn':18 'confidenti':13 'congressman':20 'cruz':36 'cuba':12 'cuban':2,24 'david':7,21 'de':34 'diplomat':17 'expel':30 'florida':19 'goe':4 'josefina':32 'la':35 'news':25 'rep':6 'report':28 'rivera':8,22 'senior':1,14 'spi':3,16,31 'spy-diplomat':15 'via':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://babalublog.com/2012/07/senior-cuban-spy-goes-after-rep-david-rivera/&amp;sa=U&amp;ei=xuQUUJjVNYOo8QSkq4FY&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNHZyPEj7Fh6V3DVTvZKG924tXOQqg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930824</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alberto de la Cruz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">4734</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>David Rivera</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

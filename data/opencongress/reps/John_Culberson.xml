@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-27T00:28:59-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.9431099873578</party-votes-percentage>
+        <abstains-percentage type="float">7.96974985456661</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">86</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">137</abstains>
+        <cosponsored-bills type="integer">183</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">308</party-votes-percentage-rank>
+        <sponsored-bills type="integer">10</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400089</person-id>
+        <cosponsored-bills-rank type="integer">232</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">399</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1502</votes-republican-position>
+      <metavid-id>John_Abney_Culberson</metavid-id>
+      <blog-article-count type="integer">7552</blog-article-count>
+      <user-approval type="float">4.7037037037037</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">196</oc-users-tracking>
+      <contact-webform>http://www.culberson.house.gov/contactinfo.aspx</contact-webform>
+      <youtube-id>JohnCulbersonTX07</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.9431099873578</with-party-percentage>
+      <lastname>Culberson</lastname>
+      <fax>202-225-4381</fax>
+      <congress-office>2352 Rayburn House Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://culberson.house.gov/</website>
+      <birthday type="date">1956-08-24</birthday>
+      <person-id type="integer">400089</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2571</phone>
+      <religion>Methodist</religion>
+      <bioguide-id>C001048</bioguide-id>
+      <votes-democratic-position type="integer">340</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>A.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:40:09-04:00</created-at>
+          <title>Pols hope rover helps NASA funding</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Aeronautics Subcommittee, said in a joint statement: &#8220;This is a monumental achievement and a huge step for planetary science.&#8221; Rep. John Culberson (R-Texas), whose district relies heavily on NASA for jobs, also offered his congratulations, tweeting </excerpt>
+          <fti-names>'achiev':18 'aeronaut':7 'also':40 'congratul':43 'culberson':28 'district':33 'fund':6 'heavili':35 'help':4 'hope':2 'huge':21 'job':39 'john':27 'joint':12 'monument':17 'nasa':5,37 'offer':41 'planetari':24 'pol':1 'politico':46 'r':30 'r-texa':29 'reli':34 'rep':26 'rover':3 'said':9 'scienc':25 'statement':13 'step':22 'subcommitte':8 'texa':31 'tweet':44 'whose':32</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79406.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972771</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:38:39-04:00</created-at>
+          <title>Mars Science Lab poised for trail-blazing mission</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The country needs more of these robotic space exploration missions, not less.&quot; In a rare show of bipartisan agreement, Rep. Adam Schiff, D-Calif., and John Culberson, R-Texas, whose states include NASA field centers, wrote in Space News that ...</excerpt>
+          <fti-names>'adam':30 'agreement':28 'bipartisan':27 'blaze':8 'calif':34 'center':46 'countri':11 'culberson':37 'd':33 'd-calif':32 'explor':18 'field':45 'includ':43 'john':36 'lab':3 'less':21 'mar':1 'mission':9,19 'nasa':44 'need':12 'news':50 'pois':4 'r':39 'r-texa':38 'rare':24 'rep':29 'robot':16 'schiff':31 'scienc':2 'show':25 'space':17,49 'spaceflight':52 'state':42 'texa':40 'trail':7 'trail-blaz':6 'whose':41 'wrote':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.spaceflightnow.com/mars/msl/120731preview/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T21:50:16-04:00</date>
+          <id type="integer">16966282</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Spaceflight Now</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:38:38-04:00</created-at>
+          <title>How corporate PACs deal with bad PR</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Charles Gonzalez (D-Texas ... Don Young (R-Alaska), Sheila Jackson Lee (D-Texas), Elijah Cummings (D-Md.), John Culberson (R-Texas) and Jim Costa (D-Calif.). Twenty state-level candidates from California to Oklahoma to Ohio also received ...</excerpt>
+          <fti-names>'alaska':18 'also':52 'bad':6 'calif':40 'california':47 'candid':45 'charl':9 'corpor':2 'costa':37 'culberson':31 'cum':26 'd':12,23,28,39 'd-calif':38 'd-md':27 'd-texa':11,22 'deal':4 'elijah':25 'gonzalez':10 'jackson':20 'jim':36 'john':30 'lee':21 'level':44 'md':29 'nj.com':54 'ohio':51 'oklahoma':49 'pac':3 'pr':7 'r':17,33 'r-alaska':16 'r-texa':32 'receiv':53 'rep':8 'sheila':19 'state':43 'state-level':42 'texa':13,24,34 'twenti':41 'young':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nj.com/us-politics/index.ssf/2012/07/how_corporate_pacs_deal_with_b.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T04:53:48-04:00</date>
+          <id type="integer">16966281</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:44:43-04:00</created-at>
+          <title>How corporate PACs deal with bad PR</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Charles Gonzalez (D-Texas) received &#8212; and promptly returned &#8212; a $1,000 BP Corporation North America PAC contribution he got less than a month after the Deepwater Horizon drilling platform explosion of April 20, 2010. &#8220;It makes good sense on ...</excerpt>
+          <fti-names>'000':20 '1':19 '20':42 '2010':43 'america':24 'april':41 'bad':6 'bp':21 'charl':9 'contribut':26 'corpor':2,22 'd':12 'd-texa':11 'deal':4 'deepwat':35 'drill':37 'explos':39 'gonzalez':10 'good':46 'got':28 'horizon':36 'less':29 'make':45 'month':32 'north':23 'pac':3,25 'platform':38 'politico.com':49 'pr':7 'prompt':16 'receiv':14 'rep':8 'return':17 'sens':47 'texa':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/news/stories/0712/79161.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:12:17-04:00</date>
+          <id type="integer">16959918</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-23T22:44:10-04:00</created-at>
+          <title>Morning Energy: NRG buys GenOn</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>In June, it sent $3,000 to Rep. Don Young (R-Alaska) and $1,000 each to Reps. John Culberson (R-Texas), Elijah Cummings (D-Md.), Jim Costa (D-Calif.) and Sheila Jackson Lee (D-Texas). &#8212; Other members of the Big Five&#8217;s $5,000 Club not mentioned above ..</excerpt>
+          <fti-names>'000':11,21,55 '1':20 '3':10 '5':54 'alaska':18 'big':51 'buy':4 'calif':39 'club':56 'costa':36 'culberson':26 'cum':31 'd':33,38,45 'd-calif':37 'd-md':32 'd-texa':44 'elijah':30 'energi':2 'five':52 'genon':5 'jackson':42 'jim':35 'john':25 'june':7 'lee':43 'md':34 'member':48 'mention':58 'morn':1 'nrg':3 'politico.com':60 'r':17,28 'r-alaska':16 'r-texa':27 'rep':13,24 'sent':9 'sheila':41 'texa':29,46 'young':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/morningenergy/0712/morningenergy544.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T10:18:15-04:00</date>
+          <id type="integer">16821476</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-23T22:44:11-04:00</created-at>
+          <title>CSB holds hearing on Macondo blowout - EPA will revise MATS requirements - Macfarlane, NRC commissioners to testify - ExxonMobil, Koch PACs in full force in June - NRG buys GenOn</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...May, though it&#8217;s still far less active than most. In June, it sent $3,000 to Rep. Don Young (R-Alaska) and $1,000 each to Reps. John Culberson (R-Texas), Elijah Cummings (D-Md.), Jim Costa (D-Calif.) and Sheila Jackson Lee (D-Texas). &#8212; Other members</excerpt>
+          <fti-names>'000':43,53 '1':52 '3':42 'activ':35 'alaska':50 'blowout':6 'buy':26 'calif':71 'commission':14 'costa':68 'csb':1 'culberson':58 'cum':63 'd':65,70,77 'd-calif':69 'd-md':64 'd-texa':76 'elijah':62 'epa':7 'exxonmobil':17 'far':33 'forc':22 'full':21 'genon':27 'hear':3 'hold':2 'jackson':74 'jim':67 'john':57 'june':24,39 'koch':18 'lee':75 'less':34 'macfarlan':12 'macondo':5 'mat':10 'may':28 'md':66 'member':80 'nrc':13 'nrg':25 'pac':19 'politico':82 'r':49,60 'r-alaska':48 'r-texa':59 'rep':45,56 'requir':11 'revis':9 'sent':41 'sheila':73 'still':32 'testifi':16 'texa':61,78 'though':29 'young':47</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=668353213e67bb89bdd915bf29da250b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16821477</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:48:15-04:00</created-at>
+          <title>July 22: Voter ID Law</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Garcia answers questions from KPRC Facebook friends and responds to Congressman John Culberson who says METRO has plans that taxpayers should not support. The largest plane in the world will soon be making Houston home!&#160; Lufthansa's A-380 ...</excerpt>
+          <fti-names>'-380':44 '22':2 'answer':7 'click2houston.com':45 'congressman':16 'culberson':18 'facebook':11 'friend':12 'garcia':6 'home':40 'houston':39 'id':4 'john':17 'juli':1 'kprc':10 'largest':30 'law':5 'lufthansa':41 'make':38 'metro':21 'plan':23 'plane':31 'question':8 'respond':14 'say':20 'soon':36 'support':28 'taxpay':25 'voter':3 'world':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.click2houston.com/news/July-22-Voter-ID-Law/-/1735978/15622386/-/format/rss_2.0/-/luehep/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T10:55:14-04:00</date>
+          <id type="integer">16889063</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Click2Houston.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:44:59-04:00</created-at>
+          <title>July 22: Voter ID Law</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Garcia answers questions from KPRC Facebook friends and responds to Congressman John Culberson who says METRO has plans that taxpayers should not support. The largest plane in the world will soon be making Houston home!&#160; Lufthansa's A-380 ...</excerpt>
+          <fti-names>'-380':44 '22':2 'answer':7 'click2houston.com':45 'congressman':16 'culberson':18 'facebook':11 'friend':12 'garcia':6 'home':40 'houston':39 'id':4 'john':17 'juli':1 'kprc':10 'largest':30 'law':5 'lufthansa':41 'make':38 'metro':21 'plan':23 'plane':31 'question':8 'respond':14 'say':20 'soon':36 'support':28 'taxpay':25 'voter':3 'world':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.click2houston.com/news/July-22-Voter-ID-Law/-/1735978/15622386/-/14quco6z/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T15:15:18-04:00</date>
+          <id type="integer">16786364</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Click2Houston.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:45:00-04:00</created-at>
+          <title>Report says Houston will lead nation&#8217;s cities in economic growth; Mayor Parker warns of &#8216;haphazard&#8217; federal funding</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Critics, including Houston congressman John Culberson, have argued that some of Houston Metro&#8217;s plans are &#8220;unaffordable, unnecessary and unwanted,&#8221; as Culberson told the Houston Chronicle earlier this month. But the city, which Parker said &#8220;may ...</excerpt>
+          <fti-names>'argu':26 'chronicl':44,56 'citi':8,50 'congressman':22 'critic':19 'culberson':24,40 'earlier':45 'econom':10 'feder':17 'fund':18 'growth':11 'haphazard':16 'houston':3,21,30,43,55 'includ':20 'john':23 'lead':5 'may':54 'mayor':12 'metro':31 'month':47 'nation':6 'parker':13,52 'plan':33 'report':1 'said':53 'say':2 'told':41 'unafford':35 'unnecessari':36 'unwant':38 'warn':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.chron.com/txpotomac/2012/07/report-says-houston-will-lead-nations-cities-in-economic-growth-mayor-parker-warns-of-haphazard-federal-funding/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T09:46:01-04:00</date>
+          <id type="integer">16786365</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:48:00-04:00</created-at>
+          <title>Vote for Cargas in Democratic runoff</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The winner of the Democratic primary runoff for Texas' U.S. House 7th District will face quite a battle against incumbent Rep. John Culberson on this comfortably Republican turf. Challengers for these sorts of safe seats have a dual duty: Try to win a race</excerpt>
+          <fti-names>'7th':18 'battl':24 'carga':3 'challeng':35 'chronicl':52 'comfort':32 'culberson':29 'democrat':5,11 'district':19 'dual':44 'duti':45 'face':21 'hous':17 'houston':51 'incumb':26 'john':28 'primari':12 'quit':22 'race':50 'rep':27 'republican':33 'runoff':6,13 'safe':40 'seat':41 'sort':38 'texa':15 'tri':46 'turf':34 'u.s':16 'vote':1 'win':48 'winner':8</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.chron.com/opinion/editorials/article/Vote-for-Cargas-in-Democratic-runoff-3721153.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:39:15-04:00</date>
+          <id type="integer">16778085</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. John Culberson [R, TX-7]</name>
+      <total-session-votes type="integer">1582</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>7</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:48:20-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ander Crenshaw [R, FL-4] Rep. Mark Critz [D, PA-12] Rep. Joseph Crowley [D, NY-7] Rep. Henry Cuellar [D, TX-28] Rep. John Culberson [R, TX-7] Rep. Elijah Cummings [D, MD-7] Rep. Susan Davis [D, CA-53] Rep. Danny ...</excerpt>
+          <fti-names>'-12':16 '-28':28 '-4':10 '-53':46 '-7':22,34,40 'ander':6 'bankruptci':3 'ca':45 'court':4 'crenshaw':7 'critz':13 'crowley':19 'cuellar':25 'culberson':31 'cum':37 'd':14,20,26,38,44 'danni':48 'davi':43 'district':2 'elijah':36 'fl':9 'henri':24 'john':30 'joseph':18 'mark':12 'md':39 'ny':21 'oklahoma':5 'pa':15 'r':8,32 'rep':11,17,23,29,35,41,47 'susan':42 'tx':27,33 'unitedstatesbankruptcycourtco.com':49 'western':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-11/&amp;sa=U&amp;ei=8IADUKj0OeGA2gWkveXDCw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNGWqjOLXbYLBnZGIeTYe3AHVaKmtg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16647820</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:48:20-04:00</created-at>
+          <title>HR.6079 | Repeal of Obamacare Act | Votetocracy</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. John Conyers (MI Democrat), No. Rep. Jim Cooper (TN Democrat), No. Rep. Jerry Costello (IL Democrat), No. Rep. Ander Crenshaw (FL Republican), Yes. Rep. Joseph Crowley (NY Democrat), No. Rep. John Culberson (TX Republican) ...</excerpt>
+          <fti-names>'act':5 'ander':26 'conyer':9 'cooper':15 'costello':21 'crenshaw':27 'crowley':33 'culberson':39 'democrat':11,17,23,35 'fl':28 'hr.6079':1 'il':22 'jerri':20 'jim':14 'john':8,38 'joseph':32 'mi':10 'ny':34 'obamacar':4 'rep':7,13,19,25,31,37 'repeal':2 'republican':29,41 'tn':16 'tx':40 'votetocraci':6 'www.votetocracy.com':42 'yes':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6079-repeal-of-obamacare-act-41500&amp;sa=U&amp;ei=8IADUKj0OeGA2gWkveXDCw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGa6jgoKbw44xYSTPYB9y6rRmB74Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16647821</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:53:21-04:00</created-at>
+          <title>HOUSE VOTES TO PROTECT MIDDLE-CLASS ... - LexisNexis</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>July 12, 2012 Thursday. 581 words. HOUSE VOTES TO PROTECT MIDDLE-CLASS FAMILIES. States News Service. WASHINGTON. The following information was released by the office of Texas Rep. John Culberson: Posted by dthigpen ...</excerpt>
+          <fti-names>'/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100020219&amp;isrss=true':45 '12':10 '2012':11 '581':13 'class':7,21 'culberson':39 'dthigpen':42 'famili':22 'follow':28 'hous':1,15 'inform':29 'john':38 'juli':9 'lexisnexi':8 'middl':6,20 'middle-class':5,19 'news':24 'offic':34 'post':40 'protect':4,18 'releas':31 'rep':37 'servic':25 'state':23 'texa':36 'thursday':12 'vote':2,16 'washington':26 'word':14 'www6.lexisnexis.com':44 'www6.lexisnexis.com/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100020219&amp;isrss=true':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www6.lexisnexis.com/publisher/EndUser%3FAction%3DUserDisplayFullDocument%26orgId%3D574%26topicId%3D100020219%26docId%3Dl:1706069770%26Em%3D7%26start%3D9&amp;sa=U&amp;ei=mtMEUMelF6ea2AXbreGSBQ&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNG3k221n0htLyPsupFz2JJxPWk7qg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16676630</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www6.lexisnexis.com/publisher/EndUser?Action=UserDisplayCiteList&amp;orgId=574&amp;topicId=100020219&amp;isRss=true</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-05T23:26:53-04:00</created-at>
+          <title>The Overhead Wire: Local Control and Negotiation Politics</title>
+          <contains-term>representative</contains-term>
+          <excerpt>No our old nemesis Representative John Culberson is at it again and put language in the bill that would deny funding to the University Light Rail Line in Houston. Where did he learn how to do such things? Why Tom Delay&amp;#39;s ...</excerpt>
+          <fti-names>'bill':25 'control':5 'culberson':15 'delay':49 'deni':28 'fund':29 'houston':37 'john':14 'languag':22 'learn':41 'light':33 'line':35 'local':4 'negoti':7 'nemesi':12 'old':11 'overhead':2 'pantograph':51 'polit':8 'put':21 'rail':34 'repres':13 'thing':46 'tom':48 'trolleypol':52 'univers':32 'wire':3 'would':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theoverheadwire.blogspot.com/2012/07/local-control-and-negotiation-politics.html&amp;sa=U&amp;ei=91r2T6LPGYHE2wX--rjlBg&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNHs782J5vu2AUAVP5WBRWNRXBRX2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16407300</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Pantograph Trolleypole</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:50:44-04:00</created-at>
+          <title>Supreme Court: no benefits for kids conceived after dad&amp;#39;s death</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Chip Cravaack [R, MN-8] Rep. Rick Crawford [R, AR-1] Rep. Ander Crenshaw [R, FL-4] Rep. Mark Critz [D, PA-12] Rep. Joseph Crowley [D, NY-7] Rep. Henry Cuellar [D, TX-28] Rep. John Culberson [R, TX-7] Rep.</excerpt>
+          <fti-names>'-1':22 '-12':34 '-28':46 '-4':28 '-7':40,52 '-8':16 'ander':24 'ar':21 'benefit':4 'chip':12 'conceiv':7 'court':2 'cravaack':13 'crawford':19 'crenshaw':25 'critz':31 'crowley':37 'cuellar':43 'culberson':49 'd':32,38,44 'dad':9 'death':11 'fl':27 'henri':42 'john':48 'joseph':36 'kid':6 'mark':30 'mn':15 'ny':39 'pa':33 'probatecourtco.com':54 'r':14,20,26,50 'rep':17,23,29,35,41,47,53 'rick':18 'suprem':1 'tx':45,51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/supreme-court-no-benefits-for-kids-conceived-after-dads-death/&amp;sa=U&amp;ei=AgH1T8bzLarq2AXsg8DlBg&amp;ved=0CEkQmAEwCQ&amp;usg=AFQjCNGFR4mhd0wVVHz38TJ0XXC8o9KAlg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16386822</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:50:44-04:00</created-at>
+          <title>The Overhead Wire: Local Control and Negotiation Politics</title>
+          <contains-term>representative</contains-term>
+          <excerpt>No our old nemesis Representative John Culberson is at it again and put language in the bill that would deny funding to the University Light Rail Line in Houston. Where did he learn how to do such things? Why Tom Delay&amp;#39;s ...</excerpt>
+          <fti-names>'bill':25 'control':5 'culberson':15 'delay':49 'deni':28 'fund':29 'houston':37 'john':14 'languag':22 'learn':41 'light':33 'line':35 'local':4 'negoti':7 'nemesi':12 'old':11 'overhead':2 'pantograph':51 'polit':8 'put':21 'rail':34 'repres':13 'thing':46 'tom':48 'trolleypol':52 'univers':32 'wire':3 'would':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theoverheadwire.blogspot.com/2012/07/local-control-and-negotiation-politics.html&amp;sa=U&amp;ei=AgH1T8bzLarq2AXsg8DlBg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFhkDLKKxQPmDDI2_McdZnD123inw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16386819</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Pantograph Trolleypole</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-16T22:53:21-04:00</created-at>
+          <title>Culberson&amp;#39;s Univesity Line attack makes it through the House &#8211; Off ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Advocates of federally subsidized expansion of the Houston Metro light rail system lost a crucial round to Houston Congressman John Culberson on Friday, leaving dwindling opportunities to overturn spending restrictions on ...</excerpt>
+          <fti-names>'advoc':12 'attack':5 'charl':43 'congressman':30 'crucial':26 'culberson':1,32 'dwindl':36 'expans':16 'feder':14 'friday':34 'hous':10 'houston':19,29 'john':31 'kuffner':44 'leav':35 'light':21 'line':4 'lost':24 'make':6 'metro':20 'opportun':37 'overturn':39 'rail':22 'restrict':41 'round':27 'spend':40 'subsid':15 'system':23 'unives':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://offthekuff.com/wp/%3Fp%3D46259&amp;sa=U&amp;ei=mtMEUMelF6ea2AXbreGSBQ&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNEoP7u5UHeoFB5-nlmwSP97v4QLqQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16676629</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles Kuffner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-15T22:48:19-04:00</created-at>
+          <title>Culberson&amp;#39;s Univesity Line attack makes it through the House &#8211; Off ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Advocates of federally subsidized expansion of the Houston Metro light rail system lost a crucial round to Houston Congressman John Culberson on Friday, leaving dwindling opportunities to overturn spending restrictions on ...</excerpt>
+          <fti-names>'advoc':12 'attack':5 'charl':43 'congressman':30 'crucial':26 'culberson':1,32 'dwindl':36 'expans':16 'feder':14 'friday':34 'hous':10 'houston':19,29 'john':31 'kuffner':44 'leav':35 'light':21 'line':4 'lost':24 'make':6 'metro':20 'opportun':37 'overturn':39 'rail':22 'restrict':41 'round':27 'spend':40 'subsid':15 'system':23 'unives':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://offthekuff.com/wp/%3Fp%3D46259&amp;sa=U&amp;ei=8IADUKj0OeGA2gWkveXDCw&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNGSb4w8Dv77h5GC8zGyqnUbG7c87g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16647818</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles Kuffner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-05T23:26:52-04:00</created-at>
+          <title>Culberson&amp;#39;s Univesity Line attack makes it through the House &#8211; Off ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Advocates of federally subsidized expansion of the Houston Metro light rail system lost a crucial round to Houston Congressman John Culberson on Friday, leaving dwindling opportunities to overturn spending restrictions on ...</excerpt>
+          <fti-names>'advoc':12 'attack':5 'charl':43 'congressman':30 'crucial':26 'culberson':1,32 'dwindl':36 'expans':16 'feder':14 'friday':34 'hous':10 'houston':19,29 'john':31 'kuffner':44 'leav':35 'light':21 'line':4 'lost':24 'make':6 'metro':20 'opportun':37 'overturn':39 'rail':22 'restrict':41 'round':27 'spend':40 'subsid':15 'system':23 'unives':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://offthekuff.com/wp/%3Fp%3D46259&amp;sa=U&amp;ei=91r2T6LPGYHE2wX--rjlBg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNGAFS9fKAOUoCjf7lxePluf2nNtIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16407296</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles Kuffner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400089</commentariable-id>
+          <created-at type="datetime">2012-07-04T22:50:44-04:00</created-at>
+          <title>Culberson&amp;#39;s Univesity Line attack makes it through the House &#8211; Off ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Advocates of federally subsidized expansion of the Houston Metro light rail system lost a crucial round to Houston Congressman John Culberson on Friday, leaving dwindling opportunities to overturn spending restrictions on ...</excerpt>
+          <fti-names>'advoc':12 'attack':5 'charl':43 'congressman':30 'crucial':26 'culberson':1,32 'dwindl':36 'expans':16 'feder':14 'friday':34 'hous':10 'houston':19,29 'john':31 'kuffner':44 'leav':35 'light':21 'line':4 'lost':24 'make':6 'metro':20 'opportun':37 'overturn':39 'rail':22 'restrict':41 'round':27 'spend':40 'subsid':15 'system':23 'unives':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://offthekuff.com/wp/%3Fp%3D46259&amp;sa=U&amp;ei=AgH1T8bzLarq2AXsg8DlBg&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNEK8MO1q2RiZRYmKE6IxyV1zxKVtQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16386823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles Kuffner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23134</page-views-count>
+      <unaccented-name>John Culberson</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

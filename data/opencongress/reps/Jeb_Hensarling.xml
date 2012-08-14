@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.3473193473193</party-votes-percentage>
+        <abstains-percentage type="float">0.174520069808028</abstains-percentage>
+        <votes-most-often-with-id type="integer">412431</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">299</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">386</cosponsored-bills-passed-rank>
+        <abstains type="integer">3</abstains>
+        <cosponsored-bills type="integer">145</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">297</party-votes-percentage-rank>
+        <sponsored-bills type="integer">20</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">400175</person-id>
+        <cosponsored-bills-rank type="integer">299</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">255</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1619</votes-republican-position>
+      <metavid-id>Jeb_Hensarling</metavid-id>
+      <blog-article-count type="integer">10220</blog-article-count>
+      <user-approval type="float">4.59090909090909</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">174</oc-users-tracking>
+      <contact-webform>http://www.house.gov/hensarling/contact_web.shtml</contact-webform>
+      <youtube-id>RepJebHensarling</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.3473193473193</with-party-percentage>
+      <lastname>Hensarling</lastname>
+      <bioguide-id>H001036</bioguide-id>
+      <fax>202-226-4888</fax>
+      <congress-office>129 Cannon House Office Building</congress-office>
+      <firstname>Jeb</firstname>
+      <website>http://hensarling.house.gov/</website>
+      <birthday type="date">1957-05-29</birthday>
+      <person-id type="integer">400175</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-3484</phone>
+      <religion>Christian</religion>
+      <votes-democratic-position type="integer">334</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:43:06-04:00</created-at>
+          <title>Obama signs bill requiring him to detail budget cuts</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to come out in the midst of the presidential campaign, the details are sure to become fodder for both sides in the race. Rep. Jeb Hensarling, Texas Republican and author of the bill, applauded Mr. Obama for signing the measure into law. &#8220;The American </excerpt>
+          <fti-names>'american':53 'applaud':43 'author':39 'becom':25 'bill':3,42 'budget':8 'campaign':19 'come':11 'cut':9 'detail':7,21 'fodder':26 'hensarl':35 'jeb':34 'law':51 'measur':49 'midst':15 'mr':44 'obama':1,45 'presidenti':18 'race':32 'rep':33 'republican':37 'requir':4 'side':29 'sign':2,47 'sure':23 'texa':36 'time':55 'washington':54</fti-names>
+          <source-url>http://www.washingtontimes.com/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629221/s/2225ea6f/l/0L0Swashingtontimes0N0Cnews0C20A120Caug0C70Cobama0Esigns0Ebill0Erequiring0Ehim0Edetail0Ebudget0Ecuts0C0Dutm0Isource0FRSS0IFeed0Gutm0Imedium0FRSS/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973425</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:41:03-04:00</created-at>
+          <title>Hensarling on Obama: &#8216;Go Back to The Great Depression to Find a President Whose Policies Have Failed More&#8217;</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the almost a million small businesses that would be taxed under the president and Democrats&#8217; plan.&#8221; (CNSNews.com) &#8211; Rep. Jeb Hensarling (R-Texas) on Wednesday said that one would have to go back to the Great Depression in the 1930s to find policie</excerpt>
+          <fti-names>'1930s':58 'almost':20 'back':5,51 'busi':24 'cnsnews.com':35,62 'democrat':33 'depress':9,55 'fail':17 'find':11,60 'go':4,50 'great':8,54 'hensarl':1,38 'jeb':37 'million':22 'obama':3 'one':46 'plan':34 'polici':15,61 'presid':13,31 'r':40 'r-texa':39 'rep':36 'said':44 'small':23 'tax':28 'texa':41 'wednesday':43 'whose':14 'would':26,47</fti-names>
+          <source-url>http://www.cnsnews.com/</source-url>
+          <url>http://cnsnews.com/news/article/hensarling-obama-go-back-great-depression-find-president-whose-policies-have-failed</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970676</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNSNews.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:43:02-04:00</created-at>
+          <title>Randy Weber wins GOP nod in race for U.S. House District 14 in Texas</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...members of the Texas congressional delegation: Ted Poe of Jefferson County, Pete Olson of Sugar Land, Bill Flores of Bryan, Jeb Hensarling of Athens, Kay Granger of Fort Worth, and Francisco Canseco of San Antonio. She also touted endorsements among peo</excerpt>
+          <fti-names>'14':12 'also':51 'among':54 'antonio':49 'athen':38 'bill':31 'bryan':34 'canseco':46 'congression':19 'counti':25 'deleg':20 'district':11 'endors':53 'flore':32 'fort':42 'francisco':45 'gop':4 'granger':40 'hensarl':36 'hous':10 'jeb':35 'jefferson':24 'kay':39 'land':30 'member':15 'nod':5 'olson':27 'peo':55 'pete':26 'poe':22 'race':7 'randi':1 'san':48 'sugar':29 'ted':21 'texa':14,18,56 'tout':52 'u.s':9 'watchdog':57 'weber':2 'win':3 'worth':43</fti-names>
+          <source-url>http://www.texaswatchdog.org/</source-url>
+          <url>http://www.texaswatchdog.org/2012/07/randy-weber-house-district-14-texas-felicia-harris/1343784411.column</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969716</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Texas Watchdog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:43:01-04:00</created-at>
+          <title>Lawmakers kick in $1.5 million-plus to NRCC at meeting</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in checks Wednesday during a closed meeting of lawmakers. The biggest check was from House Republican Conference Chair Jeb Hensarling of Texas, who doled out $500,000 to his party's campaign arm. Freshmen also got in on the action: Rep. Rich Nugent of F</excerpt>
+          <fti-names>'000':38 '1.5':4 '500':37 'action':51 'also':46 'arm':44 'biggest':22 'campaign':43 'chair':29 'check':13,23 'close':17 'confer':28 'dole':35 'f':56 'freshmen':45 'got':47 'hensarl':31 'hous':26 'jeb':30 'kick':2 'lawmak':1,20 'meet':11,18 'million':6 'million-plus':5 'nrcc':9 'nugent':54 'parti':41 'plus':7 'politico':58 'rep':52 'republican':27 'rich':53 'texa':33 'wednesday':14</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=2147e675b3073f70d549dc5a2dbe7bbc</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969715</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:19:57-04:00</created-at>
+          <title>Washington Digest: Senate extends tax breaks</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...help the job seekers by punishing the job creators with a massive new tax burden,&quot; said House Republican Conference Chairman Jeb Hensarling of Texas. The Senate voted, 51-48, in favor of the bill. The roll call fell largely along party lines with Sens. </excerpt>
+          <fti-names>'-48':35 '51':34 'along':46 'bill':40 'break':6 'burden':21 'call':43 'chairman':26 'confer':25 'creator':15 'digest':2 'extend':4 'favor':37 'fell':44 'help':7 'hensarl':28 'hous':23 'jeb':27 'job':9,14 'journal':55 'larg':45 'las':51 'line':48 'lvrj.com':56 'massiv':18 'new':19 'parti':47 'punish':12 'republican':24 'review':54 'review-journ':53 'roll':42 'said':22 'seeker':10 'sen':50 'senat':3,32 'tax':5,20 'texa':30 'vega':52 'vote':33 'washington':1</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=164174496&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fwashington-digest-senate-extends-tax-breaks-164174496.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947561</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:00:10-04:00</created-at>
+          <title>Rep. Dave Camp patiently pursues tax reform</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Ryan begged off when asked about the disagreement, saying he was late for a House vote. Rep. Jeb Hensarling (R-Tex.), a supercommittee leader and former chairman of the conservative Republican Study Group, also waved away questions. &#8220;Listen, I got lots .</excerpt>
+          <fti-names>'also':42 'ask':12 'away':44 'beg':9 'camp':3 'chairman':35 'conserv':38 'dave':2 'disagr':15 'fidel':51 'former':34 'got':48 'group':41 'hensarl':26 'hous':22 'insid':50 'jeb':25 'late':19 'leader':32 'listen':46 'lot':49 'patient':4 'pursu':5 'question':45 'r':28 'r-tex':27 'reform':7 'rep':1,24 'republican':39 'ryan':8 'say':16 'studi':40 'supercommitte':31 'tax':6 'tex':29 'vote':23 'wave':43</fti-names>
+          <source-url nil="true"></source-url>
+          <url>https://news.fidelity.com/news/news.jhtml?articleid=201207281816WASHPOSTNEWS_____a4c19620-cabc-11e1-aea8-34e2e47d1571&amp;IMG=N&amp;cat=default&amp;ccsource=rss-default</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T20:13:37-04:00</date>
+          <id type="integer">16960516</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Fidelity</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:01:42-04:00</created-at>
+          <title>Rep. Dave Camp Patiently Pursues Tax Reform (Washn)</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Ryan begged off when asked about the disagreement, saying he was late for a House vote. Rep. Jeb Hensarling, R-Texas, a supercommittee leader and former chairman of the conservative Republican Study Group, also waved away questions. &quot;Listen, I got lots of </excerpt>
+          <fti-names>'also':43 'ask':13 'away':45 'beg':10 'camp':3 'chairman':36 'conserv':39 'dave':2 'disagr':16 'former':35 'got':49 'group':42 'hensarl':27 'hous':23 'jeb':26 'late':20 'leader':33 'listen':47 'lot':50 'nola.com':52 'patient':4 'pursu':5 'question':46 'r':29 'r-texa':28 'reform':7 'rep':1,25 'republican':40 'ryan':9 'say':17 'studi':41 'supercommitte':32 'tax':6 'texa':30 'vote':24 'washn':8 'wave':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nola.com/newsflash/index.ssf/story/rep-dave-camp-patiently-pursues-tax-reform-washn/26be54bb6c2a2db7b92c0b7a1640c466</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T14:22:52-04:00</date>
+          <id type="integer">16929803</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>nola.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:04:58-04:00</created-at>
+          <title>Lawmakers Blast Geithner for Inaction on 'Crime of the Century'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...it as being a problem -- never once did you come here and say this is what you're going to do about it. Similarly, Rep. Jeb Hensarling challenged Geithner: It appears that the early response was to keep using it, which means it appears that you treated </excerpt>
+          <fti-names>'appear':41,54 'big':58 'blast':2 'centuri':10 'challeng':38 'come':20 'crime':7 'earli':44 'geithner':3,39 'go':29 'govern':59 'hensarl':37 'inact':5 'jeb':36 'keep':48 'lawmak':1 'mean':52 'never':16 'problem':15 're':28 'rep':35 'respons':45 'say':23 'similar':34 'treat':57 'use':49</fti-names>
+          <source-url>http://biggovernment.com/</source-url>
+          <url>http://feedproxy.google.com/~r/BigGovernment/~3/Fc62Nk0uZgI/Geithner-Blasted-By-Lawmakers-For-Inaction-On-Crime-Of-The-Century</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929806</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Big Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:01:44-04:00</created-at>
+          <title>Ben Bernanke, Geithner response to Libor scandal rings hollow</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&quot;It appears that the early response was to keep using it, which means it appears that you treated it as almost a curiosity or something akin to jay-walking instead of highway robbery,&quot; Republican Congressman Jeb Hensarling told Geithner this week.</excerpt>
+          <fti-names>'akin':35 'almost':30 'appear':11,24 'ben':1 'bernank':2 'congressman':45 'curios':32 'earli':14 'econom':52 'geithner':3,49 'hensarl':47 'highway':42 'hollow':9 'instead':40 'jay':38 'jay-walk':37 'jeb':46 'keep':18 'libor':6 'mean':22 'republican':44 'respons':4,15 'ring':8 'robberi':43 'scandal':7 'someth':34 'time':53 'told':48 'treat':27 'use':19 'walk':39 'week':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://economictimes.indiatimes.com/news/international-business/ben-bernanke-geithner-response-to-libor-scandal-rings-hollow/articleshow/15215773.cms?curpg=2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T18:27:26-04:00</date>
+          <id type="integer">16929804</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Economic Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:01:16-04:00</created-at>
+          <title>Bernanke, Geithner response to Libor scandal rings hollow</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&quot;It appears that the early response was to keep using it, which means it appears that you treated it as almost a curiosity or something akin to jay-walking instead of highway robbery,&quot; Republican Congressman Jeb Hensarling told Geithner this week.</excerpt>
+          <fti-names>'akin':34 'almost':29 'appear':10,23 'bernank':1 'congressman':44 'curios':31 'earli':13 'financ':52 'geithner':2,48 'hensarl':46 'highway':41 'hollow':8 'instead':39 'jay':37 'jay-walk':36 'jeb':45 'keep':17 'libor':5 'mean':21 'republican':43 'respons':3,14 'ring':7 'robberi':42 'scandal':6 'someth':33 'told':47 'treat':26 'use':18 'walk':38 'week':50 'yahoo':51</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://finance.yahoo.com/news/bernanke-geithner-response-libor-scandal-181517299.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T18:20:16-04:00</date>
+          <id type="integer">16929801</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yahoo Finance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jeb Hensarling [R, TX-5]</name>
+      <total-session-votes type="integer">1716</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:45-04:00</created-at>
+          <title>Patty Murray: Democrats will go over &amp;#39;fiscal cliff&amp;#39; unless GOP relents ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>She is flanked by associate co-chair Rep. Jeb Hensarling (R) of Texas (l) and Sen. Jon Kyl (R) of Arizona. The disaster of this supposed supercommittee to find $1.2 trillion in assets in 2011 army Congress to adopt draconian ...</excerpt>
+          <fti-names>'1.2':42 '2011':47 'admin':53 'adopt':51 'arizona':33 'armi':48 'asset':45 'associ':16 'chair':19 'cliff':8 'co':18 'co-chair':17 'congress':49 'democrat':3 'disast':35 'draconian':52 'find':41 'fiscal':7 'flank':14 'go':5 'gop':10 'hensarl':22 'jeb':21 'jon':29 'kyl':30 'l':26 'murray':2 'patti':1 'r':23,31 'relent':11 'rep':20 'sen':28 'supercommitte':39 'suppos':38 'texa':25 'trillion':43 'unless':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://dailyhotnews.net/patty-murray-democrats-will-go-over-fiscal-cliff-unless-gop-relents/&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNEhSDFfBQ39ZyH78-WFXk3F6vExug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677654</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:44-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor Leaders Weekly ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>H.R. 5872 - Sequestration Transparency Act of 2012 (Suspension, 40 minutes of debate) (Sponsored by Rep. Jeb Hensarling / Budget Committee) H.R. 5856 - Department of Defense Appropriations Act, 2013 (Open Rule) ...</excerpt>
+          <fti-names>'2012':15 '2013':35 '40':17 '5856':29 '5872':10 'act':13,34 'american':1 'appropri':33 'barbara':4,38 'budget':26 'cantor':6 'committe':27 'debat':20 'defens':32 'depart':30 'eric':5 'freedom':2 'h.r':9,28 'hensarl':25 'jeb':24 'leader':7 'minut':18 'open':36 'rep':23 'rule':37 'sequestr':11 'sponsor':21 'suspens':16 'transpar':12 'week':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantor-leaders-weekly-schedule.html&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNGVAashYY99Wzhp4zHQAMBjIpCjig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16677649</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:43-04:00</created-at>
+          <title>Weekly Schedule - The Republican Cloakroom</title>
+          <contains-term>republican</contains-term>
+          <excerpt>H.R. 6018 - To authorize appropriations for the Department of State for fiscal year 2013, and for other purposes, as amended (Sponsored by Rep. Ileana Ros-Lehtinen ... Act of 2012 (Sponsored by Rep. Jeb Hensarling / Budget Committee) ...</excerpt>
+          <fti-names>'2012':35 '2013':19 '6018':7 'act':33 'amend':25 'appropri':10 'author':9 'budget':41 'cloakroom':5 'committe':42 'depart':13 'fiscal':17 'h.r':6 'hensarl':40 'ileana':29 'jeb':39 'lehtinen':32 'purpos':23 'rep':28,38 'repcloakroom.house.gov':43 'republican':4 'ros':31 'ros-lehtinen':30 'schedul':2 'sponsor':26,36 'state':15 'week':1 'year':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://repcloakroom.house.gov/News/DocumentSingle.aspx%3FDocumentID%3D303152&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGPtaQlggeCxhSrgGmudHBycHl2qA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16677648</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://repcloakroom.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:44-04:00</created-at>
+          <title>The Kaufman Herald &amp;gt; News &amp;gt; Hensarling speaks to area</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Jeb Hensarling (R-Dallas) was animated about the need to repeal what has become known as &amp;#39;Obamacare&amp;#39; &#8212; a healthcare bill upheld by a recent 5-4 Supreme Court decision &#8212;during a town hall meeting held ...</excerpt>
+          <fti-names>'-4':36 '5':35 'anim':16 'area':8 'becom':24 'bill':30 'congressman':9 'court':38 'dalla':14 'decis':39 'hall':43 'healthcar':29 'held':45 'hensarl':5,11 'herald':3 'jeb':10 'kaufman':2 'known':25 'meet':44 'need':19 'news':4 'obamacar':27 'r':13 'r-dalla':12 'recent':34 'repeal':21 'speak':6 'suprem':37 'town':42 'upheld':31 'www.kaufmanherald.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kaufmanherald.com/articles/2012/07/12/news/doc4ffd80afc20f3442011945.txt&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNEbJkJWLa_SEm65XbH_KPLGI_rY5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16677652</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.kaufmanherald.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:44-04:00</created-at>
+          <title>Rep. Hensarling: Health care is &amp;#39;the seminal issue of our time ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jeb Hensarling (R-TX) joins Starting Point with Soledad O&amp;#39;Brien to elaborate on why he wants to vote to repeal the Affordable Care Act. When Anchor Soledad O&amp;#39;Brien asks why he wants to repeal the health care law, ...</excerpt>
+          <fti-names>'act':38 'afford':36 'anchor':40 'ask':44 'brien':24,43 'care':4,37,52 'elabor':26 'health':3,51 'hensarl':2,14 'issu':8 'jeb':13 'join':18 'law':53 'o':23,42 'point':20 'r':16 'r-tx':15 'rep':1,12 'repeal':34,49 'semin':7 'soledad':22,41 'start':19 'time':11 'tx':17 'vanscottcnn':54 'vote':32 'want':30,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cnnpressroom.blogs.cnn.com/2012/07/11/rep-hensarling-health-care-is-the-seminal-issue-of-our-time/&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNHt8iihP_VjgCsEPT6bMzxhGWOt5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16677650</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>vanscottcnn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:43-04:00</created-at>
+          <title>Transcript: Rep. Jeb Hensarling on repealing the health care law ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Transcript of House floor remarks by Rep. Jeb Hensarling (R-Texas) on repealing the Affordable Care Act (July 11, 2012):</excerpt>
+          <fti-names>'11':30 '2012':31 'act':28 'afford':26 'care':9,27 'editor':32 'floor':14 'health':8 'hensarl':4,19 'hous':13 'jeb':3,18 'juli':29 'law':10 'r':21 'r-texa':20 'remark':15 'rep':2,17 'repeal':6,24 'texa':22 'transcript':1,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.whatthefolly.com/2012/07/11/transcript-rep-jeb-hensarling-on-repealing-the-health-care-law/&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNE2HPSqXP4KelUPvF9EAxyG8TmOhQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16677646</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:43-04:00</created-at>
+          <title>Mineola Town Hall Meeting with Rep. Jeb Hensarling - Mineola Buzz</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>7-2-2012 A town hall meeting was held in the city council chamber this morning with Rep. Jeb Hensarling. The meeting was scheduled to discuss the healthcare.</excerpt>
+          <fti-names>'-2':12 '-2012':13 '7':11 'buzz':10,40 'chamber':24 'citi':22 'council':23 'discuss':36 'hall':3,16 'healthcar':38 'held':19 'hensarl':8,30 'jeb':7,29 'meet':4,17,32 'mineola':1,9 'morn':26 'rep':6,28 'schedul':34 'town':2,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mineolabuzz.com/BUZZ/TX/MINEOLA/mineola-town-hall-meeting-with-rep-jeb-hensarling/&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNFCHQxM5KB9zDQxEZlWCKgsfg4zug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16677647</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Buzz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-07-16T23:32:40-04:00</created-at>
+          <title>Hensarling Criticizes SCOTUS Decision, Calls for Full Repeal - Rep ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Jun 28, 2012. WASHINGTON &#8211; U.S. Congressman Jeb Hensarling (R-TX), Chairman of the House Republican Conference, released the following statement today in response to the decision by the U.S. Supreme Court. &#8220;Like many Americans ...</excerpt>
+          <fti-names>'2012':12 '28':11 'american':44 'call':5 'chairman':21 'confer':26 'congressman':15 'court':41 'critic':2 'decis':4,36 'follow':29 'full':7 'hensarl':1,17 'hensarling.house.gov':45 'hous':24 'jeb':16 'jun':10 'like':42 'mani':43 'r':19 'r-tx':18 'releas':27 'rep':9 'repeal':8 'republican':25 'respons':33 'scotus':3 'statement':30 'suprem':40 'today':31 'tx':20 'u.s':14,39 'washington':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hensarling.house.gov/news/press-releases/2012/06/hensarling-criticizes-scotus-decision-calls-for-full-repeal.shtml&amp;sa=U&amp;ei=2NwEUPaiC4i22gWZp4SbBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNF7_bc4juCx6dsAh88GokR2FaeN8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16677644</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://hensarling.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:52:47-04:00</created-at>
+          <title>Kline co-chairs new NRCC fundraising effort | MinnPost</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Texas Rep. Jeb Hensarling, the No. 4 House Republican, is heading up the effort, which will be the subject of a closed-door meeting of lawmakers at the Capitol Hill Club on Tuesday, according to Republican aides.</excerpt>
+          <fti-names>'4':16 'accord':44 'aid':47 'capitol':39 'chair':4 'close':32 'closed-door':31 'club':41 'co':3 'co-chair':2 'devin':48 'door':33 'effort':8,23 'fundrais':7 'head':20 'henri':49 'hensarl':13 'hill':40 'hous':17 'jeb':12 'kline':1 'lawmak':36 'meet':34 'minnpost':9 'new':5 'nrcc':6 'rep':11 'republican':18,46 'subject':28 'texa':10 'tuesday':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.minnpost.com/dc-dispatches/2012/06/kline-co-chairs-new-nrcc-fundraising-effort&amp;sa=U&amp;ei=_CPpT9GpN6fI2wWKxciPAg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNHiwgDWGCPpTqMgEhBlEbWQxJiP3w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16191036</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Devin Henry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400175</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:52:45-04:00</created-at>
+          <title>Hensarling Statement on Medical Device Tax Repeal - Rep ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON&#8212; Congressman Jeb Hensarling (R-TX), House Republican Conference Chairman, issued the following statement today in support of H.R. 436, the Protect Medical Innovation Act of 2012, to repeal the Medical ...</excerpt>
+          <fti-names>'2012':36 '436':29 'act':34 'chairman':19 'confer':18 'congressman':10 'devic':5 'follow':22 'h.r':28 'hensarl':1,12 'hensarling.house.gov':41 'hous':16 'innov':33 'issu':20 'jeb':11 'medic':4,32,40 'protect':31 'r':14 'r-tx':13 'rep':8 'repeal':7,38 'republican':17 'statement':2,23 'support':26 'tax':6 'today':24 'tx':15 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://hensarling.house.gov/news/press-releases/2012/06/hensarling-statement-on-medical-device-tax-repeal.shtml&amp;sa=U&amp;ei=_CPpT9GpN6fI2wWKxciPAg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGbxnDpWqhan_rSE1c81qso68DF2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-07T01:00:00-04:00</date>
+          <id type="integer">16191029</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://hensarling.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22591</page-views-count>
+      <unaccented-name>Jeb Hensarling</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

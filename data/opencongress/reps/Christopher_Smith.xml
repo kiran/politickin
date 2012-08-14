@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-08T14:25:05-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">83.905325443787</party-votes-percentage>
+        <abstains-percentage type="float">1.6870273414776</abstains-percentage>
+        <votes-most-often-with-id type="integer">400244</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">269</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">274</cosponsored-bills-passed-rank>
+        <abstains type="integer">29</abstains>
+        <cosponsored-bills type="integer">163</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">371</party-votes-percentage-rank>
+        <sponsored-bills type="integer">33</sponsored-bills>
+        <votes-least-often-with-id type="integer">400237</votes-least-often-with-id>
+        <person-id type="integer">400380</person-id>
+        <cosponsored-bills-rank type="integer">156</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412438</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">37</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1418</votes-republican-position>
+      <blog-article-count type="integer">8565</blog-article-count>
+      <fax>202-225-7768</fax>
+      <user-approval type="float">2.06122448979592</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">134</oc-users-tracking>
+      <contact-webform>http://chrissmith.house.gov/zipauth.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">83.905325443787</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Smith</lastname>
+      <congress-office>2373 Rayburn House Office Building</congress-office>
+      <middlename>H.</middlename>
+      <firstname>Christopher</firstname>
+      <website>http://chrissmith.house.gov/</website>
+      <birthday type="date">1953-03-04</birthday>
+      <person-id type="integer">400380</person-id>
+      <phone>202-225-3765</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">615</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:45-04:00</created-at>
+          <title>Congressional leaders support Chinese pro-life activist</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...an informal gathering of Congress members who had supported him during his time in prison. The gathering was hosted by Rep. Chris Smith (R-N.J.), who chairs the House subcommittee that oversees human rights issues. &#8220;Chen is a hero,&#8221; Smith said. &#8220;H</excerpt>
+          <fti-names>'activist':8 'agenc':55 'cathol':53 'chair':37 'chen':46 'chines':4 'chris':30 'congress':13 'congression':1 'gather':11,25 'h':52 'hero':49 'host':27 'hous':39 'human':43 'inform':10 'issu':45 'j':35 'leader':2 'life':7 'member':14 'n':34 'news':54 'overse':42 'prison':23 'pro':6 'pro-lif':5 'r':33 'r-n':32 'rep':29 'right':44 'said':51 'smith':31,50 'subcommitte':40 'support':3,17 'time':21</fti-names>
+          <source-url>http://www.catholicnewsagency.com/</source-url>
+          <url>http://feedproxy.google.com/~r/catholicnewsagency/dailynews/~3/TRISsInoE8U/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971846</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Catholic News Agency</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:44-04:00</created-at>
+          <title>Africa: AGOA Action Coalition and the Whitaker Group Applaud AGOA Third Country Fabric Renewal</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Isakson (R-GA), Rep. Dave Camp (R-MI), Rep. Charlie Rangel (D-NY), Rep. Sander Levin (D-MI), Rep. Jim McDermott (D-WA), Rep. Chris Smith (R-NJ), Rep. Karen Bass (D-CA), Rep. Ed Royce (R-CA), Rep. Bobby Rush (D-IL) and all additional cosponsors of HR5986</excerpt>
+          <fti-names>'action':3 'addit':69 'africa':1 'agoa':2,10 'allafrica.com':73 'applaud':9 'bass':51 'bobbi':62 'ca':54,60 'camp':21 'charli':26 'chris':44 'coalit':4 'cosponsor':70 'countri':12 'd':29,35,41,53,65 'd-ca':52 'd-il':64 'd-mi':34 'd-ni':28 'd-wa':40 'dave':20 'ed':56 'fabric':13 'ga':18 'group':8 'hr5986':72 'il':66 'isakson':15 'jim':38 'karen':50 'levin':33 'mcdermott':39 'mi':24,36 'nj':48 'ny':30 'r':17,23,47,59 'r-ca':58 'r-ga':16 'r-mi':22 'r-nj':46 'rangel':27 'renew':14 'rep':19,25,31,37,43,49,55,61 'royc':57 'rush':63 'sander':32 'smith':45 'third':11 'wa':42 'whitak':7</fti-names>
+          <source-url>http://allafrica.com/</source-url>
+          <url>http://allafrica.com/stories/201208031202.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971845</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AllAfrica.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:27:57-04:00</created-at>
+          <title>US official plans bill to aid imprisoned Americans</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A 16-year-old girl is missing in Washington, and authorities are worried she's been kidnapped because the screen on her bedroom window was cut and the room was in disarray.More &gt;&gt; A 16-year-old Washington girl thought to have been abducted from her home </excerpt>
+          <fti-names>'16':10,43 'abduct':53 'aid':6 'american':8 'author':20 'bedroom':32 'bill':4 'cut':35 'disarray.more':41 'girl':14,48 'home':56 'imprison':7 'kidnap':26 'kltv':57 'miss':16 'offici':2 'old':13,46 'plan':3 'room':38 'screen':29 'thought':49 'us':1 'washington':18,47 'window':33 'worri':22 'year':12,45 'year-old':11,44</fti-names>
+          <source-url>http://www.kltv.com/</source-url>
+          <url>http://www.kltv.com/story/19174412/us-official-plans-bill-to-aid-imprisoned-americans</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970981</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KLTV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:27:55-04:00</created-at>
+          <title>US official plans bill to aid imprisoned Americans</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON, D.C. (AP) - A U.S. congressman involved in efforts to free a New York man who says he's been wrongly jailed in Bolivia, says he will introduce legislation to hold accountable foreign officials violating the due process and human rights of imp</excerpt>
+          <fti-names>'account':40 'aid':6 'american':8 'ap':11 'bill':4 'bolivia':32 'chicago':54 'congressman':14 'd.c':10 'due':45 'effort':17 'foreign':41 'fox':53 'free':19 'hold':39 'human':48 'imp':51 'imprison':7 'introduc':36 'involv':15 'jail':30 'legisl':37 'man':23 'new':21 'offici':2,42 'plan':3 'process':46 'right':49 'say':25,33 'u.s':13 'us':1 'violat':43 'washington':9 'wrong':29 'york':22</fti-names>
+          <source-url>http://www.myfoxchicago.com/</source-url>
+          <url>http://www.myfoxchicago.com/story/19174412/us-official-plans-bill-to-aid-imprisoned-americans</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970980</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>My Fox Chicago </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:27:55-04:00</created-at>
+          <title>Will China Stop Forcing Abortions?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Anyone can be converted to Christianity....even you. If you have already been ... At a Congressional preview hosted by Sen. Mary Landrieu (D-La.) Tuesday, guests ... As a Mississippian and as a Baptist Christian, I cringed the other day when I ... Anyone</excerpt>
+          <fti-names>'abort':5 'alreadi':17 'anyon':6,48 'baptist':39 'china':2 'christian':11,40,50 'congression':21 'convert':9 'cring':42 'd':29 'd-la':28 'day':45 'even':12 'forc':4 'guest':32 'host':23 'la':30 'landrieu':27 'mari':26 'mississippian':35 'post':51 'preview':22 'sen':25 'stop':3 'tuesday':31</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/will-china-stop-forcing-abortions-79359/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970979</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:27:45-04:00</created-at>
+          <title>U.S. House can&#8217;t muster votes to pass Franks bill limiting abortions in Washington</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>If you like this then please subscribe to the RSS Feed. Rep. Trent Franks, R-Glendale, shown in a file photo from May, argued that a 20-week-old fetus can feel pain and that allowing its abortion is &#8220;barbaric in the purest sense of the word.&#8221; (Cronkite</excerpt>
+          <fti-names>'20':42 'abort':12,54 'allow':52 'argu':39 'az':65 'barbar':56 'bill':10 'capitol':66 'cronkit':64 'feed':25 'feel':48 'fetus':46 'file':35 'frank':9,28 'glendal':31 'hous':2 'like':17 'limit':11 'may':38 'muster':5 'old':45 'pain':49 'pass':8 'photo':36 'pleas':20 'purest':59 'r':30 'r-glendal':29 'rep':26 'rss':24 'sens':60 'shown':32 'subscrib':21 'time':67 'trent':27 'u.s':1 'vote':6 'washington':14 'week':44 'week-old':43 'word':63</fti-names>
+          <source-url>http://azcapitoltimes.com/</source-url>
+          <url>http://azcapitoltimes.com/news/2012/08/02/u-s-house-cant-muster-votes-to-pass-trent-franks-bill-limiting-abortions-in-washington/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970978</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AZ Capitol Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:27:58-04:00</created-at>
+          <title>US official plans bill to aid imprisoned Americans</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(Copyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.) WASHINGTON, D.C. (AP) - A U.S. congressman involved in efforts to free a New York man who says he's been wrongly jailed</excerpt>
+          <fti-names>'2012':10 'aid':6 'american':8 'ap':29 'associ':12 'bill':4 'broadcast':23 'congressman':32 'copyright':9 'd.c':28 'effort':35 'free':37 'imprison':7 'involv':33 'jail':48 'man':41 'materi':18 'may':19 'new':39 'news':50 'offici':2 'plan':3 'press':13 'publish':22 'redistribut':26 'reserv':16 'rewritten':24 'right':15 'say':43 'u.s':31 'us':1 'washington':27 'wrong':47 'wtop':49 'york':40</fti-names>
+          <source-url>http://www.wtopnews.com/</source-url>
+          <url>http://www.wtop.com/209/2974597/US-official-plans-bill-to-aid-imprisoned-Americans-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970982</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WTOP News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:59:31-04:00</created-at>
+          <title>Boehner, Pelosi huddle with Chinese dissident</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...with Boehner on an issue. &#8220;I don&#8217;t often say this, Mr. Speaker, but I do wish to associate myself with your remarks.&#8221; Rep. Chris Smith (R-N.J.), chairman of the House panel that oversees human rights, held three hearings on Chen last year and nomi</excerpt>
+          <fti-names>'associ':25 'boehner':1,8 'chairman':37 'chen':50 'chines':5 'chris':31 'dissid':6 'hear':48 'held':46 'hous':40 'huddl':3 'human':44 'issu':11 'j':36 'last':51 'mr':18 'n':35 'nomi':54 'often':15 'overse':43 'panel':41 'pelosi':2 'politico':56 'r':34 'r-n':33 'remark':29 'rep':30 'right':45 'say':16 'smith':32 'speaker':19 'three':47 'wish':23 'year':52</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79263.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970005</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:59:30-04:00</created-at>
+          <title>Arizona lawmaker's bill to restrict abortions in Washington, D.C., fails in House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...&quot;This bill does not even have an exception to protect a woman's health,&quot; said Rep. Jerrold Nadler, D-N.Y. But Rep. Chris Smith, R-N.J., said the most common type of abortion after 20 weeks &quot;includes dismemberment of a fragile child's body.&quot; Franks said </excerpt>
+          <fti-names>'20':52 'abort':7,50 'arizona':1 'bill':4,15 'bodi':61 'child':59 'chris':38 'common':47 'd':33 'd-n':32 'd.c':10 'dismember':55 'even':18 'except':21 'fail':11 'fragil':58 'frank':62 'health':27 'hous':13 'includ':54 'j':43 'jerrold':30 'jose':66 'lawmak':2 'mercuri':67 'n':34,42 'nadler':31 'news':68 'protect':23 'r':41 'r-n':40 'rep':29,37 'restrict':6 'said':28,44,63 'san':65 'smith':39 'type':48 'washington':9 'week':53 'woman':25 'y':35</fti-names>
+          <source-url>http://www.mercurynews.com/mld/mercurynews/</source-url>
+          <url>http://www.mercurynews.com/nation-world/ci_21209332/arizona-lawmakers-bill-restrict-abortions-washington-d-c?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970004</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The San Jose Mercury News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:17:12-04:00</created-at>
+          <title>DC Abortion Bill Fails In House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Some were more graphic than others. &quot;There is nothing humane, benign or compassionate about abortion,&quot; said Rep. Chris Smith (R-N.J.). If a woman has an abortion past the 20-week mark, &quot;many times a little face may come out and stare back at you.&quot;</excerpt>
+          <fti-names>'20':38 'abort':2,21,35 'back':51 'benign':17 'bill':3 'chris':24 'come':47 'compassion':19 'dc':1 'face':45 'fail':4 'graphic':10 'hous':6 'huffington':54 'human':16 'j':29 'littl':44 'mani':41 'mark':40 'may':46 'n':28 'noth':15 'other':12 'past':36 'post':55 'r':27 'r-n':26 'rep':23 'said':22 'smith':25 'stare':50 'time':42 'week':39 'woman':32</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/31/dc-abortion-bill-fails-to-pass-the-house_n_1726240.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T19:55:45-04:00</date>
+          <id type="integer">16967299</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Christopher_H._Smith</metavid-id>
+      <name>Rep. Christopher Smith [R, NJ-4]</name>
+      <bioguide-id>S000522</bioguide-id>
+      <total-session-votes type="integer">1690</total-session-votes>
+      <sunlight-nickname>Chris</sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:53-04:00</created-at>
+          <title>How to pronounce Huawei &#8211; official guidelines and tutorial</title>
+          <contains-term>representative</contains-term>
+          <excerpt>How to pronounce Huawei &#8211; official guidelines and tutorial. by Chris Smith on Jul 10, 2012 with 2 Comments&amp;quot;&amp;gt;2 &amp;middot; Tweet ... The fact that the video below was shot in New York, where a Huawei representative asked ordinary citizens to try thei</excerpt>
+          <fti-names>'10':22 '2':25,27 '2012':23 'ask':44 'chris':18,50 'citizen':46 'comment':26 'fact':30 'guidelin':6,14 'huawei':4,12,42 'jul':21 'new':38 'offici':5,13 'ordinari':45 'pronounc':3,11 'repres':43 'shot':36 'smith':19,51 'thei':49 'tri':48 'tutori':8,16 'tweet':28 'video':33 'york':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.androidauthority.com/how-to-pronounce-huawei-official-guidelines-tutorial-100455/&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGejVd9I5luIMd6XqM1WMoHyJv9vw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16522144</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:53-04:00</created-at>
+          <title>How to pronounce Huawei &#8211; official guidelines and tutorial | Android ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>The fact that the video below was shot in New York, where a Huawei representative asked ordinary citize&#8230; Continue Reading Here How to pronounce Huawei &#8211; official guidelines and tutorial. Chris Smith &#8211; androidauthority.</excerpt>
+          <fti-names>'android':9 'androidauthor':41 'ask':25 'chris':39,42 'citiz':27 'continu':28 'fact':11 'guidelin':6,36 'huawei':4,23,34 'new':19 'offici':5,35 'ordinari':26 'pronounc':3,33 'read':29 'repres':24 'shot':17 'smith':40,43 'tutori':8,38 'video':14 'york':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://androidheadlines.com/2012/07/how-to-pronounce-huawei-official-guidelines-and-tutorial.html&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFSfzwkTf30_tqfZBYr7cvD2g2ZrQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16522142</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Smith </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:51-04:00</created-at>
+          <title>Letter to Secratary Of State Hillary Clinton From Congressman ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Letter Clinton Page 3of3 by Rep. Chris Smith-also signed by Rep.King, Rep Marino,Rep.Turner Rep.Velasque #FreeJacobNow http://t.co/MMQFBmcs 1 hour ago; Letter to Clinton Page 2of3 by Congressman Smith signed by ...</excerpt>
+          <fti-names>'/mmqfbmcs':30 '1':31 '2of3':38 '3of3':13 'ago':33 'also':19 'chris':16 'clinton':7,11,36 'congressman':9,40 'freejacobnow':27 'hillari':6 'hour':32 'jacobostreich':44 'letter':1,10,34 'marino':24 'page':12,37 'rep':15,23 'rep.king':22 'rep.turner':25 'rep.velasque':26 'secratari':3 'sign':20,42 'smith':18,41 'smith-also':17 'state':5 't.co':29 't.co/mmqfbmcs':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://freejacobblog.com/2012/07/10/letter-to-secratary-of-state-hillary-clinton-from-congressman-chriss-smith/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dletter-to-secratary-of-state-hillary-clinton-from-congressman-chriss-smith&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNEJK3wUfubFDcPLyN8Co7_dleyLAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16522135</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jacobostreicher</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:52-04:00</created-at>
+          <title>Christianity Changing China from the Inside - World - CBN News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Fu gave that testimony at a House subcommittee hearing in Washington, D.C., chaired by Rep. Chris Smith, R-N.J. Christians are already opposing the communist government&amp;#39;s one-child policy. It restricts married urban ...</excerpt>
+          <fti-names>'/cbnnews/feed/':49 'alreadi':33 'cbn':8 'chair':22 'chang':2 'child':41 'china':3 'chris':25 'christian':1,31 'communist':36 'd.c':21 'fu':10 'gave':11 'govern':37 'hear':18 'hous':16 'insid':6 'j':30 'marri':45 'n':29 'news':9 'one':40 'one-child':39 'oppos':34 'polici':42 'r':28 'r-n':27 'rep':24 'restrict':44 'smith':26 'subcommitte':17 'testimoni':13 'urban':46 'washington':20 'world':7 'www.cbn.com':48 'www.cbn.com/cbnnews/feed':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.cbn.com/cbnnews/world/2012/July/Christianity-Changing-China-from-the-Inside/&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNG1dFS7-aOg5h1feRLgJVAWOuh83g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16522140</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.cbn.com/cbnnews/feed/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:49-04:00</created-at>
+          <title>Rep. Chris Smith: China Should Rethink &amp;#39;One Child&amp;#39; Policy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>By Cassandra Novick Senior member on the Foreign Affairs committee, Chris Smith, cited multiple media articles, academics, and testimonies in previous.</excerpt>
+          <fti-names>'academ':26 'affair':18 'articl':25 'cassandra':11 'child':8 'china':4 'chris':2,20 'cite':22 'committe':19 'foreign':17 'media':24 'member':14 'multipl':23 'novick':12 'one':7 'polici':9 'previous':30 'rep':1 'rethink':6 'senior':13 'smith':3,21 'staff':31 'testimoni':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.talkradionews.com/audio/2012/07/09/rep-chris-smith-china-should-rethink-one-child-policy.html&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHIT-vWJKhMqE6kdE_Pg6O2-h_-jg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16522134</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:52-04:00</created-at>
+          <title>Brick WWII Veteran Receives His Purple Heart, Seven Decades ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It was presented to him in a ceremony at the office of Rep. Chris Smith - who represents New Jersey&amp;#39;s Fourth District where Passarella lives, honoring his sacrifices in World War II. Passarella took shrapnel to his right shoulder ...</excerpt>
+          <fti-names>'/articles/pit-bull-leads-good-samaritan-to-stricken-owner-in-double-trouble-state-park':51 'berkeley-nj.patch.com':50 'berkeley-nj.patch.com/articles/pit-bull-leads-good-samaritan-to-stricken-owner-in-double-trouble-state-park':49 'brick':1 'ceremoni':17 'chris':23 'decad':9 'district':31 'fourth':30 'heart':7 'honor':35 'ii':41 'jersey':28 'live':34 'new':27 'offic':20 'passarella':33,42 'present':12 'purpl':6 'receiv':4 'rep':22 'repres':26 'right':47 'sacrific':37 'seven':8 'shoulder':48 'shrapnel':44 'smith':24 'took':43 'veteran':3 'war':40 'world':39 'wwii':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://berkeley-nj.patch.com/articles/brick-wwii-veteran-receives-his-purple-heart-seven-decades-later-5022b2ed&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNEZLl34dBBrYjduTsSym-PvOwMkfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16522137</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://berkeley-nj.patch.com/articles/pit-bull-leads-good-samaritan-to-stricken-owner-in-double-trouble-state-park</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:53-04:00</created-at>
+          <title>Make sure every day counts - National Right to Life Victory Fund</title>
+          <contains-term>senator</contains-term>
+          <excerpt>and Rep. Chris Smith (R-NJ). Today the audience at the second general session&#8212;&#8220;2010 was just the start&#8230;in 2012 we take America back!&#8221;&#8212;was privileged to hear from Rep. Trent Franks (R-Az.), Senator Kelly Ayotte (R-NH), ...</excerpt>
+          <fti-names>'2010':27 '2012':33 'admin':55 'america':36 'audienc':21 'ayott':51 'az':48 'back':37 'chris':14 'count':5 'day':4 'everi':3 'frank':45 'fund':11 'general':25 'hear':41 'kelli':50 'life':9 'make':1 'nation':6 'nh':54 'nj':18 'privileg':39 'r':17,47,53 'r-az':46 'r-nh':52 'r-nj':16 'rep':13,43 'right':7 'second':24 'senat':49 'session':26 'smith':15 'start':31 'sure':2 'take':35 'today':19 'trent':44 'victori':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://www.nrlvictoryfund.org/130-days-until-november-elections-make-sure-every-day-counts/&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEPSA78I3OxGloSW16Bk25nV2K8_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16522141</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:53-04:00</created-at>
+          <title>Congressman Chris Smith Calls on Chinese Government to Stop ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The urgent June 7 letter from Congressman Chris Smith (R-NJ) said that &#8220;American society, media and even some countries in Europe are closely watching the development of this incident,&#8221; which ChinaAid reported about on ...</excerpt>
+          <fti-names>'7':13 'american':24 'c.l.fu':46 'call':4 'chinaaid':42 'chines':6 'chris':2,17 'close':34 'congressman':1,16 'countri':30 'develop':37 'europ':32 'even':28 'govern':7 'incid':40 'june':12 'letter':14 'media':26 'nj':21 'r':20 'r-nj':19 'report':43 'said':22 'smith':3,18 'societi':25 'stop':9 'urgent':11 'watch':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.chinaaid.org/2012/06/congressman-chris-smith-calls-on.html&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNFZiHizxhY4sQMbbtTnJo8ycw50kg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-09T01:00:00-04:00</date>
+          <id type="integer">16522143</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>C.L.Fu</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:52-04:00</created-at>
+          <title>Speaker Boehner Congratulates Rep. Chris Smith as &amp;#39;Defender of ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON, DC - House Speaker John Boehner (R-OH) issued the following statement today as Americans United for Life presented its &#8220;Henry Hyde Defender of Life&#8221; award to Rep. Chris Smith (R-NJ) for 2012. Smith is a ...</excerpt>
+          <fti-names>'/rss.xml':51 '2012':45 'american':25 'award':36 'boehner':2,15 'chris':5,39 'congratul':3 'dc':11 'defend':8,33 'follow':21 'henri':31 'hous':12 'hyde':32 'issu':19 'john':14 'life':28,35 'nj':43 'oh':18 'present':29 'r':17,42 'r-nj':41 'r-oh':16 'rep':4,38 'smith':6,40,46 'speaker':1,13 'speaker.house.gov':50 'speaker.house.gov/rss.xml':49 'statement':22 'today':23 'unit':26 'washington':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.speaker.gov/press-release/speaker-boehner-congratulates-rep-chris-smith-defender-life&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHJbv50gAh_xG9Xelj5TGq4_as5Jg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">16522138</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://speaker.house.gov/rss.xml</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400380</commentariable-id>
+          <created-at type="datetime">2012-07-10T23:33:51-04:00</created-at>
+          <title>Americans United for Life awards Rep. Chris Smith the 2012 Henry J ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Chris Smith is &#8220;an effective pro-life champion who has defended life with eloquence and passion at every opportunity,&#8221; said AUL&amp;#39;s Dr.</excerpt>
+          <fti-names>'2012':10 'american':1,38 'aul':35 'award':5 'champion':22 'chris':7,14 'congressman':13 'defend':25 'dr':37 'effect':18 'eloqu':28 'everi':32 'henri':11 'j':12 'life':4,21,26,41 'opportun':33 'passion':30 'pro':20 'pro-lif':19 'rep':6 'said':34 'smith':8,15 'unit':2,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.aul.org/2012/05/americans-united-for-life-awards-rep-chris-smith-the-2012-henry-j-hyde-defender-of-life-award-for-%25E2%2580%259Cunfailing-unflinching-leadership%25E2%2580%259D/&amp;sa=U&amp;ei=HPT8T5_fJaOo2wXohJnCBg&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNHBHxEcgUjW5aGUZ9vUsz9NdeaX4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">16522136</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Americans United for Life</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">33478</page-views-count>
+      <youtube-id>USRepChrisSmith</youtube-id>
+      <unaccented-name>Christopher Smith</unaccented-name>
+      <oc-user-comments type="integer">13</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-10-17T08:55:11-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.201030927835</party-votes-percentage>
+        <abstains-percentage type="float">9.71495055264689</abstains-percentage>
+        <votes-most-often-with-id type="integer">400263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">276</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">167</abstains>
+        <cosponsored-bills type="integer">273</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">118</party-votes-percentage-rank>
+        <sponsored-bills type="integer">2</sponsored-bills>
+        <votes-least-often-with-id type="integer">412431</votes-least-often-with-id>
+        <person-id type="integer">400301</person-id>
+        <cosponsored-bills-rank type="integer">170</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">422</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">286</votes-republican-position>
+      <middlename>W.</middlename>
+      <bioguide-id>O000085</bioguide-id>
+      <blog-article-count type="integer">5137</blog-article-count>
+      <user-approval type="float">2.84210526315789</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">116</oc-users-tracking>
+      <contact-webform>http://www.house.gov/olver/contactme.html</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">94.201030927835</with-party-percentage>
+      <lastname>Olver</lastname>
+      <congress-office>1111 Longworth House Office Building</congress-office>
+      <metavid-id>John_W._Olver</metavid-id>
+      <firstname>John</firstname>
+      <website>http://olver.house.gov/</website>
+      <birthday type="date">1936-09-03</birthday>
+      <person-id type="integer">400301</person-id>
+      <phone>202-225-5335</phone>
+      <youtube-id nil="true"></youtube-id>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1462</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:10-04:00</created-at>
+          <title>Elizabeth Warren gets endorsement from Archbishop Timothy Paul Baymon following meeting with black clergy in Springfield</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...they&#8217;ve faced during Westfield&#8217;s massive downtown construction projects and the benefits of having redeveloped roads and bridges. She also received an official endorsement from U.S. Rep. John Olver, D-Amherst, who is retiring at the end of his term.</excerpt>
+          <fti-names>'also':37 'amherst':49 'archbishop':6 'baymon':9 'benefit':29 'black':13 'bridg':35 'clergi':14 'construct':25 'd':48 'd-amherst':47 'downtown':24 'elizabeth':1 'end':55 'endors':4,41 'face':19 'follow':10 'get':3 'john':45 'massiv':23 'masslive.com':59 'meet':11 'offici':40 'olver':46 'paul':8 'project':26 'receiv':38 'redevelop':32 'rep':44 'retir':52 'road':33 'springfield':16 'term':58 'timothi':7 'u.s':43 've':18 'warren':2 'westfield':21</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/elizabeth_warren_gets_nod_of_s.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972928</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:10-04:00</created-at>
+          <title>In Westfield, Senate candidate Elizabeth Warren says downtown construction project will pay off for businesses</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Republican | Robert RizzutoU.S. Senate candidate Elizabeth Warren, butcher Dan Puza and U.S. Rep. John Olver, D-Amherst, have a chat at Puza's Butcher Block in Westfield during Warren's &quot;Rebuild Now&quot; tour. WESTFIELD &#8211; Democratic U.S. Senate hopeful El</excerpt>
+          <fti-names>'amherst':33 'block':41 'busi':15 'butcher':23,40 'candid':4,20 'chat':36 'construct':9 'd':32 'd-amherst':31 'dan':24 'democrat':51 'downtown':8 'el':55 'elizabeth':5,21 'hope':54 'john':29 'masslive.com':56 'olver':30 'pay':12 'project':10 'puza':25,38 'rebuild':47 'rep':28 'republican':16 'rizzutou.s':18 'robert':17 'say':7 'senat':3,19,53 'tour':49 'u.s':27,52 'warren':6,22,45 'westfield':2,43,50</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/in_westfield_senate_candidate.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972927</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:18:51-04:00</created-at>
+          <title>Retroactive gas bill for $27,687 threatens 100-year-old Brickyard in Easthampton</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Witmer also sought help from public officials including Gov. Deval Patrick, U.S. Rep. John Olver, state Sen. Michael Knapik, and state Rep. John Scibak, as well as state departments, including the state Department of Public Utilities.</excerpt>
+          <fti-names>'100':8 '27':5 '687':6 'also':16 'bill':3 'brickyard':12 'daili':51 'depart':43,47 'deval':24 'easthampton':14 'gas':2 'gazett':53 'gov':23 'hampshir':52 'help':18 'includ':22,44 'john':28,37 'knapik':33 'michael':32 'offici':21 'old':11 'olver':29 'patrick':25 'public':20,49 'rep':27,36 'retroact':1 'scibak':38 'sen':31 'sought':17 'state':30,35,42,46 'threaten':7 'u.s':26 'util':50 'well':40 'witmer':15 'year':10 'year-old':9</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.gazettenet.com/2012/07/31/mill-owner-pleads-for-utility-relief</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T20:39:53-04:00</date>
+          <id type="integer">16961373</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Hampshire Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:22:36-04:00</created-at>
+          <title>1st Congressional District candidate Andrea Nuciforo to chat live with MassLive.com readers on Monday</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Nuciforo has been eying a Congressional seat since at least 2009, when he announced his intentions to run against U.S. Rep. John Olver before the congressman said that he would retire at the end of his term. Then the messy business of redistricting took</excerpt>
+          <fti-names>'1st':1 '2009':25 'andrea':5 'announc':28 'busi':55 'candid':4 'chat':8 'congression':2,20 'congressman':40 'district':3 'end':48 'eye':18 'intent':30 'john':36 'least':24 'live':9 'masslive.com':11,59 'messi':54 'monday':14 'nuciforo':6,15 'olver':37 'reader':12 'redistrict':57 'rep':35 'retir':45 'run':32 'said':41 'seat':21 'sinc':22 'term':51 'took':58 'u.s':34 'would':44</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/07/1st_congressional_district_can_3.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922871</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-29T02:41:58-04:00</created-at>
+          <title>Why I support Richie Neal</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I&#8217;m backing Con gressman Richie Neal for a whole host of reasons. The simplest is that both our retiring congressman, John Olver, and the wonderful Elizabeth Warren have heartily endorsed him. But there&#8217;s a lot more. A lot more. With ...</excerpt>
+          <fti-names>'back':8 'berkshir':48 'con':9 'congressman':26 'eagl':49 'elizabeth':32 'endors':36 'gressman':10 'heartili':35 'host':16 'john':27 'lot':42,45 'm':7 'neal':5,12 'olver':28 'reason':18 'retir':25 'richi':4,11 'simplest':20 'support':3 'warren':33 'whole':15 'wonder':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.berkshireeagle.com/columnists/ci_21170181/why-i-support-richie-neal</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T00:33:41-04:00</date>
+          <id type="integer">16930574</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Berkshire Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:22:32-04:00</created-at>
+          <title>Why I support Richie Neal</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I&#8217;m backing Con gressman Richie Neal for a whole host of reasons. The simplest is that both our retiring congressman, John Olver, and the wonderful Elizabeth Warren have heartily endorsed him. But there&#8217;s a lot more. A lot more. With ...</excerpt>
+          <fti-names>'back':8 'berkshir':48 'con':9 'congressman':26 'eagl':49 'elizabeth':32 'endors':36 'gressman':10 'heartili':35 'host':16 'john':27 'lot':42,45 'm':7 'neal':5,12 'olver':28 'reason':18 'retir':25 'richi':4,11 'simplest':20 'support':3 'warren':33 'whole':15 'wonder':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.berkshireeagle.com/columnists/ci_21170181</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T00:33:41-04:00</date>
+          <id type="integer">16922870</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Berkshire Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-23T23:07:54-04:00</created-at>
+          <title>Having the good guys in our corner</title>
+          <contains-term>congress</contains-term>
+          <excerpt>His big mistake was announcing years ago that he would run for the office held by outgoing 1st Congressional District U.S. Rep. John Olver, no matter what. (Olver has since announced his retirement at the end of this term.) Put yourself in Olver's place.</excerpt>
+          <fti-names>'1st':25 'ago':14 'announc':12,38 'berkshir':53 'big':9 'congression':26 'corner':7 'district':27 'eagl':54 'end':43 'good':3 'guy':4 'held':22 'john':30 'matter':33 'mistak':10 'offic':21 'olver':31,35,50 'outgo':24 'place':52 'put':47 'rep':29 'retir':40 'run':18 'sinc':37 'term':46 'u.s':28 'would':17 'year':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.berkshireeagle.com/columnists/ci_21125280/having-good-guys-our-corner?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T11:15:31-04:00</date>
+          <id type="integer">16822808</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Berkshire Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-21T23:07:56-04:00</created-at>
+          <title>Having the good guys in our corner</title>
+          <contains-term>congress</contains-term>
+          <excerpt>His big mistake was announcing years ago that he would run for the office held by outgoing 1st Congressional District U.S. Rep. John Olver, no matter what. (Olver has since announced his retirement at the end of this term.) Put yourself in Olver ...</excerpt>
+          <fti-names>'1st':25 'ago':14 'announc':12,38 'berkshir':51 'big':9 'congression':26 'corner':7 'district':27 'eagl':52 'end':43 'good':3 'guy':4 'held':22 'john':30 'matter':33 'mistak':10 'offic':21 'olver':31,35,50 'outgo':24 'put':47 'rep':29 'retir':40 'run':18 'sinc':37 'term':46 'u.s':28 'would':17 'year':13</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.berkshireeagle.com/columnists/ci_21125280/having-good-guys-our-corner</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-21T00:19:20-04:00</date>
+          <id type="integer">16787306</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Berkshire Eagle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-18T03:26:13-04:00</created-at>
+          <title>Fundraising for five key transpo races - Begich defends Alaska RR money - Mica: Transpo bill a 'bridge' to financing talks - Siemens ready to build HSR</title>
+          <contains-term>congress</contains-term>
+          <excerpt>With Burgess Everett, Kathryn A. Wolfe and Jessica Meyers T&amp;I LEADERS CASH IN: Committee leaders John Mica and Nick Rahall hold big cash advantages over their opponents going into upcoming elections. Mica sits on a cool $1.3 million in the bank after ano</excerpt>
+          <fti-names>'1.3':62 'advantag':49 'alaska':9 'ano':68 'bank':66 'begich':7 'big':47 'bill':14 'bridg':16 'build':23 'burgess':26 'cash':37,48 'committe':39 'cool':61 'defend':8 'elect':56 'everett':27 'financ':18 'five':3 'fundrais':1 'go':53 'hold':46 'hsr':24 'jessica':32 'john':41 'kathryn':28 'key':4 'leader':36,40 'meyer':33 'mica':12,42,57 'million':63 'money':11 'nick':44 'oppon':52 'politico':70 'race':6 'rahal':45 'readi':21 'rr':10 'siemen':20 'sit':58 'talk':19 'transpo':5,13 'upcom':55 'wolf':30</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/morningtransportation/0712/morningtransportation185.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16697952</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-14T04:19:48-04:00</created-at>
+          <title>Fish scientists assail publication delay for book on endangered sturgeon</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Its authors appealed to U.S. Rep. John Olver, D-Amherst, for help in ending what they contend was an assault on academic openness and freedom of speech. The World Sturgeon Conservation Society suggested that the USGS may have been trying to ...</excerpt>
+          <fti-names>'academ':33 'amherst':21 'appeal':13 'assail':3 'assault':31 'author':12 'book':7 'conserv':42 'contend':28 'd':20 'd-amherst':19 'daili':53 'delay':5 'end':25 'endang':9 'fish':1 'freedom':36 'gazett':55 'hampshir':54 'help':23 'john':17 'may':48 'olver':18 'open':34 'public':4 'rep':16 'scientist':2 'societi':43 'speech':38 'sturgeon':10,41 'suggest':44 'tri':51 'u.s':15 'usg':47 'world':40</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.gazettenet.com/2012/07/14/fish-scientists-assail-publication-delay</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T21:07:12-04:00</date>
+          <id type="integer">16599848</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Daily Hampshire Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-226-1224</fax>
+      <name>Rep. John Olver [D, MA-1]</name>
+      <total-session-votes type="integer">1552</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:27:13-04:00</created-at>
+          <title>California Property of Deceased Overseas Owner Affected by ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone [D, NJ-6] Rep. William Pascrell [D, NJ-8] Rep.</excerpt>
+          <fti-names>'-1':19,31 '-21':13 '-22':25 '-23':37 '-4':43 '-6':49 '-8':55 'affect':7 'alan':15 'ca':12 'california':1 'd':29,35,47,53 'deceas':4 'devin':9 'frank':45 'john':27 'ma':30 'ms':18,42 'nj':48,54 'nune':10 'nunnele':16 'ny':36 'olson':22 'olver':28 'oversea':5 'owen':34 'owner':6 'palazzo':40 'pallon':46 'pascrel':52 'pete':21 'probatecourtco.com':57 'properti':2 'r':11,17,23,41 'rep':14,20,26,32,38,44,50,56 'steven':39 'tx':24 'william':33,51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/california-property-of-deceased-overseas-owner-affected-by-probate-code-of-foreign-country/&amp;sa=U&amp;ei=EK_7T_m0GsTs2QXztby_Cw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFk33X2epRPV37IQ-Qgzz7MhgwIxw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16489306</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:27:13-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone [D, NJ-6] Rep. William Pascrell [D, NJ-8] Rep.</excerpt>
+          <fti-names>'-1':21,33 '-21':15 '-22':27 '-23':39 '-4':45 '-6':51 '-8':57 'alan':17 'ca':14 'd':31,37,49,55 'deadlin':5 'debt':1,10 'debtreliefmag.com':59 'devin':11 'frank':47 'homeown':7 'john':29 'law':4 'loom':9 'ma':32 'ms':20,44 'nj':50,56 'nune':12 'nunnele':18 'ny':38 'olson':24 'olver':30 'owen':36 'palazzo':42 'pallon':48 'pascrel':54 'pete':23 'r':13,19,25,43 'relief':2 'rep':16,22,28,34,40,46,52,58 'steven':41 'tax':3 'tx':26 'william':35,53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=EK_7T_m0GsTs2QXztby_Cw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHqFSkaJUJ35NnOIWyqqbLyvHwiyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16489307</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:27:17-04:00</created-at>
+          <title>BERKSHIRE CREATIVE ECONOMY &#8211; Shakespeare &amp;amp; Co. raises $6M</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Deval Patrick, former Gov. Michael Dukakis, U.S. Rep. John Olver, D-Amherst, and State Sen. Benjamin Downing, D-Pittsfield. Well-known performers and company regulars at the gala included Olympia Dukakis, John Douglas Thompson and ...</excerpt>
+          <fti-names>'6m':7 'amherst':20 'benjamin':24 'berkshir':1 'co':5 'compani':34 'creativ':2 'd':19,27 'd-amherst':18 'd-pittsfield':26 'deval':8 'dougla':43 'down':25 'dukaki':13,41 'economi':3 'former':10 'gala':38 'gov':11 'includ':39 'john':16,42 'known':31 'michael':12 'olver':17 'olympia':40 'patrick':9 'perform':32 'pittsfield':28 'rais':6 'regular':35 'rep':15 'sen':23 'shakespear':4 'shao':46 'state':22 'thompson':44 'u.s':14 'well':30 'well-known':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://berkshirecreative.org/shakespeare-co-raises-6m/&amp;sa=U&amp;ei=EK_7T_m0GsTs2QXztby_Cw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNEJGfMoFEFqe4y3M8vXhvuyz0h-qg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16489311</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Shao</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:25:26-04:00</created-at>
+          <title>CCDN, Legal Debt Cure, Robert Lock &#171; Debt Relief Mag</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone [D, NJ-6] Rep. William Pascrell [D, NJ-8] Rep.</excerpt>
+          <fti-names>'-1':20,32 '-21':14 '-22':26 '-23':38 '-4':44 '-6':50 '-8':56 'alan':16 'ca':13 'ccdn':1 'cure':4 'd':30,36,48,54 'debt':3,7 'debtreliefmag.com':58 'devin':10 'frank':46 'john':28 'legal':2 'lock':6 'ma':31 'mag':9 'ms':19,43 'nj':49,55 'nune':11 'nunnele':17 'ny':37 'olson':23 'olver':29 'owen':35 'palazzo':41 'pallon':47 'pascrel':53 'pete':22 'r':12,18,24,42 'relief':8 'rep':15,21,27,33,39,45,51,57 'robert':5 'steven':40 'tx':25 'william':34,52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/ccdn-legal-debt-cure-robert-lock/&amp;sa=U&amp;ei=IKz3T5CiPMLQ2wWl--HHBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNFJUmcz12thOwFwJf0YDCuP_KmAOQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16425849</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:27:17-04:00</created-at>
+          <title>ShakesCo Gala Celebrates Tina Packer, Gov. Patrick Will Help ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Update as of 6/28: The stars of politics and stage come out this Saturday Night to salute Tina Packer. On the guest list are Massachusetts Governor Duval Patrick, Congressman John Olver, Former Governor Michael Dukakis, ...</excerpt>
+          <fti-names>'6/28':13 'berkshir':45 'celebr':3 'come':20 'congressman':38 'dukaki':44 'duval':36 'former':41 'gala':2 'gov':6 'governor':35,42 'guest':31 'help':9 'john':39 'list':32 'massachusett':34 'michael':43 'night':24 'olver':40 'packer':5,28 'patrick':7,37 'polit':17 'salut':26 'saturday':23 'shakesco':1 'stage':19,47 'star':15 'tina':4,27 'updat':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://berkshireonstage.com/2012/06/28/shakespeare-co-gala-celebrates-tina-packer-will-rename-main-stage-in-her-honor/&amp;sa=U&amp;ei=EK_7T_m0GsTs2QXztby_Cw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNFnAV2H61-20LmHiH_dWJgCHjz1aQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16489310</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Berkshire on Stage</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:25:26-04:00</created-at>
+          <title>Hill: &#8220;Rep. West charges Black Caucus of supporting Holder ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From The Hill: Rep. Allen West (R-Fla.) on Thursday blasted his fellow members of the Congressional Black Caucus (CBC) for staging a walkout on a contempt. ... George Miller, Gwen Moore, Jim Moran, Jerrold Nadler, Eleanor Holmes Norton,   John Olver, Frank</excerpt>
+          <fti-names>'allen':14 'black':5,28 'blast':21 'caucus':6,29 'cbc':30 'charg':4 'congression':27 'contempt':37 'eleanor':46 'fellow':23 'fla':18 'frank':51 'georg':38 'gwen':40 'hill':1,12 'holder':9 'holm':47 'jerrold':44 'jim':42 'jim22':52 'john':49 'member':24 'miller':39 'moor':41 'moran':43 'nadler':45 'norton':48 'olver':50 'r':17 'r-fla':16 'rep':2,13 'stage':32 'support':8 'thursday':20 'walkout':34 'west':3,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://therealrevo.com/blog/%3Fp%3D77646&amp;sa=U&amp;ei=IKz3T5CiPMLQ2wWl--HHBg&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEgEiW8y9FHvKfuRis0lm9NWvdh1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16425847</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim22</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:25:24-04:00</created-at>
+          <title>ShakesCo Gala Celebrates Tina Packer, Gov. Patrick Will Help ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Update as of 6/28: The stars of politics and stage come out this Saturday Night to salute Tina Packer. On the guest list are Massachusetts Governor Duval Patrick, Congressman John Olver, Former Governor Michael Dukakis, ...</excerpt>
+          <fti-names>'6/28':13 'berkshir':45 'celebr':3 'come':20 'congressman':38 'dukaki':44 'duval':36 'former':41 'gala':2 'gov':6 'governor':35,42 'guest':31 'help':9 'john':39 'list':32 'massachusett':34 'michael':43 'night':24 'olver':40 'packer':5,28 'patrick':7,37 'polit':17 'salut':26 'saturday':23 'shakesco':1 'stage':19,47 'star':15 'tina':4,27 'updat':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://berkshireonstage.com/2012/06/28/shakespeare-co-gala-celebrates-tina-packer-will-rename-main-stage-in-her-honor/&amp;sa=U&amp;ei=IKz3T5CiPMLQ2wWl--HHBg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEVA3LkB0nme7CGb_DDtyriPmngRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16425843</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Berkshire on Stage</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:27:18-04:00</created-at>
+          <title>Updated!:54 Co-sponsors for the HEART for Women Act. Can we get ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Elijah Cummings (D-MD-07). Sen. John Kerry (D-MA). Rep. Edward Markey (D-MA-07). Rep. James McGovern (D-MA-03). Rep. John Olver (D-MA-01). Sen. Debbie Stabenow (D-MI). Rep. Hansen Clarke (D-MI-13). Rep.</excerpt>
+          <fti-names>'01':48 '03':41 '07':21,34 '13':61 '54':2 'act':11 'admin':63 'clark':57 'co':4 'co-sponsor':3 'cum':17 'd':19,26,32,39,46,53,59 'd-ma':25,31,38,45 'd-md':18 'd-mi':52,58 'debbi':50 'edward':29 'elijah':16 'get':14 'hansen':56 'heart':8 'jame':36 'john':23,43 'kerri':24 'ma':27,33,40,47 'markey':30 'mcgovern':37 'md':20 'mi':54,60 'olver':44 'rep':15,28,35,42,55,62 'sen':22,49 'sponsor':5 'stabenow':51 'updat':1 'women':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yourethecureblog.heart.org/2012/06/20/updated54-co-sponsors-for-the-heart-for-women-act-can-we-get-to-100/&amp;sa=U&amp;ei=EK_7T_m0GsTs2QXztby_Cw&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNEgulJQ-ys75lAD_IqzOT6cQqJz6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16489312</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:25:26-04:00</created-at>
+          <title>Updated!:54 Co-sponsors for the HEART for Women Act. Can we get ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Elijah Cummings (D-MD-07). Sen. John Kerry (D-MA). Rep. Edward Markey (D-MA-07). Rep. James McGovern (D-MA-03). Rep. John Olver (D-MA-01). Sen. Debbie Stabenow (D-MI). Rep. Hansen Clarke (D-MI-13). Rep.</excerpt>
+          <fti-names>'01':48 '03':41 '07':21,34 '13':61 '54':2 'act':11 'admin':63 'clark':57 'co':4 'co-sponsor':3 'cum':17 'd':19,26,32,39,46,53,59 'd-ma':25,31,38,45 'd-md':18 'd-mi':52,58 'debbi':50 'edward':29 'elijah':16 'get':14 'hansen':56 'heart':8 'jame':36 'john':23,43 'kerri':24 'ma':27,33,40,47 'markey':30 'mcgovern':37 'md':20 'mi':54,60 'olver':44 'rep':15,28,35,42,55,62 'sen':22,49 'sponsor':5 'stabenow':51 'updat':1 'women':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yourethecureblog.heart.org/2012/06/20/updated54-co-sponsors-for-the-heart-for-women-act-can-we-get-to-100/&amp;sa=U&amp;ei=IKz3T5CiPMLQ2wWl--HHBg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEhhoNEXnv3x1LTmvf3CQeo2lix9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16425846</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400301</commentariable-id>
+          <created-at type="datetime">2012-06-18T23:05:13-04:00</created-at>
+          <title>Olver honored by Northern Berkshire Community Coalition - North ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WILLIAMSTOWN - U.S. Rep. John Olver is the latest person to receive a local award given annually to someone whose work has contributed to improving the quality of life in the region. Olver, who will retire in January 2013 ...</excerpt>
+          <fti-names>'2013':46 'adam':51 'annual':24 'award':22 'berkshir':5 'coalit':7 'communiti':6 'contribut':30 'foley':49 'given':23 'honor':2 'improv':32 'januari':45 'john':12 'latest':16 'life':36 'local':21 'meghan':48 'north':8,50 'northern':4 'olver':1,13,40 'person':17 'qualiti':34 'receiv':19 'region':39 'rep':11 'retir':43 'someon':26 'transcript':52 'u.s':10 'whose':27 'williamstown':9 'work':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thetranscript.com/northberkshirenews/ci_20874880/olver-honored-by-northern-berkshire-community-coalition%3Fsource%3Drss&amp;sa=U&amp;ei=Z-zfT6e6PKb22AXZ3ICeCg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGc22hxUxlGTtghAjQBH_MFrFkMuA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-17T01:00:00-04:00</date>
+          <id type="integer">16041272</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>By Meghan Foley, North Adams Transcript</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19362</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>John Olver</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

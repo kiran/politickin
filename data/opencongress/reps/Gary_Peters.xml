@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">89.1692307692308</party-votes-percentage>
+        <abstains-percentage type="float">5.46829552065154</abstains-percentage>
+        <votes-most-often-with-id type="integer">412212</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">403</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">210</cosponsored-bills-passed-rank>
+        <abstains type="integer">94</abstains>
+        <cosponsored-bills type="integer">235</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">205</party-votes-percentage-rank>
+        <sponsored-bills type="integer">13</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412305</person-id>
+        <cosponsored-bills-rank type="integer">326</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">231</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">438</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">5943</blog-article-count>
+      <user-approval type="float">1.39130434782609</user-approval>
+      <url nil="true"></url>
+      <middlename>C.</middlename>
+      <oc-users-tracking type="integer">154</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/peters/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">89.1692307692308</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Peters</lastname>
+      <congress-office>1609 Longworth House Office Building</congress-office>
+      <firstname>Gary</firstname>
+      <website>http://peters.house.gov/</website>
+      <metavid-id nil="true"></metavid-id>
+      <birthday nil="true"></birthday>
+      <person-id type="integer">412305</person-id>
+      <phone>202-225-5802</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>P000595</bioguide-id>
+      <votes-democratic-position type="integer">1449</votes-democratic-position>
+      <youtube-id>repgarypeters</youtube-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:40-04:00</created-at>
+          <title>Congressional Dems look to survive Mich. primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...contested races. Rep. John Conyers of Detroit is seeking the Democratic nomination for a 25th term on Tuesday. Fellow Reps. Gary Peters and Hansen Clarke are competing in another Detroit-area district. Both districts were redrawn after Michigan lost a c</excerpt>
+          <fti-names>'25th':22 'anoth':36 'area':39 'c':49 'clark':32 'compet':34 'congression':1 'contest':8 'conyer':12 'dem':2 'democrat':18 'detroit':14,38 'detroit-area':37 'district':40,42 'examin':51 'fellow':26 'gari':28 'hansen':31 'john':11 'look':3 'lost':47 'mich':6 'michigan':46 'nomin':19 'peter':29 'primari':7 'race':9 'redrawn':44 'rep':10,27 'seek':16 'surviv':5 'term':23 'tuesday':25 'washington':50</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/congressional-dems-look-to-survive-mich.-primary/article/feed/2021013?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973537</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:40-04:00</created-at>
+          <title>Michigan primary: GOP Senate race, House contests top races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Township, are battling in the 14th District running from Detroit into Oakland County, along with several other candidates. If Peters wins, he&#194;ll fill a traditionally black seat in Congress. Civil rights icon Rep. John Conyers, of Detroit, also faces a </excerpt>
+          <fti-names>'14th':15 'along':23 'also':47 'battl':12 'black':35 'candid':27 'civil':39 'congress':38 'contest':7 'conyer':44 'counti':22 'detroit':19,46 'district':16 'face':48 'fill':32 'gop':3 'herald':54 'he&#226;ll':31 'hous':6 'huron':52 'icon':41 'john':43 'michigan':1 'oakland':21 'peter':29 'port':51 'primari':2 'race':5,9 'rep':42 'right':40 'run':17 'seat':36 'senat':4 'sever':25 'time':53 'top':8 'township':10 'tradit':34 'win':30</fti-names>
+          <source-url>http://www.thetimesherald.com/</source-url>
+          <url>http://www.thetimesherald.com/article/20120807/NEWS05/308070021/-1/RSS04</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973535</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Port Huron Times Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:40-04:00</created-at>
+          <title>Republicans decidiing on Senate opponent for McCaskill as Missouri, 3 others hold primaries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...district because of redistricting. In another race affected by redistricting, incumbent Democratic Reps. Hansen Clarke and Gary Peters were running against each other in a contest that will see one of them leave Congress next year. In Washington, seven </excerpt>
+          <fti-names>'3':10 'affect':21 'anoth':19 'clark':28 'congress':47 'contest':39 'decidi':2 'democrat':25 'district':14 'gari':30 'hansen':27 'hold':12 'incumb':24 'leav':46 'mccaskil':7 'minneapoli':53 'missouri':9 'next':48 'one':43 'oppon':5 'other':11 'peter':31 'primari':13 'race':20 'redistrict':17,23 'rep':26 'republican':1 'run':33 'see':42 'senat':4 'seven':52 'star':54 'tribun':55 'washington':51 'year':49</fti-names>
+          <source-url>http://www.startribune.com/</source-url>
+          <url>http://www.startribune.com/politics/165327496.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973534</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Minneapolis Star Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:40-04:00</created-at>
+          <title>Jamie Dupree's Washington Insider: Several congressional incumbents on alert today</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...by redistricting, as both of those states lost a seat in the U.S. House. In Michigan, Rep. Hansen Clarke is facing off with Rep. Gary Peters in the Democratic Primary for the 14th District; in Missouri, Rep. Russ Carnahan and Rep. Bill Clay will battle </excerpt>
+          <fti-names>'14th':44 'alert':10 'battl':56 'bill':53 'carnahan':50 'clark':30 'clay':54 'congression':7 'democrat':40 'district':45 'dupre':2 'face':32 'gari':36 'hansen':29 'hous':25 'incumb':8 'insid':5 'jami':1 'lost':19 'michigan':27 'missouri':47 'peter':37 'primari':41 'radio':58 'redistrict':13 'rep':28,35,48,52 'russ':49 'seat':21 'sever':6 'state':18 'today':11 'u.s':24 'washington':4 'wsb':57</fti-names>
+          <source-url>http://wsbradio.com/</source-url>
+          <url>http://www.wsbradio.com/weblogs/jamie-dupree/2012/aug/07/several-congressional-incumbents-alert-today/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973533</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WSB Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:39-04:00</created-at>
+          <title>Longtime US Rep. Conyers seeks nomination; 2 Democratic congressmen battle in Michigan primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...hotly contested House race was in the new 14th District, which reaches from inner-city Detroit northwest to Pontiac. U.S. Reps. Gary Peters and Hansen Clarke were the leading contenders. Other candidates included Southfield Mayor Brenda Lawrence; former</excerpt>
+          <fti-names>'14th':22 '2':7 'battl':10 'brenda':50 'candid':46 'citi':29 'clark':40 'congressmen':9 'contend':44 'contest':15 'conyer':4 'democrat':8 'detroit':30 'district':23 'former':52 'gari':36 'hansen':39 'hot':14 'hous':16 'includ':47 'inner':28 'inner-c':27 'lawrenc':51 'lead':43 'longtim':1 'mayor':49 'michigan':12 'new':21 'nomin':6 'northwest':31 'peter':37 'pontiac':33 'primari':13 'race':17 'reach':25 'rep':3,35 'seek':5 'southfield':48 'u.s':34 'us':2 'wdiv':53</fti-names>
+          <source-url>http://www.clickondetroit.com/index.html</source-url>
+          <url>http://www.clickondetroit.com/news/Longtime-US-Rep-Conyers-seeks-nomination-2-Democratic-congressmen-battle-in-Michigan-primary/-/1719418/15993834/-/mdwnkj/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973532</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WDIV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:53-04:00</created-at>
+          <title>Goci plans to returns money received from Westland business owner</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...campaign like mine, there would be no staff to check on this, said Goci, adding he had seen Duhanaj at a fund-raiser for U.S. Rep. Gary Peters, who is running for the newly redistricted 14th Congressional District. In fact, the Huffington Post website r</excerpt>
+          <fti-names>'14th':47 'ad':25 'busi':9 'campaign':11 'check':20 'congression':48 'district':49 'duhanaj':29 'eccentr':60 'fact':51 'fund':33 'fund-rais':32 'gari':38 'goci':1,24 'huffington':53 'like':12 'mine':13 'money':5 'newli':45 'observ':58 'owner':10 'peter':39 'plan':2 'post':54 'r':56 'raiser':34 'receiv':6 'redistrict':46 'rep':37 'return':4 'run':42 'said':23 'seen':28 'staff':18 'u.s':36 'websit':55 'westland':8 'would':15</fti-names>
+          <source-url>http://www.hometownlife.com/</source-url>
+          <url>http://www.hometownlife.com/article/20120806/NEWS24/120806010/1041/rss22</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16972936</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Observer and Eccentric</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:51:40-04:00</created-at>
+          <title>Goci to return donation from Bray's owner</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...like mine, there would be no staff to check on this,&#194; said Goci, adding he had seen Duhanaj at a fund-raiser for U.S. Rep. Gary Peters, who is running for the newly redistricted 14th Congressional District. In fact, the Huffington Post website reports </excerpt>
+          <fti-names>'14th':45 'ad':23 'bray':6 'check':17 'congression':46 'district':47 'donat':4 'duhanaj':27 'eccentr':58 'fact':49 'fund':31 'fund-rais':30 'gari':36 'goci':1,22 'huffington':51 'like':9 'mine':10 'newli':43 'observ':56 'owner':8 'peter':37 'post':52 'raiser':32 'redistrict':44 'rep':35 'report':54 'return':3 'run':40 'said':21 'seen':26 'staff':15 'u.s':34 'websit':53 'would':12 '&#226;':20</fti-names>
+          <source-url>http://www.hometownlife.com/</source-url>
+          <url>http://www.hometownlife.com/article/20120807/NEWS24/120806008/1041/rss22</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973536</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Observer and Eccentric</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:54-04:00</created-at>
+          <title>[News] 2012 Michigan August Primary Preview</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Clarke, who beat the scandal-plagued Carolyn Kilpatrick in 2010, though he was drawn out of the district. Congressman Gary Peters, whose old 9th district was split into four pieces, is running here. This is his best shot, although none of his options we</excerpt>
+          <fti-names>'2010':17 '2012':2 '9th':31 'although':46 'august':4 'beat':9 'best':44 'carolyn':14 'clark':7 'congressman':26 'district':25,32 'drawn':21 'four':36 'gari':27 'kilpatrick':15 'michigan':3 'news':1 'none':47 'old':30 'option':50 'peter':28 'piec':37 'plagu':13 'preview':6 'primari':5 'rightmichigan.com':52 'run':39 'scandal':12 'scandal-plagu':11 'shot':45 'split':34 'though':18 'whose':29</fti-names>
+          <source-url>http://www.rightmichigan.com/</source-url>
+          <url>http://www.rightmichigan.com/story/2012/8/6/65844/71941</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972940</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>RightMichigan.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:54-04:00</created-at>
+          <title>Candidates campaign hard as MI primary nears</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...apart at the same time. Randy Hekman of Grand Rapids also is in that race. Democratic Congressmen Hansen Clarke of Detroit and Gary Peters of Oakland County's Bloomfield Township were battling in the 14th District running from Detroit into Oakland Count</excerpt>
+          <fti-names>'14th':42 'also':18 'apart':8 'battl':39 'bloomfield':36 'campaign':2 'candid':1 'clark':26 'congressmen':24 'count':49 'counti':34 'democrat':23 'detroit':28,46 'district':43 'gari':30 'grand':16,51 'hansen':25 'hard':3 'hekman':14 'mi':5 'near':7 'oakland':33,48 'peter':31 'primari':6 'race':22 'randi':13 'rapid':17,52 'run':44 'time':12 'township':37 'wzzm':50</fti-names>
+          <source-url>http://www.wzzm13.com/</source-url>
+          <url>http://www.wzzm13.com/rss/article/220620/14/Candidates-campaign-hard-as-MI-primary-nears-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972939</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WZZM Grand Rapids</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:54-04:00</created-at>
+          <title>Political campaigns are down to the wire -- and getting downright nasty</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Democrat who was down by 19 percentage points in a Free Press/WXYZ poll last week -- sent out a mailer attacking U.S. Rep. Gary Peters, D-Bloomfield Township. Clarke's flyer suggests that his fellow Democrat distanced himself from President Barack Obama</excerpt>
+          <fti-names>'19':17 'attack':31 'barack':52 'bloomfield':38 'campaign':2 'clark':40 'd':37 'd-bloomfield':36 'democrat':12,47 'detroit':54 'distanc':48 'downright':10 'fellow':46 'flyer':42 'free':22,55 'gari':34 'get':9 'last':25 'mailer':30 'nasti':11 'obama':53 'percentag':18 'peter':35 'point':19 'polit':1 'poll':24 'presid':51 'press':56 'press/wxyz':23 'rep':33 'sent':27 'suggest':43 'township':39 'u.s':32 'week':26 'wire':7</fti-names>
+          <source-url>http://www.freep.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.freep.com/article/20120806/NEWS15/308060051</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972938</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit Free Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Gary Peters [D, MI-9]</name>
+      <total-session-votes type="integer">1625</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-226-2356</fax>
+      <district>9</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:05-04:00</created-at>
+          <title>Meet the 112th | Michigan: A Bizarre 14th District Debate</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Four candidates &#8212; including his colleague, Rep. Gary Peters (D-Mich.) &#8212; touted their credentials for the seat, while Clarke sat out of the debate, watching among a small crowd in the Wayne State University Law School ...</excerpt>
+          <fti-names>'112th':3 '14th':7 'among':35 'bizarr':6 'call':47 'candid':11 'clark':28 'colleagu':14 'credenti':23 'crowd':38 'd':19 'd-mich':18 'debat':9,33 'district':8 'four':10 'gari':16 'includ':12 'law':44 'meet':1 'mich':20 'michigan':4 'peter':17 'rep':15 'roll':46 'sat':29 'school':45 'seat':26 'small':37 'state':42 'tout':21 'univers':43 'watch':34 'wayn':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/michigan-a-bizarre-14th-district-debate/&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNENUtdyBKjxEWY7Jhf5Bxp6kz4ZJA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923013</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:05-04:00</created-at>
+          <title>2 Detroit-Area Congressmen Face Off In Primary &#171; CBS Detroit</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Hansen Clarke appears to be an underdog again as endorsements and campaign cash flow to U.S. Rep. Gary Peters, whose home turf is Oakland County, where almost half the14th district&amp;#39;s voters live.</excerpt>
+          <fti-names>'2':1 'almost':40 'appear':16 'area':4 'campaign':25 'cash':26 'cbs':10 'clark':15 'congressmen':5 'counti':38 'detroit':3,11 'detroit-area':2 'district':43 'endors':23 'face':6 'flow':27 'gari':31 'half':41 'hansen':14 'home':34 'live':46 'oakland':37 'peter':32 'primari':9 'rep':13,30 'sstoddart':47 'the14th':42 'turf':35 'u.s':12,29 'underdog':20 'voter':45 'whose':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://detroit.cbslocal.com/2012/07/27/2-detroit-area-congressmen-face-off-in-primary/&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGmtNyOgPuziGrJ0mGxtCdhYfjsTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923012</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>sstoddart</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Daily Kos Elections Polling Wrap: Do today&amp;#39;s polls hint at improving ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>MI-14&#8212;D (Foster McCollum White for Fox 2 News Detroit): Rep. Gary Peters 45, Rep. Hansen Clarke 27, Brenda Lawrence 10, Mary Waters 1, Bob Costello &amp;lt;1. NY-SEN (Quinnipiac): Sen. Kirsten Gillibrand (D) 57, Wendy Long (R) 24 ...</excerpt>
+          <fti-names>'-14':14 '1':37,40 '10':34 '2':21 '24':53 '27':31 '45':27 '57':49 'bob':38 'brenda':32 'clark':30 'costello':39 'd':15,48 'daili':1 'dailyko':54 'detroit':23 'elect':3 'foster':16 'fox':20 'gari':25 'gillibrand':47 'hansen':29 'hint':10 'improv':12 'kirsten':46 'kos':2 'lawrenc':33 'long':51 'mari':35 'mccollum':17 'mi':13 'news':22 'ny':42 'ny-sen':41 'peter':26 'poll':4,9 'quinnipiac':44 'r':52 'rep':24,28 'sen':43,45 'today':7 'water':36 'wendi':50 'white':18 'wrap':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.daily-kos.com/2012/daily-kos-elections-polling-wrap-do-todays-polls-hint-at-improving-democratic-odds-for-the-house/&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNG30waPzLgcU9FI-UcwF-jvGK7lbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923021</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dailykos</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Interesting Michigan Polls | Jim Ellis Insights</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Gary Peters&amp;#39; (D-MI-9) move to the 14th District in order to challenge his Democratic colleague, freshman Rep. Hansen Clarke (D-MI-13), may yet pay dividends. Despite the large African-American population in the 14th, ...</excerpt>
+          <fti-names>'13':32 '14th':16,46 '9':12 'african':41 'african-american':40 'american':42 'challeng':21 'clark':28 'colleagu':24 'd':10,30 'd-mi':9,29 'democrat':23 'despit':37 'district':17 'dividend':36 'elli':5,48 'freshman':25 'gari':7 'hansen':27 'insight':6 'interest':1 'jim':4,47 'larg':39 'may':33 'mi':11,31 'michigan':2 'move':13 'order':19 'pay':35 'peter':8 'poll':3 'popul':43 'rep':26 'yet':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jimellisinsights.wordpress.com/2012/07/26/interesting-michigan-polls/&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNF74RB_z1J_idrdD43RI3IdB7O0-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923017</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Ellis</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:05-04:00</created-at>
+          <title>Henry Payne &#187; Payne: Rep. Gary Flipflop</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Mitt Romney has a reputation as a flip-flopper, but Michigan Rep. Gary Peters, D-Bloomfield Township-for-now, has perfected the art. The 9th district Oakland County representative running for the new 14th District Democratic ...</excerpt>
+          <fti-names>'14th':43 '9th':34 'art':32 'bloomfield':24 'counti':37 'd':23 'd-bloomfield':22 'democrat':45 'district':35,44 'flip':15 'flip-flopp':14 'flipflop':6 'flopper':16 'gari':5,20 'henri':1 'hpayn':46 'michigan':18 'mitt':7 'new':42 'oakland':36 'payn':2,3 'perfect':30 'peter':21 'rep':4,19 'repres':38 'reput':11 'romney':8 'run':39 'township':26 'township-for-now':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.henrypayne.com/index.php/2012/07/payne-rep-gary-flipflop&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHIhiRUXOFOa2Z9dIXXCrKvPHxL5g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16923011</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>hpayne</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Election Advantage: FMW (D) MI-14 Primary: Peters With Healthy Lead</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Foster McCollum White &amp;amp; Associates (D) MI-14/July 23/685 RVs: Rep. Gary Peters 45% Rep. Hansen Clarke 27% Southfield Mayor Brenda Lawrence 10% Former State Rep. Mary Waters 1% Caveat: this is a Democratic ...</excerpt>
+          <fti-names>'-14':6,18 '/july':19 '1':40 '10':34 '23/685':20 '27':29 '45':25 'advantag':2 'associ':15 'brenda':32 'caveat':41 'clark':28 'd':4,16 'democrat':45 'elect':1 'fmw':3 'former':35 'foster':12 'gari':23 'hansen':27 'healthi':10 'lawrenc':33 'lead':11 'mari':38 'matt':46 'mayor':31 'mccollum':13 'mi':5,17 'peter':8,24 'primari':7 'rep':22,26,37 'rvs':21 'southfield':30 'state':36 'water':39 'white':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.electionadvantage.net/2012/07/fmw-d-mi-14-primary-peters-with-healthy.html&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGtQ_lkvZ3sueecAr_-SWQZ0VWKVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16923015</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Trade policy: Congressman Gary Peters says it&amp;#39;s all about jobs - The ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Gary Peters (D-Mich.) applauds President Obama for filing a grievance against China with the World Trade Organization. Peters says manufacturing provides a base for an economy built on middle-class jobs.</excerpt>
+          <fti-names>'/?xid=rssfeed':50 'applaud':19 'base':38 'built':42 'china':27 'class':46 'congressman':3,13 'current.com':49 'current.com/?xid=rssfeed':48 'd':17 'd-mich':16 'economi':41 'file':23 'gari':4,14 'grievanc':25 'job':11,47 'manufactur':35 'mich':18 'middl':45 'middle-class':44 'obama':21 'organ':32 'peter':5,15,33 'polici':2 'presid':20 'provid':36 'say':6,34 'trade':1,31 'world':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://current.com/shows/the-war-room/videos/trade-policy-congressman-gary-peters-says-its-all-about-jobs&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNE18FtFKDfvLtj6mflsZgINDmA74w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16923019</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://current.com/?xid=RSSfeed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Rep. Gary Peters wins Black Slate endorsement in Detroit</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON -- Add this to U.S. Rep. Gary Peters&amp;#39; string of endorsements as he attempts to move to a Detroit-centered district: He&amp;#39;s the first white candidate for a U.S. House seat to win the early backing of the Black Slate, ...</excerpt>
+          <fti-names>'add':11 'attempt':23 'back':47 'black':5,50 'c':53 'candid':37 'center':30 'detroit':9,29 'detroit-cent':28 'district':31 'earli':46 'endors':7,20 'first':35 'gari':2,16 'hous':41 'johnni':52 'move':25 'peter':3,17 'rep':1,15 'seat':42 'slate':6,51 'string':18 'u.s':14,40 'washington':10 'white':36 'win':4,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://motorcityliberal.blogspot.com/2012/06/rep-gary-peters-wins-black-slate.html&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFAq-8exmprtPejJ5drS75NOcwZQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16923016</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Johnny C</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:24:06-04:00</created-at>
+          <title>Rep. Gary Peters Says Bipartisan Legislation Could Help More ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The 9th District Congressman was in Farmington Hills today to push the Preserving American Homeownership Act, which would reward those who make regular mortgage payments with principal reduction.</excerpt>
+          <fti-names>'9th':11 'act':25 'american':23 'bipartisan':5 'congressman':13 'could':7 'district':12 'farmington':16 'gari':2 'golden':41 'help':8 'hill':17 'homeownership':24 'hubr':40 'hubred-golden':39 'joni':38 'legisl':6 'make':31 'mortgag':33 'payment':34 'peter':3 'preserv':22 'princip':36 'push':20 'reduct':37 'regular':32 'rep':1 'reward':28 'say':4 'today':18 'would':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://birmingham.patch.com/articles/bipartisan-legislation-could-help-more-homeowners-avoid-foreclosure-peters-says&amp;sa=U&amp;ei=VVsTUMCLA4OK8QTz7IHoDA&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFyU0cO2XuQN4Kt7gvObhxE6KGuFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-14T01:00:00-04:00</date>
+          <id type="integer">16923020</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joni Hubred-Golden</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412305</commentariable-id>
+          <created-at type="datetime">2012-04-28T12:31:45-04:00</created-at>
+          <title>Will the GSEs Ever See Reform? | Miami Agent Magazine</title>
+          <contains-term>senator</contains-term>
+          <excerpt>One bill, by Reps. John Campbell and Gary Peters, was a bipartisan effort that would have created five new GSEs backed by a sole fund. Another, by Senator Bob Corker, would have slowly drawn down Fannie and Freddie&amp;#39;s ...</excerpt>
+          <fti-names>'admin':49 'agent':8 'anoth':35 'back':30 'bill':11 'bipartisan':21 'bob':38 'campbel':15 'corker':39 'creat':26 'drawn':43 'effort':22 'ever':4 'fanni':45 'five':27 'freddi':47 'fund':34 'gari':17 'gses':3,29 'john':14 'magazin':9 'miami':7 'new':28 'one':10 'peter':18 'reform':6 'rep':13 'see':5 'senat':37 'slowli':42 'sole':33 'would':24,40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://miamiagentmagazine.com/reform/&amp;sa=U&amp;ei=bhucT-LvOsnC2wXsoMjuDg&amp;ved=0CEsQmAEwCA&amp;usg=AFQjCNHQnW_Wu2JDtBwhKBvCS2bCstyo-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-27T01:00:00-04:00</date>
+          <id type="integer">14868628</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19651</page-views-count>
+      <unaccented-name>Gary Peters</unaccented-name>
+      <oc-user-comments type="integer">19</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-12T14:17:47-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.9060052219321</party-votes-percentage>
+        <abstains-percentage type="float">3.0379746835443</abstains-percentage>
+        <votes-most-often-with-id type="integer">300058</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">10</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">59</cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">105</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">26</party-votes-percentage-rank>
+        <sponsored-bills type="integer">22</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300026</person-id>
+        <cosponsored-bills-rank type="integer">63</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-18T21:36:02-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412391</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">51</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">1</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">155</votes-republican-position>
+      <fax>202-224-7776</fax>
+      <blog-article-count type="integer">14863</blog-article-count>
+      <user-approval type="float">3.32</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">149</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.conrad.senate.gov/contact/webform.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.9060052219321</with-party-percentage>
+      <lastname>Conrad</lastname>
+      <middlename>Kent</middlename>
+      <congress-office>530 Hart Senate Office Building</congress-office>
+      <firstname>Kent</firstname>
+      <website>http://www.conrad.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1948-03-12</birthday>
+      <person-id type="integer">300026</person-id>
+      <bioguide-id>C000705</bioguide-id>
+      <phone>202-224-2043</phone>
+      <religion>Unitarian</religion>
+      <votes-democratic-position type="integer">352</votes-democratic-position>
+      <metavid-id>Kent_Conrad</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:02-04:00</created-at>
+          <title>Wind energy, NASCAR, and plug-in golf carts</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...21 years on this committee, we are deliberately moving in the opposite direction.&quot; &quot;It's the first step in a long journey,&quot; agreed Kent Conrad, D-N.D., though he acknowledged &quot;There is a certain irony&quot; to claiming the renewal of all the remaining tax br</excerpt>
+          <fti-names>'21':10 'acknowledg':41 'agre':32 'br':56 'cart':9 'certain':45 'claim':48 'committe':14 'conrad':34 'd':36,38 'd-n':35 'deliber':17 'direct':22 'energi':2 'first':26 'golf':8 'ironi':46 'journal':61 'journey':31 'kent':33 'las':57 'long':30 'lvrj.com':62 'move':18 'n':37 'nascar':3 'opposit':21 'plug':6 'plug-in':5 'remain':54 'renew':50 'review':60 'review-journ':59 'step':27 'tax':55 'though':39 'vega':58 'wind':1 'year':11</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192642&amp;44=165105676&amp;32=4051&amp;7=206636&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fopinion%2Fwind-energy-nascar-and-plug-in-golf-carts-165105676.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973085</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:01-04:00</created-at>
+          <title>Rick Berg Campaign Goosed By Local GOP's Tweet To Website Run By Opponent</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...but removed shortly thereafter. Polls show a close race shaping up in the contest to capture the seat vacated by retiring Sen. Kent Conrad (D-N.D.). A recent poll commissioned by North Dakota Democrats had Heitkamp winning the seat 50 percent to 44 perc</excerpt>
+          <fti-names>'44':59 '50':56 'berg':2 'campaign':3 'captur':30 'close':22 'commiss':46 'conrad':38 'contest':28 'd':40,42 'd-n':39 'dakota':49 'democrat':50 'goos':4 'gop':7 'heitkamp':52 'huffington':62 'kent':37 'local':6 'n':41 'north':48 'oppon':14 'perc':60 'percent':57 'poll':19,45 'post':63 'race':23 'recent':44 'remov':16 'retir':35 'rick':1 'run':12 'seat':32,55 'sen':36 'shape':24 'short':17 'show':20 'thereaft':18 'tweet':9 'vacat':33 'websit':11 'win':53</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/06/rick-berg-campaign_n_1748865.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973084</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:48-04:00</created-at>
+          <title>Senate panel revives dozens of tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...on this committee, we are deliberately moving in the opposite direction.&quot; &quot;It's the first step in a long journey,&quot; said Kent Conrad, D-N.D., although he acknowledged &quot;there is a certain irony&quot; to claiming the renewal of all the tax breaks is a step forw</excerpt>
+          <fti-names>'acknowledg':37 'although':35 'break':7,51 'certain':41 'claim':44 'committe':10 'conrad':30 'd':32,34 'd-n':31 'deliber':13 'direct':18 'dozen':4 'first':22 'forw':55 'ironi':42 'journey':27 'kent':29 'long':26 'move':14 'n':33 'opposit':17 'panel':2 'renew':46 'reviv':3 'said':28 'senat':1 'step':23,54 'tax':6,50 'tulsa':56 'world':57</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120803_13_A7_WASHIN752321&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971930</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:48-04:00</created-at>
+          <title>Congress with much left to do takes 5 weeks off</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Orrin Hatch, R-Utah, left, and Sen. Kent Conrad, D-ND, right, both members of the tax-writing Senate Finance Committee, pass each other during final votes before the Senate leaves for a five-week recess, Thursday, Aug. 2, 2012, on Capitol Hill in Washin</excerpt>
+          <fti-names>'2':53 '2012':54 '5':8 'albequerqu':60 'aug':52 'capitol':56 'committe':34 'congress':1 'conrad':20 'd':22 'd-nd':21 'express':61 'final':39 'financ':33 'five':48 'five-week':47 'hatch':12 'hill':57 'kent':19 'leav':44 'left':4,16 'member':26 'much':3 'nd':23 'orrin':11 'pass':35 'r':14 'r-utah':13 'recess':50 'right':24 'sen':18 'senat':32,43 'take':7 'tax':30 'tax-writ':29 'thursday':51 'utah':15 'vote':40 'washin':59 'week':9,49 'write':31</fti-names>
+          <source-url>http://www.albuquerqueexpress.com/</source-url>
+          <url>http://www.albuquerqueexpress.com/index.php?sid/207977731/scat/154063713fe5da1f</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971929</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albequerque Express</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:47-04:00</created-at>
+          <title>Reprimand lifted for Spirit Lake whistleblower</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...said of lifting the reprimand and clearing Tilus&#8217; record. &#8220;Sen. Hoeven wanted to make sure this was taken care of.&#8221; Sen. Kent Conrad, D-N.D., also issued a statement of concern regarding Tilus&#8217; reprimand. Patrick Springer is a reporter at The Fo</excerpt>
+          <fti-names>'also':34 'care':25 'clear':13 'concern':39 'conrad':29 'd':31,33 'd-n':30 'fo':50 'hoeven':17 'issu':35 'jamestown':51 'kent':28 'lake':5 'lift':2,9 'make':20 'n':32 'patrick':43 'record':15 'regard':40 'report':47 'reprimand':1,11,42 'said':7 'sen':16,27 'spirit':4 'springer':44 'statement':37 'sun':52 'sure':21 'taken':24 'tilus':14,41 'want':18 'whistleblow':6</fti-names>
+          <source-url>http://www.jamestownsun.com/</source-url>
+          <url>http://www.jamestownsun.com/event/article/id/166333/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971928</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jamestown Sun</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:09:20-04:00</created-at>
+          <title>Senate panel votes to renew tax breaks for businesses</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...them and create a new tax code with lower rates and fewer special interest tax breaks. Sen. Orrin Hatch, R-Utah, left, and Sen. Kent Conrad, D-N.D., right, both members of the tax-writing Senate Finance Committee, pass each other Thursday during final S</excerpt>
+          <fti-names>'break':7,25 'busi':9 'code':16 'committe':51 'conrad':36 'creat':12 'd':38,40 'd-n':37 'fewer':21 'final':57 'financ':50 'hatch':28 'herald':63 'interest':23 'kent':35 'left':32 'lower':18 'main':61 'member':43 'n':39 'new':14 'orrin':27 'panel':2 'pass':52 'portland':60 'press':62 'r':30 'r-utah':29 'rate':19 'renew':5 'right':41 'sen':26,34 'senat':1,49 'special':22 'tax':6,15,24,47 'tax-writ':46 'thursday':55 'utah':31 'vote':3 'write':48</fti-names>
+          <source-url>http://www.pressherald.com/</source-url>
+          <url>http://www.pressherald.com/r?19=961&amp;43=606322&amp;44=164830036&amp;32=10367&amp;7=617322&amp;40=http%3A%2F%2Fwww.pressherald.com%2Fnews%2Fnationworld%2Fsenate-panel-votes-to-renew-tax-breaks-for-businesses_2012-08-03.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971140</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Portland Maine Press Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:09:30-04:00</created-at>
+          <title>Senate panel revives dozens of tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...21 years on this committee, we are deliberately moving in the opposite direction.&quot; &quot;It's the first step in a long journey,&quot; said Kent Conrad, D-N.D., though he acknowledged &quot;there is a certain irony&quot; to claiming the renewal of all the tax breaks is a st</excerpt>
+          <fti-names>'21':8 'acknowledg':39 'ap':58 'break':7,53 'certain':43 'claim':46 'committe':12 'conrad':32 'd':34,36 'd-n':33 'deliber':15 'direct':20 'dozen':4 'findlaw':57 'first':24 'ironi':44 'journey':29 'kent':31 'long':28 'move':16 'n':35 'news':60 'opposit':19 'panel':2 'profession':59 'renew':48 'reviv':3 'said':30 'senat':1 'st':56 'step':25 'tax':6,52 'though':37 'year':9</fti-names>
+          <source-url>http://legalpronews.findlaw.com/</source-url>
+          <url>http://news.findlaw.com/apnews-lp/b776bb3c2e09463fa288102558ce0fd2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971145</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FindLaw: AP Professional News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:09:30-04:00</created-at>
+          <title>Senate panel revives dozens of tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...21 years on this committee, we are deliberately moving in the opposite direction.&quot; &quot;It's the first step in a long journey,&quot; said Kent Conrad, D-N.D., though he acknowledged &quot;there is a certain irony&quot; to claiming the renewal of all the tax breaks is a st</excerpt>
+          <fti-names>'21':8 'acknowledg':39 'ap':58 'break':7,53 'certain':43 'claim':46 'committe':12 'conrad':32 'd':34,36 'd-n':33 'deliber':15 'direct':20 'dozen':4 'findlaw':57 'first':24 'ironi':44 'journey':29 'kent':31 'long':28 'move':16 'n':35 'news':59 'opposit':19 'panel':2 'renew':48 'reviv':3 'said':30 'senat':1 'st':56 'step':25 'tax':6,52 'though':37 'year':9</fti-names>
+          <source-url>http://legalnews.findlaw.com/</source-url>
+          <url>http://news.findlaw.com/apnews/b776bb3c2e09463fa288102558ce0fd2</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971144</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FindLaw: AP News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:09:29-04:00</created-at>
+          <title>Bashing Berg &#8216;The North Dakota Way&#8217;</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the Republican challenging Democrat Heidi Heitkamp for the seat being vacated by soon-to-be-chartless budget wonk Sen. Kent Conrad (D) has been ridiculed and berated by Web surfers who found the campaign spot laughable. Team Berg has since disabled the </excerpt>
+          <fti-names>'bash':1 'berat':34 'berg':2,45 'budget':24 'call':51 'campaign':41 'challeng':9 'chartless':23 'conrad':28 'd':29 'dakota':5 'democrat':10 'disabl':48 'found':39 'heidi':11 'heitkamp':12 'kent':27 'laughabl':43 'north':4 'republican':8 'ridicul':32 'roll':50 'seat':15 'sen':26 'sinc':47 'soon':20 'soon-to-be-chartless':19 'spot':42 'surfer':37 'team':44 'vacat':17 'way':6 'web':36 'wonk':25</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/bashing_berg_the_north_dakota_way-216692-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971143</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:09:29-04:00</created-at>
+          <title>Senate panel revives dozens of tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...21 years on this committee, we are deliberately moving in the opposite direction.&quot; &quot;It's the first step in a long journey,&quot; said Kent Conrad, D-N.D., though he acknowledged &quot;there is a certain irony&quot; to claiming the renewal of all the tax breaks is a st</excerpt>
+          <fti-names>'21':8 '9news.com':57 'acknowledg':39 'break':7,53 'certain':43 'claim':46 'committe':12 'conrad':32 'd':34,36 'd-n':33 'deliber':15 'direct':20 'dozen':4 'first':24 'ironi':44 'journey':29 'kent':31 'long':28 'move':16 'n':35 'opposit':19 'panel':2 'renew':48 'reviv':3 'said':30 'senat':1 'st':56 'step':25 'tax':6,52 'though':37 'year':9</fti-names>
+          <source-url>http://9news.com/</source-url>
+          <url>http://www.9news.com/rss/article.aspx?storyid=280897</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971142</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>9NEWS.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Kent Conrad [D, ND]</name>
+      <total-session-votes type="integer">383</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>SenatorConrad</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:55-04:00</created-at>
+          <title>Dem Candidate Touts Independence</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rick Berg (R) for the seat of retiring Sen. Kent Conrad (D) and partisanship has become one of the top accusations in the competitive race. Heitkamp and national Democrats have accused Berg of not being independent from ...</excerpt>
+          <fti-names>'accus':25,35 'becom':20 'berg':6,36 'candid':2 'competit':28 'conrad':15 'd':16 'dem':1 'democrat':33 'heitkamp':30 'independ':4,40 'jon':42 'kent':14 'nation':32 'one':21 'partisanship':18 'r':7 'race':29 'retir':12 'rick':5 'seat':10 'sen':13 'top':24 'tout':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicalese.com/dem-candidate-touts-independence/97558/&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFXbbFomD7N3GvCCejwC4dYDPFfzw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782695</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:54-04:00</created-at>
+          <title>In &amp;#39;Black Liquor,&amp;#39; a Cautionary Tale for Deficit Reduction ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Offshore tax havens and other tax shelters cost the government about $ 150 billion a year, said Senator Kent Conrad of North Dakota, chairman of the Senate Budget Committee. For tax aides in both parties, black liquor falls into the category ...</excerpt>
+          <fti-names>'150':21 'admin':50 'aid':40 'billion':22 'black':2,44 'budget':36 'categori':49 'cautionari':5 'chairman':32 'committe':37 'conrad':28 'cost':17 'dakota':31 'deficit':8 'fall':46 'govern':19 'haven':12 'kent':27 'liquor':3,45 'north':30 'offshor':10 'parti':43 'reduct':9 'said':25 'senat':26,35 'shelter':16 'tale':6 'tax':11,15,39 'year':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.republicanprofiles.com/news/in-%25E2%2580%2598black-liquor%25E2%2580%2599-a-cautionary-tale-for-deficit-reduction/&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNFSM4hRDqZbt-d3szGcEEHbXLi8aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782694</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:52-04:00</created-at>
+          <title>Meet the 112th | Senate Dems growing cool to extending payroll tax ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>&#8220;I think the consensus has been that the payroll tax cut should not be extended but I would leave one escape hatch: what&amp;#39;s happening with the economy,&#8221; said Senate Budget Committee Chairman Kent Conrad (D-N.D.).</excerpt>
+          <fti-names>'112th':3 'budget':42 'chairman':44 'committe':43 'conrad':46 'consensus':15 'cool':7 'cut':22 'd':48,50 'd-n':47 'dem':5 'economi':39 'escap':32 'extend':9,26 'grow':6 'happen':36 'hatch':33 'hill':52 'kent':45 'leav':30 'meet':1 'n':49 'one':31 'payrol':10,20 'said':40 'senat':4,41 'tax':11,21 'think':13 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/senate-dems-growing-cool-to-extending-payroll-tax-holiday/&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNF3vaztDb3xF2Im1tHQQkAO5W32Sg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782688</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:52-04:00</created-at>
+          <title>Short Line Railroad Tax Credit Legislation Gains Majority Support in ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>... 20 announced that legislation to extend the short line rehabilitation tax credit (45G) has now received bipartisan support from a majority of the Senate. Three senators &#8212; Sens. Kent Conrad (D-N.D.), Dean Heller (R-Nev.) ...</excerpt>
+          <fti-names>'20':11 '45g':23 'announc':12 'bipartisan':27 'butler':50 'conrad':39 'credit':5,22 'd':41,43 'd-n':40 'dean':44 'extend':16 'gain':7 'harri':49 'heller':45 'kent':38 'legisl':6,14 'line':2,19 'major':8,31 'n':42 'nev':48 'r':47 'r-nev':46 'railroad':3 'receiv':26 'rehabilit':20 'sen':37 'senat':34,36 'short':1,18 'support':9,28 'tax':4,21 'three':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.railresource.com/content/%3Fp%3D2044&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHUIfrO8UXoS2CFjTbckWV5DIeVeg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16782687</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Harry Butler</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:53-04:00</created-at>
+          <title>S.3369 | Democracy Is Strengthened by Casting Light On Spending ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Roll Call Vote No. 179) entered in Senate. Jul 12 2012. Motion to proceed to consideration of measure ...</excerpt>
+          <fti-names>'12':41 '179':36 '2012':42 'call':33 'cast':6 'clotur':20 'consider':47 'democraci':2 'enter':37 'invok':23 'jul':40 'light':7 'measur':31,49 'motion':10,26,43 'proceed':28,45 'reconsid':15 'reid':13 'roll':32 's.3369':1 'senat':12,39 'spend':9 'strengthen':4 'vote':17,34 'www.votetocracy.com':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/senate_bills/s3369-democracy-is-strengthened-by-casting-light-on-spending-in-elections-act-of-2012-41528&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNFwlEPsDiRfXGXR6OaMSn9l_VPe3g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16782692</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-21T02:26:53-04:00</created-at>
+          <title>JACKASS JOE STRIKES AGAIN - hopelessly partisan</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>34.2 percent; Sen. Ben Cardin (D., Md.)&#8212;31.5 percent; Sen. Tom Carper (D., Del.)&#8212;30.4 percent; Sen. Amy Klobuchar (D., Minn.)&#8211;29.7 percent; Sen. Kent Conrad (D., N.D.)&#8211;29.2 percent; Sen. Bill Nelson (D., Fla.)&#8212;26.5 ...</excerpt>
+          <fti-names>'26.5':42 '29.2':35 '29.7':28 '30.4':21 '31.5':14 '34.2':7 'ami':24 'ben':10 'bill':38 'cardin':11 'carper':18 'conrad':32 'd':12,19,26,33,40 'del':20 'fla':41 'hopeless':5 'jackass':1 'joe':2 'kent':31 'klobuchar':25 'md':13 'minn':27 'n.d':34 'nelson':39 'partisan':6 'partisan.blogs.hopelesslypartisan.com':43 'percent':8,15,22,29,36 'sen':9,16,23,30,37 'strike':3 'tom':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://partisan.blogs.hopelesslypartisan.com/item_12488.htm&amp;sa=U&amp;ei=p0sKUKbmIKf-2QW1sq0F&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEKlyEQCzWukDYEXRG4NMGBgCbT0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16782691</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://partisan.blogs.hopelesslypartisan.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:43:05-04:00</created-at>
+          <title>Fiscal Cliff: The Sky Is Falling! | Crooks and Liars</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Senator Kent Conrad of North Dakota, chairman of the Budget Committee, said the offer to allow let all the tax cuts lapse, then reinstate most of them days later, was a legitimate way to free Republicans from their no-new-taxes ...</excerpt>
+          <fti-names>'allow':25 'budget':19 'chairman':16 'cliff':2 'committe':20 'conrad':12 'crook':7 'cut':30 'dakota':15 'day':37 'fall':6 'fiscal':1 'free':44 'kent':11 'laps':31 'later':38 'legitim':41 'let':26 'liar':9 'madrak':53 'new':50 'no-new-tax':48 'north':14 'offer':23 'reinstat':33 'republican':45 'said':21 'senat':10 'sky':4 'susi':52 'tax':29,51 'way':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://crooksandliars.com/susie-madrak/fiscal-cliff-sky-falling&amp;sa=U&amp;ei=YZ4HUPGdN6Ke2QWx3_W3BA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNEvezQX_b6FzkYTgFQIWmJbU2Q2tA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718382</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Susie Madrak</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:43:04-04:00</created-at>
+          <title>The sky is falling | Suburban Guerrilla</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Senator Kent Conrad of North Dakota, chairman of the Budget Committee, said the offer to allow let all the tax cuts lapse, then reinstate most of them days later, was a legitimate way to free Republicans from their no-new-taxes ...</excerpt>
+          <fti-names>'allow':22 'budget':16 'chairman':13 'committe':17 'conrad':9 'cut':27 'dakota':12 'day':34 'fall':4 'free':41 'guerrilla':6 'kent':8 'laps':28 'later':35 'legitim':38 'let':23 'new':47 'no-new-tax':45 'north':11 'offer':20 'reinstat':30 'republican':42 'said':18 'senat':7 'sky':2 'suburban':5 'susi':49 'tax':26,48 'way':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://susiemadrak.com/2012/07/18/the-sky-is-falling/&amp;sa=U&amp;ei=YZ4HUPGdN6Ke2QWx3_W3BA&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNHeKXEseKpoc0LCYK6W4flGnn833w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718379</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>susie</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:43:03-04:00</created-at>
+          <title>HUFFPOST HILL - Kent Conrad: The Next J. Lo?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>KENT CONRAD KNOWS A LOT ABOUT AMERICAN IDOL - The Hill&amp;#39;s Judy Kurtz asked the Senate Budget Committee chairman who ought to be the next judge on American Idol. &amp;quot;I&amp;#39;m surprised that you knew to talk to me, ...</excerpt>
+          <fti-names>'american':15,36 'ask':22 'budget':25 'chairman':27 'committe':26 'conrad':4,10 'editor':52 'hill':2,18 'huffington':49 'huffpost':1 'idol':16,37 'j':7 'judg':34 'judi':20 'kent':3,9 'knew':43 'know':11 'kurtz':21 'lo':8 'lot':13 'm':39 'news':51 'next':6,33 'ought':29 'post':50 'senat':24 'surpris':40 'talk':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/17/huffpost-hill---kent-conr_n_1681088.html&amp;sa=U&amp;ei=YZ4HUPGdN6Ke2QWx3_W3BA&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNFKVgH9I6OvB_GEPOvD5KjEGRp0KA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718378</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300026</commentariable-id>
+          <created-at type="datetime">2012-07-19T01:43:03-04:00</created-at>
+          <title>JACKASS JOE STRIKES AGAIN - hopelessly partisan</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>34.2 percent; Sen. Ben Cardin (D., Md.)&#8212;31.5 percent; Sen. Tom Carper (D., Del.)&#8212;30.4 percent; Sen. Amy Klobuchar (D., Minn.)&#8211;29.7 percent; Sen. Kent Conrad (D., N.D.)&#8211;29.2 percent; Sen. Bill Nelson (D., Fla.)&#8212;26.5 ...</excerpt>
+          <fti-names>'26.5':42 '29.2':35 '29.7':28 '30.4':21 '31.5':14 '34.2':7 'ami':24 'ben':10 'bill':38 'cardin':11 'carper':18 'conrad':32 'd':12,19,26,33,40 'del':20 'fla':41 'hopeless':5 'jackass':1 'joe':2 'kent':31 'klobuchar':25 'md':13 'minn':27 'n.d':34 'nelson':39 'partisan':6 'partisan.blogs.hopelesslypartisan.com':43 'percent':8,15,22,29,36 'sen':9,16,23,30,37 'strike':3 'tom':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://partisan.blogs.hopelesslypartisan.com/item_12488.htm&amp;sa=U&amp;ei=YZ4HUPGdN6Ke2QWx3_W3BA&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNEvzbf77fRaC3cgXjl-X0CQx0GVeA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16718377</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://partisan.blogs.hopelesslypartisan.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">31633</page-views-count>
+      <unaccented-name>Kent Conrad</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

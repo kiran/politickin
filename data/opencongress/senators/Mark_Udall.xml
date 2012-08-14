@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-28T05:54:09-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.0025706940874</party-votes-percentage>
+        <abstains-percentage type="float">1.51898734177215</abstains-percentage>
+        <votes-most-often-with-id type="integer">412330</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-10-06T20:42:19-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">24</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">5</cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">158</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">36</party-votes-percentage-rank>
+        <sponsored-bills type="integer">37</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">400412</person-id>
+        <cosponsored-bills-rank type="integer">48</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-12T22:55:29-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">30</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412384</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">176</votes-republican-position>
+      <fax>202-226-7840</fax>
+      <blog-article-count type="integer">12463</blog-article-count>
+      <user-approval type="float">2.91964285714286</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">1064</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.markudall.senate.gov/?p=contact</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.0025706940874</with-party-percentage>
+      <lastname>Udall</lastname>
+      <middlename>E.</middlename>
+      <congress-office>328 Hart Senate Office Building</congress-office>
+      <firstname>Mark</firstname>
+      <website>http://www.markudall.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1950-07-18</birthday>
+      <person-id type="integer">400412</person-id>
+      <phone>202-224-5941</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>U000038</bioguide-id>
+      <votes-democratic-position type="integer">354</votes-democratic-position>
+      <metavid-id>Mark_Udall</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:16:28-04:00</created-at>
+          <title>Wind credit expiration will scatter jobs in N.C.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>From an editorial Friday in the Richmond County Daily Journal: With a still coughing and wheezing economy, trying desperately to steady itself on shaky legs, another blow to our employment ranks now is the last thing we need  especially in North Carolina</excerpt>
+          <fti-names>'anoth':34 'blow':35 'carolina':50 'charlott':51 'cough':22 'counti':16 'credit':2 'daili':17 'desper':27 'economi':25 'editori':11 'employ':38 'especi':47 'expir':3 'friday':12 'job':6 'journal':18 'last':43 'leg':33 'n.c':8 'need':46 'north':49 'observ':52 'rank':39 'richmond':15 'scatter':5 'shaki':32 'steadi':29 'still':21 'thing':44 'tri':26 'wheez':24 'wind':1</fti-names>
+          <source-url>http://www.charlotte.com/mld/charlotte/</source-url>
+          <url>http://www.charlotteobserver.com/2012/08/06/3432623/wind-credit-expiration-will-scatter.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973255</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Charlotte Observer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:30:07-04:00</created-at>
+          <title>Sen. Rob Portman seems to fit the bill for a Romney running mate</title>
+          <contains-term>congress</contains-term>
+          <excerpt>KENWOOD, Ohio &#8212; In Mitt Romney&#8217;s quest for the perfect presidential running mate, Ohio Sen. Rob Portman seems to have the right stuff. With nearly 14 years in Congress, he&#8217;s an experienced politician at ease on the public stage. Having served in Pres</excerpt>
+          <fti-names>'14':39 'angel':59 'bill':8 'congress':42 'eas':49 'experienc':46 'fit':6 'kenwood':14 'los':58 'mate':13,26 'mitt':17 'near':38 'ohio':15,27 'perfect':23 'politician':47 'portman':3,30 'pres':57 'presidenti':24 'public':52 'quest':20 'right':35 'rob':2,29 'romney':11,18 'run':12,25 'seem':4,31 'sen':1,28 'serv':55 'stage':53 'stuff':36 'time':60 'year':40</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/news/nationworld/nation/~3/L7qhEvkYdNE/la-na-portman-20120805,0,1480983.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972397</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:30:08-04:00</created-at>
+          <title>Senators want to spend tax dollars to control the weather</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(AP Photo/The Paris News, Sam Craft) MANDATORY CREDIT If Texas Republican Sen. Kay Bailey Hutchison and Colorado Democratic Sen. Mark Udall have their way, rain will go away come again some other day of their choosing. Both Hutchison and Udall have intr</excerpt>
+          <fti-names>'ap':11 'away':38 'bailey':24 'caller':55 'choos':46 'colorado':27 'come':39 'control':8 'craft':16 'credit':18 'daili':54 'day':43 'democrat':28 'dollar':6 'go':37 'hutchison':25,48 'intr':52 'kay':23 'mandatori':17 'mark':30 'news':14 'pari':13 'photo/the':12 'rain':35 'republican':21 'sam':15 'sen':22,29 'senat':1 'spend':4 'tax':5 'texa':20 'udal':31,50 'want':2 'way':34 'weather':10</fti-names>
+          <source-url>http://dailycaller.com/</source-url>
+          <url>http://dailycaller.com/2012/08/03/senators-want-to-spend-tax-dollars-to-control-the-weather/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972398</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Daily Caller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:36-04:00</created-at>
+          <title>Louisville company gets spaceflight grant</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...The grant will make it possible for Sierra Nevada Space Systems to use its Dream Chaser Program for a manned orbital demonstration flight. U.S. Sen. Mark Udall says the grant will help make Colorado a key player in aerospace innovation and job creation.</excerpt>
+          <fti-names>'aerospac':44 'chaser':21 'colorado':39 'compani':2 'creation':48 'demonstr':27 'dream':20 'examin':50 'flight':28 'get':3 'grant':5,7,35 'help':37 'innov':45 'job':47 'key':41 'louisvill':1 'make':9,38 'man':25 'mark':31 'nevada':14 'orbit':26 'player':42 'possibl':11 'program':22 'say':33 'sen':30 'sierra':13 'space':15 'spaceflight':4 'system':16 'u.s':29 'udal':32 'use':18 'washington':49</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/louisville-company-gets-spaceflight-grant/article/feed/2019656?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972099</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:35-04:00</created-at>
+          <title>Louisville Company Gets Spaceflight Grant</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...possible for Sierra Nevada Space Systems to use its Dream Chaser Program for a manned orbital demonstration flight. U.S. Sen. Mark Udall says the grant will help make Colorado a key player in aerospace innovation and job creation. (&#169; Copyright 2012 The</excerpt>
+          <fti-names>'2012':45 'aerospac':39 'cbs':47 'chaser':16 'colorado':34 'compani':2 'copyright':44 'creation':43 'demonstr':22 'denver':48 'dream':15 'flight':23 'get':3 'grant':5,30 'help':32 'innov':40 'job':42 'key':36 'louisvill':1 'make':33 'man':20 'mark':26 'nevada':9 'orbit':21 'player':37 'possibl':6 'program':17 'say':28 'sen':25 'sierra':8 'space':10 'spaceflight':4 'system':11 'u.s':24 'udal':27 'use':13</fti-names>
+          <source-url>http://denver.cbslocal.com/</source-url>
+          <url>http://denver.cbslocal.com/2012/08/03/louisville-company-gets-spaceflight-grant/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972098</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS Denver</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:49:28-04:00</created-at>
+          <title>Klobuchar, Franken call for drought response</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...government,&quot; the letter said. In addition to Klobuchar and Franken, the letter was signed by Sens. Tom Harkin (D-Iowa), Mark Pryor (D-Ark.), Mark Udall (D-Colo.), Michael Bennet (D-Colo.), Kent Conrad (D-North Dak.), Richard Durbin (D-Ill.), Herb Kohl (</excerpt>
+          <fti-names>'addit':12 'ark':32 'bennet':39 'call':3 'colo':37,42 'conrad':44 'd':26,31,36,41,46,52 'd-ark':30 'd-colo':35,40 'd-ill':51 'd-iowa':25 'd-north':45 'dak':48 'drought':5 'durbin':50 'franken':2,16 'govern':7 'harkin':24 'herb':54 'ill':53 'iowa':27 'kare':56 'kent':43 'klobuchar':1,14 'kohl':55 'letter':9,18 'mark':28,33 'michael':38 'minneapoli':57 'north':47 'paul':59 'pryor':29 'respons':6 'richard':49 'said':10 'sen':22 'sign':20 'st':58 'tom':23 'udal':34</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985378/14/Klobuchar-Franken-call-for-drought-response-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971416</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:49:26-04:00</created-at>
+          <title>Key Senate panel OKs wind power tax credit</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...R-Iowa. &quot;Bipartisan support is vital to passing this extension in the Senate,&quot; Bennet said following the committee vote. Sen. Mark Udall, D-Colo., has been giving weekly floor speeches on behalf of the wind credit and said the finance committee vote was</excerpt>
+          <fti-names>'behalf':42 'bennet':23 'bipartisan':12 'chieftain':55 'colo':34 'committe':27,51 'credit':8,46 'd':33 'd-colo':32 'extens':19 'financ':50 'floor':39 'follow':25 'give':37 'iowa':11 'key':1 'mark':30 'ok':4 'panel':3 'pass':17 'power':6 'pueblo':54 'r':10 'r-iowa':9 'said':24,48 'sen':29 'senat':2,22 'speech':40 'support':13 'tax':7 'udal':31 'vital':15 'vote':28,52 'week':38 'wind':5,45</fti-names>
+          <source-url>http://www.chieftain.com/</source-url>
+          <url>http://www.chieftain.com/news/local/key-senate-panel-oks-wind-power-tax-credit/article_1156fb44-dce8-11e1-b86b-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971415</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Pueblo Chieftain</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:11:51-04:00</created-at>
+          <title>Scott Brown, McCain bond over military</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(R-Texas), Senate Republican Conference Chairman John Thune (R-S.D.), and Democrats John Kerry, Massachusetts&#8217;s senior senator, Mark Udall of Colorado, and Jim Webb of Virginia, a Vietnam veteran. Huff is a reporter for WJLA-TV, which is owned by the </excerpt>
+          <fti-names>'bond':4 'brown':2 'chairman':13 'colorado':31 'confer':12 'd':19 'democrat':21 'huff':40 'jim':33 'john':14,22 'kerri':23 'mark':28 'massachusett':24 'mccain':3 'militari':6 'own':50 'politico':54 'r':8,17 'r-s':16 'r-texa':7 'report':43 'republican':11 'scott':1 'senat':10,27 'senior':26 'texa':9 'thune':15 'tv':47 'udal':29 'veteran':39 'vietnam':38 'virginia':36 'webb':34 'wjla':46 'wjla-tv':45</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79282.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970339</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:11:51-04:00</created-at>
+          <title>Poll: Washingtonians most likely to swear at the office</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...who has long been fond of four-letter words. Having a city in his home state come in at No. 2 in the survey had Sen. Mark Udall (D-Colo.) exclaiming, &#8220;I want to see this study!&#8221; He then questioned the results, saying, &#8220;There&#8217;s no way. Coloradans</excerpt>
+          <fti-names>'2':31 'citi':22 'colo':41 'coloradan':59 'come':27 'd':40 'd-colo':39 'exclaim':42 'fond':14 'four':17 'four-lett':16 'hill':61 'home':25 'letter':18 'like':4 'long':12 'mark':37 'offic':9 'poll':1 'question':51 'result':53 'say':54 'see':46 'sen':36 'state':26 'studi':48 'survey':34 'swear':6 'udal':38 'want':44 'washingtonian':2 'way':58 'word':19</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/capital-living/in-the-know/241729-poll-washingtonians-most-likely-to-swear-at-the-office</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970338</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-08-01T00:25:54-04:00</created-at>
+          <title>Mitt Romney Wind Energy Tax Credit Opposition At Odds With Republicans</title>
+          <contains-term>republican</contains-term>
+          <excerpt>But Sen. Mark Udall (D-Colo.) took a thinly veiled shot at Romney and his aversion to the wind-power tax breaks during a Senate floor speech Tuesday evening, after touting the tax credit as a &#8220;critical investment in American jobs.&#8221;</excerpt>
+          <fti-names>'american':53 'avers':28 'break':35 'colo':18 'credit':6,47 'critic':50 'd':17 'd-colo':16 'energi':4 'even':42 'floor':39 'huffington':55 'invest':51 'job':54 'mark':14 'mitt':1 'odd':9 'opposit':7 'post':56 'power':33 'republican':11 'romney':2,25 'sen':13 'senat':38 'shot':23 'speech':40 'tax':5,34,46 'thin':21 'took':19 'tout':44 'tuesday':41 'udal':15 'veil':22 'wind':3,32 'wind-pow':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/31/romney-wind-energy-tax-credit_n_1726117.html?utm_hp_ref=politics</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T20:17:13-04:00</date>
+          <id type="integer">16968010</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Mark Udall [D, CO]</name>
+      <total-session-votes type="integer">389</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>SenatorMarkUdall</youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:56-04:00</created-at>
+          <title>[WATCH]: Abel Benavidez on PCMS - Senator Mark Udall</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Quick Links. Balanced Budget Amendment Don&amp;#39;t Ask Don&amp;#39;t Tell Health Care health care reform Senator Mark Udall Travel Promotion Act US Senator Mark Udall Villafuerte Withdraws ...</excerpt>
+          <fti-names>'abel':2 'act':30 'admin':37 'amend':13 'ask':16 'balanc':11 'benavidez':3 'budget':12 'care':21,23 'health':20,22 'link':10 'mark':7,26,33 'pcms':5 'promot':29 'quick':9 'reform':24 'senat':6,25,32 'tell':19 'travel':28 'udal':8,27,34 'us':31 'villafuert':35 'watch':1 'withdraw':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://markudall.on-the-rag.com/2012/07/17/watch-abel-benavidez-on-pcms/&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNHr0BW5GiQa9IJ85az534_jp8nf_w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16702469</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:57-04:00</created-at>
+          <title>Avery Brewing Hosts Senator Mark Udall&#8211;Cutting Federal Excise ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Avery Brewing Hosts Senator Mark Udall&#8211;Cutting Federal Excise Tax?</excerpt>
+          <fti-names>'averi':1,10 'brew':2,11 'cut':7,16 'excis':9,18 'feder':8,17 'host':3,12 'mark':5,14 'mybeerbuzz':20 'senat':4,13 'tax':19 'udal':6,15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mybeerbuzz.blogspot.com/2012/07/avery-brewing-hosts-senator-mark.html&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNFKUYyZQcH9uBeESKd7eOzeeT1YVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-14T01:00:00-04:00</date>
+          <id type="integer">16702471</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mybeerbuzz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:41-04:00</created-at>
+          <title>Photo of Colorado Sen. Mark Udall inspires</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Photo of Colorado Sen. Mark Udall inspires : The Denver Post&amp;#39;s political and editorial writers give a daily dish of Colorado political news, analysis and commentary on local, state and national issues. Colorado.</excerpt>
+          <fti-names>'analysi':31 'bartel':42 'colorado':3,10,28,40 'commentari':33 'daili':25 'denver':16 'dish':26 'editori':21 'give':23 'inspir':7,14 'issu':39 'local':35 'lynn':41 'mark':5,12 'nation':38 'news':30 'photo':1,8 'polit':19,29 'post':17 'sen':4,11 'state':36 'udal':6,13 'writer':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.denverpost.com/thespot/2012/07/12/sen-mark-udall-speak-hand/76129/&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHQSdacuRW8ECevfaK0b9cylMAaWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16702463</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lynn Bartels</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:56-04:00</created-at>
+          <title>Colorado Senator Mark Udall Floor Speech: &#8220;South Carolina and the ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Saturday Address &amp;middot; World &amp;middot; &#12296; &#12297;. Colorado Senator Mark Udall Floor Speech: &#8220;South Carolina and the Wind Energy Production Tax Credit&#8221; &#8211; 7/11/12. July 11, 2012 &#183; Unedited Politics. Share this: Facebook &amp;middot; Twitter &amp;middot; Pinte</excerpt>
+          <fti-names>'11':31 '2012':32 '7/11/12':29 'address':12 'carolina':8,21 'colorado':1,14 'credit':28 'energi':25 'facebook':37 'floor':5,18 'juli':30 'mark':3,16 'pint':39 'polit':34,41 'product':26 'saturday':11 'senat':2,15 'share':35 'south':7,20 'speech':6,19 'tax':27 'twitter':38 'udal':4,17 'unedit':33,40 'wind':24 'world':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/11/colorado-senator-mark-udall-floor-speech-south-carolina-and-the-wind-energy-production-tax-credit-71112/&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNE8Cq6miiHlRGW3XLCTHa9l7QxRhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16702470</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:55-04:00</created-at>
+          <title>Senator Mark Udall and 2012 US Capitol Christmas Tree - SNEWS</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Mark Udall and 2012 US Capitol Christmas Tree.</excerpt>
+          <fti-names>'/cgi-bin/snews/':22 '2012':5,15 'capitol':7,17 'christma':8,18 'mark':2,12 'senat':1,11 'snew':10 'tree':9,19 'udal':3,13 'us':6,16 'www.snewsnet.com':21 'www.snewsnet.com/cgi-bin/snews':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.snewsnet.com/cgi-bin/snews/25753.html&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNG9kA7XMjK8bk8NuE6q1gVrjcLruw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16702468</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.snewsnet.com/cgi-bin/snews/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:54-04:00</created-at>
+          <title>Senator Mark Udall Congratulates Colorado on Water 2012 | Your ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>In May Senators Mark Udall and Michael Bennett introduced a resolution recognizing 2012 as the Year of Water in Colorado. Today Senator Udall Congratulates Colorado through a video blog post celebrating the state&amp;#39;s ...</excerpt>
+          <fti-names>'2012':8,22,46 'bennett':17 'blog':38 'celebr':40 'colorado':5,29,34,44 'congratul':4,33 'introduc':18 'mark':2,13 'may':11 'michael':16 'post':39 'recogn':21 'resolut':20 'senat':1,12,31 'state':42 'today':30 'udal':3,14,32 'video':37 'water':7,27,45 'year':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://yourwatercoloradoblog.wordpress.com/2012/07/09/senator-mark-udall-congratulates-colorado-on-water-2012/&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNF4hCdO-dKtEx90qbjX85UxpKS4qw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16702467</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Colorado Water 2012</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:51-04:00</created-at>
+          <title>Sen. Mark Udall ropes up for July 4 tradition - The Durango Herald</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>U.S. Sen. Mark Udall, D-Colo., joined a group that scaled Independence Monument, the tallest rock spire at Colorado National Monument, to raise the American flag. The Fourth of July climb of the 450-foot spire has been a ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':55 '4':8 '450':47 'american':38 'climb':44 'colo':19 'colorado':32 'd':18 'd-colo':17 'durango':11 'durangoherald.com':54 'durangoherald.com/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':53 'flag':39 'foot':48 'fourth':41 'group':22 'herald':12 'independ':25 'join':20 'juli':7,43 'mark':2,15 'monument':26,34 'nation':33 'rais':36 'rock':29 'rope':4 'scale':24 'sen':1,14 'spire':30,49 'tallest':28 'tradit':9 'u.s':13 'udal':3,16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://durangoherald.com/article/20120707/NEWS01/707079966/-1/News01/Sen-Mark-Udall-ropes-up-for-July-4-tradition&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEbrGi-HnMfQyNiVxOi_44rlYacuw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16702465</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://durangoherald.com/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:57-04:00</created-at>
+          <title>Sen. Mark Udall calls for changes to FISA Amendments Act | The ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Sen. Mark Udall (D-CO) on Friday called on Congress to amend legislation that authorized dragnet-style warrantless wiretapping by the National Security Agency. The FISA Amendments Act of 2008 gave the government ...</excerpt>
+          <fti-names>'2008':43 'act':10,41 'agenc':37 'amend':9,24,40 'author':27 'call':4,20 'chang':6 'co':17 'congress':22 'd':16 'd-co':15 'dolan':49 'dragnet':29 'dragnet-styl':28 'eric':47 'fisa':8,39 'friday':19 'gave':44 'govern':46 'legisl':25 'mark':2,13 'nation':35 'secur':36 'sen':1,12 'style':30 'udal':3,14 'w':48 'warrantless':31 'wiretap':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rawstory.com/rs/2012/06/10/sen-mark-udall-calls-for-changes-to-fisa-amendments-act/&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNGeFlOafff73NPJZpylWa0XKGtPFQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-10T01:00:00-04:00</date>
+          <id type="integer">16702472</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric W. Dolan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:53-04:00</created-at>
+          <title>Sen. Mark Udall talks military biofuels on Platts Energy Week ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Mark Udall, D-Colo., appeared on the Memorial Day edition of Platts Energy Week to talk about federal funding of the military&amp;#39;s biofuel initiatives. He is a member of the committee that approved the anti-biofuel measures ...</excerpt>
+          <fti-names>'anti':49 'anti-biofuel':48 'appear':17 'approv':46 'biofuel':6,36,50 'colo':16 'committe':44 'd':15 'd-colo':14 'day':21 'edit':22 'energi':9,25 'feder':30 'fund':31 'initi':37 'mark':2,12 'measur':51 'member':41 'memori':20 'militari':5,34 'platt':8,24 'sen':1,11 'talk':4,28 'udal':3,13 'week':10,26 'www.biorefiningmagazine.com':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://biomassmagazine.com/articles/7793/sen-mark-udall-talks-military-biofuels-on-platts-energy-week/%3Fref%3Dbrm&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNG5_gu9dH414yrZ8wg2mzhKE-kT7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-30T01:00:00-04:00</date>
+          <id type="integer">16702466</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.biorefiningmagazine.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400412</commentariable-id>
+          <created-at type="datetime">2012-07-18T09:29:58-04:00</created-at>
+          <title>Sen. Mark Udall: Celebrating Earth Day</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Working together we can keep our wild lands wild, and our air and water clean. By accomplishing this, we will ensure our children too can enjoy the opportunity provided by the geography of hope -- the great gift of the ...</excerpt>
+          <fti-names>'accomplish':23 'air':18 'celebr':4 'children':29 'clean':21 'day':6 'earth':5 'enjoy':32 'ensur':27 'geographi':38 'gift':43 'great':42 'hope':40 'keep':11 'land':14 'mark':2,47 'opportun':34 'provid':35 'sen':1,46 'togeth':8 'udal':3,48 'water':20 'wild':13,15 'work':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/sen.-mark-udall/celebrating-earth-day_b_1444073.html&amp;sa=U&amp;ei=RLoGUL3OLoei2wXw553WBQ&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNH3Xs1yHjEcZ93dp-alJoZajwMo4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-22T01:00:00-04:00</date>
+          <id type="integer">16702473</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sen. Mark Udall</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">36824</page-views-count>
+      <unaccented-name>Mark Udall</unaccented-name>
+      <oc-user-comments type="integer">25</oc-user-comments>
+    </person>
+  </people>
+</hash>

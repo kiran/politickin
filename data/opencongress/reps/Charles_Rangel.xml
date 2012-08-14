@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.3705512909979</party-votes-percentage>
+        <abstains-percentage type="float">16.6375799883653</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">1</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">117</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">9</cosponsored-bills-passed-rank>
+        <abstains type="integer">286</abstains>
+        <cosponsored-bills type="integer">661</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">87</party-votes-percentage-rank>
+        <sponsored-bills type="integer">21</sponsored-bills>
+        <votes-least-often-with-id type="integer">412431</votes-least-often-with-id>
+        <person-id type="integer">400333</person-id>
+        <cosponsored-bills-rank type="integer">125</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-29T20:22:28-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">18</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">15</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">295</votes-republican-position>
+      <blog-article-count type="integer">15876</blog-article-count>
+      <fax>202-225-0816</fax>
+      <user-approval type="float">1.11363636363636</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">180</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/rangel/forms/contact.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.3705512909979</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Rangel</lastname>
+      <congress-office>2354 Rayburn House Office Building</congress-office>
+      <middlename>B.</middlename>
+      <firstname>Charles</firstname>
+      <website>http://rangel.house.gov/</website>
+      <birthday type="date">1930-06-11</birthday>
+      <person-id type="integer">400333</person-id>
+      <phone>202-225-4365</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1338</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:01:36-04:00</created-at>
+          <title>I&#8217;m trying to read Blacklash by Deneen Borelli, but it is a tough read</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...was not deterred. I started reading it and in the first few chapters she strikes out at Jesse Jackson, Al Sharpton and Rep. Charlie Rangel. This was no surprise. They all have well documented histories and she simply highlighted the negative, but her as</excerpt>
+          <fti-names>'al':35 'blacklash':6 'borelli':9 'chapter':28 'charli':39 'deneen':8 'deter':18 'document':49 'eboni':66 'eye':63 'first':26 'highlight':54 'histori':50 'jackson':34 'jess':33 'm':2 'mom':67 'negat':56 'polit':60 'rangel':40 'read':5,15,21 'rep':38 'sharpton':36 'simpli':53 'start':20 'strike':30 'surpris':44 'tough':14 'tri':3 'well':48</fti-names>
+          <source-url>http://ebonymompolitics.wordpress.com/</source-url>
+          <url>http://ebonymompolitics.wordpress.com/2012/08/06/im-trying-to-read-blacklash-by-deneen-borelli-but-it-is-a-tough-read/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972952</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politics from the Eyes of An Ebony Mom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:09:42-04:00</created-at>
+          <title>Africa: AGOA Action Coalition and the Whitaker Group Applaud AGOA Third Country Fabric Renewal</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Baucus (D-MT), Sen. Orrin Hatch (R-UT), Sen. Chris Coons (D-DE), Sen. Johnny Isakson (R-GA), Rep. Dave Camp (R-MI), Rep. Charlie Rangel (D-NY), Rep. Sander Levin (D-MI), Rep. Jim McDermott (D-WA), Rep. Chris Smith (R-NJ), Rep. Karen Bass (D-CA), Rep. Ed</excerpt>
+          <fti-names>'action':3 'africa':1 'agoa':2,10 'allafrica.com':75 'applaud':9 'bass':69 'baucus':15 'ca':72 'camp':39 'charli':44 'chris':26,62 'coalit':4 'coon':27 'countri':12 'd':17,29,47,53,59,71 'd-ca':70 'd-de':28 'd-mi':52 'd-mt':16 'd-ni':46 'd-wa':58 'dave':38 'de':30 'ed':74 'fabric':13 'ga':36 'group':8 'hatch':21 'isakson':33 'jim':56 'johnni':32 'karen':68 'levin':51 'mcdermott':57 'mi':42,54 'mt':18 'nj':66 'ny':48 'orrin':20 'r':23,35,41,65 'r-ga':34 'r-mi':40 'r-nj':64 'r-ut':22 'rangel':45 'renew':14 'rep':37,43,49,55,61,67,73 'sander':50 'sen':19,25,31 'smith':63 'third':11 'ut':24 'wa':60 'whitak':7</fti-names>
+          <source-url>http://allafrica.com/</source-url>
+          <url>http://allafrica.com/stories/201208031202.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971805</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AllAfrica.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:01-04:00</created-at>
+          <title>Here And Now</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Ydanis Rodriguez and Sen. Adriano Espaillat (who is battling in a primary for his seat after losing a challenge to Rep. Charlie Rangel) will be joined by top-level NYC and NYS housing officials on a tour and inspection of a foreclosed residential buildi</excerpt>
+          <fti-names>'adriano':8 'battl':12 'buildi':48 'capit':49 'challeng':22 'charli':25 'espaillat':9 'foreclos':46 'hous':37 'inspect':43 'join':29 'level':33 'lose':20 'nyc':34 'nys':36 'offici':38 'primari':15 'rangel':26 'rep':24 'residenti':47 'rodriguez':5 'seat':18 'sen':7 'tonight':50 'top':32 'top-level':31 'tour':41 'ydani':4</fti-names>
+          <source-url>http://www.capitaltonight.com/</source-url>
+          <url>http://capitaltonightny.ynn.com/2012/08/here-and-now-579/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969908</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Capital Tonight</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:55:00-04:00</created-at>
+          <title>Progressive Caucus Proposes Budget 'Deal for All'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...worrying about an increase in cost-sharing for medicare recipients. &quot;This nation is built on the middle class,&quot; said Rep. Charlie Rangel, D-N.Y. &quot;If we don't have them active, they can't buy, if they can't buy, people can't sell to them. If people can't</excerpt>
+          <fti-names>'activ':41 'budget':4 'built':22 'buy':45,50 'caucus':2 'charli':29 'class':26 'cost':14 'cost-shar':13 'd':32 'd-n':31 'deal':5 'increas':11 'journal':62 'medicar':17 'middl':25 'n':33 'nation':20,61 'peopl':51,58 'progress':1 'propos':3 'rangel':30 'recipi':18 'rep':28 'said':27 'sell':54 'share':15 'worri':8 'y':34</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://influencealley.nationaljournal.com/2012/08/speaking-with-passion-to-a.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969907</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:07:40-04:00</created-at>
+          <title>If he had been very, very good at job, constituents would say so</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He was working for the disgraced Charlie Rangel in Washington, D.C. That is not a very good reference for a member of Congress for this district. Maffei would not need to flatter himself had he really been a very, very good congressman.</excerpt>
+          <fti-names>'charli':20 'congress':36 'congressman':55 'constitu':10 'd.c':24 'disgrac':19 'district':39 'flatter':45 'good':7,30,54 'job':9 'maffei':40 'member':34 'need':43 'post':58 'post-standard':57 'rangel':21 'realli':49 'refer':31 'say':12 'standard':59 'washington':23 'work':16 'would':11,41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.syracuse.com/opinion/2012/07/if_he_had_been_very_very_good.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T03:20:44-04:00</date>
+          <id type="integer">16967115</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Post-Standard </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:26:37-04:00</created-at>
+          <title>Rangel: &#8216;I&#8217;m Out Of The School Naming Business&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Charlie Rangel's ethics scandal is far enough behind him that he's now joking about it in public. Our Erin Durkin reports: Rangel cracked at a press conference at Columbia University that he is &quot;out of the school naming business&quot; -- a reference ...</excerpt>
+          <fti-names>'albani':54 'behind':19 'blog':57 'busi':9,51 'charli':11 'columbia':41 'confer':39 'crack':35 'durkin':32 'enough':18 'erin':31 'ethic':14 'far':17 'joke':25 'm':3 'name':8,50 'press':38 'public':29 'rangel':1,12,34 'refer':53 'rep':10 'report':33 'scandal':15 'school':7,49 'time':55 'union':56 'univers':42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.timesunion.com/capitol/archives/142389/rangel-im-out-of-the-school-naming-business/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T18:23:52-04:00</date>
+          <id type="integer">16961463</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albany Times Union (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:07:41-04:00</created-at>
+          <title>Thompson Bill Aims to Expand Access to Veterans Health Care</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The VETS Act already has bipartisan support. In fact, Thompson introduced the bill alongside Democratic Congressman Charlie Rangel of New York City.</excerpt>
+          <fti-names>'36':34 'access':6 'act':13 'aim':3 'alongsid':24 'alreadi':14 'bill':2,23 'bipartisan':16 'care':10 'charli':27 'citi':32 'congressman':26 'democrat':25 'expand':5 'fact':19 'health':9 'introduc':21 'new':30 'newschannel':33 'rangel':28 'support':17 'thompson':1,20 'vet':12 'veteran':8 'york':31</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.weny.com/news/national-news/glenn-thompson-vets-act-073012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T17:05:08-04:00</date>
+          <id type="integer">16967116</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsChannel 36</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:26:48-04:00</created-at>
+          <title>Rangel: 'I'm Out Of The School Naming Business'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Charlie Rangel's ethics scandal is far enough behind him that he's now joking about it in public. Rangel cracked at a press conference at Columbia University that he is &quot;out of the school naming business&quot; -- a reference to a City College of New York cen</excerpt>
+          <fti-names>'behind':18 'busi':9,46 'cen':56 'charli':10 'citi':51 'colleg':52 'columbia':36 'confer':34 'crack':30 'daili':59 'enough':17 'ethic':13 'far':16 'joke':24 'm':3 'name':8,45 'new':54,57 'news':60 'press':33 'public':28 'rangel':1,11,29 'refer':48 'scandal':14 'school':7,44 'univers':37 'york':55,58</fti-names>
+          <source-url>http://www.nydailynews.com/</source-url>
+          <url>http://www.nydailynews.com/blogs/dailypolitics/2012/07/rangel-im-out-of-the-school-naming-business</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961466</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>New York Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:51:31-04:00</created-at>
+          <title>Obama intervenes for Democratic freshman</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Pete Stark, Michigan&#8217;s John Conyers and Texas&#8217;s Silvestre Reyes (who nevertheless lost) but notably did not give his endorsement to New York&#8217;s Charlie Rangel. Read more about: Haiti , Frederica Wilson , Haitian-Americans , 2012 House Campaigns...</excerpt>
+          <fti-names>'2012':42 'american':41 'campaign':44 'charli':31 'conyer':11 'democrat':4 'endors':26 'frederica':37 'freshman':5 'give':24 'haiti':36 'haitian':40 'haitian-american':39 'hous':43 'interven':2 'john':10 'lost':19 'michigan':8 'nevertheless':18 'new':28 'notabl':21 'obama':1 'pete':6 'politico':46 'rangel':32 'read':33 'rey':16 'silvestr':15 'stark':7 'texa':13 'wilson':38 'york':29</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=c31628355c48f1bd6dc9103e607a6f2d</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949512</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:26:38-04:00</created-at>
+          <title>Obama intervenes for Democratic freshman</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The latest example comes from south Florida, where first-term Democratic Rep. Frederica Wilson received the president ... but notably did not give his endorsement to New York&#8217;s Charlie Rangel.</excerpt>
+          <fti-names>'charli':35 'come':9 'democrat':4,17 'endors':30 'exampl':8 'first':15 'first-term':14 'florida':12 'frederica':19 'freshman':5 'give':28 'interven':2 'latest':7 'new':32 'notabl':25 'obama':1 'politico.com':37 'presid':23 'rangel':36 'receiv':21 'rep':18 'south':11 'term':16 'wilson':20 'york':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.politico.com/blogs/charlie-mahtesian/2012/07/obama-intervenes-for-democratic-freshman-130376.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T19:59:18-04:00</date>
+          <id type="integer">16961464</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Politico.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>R000053</bioguide-id>
+      <metavid-id>Charles_B._Rangel</metavid-id>
+      <name>Rep. Charles Rangel [D, NY-15]</name>
+      <total-session-votes type="integer">1433</total-session-votes>
+      <sunlight-nickname>Charlie</sunlight-nickname>
+      <district>15</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:09:06-04:00</created-at>
+          <title>Ex-Assemblyman Says Rep. Charlie Rangel Probably Won&amp;#39;t Win in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Ex-Assemblyman Says Rep. Charlie Rangel Probably Won&amp;#39;t Win in 2014. New York Press Is it too early to speculate about the 2014 race for Manhattan Rep. Charlie Rangel&amp;#39;s seat? Not for ex-Assemblyman Adam Clayton ...</excerpt>
+          <fti-names>'2014':25,37 'adam':51 'admin':53 'assemblyman':3,15,50 'charli':6,18,42 'clayton':52 'earli':32 'ex':2,14,49 'ex-assemblyman':1,13,48 'manhattan':40 'new':26 'press':28 'probabl':8,20 'race':38 'rangel':7,19,43 'rep':5,17,41 'say':4,16 'seat':45 'specul':34 'win':11,23 'won':9,21 'york':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ny-moc/charles-rangel-new-york-representative/ex-assemblyman-says-rep-charlie-rangel-probably-wont-win-in-2014-new-york-press/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dex-assemblyman-says-rep-charlie-rangel-probably-wont-win-in-2014-new-york-press&amp;sa=U&amp;ei=kuEUUPTUCujw0gHs8oDoCQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNEnCWRGD43u4DlPSDhgsRpIcPKkTQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930736</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:26:17-04:00</created-at>
+          <title>Rangel Emerges Victorious, Part of Bronx Family : Norwood News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>With a general election victory in November considered a formality, Congressman Charlie Rangel will represent the Bronx for the first time in his lengthy career starting in 2013. Initially, Charlie Rangel wanted nothing to do ...</excerpt>
+          <fti-names>'2013':37 'admin':45 'bronx':6,26 'career':34 'charli':21,39 'congressman':20 'consid':17 'elect':13 'emerg':2 'famili':7 'first':29 'formal':19 'general':12 'initi':38 'lengthi':33 'news':9 'norwood':8 'noth':42 'novemb':16 'part':4 'rangel':1,22,40 'repres':24 'start':35 'time':30 'victori':3,14 'want':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.norwoodnews.org/id%3D8510%26story%3Drangel-emerges-victorious-part-of-bronx-family/&amp;sa=U&amp;ei=2FsTUO7-C6Xr0gGIwYHwCQ&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNFF9kH3ipC4jeWWW-lu-rE_IFIz6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923219</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:04:12-04:00</created-at>
+          <title>Espaillat Continues Roll-Out of Support That Didn&amp;#39;t Go His Way June ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>State Senator Adriano Espaillat, who announced his intention to seek reelection after narrowly losing a congressional primary against Rep. Charlie Rangel earlier this year, continues to scoop up endorsements that were unfamiliar to him in his ...</excerpt>
+          <fti-names>'adriano':17 'announc':20 'campbel':52 'charli':34 'colin':51 'congression':30 'continu':2,39 'didn':9 'earlier':36 'endors':43 'espaillat':1,18 'go':11 'intent':22 'june':14 'lose':28 'narrowli':27 'primari':31 'rangel':35 'reelect':25 'rep':33 'roll':4 'roll-out':3 'scoop':41 'seek':24 'senat':16 'state':15 'support':7 'unfamiliar':46 'way':13 'year':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicker.com/2012/07/espaillat-continues-roll-out-of-support-that-didnt-go-his-way-june-26th/&amp;sa=U&amp;ei=HxMSUMLaK4au9AT2uIGABw&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNHXfpq3RQ3jdAMIWTYBI5ZrxuDu2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16892108</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Colin Campbell</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:44:18-04:00</created-at>
+          <title>Why is a four-star general calling for the draft?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Charlie Rangel (D-NY) is one of the few elected officials who has repeatedly come out in favor of conscription, arguing that it would require individuals from all rungs of the economic ladder to sacrifice, not just those at the ...</excerpt>
+          <fti-names>'/news/politics':56 'argu':34 'call':8 'charli':13 'come':28 'conscript':33 'd':16 'd-ni':15 'draft':11 'econom':45 'elect':23 'favor':31 'four':5 'four-star':4 'general':7 'individu':39 'ladder':46 'ny':17 'offici':24 'one':19 'rangel':14 'rep':12 'repeat':27 'requir':38 'rung':42 'sacrific':48 'star':6 'would':37 'www.wbez.org':55 'www.wbez.org/news/politics':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wbez.org/blogs/bez/2012-07/why-four-star-general-calling-draft-101130&amp;sa=U&amp;ei=nYcPUPWvCujR6gGl3oDQCw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNFMBORYc9CjUjjDOUS3YTBUQjrXsw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16851991</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wbez.org/news/politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-25T01:44:17-04:00</created-at>
+          <title>Programming notes - First Read</title>
+          <contains-term>congress</contains-term>
+          <excerpt>line-up: MSNBC&amp;#39;s Chris Jansing interviews Rep. Charlie Rangel (D-NY), Minnesota congressional candidate Jim Graves (D), the Atlantic&amp;#39;s Molly Ball, Washington Post&amp;#39;s Jonathan Capehart, former Pennsylvania Gov.</excerpt>
+          <fti-names>'atlant':26 'ball':29 'candid':21 'capehart':34 'charli':14 'chris':10 'congression':20 'd':17,24 'd-ni':16 'first':3 'firstread.msnbc.msn.com':38 'former':35 'gov':37 'grave':23 'interview':12 'jans':11 'jim':22 'jonathan':33 'line':6 'line-up':5 'minnesota':19 'molli':28 'msnbc':8 'note':2 'ny':18 'pennsylvania':36 'post':31 'program':1 'rangel':15 'read':4 'rep':13 'washington':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://firstread.msnbc.msn.com/_news/2012/07/24/12925577-programming-notes&amp;sa=U&amp;ei=nYcPUPWvCujR6gGl3oDQCw&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNGqH9-KuquhItMpYb0-TGDCU8AYGg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16851990</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://firstread.msnbc.msn.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:54-04:00</created-at>
+          <title>Sylvia Woods, Founder Of Iconic Harlem Restaurant, Dead At 86 ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sylvia Woods, Founder Of Iconic Harlem Restaurant, Dead At 86. &amp;#39;Queen of Soul Food&amp;#39; Remembered As &amp;#39;American Legend&amp;#39; By Rep. Charlie Rangel. July 19, 2012 8:10 PM. Share this. View Comments. Sylvia Woods (credit: Sylvia&amp;#39;s ...</excerpt>
+          <fti-names>'10':37 '19':34 '2012':35 '8':36 '86':10,20 'american':27 'charli':31 'comment':42 'credit':45 'dead':8,18 'food':24 'founder':3,13 'harlem':6,16 'icon':5,15 'juli':33 'legend':28 'pm':38 'pvictorwin':48 'queen':21 'rangel':32 'rememb':25 'rep':30 'restaur':7,17 'share':39 'soul':23 'sylvia':1,11,43,46 'view':41 'wood':2,12,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newyork.cbslocal.com/2012/07/19/sylvia-woods-founder-of-iconic-harlem-restaurant-dead-at-86/&amp;sa=U&amp;ei=ntEIUIfHOYrE2QWSi6XNBw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHW8lPhAaGQP-n4D59gCaG9izOLHw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750546</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>pvictorwins</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:35:58-04:00</created-at>
+          <title>An Election Bulletin from A Lewisville Sports Bar | DaddyO&amp;#39;s Pub</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Barney Frank (D-Mass.) - Mr. Smee (Peter Pan) Sen. Bernie Sanders (I-Vt.) - The Mad Hatter (Alice In Wonderland) Former Alaska Gov. Sarah Palin (R) - Jane (Tarzan) Rep. Charlie Rangel (D-N.Y.) - Cogsworth (Beauty ...</excerpt>
+          <fti-names>'alaska':35 'alic':31 'bar':8 'barney':13 'beauti':50 'berni':23 'bulletin':3 'charli':43 'cogsworth':49 'd':16,46 'd-mass':15 'd-n':45 'daddyo':9,51 'elect':2 'former':34 'frank':14 'gov':36 'hatter':30 'i-vt':25 'jane':40 'lewisvill':6 'mad':29 'mass':17 'mr':18 'n':47 'palin':38 'pan':21 'peter':20 'pub':11 'r':39 'rangel':44 'rep':12,42 'sander':24 'sarah':37 'sen':22 'smee':19 'sport':7 'tarzan':41 'vt':27 'wonderland':33 'y':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://whosyourdaddyo.com/blog/election-bulletin-lewisville-sports-bar&amp;sa=U&amp;ei=nIAHUNn4ApT62AWnxJHmBA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNHlm8bH6ojNZgGbeiw0PC0ogqkHJQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16717118</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>daddyo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:12:35-04:00</created-at>
+          <title>Charlie Rangel: The Poster Boy For Congressional Term Limits ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Charlie Rangel escaped this year&amp;#39;s Democratic primary -- and subsequent recount -- with his job and likely will be returning to Congress for what will be his 22nd term, which begs the question: is it time for ...</excerpt>
+          <fti-names>'22nd':37 'beg':40 'boy':5 'charli':1,11 'congress':31 'congression':7 'congressman':10 'democrat':17 'escap':13 'jame':47 'job':24 'king':48 'like':26 'limit':9 'poster':4 'primari':18 'question':42 'rangel':2,12 'recount':21 'return':29 'subsequ':20 'term':8,38 'time':45 'year':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.villagevoice.com/runninscared/2012/07/charlie_rangel_7.php&amp;sa=U&amp;ei=SwIFUIqvLaqw2QW5kZSyBQ&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNGlii-QKKFpTk-nIDXN6q82aLxF7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16679202</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>James King</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-17T02:12:32-04:00</created-at>
+          <title>Rep. Charlie Rangel: GOP wants to - Lean Forward - MSN.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>New York Congressman Charlie Rangel accused his Republican colleagues of blocking tax cuts for 98% of Americans simply because they want to embarrass the president. &amp;quot;The Republicans have made up their mind they ...</excerpt>
+          <fti-names>'98':24 'accus':15 'american':26 'block':20 'charli':2,13 'colleagu':18 'congressman':12 'cut':22 'embarrass':32 'forward':8 'gop':4 'gordon':44 'lean':7 'made':38 'mind':41 'msn.com':9 'new':10 'presid':34 'rangel':3,14 'rep':1 'republican':17,36 'rose':43 'sala':45 'simpli':27 'tax':21 'want':5,30 'york':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://leanforward.msnbc.msn.com/_news/2012/07/10/12663740-rep-charlie-rangel-gop-wants-to-embarrass-president-obama%3Flite&amp;sa=U&amp;ei=SwIFUIqvLaqw2QW5kZSyBQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNEfLC_NuAWFnM1Adllsqg8tsuoNmA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16679195</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rose Gordon Sala</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400333</commentariable-id>
+          <created-at type="datetime">2012-07-14T04:39:52-04:00</created-at>
+          <title>Rep. Charlie Rangel: GOP wants to - Lean Forward - MSN.com</title>
+          <contains-term>congress</contains-term>
+          <excerpt>New York Congressman Charlie Rangel accused his Republican colleagues of blocking tax cuts for 98% of Americans simply because they want to embarrass the president. &amp;quot;The Republicans have made up their mind they ...</excerpt>
+          <fti-names>'98':24 'accus':15 'american':26 'block':20 'charli':2,13 'colleagu':18 'congressman':12 'cut':22 'embarrass':32 'forward':8 'gop':4 'gordon':44 'lean':7 'made':38 'mind':41 'msn.com':9 'new':10 'presid':34 'rangel':3,14 'rep':1 'republican':17,36 'rose':43 'sala':45 'simpli':27 'tax':21 'want':5,30 'york':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://leanforward.msnbc.msn.com/_news/2012/07/10/12663740-rep-charlie-rangel-gop-wants-to-embarrass-president-obama%3Flite&amp;sa=U&amp;ei=VzABUKOkLoei2QXQk4ynCw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHhkLF92Oi8GErVyUM_qdZEAv8frA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16600168</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rose Gordon Sala</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">45512</page-views-count>
+      <youtube-id>RepRangel</youtube-id>
+      <unaccented-name>Charles Rangel</unaccented-name>
+      <oc-user-comments type="integer">22</oc-user-comments>
+    </person>
+  </people>
+</hash>

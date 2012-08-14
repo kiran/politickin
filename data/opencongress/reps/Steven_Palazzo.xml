@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.6564885496183</party-votes-percentage>
+        <abstains-percentage type="float">0.930773705642816</abstains-percentage>
+        <votes-most-often-with-id type="integer">412256</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">16</abstains>
+        <cosponsored-bills type="integer">190</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">4</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412443</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1612</votes-republican-position>
+      <blog-article-count type="integer">1524</blog-article-count>
+      <user-approval type="float">1.0</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">26</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.6564885496183</with-party-percentage>
+      <metavid-id nil="true"></metavid-id>
+      <lastname>Palazzo</lastname>
+      <congress-office>331 Cannon House Office Building</congress-office>
+      <firstname>Steven</firstname>
+      <website>http://palazzo.house.gov/</website>
+      <youtube-id nil="true"></youtube-id>
+      <birthday type="date">1970-02-21</birthday>
+      <person-id type="integer">412443</person-id>
+      <phone>202-225-5772</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">383</votes-democratic-position>
+      <fax>202- 225-7074</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:59:17-04:00</created-at>
+          <title>What's magical about Jackson County? Shipyards and delicious fried meats (Political Skinny)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...30, 2012. (The Mississippi Press/Kaija Wilkinson) Kicking off a series of town hall meetings in Gautier last week, Rep. Steven Palazzo of the fourth congressional district gave local fried delicacies a little love along with Ingalls Shipbuilding. &quot;What </excerpt>
+          <fti-names>'2012':15 '30':14 'along':47 'congression':38 'counti':6 'delicaci':43 'delici':9 'district':39 'fourth':37 'fri':10,42 'gautier':29 'gave':40 'gulf':52 'hall':26 'ingal':49 'jackson':5 'kick':20 'last':30 'littl':45 'live':53 'local':41 'love':46 'magic':3 'meat':11 'meet':27 'mississippi':17 'palazzo':34 'polit':12 'press/kaija':18 'rep':32 'seri':23 'shipbuild':50 'shipyard':7 'skinni':13 'steven':33 'town':25 'week':31 'wilkinson':19</fti-names>
+          <source-url>http://www.gulflive.com/</source-url>
+          <url>http://blog.gulflive.com/mississippi-press-news/2012/08/whats_magical_about_jackson_co.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972929</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Gulf Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:57:20-04:00</created-at>
+          <title>Palazzo schedules series of town-hall meetings</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...-- U.S. Rep. Steven Palazzo has announced a series of town-hall meetings over the next couple of weeks, following one he held in Gautier on Monday. Palazzo, freshman GOP representative of the 4th District in South Mississippi, had faced some recent crit</excerpt>
+          <fti-names>'4th':42 'announc':14 'biloxi':52 'coupl':25 'crit':51 'district':43 'face':48 'follow':28 'freshman':37 'gautier':33 'gop':38 'hall':7,20 'held':31 'herald':54 'meet':8,21 'mississippi':46 'monday':35 'next':24 'one':29 'palazzo':1,12,36 'recent':50 'rep':10 'repres':39 'schedul':2 'seri':3,16 'south':45 'steven':11 'sun':53 'town':6,19 'town-hal':5,18 'u.s':9 'week':27</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/08/03/4103840/palazzo-schedules-series-of-town.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972230</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:52-04:00</created-at>
+          <title>Palazzo to host brown bag lunch series</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Aug. 10 at The Innovation Center conference room, 1636 Popps Ferry Road, Biloxi. Fourth Congressional District Representative Steven Palazzo will host a series of Brown Bag lunchtime town halls, including a small business feedback forum. A link to this </excerpt>
+          <fti-names>'10':9 '1636':16 'american':48 'aug':8 'bag':5,33 'biloxi':20 'brown':4,32 'busi':40 'center':13 'confer':14 'congression':22 'district':23 'feedback':41 'ferri':18 'forum':42 'fourth':21 'hall':36 'hattiesburg':47 'host':3,28 'includ':37 'innov':12 'link':44 'lunch':6 'lunchtim':34 'palazzo':1,26 'popp':17 'repres':24 'road':19 'room':15 'seri':7,30 'small':39 'steven':25 'town':35</fti-names>
+          <source-url>http://www.hattiesburgamerican.com/</source-url>
+          <url>http://www.hattiesburgamerican.com/article/20120803/NEWS01/120803017/1002/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971786</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hattiesburg American</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:07:52-04:00</created-at>
+          <title>Palazzo to host brown bag lunch series</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Aug. 10 at The Innovation Center conference room, 1636 Popps Ferry Road, Biloxi. Fourth Congressional District Representative Steven Palazzo will host a series of Brown Bag lunchtime town halls, including a small business feedback forum. A link to this </excerpt>
+          <fti-names>'10':9 '1636':16 'american':48 'aug':8 'bag':5,33 'biloxi':20 'brown':4,32 'busi':40 'center':13 'confer':14 'congression':22 'district':23 'feedback':41 'ferri':18 'forum':42 'fourth':21 'hall':36 'hattiesburg':47 'host':3,28 'includ':37 'innov':12 'link':44 'lunch':6 'lunchtim':34 'palazzo':1,26 'popp':17 'repres':24 'road':19 'room':15 'seri':7,30 'small':39 'steven':25 'town':35</fti-names>
+          <source-url>http://www.hattiesburgamerican.com/</source-url>
+          <url>http://www.hattiesburgamerican.com/article/20120803/NEWS01/120803017/1123/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971785</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hattiesburg American</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:15:58-04:00</created-at>
+          <title>Air Force leader headlines military salute</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Mississippi Gulf Coast Chamber of Commerce for 34 years. It honors local military personnel. Donley is expected to be joined by U.S. Sen. Roger Wicker and U.S. Rep. Steven Palazzo, both R-Miss., and commanders of coast military installations. AP 8/1/12.</excerpt>
+          <fti-names>'34':14 '8/1/12':48 'air':1 'ap':47 'chamber':10 'coast':9,44 'command':42 'commerc':12 'donley':21 'expect':23 'forc':2 'gulf':8 'headlin':4 'honor':17 'instal':46 'join':26 'leader':3 'local':18 'militari':5,19,45 'miss':40 'mississippi':7 'palazzo':36 'personnel':20 'polit':50 'r':39 'r-miss':38 'rep':34 'roger':30 'salut':6 'sen':29 'steven':35 'u.s':28,33 'wicker':31 'yall':49 'year':15</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/air_force_leader_headlines_military_salute/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970835</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:28-04:00</created-at>
+          <title>'Salute' to feature secretary of the Air Force</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...but business dress is also accepted. At the event, Donley is expected to be joined by U.S. Sen. Roger Wicker, U.S. Rep. Steven Palazzo and commanders of Coast military installations and they'll recognize the contributions of area military personnel and </excerpt>
+          <fti-names>'accept':14 'air':7 'also':13 'area':46 'biloxi':50 'busi':10 'coast':36 'command':34 'contribut':44 'donley':18 'dress':11 'event':17 'expect':20 'featur':3 'forc':8 'herald':52 'instal':38 'join':23 'll':41 'militari':37,47 'palazzo':32 'personnel':48 'recogn':42 'rep':30 'roger':27 'salut':1 'secretari':4 'sen':26 'steven':31 'sun':51 'u.s':25,29 'wicker':28</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/07/31/4095868/salute-to-feature-secretary-of.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969868</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:28-04:00</created-at>
+          <title>Mississippi candidate says mayors blocking Chick-fil-A &quot;need to be introduced to the Second Amendment&quot;</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...been better (in the letter) ... I needed a thesaurus beside me. Williams, of Moss Point, faces incumbent Republican Rep. Steven Palazzo, Democrat Michael Herrington of Hattiesburg and Reform candidate Robert W. Claunch of Diamondhead in the Nov. 6 gener</excerpt>
+          <fti-names>'6':55 'amend':17 'besid':27 'better':19 'block':5 'candid':2,46 'chick':7 'chick-fil-a':6 'claunch':49 'democrat':39 'diamondhead':51 'face':33 'fil':8 'gener':56 'hattiesburg':43 'herrington':41 'incumb':34 'introduc':13 'letter':22 'mayor':4 'mcclatchi':57 'michael':40 'mississippi':1 'moss':31 'need':10,24 'nov':54 'palazzo':38 'point':32 'reform':45 'rep':36 'republican':35 'robert':47 'say':3 'second':16 'steven':37 'thesaurus':26 'w':48 'william':29</fti-names>
+          <source-url>http://www.mcclatchydc.com/</source-url>
+          <url>http://www.mcclatchydc.com/2012/08/01/159251/mississippi-candidate-says-mayors.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969867</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>McClatchy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:28-04:00</created-at>
+          <title>Air Force leader headlines military salute</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...for 34 years. It honors local military personnel. Donley is expected to be joined by U.S. Sen. Roger Wicker and U.S. Rep. Steven Palazzo , both R-Miss., and commanders of coast military installations. There will also be a collection of indoor and outdoo</excerpt>
+          <fti-names>'34':8 'air':1 'also':43 'chronicl':53 'coast':38 'collect':46 'command':36 'donley':15 'expect':17 'forc':2 'francisco':52 'headlin':4 'honor':11 'indoor':48 'instal':40 'join':20 'leader':3 'local':12 'militari':5,13,39 'miss':34 'outdoo':50 'palazzo':30 'personnel':14 'r':33 'r-miss':32 'rep':28 'roger':24 'salut':6 'san':51 'sen':23 'steven':29 'u.s':22,27 'wicker':25 'year':9</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Air-Force-leader-headlines-military-salute-3753483.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969866</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:52:27-04:00</created-at>
+          <title>Coverage of Congressman Steven Palazzo recent town meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...After hearing criticism that he wasn't meeting face to face with his constituents enough, South Mississippi Congressman Steven Palazzo reversed course Monday and conducted a town hall meeting in Gautier. It was just the second forum the congressman has </excerpt>
+          <fti-names>'conduct':33 'congressman':3,26,47 'constitu':22 'cours':30 'coverag':1 'critic':11 'enough':23 'face':17,19 'forum':45 'gautier':39 'hall':36 'hear':10 'meet':8,16,37 'mississippi':25 'monday':31 'palazzo':5,28 'polit':50 'recent':6 'revers':29 'second':44 'south':24 'steven':4,27 'town':7,35 'wasn':14 'yall':49</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/coverage_of_congressman_steven_palazzo_recent_town_meeting/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969865</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:03:50-04:00</created-at>
+          <title>Congressman Steven Palazzo holds second town meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>After hearing criticism that he wasn't meeting face to face with his constituents enough, South Mississippi Congressman Steven Palazzo reversed course Monday and conducted a town hall meeting in Gautier. It was just the second forum the congressman has ...</excerpt>
+          <fti-names>'conduct':32 'congressman':1,25,46 'constitu':21 'cours':29 'critic':10 'enough':22 'face':16,18 'forum':44 'gautier':38 'hall':35 'hear':9 'hold':4 'meet':7,15,36 'mississippi':24 'monday':30 'palazzo':3,27 'revers':28 'second':5,43 'south':23 'steven':2,26 'town':6,34 'tv':50 'wasn':13 'wdam':49 'wdam-tv':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wdam.com/story/19150792/congressman-steven-palazzo-holds-second-town-meeting</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T07:52:45-04:00</date>
+          <id type="integer">16967015</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WDAM-TV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Steven Palazzo [R, MS-4]</name>
+      <total-session-votes type="integer">1703</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:27-04:00</created-at>
+          <title>California Property of Deceased Overseas Owner Affected by ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone [D, NJ-6] Rep. William Pascrell [D, NJ-8] Rep.</excerpt>
+          <fti-names>'-1':19,31 '-21':13 '-22':25 '-23':37 '-4':43 '-6':49 '-8':55 'affect':7 'alan':15 'ca':12 'california':1 'd':29,35,47,53 'deceas':4 'devin':9 'frank':45 'john':27 'ma':30 'ms':18,42 'nj':48,54 'nune':10 'nunnele':16 'ny':36 'olson':22 'olver':28 'oversea':5 'owen':34 'owner':6 'palazzo':40 'pallon':46 'pascrel':52 'pete':21 'probatecourtco.com':57 'properti':2 'r':11,17,23,41 'rep':14,20,26,32,38,44,50,56 'steven':39 'tx':24 'william':33,51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/california-property-of-deceased-overseas-owner-affected-by-probate-code-of-foreign-country/&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNH6vlJo4vmOmqNxNqQTYnPTytj4qQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16489330</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:25-04:00</created-at>
+          <title>RESTORE Act offers Gulf Coast a shot at economic mobility after the ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Recognizing this challenge, a coalition of Gulf State legislators led by Senators Mary Landrieu, Bill Nelson and Richard Shelby, along with Reps. Steve Scalise, Steven Palazzo, and Cedric Richmond, together with community, ...</excerpt>
+          <fti-names>'act':2 'admin':45 'along':32 'bill':27 'cedric':40 'challeng':15 'coalit':17 'coast':5 'communiti':44 'econom':9 'gulf':4,19 'landrieu':26 'led':22 'legisl':21 'mari':25 'mobil':10 'nelson':28 'offer':3 'palazzo':38 'recogn':13 'rep':34 'restor':1 'richard':30 'richmond':41 'scalis':36 'senat':24 'shelbi':31 'shot':7 'state':20 'steve':35 'steven':37 'togeth':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.louisianaweekly.com/restore-act-offers-gulf-coast-a-shot-at-economic-mobility-after-the-oil-spill/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drestore-act-offers-gulf-coast-a-shot-at-economic-mobility-after-the-oil-spill&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNEbgV3W_M5uDzP41VGMJIaaUUdeOQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16489328</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:27-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone [D, NJ-6] Rep. William Pascrell [D, NJ-8] Rep.</excerpt>
+          <fti-names>'-1':21,33 '-21':15 '-22':27 '-23':39 '-4':45 '-6':51 '-8':57 'alan':17 'ca':14 'd':31,37,49,55 'deadlin':5 'debt':1,10 'debtreliefmag.com':59 'devin':11 'frank':47 'homeown':7 'john':29 'law':4 'loom':9 'ma':32 'ms':20,44 'nj':50,56 'nune':12 'nunnele':18 'ny':38 'olson':24 'olver':30 'owen':36 'palazzo':42 'pallon':48 'pascrel':54 'pete':23 'r':13,19,25,43 'relief':2 'rep':16,22,28,34,40,46,52,58 'steven':41 'tax':3 'tx':26 'william':35,53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CFIQmAEwCw&amp;usg=AFQjCNHqYScikK0dqt5mRQnN_OiZcTS-bQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16489331</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:03-04:00</created-at>
+          <title>Congressman Palazzo welcomes former Camp Shelby Commander ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Steven Palazzo (R-MS), member of the House Armed Services Committee, Persian Gulf War veteran and the only noncommissioned officer concurrently serving in Congress and the National Guard, announced ...</excerpt>
+          <fti-names>'announc':38 'arm':18 'camp':5 'command':7 'committe':20 'concurr':30 'congress':33 'congressman':1,8 'former':4 'guard':37 'gulf':22 'hous':17 'member':14 'mississippi':39 'ms':13 'nation':36 'noncommiss':28 'offic':29 'palazzo':2,10 'pep':40 'persian':21 'r':12 'r-ms':11 'serv':31 'servic':19 'shelbi':6 'steven':9 'veteran':24 'war':23 'welcom':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mississippipep.wordpress.com/2012/07/06/congressman-palazzo-welcomes-former-camp-shelby-commander-as-deputy-district-director-congressman-steven-palazzo/&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHaiVC2S0Awdo8KJeBziZlZNGY6ag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16489322</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mississippi PEP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:22-04:00</created-at>
+          <title>Republicans in Drag: Representative Steven Palazzo, Mississippi</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (186). &#9660; July (3). Representative Elton Gallegy, California &amp;middot; Representative Steven Palazzo, Mississippi &amp;middot; Representative Tom Rooney, Florida. &#9658; June (30). Representative Denny Rehberg, Montana &amp;middot; Governor Mitch ...</excerpt>
+          <fti-names>'186':9 '2012':8 '3':11 '30':25 'al':32 'california':15 'denni':27 'drag':3 'elton':13 'florida':23 'gallegi':14 'governor':30 'juli':10 'june':24 'mississippi':7,19 'mitch':31 'montana':29 'palazzo':6,18 'rehberg':28 'repres':4,12,16,20,26 'republican':1 'rooney':22 'steven':5,17 'tecacca':33 'tom':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/07/representative-steven-palazzo.html&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNE9mBM5Q64nBVzvIqbNTLv6TtWgdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16489326</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:21:31-04:00</created-at>
+          <title>(Probate Issues 1 of 5) Will the Probate Court Investigate Improper ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Richard Nugent [R, FL-5] Rep. Devin Nunes [R, CA-21] Rep. Alan Nunnelee [R, MS-1] Rep. Pete Olson [R, TX-22] Rep. John Olver [D, MA-1] Rep. William Owens [D, NY-23] Rep. Steven Palazzo [R, MS-4] Rep. Frank Pallone ...</excerpt>
+          <fti-names>'-1':28,40 '-21':22 '-22':34 '-23':46 '-4':52 '-5':16 '1':3 '5':5 'alan':24 'ca':21 'court':9 'd':38,44 'devin':18 'fl':15 'frank':54 'improp':11 'investig':10 'issu':2 'john':36 'ma':39 'ms':27,51 'nugent':13 'nune':19 'nunnele':25 'ny':45 'olson':31 'olver':37 'owen':43 'palazzo':49 'pallon':55 'pete':30 'probat':1,8 'probatecourtco.com':56 'r':14,20,26,32,50 'rep':17,23,29,35,41,47,53 'richard':12 'steven':48 'tx':33 'william':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/probate-issues-1-of-5-will-the-probate-court-investigate-improper-actions-of-the-executor-3/&amp;sa=U&amp;ei=OR_tT8WFKaiY2wX-pdypCg&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNGJaBsiURNLo99tjMn3aLCMsf4NcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281495</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:21:31-04:00</created-at>
+          <title>HR.697 | Providing for consideration of the bill (HR 5973) - Votetocracy</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Steven Palazzo (MS Republican), Yes. Rep. Vicky Hartzler (MO Republican), Yes. Rep. Billy Long (MO Republican), Yes. Rep. Joe Heck (NV Republican), Yes. Rep. Frank Guinta (NH Republican), Yes. Rep. Jon Runyan (NJ Republican), Yes ...</excerpt>
+          <fti-names>'5973':9 'bill':7 'billi':23 'consider':4 'frank':35 'guinta':36 'hartzler':18 'heck':30 'hr':8 'hr.697':1 'joe':29 'jon':41 'long':24 'mo':19,25 'ms':13 'nh':37 'nj':43 'nv':31 'palazzo':12 'provid':2 'rep':16,22,28,34,40 'republican':14,20,26,32,38,44 'runyan':42 'steven':11 'vicki':17 'votetocraci':10 'www.votetocracy.com':46 'yes':15,21,27,33,39,45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr697-providing-for-consideration-of-the-bill-hr-5973-making-appropriations-for-agriculture-rural-development-food-and-drug-administration-and-related-agencies-programs-for-the-fiscal-year-ending-september-30-2013-and-for-other-purposes%3B-and-providing-for-consideration-of-the-bill-hr-5972-making-appropriations-for-the-departments-of-transportation-and-housing-and-urban-development-and-related-agencies-for-the-fiscal-year-ending-september-30-2013-and-for-other-purposes-41350&amp;sa=U&amp;ei=OR_tT8WFKaiY2wX-pdypCg&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNEKtwALcgmn4S6zKYi-XCtQEagQVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281494</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:21:31-04:00</created-at>
+          <title>SCOTUS Obamacare ruling-Mississippian&amp;#39;s react: Congressman ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>SCOTUS Obamacare ruling-Mississippian&amp;#39;s react: Congressman Steven Palazzo. Share this: Like this: Like. Be the first to like this. Leave a Comment. Filed under Mississippi, Obamacare, Steven Palazzo. Tagged as Arizona ...</excerpt>
+          <fti-names>'arizona':41 'comment':32 'congressman':8,16 'file':33 'first':26 'leav':30 'like':21,23,28 'mississippi':35,42 'mississippian':5,13 'obamacar':2,10,36 'palazzo':18,38 'pep':43 'react':7,15 'rule':4,12 'ruling-mississippian':3,11 'scotus':1,9 'share':19 'steven':17,37 'tag':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mississippipep.wordpress.com/2012/06/28/scotus-obamacare-ruling-mississippians-react-congressman-steven-palazzo/&amp;sa=U&amp;ei=OR_tT8WFKaiY2wX-pdypCg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNG6jLNApAwwWJiTim3TH7Pyrdfsug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16281488</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Mississippi PEP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-06-28T23:21:31-04:00</created-at>
+          <title>My Daily Kona: The success of Space X is a boon to commercial ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Steven Palazzo wants to set the record straight, after Presidential Science Adviser John Holdren declared that the Obama administration made possible the successful flight of the SpaceX Dragon cargo capsule to the ...</excerpt>
+          <fti-names>'administr':33 'advis':26 'boon':11 'capsul':44 'cargo':43 'commerci':13 'daili':2 'declar':29 'dragon':42 'flight':38 'holdren':28 'john':27 'kona':3 'made':34 'mrg':47 'obama':32 'palazzo':16 'possibl':35 'presidenti':24 'record':21 'rep':14 'scienc':25 'set':19 'space':7 'spacex':41 'steven':15 'straight':22 'success':5,37 'want':17 'x':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mydailykona.blogspot.com/2012/06/success-of-space-x-is-boon-to.html&amp;sa=U&amp;ei=OR_tT8WFKaiY2wX-pdypCg&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNEEZp3q9xsE_rnLWqG_slI4otVJBA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-25T01:00:00-04:00</date>
+          <id type="integer">16281496</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MrG's</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412443</commentariable-id>
+          <created-at type="datetime">2012-07-10T00:30:24-04:00</created-at>
+          <title>Congressman Steven Palazzo&amp;#39;s Teletown Hall Meeting</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Steven Palazzo&amp;#39;s Teletown Hall Meeting. Scripted phone conference and why can&amp;#39;t this pseudo Congressman hold a REAL town hall meeting. Palazzo is so Junior High first he refuses to refer to the Act by IT&amp;#39;S ...</excerpt>
+          <fti-names>'act':43 'alasandra':47 'cat':49 'confer':17 'congressman':1,8,24 'dog':52 'first':36 'hall':6,13,29 'high':35 'hold':25 'junior':34 'meet':7,14,30 'palazzo':3,10,31 'phone':16 'pseudo':23 'real':27 'refer':40 'refus':38 'script':15 'steven':2,9 'teletown':5,12 'town':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://donotmoverr.blogspot.com/2012/06/congressman-steven-palazzo-teletown.html&amp;sa=U&amp;ei=ya_7T7eCPcWi2gXpl4yqCg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNH8cxhf7M-yHSx2NVGYMuUl7fOuww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-21T01:00:00-04:00</date>
+          <id type="integer">16489327</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alasandra, The Cats and A Dog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>P000601</bioguide-id>
+      <page-views-count type="integer">4847</page-views-count>
+      <unaccented-name>Steven Palazzo</unaccented-name>
+      <middlename nil="true"></middlename>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.9547079856973</party-votes-percentage>
+        <abstains-percentage type="float">2.38510762070972</abstains-percentage>
+        <votes-most-often-with-id type="integer">412473</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">41</abstains>
+        <cosponsored-bills type="integer">184</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412392</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1543</votes-republican-position>
+      <fax>202-225-3479</fax>
+      <bioguide-id>S001188</bioguide-id>
+      <blog-article-count type="integer">1662</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">24</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.9547079856973</with-party-percentage>
+      <lastname>Stutzman</lastname>
+      <middlename>A.</middlename>
+      <congress-office>1728 Rayburn House Office Building</congress-office>
+      <firstname>Marlin</firstname>
+      <website>http://stutzman.house.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1976-08-31</birthday>
+      <person-id type="integer">412392</person-id>
+      <phone>202-225-4436</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">314</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:57:18-04:00</created-at>
+          <title>Lugar closing state offices</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...federal agencies. New cases are being referred to Sen. Dan Coats, R-Ind., and the appropriate U.S. House members, including Rep. Marlin Stutzman, R-3rd, in northeast Indiana. Lugar&#8217;s Northeast Indiana Community Service Center opened in 2008 in Covingt</excerpt>
+          <fti-names>'2008':44 '3rd':31 'agenc':6 'appropri':21 'case':8 'center':41 'close':2 'coat':15 'communiti':39 'covingt':46 'dan':14 'feder':5 'fort':48 'gazett':51 'hous':23 'includ':25 'ind':18 'indiana':34,38 'journal':50 'lugar':1,35 'marlin':27 'member':24 'new':7 'northeast':33,37 'offic':4 'open':42 'r':17,30 'r-3rd':29 'r-ind':16 'refer':11 'rep':26 'sen':13 'servic':40 'state':3 'stutzman':28 'u.s':22 'wayn':49</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120807/LOCAL/120809641/1002/LOCAL</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973601</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:15:33-04:00</created-at>
+          <title>Florida: John Mica Maintains Big Cash Advantage Over Sandy Adams</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...who has since resigned his seat, along with $2,000 from the political action committee affiliated with Republican Rep. Marlin Stutzman (Ind.). Adams also received $5,000 from former Alaska Gov. Sarah Palin&#8217;s PAC. During the pre-primary period, Mica re</excerpt>
+          <fti-names>'000':20,37 '2':19 '5':36 'action':24 'adam':10,33 'advantag':7 'affili':26 'alaska':40 'along':17 'also':34 'big':5 'call':55 'cash':6 'committe':25 'florida':1 'former':39 'gov':41 'ind':32 'john':2 'maintain':4 'marlin':30 'mica':3,52 'pac':45 'palin':43 'period':51 'polit':23 'pre':49 'pre-primari':48 'primari':50 're':53 'receiv':35 'rep':29 'republican':28 'resign':14 'roll':54 'sandi':9 'sarah':42 'seat':16 'sinc':13 'stutzman':31</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/florida_john_mica_maintains_big_cash_advantage_over_sandy_adams-216726-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971854</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:33:33-04:00</created-at>
+          <title>Food stamps stalling ag bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Marlin Stutzman, R-3rd, said Wednesday its time to take food stamps out of the farm bill. We have to split these two up, because we cannot deal with ag policy correctly, whether its dairy or sugar or the commodity titles, until we have a real honest dis</excerpt>
+          <fti-names>'3rd':10 'ag':4,36 'bill':5,23 'cannot':33 'commod':46 'correct':38 'dairi':41 'deal':34 'dis':54 'farm':22 'food':1,17 'fort':56 'gazett':59 'honest':53 'journal':58 'marlin':6 'polici':37 'r':9 'r-3rd':8 'real':52 'said':11 'split':27 'stall':3 'stamp':2,18 'stutzman':7 'sugar':43 'take':16 'time':14 'titl':47 'two':29 'wayn':57 'wednesday':12 'whether':39</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120802/BIZ/308029994/1031</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970992</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:33:29-04:00</created-at>
+          <title>Extension of tax cuts passed by US House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...for incomes of less than $200,000 for individuals and $250,000 for married couples, a plan advocated by President Obama. Rep. Marlin Stutzman, R-3rd, predicts the Nov. 6 election will determine which version becomes law. My hope is the losing party will</excerpt>
+          <fti-names>'000':15,20 '200':14 '250':19 '3rd':35 '6':39 'advoc':26 'becom':45 'coupl':23 'cut':4 'determin':42 'elect':40 'extens':1 'fort':55 'gazett':58 'hope':48 'hous':8 'incom':10 'individu':17 'journal':57 'law':46 'less':12 'lose':51 'marlin':31 'marri':22 'nov':38 'obama':29 'parti':52 'pass':5 'plan':25 'predict':36 'presid':28 'r':34 'r-3rd':33 'rep':30 'stutzman':32 'tax':3 'us':7 'version':44 'wayn':56</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120802/NEWS03/308029981/1006/NEWS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970991</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:59:57-04:00</created-at>
+          <title>Bill limiting abortions in DC fails</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the majority needed to suspend House rules and approve the bill. Among 203 Republicans supporting the measure were Indiana Reps. Marlin Stutzman, R-3rd, and Dan Burton, R-5th. Rep. Mike Pence, R-6th, the GOP candidate for governor, was absent from the v</excerpt>
+          <fti-names>'203':19 '3rd':31 '5th':37 '6th':43 'abort':3 'absent':50 'among':18 'approv':15 'bill':1,17 'burton':34 'candid':46 'dan':33 'dc':5 'fail':6 'fort':55 'gazett':58 'gop':45 'governor':48 'hous':12 'indiana':25 'journal':57 'limit':2 'major':8 'marlin':27 'measur':23 'mike':39 'need':9 'penc':40 'r':30,36,42 'r-3rd':29 'r-5th':35 'r-6th':41 'rep':26,38 'republican':20 'rule':13 'stutzman':28 'support':21 'suspend':11 'v':53 'wayn':56</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120801/NEWS03/308019956/-1/NEWS09</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970013</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:20-04:00</created-at>
+          <title>Stutzman invites phone calls</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Marlin Stutzman, R-3rd, will have a &quot;tele-town hall&quot; on Thursday, according to a mailing his office sent to constituents. Stutzman will invite phone calls from the public from 6:30 to 7:30 p.m. To sign up, email info@stutzman.house.gov.</excerpt>
+          <fti-names>'30':39,42 '3rd':10 '6':38 '7':41 'accord':20 'call':4,33 'constitu':28 'email':47 'fort':49 'gazett':52 'hall':17 'info@stutzman.house.gov':48 'invit':2,31 'journal':51 'mail':23 'marlin':6 'offic':25 'p.m':43 'phone':3,32 'public':36 'r':9 'r-3rd':8 'rep':5 'sent':26 'sign':45 'stutzman':1,7,29 'tele':15 'tele-town':14 'thursday':19 'town':16 'wayn':50</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.journalgazette.net/article/20120731/LOCAL0202/120739892/1002/local</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T14:12:09-04:00</date>
+          <id type="integer">16967314</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:24-04:00</created-at>
+          <title>Stutzman invites phone calls</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...R-3rd, is among the scheduled speakers at a religious freedom rally Aug. 11 at the downtown Courthouse Green.Monday Rep. Marlin Stutzman, R-3rd, will have a &quot;tele-town hall&quot; on Thursday, according to a mailing his office sent to constituents. Stutzman w</excerpt>
+          <fti-names>'11':19 '3rd':7,30 'accord':40 'among':9 'aug':18 'call':4 'constitu':48 'courthous':23 'downtown':22 'fort':52 'freedom':16 'gazett':55 'green.monday':24 'hall':37 'invit':2 'journal':54 'mail':43 'marlin':26 'offic':45 'phone':3 'r':6,29 'r-3rd':5,28 'ralli':17 'religi':15 'rep':25 'schedul':11 'sent':46 'speaker':12 'stutzman':1,27,49 'tele':35 'tele-town':34 'thursday':39 'town':36 'w':50 'wayn':53</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120731/LOCAL0202/120739892/1002/LOCAL</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967315</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:18:18-04:00</created-at>
+          <title>Religious rally to feature Stutzman</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Marlin Stutzman, R-3rd, is among the scheduled speakers at a religious freedom rally Aug. 11 at the downtown Courthouse Green. He &quot;will give a briefing about efforts to repeal the Affordable Care Act and the encroachment of government on ...</excerpt>
+          <fti-names>'11':23 '3rd':11 'act':41 'afford':39 'among':13 'aug':22 'brief':33 'care':40 'courthous':27 'downtown':26 'effort':35 'encroach':44 'featur':4 'fort':48 'freedom':20 'gazett':51 'give':31 'govern':46 'green':28 'journal':50 'marlin':7 'r':10 'r-3rd':9 'ralli':2,21 'religi':1,19 'rep':6 'repeal':37 'schedul':15 'speaker':16 'stutzman':5,8 'wayn':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.journalgazette.net/article/20120730/LOCAL0202/120739957/1002/local</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T15:10:36-04:00</date>
+          <id type="integer">16967313</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:35:17-04:00</created-at>
+          <title>Political Notebook - The blog</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Marlin Stutzman, R-3rd, is among the scheduled speakers at a religious freedom rally Aug. 11 at the downtown Courthouse Green. He &quot;will give a briefing about efforts to repeal the Affordable Care Act and the encroachment of government on ...</excerpt>
+          <fti-names>'11':22 '3rd':10 'act':40 'afford':38 'among':12 'aug':21 'blog':4 'brief':32 'care':39 'courthous':26 'downtown':25 'effort':34 'encroach':43 'fort':47 'freedom':19 'gazett':50 'give':30 'govern':45 'green':27 'journal':49 'marlin':6 'notebook':2 'polit':1 'r':9 'r-3rd':8 'ralli':20 'religi':18 'rep':5 'repeal':36 'schedul':14 'speaker':15 'stutzman':7 'wayn':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.journalgazette.net/apps/pbcs.dll/article?AID=/20120730/LOCAL0202/120739957/1002/local</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T15:10:36-04:00</date>
+          <id type="integer">16961747</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:35:21-04:00</created-at>
+          <title>Religious rally to feature Stutzman</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...her position as president of the Association of Indiana Counties to push for state changes to benefit local roads.Thursday Rep. Marlin Stutzman, R-3rd, is among the scheduled speakers at a religious freedom rally Aug. 11 at the downtown Courthouse Green</excerpt>
+          <fti-names>'11':42 '3rd':30 'among':32 'associ':12 'aug':41 'benefit':22 'chang':20 'counti':15 'courthous':46 'downtown':45 'featur':4 'fort':49 'freedom':39 'gazett':52 'green':47 'indiana':14 'journal':51 'local':23 'marlin':26 'posit':7 'presid':9 'push':17 'r':29 'r-3rd':28 'ralli':2,40 'religi':1,38 'rep':25 'roads.thursday':24 'schedul':34 'speaker':35 'state':19 'stutzman':5,27 'wayn':50</fti-names>
+          <source-url>http://www.journalgazette.net/</source-url>
+          <url>http://www.journalgazette.net/article/20120730/LOCAL0202/120739957/1002/LOCAL</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961750</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Fort Wayne Journal Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Marlin Stutzman [R, IN-3]</name>
+      <total-session-votes type="integer">1678</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:07-04:00</created-at>
+          <title>Republicans Fight for National Defense Budget</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Because of this, many have been left wondering why Republicans would even pass a budget of this magnitude in the first place. &#8220;Unfortunately, it does become about the campaign,&#8221; said Indiana Rep. Marlin Stutzman (R).</excerpt>
+          <fti-names>'becom':32 'budget':6,21 'buskey':43 'campaign':35 'cj':42 'defens':5 'even':18 'fight':2 'first':27 'indiana':37 'left':13 'magnitud':24 'mani':10 'marlin':39 'nation':4 'pass':19 'place':28 'r':41 'rep':38 'republican':1,16 'said':36 'stutzman':40 'unfortun':29 'wonder':14 'would':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thenewpolitical.com/2012/05/10/republicans-fight-for-national-defense-budget/&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNG3Ds3xgamzurr-vPxTVgQkNn35eQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-10T01:00:00-04:00</date>
+          <id type="integer">15195838</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CJ BUSKEY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:08-04:00</created-at>
+          <title>US reps oppose Ft. Wayne base changes</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Rep. Marlin Stutzman is counting on dozens of congressional allies from both political parties to boost efforts to keep combat jets at Fort Wayne&amp;#39;s Air National Guard base.</excerpt>
+          <fti-names>'/subindex/news':40 'air':34 'alli':18 'base':6,37 'boost':24 'chang':7 'combat':28 'congression':17 'count':13 'dozen':15 'effort':25 'fort':31 'ft':4 'guard':36 'jet':29 'keep':27 'marlin':10 'nation':35 'oppos':3 'parti':22 'polit':21 'rep':2,9 'stutzman':11 'u.s':8 'us':1 'wayn':5,32 'www.wane.com':39 'www.wane.com/subindex/news':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wane.com/dpp/news/local/us-reps-oppose-ft-wayne-base-changes&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNFvpLIcX-LWyZeIC1RBSfOp5VaznQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-06T01:00:00-04:00</date>
+          <id type="integer">15195839</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wane.com/subindex/news</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:11-04:00</created-at>
+          <title>Lawmakers lead charge to save base | The Journal Gazette</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Marlin Stutzman hopes accumulating dozens of congressional allies from both political parties will help efforts to defend the local Air Guard base.Stutzman, R-</excerpt>
+          <fti-names>'accumul':14 'air':30 'alli':18 'base':6 'base.stutzman':32 'benjamin':34 'charg':3 'congression':17 'defend':27 'dozen':15 'effort':25 'gazett':9 'guard':31 'help':24 'hope':13 'journal':8 'lanka':35 'lawmak':1 'lead':2 'local':29 'marlin':11 'parti':22 'polit':21 'r':33 'rep':10 'save':5 'stutzman':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.journalgazette.net/article/20120505/LOCAL/305059979&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNFCGESNT1v5pGdCoU9FBZ2nRDivcw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-05T01:00:00-04:00</date>
+          <id type="integer">15195843</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Benjamin Lanka</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:10-04:00</created-at>
+          <title>Our Indiana Primary Preview &#171; Jim Ellis Insights</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>IN-3: Freshman Rep. Marlin Stutzman (R) is unopposed in Tuesday&amp;#39;s Republican primary and will find out which of six Democrats will win the right to oppose him in November. This should be a relatively easy re-election run ...</excerpt>
+          <fti-names>'-3':9 'democrat':29 'easi':44 'elect':47 'elli':6,50 'find':24 'freshman':10 'indiana':2 'insight':7 'jim':5,49 'marlin':12 'novemb':38 'oppos':35 'preview':4 'primari':3,21 'r':14 're':46 're-elect':45 'relat':43 'rep':11 'republican':20 'right':33 'run':48 'six':28 'stutzman':13 'tuesday':18 'unoppos':16 'win':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://jimellisinsights.wordpress.com/2012/05/04/our-indiana-primary-preview/&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CEEQmAEwBg&amp;usg=AFQjCNFq9gLuwh5XKZcmfD21TTpvp_jOQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-04T01:00:00-04:00</date>
+          <id type="integer">15195842</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Ellis</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:11-04:00</created-at>
+          <title>Likely a Long Way Yet for New Farm Bill | Hoosier Ag Today</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Indiana representative Marlin Stutzman is a member of the House Ag Committee, and he is surprised the Senate has moved so quickly. But the quick movement is a positive sign for a Farm Bill this year. &#8220;I know that I&amp;#39;m open to ...</excerpt>
+          <fti-names>'ag':11,23 'andi':56 'bill':9,46 'committe':24 'eubank':57 'farm':8,45 'hoosier':10 'hous':22 'indiana':13 'know':50 'like':1 'long':3 'm':53 'marlin':15 'member':19 'move':32 'movement':38 'new':7 'open':54 'posit':41 'quick':34,37 'repres':14 'senat':30 'sign':42 'stutzman':16 'surpris':28 'today':12 'way':4 'year':48 'yet':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hoosieragtoday.com/index.php/2012/05/01/likely-a-long-way-yet-for-new-farm-bill/&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CFAQmAEwCQ&amp;usg=AFQjCNEG0O6a8loiI--MDcJvaElmnODMiw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-01T01:00:00-04:00</date>
+          <id type="integer">15195845</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Andy Eubank</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-05-10T23:57:11-04:00</created-at>
+          <title>Rep Stutzman Targets Spending, Takes Aim At Food Stamp Reform ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Republican Indiana Representative Marlin Stutzman voiced his concerns to Chris Stirewalt over Washington spending on Monday&amp;#39;s &amp;quot;Power Play&amp;quot; and explained his plan for reforming the Supplemental Nutrition Assistance ...</excerpt>
+          <fti-names>'aim':6 'assist':39 'chris':20 'concern':18 'explain':31 'food':8 'indiana':12 'marlin':14 'monday':26 'nutrit':38 'plan':33 'play':29 'politics.blogs.foxnews.com':40 'power':28 'reform':10,35 'rep':1 'repres':13 'republican':11 'spend':4,24 'stamp':9 'stirewalt':21 'stutzman':2,15 'supplement':37 'take':5 'target':3 'voic':16 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politics.blogs.foxnews.com/2012/04/23/rep-stutzman-targets-spending-takes-aim-food-stamp-reform-1&amp;sa=U&amp;ei=DY6sT4SNIIXAgAe-8aWwBA&amp;ved=0CEsQmAEwCA&amp;usg=AFQjCNE16vmPrEzrLX1iVygfOJsIcJN89A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-23T01:00:00-04:00</date>
+          <id type="integer">15195844</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://politics.blogs.foxnews.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:23:08-04:00</created-at>
+          <title>Seventy-two (and Counting) Representatives Support Earmark Ban ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. Tom Price (R-GA) Rep. Tom Graves (R-GA) Rep. Tom Latham (R-IA) Rep. Joe Walsh (R-IL) Rep. Robert Dold (R-IL) Rep. Donald Manzullo (R-IL) Rep. Bobby Schilling (R-IL) Rep. Marlin Stutzman (R-IN) Rep. Dan Burton ...</excerpt>
+          <fti-names>'ban':9 'bobbi':47 'burton':60 'count':5 'dan':59 'dold':36 'donald':41 'earmark':8 'ga':15,21 'grave':18 'ia':27 'il':33,39,45,51 'joe':29 'latham':24 'manzullo':42 'marlin':53 'price':12 'r':14,20,26,32,38,44,50,56 'r-ga':13,19 'r-ia':25 'r-il':31,37,43,49 'r-in':55 'rep':10,16,22,28,34,40,46,52,58 'repres':6 'robert':35 'roman':62 'sarah':61 'schill':48 'seventi':2 'seventy-two':1 'stutzman':54 'support':7 'tom':11,17,23 'two':3 'walsh':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://usamericanfreedom.com/2012/04/17/seventy-two-and-counting-representatives-support-earmark-ban/&amp;sa=U&amp;ei=-6aNT4aUN-K18AHL79ySBw&amp;ved=0CCUQmAEwAA&amp;usg=AFQjCNH2BMJXS4m9-VyE-gQAD5JyxD-YFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14544348</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sarah Roman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:37:50-04:00</created-at>
+          <title>RV Execs Break Bread with Stutzman, Buchson | RV Rental News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... at Ruth&amp;#39;s Chris Steak House in Mishawaka, Ind., in what amounted to a &#8220;bridge-building&#8221; session for both sides. The meeting was called by U.S. Rep. Marlin Stutzman, a farmer from Howe in LaGrange County just east of [...] ...</excerpt>
+          <fti-names>'amount':22 'bread':4 'break':3 'bridg':26 'bridge-build':25 'buchson':7 'build':27 'call':35 'chris':14 'counti':47 'east':49 'exec':2 'farmer':42 'hous':16 'howe':44 'ind':19 'insur':52 'lagrang':46 'marlin':39 'mba':51 'meet':33 'mishawaka':18 'news':10 'rental':9 'rep':38 'ruth':12 'rv':1,8 'session':28 'side':31 'steak':15 'stutzman':6,40 'u.s':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rentalnewstoday.com/%3Fp%3D3776&amp;sa=U&amp;ei=iuWMT4_CMKei2QX_8tTwCw&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNHckn9A2TQ3cUvovt5dVrftELF0Nw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14525671</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MBA Insurance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:08:12-04:00</created-at>
+          <title>RV Execs Break Bread with Stutzman, Buchson | RV Rental News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... at Ruth&amp;#39;s Chris Steak House in Mishawaka, Ind., in what amounted to a &#8220;bridge-building&#8221; session for both sides. The meeting was called by U.S. Rep. Marlin Stutzman, a farmer from Howe in LaGrange County just east of [...] ...</excerpt>
+          <fti-names>'amount':22 'bread':4 'break':3 'bridg':26 'bridge-build':25 'buchson':7 'build':27 'call':35 'chris':14 'counti':47 'east':49 'exec':2 'farmer':42 'hous':16 'howe':44 'ind':19 'insur':52 'lagrang':46 'marlin':39 'mba':51 'meet':33 'mishawaka':18 'news':10 'rental':9 'rep':38 'ruth':12 'rv':1,8 'session':28 'side':31 'steak':15 'stutzman':6,40 'u.s':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rentalnewstoday.com/%3Fp%3D3776&amp;sa=U&amp;ei=-1GMT6HqFKno2gWk_5mdDw&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNEFQ5AmSgSfbSWm-FpIM2pSWtku2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14505892</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>MBA Insurance</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412392</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:08:11-04:00</created-at>
+          <title>RV Execs Break Bread with Stutzman, Buchson | RV Business</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The meeting was called by U.S. Rep. Marlin Stutzman, a farmer from Howe in LaGrange County just east of Elkhart whose 3rd District includes much of Elkhart County, and Congressman Larry Buchson, a heart surgeon from ...</excerpt>
+          <fti-names>'3rd':31 'bread':4 'break':3 'buchson':7,41 'busi':9 'call':13 'congressman':39 'counti':25,37 'district':32 'east':27 'elkhart':29,36 'exec':2 'farmer':20 'goldenberg':47 'heart':43 'howe':22 'includ':33 'lagrang':24 'larri':40 'marlin':17 'meet':11 'much':34 'rep':16 'rv':1,8 'sherman':46 'stutzman':6,18 'surgeon':44 'u.s':15 'whose':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.rvbusiness.com/2012/04/rv-execs-break-bread-with-stutzman-buchson/&amp;sa=U&amp;ei=-1GMT6HqFKno2gWk_5mdDw&amp;ved=0CCYQmAEwAA&amp;usg=AFQjCNFLcbTxjbIG9EpCTcGBLU8PQlEr7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14505885</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sherman Goldenberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5298</page-views-count>
+      <unaccented-name>Marlin Stutzman</unaccented-name>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

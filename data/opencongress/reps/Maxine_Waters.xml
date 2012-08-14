@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-04-18T07:26:53-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">91.514770584538</party-votes-percentage>
+        <abstains-percentage type="float">7.44618964514252</abstains-percentage>
+        <votes-most-often-with-id type="integer">412263</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">18</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">38</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">118</cosponsored-bills-passed-rank>
+        <abstains type="integer">128</abstains>
+        <cosponsored-bills type="integer">221</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">202</party-votes-percentage-rank>
+        <sponsored-bills type="integer">32</sponsored-bills>
+        <votes-least-often-with-id type="integer">400643</votes-least-often-with-id>
+        <person-id type="integer">400422</person-id>
+        <cosponsored-bills-rank type="integer">196</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">58</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">317</votes-republican-position>
+      <blog-article-count type="integer">12622</blog-article-count>
+      <user-approval type="float">2.22535211267606</user-approval>
+      <url nil="true"></url>
+      <middlename nil="true"></middlename>
+      <oc-users-tracking type="integer">106</oc-users-tracking>
+      <contact-webform>http://www.house.gov/waters/IMA/issue.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.514770584538</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Waters</lastname>
+      <congress-office>2344 Rayburn House Office Building</congress-office>
+      <firstname>Maxine</firstname>
+      <website>http://waters.house.gov/</website>
+      <metavid-id>Maxine_Waters</metavid-id>
+      <birthday type="date">1938-08-15</birthday>
+      <person-id type="integer">400422</person-id>
+      <phone>202-225-2201</phone>
+      <religion>Christian</religion>
+      <votes-democratic-position type="integer">1456</votes-democratic-position>
+      <youtube-id>MaxineWaters</youtube-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:13-04:00</created-at>
+          <title>Polis wins online crown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...House social media contest in 2010, the first year House Democrats faced off online, but he came in 13th last year. Rep. Maxine Waters, who was the all-star winner in 2011, dropped to 29th place this year. Rep. Bruce Braley, who came in second this year</excerpt>
+          <fti-names>'13th':23 '2010':10 '2011':37 '29th':40 'all-star':32 'braley':46 'bruce':45 'came':21,48 'contest':8 'crown':4 'democrat':15 'drop':38 'face':16 'first':12 'hous':5,14 'last':24 'maxin':27 'media':7 'onlin':3,18 'place':41 'poli':1 'politico':54 'rep':26,44 'second':50 'social':6 'star':34 'water':28 'win':2 'winner':35 'year':13,25,43,52</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=78b5c564aa1eaccb11e9a4a4edf6993b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973645</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:07:46-04:00</created-at>
+          <title>Jersey City- based Knight Trading resuscitated by a $400 million Wall Street infusion</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...collapse of the company alarmed federal lawmakers who believe automation is endangering the nation's equity markets. U.S. Rep. Maxine Waters, D-California, a member of the House Financial Services Committee, said there will be hearings to investigate th</excerpt>
+          <fti-names>'400':9 'alarm':18 'autom':23 'base':3 'believ':22 'california':37 'citi':2 'collaps':14 'committe':45 'compani':17 'd':36 'd-california':35 'endang':25 'equiti':29 'feder':19 'financi':43 'hear':50 'hous':42 'infus':13 'investig':52 'jersey':1 'knight':4 'lawmak':20 'market':30 'maxin':33 'member':39 'million':10 'nation':27 'nj.com':54 'rep':32 'resuscit':6 'said':46 'servic':44 'street':12 'th':53 'trade':5 'u.s':31 'wall':11 'water':34</fti-names>
+          <source-url>http://www.nj.com/</source-url>
+          <url>http://www.nj.com/hudson/index.ssf/2012/08/jersey_city-_based_knight_trad.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973029</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:07:46-04:00</created-at>
+          <title>Political campaigns are down to the wire -- and getting downright nasty</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and keep your faith in God, you'll be all right,&quot; Peters told the congregation. Conyers left it to colleagues U.S. Reps. Maxine Waters of California and Hank Johnson of Georgia to tell the churchgoers why they should vote for him. &quot;This man is so very s</excerpt>
+          <fti-names>'california':37 'campaign':2 'churchgoer':46 'colleagu':31 'congreg':26 'conyer':27 'detroit':59 'downright':10 'faith':15 'free':60 'georgia':42 'get':9 'god':17 'hank':39 'johnson':40 'keep':13 'left':28 'll':19 'man':54 'maxin':34 'nasti':11 'peter':23 'polit':1 'press':61 'rep':33 'right':22 'tell':44 'told':24 'u.s':32 'vote':50 'water':35 'wire':7</fti-names>
+          <source-url>http://www.freep.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.freep.com/article/20120806/NEWS15/308060051</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973028</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit Free Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:07:44-04:00</created-at>
+          <title>Political campaigns are down to the wire -- and getting downright nasty</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and keep your faith in God, you'll be all right,&quot; Peters told the congregation. Conyers left it to colleagues U.S. Reps. Maxine Waters of California and Hank Johnson of Georgia to tell the churchgoers why they should vote for him. &quot;This man is so very s</excerpt>
+          <fti-names>'california':37 'campaign':2 'churchgoer':46 'colleagu':31 'congreg':26 'conyer':27 'detroit':59 'downright':10 'faith':15 'free':60 'georgia':42 'get':9 'god':17 'hank':39 'johnson':40 'keep':13 'left':28 'll':19 'man':54 'maxin':34 'nasti':11 'peter':23 'polit':1 'press':61 'rep':33 'right':22 'tell':44 'told':24 'u.s':32 'vote':50 'water':35 'wire':7</fti-names>
+          <source-url>http://www.freep.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.freep.com/article/20120806/NEWS15/308060051/1118/rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973027</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit Free Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:07:46-04:00</created-at>
+          <title>Rick Orlov's Tipoff: President Villaraigosa? Well, not so fast</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...elected from California to the Democratic National Committee include a number of longtime activists, such as Roz Wyman, Rep. Maxine Waters, union leader Alice Huffman and Assembly Speaker John Perez. Also elected, and the only Young Democrat to serve on</excerpt>
+          <fti-names>'activist':24 'alic':34 'also':41 'assembl':37 'california':13 'committe':18 'daili':52 'democrat':16,47 'elect':11,42 'fast':10 'huffman':35 'includ':19 'john':39 'l.a':51 'leader':33 'longtim':23 'maxin':30 'nation':17 'news':53 'number':21 'orlov':2 'perez':40 'presid':5 'rep':29 'rick':1 'roz':27 'serv':49 'speaker':38 'tipoff':4 'union':32 'villaraigosa':6 'water':31 'well':7 'wyman':28 'young':46</fti-names>
+          <source-url>http://www.dailynews.com/</source-url>
+          <url>http://www.dailynews.com/news/ci_21241773/rick-orlovs-tipoff-president-villaraigosa-well-not-so?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16973030</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>L.A. Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:54:06-04:00</created-at>
+          <title>(Following Advance for Use Wednesday, Aug. 15)</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Vernon Jordan is 77. Actor Jim Dale is 77. Actress Pat Priest is 76. Supreme Court Justice Stephen Breyer is 74. U.S. Rep. Maxine Waters, D-Calif., is 74. Musician Pete York (Spencer Davis Group) is 70. Author-journalist Linda Ellerbee is 68. Songwriter</excerpt>
+          <fti-names>'15':7 '68':52 '70':45 '74':28,37 '76':21 '77':11,16 'actor':12 'actress':17 'advanc':2 'aug':6 'author':47 'author-journalist':46 'breyer':26 'calif':35 'court':23 'd':34 'd-calif':33 'dale':14 'davi':42 'ellerbe':50 'follow':1 'group':43 'jim':13 'jordan':9 'journalist':48 'justic':24 'linda':49 'maxin':31 'musician':38 'pat':18 'pete':39 'priest':19 'rep':30 'sifi':54 'songwrit':53 'spencer':41 'stephen':25 'suprem':22 'u.s':29 'use':4 'vernon':8 'water':32 'wednesday':5 'york':40</fti-names>
+          <source-url>http://www.sify.com/</source-url>
+          <url>http://www.sify.com/news/following-advance-for-use-wednesday-aug-15-news-international-miftphaahhb.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972555</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sify</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:18:24-04:00</created-at>
+          <title>Wall Street trading debacle raises fears</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...facts before determining a course of action,&#8221; House Financial Services Committee Chairman Spencer Bachus, R-Ala., said. Rep. Maxine Waters, D-Los Angeles, the top Democrat on the panel&#8217;s subcommittee that oversees capital markets, said she was very </excerpt>
+          <fti-names>'action':13 'ala':23 'angel':31 'bachus':20 'capit':42 'chairman':18 'committe':17 'cours':11 'd':29 'd-los':28 'daili':49 'debacl':4 'democrat':34 'determin':9 'fact':7 'fear':6 'financi':15 'herald':50 'hous':14 'los':30 'market':43 'maxin':26 'morri':48 'overse':41 'panel':37 'r':22 'r-ala':21 'rais':5 'rep':25 'said':24,44 'servic':16 'spencer':19 'street':2 'subcommitte':39 'top':33 'trade':3 'wall':1 'water':27</fti-names>
+          <source-url>http://www.morrisdailyherald.com/</source-url>
+          <url>http://www.morrisdailyherald.com/2012/08/03/wall-street-trading-debacle-raises-fears/aope7hk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971877</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Morris Daily Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:18:23-04:00</created-at>
+          <title>Morning Buzz: Friday 8.3.12</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Daily Breeze The House Ethics Committee could end up spending more than $1 million on an outside counsel&#226;s investigation of Rep. Maxine Waters (D-Calif.) and the panel itself. The Hill Civil rights lawyer Molly Munger has dropped another $5 million int</excerpt>
+          <fti-names>'1':17 '5':45 '8.3.12':4 'anoth':44 'breez':6 'buzz':2 'calif':30 'civil':37 'committe':10 'could':11 'counsel&#226;':22 'd':29 'd-calif':28 'daili':5 'drop':43 'end':12 'ethic':9 'friday':3 'hill':36 'hous':8 'int':47 'investig':23 'la':48 'lawyer':39 'maxin':26 'million':18,46 'molli':40 'morn':1 'munger':41 'observ':49 'outsid':21 'panel':33 'rep':25 'right':38 'spend':14 'water':27</fti-names>
+          <source-url>http://www.laobserved.com/</source-url>
+          <url>http://www.laobserved.com/archive/2012/08/morning_buzz_friday_8312.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971876</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>LA Observed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:45:30-04:00</created-at>
+          <title>Ethics committee extends Waters probe</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...House Ethics Committee is extending its two-year investigation into Rep. Maxine Waters by up to five months and $500,000, though committee leaders say they want to wrap up &quot;as early in the remainder of this Congress as is possible.&quot; Waters, a California</excerpt>
+          <fti-names>'000':27 '500':26 'california':50 'committe':2,8,29 'congress':44 'earli':38 'ethic':1,7 'extend':3,10 'five':23 'hous':6 'investig':15 'leader':30 'maxin':18 'month':24 'possibl':47 'probe':5 'remaind':41 'rep':17 'say':31 'though':28 'today':52 'two':13 'two-year':12 'usa':51 'want':33 'water':4,19,48 'wrap':35 'year':14</fti-names>
+          <source-url>http://www.usatoday.com/</source-url>
+          <url>http://rssfeeds.usatoday.com/~r/UsatodaycomWashington-TopStories/~3/HgnsC0-WT7A/1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971026</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>USA Today</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:45:29-04:00</created-at>
+          <title>House Committee May Spend $1 Million on Lawyer for Waters Query</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...House Ethics Committee may spend more than $1 million on an outside lawyer&#8217;s investigation of Rep. Maxine Waters, D-Calif. The secretive committee voted Thursday to continue the contract for Billy Martin, who has cost taxpayers more than $800,000 sinc</excerpt>
+          <fti-names>'000':53 '1':5,19 '800':52 'billi':44 'calif':33 'committe':2,14,36 'continu':40 'contract':42 'cost':48 'd':32 'd-calif':31 'ethic':13 'hous':1,12 'investig':26 'lawyer':8,24 'martin':45 'maxin':29 'may':3,15 'million':6,20 'newsmax':55 'outsid':23 'queri':11 'rep':28 'secret':35 'sinc':54 'spend':4,16 'taxpay':49 'thursday':38 'vote':37 'water':10,30</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/house-ethics-committee-investigation/2012/08/02/id/447407</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971025</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Maxine Waters [D, CA-35]</name>
+      <total-session-votes type="integer">1591</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-225-7854</fax>
+      <district>35</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:05:26-04:00</created-at>
+          <title>Advisers breathe easier about SRO :: Compliance News Hub</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Maxine Waters, D-Calif., a member of the House Financial Services Committee, introduced a bill last Wednesday that would allow the SEC to expand adviser oversight by charging advisers user fees to fund exams.</excerpt>
+          <fti-names>'advis':1,35,39 'allow':30 'bill':25 'breath':2 'calif':14 'charg':38 'cindi':45 'committe':22 'complianc':6 'd':13 'd-calif':12 'easier':3 'exam':44 'expand':34 'fee':41 'financi':20 'fund':43 'hous':19 'hub':8 'introduc':23 'last':26 'maxin':10 'member':16 'news':7 'oversight':36 'rep':9 'sec':32 'servic':21 'sro':5 'user':40 'water':11 'wednesday':27 'would':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tgtai.net/compliance/2012/07/29/advisers-breathe-easier-about-sro/&amp;sa=U&amp;ei=YGoWUJvwLqa40QH3uYHwAg&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNHVV4_0fREo5VCJNlDeIcc-b6ZhfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950890</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>cindi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:05:25-04:00</created-at>
+          <title>CBS News: Blacks are Unsatisfied With Obama | Publius Forum</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The piece leads with complaining from Philadelphia Mayor Michael Nutter and Rep. Maxine Waters (D, Calif.) both of whom are annoyed that black unemployment is so much higher than that of other communities. Obama is ...</excerpt>
+          <fti-names>'annoy':30 'black':3,32 'calif':25 'cbs':1 'communiti':42 'complain':14 'd':24 'forum':9 'higher':37 'lead':12 'maxin':22 'mayor':17 'michael':18 'much':36 'news':2 'nutter':19 'obama':7,43 'philadelphia':16 'piec':11 'publius':8 'publiusforum':45 'rep':21 'unemploy':33 'unsatisfi':5 'water':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.chicagonow.com/publius-forum/2012/07/cbs-news-blacks-are-unsatisfied-with-obama/&amp;sa=U&amp;ei=YGoWUJvwLqa40QH3uYHwAg&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNFB7MRpJbohOroD1UF3kh2c1fMG9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950888</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>publiusforum</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:17:08-04:00</created-at>
+          <title>Dems love Shari&amp;#39;ah | CFNS.org</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democratic Rep. Maxine Waters has publicly and ignorantly of Islamic Shari&amp;#39;ah law called voting against Shari&amp;#39;ah law is a GOP hate mongering and bigotry. Her rhetoric in this video explains the type of fictional world many ...</excerpt>
+          <fti-names>'ah':4,17,23 'bigotri':31 'call':19 'cfns':44 'cfns.org':5 'dem':1 'democrat':6 'explain':37 'fiction':41 'gop':27 'hate':28 'ignor':13 'islam':15 'law':18,24 'love':2 'mani':43 'maxin':8 'monger':29 'public':11 'rep':7 'rhetor':33 'shari':3,16,22 'type':39 'video':36 'vote':20 'water':9 'world':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.cfns.org/videos/dems-love-shariah/&amp;sa=U&amp;ei=dvEUUIC0IcLl6QGwkIDwAQ&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNFOzeQ_OYaL_qetd2BiXz0_VMt40g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931392</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>cfns</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:17:06-04:00</created-at>
+          <title>To Thwart SRO, Rep. Waters Introduces User Fee Bill :: Compliance ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As she said she would, Rep. Maxine Waters, D-Calif., introduced on Wednesday the Investment Adviser Examination Improvement Act of 2012, which would allow the Securities and Exchange Commission (SEC) to collect ...</excerpt>
+          <fti-names>'2012':32 'act':30 'advis':27 'allow':35 'bill':9 'calif':21 'cindi':44 'collect':43 'commiss':40 'complianc':10 'd':20 'd-calif':19 'examin':28 'exchang':39 'fee':8 'improv':29 'introduc':6,22 'invest':26 'maxin':17 'rep':4,16 'said':13 'sec':41 'secur':37 'sro':3 'thwart':2 'user':7 'water':5,18 'wednesday':24 'would':15,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tgtai.net/compliance/2012/07/26/to-thwart-sro-rep-waters-introduces-user-fee-bill/&amp;sa=U&amp;ei=dvEUUIC0IcLl6QGwkIDwAQ&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHF3obN458aANvFYNWx1z6FbPLvBA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16931390</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>cindi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:17:05-04:00</created-at>
+          <title>Maxine Waters Gets It Wrong Again | Colorado Blonde</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Enter Madam Congresswoman Maxine Waters. Take the time ... I am offended. To witness a US Representative, a Democrat even, make the argument to allow Religion to dictate actions of the State . . . there is no logic in this.</excerpt>
+          <fti-names>'action':36 'allow':32 'argument':30 'blond':8 'colorado':7 'congresswoman':11 'democrat':26 'dictat':35 'enter':9 'even':27 'get':3 'logic':43 'madam':10 'make':28 'maxin':1,12 'offend':19 'religion':33 'repres':24 'staci':46 'state':39 'take':14 'time':16 'us':23 'water':2,13 'wit':21 'wrong':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://coloradoblonde.com/maxine-waters-gets-it-wrong-again/&amp;sa=U&amp;ei=dvEUUIC0IcLl6QGwkIDwAQ&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGc_cwUWKu48cm02bc5V85UwFV10g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16931388</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stacy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:05:21-04:00</created-at>
+          <title>To Thwart SRO, Rep. Waters Introduces User Fee Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As she said she would, Rep. Maxine Waters, D-Calif., introduced on Wednesday the Investment Adviser Examination Improvement Act of 2012, which would allow the Securities and Exchange Commission (SEC) to collect ...</excerpt>
+          <fti-names>'2012':31 'act':29 'advis':26 'allow':34 'bill':9 'calif':20 'collect':42 'commiss':39 'd':19 'd-calif':18 'examin':27 'exchang':38 'fee':8 'improv':28 'introduc':6,21 'invest':25 'maxin':16 'rep':4,15 'said':12 'sec':40 'secur':36 'sro':3 'thwart':2 'user':7 'water':5,17 'wednesday':23 'would':14,33 'www.advisorone.com':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.advisorone.com/2012/07/25/to-thwart-sro-rep-waters-introduces-user-fee-bill&amp;sa=U&amp;ei=YGoWUJvwLqa40QH3uYHwAg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGOLwWTHvQZaytJdc0VRkegVkPn5g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16950884</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.advisorone.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:17:07-04:00</created-at>
+          <title>Exposing Liberal Lies: Maxine Waters on Sharia Law</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dem Rep. Maxine Waters: Voting Against Sharia Law Is GOP Fear Mongering And Bigotry&#8230; Of course the bigotry that is inherent in Sharia law isn&amp;#39;t of any concern to Maxine Waters.</excerpt>
+          <fti-names>'bigotri':22,26 'concern':37 'cours':24 'debra':41 'dem':9 'expos':1 'fear':19 'gop':18 'inher':29 'isn':33 'law':8,16,32 'liber':2 'lie':3 'maxin':4,11,39 'monger':20 'moor':42 'rep':10 'sharia':7,15,31 'vote':13 'water':5,12,40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://exposingliberallies.blogspot.com/2012/07/maxine-waters-on-sharia-law.html&amp;sa=U&amp;ei=dvEUUIC0IcLl6QGwkIDwAQ&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEenJ6WSPlBaydJtxaPUadD_efHAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16931391</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Debra Moore</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:37:56-04:00</created-at>
+          <title>To Thwart SRO, Rep. Waters Introduces User Fee Bill :: Compliance ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As she said she would, Rep. Maxine Waters, D-Calif., introduced on Wednesday the Investment Adviser Examination Improvement Act of 2012, which would allow the Securities and Exchange Commission (SEC) to collect ...</excerpt>
+          <fti-names>'2012':32 'act':30 'advis':27 'allow':35 'bill':9 'calif':21 'cindi':44 'collect':43 'commiss':40 'complianc':10 'd':20 'd-calif':19 'examin':28 'exchang':39 'fee':8 'improv':29 'introduc':6,22 'invest':26 'maxin':17 'rep':4,16 'said':13 'sec':41 'secur':37 'sro':3 'thwart':2 'user':7 'water':5,18 'wednesday':24 'would':15,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tgtai.net/compliance/2012/07/26/to-thwart-sro-rep-waters-introduces-user-fee-bill/&amp;sa=U&amp;ei=kl4TUKKIOub40gGBmIGACg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFcjfLSFxGetUVttkY_pS0_NZuGgw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16924168</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>cindi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:37:56-04:00</created-at>
+          <title>Maxine Waters Gets It Wrong Again | Colorado Blonde</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Enter Madam Congresswoman Maxine Waters. Take the time ... I am offended. To witness a US Representative, a Democrat even, make the argument to allow Religion to dictate actions of the State . . . there is no logic in this.</excerpt>
+          <fti-names>'action':36 'allow':32 'argument':30 'blond':8 'colorado':7 'congresswoman':11 'democrat':26 'dictat':35 'enter':9 'even':27 'get':3 'logic':43 'madam':10 'make':28 'maxin':1,12 'offend':19 'religion':33 'repres':24 'staci':46 'state':39 'take':14 'time':16 'us':23 'water':2,13 'wit':21 'wrong':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://coloradoblonde.com/maxine-waters-gets-it-wrong-again/&amp;sa=U&amp;ei=kl4TUKKIOub40gGBmIGACg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNE2JCQZesb5vWO7h4d5IeRRE5KncQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16924167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Stacy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400422</commentariable-id>
+          <created-at type="datetime">2012-07-27T01:55:39-04:00</created-at>
+          <title>To Thwart SRO, Rep. Waters Introduces User Fee Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>As she said she would, Rep. Maxine Waters, D-Calif., introduced on Wednesday the Investment Adviser Examination Improvement Act of 2012, which would allow the Securities and Exchange Commission (SEC) to collect ...</excerpt>
+          <fti-names>'2012':31 'act':29 'advis':26 'allow':34 'bill':9 'calif':20 'collect':42 'commiss':39 'd':19 'd-calif':18 'examin':27 'exchang':38 'fee':8 'improv':28 'introduc':6,21 'invest':25 'maxin':16 'rep':4,15 'said':12 'sec':40 'secur':36 'sro':3 'thwart':2 'user':7 'water':5,17 'wednesday':23 'would':14,33 'www.advisorone.com':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.advisorone.com/2012/07/25/to-thwart-sro-rep-waters-introduces-user-fee-bill&amp;sa=U&amp;ei=US0SUIKUJaeR6wHgqoCIBw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNEWQhOGhEDoTTHbwPRHFa1Icb9Ydw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16893661</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.advisorone.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>W000187</bioguide-id>
+      <page-views-count type="integer">29743</page-views-count>
+      <unaccented-name>Maxine Waters</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

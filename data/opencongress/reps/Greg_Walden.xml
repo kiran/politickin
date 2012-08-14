@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.1728971962617</party-votes-percentage>
+        <abstains-percentage type="float">0.407213496218732</abstains-percentage>
+        <votes-most-often-with-id type="integer">400414</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">291</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">399</cosponsored-bills-passed-rank>
+        <abstains type="integer">7</abstains>
+        <cosponsored-bills type="integer">160</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">334</party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">412263</votes-least-often-with-id>
+        <person-id type="integer">400419</person-id>
+        <cosponsored-bills-rank type="integer">382</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">412</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1578</votes-republican-position>
+      <blog-article-count type="integer">6086</blog-article-count>
+      <user-approval type="float">5.5</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">222</oc-users-tracking>
+      <contact-webform>http://www.walden.house.gov/ContactGreg.ContactFormIQ.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.1728971962617</with-party-percentage>
+      <metavid-id>Greg_Walden</metavid-id>
+      <lastname>Walden</lastname>
+      <congress-office>2182 Rayburn House Office Building</congress-office>
+      <firstname>Greg</firstname>
+      <website>http://www.walden.house.gov/</website>
+      <youtube-id>RepGregWalden</youtube-id>
+      <birthday type="date">1957-01-10</birthday>
+      <person-id type="integer">400419</person-id>
+      <phone>202-225-6730</phone>
+      <religion>Episcopalian</religion>
+      <votes-democratic-position type="integer">463</votes-democratic-position>
+      <fax>202-225-5774</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:58:51-04:00</created-at>
+          <title>Agreement reached for Central Oregon water use</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...during &quot;dry years&quot; that could minimize fights over water. Past water disputes have seen hostility and angry rhetoric. Rep. Greg Walden, R-Ore., earlier this year introduced legislation that protected water supplies for farmers and ranchers and Prinevill</excerpt>
+          <fti-names>'agreement':1 'albani':47 'angri':24 'central':4 'could':12 'democrat':49 'democrat-herald':48 'disput':19 'dri':9 'earlier':32 'farmer':42 'fight':14 'greg':27 'herald':50 'hostil':22 'introduc':35 'legisl':36 'minim':13 'ore':31 'oregon':5 'past':17 'prinevil':46 'protect':38 'r':30 'r-ore':29 'rancher':44 'reach':2 'rep':26 'rhetor':25 'seen':21 'suppli':40 'use':7 'walden':28 'water':6,16,18,39 'year':10,34</fti-names>
+          <source-url>http://www.democratherald.com/</source-url>
+          <url>http://democratherald.com/news/state-and-regional/agreement-reached-for-central-oregon-water-use/article_7a52299e-d474-50a3-b0ba-1ee69413204d.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16973627</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albany Democrat-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:53:21-04:00</created-at>
+          <title>Agreement reached for Central Oregon water use</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Sen. Jeff Merkley says the agreement contains a framework for working out allocation demands during &quot;dry years.&quot; A spokesman for Republican U.S. Rep. Greg Walden, who sponsored a bill that passed the House in June, says the new measure is being reviewed</excerpt>
+          <fti-names>'agreement':1,13 'alloc':20 'bill':36 'central':4 'contain':14 'corval':50 'demand':21 'dri':23 'framework':16 'gazett':52 'gazette-tim':51 'greg':31 'hous':40 'jeff':9 'june':42 'measur':46 'merkley':10 'new':45 'oregon':5 'pass':38 'reach':2 'rep':30 'republican':28 'review':49 'say':11,43 'sen':8 'spokesman':26 'sponsor':34 'time':53 'u.s':29 'use':7 'walden':32 'water':6 'work':18 'year':24</fti-names>
+          <source-url>http://www.gazettetimes.com/</source-url>
+          <url>http://www.gazettetimes.com/news/state-and-regional/agreement-reached-for-central-oregon-water-use/article_1082a71e-a2d6-54ad-8da2-fb7f4b9c72c8.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972547</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corvallis Gazette-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:53:21-04:00</created-at>
+          <title>Agreement reached for Central Oregon water use</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...during &quot;dry years&quot; that could minimize fights over water. Past water disputes have seen hostility and angry rhetoric. Rep. Greg Walden, R-Ore., earlier this year introduced legislation that protected water supplies for farmers and ranchers and Prinevill</excerpt>
+          <fti-names>'agreement':1 'angri':24 'antonio':48 'central':4 'could':12 'disput':19 'dri':9 'earlier':32 'express':49 'farmer':42 'fight':14 'greg':27 'hostil':22 'introduc':35 'legisl':36 'minim':13 'ore':31 'oregon':5 'past':17 'prinevil':46 'protect':38 'r':30 'r-ore':29 'rancher':44 'reach':2 'rep':26 'rhetor':25 'san':47 'seen':21 'suppli':40 'use':7 'walden':28 'water':6,16,18,39 'year':10,34</fti-names>
+          <source-url>http://www.mysanantonio.com/</source-url>
+          <url>http://www.mysanantonio.com/news/article/Agreement-reached-for-Central-Oregon-water-use-3764349.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972546</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Antonio Express</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:53:21-04:00</created-at>
+          <title>GOP freshmen run from incumbency</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...here because they were upset with Washington and so were their constituents and they wanted to change Washington,&#8221; said Oregon Rep. Greg Walden, vice chairman of the National Republican Congressional Committee. &#8220;They&#8217;re still in the fight and they</excerpt>
+          <fti-names>'chairman':30 'chang':22 'committe':36 'congression':35 'constitu':17 'fight':42 'freshmen':2 'gop':1 'greg':27 'incumb':5 'nation':33 'oregon':25 'politico':46 're':38 'rep':26 'republican':34 'run':3 'said':24 'still':39 'upset':10 'vice':29 'walden':28 'want':20 'washington':12,23</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79377.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972545</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:08:01-04:00</created-at>
+          <title>Rep. Walden: Obama's 'You Didn't Build That' 2012's Joe the Plumber Moment</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...into the president&#8217;s thought process and reveals that he really doesn&#8217;t understand how business works, leading Republican Rep. Greg Walden, tells Newmax.TV. Walden, deputy chairman of the National Republican Congressional Committee, noted in an excl</excerpt>
+          <fti-names>'2012':10 'build':8 'busi':31 'chairman':42 'committe':48 'congression':47 'deputi':41 'didn':6 'doesn':27 'excl':52 'greg':36 'joe':12 'lead':33 'moment':15 'nation':45 'newmax.tv':39 'newsmax':53 'note':49 'obama':3 'plumber':14 'presid':18 'process':21 'realli':26 'rep':1,35 'republican':34,46 'reveal':23 'tell':38 'thought':20 'understand':29 'walden':2,37,40 'work':32</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Newsfront/Walden-build-joe-plumber/2012/08/04/id/447568</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972283</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:08:04-04:00</created-at>
+          <title>Money And Power: Political Chat Takes Aim</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...by a dissenting vote by Rep. Kurt Schrader against extending the Bush-era tax cuts. Meanwhile, on the Republican side, Rep. Greg Walden appears to be moving up the ladder in the House leadership. Power and money in Salem and Washington? Sounds like a jo</excerpt>
+          <fti-names>'aim':7 'appear':32 'broadcast':56 'bush':20 'bush-era':19 'chat':5 'cut':23 'dissent':10 'era':21 'extend':17 'greg':30 'hous':41 'jo':53 'kurt':14 'ladder':38 'leadership':42 'like':51 'meanwhil':24 'money':1,45 'move':35 'oregon':54 'polit':4 'power':3,43 'public':55 'rep':13,29 'republican':27 'salem':47 'schrader':15 'side':28 'sound':50 'take':6 'tax':22 'vote':11 'walden':31 'washington':49</fti-names>
+          <source-url>http://www.opb.org/</source-url>
+          <url>http://opbnews.org/article/money-and-power-political-chat-takes-aim/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972284</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:02:02-04:00</created-at>
+          <title>Japanese dock removal progresses at Agate Beach</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...surrounding the debris issue. Bonamici's bill is also supported by Reps. Kurt Schrader, Peter DeFazio, Earl Blumenauer and Greg Walden of Oregon as well as lawmakers from California and Washington state. Bonamici said in an interview she hopes to move t</excerpt>
+          <fti-names>'agat':6 'also':16 'beach':7 'bill':14 'blumenau':25 'bonamici':12,40 'california':36 'debri':10 'defazio':23 'dock':2 'earl':24 'greg':27 'hope':46 'interview':44 'issu':11 'japanes':1 'kurt':20 'lawmak':34 'live':51 'move':48 'oregon':30,50 'peter':22 'progress':4 'remov':3 'rep':19 'said':41 'schrader':21 'state':39 'support':17 'surround':8 'walden':28 'washington':38 'well':32</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/politics/index.ssf/2012/08/suzanne_bonamici_moves_to_spee.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970037</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:02:00-04:00</created-at>
+          <title>Letters to the Editor for Aug. 1, 2012</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>...Walden needs to represent all of his district It&#8217;s time the people in Greg Walden&#8217;s district see who he really represents. The House of Representatives is getting ready to vote on tax-cut extensions. But the only tax extension Walden will vote for i</excerpt>
+          <fti-names>'1':7 '2012':8 'aug':6 'baker':56 'citi':57 'cut':44 'district':16,26 'editor':4 'extens':45,50 'get':37 'greg':23 'herald':58 'hous':33 'letter':1 'need':10 'peopl':21 'readi':38 'realli':30 'repres':12,31,35 'see':27 'tax':43,49 'tax-cut':42 'time':19 'vote':40,53 'walden':9,24,51</fti-names>
+          <source-url>http://www.bakercityherald.com/</source-url>
+          <url>http://feedproxy.google.com/~r/bakercityherald/LeEi/~3/NpEI9jiSFk0/Letters-to-the-Editor-for-Aug-1-2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970036</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Baker City Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-08-01T23:02:00-04:00</created-at>
+          <title>Greg Walden Ready for Leadership Role</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Greg Walden is taking steps toward a run for chairman of the National Republican Congressional Committee. The Oregon lawmaker told Roll Call that he has reached out to leadership and rank-and-file Members to gauge support and signal that he&#8217;s interest</excerpt>
+          <fti-names>'call':28,52 'chairman':16 'committe':22 'congression':21 'file':40 'gaug':43 'greg':1,7 'interest':50 'lawmak':25 'leadership':5,35 'member':41 'nation':19 'oregon':24 'rank':38 'rank-and-fil':37 'reach':32 'readi':3 'republican':20 'role':6 'roll':27,51 'run':14 'signal':46 'step':11 'support':44 'take':10 'told':26 'toward':12 'walden':2,8</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_16/Greg-Walden-Ready-for-Leadership-Role-216666-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16970035</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:53:25-04:00</created-at>
+          <title>Dems Recasting Health Law to Blunt Attacks</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&quot;I don't mind the namebecause I really do care,&quot; the president has said at recentcampaign events. Representative Greg Walden of Oregon, deputy chairman ofthe National Republican Congressional Committee, said Democratshave more to lose from ...</excerpt>
+          <fti-names>'attack':7 'blunt':6 'care':17 'chairman':31 'committe':36 'congression':35 'dem':1 'democratshav':38 'deputi':30 'event':24 'greg':26 'health':3 'law':4 'lose':41 'mind':11 'namebecaus':13 'nation':33 'ofth':32 'oregon':29 'presid':19 'realclearpolit':43 'realli':15 'recast':2 'recentcampaign':23 'repres':25 'republican':34 'said':21,37 'walden':27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.realclearpolitics.com/2012/07/29/dems_recasting_health_law_to_blunt_attacks_286024.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T16:16:12-04:00</date>
+          <id type="integer">16950770</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>RealClearPolitics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Greg Walden [R, OR-2]</name>
+      <total-session-votes type="integer">1712</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:06-04:00</created-at>
+          <title>Deregulation: The Future of Cable/Satellite Broadcasting - The ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>That is the message from the House Energy and Commerce Committee Communications Subcommittee&amp;#39;s &amp;quot;Future of Video&amp;quot; hearing last Wednesday, led by Rep. Greg Walden (R-Ore.), the second in a series planned by the ...</excerpt>
+          <fti-names>'breitbart':44 'broadcast':6 'cable/satellite':5 'commerc':17 'committe':18 'communic':19 'deregul':1 'energi':15 'feed':45 'futur':3,22 'greg':31 'hear':25 'hous':14 'last':26 'led':28 'messag':11 'ore':35 'plan':41 'r':34 'r-ore':33 'rep':30 'second':37 'seri':40 'subcommitte':20 'video':24 'walden':32 'wednesday':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://exchangegoldforcash.com/money/u-s-government/president/2012-election/breitbart/deregulation-the-future-of-cablesatellite-broadcasting/&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CEUQmAEwCA&amp;usg=AFQjCNHA5z4o_BUHEtvRKlltZSnAyikfOg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16452349</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Breitbart Feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:01-04:00</created-at>
+          <title>Rep. Greg Walden`s Oregon Congressional Connection | Union ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Dear Friend,. As we pause to celebrate Independence Day, I hope you&amp;#39;ll join me in remembering our men and women in uniform serving overseas. On the Fourth, I&amp;#39;ll be in Hood River&amp;#39;s annual parade, where we&amp;#39;ll be fortunate ...</excerpt>
+          <fti-names>'annual':44 'celebr':15 'congression':6 'connect':7 'day':17 'dear':9 'fortun':50 'fourth':36 'friend':10 'greg':2 'hood':41 'hope':19 'independ':16 'jay':51 'join':22 'll':21,38,48 'men':27 'oregon':5 'oversea':33 'parad':45 'paus':13 'rememb':25 'rep':1 'river':42 'serv':32 'uniform':31 'union':8 'walden':3 'women':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ucrcc.org/2012/07/02/rep-greg-waldens-oregon-congressional-connection-3/&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNEprpR6VLAFKl29aFOLGVnrIy14nQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16452338</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jay</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:03-04:00</created-at>
+          <title>U.S. Representative Greg Walden Talks About Supreme Court&amp;#39;s ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>U.S. Representative Greg Walden gave his reaction to the landmark ruling. He said he believes law will make it harder for small businesses to hire new workers and it may cause more harm than good. He also said that he will ...</excerpt>
+          <fti-names>'/page/229325':53 'also':46 'believ':24 'busi':32 'caus':40 'court':8 'gave':14 'good':44 'greg':3,12 'harder':29 'harm':42 'hire':34 'kdrv.com':52 'kdrv.com/page/229325':51 'landmark':19 'law':25 'make':27 'may':39 'new':35 'reaction':16 'repres':2,11 'rule':20 'said':22,47 'small':31 'suprem':7 'talk':5 'u.s':1,10 'walden':4,13 'worker':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kdrv.com/page/249832&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNG-qiLQFKUDgtDz2lOmkOskGJWH0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16452339</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://kdrv.com/page/229325</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:04-04:00</created-at>
+          <title>Greg Walden helps secure one year extension of county payments in</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON, D.C. &#8212; U.S. Rep. Greg Walden (R-Ore.) has helped secure a one year extension of county payments today in the final House and Senate agreement on a long-term transportation reauthorization. A member of ...</excerpt>
+          <fti-names>'agreement':38 'counti':9,29 'd.c':13 'extens':7,27 'final':34 'greg':1,16 'help':3,22 'hous':35 'long':42 'long-term':41 'member':47 'one':5,25 'ore':20 'payment':10,30 'r':19 'r-ore':18 'reauthor':45 'rep':15 'secur':4,23 'senat':37 'term':43 'today':31 'transport':44 'u.s':14 'walden':2,17 'washington':12 'wvo':49 'year':6,26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wallowavalleyonline.com/wvo2/14630/greg-walden-helps-secure-one-year-extension-of-county-payments-in-transportation-agreement/&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNEIq-slBDvo9KqNYitObplEB_pNaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16452342</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>WVO</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:04-04:00</created-at>
+          <title>Oregon Counties Could Get $100M In Timber Payments &#183; OPB News</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Greg Walden says a one-year extension of federal payments for timber-dependent counties is included in the federal transportation bill that could come to a floor vote by Friday.</excerpt>
+          <fti-names>'100m':5 'april':44 'baer':45 'bill':34 'come':37 'congressman':11 'could':3,36 'counti':2,27 'depend':26 'extens':19 'feder':21,32 'floor':40 'friday':43 'get':4 'greg':12 'includ':29 'news':10 'one':17 'one-year':16 'opb':9 'oregon':1 'payment':8,22 'say':14 'timber':7,25 'timber-depend':24 'transport':33 'vote':41 'walden':13 'year':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.opb.org/article/counties-could-receive-timber-payments-transportation-bill/&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CCwQmAEwAw&amp;usg=AFQjCNF9HrRpUw_aWEPgqpq6JRUUbmmdAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16452341</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>April Baer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:06-04:00</created-at>
+          <title>Republican Main Street Partnership Honors Senator Rob Portman ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>(Washington, D.C.) &#8211;Last night, the Republican Main Street Partnership honored Senator Rob Portman and Representative Greg Walden at their National Dinner with the Amory Houghton Award for Public Service. &#8220;During his ...</excerpt>
+          <fti-names>'amori':32 'award':34 'd.c':10 'dinner':29 'greg':24 'honor':5,18 'houghton':33 'last':11 'main':2,15 'nation':28 'night':12 'partnership':4,17 'portman':8,21 'public':36 'repres':23 'republican':1,14 'rmsp':40 'rob':7,20 'senat':6,19 'servic':37 'street':3,16 'walden':25 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.republicanmainstreet.org/2012/06/republican-main-street-partnership-honors-senator-rob-portman-r-oh-and-representative-greg-walden-r-or/&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CE8QmAEwCg&amp;usg=AFQjCNG8eTr4aTBth0WNsbdcSy93VR7mPA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16452351</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RMSP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:06-04:00</created-at>
+          <title>Eagle Live - Greg Walden Takes Time out of his Busy Schedule to ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>On June 11th, Representative Greg Walden met with constituents outside the La Pine Library on the grass. He was there to meet with local leaders and non-profit leaders who had helped him get Land transfers for La Pine on ...</excerpt>
+          <fti-names>'11th':15 'busi':10 'constitu':21 'eagl':1 'get':47 'grass':29 'greg':3,17 'help':45 'june':14 'la':24,51 'land':48 'leader':37,42 'librari':26 'live':2 'local':36 'meet':34 'met':19 'non':40 'non-profit':39 'outsid':22 'pine':25,52 'profit':41 'repres':16 'schedul':11 'take':5 'time':6 'transfer':49 'walden':4,18 'www.myeaglelive.com':54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://myeaglelive.com/pt/Greg-Walden-Takes-Time-out-of-his-Busy-Schedule-to-Talk-Land-Transfer-with-Locals.6-18-2012/blog.htm&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CEoQmAEwCQ&amp;usg=AFQjCNEhpSIqK_KyAb5HUhaYTzHocA4TTQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16452350</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.myeaglelive.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:39:04-04:00</created-at>
+          <title>Walden for Congress &#187; Blog Archive &#187; KDRV: Rep. Walden Meets ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Representative Greg Walden is in the Rogue Valley as part of a five-day tour of district two. Representative Walden sat down with Adroit&amp;#39;s team, talking about the company&amp;#39;s concerns and efforts. The representative says ...</excerpt>
+          <fti-names>'adroit':35 'archiv':5 'blog':4 'compani':41 'concern':43 'congress':3 'day':25 'district':28 'effort':45 'five':24 'five-day':23 'greg':12 'gwalden':49 'kdrv':6 'meet':9 'part':20 'rep':7 'repres':11,30,47 'rogu':17 'sat':32 'say':48 'talk':38 'team':37 'tour':26 'two':29 'u.s':10 'valley':18 'walden':1,8,13,31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gregwalden.com/archives/1967&amp;sa=U&amp;ei=1AD5T_SULajL2QXJs_jABg&amp;ved=0CDYQmAEwBQ&amp;usg=AFQjCNHlxrIwimdZhEawkP8YTRSJ93ISyQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">16452344</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gwalden</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:27:46-04:00</created-at>
+          <title>Walden tells Forest Service to scrap plan | seyden.net</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Excerpt: &#8220;U.S. Rep. Greg Walden called on the U.S. Forest Service to start over on its Travel Management Plan for the Wallowa-Whitman National Forest. He said the plan is the product of a flawed public process that failed to ...</excerpt>
+          <fti-names>'call':14 'excerpt':9 'fail':48 'flaw':44 'forest':3,18,34 'greg':12 'manag':26 'nation':33 'plan':7,27,38 'process':46 'product':41 'public':45 'rep':11 'said':36 'scrap':6 'servic':4,19 'seyden':50 'seyden.net':8 'start':21 'tell':2 'travel':25 'u.s':10,17 'walden':1,13 'wallowa':31 'wallowa-whitman':30 'whitman':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.seyden.net/%3Fp%3D2000&amp;sa=U&amp;ei=EaiNT4D_MsqN8AHyqdmSBw&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNHCKUIFqbV5GBoFFlxy1hOoaQjMLQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14544751</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>seyden</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400419</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:27:47-04:00</created-at>
+          <title>Ann Romney&amp;#39;s tough choices &#8230; &#171; Homeless on the High Desert</title>
+          <contains-term>republican</contains-term>
+          <excerpt>... Bimbo Bottle-Blonde Bobble-Heads spreading their legs on the Mainstream Corporate Media distraction was over the wife of Republican &#8220;presidential&#8221; contender Willard Romney &#8211; like our &#8220;representative&#8221; Greg Walden a ...</excerpt>
+          <fti-names>'ann':1 'bear':44 'bimbo':11 'blond':14 'bobbl':16 'bobble-head':15 'bottl':13 'bottle-blond':12 'choic':5 'contend':34 'corpor':24 'desert':10 'distract':26 'greg':40 'head':17 'high':9 'homeless':6 'leg':20 'like':37 'mainstream':23 'media':25 'presidenti':33 'repres':39 'republican':32 'romney':2,36 'spread':18 'ten':43 'tough':4 'walden':41 'wife':30 'willard':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://homelessonthehighdesert.wordpress.com/2012/04/16/ann-romneys-tough-choices/&amp;sa=U&amp;ei=EaiNT4D_MsqN8AHyqdmSBw&amp;ved=0CE4QmAEwCQ&amp;usg=AFQjCNH6U_cgLCCTDvvPfwh4foMv0ZGmVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14544758</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ten Bears</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>W000791</bioguide-id>
+      <page-views-count type="integer">21319</page-views-count>
+      <unaccented-name>Greg Walden</unaccented-name>
+      <middlename>P.</middlename>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-19T11:16:54-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">94.1624365482234</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">412325</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">16</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">62</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">54</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">239</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">31</party-votes-percentage-rank>
+        <sponsored-bills type="integer">78</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300100</person-id>
+        <cosponsored-bills-rank type="integer">34</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">18</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">153</votes-republican-position>
+      <middlename nil="true"></middlename>
+      <blog-article-count type="integer">15189</blog-article-count>
+      <user-approval type="float">4.84615384615385</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">914</oc-users-tracking>
+      <contact-webform>http://www.wyden.senate.gov/contact/</contact-webform>
+      <email nil="true"></email>
+      <biography nil="true"></biography>
+      <with-party-percentage type="float">94.1624365482234</with-party-percentage>
+      <lastname>Wyden</lastname>
+      <congress-office>223 Dirksen Senate Office Building</congress-office>
+      <metavid-id>Ron_Wyden</metavid-id>
+      <firstname>Ron</firstname>
+      <website>http://www.wyden.senate.gov/</website>
+      <birthday type="date">1949-05-03</birthday>
+      <person-id type="integer">300100</person-id>
+      <bioguide-id>W000779</bioguide-id>
+      <phone>202-224-5244</phone>
+      <youtube-id>SenRonWyden</youtube-id>
+      <religion>Jewish</religion>
+      <votes-democratic-position type="integer">371</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:09:16-04:00</created-at>
+          <title>New Hemp Bill Introduced in US Senate</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...bill, Senate Bill 3501, was introduced last week by Sen. Ron Wyden (D-OR) and cosponsored by Sens. Rand Paul (R-KY), Bernie Sanders (I-VT), and Jeff Merkley (D-OR). It would amend the Controlled Substances Act to make clear that hemp is not a drug, even</excerpt>
+          <fti-names>'3501':11 'act':49 'amend':45 'berni':32 'bill':3,8,10 'chronicl':62 'clear':52 'control':47 'cosponsor':24 'd':21,41 'd-or':20,40 'drug':58,60 'even':59 'hemp':2,54 'i-vt':34 'introduc':4,13 'jeff':38 'ky':31 'last':14 'make':51 'merkley':39 'new':1 'paul':28 'r':30 'r-ki':29 'rand':27 'ron':18 'sander':33 'sen':17,26 'senat':7,9 'substanc':48 'us':6 'vt':36 'war':61 'week':15 'would':44 'wyden':19</fti-names>
+          <source-url>http://stopthedrugwar.org/chronicle/</source-url>
+          <url>http://stopthedrugwar.org/chronicle/2012/aug/07/new_hemp_bill_introduced_us_sena</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973915</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Drug War Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:09:16-04:00</created-at>
+          <title>U.S. government approves $2,500 federal tax credit for electric bikes and motorcycles</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...approved a federal tax on electric bikes and motorcycles, reports The Detroit News. The amendment, which was introduced by Sen. Ron Wyden, D-Oregon, would give consumers a 10 percent federal tax credit, up to a maximum of $2,500 on electric bikes and mo</excerpt>
+          <fti-names>'10':43 '2':4,53 '500':5,54 'amend':28 'approv':3,14 'bike':11,20,57 'consum':41 'credit':8,47 'd':37 'd-oregon':36 'detroit':25 'digit':60 'electr':10,19,56 'feder':6,16,45 'give':40 'govern':2 'introduc':31 'maximum':51 'mo':59 'motorcycl':13,22 'news':26 'oregon':38 'percent':44 'report':23 'ron':34 'sen':33 'tax':7,17,46 'trend':61 'u.s':1 'would':39 'wyden':35</fti-names>
+          <source-url>http://www.digitaltrends.com/</source-url>
+          <url>http://www.digitaltrends.com/cars/u-s-government-approves-2500-federal-tax-credit-for-electric-bikes-and-motorcycles/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973914</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Digital Trends</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:09:16-04:00</created-at>
+          <title>Smith: I'm not planning to run for office</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...not his agenda. &quot;The marvel of America is pluralism and tolerance.&quot; He said he continues to see his former colleague, Democratic Sen. Ron Wyden. He declined to critique his successor's term in office. &quot;I owe Jeff my silence and best wishes,&quot; Smith said.</excerpt>
+          <fti-names>'agenda':12 'albani':54 'america':16 'best':50 'colleagu':29 'continu':24 'critiqu':37 'declin':35 'democrat':30,56 'democrat-herald':55 'former':28 'herald':57 'jeff':46 'm':3 'marvel':14 'offic':9,43 'owe':45 'plan':5 'plural':18 'ron':32 'run':7 'said':22,53 'see':26 'sen':31 'silenc':48 'smith':1,52 'successor':39 'term':41 'toler':20 'wish':51 'wyden':33</fti-names>
+          <source-url>http://www.democratherald.com/</source-url>
+          <url>http://democratherald.com/news/state-and-regional/smith-i-m-not-planning-to-run-for-office/article_bd9521b1-78c6-576d-9a1c-c4360a83ceba.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973913</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Albany Democrat-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:16:58-04:00</created-at>
+          <title>Where the Tea Party is right, and wrong, about tech policy</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...modes of delivering content. If the recently defeated Cybersecurity Act of 2012 really was problematic privacy-wise, as even Sen. Ron Wyden (D-OR) thinks it was, Paul was right to vote against it. He&#8217;s also right to stand up for consumer rights, claim</excerpt>
+          <fti-names>'2012':23 'act':21 'also':50 'claim':58 'consum':56 'content':15 'cybersecur':20 'd':36 'd-or':35 'defeat':19 'deliv':14 'even':31 'gigaom':59 'mode':12 'parti':4 'paul':41 'polici':11 'privaci':28 'privacy-wis':27 'problemat':26 'realli':24 'recent':18 'right':6,43,51,57 'ron':33 'sen':32 'stand':53 'tea':3 'tech':10 'think':38 'vote':45 'wise':29 'wrong':8 'wyden':34</fti-names>
+          <source-url>http://gigaom.com/</source-url>
+          <url>http://feedproxy.google.com/~r/OmMalik/~3/ks7uPtqTUac/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973258</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GigaOM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:09:17-04:00</created-at>
+          <title>Electric Bike $2500 Tax Credit Extension Approved By Senate Finance Committee</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Aug. 2, the panel approved bipartisan legislation extending dozens of tax breaks, including language offered by U.S. Sen. Ron Wyden (D-Ore.) to preserve the tax credit for buying electric motorcycles designed for the street. &quot;Right now, companies like [</excerpt>
+          <fti-names>'2':13 '2500':3 'approv':7,16 'aug':12 'bike':2 'bipartisan':17 'break':23 'buy':41 'committe':11 'compani':50 'credit':5,39 'd':33 'd-ore':32 'design':44 'dozen':20 'electr':1,42 'extend':19 'extens':6 'financ':10 'includ':24 'languag':25 'legisl':18 'like':51 'motorcycl':43 'offer':26 'ore':34 'panel':15 'preserv':36 'race':53 'right':48 'road':52 'ron':30 'sen':29 'senat':9 'street':47 'tax':4,22,38 'u.s':28 'world':54 'wyden':31</fti-names>
+          <source-url>http://www.roadracingworld.com/</source-url>
+          <url>http://www.roadracingworld.com/news/article/?lnk=rss&amp;article=49263</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973916</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Road Racing World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:17:01-04:00</created-at>
+          <title>President Obama's Store Sells Hemp from Communist China While Hemp Farming in America Remains Criminalized</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...farmers to grow it right at home! While Obama leaves U.S. farmers to be crushed under agricultural bankruptcy, U.S. Senator Ron Wyden is actually trying to do something to restore economic abundance to America's farmers. He, along with U.S. Sen. Rand Pa</excerpt>
+          <fti-names>'abund':48 'actual':40 'agricultur':33 'along':54 'america':14,50 'bankruptci':34 'busi':61 'china':9 'communist':8 'crimin':16 'crush':31 'econom':47 'farm':12 'farmer':17,28,52 'grow':19 'hemp':6,11 'home':23 'intern':60 'leav':26 'obama':2,25 'pa':59 'presid':1 'rand':58 'remain':15 'restor':46 'right':21 'ron':37 'sell':5 'sen':57 'senat':36 'someth':44 'store':4 'time':62 'tri':41 'u.s':27,35,56 'wyden':38</fti-names>
+          <source-url>http://www.ibtimes.com/</source-url>
+          <url>http://www.ibtimes.com/articles/370570/20120806/president-obama-s-store-sells-hemp-communist.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973262</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>International Business Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:17:01-04:00</created-at>
+          <title>Wind energy, NASCAR, and plug-in golf carts</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...back the tax credit for wind production and a tax break for builders of NASCAR tracks and other motorsports facilities. &quot;Sen. Ron Wyden, D-Ore., a longtime sponsor of tax reform, won a committee vote to revive a tax break for plug-in motorcycles and gol</excerpt>
+          <fti-names>'back':10 'break':20,50 'builder':22 'cart':9 'committe':44 'credit':13 'd':34 'd-ore':33 'energi':2 'facil':29 'gol':57 'golf':8 'journal':62 'las':58 'longtim':37 'lvrj.com':63 'motorcycl':55 'motorsport':28 'nascar':3,24 'ore':35 'plug':6,53 'plug-in':5,52 'product':16 'reform':41 'review':61 'review-journ':60 'reviv':47 'ron':31 'sen':30 'sponsor':38 'tax':12,19,40,49 'track':25 'vega':59 'vote':45 'wind':1,15 'won':42 'wyden':32</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192642&amp;44=165105676&amp;32=4051&amp;7=206636&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fopinion%2Fwind-energy-nascar-and-plug-in-golf-carts-165105676.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973261</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:17:01-04:00</created-at>
+          <title>Electric Motorcycle Tax Credit May Be Extended</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...On Aug. 2, the panel approved bipartisan legislation extending dozens of tax breaks, including language offered by U.S. Sen. Ron Wyden (D-Ore.) to preserve the tax credit for buying electric motorcycles designed for the street. &quot;Right now, companies lik</excerpt>
+          <fti-names>'2':10 'approv':13 'aug':9 'bipartisan':14 'break':20 'buy':38 'compani':47 'credit':4,36 'd':30 'd-ore':29 'design':41 'dozen':17 'electr':1,39 'extend':7,16 'includ':21 'languag':22 'legisl':15 'lik':48 'may':5 'motorcycl':2,40 'offer':23 'ore':31 'panel':12 'preserv':33 'rider':50 'right':45 'ron':27 'sen':26 'sport':49 'street':44 'tax':3,19,35 'u.s':25 'wyden':28</fti-names>
+          <source-url>http://www.sportrider.com/</source-url>
+          <url>http://www.sportrider.com/industry_news/146_1208_electric_motorcycle_tax_credit_may_be_extended/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973260</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Sport Rider</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:17:01-04:00</created-at>
+          <title>Murkowski, Hoeven tour Alaska, press for expanded drilling</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Murkowski to discuss the need of more Coast Guard personnel to monitor drilling operations. Murkowski hopes to pencil in Sen. Ron Wyden (D-Ore.) for a trip to her home state, as well. Wyden is likely first in line to receive the committee gavel if Democ</excerpt>
+          <fti-names>'alaska':4 'coast':16 'committe':52 'd':32 'd-ore':31 'democ':55 'discuss':11 'drill':8,21 'expand':7 'first':46 'gavel':53 'guard':17 'hill':57 'hoeven':2 'home':39 'hope':24 'like':45 'line':48 'monitor':20 'murkowski':1,9,23 'need':13 'oper':22 'ore':33 'pencil':26 'personnel':18 'press':5 'receiv':50 'ron':29 'sen':28 'state':40 'tour':3 'trip':36 'well':42 'wyden':30,43</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/242309-murkowski-hosts-hoeven-as-senators-call-for-more-alaskan-drilling</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973259</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:04:24-04:00</created-at>
+          <title>UAB, Congressman Bachus raising palliative care's profile on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the House Financial Services Committee, calls for a national summit and report on the industry. A second bill from Sen. Ron Wyden, D-Ore., would address the shortfall in palliative care providers by financing more palliative care training in medical </excerpt>
+          <fti-names>'address':39 'alabama':55 'bachus':3 'bill':30 'call':18 'capitol':10 'care':6,44,50 'committe':17 'congressman':2 'd':36 'd-ore':35 'everyth':54 'financ':47 'financi':15 'hill':11 'hous':14 'industri':27 'medic':53 'nation':21 'ore':37 'palliat':5,43,49 'profil':8 'provid':45 'rais':4 'report':24 'ron':33 'second':29 'sen':32 'servic':16 'shortfal':41 'summit':22 'train':51 'uab':1 'would':38 'wyden':34</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/sweethome/2012/08/uab_congressman_bachus_raising.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972674</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <fax>202-228-2717</fax>
+      <name>Sen. Ron Wyden [D, OR]</name>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:29-04:00</created-at>
+          <title>As the Senate digs into cybersecurity legislation, the amendment ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Patrick Leahy wishes for it to be criminal to not disclose data breaches, and Sen. Ron Wyden wants it to be a requirement that a warrant must be issued before the government can snag GPS data from consumer electronic ...</excerpt>
+          <fti-names>'alex':49 'amend':9 'breach':22 'consum':47 'crimin':17 'cybersecur':6 'data':21,45 'dig':4 'disclos':20 'electron':48 'govern':41 'gps':44 'issu':38 'leahi':11 'legisl':7 'must':36 'patrick':10 'requir':32 'ron':25 'sen':24 'senat':3 'snag':43 'want':27 'warrant':35 'wilhelm':50 'wish':12 'wyden':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://startuphood.com/2012/07/29/as-the-senate-digs-into-cybersecurity-legislation-the-amendment-haggling-begins/&amp;sa=U&amp;ei=QnsXUMTwGoWA9gS_qoH4CA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNE8zeeWyDZ3k20G7UdkkoSRRm0FLQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963216</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alex Wilhelm</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:28-04:00</created-at>
+          <title>Senator wants to require warrant for GPS tracking in cybersecurity ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Sen. Ron Wyden (D-Ore.) plans to offer an amendment to cybersecurity legislation that would require law enforcement officials to procure a warrant before obtaining location data from a person&amp;#39;s cell phone, laptop or other ...</excerpt>
+          <fti-names>'amend':21 'cell':43 'cybersecur':10,23 'd':15 'd-ore':14 'data':38 'dissent':48 'enforc':29 'gps':7 'laptop':45 'law':28 'legisl':24 'locat':37 'obtain':36 'offer':19 'offici':30 'ore':16 'person':41 'phone':44 'plan':17 'procur':32 'requir':4,27 'ron':12 'sen':11 'senat':1 'track':8 'want':2 'warrant':5,34 'would':26 'wyden':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.pogowasright.org/%3Fp%3D29561&amp;sa=U&amp;ei=QnsXUMTwGoWA9gS_qoH4CA&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGXnySMjS9Q47DlgEN-9YG6jngyIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963215</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dissent</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:28-04:00</created-at>
+          <title>U.S. Senate to debate Cybersecurity, GPS legislation this week ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Last summer, Oregon Democratic Senator Ron Wyden and Utah Republican Congressman Jason Chaffetz introduced a bipartisan bill titled the Geolocation Privacy and Surveillance (GPS) Act, a piece of legislation that would ...</excerpt>
+          <fti-names>'act':34 'admin':41 'bill':26 'bipartisan':25 'chaffetz':22 'congressman':20 'cybersecur':5 'debat':4 'democrat':13 'geoloc':29 'gps':6,33 'introduc':23 'jason':21 'last':10 'legisl':7,38 'oregon':12 'piec':36 'privaci':30 'republican':19 'ron':15 'senat':2,14 'summer':11 'surveil':32 'titl':27 'u.s':1 'utah':18 'week':9 'would':40 'wyden':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/or-moc/ron-wyden-oregon-senator/u-s-senate-to-debate-cybersecurity-gps-legislation-this-week-examiner-com/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Du-s-senate-to-debate-cybersecurity-gps-legislation-this-week-examiner-com&amp;sa=U&amp;ei=QnsXUMTwGoWA9gS_qoH4CA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNE0_BW-EW6Luohe6MGh7S_rodB2rg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963213</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:27-04:00</created-at>
+          <title>U.S. Senator to introduce GPS Act amendment to Cybersecurity Act</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Last summer, Oregon Democratic Senator Ron Wyden and Utah Republican Congressman Jason Chaffetz introduced a bipartisan bill titled the Geolocation Privacy and Surveillance (GPS) Act, a piece of legislation that would ...</excerpt>
+          <fti-names>'/rss/?feed=top_news':44 'act':6,10,35 'amend':7 'bill':27 'bipartisan':26 'chaffetz':23 'congressman':21 'cybersecur':9 'democrat':14 'geoloc':30 'gps':5,34 'introduc':4,24 'jason':22 'last':11 'legisl':39 'oregon':13 'piec':37 'privaci':31 'republican':20 'ron':16 'senat':2,15 'summer':12 'surveil':33 'titl':28 'u.s':1 'utah':19 'would':41 'www.digitaljournal.com':43 'www.digitaljournal.com/rss/?feed=top_news':42 'wyden':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.digitaljournal.com/article/329671&amp;sa=U&amp;ei=QnsXUMTwGoWA9gS_qoH4CA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEmhjrWV1DAlqSc0xk7mKz29yOfbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963211</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.digitaljournal.com/rss/?feed=top_news</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:29:26-04:00</created-at>
+          <title>The Cybersecurity Act Of 2012 Goes Up For Debate In The Senate ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>One of the major champions of Internet freedom, Sen. Ron Wyden, plans to introduce an amendment into the CSA tomorrow that would prevent warrantless GPS tracking. According to The Hill, Wyden feels it&amp;#39;s a natural fit with ...</excerpt>
+          <fti-names>'2012':5 'accord':39 'act':3 'amend':28 'champion':17 'csa':31 'cybersecur':2 'debat':9 'feel':44 'fit':49 'freedom':20 'goe':6 'gps':37 'hill':42 'internet':19 'introduc':26 'major':16 'natur':48 'one':13 'plan':24 'prevent':35 'ron':22 'sen':21 'senat':12 'tomorrow':32 'track':38 'walton':52 'warrantless':36 'would':34 'wyden':23,43 'zach':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.webpronews.com/the-cybersecurity-act-of-2012-goes-up-for-debate-in-the-senate-tomorrow-2012-07&amp;sa=U&amp;ei=QnsXUMTwGoWA9gS_qoH4CA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFHbpCEt7BHI26fMcso-1HBgtAVDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16963210</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Zach Walton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:06:12-04:00</created-at>
+          <title>Springhill Group Medical Fraud Seoul Korea: Obama And Health ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>More bluntly, the co-sponsor of the amendment, along with Sen. Ron Wyden (D-Ore.), is Sen. Scott Brown, a Massachusetts Republican who happens to share a senior adviser with Romney. When top Obama administration ...</excerpt>
+          <fti-names>'administr':46 'advis':40 'along':19 'amend':18 'blunt':11 'brown':30 'co':14 'co-sponsor':13 'd':25 'd-ore':24 'fraud':4 'group':2 'happen':35 'health':9 'imelbert':47 'korea':6 'massachusett':32 'medic':3 'obama':7,45 'ore':26 'republican':33 'romney':42 'ron':22 'scott':29 'sen':21,28 'senior':39 'seoul':5 'share':37 'sponsor':15 'springhil':1 'top':44 'wyden':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://a.know-how.fc2.com/en/23952/&amp;sa=U&amp;ei=xZQWUMLrB4rM9QS69YGQBw&amp;ved=0CE8QmAEwDA&amp;usg=AFQjCNF7kOsBxGV2eP5pCWiPx-d5KxAT2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953159</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>imelbert</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:06:08-04:00</created-at>
+          <title>Real Think Tank: Congress ignores the Bill of Rights - insanity</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Bills by both Democrat Ron Wyden and Republican Rand Paul are ignored. Creating a Big Government Police State is totally bi-partisan. Fighting an up-hill battle for the Constitution, this week Senator Ron Wyden (D-Ore.) ...</excerpt>
+          <fti-names>'battl':39 'bi':32 'bi-partisan':31 'big':25 'bill':7,11 'christensen':52 'congress':4 'constitut':42 'creat':23 'd':49 'd-ore':48 'democrat':14 'fight':34 'govern':26 'hill':38 'ignor':5,22 'insan':10 'jame':51 'ore':50 'partisan':33 'paul':20 'polic':27 'rand':19 'real':1 'republican':18 'right':9 'ron':15,46 'senat':45 'state':28 'tank':3 'think':2 'total':30 'up-hil':36 'week':44 'wyden':16,47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.realthinktank.com/2012/07/congress-ignores-bill-of-rights-insanity.html&amp;sa=U&amp;ei=xZQWUMLrB4rM9QS69YGQBw&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNGGctbA2wSO3QjL2X2_On3Mp5ql8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16953154</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>James Christensen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:06:10-04:00</created-at>
+          <title>U.S Surveillance Law Questioned | National News | United States ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Senator Ron Wyden (D-Ore.) says that Congress and the American people know too little of the extent to which U.S. citizens&amp;#39; private conversations and e-mails are being captured by intelligence agencies as incidental data.</excerpt>
+          <fti-names>'agenc':43 'american':20 'captur':40 'citizen':31 'congress':17 'convers':33 'd':13 'd-ore':12 'data':46 'e':36 'e-mail':35 'epoch':47 'extent':27 'incident':45 'intellig':42 'know':22 'law':3 'littl':24 'mail':37 'nation':5 'news':6 'ore':14 'peopl':21 'privat':32 'question':4 'ron':10 'say':15 'senat':9 'state':8 'surveil':2 'time':48 'u.s':1,30 'unit':7 'wyden':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theepochtimes.com/n2/united-states/u-s-surveillance-law-questioned-271935.html&amp;sa=U&amp;ei=xZQWUMLrB4rM9QS69YGQBw&amp;ved=0CEYQmAEwCg&amp;usg=AFQjCNHtZp5042umcWRGFIXpvOn29D9b4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16953157</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Epoch Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:06:09-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor:THE LEADER&amp;#39;S ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Donna Christensen / Natural Resources Committee) 10) S. 270 - La Pine Land Conveyance Act (Sponsored by Sen. Ron Wyden / Natural Resources Committee) 11) S. 271 - Wallowa Forest Service Compound Conveyance ...</excerpt>
+          <fti-names>'10':15 '11':31 '270':17 '271':33 'act':22 'american':1 'barbara':4,39 'cantor':6 'christensen':11 'committe':14,30 'compound':37 'convey':21,38 'donna':10 'eric':5 'forest':35 'freedom':2 'la':18 'land':20 'leader':8 'natur':12,28 'pine':19 'resourc':13,29 'ron':26 'sen':25 'servic':36 'sponsor':23 'wallowa':34 'wyden':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantorthe-leaders-weekly-schedule.html&amp;sa=U&amp;ei=xZQWUMLrB4rM9QS69YGQBw&amp;ved=0CEIQmAEwCQ&amp;usg=AFQjCNE3XpX7G7CKYPFPMME2XKaLtzoSiA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16953156</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300100</commentariable-id>
+          <created-at type="datetime">2012-07-30T10:06:06-04:00</created-at>
+          <title>As the Senate digs into cybersecurity legislation, the amendment ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Patrick Leahy wishes for it to be criminal to not disclose data breaches, and Sen. Ron Wyden wants it to be a requirement that a warrant must be issued before the government can snag GPS data from consumer electronic ...</excerpt>
+          <fti-names>'alex':49 'amend':9 'breach':22 'consum':47 'crimin':17 'cybersecur':6 'data':21,45 'dig':4 'disclos':20 'electron':48 'govern':41 'gps':44 'issu':38 'leahi':11 'legisl':7 'must':36 'patrick':10 'requir':32 'ron':25 'sen':24 'senat':3 'snag':43 'want':27 'warrant':35 'wilhelm':50 'wish':12 'wyden':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://startuphood.com/2012/07/29/as-the-senate-digs-into-cybersecurity-legislation-the-amendment-haggling-begins/&amp;sa=U&amp;ei=xZQWUMLrB4rM9QS69YGQBw&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNEOFfXH7lnDVDvEjM_SvbMlVzwn8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16953152</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alex Wilhelm</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">35022</page-views-count>
+      <watchdog-id nil="true"></watchdog-id>
+      <unaccented-name>Ron Wyden</unaccented-name>
+      <oc-user-comments type="integer">18</oc-user-comments>
+    </person>
+  </people>
+</hash>

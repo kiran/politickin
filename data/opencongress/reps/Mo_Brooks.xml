@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.9145699239321</party-votes-percentage>
+        <abstains-percentage type="float">0.58173356602676</abstains-percentage>
+        <votes-most-often-with-id type="integer">412411</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">10</abstains>
+        <cosponsored-bills type="integer">241</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">3</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412395</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1605</votes-republican-position>
+      <fax>202-225-4392</fax>
+      <blog-article-count type="integer">3160</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">30</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <bioguide-id>B001274</bioguide-id>
+      <with-party-percentage type="float">93.9145699239321</with-party-percentage>
+      <lastname>Brooks</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1641 Longworth House Office Building</congress-office>
+      <firstname>Mo</firstname>
+      <website>http://brooks.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1954-04-29</birthday>
+      <person-id type="integer">412395</person-id>
+      <phone>202-225-4801</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">368</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:33:21-04:00</created-at>
+          <title>Congressman Mo Brooks says U.S. faces 'pay the piper' moment over runaway federal deficit</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Alabama -- Speaking to a group of home health care workers on Tuesday, U.S. Rep. Mo Brooks used a medical term to describe his approach to dealing with the ballooning federal deficit. &quot;We're having to conduct triage to try to save the patient at the exp</excerpt>
+          <fti-names>'alabama':15,62 'approach':38 'balloon':43 'brook':3,30 'care':23 'conduct':50 'congressman':1 'deal':40 'deficit':14,45 'describ':36 'everyth':61 'exp':60 'face':6 'feder':13,44 'group':19 'health':22 'home':21 'medic':33 'mo':2,29 'moment':10 'patient':57 'pay':7 'piper':9 're':47 'rep':28 'runaway':12 'save':55 'say':4 'speak':16 'term':34 'tri':53 'triag':51 'tuesday':26 'u.s':5,27 'use':31 'worker':24</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/breaking/2012/08/congressman_mo_brooks_says_us.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973322</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:32:32-04:00</created-at>
+          <title>Class helps Redstone Arsenal soldiers, Huntsville police work together</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...key for the groups. &quot;I've seen Mayor (Tommy) Battle over there (Arsenal) all the time,&quot; Palmer said. &quot;I've also seen (U.S. Rep.) Mo Brooks. The interface between Huntsville officials and Arsenal officials is great. I've been to a lot of places and you d</excerpt>
+          <fti-names>'alabama':58 'also':30 'arsenal':4,22,42 'battl':19 'brook':35 'class':1 'd':56 'everyth':57 'great':45 'group':13 'help':2 'huntsvill':6,39 'interfac':37 'key':10 'lot':51 'mayor':17 'mo':34 'offici':40,43 'palmer':26 'place':53 'polic':7 'redston':3 'rep':33 'said':27 'seen':16,31 'soldier':5 'time':25 'togeth':9 'tommi':18 'u.s':32 've':15,29,47 'work':8</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/breaking/2012/08/class_helps_redstone_arsenal_s.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972135</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:48:04-04:00</created-at>
+          <title>U.S. House passes short-term drought assistance for certain farmers</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...September. It passed the U.S. House by a vote of 223-197. Six of Alabama's seven members of the U.S. House voted for it; Rep. Mo Brooks, R-Huntsville, was opposed. The Senate is not expected to vote on it before the August recess. The bill is aimed most</excerpt>
+          <fti-names>'-197':23 '223':22 'aim':61 'alabama':26,64 'assist':8 'august':56 'bill':59 'brook':39 'certain':10 'drought':7 'everyth':63 'expect':49 'farmer':11 'hous':2,17,33 'huntsvill':42 'member':29 'mo':38 'oppos':44 'pass':3,14 'r':41 'r-huntsvill':40 'recess':57 'rep':37 'senat':46 'septemb':12 'seven':28 'short':5 'short-term':4 'six':24 'term':6 'u.s':1,16,32 'vote':20,34,51</fti-names>
+          <source-url>http://www.al.com/</source-url>
+          <url>http://blog.al.com/sweethome/2012/08/us_house_passes_short-term_dro.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970449</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:48:00-04:00</created-at>
+          <title>Airport screeners closer to having collective bargaining agreement</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...At a 2010 House hearing, one lawmaker pressed Pistole on the issue. &quot;I'm trying to get a clear 'Yes' or 'No' answer from you,&quot; Rep. Mo Brooks of Alabama said to Pistole. &quot;If (screeners) engage in a work stoppage or slowdown, or should they engage in a s</excerpt>
+          <fti-names>'2010':11 'agreement':8 'airport':1 'alabama':38 'answer':31 'bargain':7 'brook':36 'clear':27 'closer':3 'cnn':58 'collect':6 'engag':44,54 'get':25 'hear':13 'hous':12 'issu':20 'lawmak':15 'm':22 'mo':35 'one':14 'pistol':17,41 'press':16 'rep':34 'said':39 'screener':2,43 'slowdown':50 'stoppag':48 'tri':23 'work':47 'yes':28</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://rss.cnn.com/~r/rss/cnn_latest/~3/L3CsoO5WNlM/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970448</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:07-04:00</created-at>
+          <title>Democrat Charlie Holley criticizes incumbent U.S. Rep. Mo Brooks' failure to sponsor more legislation</title>
+          <contains-term>congress</contains-term>
+          <excerpt>HUNTSVILLE, Alabama -- Democratic 5th District Congressional candidate Charlie Holley today took aim at incumbent U.S. Rep. Mo. Brooks, R-Huntsville, record in Washington, saying Brooks' legislative performance is not helping North Alabama.</excerpt>
+          <fti-names>'5th':18 'aim':26 'alabama':16,47,49 'blog':50 'brook':9,32,40 'candid':21 'charli':2,22 'congression':20 'critic':4 'democrat':1,17 'district':19 'everyth':48 'failur':10 'help':45 'holley':3,23 'huntsvill':15,35 'incumb':5,28 'legisl':14,41 'mo':8,31 'north':46 'perform':42 'r':34 'r-huntsvill':33 'record':36 'rep':7,30 'say':39 'sponsor':12 'today':24 'took':25 'u.s':6,29 'washington':38</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.al.com/breaking/2012/07/democrat_charlie_holley_critic.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T14:04:59-04:00</date>
+          <id type="integer">16966102</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Everything Alabama Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:08-04:00</created-at>
+          <title>Gov. Bentley announces County Line Road, others to receive major overhauls</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Former Madison County Commissioner Mo Brooks, who now serves as a U.S. Congressman in the ... Governor Kay Ivey, who serves on the ATRIP Advisory Committee with Rep. Mac McCutcheon and State Sen. Paul Bussman, R-Cullman. &#8220; &#8230;&#160; I believe this ...</excerpt>
+          <fti-names>'advisori':35 'announc':3 'atrip':34 'believ':50 'bentley':2 'brook':17 'bussman':45 'commission':15 'committe':36 'congressman':24 'counti':4,14 'courier':54 'cullman':48 'former':12 'gov':1 'governor':27 'ivey':29 'kay':28 'line':5 'mac':39 'madison':13 'major':10 'mccutcheon':40 'mo':16 'news':53 'news-couri':52 'other':7 'overhaul':11 'paul':44 'r':47 'r-cullman':46 'receiv':9 'rep':38 'road':6 'sen':43 'serv':20,31 'state':42 'u.s':23</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://enewscourier.com/x1923090916/Gov-Bentley-announces-County-Line-Road-others-to-receive-major-overhauls</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T02:59:16-04:00</date>
+          <id type="integer">16966103</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>News-Courier</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:36:29-04:00</created-at>
+          <title>Score card for Alabama representatives 112th Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Mo Brooks was the lone voice of reason voting against wasting our tax dollars. 4) House Joint Resolution 98; to disapprove of President Obama's request to raise the debt ceiling $1.2 trillion. It passed the House on January 18, 2012 by a ...</excerpt>
+          <fti-names>'1.2':40 '112th':6 '18':48 '2012':49 '4':23 '98':27 'alabama':4 'brook':10 'card':2 'ceil':39 'congress':7 'debt':38 'disapprov':29 'dollar':22 'examin':52 'hous':24,45 'januari':47 'joint':25 'lone':13 'mo':9 'obama':32 'pass':43 'presid':31 'rais':36 'reason':16 'rep':8 'repres':5 'request':34 'resolut':26 'score':1 'tax':21 'trillion':41 'voic':14 'vote':17 'wast':19</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.examiner.com/article/score-card-for-alabama-representatives-112th-congress</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16920100</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Examiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:35-04:00</created-at>
+          <title>Congressional incumbents outraise challengers 100 to 1</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Robert Aderholt, R-Haleyville: $962,041; Democrat Daniel Boman: Less than $5,000. Rep. Mo Brooks, R-Huntsville: $655,959; Democrat Charlie Holley: $28,255. Rep. Spencer Bachus, R-Westavia Hills: $2.37 million; Democrat Penny Bailey: $10,243.</excerpt>
+          <fti-names>'000':22 '041':15 '1':7 '10':48 '100':5 '2.37':43 '243':49 '255':35 '28':34 '5':21 '655':29 '959':30 '962':14 'aderholt':10 'advertis':51 'bachus':38 'bailey':47 'boman':18 'brook':25 'challeng':4 'charli':32 'congression':1 'daniel':17 'democrat':16,31,45 'haleyvill':13 'hill':42 'holley':33 'huntsvill':28 'incumb':2 'less':19 'million':44 'mo':24 'montgomeri':50 'outrais':3 'penni':46 'r':12,27,40 'r-haleyvill':11 'r-huntsvill':26 'r-westavia':39 'rep':8,23,36 'robert':9 'spencer':37 'westavia':41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.montgomeryadvertiser.com/apps/pbcs.dll/article?AID=2012307220012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T07:49:07-04:00</date>
+          <id type="integer">16945350</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Montgomery Advertiser</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-22T22:48:43-04:00</created-at>
+          <title>Congressional incumbents outraise challengers 100 to 1</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Robert Aderholt, R-Haleyville: $962,041; Democrat Daniel Boman: Less than $5,000. Rep. Mo Brooks, R-Huntsville: $655,959; Democrat Charlie Holley: $28,255. Rep. Spencer Bachus, R-Westavia Hills: $2.37 million; Democrat Penny Bailey ...</excerpt>
+          <fti-names>'000':22 '041':15 '1':7 '100':5 '2.37':43 '255':35 '28':34 '5':21 '655':29 '959':30 '962':14 'aderholt':10 'advertis':49 'bachus':38 'bailey':47 'boman':18 'brook':25 'challeng':4 'charli':32 'congression':1 'daniel':17 'democrat':16,31,45 'haleyvill':13 'hill':42 'holley':33 'huntsvill':28 'incumb':2 'less':19 'million':44 'mo':24 'montgomeri':48 'outrais':3 'penni':46 'r':12,27,40 'r-haleyvill':11 'r-huntsvill':26 'r-westavia':39 'rep':8,23,36 'robert':9 'spencer':37 'westavia':41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.montgomeryadvertiser.com/article/20120722/NEWS02/307220012/-1/7daysarchives/Cash-gap-hurts-challengers</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-22T06:59:00-04:00</date>
+          <id type="integer">16812013</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Montgomery Advertiser</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-20T22:38:53-04:00</created-at>
+          <title>AIP FYI #102: Subcommittee Examines NASA Derived Technology Transfer Activities</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Mo Brooks (R-AL) asked about NASA's engagement with the entrepreneurial community. Rep. Rep. Hansen Clarke (D-MI) was extremely interested in learning more about how to leverage NASA spinoff technologies in Detroit in order to create jobs. Clarke ...</excerpt>
+          <fti-names>'102':3 'activ':10 'aip':1 'al':16 'ask':17 'brook':13 'clark':29,53 'communiti':25 'creat':51 'd':31 'd-mi':30 'deriv':7 'detroit':47 'engag':21 'entrepreneuri':24 'examin':5 'extrem':34 'fyi':2 'hansen':28 'interest':35 'job':52 'learn':37 'leverag':42 'mi':32 'mo':12 'nasa':6,19,43 'order':49 'r':15 'r-al':14 'rep':11,26,27 'spaceref':54 'spinoff':44 'subcommitte':4 'technolog':8,45 'transfer':9</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.spaceref.com/news/viewsr.html?pid=41422</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T18:21:25-04:00</date>
+          <id type="integer">16777558</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>SpaceRef</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Mo Brooks [R, AL-5]</name>
+      <total-session-votes type="integer">1709</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepMoBrooks</youtube-id>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:29-04:00</created-at>
+          <title>Alabama Republicans in Congress renew vow to repeal Affordable ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Today&amp;#39;s Supreme Court decision is a heavy boot on the throat of that liberty,&amp;quot; said Rep. Mo Brooks, R-Huntsville. &amp;quot;Just as America is paying a severe economic and freedom price for its mistakes in the 2008 elections, American ...</excerpt>
+          <fti-names>'2008':48 'admin':51 'afford':9 'alabama':1 'america':34 'american':50 'boot':18 'brook':28 'congress':4 'court':13 'decis':14 'econom':39 'elect':49 'freedom':41 'heavi':17 'huntsvill':31 'liberti':24 'mistak':45 'mo':27 'pay':36 'price':42 'r':30 'r-huntsvill':29 'renew':5 'rep':26 'repeal':8 'republican':2 'said':25 'sever':38 'suprem':12 'throat':21 'today':10 'vow':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/al-moc/mo-brooks-alabama-representative/alabama-republicans-in-congress-renew-vow-to-repeal-affordable-care-act-the-birmingham-news-al-com-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dalabama-republicans-in-congress-renew-vow-to-repeal-affordable-care-act-the-birmingham-news-al-com-blog&amp;sa=U&amp;ei=E6MUUI3zBIe29QSCx4CABQ&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNFJAzTtsmDy5TTYY-pcaFhQj9CDcw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928953</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:27-04:00</created-at>
+          <title>Left In Alabama:: Look Out! There&amp;#39;s a New Satirist In Town</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rocket City&amp;#39;s own Rep. Mo Brooks (R Al), gamely stepped forward to say, &#8220;We don&amp;#39;t need gloves. I&amp;#39;ve done it. Saves even more&#8221;, but the remark elicited only scattered applause. In fact, some in the House were vocal in their ...</excerpt>
+          <fti-names>'al':21 'alabama':3 'applaus':45 'brook':19 'citi':14 'done':34 'elicit':42 'even':37 'fact':47 'forward':24 'game':22 'glove':31 'hous':51 'left':1 'look':4 'mo':18 'mooncat':56 'need':30 'new':9 'r':20 'remark':41 'rep':17 'rocket':13 'satirist':10 'save':36 'say':26 'scatter':44 'step':23 'town':12 've':33 'vocal':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.leftinalabama.com/diary/9904/look-out-theres-a-new-satirist-in-town&amp;sa=U&amp;ei=GPsVUJS5Ho2E8ATwzIH4DA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNGac7klYev5BwekGIeDceCEuDfCOg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16945343</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mooncat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:29-04:00</created-at>
+          <title>Left In Alabama:: Look Out! There&amp;#39;s a New Satirist In Town</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rocket City&amp;#39;s own Rep. Mo Brooks (R Al), gamely stepped forward to say, &#8220;We don&amp;#39;t need gloves. I&amp;#39;ve done it. Saves even more&#8221;, but the remark elicited only scattered applause. In fact, some in the House were vocal in their ...</excerpt>
+          <fti-names>'al':21 'alabama':3 'applaus':45 'brook':19 'citi':14 'done':34 'elicit':42 'even':37 'fact':47 'forward':24 'game':22 'glove':31 'hous':51 'left':1 'look':4 'mo':18 'mooncat':56 'need':30 'new':9 'r':20 'remark':41 'rep':17 'rocket':13 'satirist':10 'save':36 'say':26 'scatter':44 'step':23 'town':12 've':33 'vocal':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.leftinalabama.com/diary/9904/look-out-theres-a-new-satirist-in-town&amp;sa=U&amp;ei=E6MUUI3zBIe29QSCx4CABQ&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNGzLI29LxGRJJafYQ1a0qtAe4jF6A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16928955</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mooncat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:36:21-04:00</created-at>
+          <title>Left In Alabama:: Look Out! There&amp;#39;s a New Satirist In Town</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rocket City&amp;#39;s own Rep. Mo Brooks (R Al), gamely stepped forward to say, &#8220;We don&amp;#39;t need gloves. I&amp;#39;ve done it. Saves even more&#8221;, but the remark elicited only scattered applause. In fact, some in the House were vocal in their ...</excerpt>
+          <fti-names>'al':21 'alabama':3 'applaus':45 'brook':19 'citi':14 'done':34 'elicit':42 'even':37 'fact':47 'forward':24 'game':22 'glove':31 'hous':51 'left':1 'look':4 'mo':18 'mooncat':56 'need':30 'new':9 'r':20 'remark':41 'rep':17 'rocket':13 'satirist':10 'save':36 'say':26 'scatter':44 'step':23 'town':12 've':33 'vocal':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.leftinalabama.com/diary/9904/look-out-theres-a-new-satirist-in-town&amp;sa=U&amp;ei=JVATUIJDiODRAd__gegI&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNFOderObRmm_HnJAuxB5eKZ6JTuVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920088</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mooncat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:35:57-04:00</created-at>
+          <title>Left In Alabama:: Look Out! There&amp;#39;s a New Satirist In Town</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rocket City&amp;#39;s own Rep. Mo Brooks (R Al), gamely stepped forward to say, &#8220;We don&amp;#39;t need gloves. I&amp;#39;ve done it. Saves even more&#8221;, but the remark elicited only scattered applause. In fact, some in the House were vocal in their ...</excerpt>
+          <fti-names>'al':21 'alabama':3 'applaus':45 'brook':19 'citi':14 'done':34 'elicit':42 'even':37 'fact':47 'forward':24 'game':22 'glove':31 'hous':51 'left':1 'look':4 'mo':18 'mooncat':56 'need':30 'new':9 'r':20 'remark':41 'rep':17 'rocket':13 'satirist':10 'save':36 'say':26 'scatter':44 'step':23 'town':12 've':33 'vocal':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.leftinalabama.com/diary/9904/look-out-theres-a-new-satirist-in-town&amp;sa=U&amp;ei=i_4RULL7NYim8gTksYGoCA&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNExZ1-ppP9swu_eEZXXDYFYPE_32Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16888400</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mooncat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:24-04:00</created-at>
+          <title>Left In Alabama:: Republican Congress Burned $1.3 Billion In Debt ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressional Republicans like my own representative, Mo Brooks, love to rail against the national debt. Last year they put on a big show of refusing to raise the debt ceiling. At the time, Brooks even asserted that the debt ...</excerpt>
+          <fti-names>'1.3':7 'alabama':3 'assert':46 'big':32 'billion':8 'brook':18,44 'burn':6 'ceil':40 'congress':5 'congression':11 'debt':10,25,39,49 'even':45 'last':26 'left':1 'like':13 'love':19 'mo':17 'mooncat':50 'nation':24 'put':29 'rail':21 'rais':37 'refus':35 'repres':16 'republican':4,12 'show':33 'time':43 'year':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.leftinalabama.com/diary/9897/republican-congress-burned-13-billion-in-debt-ceiling-theater&amp;sa=U&amp;ei=p0QXUPOYGoXg0gG2uoDoCQ&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFh05_ySyIGzCGrzk_qLBeLsWt-7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16959509</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mooncat</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:29-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Dan Boren (OK Democrat), No. Rep. Charles Boustany (LA Republican), No. Rep. Kevin Brady (TX Republican), No. Rep. Mo Brooks (AL Republican), No. Rep. Paul Broun (GA Republican), No. Rep. Vern Buchanan (FL Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'al':31 'boren':12 'boustani':18 'bradi':24 'brook':30 'broun':36 'buchanan':42 'charl':17 'dan':11 'democrat':14 'drill':9 'fl':43 'ga':37 'hr.6168':1 'kevin':23 'la':19 'mo':29 'obama':3 'offshor':8 'ok':13 'paul':35 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'republican':20,26,32,38,44 'tx':25 'vern':41 'www.votetocracy.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=GPsVUJS5Ho2E8ATwzIH4DA&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNGw2QvDFV3vH0mPuZkfhwRb41uv5Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16945346</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:31-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Dan Boren (OK Democrat), No. Rep. Charles Boustany (LA Republican), No. Rep. Kevin Brady (TX Republican), No. Rep. Mo Brooks (AL Republican), No. Rep. Paul Broun (GA Republican), No. Rep. Vern Buchanan (FL Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'al':31 'boren':12 'boustani':18 'bradi':24 'brook':30 'broun':36 'buchanan':42 'charl':17 'dan':11 'democrat':14 'drill':9 'fl':43 'ga':37 'hr.6168':1 'kevin':23 'la':19 'mo':29 'obama':3 'offshor':8 'ok':13 'paul':35 'presid':2 'propos':5 'rep':10,16,22,28,34,40 'republican':20,26,32,38,44 'tx':25 'vern':41 'www.votetocracy.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=E6MUUI3zBIe29QSCx4CABQ&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNEQXnLZ6_GBRGcJRRzvw7fxMlpDAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16928958</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:35:59-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=i_4RULL7NYim8gTksYGoCA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNENSVbCcGCsalCB0weRqb2J4Jz5oQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888407</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412395</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:35:59-04:00</created-at>
+          <title>Republican Congress Burned $1.3 Billion In Debt Ceiling Theater ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressional Republicans like my own representative, Mo Brooks, love to rail against the national debt. Last year they put on a big show of refusing to raise the debt ceiling. At the time, Brooks even asserted that the debt ceiling fight would ...</excerpt>
+          <fti-names>'1.3':4 'admin':52 'assert':45 'big':31 'billion':5 'brook':17,43 'burn':3 'ceil':8,39,49 'congress':2 'congression':10 'debt':7,24,38,48 'even':44 'fight':50 'last':25 'like':12 'love':18 'mo':16 'nation':23 'put':28 'rail':20 'rais':36 'refus':34 'repres':15 'republican':1,11 'show':32 'theater':9 'time':42 'would':51 'year':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wordslikewhoa.com/News/republican-congress-burned-1-3-billion-in-debt-ceiling-theater/&amp;sa=U&amp;ei=i_4RULL7NYim8gTksYGoCA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNHgW29FzXLDotVBGrdAi0Nt27E1xw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16888406</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">5369</page-views-count>
+      <unaccented-name>Mo Brooks</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-07-30T10:42:04-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">90.4230317273796</party-votes-percentage>
+        <abstains-percentage type="float">0.988947062245491</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">18</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">264</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">228</cosponsored-bills-passed-rank>
+        <abstains type="integer">17</abstains>
+        <cosponsored-bills type="integer">176</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">49</party-votes-percentage-rank>
+        <sponsored-bills type="integer">14</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400232</person-id>
+        <cosponsored-bills-rank type="integer">265</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">201</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">489</votes-republican-position>
+      <metavid-id>Rick_Larsen</metavid-id>
+      <blog-article-count type="integer">6716</blog-article-count>
+      <user-approval type="float">2.4</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">230</oc-users-tracking>
+      <contact-webform>http://www.house.gov/larsen/contact/</contact-webform>
+      <youtube-id>CongressmanLarsen</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">90.4230317273796</with-party-percentage>
+      <lastname>Larsen</lastname>
+      <fax>202-225-4420</fax>
+      <congress-office>108 Cannon House Office Building</congress-office>
+      <firstname>Rick</firstname>
+      <website>http://house.gov/larsen/</website>
+      <birthday type="date">1965-06-15</birthday>
+      <person-id type="integer">400232</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2605</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>L000560</bioguide-id>
+      <votes-democratic-position type="integer">1539</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:27-04:00</created-at>
+          <title>What to Watch for in Washington's House Primaries</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...feared that Burner's strident politics would jeopardize their chances of holding an otherwise safer seat. Democratic Rep. Rick Larsen and Democratic Gov. Christine Gregoire almost-simultaneously endorsed Suzan DelBene for the seat instead, after which D</excerpt>
+          <fti-names>'almost':36 'almost-simultan':35 'burner':12 'chanc':19 'christin':33 'd':47 'delben':40 'democrat':26,31 'endors':38 'fear':10 'gov':32 'gregoir':34 'hold':21 'hous':8 'instead':44 'jeopard':17 'journal':49 'larsen':29 'nation':48 'otherwis':23 'polit':15 'primari':9 'rep':27 'rick':28 'safer':24 'seat':25,43 'simultan':37 'strident':14 'suzan':39 'washington':6 'watch':3 'would':16</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/what-to-watch-f-4.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973468</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:26-04:00</created-at>
+          <title>Washington: All Eyes on 1st District Primary</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...competitive territory and transformed a Democratic stronghold into the most competitive district in the state. Reps. Rick Larsen (D), Dave Reichert (R) and freshman Jaime Herrera Beutler (R), who faced competitive races in 2010, were drawn into safer di</excerpt>
+          <fti-names>'1st':5 '2010':41 'beutler':34 'call':48 'competit':8,18,38 'd':26 'dave':27 'democrat':13 'di':46 'district':6,19 'drawn':43 'eye':3 'face':37 'freshman':31 'herrera':33 'jaim':32 'larsen':25 'primari':7 'r':29,35 'race':39 'reichert':28 'rep':23 'rick':24 'roll':47 'safer':45 'state':22 'stronghold':14 'territori':9 'transform':11 'washington':1</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/Washington-All-Eyes-on-First-District-Primary-216756-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973467</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:53:44-04:00</created-at>
+          <title>A midsummer&#8217;s unlikely election day &#8212; in August</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...turnout figures aren&#8217;t encouraging, although the 2010 election saw a burst of late votes that carried Sen. Patty Murray and Rep. Rick Larsen, D-Wash., to narrow reelection victories. What to watch for on Tuesday night, or as usual when votes dribble i</excerpt>
+          <fti-names>'2010':16 'although':14 'aren':11 'august':8 'burst':20 'carri':25 'd':34 'd-wash':33 'day':6 'dribbl':52 'elect':5,17 'encourag':13 'figur':10 'intelligenc':56 'larsen':32 'late':22 'midsumm':2 'murray':28 'narrow':37 'night':46 'patti':27 'post':55 'reelect':38 'rep':30 'rick':31 'saw':18 'seattl':54 'sen':26 'tuesday':45 'turnout':9 'unlik':4 'usual':49 'victori':39 'vote':23,51 'wash':35 'watch':42</fti-names>
+          <source-url>http://seattlepi.nwsource.com/</source-url>
+          <url>http://blog.seattlepi.com/seattlepolitics/2012/08/06/a-midsummers-unlikely-election-day-in-august/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16972868</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Seattle Post Intelligencer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:27-04:00</created-at>
+          <title>Where are all the voters?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...DelBene. DelBene blends private and pubic-sector experience with a record of leadership that has earned the support of U.S. Rep. Rick Larsen and Gov. Chris Gregoire. Snohomish County Superior Court, Position 11: Millie Judge. Judge's variegated backgrou</excerpt>
+          <fti-names>'11':39 'backgrou':45 'blend':8 'chris':32 'counti':35 'court':37 'delben':6,7 'earn':22 'experi':14 'gov':31 'gregoir':33 'heraldnet':46 'judg':41,42 'larsen':29 'leadership':19 'milli':40 'posit':38 'privat':9 'pubic':12 'pubic-sector':11 'record':17 'rep':27 'rick':28 'sector':13 'snohomish':34 'superior':36 'support':24 'u.s':26 'varieg':44 'voter':5</fti-names>
+          <source-url>http://www.heraldnet.com/</source-url>
+          <url>http://www.heraldnet.com/article/20120807/OPINION01/708079975</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973469</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HeraldNet</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:53:42-04:00</created-at>
+          <title>King Of Animal Cruelty</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Norman Dicks, Jay Inslee and Jim McDermott. The only Democrat with a really bad and failing rating is New Dem corporate hack Rick Larsen (38%), who is campaigning for Darcy's New Dem opponent, shady multimillionaire Suzan DelBene, who was pointedly not </excerpt>
+          <fti-names>'38':29 'anim':3 'bad':18 'campaign':32 'corpor':25 'cruelti':4 'darci':34 'delben':42 'dem':24,37 'democrat':14 'dick':6 'fail':20 'hack':26 'insle':8 'jay':7 'jim':10 'king':1 'larsen':28 'mcdermott':11 'multimillionair':40 'new':23,36 'norman':5 'oppon':38 'point':45 'rate':21 'realli':17 'rick':27 'shadi':39 'suzan':41 'tyranni':49</fti-names>
+          <source-url>http://downwithtyranny.blogspot.com/</source-url>
+          <url>http://downwithtyranny.blogspot.com/2012/08/king-of-animal-cruelty.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972867</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Down With Tyranny!</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:00:24-04:00</created-at>
+          <title>Cantwell/Salazar: Why no movement on monument?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>When Washingtonians gaze out at Olympic rain forests, or see white bluffs rising over the Hanford Reach of the Columbia River, we can be deeply grateful for a 1906 law called the Antiquities Act and presidents with the guts plus vision to use it. A quest</excerpt>
+          <fti-names>'1906':35 'act':40 'antiqu':39 'bluff':18 'call':37 'cantwell/salazar':1 'columbia':26 'deepli':31 'forest':14 'gaze':9 'grate':32 'gut':45 'hanford':22 'intelligenc':55 'law':36 'monument':6 'movement':4 'olymp':12 'plus':46 'post':54 'presid':42 'quest':52 'rain':13 'reach':23 'rise':19 'river':27 'seattl':53 'see':16 'use':49 'vision':47 'washingtonian':8 'white':17</fti-names>
+          <source-url>http://seattlepi.nwsource.com/</source-url>
+          <url>http://blog.seattlepi.com/seattlepolitics/2012/08/03/cantwellsalazar-why-no-movement-on-monument/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971701</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Seattle Post Intelligencer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:00:25-04:00</created-at>
+          <title>Chinese dissident welcomed to the US Capitol</title>
+          <contains-term>congress</contains-term>
+          <excerpt>tool goes here Blind Chinese dissident Chen Guangcheng is escorted by House Speake John Boehner of Ohio, for a bipartisan event with House Minority Leader Nancy Pelosi, D-Calif., and other members of Congress, Wednesday, Aug. 1, 2012, on Capitol Hill in </excerpt>
+          <fti-names>'1':45 '2012':46 'aug':44 'bipartisan':27 'blind':11 'boehner':22 'calif':37 'capitol':7,48 'charlott':51 'chen':14 'chines':1,12 'congress':42 'd':36 'd-calif':35 'dissid':2,13 'escort':17 'event':28 'goe':9 'guangcheng':15 'hill':49 'hous':19,30 'john':21 'leader':32 'member':40 'minor':31 'nanci':33 'observ':52 'ohio':24 'pelosi':34 'speak':20 'tool':8 'us':6 'wednesday':43 'welcom':3</fti-names>
+          <source-url>http://www.charlotte.com/mld/charlotte/</source-url>
+          <url>http://www.charlotteobserver.com/2012/08/01/3422557/chinese-dissident-welcomed-to.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16971702</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Charlotte Observer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:47:15-04:00</created-at>
+          <title>Canadian ports wade into politics</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...country&#8217;s ability to compete in the global transportation marketplace.&#8221; It comes at an ideal time for West Coast lawmakers. Rep. Rick Larsen (D-Wash.), the ranking member of the Coast Guard and Maritime Transportation Subcommittee, told POLITICO tha</excerpt>
+          <fti-names>'abil':8 'canadian':1 'coast':24,37 'come':17 'compet':10 'countri':6 'd':30 'd-wash':29 'global':13 'guard':38 'ideal':20 'larsen':28 'lawmak':25 'maritim':40 'marketplac':15 'member':34 'polit':5 'politico':44,47 'port':2 'rank':33 'rep':26 'rick':27 'subcommitte':42 'tha':45 'time':21 'told':43 'transport':14,41 'wade':3 'wash':31 'west':23</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79267.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969781</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:47:14-04:00</created-at>
+          <title>Chinese dissident welcomed to the US Capitol</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Minority Leader Nancy Pelosi of Calif. From left are, Rep. Christopher Smith, R-N.J., Boehner, Chen Guangcheng, and Rep. Rick Larsen, D-Wash. (AP Photo/J. Scott Applewhite) WASHINGTON &#8212; Congressional leaders united Wednesday in welcoming dissident Chi</excerpt>
+          <fti-names>'ap':34 'applewhit':37 'atlanta':47 'boehner':24 'calif':13 'capitol':7 'chen':25 'chi':46 'chines':1 'christoph':18 'congression':39 'constitut':49 'd':32 'd-wash':31 'dissid':2,45 'guangcheng':26 'j':23 'journal':48 'larsen':30 'leader':9,40 'left':15 'minor':8 'n':22 'nanci':10 'pelosi':11 'photo/j':35 'r':21 'r-n':20 'rep':17,28 'rick':29 'scott':36 'smith':19 'unit':41 'us':6 'vendor':50 'wash':33 'washington':38 'wednesday':42 'welcom':3,44</fti-names>
+          <source-url>http://ajc.com/</source-url>
+          <url>http://www.ajc.com/news/nation-world/chinese-dissident-welcomed-to-1489080.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969780</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Vendor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:55:25-04:00</created-at>
+          <title>A serious (non-arena) problem for the port</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>&quot;Pacific Northwest ports are facing an invisible blockade that is sending our business to Canada,&quot; U.S. Rep. Rick Larsen, D.-Wash., said in a prepared statement last week. Larsen is the ranking Democrat on the Coast Guard and Maritime ...</excerpt>
+          <fti-names>'arena':5 'blockad':17 'busi':22 'canada':24 'coast':45 'd':29 'democrat':42 'face':14 'guard':46 'invis':16 'larsen':28,38 'last':36 'maritim':48 'non':4 'non-arena':3 'northwest':11 'pacif':10 'port':9,12 'prepar':34 'problem':6 'rank':41 'rep':26 'rick':27 'said':31 'seattl':49 'send':20 'serious':2 'statement':35 'time':50 'u.s':25 'wash':30 'week':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://seattletimes.nwsource.com/html/soundeconomywithjontalton/2018815563_a_big_non-arena_problem_for_th.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:29:12-04:00</date>
+          <id type="integer">16966763</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Seattle Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Rick Larsen [D, WA-2]</name>
+      <total-session-votes type="integer">1702</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:15:58-04:00</created-at>
+          <title>Prowler &amp;#39;Star Warriors&amp;#39; are coming to Whidbey - Whidbey News-Times</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Rick Larsen hailed the move in a press release Friday afternoon. &amp;quot;The Navy&amp;#39;s decision to bring the Star Warriors to Whidbey Island is one more sign of the importance of Whidbey Island to the nation&amp;#39;s national ...</excerpt>
+          <fti-names>'afternoon':24 'bring':30 'come':5 'decis':28 'friday':23 'hail':16 'import':43 'island':36,46 'larsen':15 'move':18 'nation':49,51 'navi':26 'news':10 'news-tim':9 'one':38 'press':21 'prowler':1 'releas':22 'rep':13 'rick':14 'sign':40 'star':2,32 'time':11 'u.s':12 'warrior':3,33 'whidbey':7,8,35,45 'www.whidbeynewstimes.com':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.whidbeynewstimes.com/news/164076846.html&amp;sa=U&amp;ei=oTQWUN3YMomz0QHyloC4Cw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHAS8c1K916p56gtoqd3OlR6xGnfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16948318</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.whidbeynewstimes.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:15:47-04:00</created-at>
+          <title>Congressman Says FMC Shows &amp;#39;Invisible Blockade&amp;#39; | Journal of ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Rick Larsen, D-Wash., said a controversial Federal Maritime Commission report shows that the U.S. harbor maintenance tax means &#8220;Pacific Northwest ports are facing an invisible blockade that is sending our business to ...</excerpt>
+          <fti-names>'/norfolk-southern-outbids-jets':46 'blockad':6,37 'busi':42 'commiss':20 'congressman':1 'controversi':17 'd':13 'd-wash':12 'face':34 'feder':18 'fmc':3 'harbor':26 'invis':5,36 'journal':7 'larsen':11 'mainten':27 'maritim':19 'mean':29 'northwest':31 'pacif':30 'port':32 'rep':9 'report':21 'rick':10 'said':15 'say':2 'send':40 'show':4,22 'tax':28 'u.s':25 'wash':14 'www.joc.com':45 'www.joc.com/norfolk-southern-outbids-jets':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.joc.com/portsterminals/congressman-says-fmc-shows-%25E2%2580%2598invisible-blockade%25E2%2580%2599&amp;sa=U&amp;ei=oTQWUN3YMomz0QHyloC4Cw&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNHmtfJ5DSnAtveqgjb7PsDVLvEE9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16948311</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.joc.com/norfolk-southern-outbids-jets</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:24:40-04:00</created-at>
+          <title>Washington Liberals - The End of Loser Liberalism</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>I am against the Coal Trains, but Rep. Rick Larsen wants to keep the [&#8230;] Dick McManus; Suzan DelBene leading in new poll. On her facebook page, Suzan DelBene wrote, &amp;quot;New independent poll shows us continuing to build ...</excerpt>
+          <fti-names>'build':44 'coal':12 'continu':42 'delben':25,35 'dick':22 'end':4 'facebook':32 'independ':38 'keep':20 'larsen':17 'lead':26 'liber':2,7 'loser':6 'mcmanus':23 'new':28,37 'page':33 'poll':29,39 'rep':15 'rick':16 'show':40 'smith':46 'suzan':24,34 'train':13 'us':41 'want':18 'washington':1 'wrote':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waliberals.org/the-end-of-loser-liberalism/2012/07/28/&amp;sa=U&amp;ei=-cgUUP66K4Ww8AS9xoCIDA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNESghultcUzL-NrWnnndnaTbXaqpQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930146</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Don Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:24:33-04:00</created-at>
+          <title>Prowler &amp;#39;Star Warriors&amp;#39; are coming to Whidbey - Whidbey News-Times</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Rick Larsen hailed the move in a press release Friday afternoon. &amp;quot;The Navy&amp;#39;s decision to bring the Star Warriors to Whidbey Island is one more sign of the importance of Whidbey Island to the nation&amp;#39;s national ...</excerpt>
+          <fti-names>'afternoon':24 'bring':30 'come':5 'decis':28 'friday':23 'hail':16 'import':43 'island':36,46 'larsen':15 'move':18 'nation':49,51 'navi':26 'news':10 'news-tim':9 'one':38 'press':21 'prowler':1 'releas':22 'rep':13 'rick':14 'sign':40 'star':2,32 'time':11 'u.s':12 'warrior':3,33 'whidbey':7,8,35,45 'www.whidbeynewstimes.com':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.whidbeynewstimes.com/news/164076846.html&amp;sa=U&amp;ei=-cgUUP66K4Ww8AS9xoCIDA&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGhpZhmz9KQ1_LaJ4hzXODIAoTKtw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930140</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.whidbeynewstimes.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:24:11-04:00</created-at>
+          <title>Congressman Says FMC Shows &amp;#39;Invisible Blockade&amp;#39; | Journal of ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Rick Larsen, D-Wash., said a controversial Federal Maritime Commission report shows that the U.S. harbor maintenance tax means &#8220;Pacific Northwest ports are facing an invisible blockade that is sending our business to ...</excerpt>
+          <fti-names>'/norfolk-southern-outbids-jets':46 'blockad':6,37 'busi':42 'commiss':20 'congressman':1 'controversi':17 'd':13 'd-wash':12 'face':34 'feder':18 'fmc':3 'harbor':26 'invis':5,36 'journal':7 'larsen':11 'mainten':27 'maritim':19 'mean':29 'northwest':31 'pacif':30 'port':32 'rep':9 'report':21 'rick':10 'said':15 'say':2 'send':40 'show':4,22 'tax':28 'u.s':25 'wash':14 'www.joc.com':45 'www.joc.com/norfolk-southern-outbids-jets':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.joc.com/portsterminals/congressman-says-fmc-shows-%25E2%2580%2598invisible-blockade%25E2%2580%2599&amp;sa=U&amp;ei=-cgUUP66K4Ww8AS9xoCIDA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGzg2io8EmjpioulRsyIaSZSOvCnQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930137</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.joc.com/norfolk-southern-outbids-jets</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:45-04:00</created-at>
+          <title>Saturday on Al Jazeera, Inside Story &#8212; Poverty in America</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>I am against the Coal Trains, but Rep. Rick Larsen wants to keep the [&#8230;] Dick McManus; Suzan DelBene leading in new poll. On her facebook page, Suzan DelBene wrote, &amp;quot;New independent poll shows us continuing to build ...</excerpt>
+          <fti-names>'al':3 'america':9 'boyd':48 'build':46 'coal':14 'continu':44 'delben':27,37 'dick':24 'facebook':34 'independ':40 'insid':5 'jazeera':4 'keep':22 'larsen':19 'lead':28 'linda':47 'mcmanus':25 'new':30,39 'page':35 'poll':31,41 'poverti':7 'rep':17 'rick':18 'saturday':1 'show':42 'stori':6 'suzan':26,36 'train':15 'us':43 'want':20 'wrote':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://waliberals.org/saturday-on-al-jazeera-inside-story-poverty-in-america/2012/07/27/&amp;sa=U&amp;ei=MlgTUMWGNefe0gGOwICgCg&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNGvozKCvyaV5kpHwSjKIy-e6rwKGw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922163</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Linda Boyd</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:10:45-04:00</created-at>
+          <title>Men&amp;#39;s Rights Blog: Dan Matthews on the radio</title>
+          <contains-term>congress</contains-term>
+          <excerpt>incumbent Congressman Rick Larsen and other Primary Election opponents. If you aren&amp;#39;t getting good reception, try listening online. Hope you have the chance to listen in, thank you for your support! This is the show Dan ...</excerpt>
+          <fti-names>'aren':21 'blog':4 'chanc':33 'congressman':11 'dan':5,46 'elect':17 'get':23 'good':24 'hope':29 'incumb':10 'larsen':13 'listen':27,35 'man':48 'masculist':47 'matthew':6 'men':1 'onlin':28 'oppon':18 'primari':16 'radio':9 'recept':25 'rick':12 'right':3 'show':45 'support':41 'thank':37 'tri':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mensrightsboard.blogspot.com/2012/07/dan-matthews-on-radio.html&amp;sa=U&amp;ei=MlgTUMWGNefe0gGOwICgCg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHc_EgUEb0RuFq7NMFSoqSUh4YuSQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16922162</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Masculist Man</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-30T03:15:57-04:00</created-at>
+          <title>US Rep. Adam Smith Endorses DelBene | PubliCola</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>US Rep. Rick Larsen (D-WA, 2) has already endorsed DelBene. Larsen&amp;#39;s northwestern Washington district contains much of the rural turf that was moved into the new 1st District that DelBene is trying to represent. Smith&amp;#39;s ...</excerpt>
+          <fti-names>'1st':37 '2':15 'adam':3 'alreadi':17 'contain':25 'd':13 'd-wa':12 'delben':6,19,40 'district':24,38 'endors':5,18 'feit':48 'josh':47 'larsen':11,20 'move':33 'much':26 'new':36 'northwestern':22 'publicola':7 'rep':2,9 'repres':44 'rick':10 'rural':29 'smith':4,45 'tri':42 'turf':30 'us':1,8 'wa':14 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://publicola.com/2012/07/24/us-rep-adam-smith-endorsed-delbene/&amp;sa=U&amp;ei=oTQWUN3YMomz0QHyloC4Cw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNEJVMprVCyYk5b26TFvGxzwrA4baw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16948317</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Josh Feit</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-29T01:24:35-04:00</created-at>
+          <title>US Rep. Adam Smith Endorses DelBene | PubliCola</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>US Rep. Rick Larsen (D-WA, 2) has already endorsed DelBene. Larsen&amp;#39;s northwestern Washington district contains much of the rural turf that was moved into the new 1st District that DelBene is trying to represent. Smith&amp;#39;s ...</excerpt>
+          <fti-names>'1st':37 '2':15 'adam':3 'alreadi':17 'contain':25 'd':13 'd-wa':12 'delben':6,19,40 'district':24,38 'endors':5,18 'feit':48 'josh':47 'larsen':11,20 'move':33 'much':26 'new':36 'northwestern':22 'publicola':7 'rep':2,9 'repres':44 'rick':10 'rural':29 'smith':4,45 'tri':42 'turf':30 'us':1,8 'wa':14 'washington':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://publicola.com/2012/07/24/us-rep-adam-smith-endorsed-delbene/&amp;sa=U&amp;ei=-cgUUP66K4Ww8AS9xoCIDA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFV-vS9BTOsfdoFlpmrSR8XPMxEqw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16930142</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Josh Feit</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400232</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:24:32-04:00</created-at>
+          <title>HR.738 | Gas Leasing Program (2012-2017) with a congressional ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... 2012, and providing for the bill (H.R. 6082), Congressional Replacement of President Obama&#226;&#8364;&#8482;s Energy-Restricting and Job-Limiting Offshore Drilling Plan, and for other purposes1/2. Result. passed. Representative, Voted.</excerpt>
+          <fti-names>'-2017':6 '2012':5,10 '6082':17 'bill':15 'congression':9,18 'drill':32 'energi':25 'energy-restrict':24 'gas':2 'h.r':16 'hr.738':1 'job':29 'job-limit':28 'leas':3 'limit':30 'obama&#226;':22 'offshor':31 'pass':39 'plan':33 'presid':21 'program':4 'provid':12 'purposes1/2':37 'replac':19 'repres':40 'restrict':26 'result':38 'vote':41 'www.votetocracy.com':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr738-gas-leasing-program-2012-2017-with-a-congressional-plan-that-will-conduct-additional-oil-and-natural-gas-lease-sales-to-promote-offshore-energy-development-job-creation-and-increased-domestic-energy-production-to-ensure-a-more-secure-energy-future-in-the-united-states-and-for-other-purposes-41665&amp;sa=U&amp;ei=bbgQUOrTF4mI8QTIw4EY&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNH8w_2ymZkSgQZtZZjGEhkDtKj_tg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16859625</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19018</page-views-count>
+      <unaccented-name>Rick Larsen</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

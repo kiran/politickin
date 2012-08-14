@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-05-06T16:22:51-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">84.5273931366647</party-votes-percentage>
+        <abstains-percentage type="float">3.37405468295521</abstains-percentage>
+        <votes-most-often-with-id type="integer">400061</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">164</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">58</abstains>
+        <cosponsored-bills type="integer">206</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">370</party-votes-percentage-rank>
+        <sponsored-bills type="integer">16</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400235</person-id>
+        <cosponsored-bills-rank type="integer">247</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">333</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1404</votes-republican-position>
+      <blog-article-count type="integer">3771</blog-article-count>
+      <fax>202-225-3307</fax>
+      <user-approval type="float">4.91666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">138</oc-users-tracking>
+      <contact-webform>http://latourette.house.gov/ContactSteve.aspx</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">84.5273931366647</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>LaTourette</lastname>
+      <congress-office>2371 Rayburn House Office Building</congress-office>
+      <middlename>C.</middlename>
+      <firstname>Steven</firstname>
+      <website>http://latourette.house.gov/</website>
+      <birthday type="date">1954-07-22</birthday>
+      <person-id type="integer">400235</person-id>
+      <phone>202-225-5731</phone>
+      <religion>Methodist</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">574</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:46:38-04:00</created-at>
+          <title>New Froma Harrop for 08/07/2012</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...unclear motives, a loose grasp on reality and little interest in actually governing. The most recent victim is Ohio Republican Steven LaTourette, who says that he's had it after 18 years in the House. The uncompromising partisanship drove him out. &quot;Anyb</excerpt>
+          <fti-names>'08/07/2012':5 '18':36 'actual':17 'anyb':47 'creator':48 'drove':44 'froma':2 'govern':18 'grasp':10 'harrop':3 'hous':40 'interest':15 'latourett':27 'littl':14 'loos':9 'motiv':7 'new':1 'ohio':24 'partisanship':43 'realiti':12 'recent':21 'republican':25 'say':29 'steven':26 'syndic':49 'unclear':6 'uncompromis':42 'victim':22 'year':37</fti-names>
+          <source-url>http://www.creators.com/</source-url>
+          <url>http://creators.com/opinion/froma-harrop/the-grand-old-party-s-breaking-up.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973472</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Creators Syndicate</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:54:13-04:00</created-at>
+          <title>Do elections have consequences?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the capture of both parties by their respective interest groups and the disappearance of centrists &#8212; latest example, Ohio Rep. Steven LaTourette ; the inability of either party&#8217;s dwindling thought leaders to come up with innovative answers to the ce</excerpt>
+          <fti-names>'answer':40 'captur':6 'ce':43 'centrist':19 'come':36 'consequ':4 'disappear':17 'dwindl':32 'either':29 'elect':2 'exampl':21 'group':14 'inabl':27 'innov':39 'interest':13 'latest':20 'latourett':25 'leader':34 'ohio':22 'parti':9,30 'post':46 'rep':23 'respect':12 'steven':24 'thought':33 'washington':45</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=5324cc2a83d11b58c7c0b5412b8c2fb6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972870</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:13-04:00</created-at>
+          <title>Legislator: 'What's wrong with these chuckleheads'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...and short description so that visitors to your page will understand where the bookmark leads. In this 2004 file photo, Rep. Steven LaTourette, R-Ohio, gestures during an interview with the Associated Press in his on Capitol Hill in Washington. MANUEL BA</excerpt>
+          <fti-names>'2004':25 'associ':40 'ba':50 'bookmark':21 'capitol':45 'chucklehead':7 'descript':10 'file':26 'gestur':34 'hill':46 'interview':37 'latourett':30 'lead':22 'legisl':1 'manuel':49 'ohio':33 'page':16 'photo':27 'press':41 'r':32 'r-ohio':31 'rep':28 'short':9 'steven':29 'tulsa':51 'understand':18 'visitor':13 'washington':48 'world':52 'wrong':4</fti-names>
+          <source-url>http://www.tulsaworld.com/</source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120803_335_0_WASHIN806005&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971708</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:13-04:00</created-at>
+          <title>Legislator: 'What's wrong with these chuckleheads'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...news the way you want it: The Associated PressIn this Nov. 17, 2004 file photo, Rep. Steven LaTourette, R-Ohio, gestures during an interview with the Associated Press in his on Capitol Hill in Washington. Citing frustration with the climate in Congress,</excerpt>
+          <fti-names>'17':19 '2004':20 'associ':15,35 'capitol':40 'chucklehead':7 'cite':44 'climat':48 'congress':50 'file':21 'frustrat':45 'gestur':29 'hill':41 'interview':32 'latourett':25 'legisl':1 'masslive.com':51 'news':8 'nov':18 'ohio':28 'photo':22 'press':36 'pressin':16 'r':27 'r-ohio':26 'rep':23 'steven':24 'want':12 'washington':43 'way':10 'wrong':4</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/legislator_whats_wrong_with_th.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971707</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:13-04:00</created-at>
+          <title>Legislator: 'What's wrong with these chuckleheads'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...- In this Nov. 17, 2004 file photo, Rep. Steven LaTourette, R-Ohio, gestures during an interview with the Associated Press in his on Capitol Hill in Washington. Citing frustration with the climate in Congress, LaTourette has announced he will retire. Ma</excerpt>
+          <fti-names>'17':11 '2004':12 'announc':45 'associ':27 'biloxi':50 'capitol':32 'chucklehead':7 'cite':36 'climat':40 'congress':42 'file':13 'frustrat':37 'gestur':21 'herald':52 'hill':33 'interview':24 'latourett':17,43 'legisl':1 'ma':49 'nov':10 'ohio':20 'photo':14 'press':28 'r':19 'r-ohio':18 'rep':15 'retir':48 'steven':16 'sun':51 'washington':35 'wrong':4</fti-names>
+          <source-url>http://www.sunherald.com/mld/sunherald/</source-url>
+          <url>http://www.sunherald.com/2012/08/03/4102123/legislator-whats-wrong-with-these.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971706</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Biloxi Sun Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:13-04:00</created-at>
+          <title>Legislator: 'What's wrong with these chuckleheads'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...- In this Nov. 17, 2004 file photo, Rep. Steven LaTourette, R-Ohio, gestures during an interview with the Associated Press in his on Capitol Hill in Washington. Citing frustration with the climate in Congress, LaTourette has announced he will retire. (A</excerpt>
+          <fti-names>'17':11 '2004':12 'announc':45 'associ':27 'atlanta':50 'capitol':32 'chucklehead':7 'cite':36 'climat':40 'congress':42 'constitut':52 'file':13 'frustrat':37 'gestur':21 'hill':33 'interview':24 'journal':51 'latourett':17,43 'legisl':1 'nov':10 'ohio':20 'photo':14 'press':28 'r':19 'r-ohio':18 'rep':15 'retir':48 'steven':16 'vendor':53 'washington':35 'wrong':4</fti-names>
+          <source-url>http://ajc.com/</source-url>
+          <url>http://www.ajc.com/news/nation-world/legislator-whats-wrong-with-1490301.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971705</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Vendor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:01:11-04:00</created-at>
+          <title>Legislator: 'What's wrong with these chuckleheads'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...should have been saying, 'What's wrong with these chuckleheads.' &quot; tool goes here FILE - In this Nov. 17, 2004 file photo, Rep. Steven LaTourette, R-Ohio, gestures during an interview with the Associated Press in his on Capitol Hill in Washington. Citin</excerpt>
+          <fti-names>'17':25 '2004':26 'associ':41 'capitol':46 'chucklehead':7,17 'citin':50 'file':21,27 'gestur':35 'goe':19 'hill':47 'interview':38 'kansascity.com':51 'latourett':31 'legisl':1 'nov':24 'ohio':34 'photo':28 'press':42 'r':33 'r-ohio':32 'rep':29 'say':11 'steven':30 'tool':18 'washington':49 'wrong':4,14</fti-names>
+          <source-url>http://www.kansascity.com/</source-url>
+          <url>http://www.kansascity.com/2012/08/03/3740548/legislator-whats-wrong-with-these.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971704</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KansasCity.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:47:26-04:00</created-at>
+          <title>Ohio: Steven LaTourette Jolts GOP; Democrats Are Hopeful</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...parties scrambled Tuesday to assess their prospects in the 14th district in the wake of Rep. Steven LaTourette&#8217;s surprise retirement. With the GOP Congressman&#8217;s decision to delay his retirement long enough to avoid a special primary, Republicans wer</excerpt>
+          <fti-names>'14th':18 'assess':13 'avoid':43 'call':50 'congressman':33 'decis':35 'delay':37 'democrat':6 'district':19 'enough':41 'gop':5,32 'hope':8 'jolt':4 'latourett':3,26 'long':40 'ohio':1 'parti':9 'primari':46 'prospect':15 'rep':24 'republican':47 'retir':29,39 'roll':49 'scrambl':10 'special':45 'steven':2,25 'surpris':28 'tuesday':11 'wake':22 'wer':48</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/ohio_steven_latourette_jolts_gop_democrats_are_hopeful-216634-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969783</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:47:26-04:00</created-at>
+          <title>Steven LaTourette: Congress Doesn't Function</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Steven LaTourette said Tuesday that he was leaving a Congress that has become too polarized to function, a far cry from the institution in which he spent the past 18 years. In a characteristically caustic speech abruptly announcing he would not seek a 1</excerpt>
+          <fti-names>'1':50 '18':36 'abrupt':43 'announc':44 'becom':19 'call':52 'caustic':41 'characterist':40 'congress':3,16 'cri':26 'doesn':4 'far':25 'function':6,23 'institut':29 'latourett':2,8 'leav':14 'past':35 'polar':21 'roll':51 'said':9 'seek':48 'speech':42 'spent':33 'steven':1,7 'tuesday':10 'would':46 'year':37</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/issues/58_15/Steven-LaTourette-Says-Congress-Does-Not-Function-216623-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969782</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:55:53-04:00</created-at>
+          <title>DC Abortion Bill Fails In House</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Nan Hayworth (N.Y.) and Steven LaTourette (Ohio). LaTourette announced his retirement ... some Republicans wanted the vote solely to burnish their conservative credentials back home. Rep. Trent Franks (R-Ariz.), the bill's author, said the ...</excerpt>
+          <fti-names>'abort':2 'announc':15 'ariz':36 'author':40 'back':29 'bill':3,38 'burnish':25 'conserv':27 'credenti':28 'dc':1 'fail':4 'frank':33 'hayworth':8 'home':30 'hous':6 'huffington':43 'latourett':12,14 'n.y':9 'nan':7 'ohio':13 'post':44 'r':35 'r-ariz':34 'rep':31 'republican':19 'retir':17 'said':41 'sole':23 'steven':11 'trent':32 'vote':22 'want':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/2012/07/31/dc-abortion-bill-fails-to-pass-the-house_n_1726240.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T19:55:45-04:00</date>
+          <id type="integer">16966789</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>L000553</bioguide-id>
+      <metavid-id>Steven_C._LaTourette</metavid-id>
+      <name>Rep. Steven LaTourette [R, OH-14]</name>
+      <total-session-votes type="integer">1661</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>14</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-22T23:36:13-04:00</created-at>
+          <title>Small Estate Affidavit Texas Harris County</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Steven LaTourette [R, OH-14] Rep. Robert Latta [R, OH-5] Rep. Barbara Lee [D, CA-9] Rep. Sander Levin [D, MI-12] Rep. Jerry Lewis [R, CA-41] Rep. John Lewis [D, GA-5] Rep. Daniel Lipinski [D, IL-3] Rep. Frank LoBiondo [R, NJ-2] Rep.</excerpt>
+          <fti-names>'-12':29 '-14':11 '-2':53 '-3':47 '-41':35 '-5':17,41 '-9':23 'affidavit':3 'barbara':19 'ca':22,34 'counti':6 'd':21,27,39,45 'daniel':43 'estat':2 'frank':49 'ga':40 'harri':5 'il':46 'jerri':31 'john':37 'latourett':8 'latta':14 'lee':20 'levin':26 'lewi':32,38 'lipinski':44 'lobiondo':50 'mi':28 'nj':52 'oh':10,16 'probatecourtco.com':55 'r':9,15,33,51 'rep':12,18,24,30,36,42,48,54 'robert':13 'sander':25 'small':1 'steven':7 'texa':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/small-estate-affidavit-texas-harris-county/&amp;sa=U&amp;ei=q8YMULGyJuTi2AXi8NAY&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNGv9e9NrHizO3Oc72Q3Kh4TT0UT4w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16813944</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-22T23:36:14-04:00</created-at>
+          <title>Puzzled lawmakers hear only silence from ex-Rep. Thaddeus ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Steven LaTourette (R-Ohio) called McCotter last week and left a lengthy message, but he has not heard back from his quirky ex-colleague. McCotter&amp;#39;s silence comes as a Democrat, Rep. Jesse Jackson Jr. (Ill.), is on an ...</excerpt>
+          <fti-names>'back':31 'call':17 'colleagu':37 'come':41 'democrat':44 'ex':8,36 'ex-colleagu':35 'ex-rep':7 'hear':3 'heard':30 'hooper':55 'ill':49 'jackson':47 'jess':46 'jr':48 'k':54 'last':19 'latourett':13 'lawmak':2 'left':22 'lengthi':24 'mccotter':18,38 'messag':25 'molli':53 'ohio':16 'puzzl':1 'quirki':34 'r':15 'r-ohio':14 'rep':9,11,45 'silenc':5,40 'steven':12 'thaddeus':10 'week':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/house/238277-puzzled-lawmakers-hear-only-silence-from-ex-rep-mccotter&amp;sa=U&amp;ei=q8YMULGyJuTi2AXi8NAY&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEu6WgVDgC_hgUMRmKBro8maAznPA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16813947</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Molly K. Hooper</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:20:00-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Steven LaTourette [R, OH-14] Rep. Robert Latta [R, OH-5] Rep. Barbara Lee [D, CA-9] Rep. Sander Levin [D, MI-12] Rep. Jerry Lewis [R, CA-41] Rep. John Lewis [D, GA-5] Rep. Daniel Lipinski [D, IL-3] Rep. Frank LoBiondo [R ...</excerpt>
+          <fti-names>'-12':28 '-14':10 '-3':46 '-41':34 '-5':16,40 '-9':22 'bankruptci':3 'barbara':18 'ca':21,33 'court':4 'd':20,26,38,44 'daniel':42 'district':2 'frank':48 'ga':39 'il':45 'jerri':30 'john':36 'latourett':7 'latta':13 'lee':19 'levin':25 'lewi':31,37 'lipinski':43 'lobiondo':49 'mi':27 'oh':9,15 'oklahoma':5 'r':8,14,32,50 'rep':11,17,23,29,35,41,47 'robert':12 'sander':24 'steven':6 'unitedstatesbankruptcycourtco.com':51 'western':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-12/&amp;sa=U&amp;ei=3nwHUJGvDObe2QXG5uzmBA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNGeoQYYBwXjJVaPEY5ALvs9fWG_bA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716534</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:20:00-04:00</created-at>
+          <title>Puzzled lawmakers hear only silence from ex-Rep. Thaddeus ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Steven LaTourette (R-Ohio) called McCotter last week and left a lengthy message, but he has not heard back from his quirky ex-colleague. McCotter&amp;#39;s silence comes as a Democrat, Rep. Jesse Jackson Jr. (Ill.), is on an ...</excerpt>
+          <fti-names>'back':31 'call':17 'colleagu':37 'come':41 'democrat':44 'ex':8,36 'ex-colleagu':35 'ex-rep':7 'hear':3 'heard':30 'hooper':55 'ill':49 'jackson':47 'jess':46 'jr':48 'k':54 'last':19 'latourett':13 'lawmak':2 'left':22 'lengthi':24 'mccotter':18,38 'messag':25 'molli':53 'ohio':16 'puzzl':1 'quirki':34 'r':15 'r-ohio':14 'rep':9,11,45 'silenc':5,40 'steven':12 'thaddeus':10 'week':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/house/238277-puzzled-lawmakers-hear-only-silence-from-ex-rep-mccotter&amp;sa=U&amp;ei=3nwHUJGvDObe2QXG5uzmBA&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNHmvrrIxD03Jc5-35Zyd7qqfVNbDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16716531</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Molly K. Hooper</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T01:43:42-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Steven LaTourette [R, OH-14] Rep. Robert Latta [R, OH-5] Rep. Barbara Lee [D, CA-9] Rep. Sander Levin [D, MI-12] Rep. Jerry Lewis [R, CA-41] Rep. John Lewis [D, GA-5] Rep. Daniel Lipinski [D, IL-3] Rep. Frank LoBiondo [R ...</excerpt>
+          <fti-names>'-12':28 '-14':10 '-3':46 '-41':34 '-5':16,40 '-9':22 'bankruptci':3 'barbara':18 'ca':21,33 'court':4 'd':20,26,38,44 'daniel':42 'district':2 'frank':48 'ga':39 'il':45 'jerri':30 'john':36 'latourett':7 'latta':13 'lee':19 'levin':25 'lewi':31,37 'lipinski':43 'lobiondo':49 'mi':27 'oh':9,15 'oklahoma':5 'r':8,14,32,50 'rep':11,17,23,29,35,41,47 'robert':12 'sander':24 'steven':6 'unitedstatesbankruptcycourtco.com':51 'western':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-12/&amp;sa=U&amp;ei=_EwGUIjwOe-u2gWajNHOBQ&amp;ved=0CCgQmAEwAw&amp;usg=AFQjCNHVdSipMTvP6OOvFhdf15bdnXCBfA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16696604</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T01:43:40-04:00</created-at>
+          <title>Puzzled lawmakers hear only silence from ex-Rep. Thaddeus ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Steven LaTourette (R-Ohio) called McCotter last week and left a lengthy message, but he has not heard back from his quirky ex-colleague. McCotter&amp;#39;s silence comes as a Democrat, Rep. Jesse Jackson Jr. (Ill.), is on an ...</excerpt>
+          <fti-names>'back':31 'call':17 'colleagu':37 'come':41 'democrat':44 'ex':8,36 'ex-colleagu':35 'ex-rep':7 'hear':3 'heard':30 'hooper':55 'ill':49 'jackson':47 'jess':46 'jr':48 'k':54 'last':19 'latourett':13 'lawmak':2 'left':22 'lengthi':24 'mccotter':18,38 'messag':25 'molli':53 'ohio':16 'puzzl':1 'quirki':34 'r':15 'r-ohio':14 'rep':9,11,45 'silenc':5,40 'steven':12 'thaddeus':10 'week':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/homenews/house/238277-puzzled-lawmakers-hear-only-silence-from-ex-rep-mccotter&amp;sa=U&amp;ei=_EwGUIjwOe-u2gWajNHOBQ&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNEVB0BgybnGmOGOfKQgEoPz1wqNFA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16696602</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Molly K. Hooper</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-22T23:36:13-04:00</created-at>
+          <title>Republicans in Drag: Representative Steven LaTourette, Ohio</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (192). &#9661; July (9). Representative Patrick Meehan, Pennsylvania &amp;middot; Representative Steven LaTourette, Ohio &amp;middot; Senator Ron Johnson, Wisconsin &amp;middot; Governor Rick Snyder, Michigan &amp;middot; Representative Steve Austria, Ohio ...</excerpt>
+          <fti-names>'192':9 '2012':8 '9':11 'al':32 'austria':30 'drag':3 'governor':24 'johnson':22 'juli':10 'latourett':6,18 'meehan':14 'michigan':27 'ohio':7,19,31 'patrick':13 'pennsylvania':15 'repres':4,12,16,28 'republican':1 'rick':25 'ron':21 'senat':20 'snyder':26 'steve':29 'steven':5,17 'tecacca':33 'wisconsin':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/07/representative-steven-latourette-ohio.html&amp;sa=U&amp;ei=q8YMULGyJuTi2AXi8NAY&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNE9vhboN_Ipc6z0KwfgTD7safHmDA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16813943</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:19:59-04:00</created-at>
+          <title>Republicans in Drag: Representative Steven LaTourette, Ohio</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (192). &#9661; July (9). Representative Patrick Meehan, Pennsylvania &amp;middot; Representative Steven LaTourette, Ohio &amp;middot; Senator Ron Johnson, Wisconsin &amp;middot; Governor Rick Snyder, Michigan &amp;middot; Representative Steve Austria, Ohio ...</excerpt>
+          <fti-names>'192':9 '2012':8 '9':11 'al':32 'austria':30 'drag':3 'governor':24 'johnson':22 'juli':10 'latourett':6,18 'meehan':14 'michigan':27 'ohio':7,19,31 'patrick':13 'pennsylvania':15 'repres':4,12,16,28 'republican':1 'rick':25 'ron':21 'senat':20 'snyder':26 'steve':29 'steven':5,17 'tecacca':33 'wisconsin':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/07/representative-steven-latourette-ohio.html&amp;sa=U&amp;ei=3nwHUJGvDObe2QXG5uzmBA&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNH30_DoLt_JEGt5eNYR2vmXz1lJHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16716530</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-18T01:43:41-04:00</created-at>
+          <title>Republicans in Drag: Representative Steven LaTourette, Ohio</title>
+          <contains-term>republican</contains-term>
+          <excerpt>2012 (192). &#9661; July (9). Representative Patrick Meehan, Pennsylvania &amp;middot; Representative Steven LaTourette, Ohio &amp;middot; Senator Ron Johnson, Wisconsin &amp;middot; Governor Rick Snyder, Michigan &amp;middot; Representative Steve Austria, Ohio ...</excerpt>
+          <fti-names>'192':9 '2012':8 '9':11 'al':32 'austria':30 'drag':3 'governor':24 'johnson':22 'juli':10 'latourett':6,18 'meehan':14 'michigan':27 'ohio':7,19,31 'patrick':13 'pennsylvania':15 'repres':4,12,16,28 'republican':1 'rick':25 'ron':21 'senat':20 'snyder':26 'steve':29 'steven':5,17 'tecacca':33 'wisconsin':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://republicansindrag.blogspot.com/2012/07/representative-steven-latourette-ohio.html&amp;sa=U&amp;ei=_EwGUIjwOe-u2gWajNHOBQ&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNEOMkn1RiZLE4vGD29suHkLM3iDoA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16696603</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Al Tecacca</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400235</commentariable-id>
+          <created-at type="datetime">2012-07-22T23:36:14-04:00</created-at>
+          <title>In Historic Vote, House Finds Attorney General in Contempt of ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Seventeen Democrats voted with Republicans to hold Holder in contempt. Two Republicans &#8211; Reps. Steven LaTourette of Ohio and Scott Rigell of Virginia &#8211; broke with their party and voted against contempt. He is the first ...</excerpt>
+          <fti-names>'attorney':6 'broke':33 'contempt':9,20,40 'democrat':12 'elizabeth':45 'find':5 'first':44 'general':7 'histor':2 'hold':17 'holder':18 'hous':4 'latourett':25 'murphi':46 'ohio':27 'parti':36 'rep':23 'republican':15,22 'rigel':30 'scott':29 'seventeen':11 'steven':24 'two':21 'virginia':32 'vote':3,13,38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mainjustice.com/2012/06/28/in-historic-vote-house-finds-attorney-general-in-contempt-of-congress/&amp;sa=U&amp;ei=q8YMULGyJuTi2AXi8NAY&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHMGQ9m05icmDOdz-airRU0Ciz6yQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16813946</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Elizabeth Murphy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">17763</page-views-count>
+      <youtube-id>StevenLatourette</youtube-id>
+      <unaccented-name>Steven LaTourette</unaccented-name>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

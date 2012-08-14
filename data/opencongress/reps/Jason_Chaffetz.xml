@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.3565426170468</party-votes-percentage>
+        <abstains-percentage type="float">3.08318789994183</abstains-percentage>
+        <votes-most-often-with-id type="integer">412473</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">413</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">210</cosponsored-bills-passed-rank>
+        <abstains type="integer">53</abstains>
+        <cosponsored-bills type="integer">265</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">308</party-votes-percentage-rank>
+        <sponsored-bills type="integer">25</sponsored-bills>
+        <votes-least-often-with-id type="integer">400360</votes-least-often-with-id>
+        <person-id type="integer">412270</person-id>
+        <cosponsored-bills-rank type="integer">181</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">177</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1522</votes-republican-position>
+      <fax>202-225-5629</fax>
+      <blog-article-count type="integer">8463</blog-article-count>
+      <user-approval type="float">6.24615384615385</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">241</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>https://forms.house.gov/chaffetz/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.3565426170468</with-party-percentage>
+      <lastname>Chaffetz</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>1032 Longworth House Office Building</congress-office>
+      <firstname>Jason</firstname>
+      <website>http://chaffetz.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1967-03-26</birthday>
+      <person-id type="integer">412270</person-id>
+      <phone>202-225-7751</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>C001076</bioguide-id>
+      <votes-democratic-position type="integer">335</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:35:03-04:00</created-at>
+          <title>House Approves Bill to Fire Federal Employees with Delinquent Taxes</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...seriously delinquent tax debts to be terminated. H.R. 828, the Federal Employee Tax Accountability Act, sponsored by Rep. Jason Chaffetz, R-Utah, passed by a bipartisan vote of 263 to 114. The legislation would not only terminate the employment of curre</excerpt>
+          <fti-names>'114':42 '263':40 '828':19 'account':24,53 'act':25 'approv':2 'bill':3 'bipartisan':37 'chaffetz':30 'curr':52 'debt':14 'delinqu':9,12 'employ':50 'employe':7,22 'feder':6,21 'fire':5 'h.r':18 'hous':1 'jason':29 'legisl':44 'pass':34 'r':32 'r-utah':31 'rep':28 'serious':11 'sponsor':26 'tax':10,13,23 'termin':17,48 'today':54 'utah':33 'vote':38 'would':45</fti-names>
+          <source-url>http://www.accountingtoday.com/</source-url>
+          <url>http://www.accountingtoday.com/news/congress-federal-employees-tax-delinquents-jason-chaffetz-63569-1.html?CMP=OTC-RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973334</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Accounting Today</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:35:09-04:00</created-at>
+          <title>Bill Would Require Patent Trolls to Pay Legal Costs</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...DeFazio told Corporate Counsel he was unaware of any major objections to the bill. The bill, which is co-sponsored by Rep. Jason Chaffetz (R., Utah), has the support of the Consumer Electronics Association. In June, a Boston University study concluded t</excerpt>
+          <fti-names>'associ':44 'bill':1,23,25 'blog':56 'boston':48 'chaffetz':34 'co':29 'co-sponsor':28 'conclud':51 'consum':42 'corpor':12 'cost':9 'counsel':13 'defazio':10 'electron':43 'jason':33 'journal':55 'june':46 'legal':8 'major':19 'object':20 'patent':4 'pay':7 'r':35 'rep':32 'requir':3 'sponsor':30 'street':54 'studi':50 'support':39 'told':11 'troll':5 'unawar':16 'univers':49 'utah':36 'wall':53 'would':2</fti-names>
+          <source-url>http://blogs.wsj.com/</source-url>
+          <url>http://blogs.wsj.com/law/2012/08/06/bill-would-require-patent-trolls-to-pay-legal-costs/?mod=WSJBlog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972742</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:33:14-04:00</created-at>
+          <title>President Obama&#8217;s road not taken leads to Utah</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...rating in Utah, a state where Republican candidate Mitt Romney is generally beloved, in part because of his Mormon faith. Rep. Jason Chaffetz, R-Utah, may be a campaign surrogate for Romney but said he would welcome a visit from Obama, noting that the p</excerpt>
+          <fti-names>'belov':22 'campaign':39 'candid':17 'chaffetz':32 'faith':29 'general':21 'jason':31 'lake':57 'lead':7 'may':36 'mitt':18 'mormon':28 'note':52 'obama':2,51 'p':55 'part':24 'presid':1 'r':34 'r-utah':33 'rate':10 'rep':30 'republican':16 'road':4 'romney':19,42 'said':44 'salt':56 'state':14 'surrog':40 'taken':6 'tribun':58 'utah':9,12,35 'visit':49 'welcom':47 'would':46</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/news/54618532-78/obama-president-state-utah.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972431</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:35:47-04:00</created-at>
+          <title>Patent Trolls Would Be Forced To Pay Defendants' Legal Fees Under New Bill</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...patent plaintiffs to cover defendants' legal costs. Introduced by Rep. Peter DeFazio (D-OR) and co-sponsored by Rep. Jason Chaffetz (R-UT), the Saving High-Tech Innovators from Egregious Legal Disputes (SHIELD) Act is limited to patents related to compu</excerpt>
+          <fti-names>'act':51 'bill':13 'chaffetz':36 'co':31 'co-sponsor':30 'compu':58 'cost':20 'cover':17 'd':27 'd-or':26 'defazio':25 'defend':8,18 'disput':49 'egregi':47 'fee':10 'forc':5 'high':43 'high-tech':42 'innov':45 'introduc':21 'jason':35 'legal':9,19,48 'limit':53 'new':12 'patent':1,14,55 'pay':7 'peter':24 'plaintiff':15 'r':38 'r-ut':37 'relat':56 'rep':23,34 'save':41 'shield':50 'sponsor':32 'tech':44 'troll':2 'ut':39 'webmasterworld':59 'would':3</fti-names>
+          <source-url>http://www.webmasterworld.com/</source-url>
+          <url>http://www.webmasterworld.com/content_copywriting/4481261.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972144</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WebmasterWorld</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:59-04:00</created-at>
+          <title>The AC360 Weekly Buzz: Fast and Furious, Bachmann, Reid, Romney, Syria, Aurora shooting warning, holograms</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...about: A new scathing report on the failed Fast and Furious gun program points the blame at five ATF officials Rep. Jason Chaffetz , R-Utah, a member of the House Oversight Committee spoke with Anderson about his criticism of the ATF and the Justice Dep</excerpt>
+          <fti-names>'360':64 'ac360':2 'anderson':51,62 'atf':34,57 'aurora':12 'bachmann':8 'blame':31 'blog':65 'buzz':4 'chaffetz':38 'committe':48 'cooper':63 'critic':54 'dep':61 'fail':23 'fast':5,24 'five':33 'furious':7,26 'gun':27 'hologram':15 'hous':46 'jason':37 'justic':60 'member':43 'new':18 'offici':35 'oversight':47 'point':29 'program':28 'r':40 'r-utah':39 'reid':9 'rep':36 'report':20 'romney':10 'scath':19 'shoot':13 'spoke':49 'syria':11 'utah':41 'warn':14 'week':3</fti-names>
+          <source-url>http://www.cnn.com/CNN/Programs/anderson.cooper.360/blog/</source-url>
+          <url>http://rss.cnn.com/~r/rss/cnn_ac360blog/~3/JOqLm40M3tI/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971538</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Anderson Cooper 360 Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:59-04:00</created-at>
+          <title>Targeting workers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the surface of it, Rep. Jason Chaffetz&#8217;s bill to deny federal employment to people who are &quot;seriously delinquent&quot; on their federal income taxes is a no-brainer. Of course people who are paid by the taxpayers should be compliant taxpayers themselves. B</excerpt>
+          <fti-names>'b':46 'bill':11 'brainer':31 'chaffetz':9 'compliant':43 'cours':33 'delinqu':21 'deni':13 'employ':15 'feder':14,24 'incom':25 'jason':8 'lake':48 'no-brain':29 'paid':37 'peopl':17,34 'rep':7 'salt':47 'serious':20 'surfac':4 'target':1 'tax':26 'taxpay':40,44 'tribun':49 'worker':2</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/opinion/54610298-82/bill-federal-taxes-workers.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971537</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:59-04:00</created-at>
+          <title>Anti-Patent Troll bill to 'save high-tech innovators' hits House</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a new bipartisan bill coming from the desk of US Congressional Representative Peter DeFazio (D-OR), cosponsored by Rep. Jason Chaffetz (R-UT) will be the first legislative deterrent to predatory patent troll lawsuits. The bill's goal is to amend Chapter</excerpt>
+          <fti-names>'amend':56 'anti':2 'anti-pat':1 'betanew':58 'bill':5,17,51 'bipartisan':16 'chaffetz':35 'chapter':57 'come':18 'congression':24 'cosponsor':31 'd':29 'd-or':28 'defazio':27 'desk':21 'deterr':44 'first':42 'goal':53 'high':9 'high-tech':8 'hit':12 'hous':13 'innov':11 'jason':34 'lawsuit':49 'legisl':43 'new':15 'patent':3,47 'peter':26 'predatori':46 'r':37 'r-ut':36 'rep':33 'repres':25 'save':7 'tech':10 'troll':4,48 'us':23 'ut':38</fti-names>
+          <source-url>http://www.betanews.com/</source-url>
+          <url>http://feeds.betanews.com/~r/bn/~3/Q9-ePfAb__0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971536</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>BetaNews</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:59-04:00</created-at>
+          <title>Ranking the Potential GOP Convention Speakers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Ayotte (N.H.); Senate Republican Conference Vice Chairman Roy Blunt (Mo.); House Majority Leader Eric Cantor (Va.); Rep. Jason Chaffetz (Utah); New Jersey Gov. Chris Christie; Puerto Rico Gov. Luis Fortu&#241;o; South Carolina Gov. Nikki Haley; Virginia Gov</excerpt>
+          <fti-names>'ayott':7 'blunt':15 'call':45 'cantor':21 'carolina':38 'chaffetz':25 'chairman':13 'chris':30 'christi':31 'confer':11 'convent':5 'eric':20 'fortu&#241;o':36 'gop':4 'gov':29,34,39,43 'haley':41 'hous':17 'jason':24 'jersey':28 'leader':19 'lui':35 'major':18 'mo':16 'n.h':8 'new':27 'nikki':40 'potenti':3 'puerto':32 'rank':1 'rep':23 'republican':10 'rico':33 'roll':44 'roy':14 'senat':9 'south':37 'speaker':6 'utah':26 'va':22 'vice':12 'virginia':42</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/ranking_the_potential_gop_convention_speakers-216725-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971535</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:58-04:00</created-at>
+          <title>Follow Friday: @JasonintheHouse</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...to the House, &#8220;that&#8217;s when people started paying attention to it.&#8221; &#8212; Jason Chaffetz (@jasoninthehouse) July 30, 2012 Rep. Jason Chaffetz (R), the Utah representative from the high tech hills of Silicon Valley, has some advice for his colleagues </excerpt>
+          <fti-names>'2012':21 '30':20 'advic':39 'attent':13 'chaffetz':17,24 'colleagu':42 'follow':1 'friday':2 'high':31 'hill':33,44 'hous':6 'jason':16,23 'jasoninthehous':3,18 'juli':19 'pay':12 'peopl':10 'r':25 'rep':22 'repres':28 'silicon':35 'start':11 'tech':32 'utah':27 'valley':36</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/twitter-room/other-news/242035-follow-friday-jasoninthehouse</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971534</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:55:35-04:00</created-at>
+          <title>Can Patent Trolling Be Legislated Away?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...patent litigation from the nation's dockets. The bill's author, Rep. Peter DeFazio (D-Ore.), and its co-sponsor, Rep. Jason Chaffetz (R-Utah), have introduced the &quot;Saving High-Tech Innovators from Egregious Legal Disputes Act,&quot; or for those without the </excerpt>
+          <fti-names>'act':47 'author':17 'away':6 'bill':15 'chaffetz':31 'co':27 'co-sponsor':26 'd':22 'd-ore':21 'defazio':20 'disput':46 'docket':13 'egregi':44 'fool':54 'high':40 'high-tech':39 'innov':42 'introduc':36 'jason':30 'legal':45 'legisl':5 'litig':8 'motley':53 'nation':11 'ore':23 'patent':2,7 'peter':19 'r':33 'r-utah':32 'rep':18,29 'save':38 'sponsor':28 'tech':41 'troll':3 'utah':34 'without':51</fti-names>
+          <source-url>http://www.fool.com/</source-url>
+          <url>http://feeds.fool.com/~r/usmf/foolwatch/~3/Fyk3YlV2KCc/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970482</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Motley Fool</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Jason Chaffetz [R, UT-3]</name>
+      <total-session-votes type="integer">1666</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>JasonChaffetz</youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:25-04:00</created-at>
+          <title>Utah&amp;#39;s Rep. Chaffetz: &amp;#39;Romney&amp;#39;s been very successful. Get over it ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>As Democrats ramp up attacks on presumptive Republican presidential nominee Mitt Romney for his overseas financial investments and refusal to release more of his tax returns, Rep. Jason Chaffetz, Utah Republican and a ...</excerpt>
+          <fti-names>'admin':46 'attack':17 'chaffetz':4,41 'democrat':14 'financi':28 'get':10 'invest':29 'jason':40 'mitt':23 'nomine':22 'oversea':27 'presidenti':21 'presumpt':19 'ramp':15 'refus':31 'releas':33 'rep':3,39 'republican':20,43 'return':38 'romney':5,24 'success':9 'tax':37 'utah':1,42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ut-moc/jason-chaffetz-utah-representative/utahs-rep-chaffetz-romneys-been-very-successful-get-over-it-washington-times-blog/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dutahs-rep-chaffetz-romneys-been-very-successful-get-over-it-washington-times-blog&amp;sa=U&amp;ei=l0UXUPe4CJO40gHyn4DICQ&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNEcPcGTdOJ-BwyT-QOIOIOxS_fxnw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959708</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:24-04:00</created-at>
+          <title>Bill O&amp;#39;Reilly and Rep. Jason Chaffetz in Epic Gun Rights Blowout</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Bill &#8220;O&amp;#39;Reilly and Rep. Jason Chaffetz battled tonight over gun rights legislation following the theater massacre in Colorado. Bill wants more rules and legislation passed to &#8220;prevent&#8221; another mass shooting like the slaughter ...</excerpt>
+          <fti-names>'admin':47 'anoth':41 'battl':20 'bill':1,13,32 'blowout':12 'chaffetz':7,19 'colorado':31 'epic':9 'follow':26 'gun':10,23 'jason':6,18 'legisl':25,37 'like':44 'mass':42 'massacr':29 'o':2,14 'pass':38 'prevent':40 'reilli':3,15 'rep':5,17 'right':11,24 'rule':35 'shoot':43 'slaughter':46 'theater':28 'tonight':21 'want':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://housevictory08.com/the-constitution/bill-oreilly-and-rep-jason-chaffetz-in-epic-gun-rights-blowout&amp;sa=U&amp;ei=l0UXUPe4CJO40gHyn4DICQ&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFOATatyCQ-2wwQ7e1ukNWyj9LeYA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959702</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:34:19-04:00</created-at>
+          <title>Chaffetz bill would help immigrant entrepreneurs &#8211; Salt Lake ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington &#8226; Rep. Jason Chaffetz has signed on to a new immigration bill that would help small business owners secure permanent resident status, part of his drive to reform the nation&amp;#39;s system of visas and green cards.</excerpt>
+          <fti-names>'admin':46 'bill':2,20 'busi':25 'card':45 'chaffetz':1,12 'drive':34 'entrepreneur':6 'green':44 'help':4,23 'immigr':5,19 'jason':11 'lake':8 'nation':38 'new':18 'owner':26 'part':31 'perman':28 'reform':36 'rep':10 'resid':29 'salt':7 'secur':27 'sign':14 'small':24 'status':30 'system':40 'visa':42 'washington':9 'would':3,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ut-moc/jason-chaffetz-utah-representative/chaffetz-bill-would-help-immigrant-entrepreneurs-salt-lake-tribune/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dchaffetz-bill-would-help-immigrant-entrepreneurs-salt-lake-tribune&amp;sa=U&amp;ei=rwAWUK3PJYm69QS0xIGoDA&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNF9RAGjrv_e56p76DAg6-egducT6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945686</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:34:18-04:00</created-at>
+          <title>AMERICAN FREEDOM by BARBARA: Eric Cantor:THE LEADER&amp;#39;S ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Legislation Considered Under Suspension of the Rules: 1) H.R. 828 - Federal Employee Tax Accountability Act of 2011, as amended (Sponsored by Rep. Jason Chaffetz / Oversight and Government Reform Committee) ...</excerpt>
+          <fti-names>'1':17 '2011':26 '828':19 'account':23 'act':24 'amend':28 'american':1 'barbara':4,39 'cantor':6 'chaffetz':33 'committe':38 'consid':11 'employe':21 'eric':5 'feder':20 'freedom':2 'govern':36 'h.r':18 'jason':32 'leader':8 'legisl':10 'oversight':34 'reform':37 'rep':31 'rule':16 'sponsor':29 'suspens':13 'tax':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.americanfreedombybarbara.com/2012/07/eric-cantorthe-leaders-weekly-schedule.html&amp;sa=U&amp;ei=rwAWUK3PJYm69QS0xIGoDA&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNFkLZF2YAxGHv7wyMccVrtTgviLkQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16945685</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Barbara</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:34:15-04:00</created-at>
+          <title>PAXALLES: Rep. Jason Chaffetz with Laura Ingraham</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Laura Ingraham hosted Representative Jason Chaffetz on government privacy and surveillance. Chaffetz said the difference between Republicans and Democrats is that Democrats want more money for more spending and ...</excerpt>
+          <fti-names>'chaffetz':4,13,19 'democrat':26,29 'differ':22 'govern':15 'host':10 'ingraham':7,9 'jason':3,12 'laura':6,8 'money':32 'paxall':1,37 'privaci':16 'rep':2 'repres':11 'republican':24 'said':20 'spend':35 'surveil':18 'want':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paxalles.blogs.com/paxalles/2012/07/rep-jason-chaffetz-with-laura-ingraham.html&amp;sa=U&amp;ei=rwAWUK3PJYm69QS0xIGoDA&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNF7AJOy0FIHg0xrlIwZbGBiSeBGjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16945679</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>PAXALLES</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:48-04:00</created-at>
+          <title>Rep. Jason Chaffetz&amp;#39;s Advice For Those Asking To See Romney&amp;#39;s Tax</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jason Chaffetz appeared on CNN&amp;#39;s Starting Point on Tuesday, where he criticized President Barack Obama &amp;#39;s tax plan, saying that it&amp;#39;s unwise to raise taxes &amp;quot;in times of such uncertainty&amp;quot; and offering his support for Mitt ...</excerpt>
+          <fti-names>'admin':53 'advic':5 'appear':17 'ask':8 'barack':29 'chaffetz':3,16 'cnn':19 'critic':27 'jason':2,15 'mitt':52 'obama':30 'offer':48 'plan':33 'point':22 'presid':28 'rais':40 'rep':1,14 'romney':11 'say':34 'see':10 'start':21 'support':50 'tax':13,32,41 'time':43 'tuesday':24 'uncertainti':46 'unwis':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ut-moc/jason-chaffetz-utah-representative/rep-jason-chaffetz%25E2%2580%2599s-advice-for-those-asking-to-see-romney%25E2%2580%2599s-tax-returns-%25E2%2580%2598get-over-it%25E2%2580%2599/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-jason-chaffetz%2525e2%252580%252599s-advice-for-those-asking-to-see-romney%2525e2%252580%252599s-tax-returns-%2525e2%252580%252598get-over-it%2525e2%252580%252599&amp;sa=U&amp;ei=x6QUUI_sOIa88ASc_oHgCg&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGEO8QAxMcxIuxXpe8x0OyjARIAlg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16929124</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:46-04:00</created-at>
+          <title>PAXALLES: Rep. Jason Chaffetz with Laura Ingraham</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Laura Ingraham hosted Representative Jason Chaffetz on government privacy and surveillance. Chaffetz said the difference between Republicans and Democrats is that Democrats want more money for more spending and ...</excerpt>
+          <fti-names>'chaffetz':4,13,19 'democrat':26,29 'differ':22 'govern':15 'host':10 'ingraham':7,9 'jason':3,12 'laura':6,8 'money':32 'paxall':1,37 'privaci':16 'rep':2 'repres':11 'republican':24 'said':20 'spend':35 'surveil':18 'want':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paxalles.blogs.com/paxalles/2012/07/rep-jason-chaffetz-with-laura-ingraham.html&amp;sa=U&amp;ei=x6QUUI_sOIa88ASc_oHgCg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHkwGr0OUqK3QDAF7csoYCyy1q2Iw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16929118</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>PAXALLES</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:24-04:00</created-at>
+          <title>Chaffetz bill would help immigrant entrepreneurs | The Salt Lake ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Washington &#8226; Rep. Jason Chaffetz has signed on to a new immigration bill that would help small business owners secure permanent resident status, part of his drive to reform the nation&amp;#39;s system of visas and green cards.</excerpt>
+          <fti-names>'bill':2,21 'busi':26 'card':46 'chaffetz':1,13 'drive':35 'entrepreneur':6 'green':45 'help':4,24 'immigr':5,20 'jason':12 'lake':9 'nation':39 'new':19 'owner':27 'part':32 'perman':29 'reform':37 'rep':11 'resid':30 'salt':8 'secur':28 'sign':15 'small':25 'status':31 'system':41 'visa':43 'washington':10 'would':3,23 'www.sltrib.com':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sltrib.com/sltrib/politics/54567129-90/available-bill-business-cards.html.csp&amp;sa=U&amp;ei=jlETUNuYM6S40QHNpIHgCA&amp;ved=0CEkQmAEwCQ&amp;usg=AFQjCNF1NSrFOu3bax8zMy3xjydY5lZBCQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920398</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.sltrib.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:24-04:00</created-at>
+          <title>Rep. Jason Chaffetz&amp;#39;s Advice For Those Asking To See Romney&amp;#39;s Tax</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Jason Chaffetz appeared on CNN&amp;#39;s Starting Point on Tuesday, where he criticized President Barack Obama &amp;#39;s tax plan, saying that it&amp;#39;s unwise to raise taxes &amp;quot;in times of such uncertainty&amp;quot; and offering his support for Mitt ...</excerpt>
+          <fti-names>'admin':53 'advic':5 'appear':17 'ask':8 'barack':29 'chaffetz':3,16 'cnn':19 'critic':27 'jason':2,15 'mitt':52 'obama':30 'offer':48 'plan':33 'point':22 'presid':28 'rais':40 'rep':1,14 'romney':11 'say':34 'see':10 'start':21 'support':50 'tax':13,32,41 'time':43 'tuesday':24 'uncertainti':46 'unwis':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ut-moc/jason-chaffetz-utah-representative/rep-jason-chaffetz%25E2%2580%2599s-advice-for-those-asking-to-see-romney%25E2%2580%2599s-tax-returns-%25E2%2580%2598get-over-it%25E2%2580%2599/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-jason-chaffetz%2525e2%252580%252599s-advice-for-those-asking-to-see-romney%2525e2%252580%252599s-tax-returns-%2525e2%252580%252598get-over-it%2525e2%252580%252599&amp;sa=U&amp;ei=jlETUNuYM6S40QHNpIHgCA&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNFhAD0Nt1SqyHprniIf6DGz761p0g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920397</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412270</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:42:23-04:00</created-at>
+          <title>PAXALLES: Rep. Jason Chaffetz with Laura Ingraham</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Laura Ingraham hosted Representative Jason Chaffetz on government privacy and surveillance. Chaffetz said the difference between Republicans and Democrats is that Democrats want more money for more spending and ...</excerpt>
+          <fti-names>'chaffetz':4,13,19 'democrat':26,29 'differ':22 'govern':15 'host':10 'ingraham':7,9 'jason':3,12 'laura':6,8 'money':32 'paxall':1,37 'privaci':16 'rep':2 'repres':11 'republican':24 'said':20 'spend':35 'surveil':18 'want':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://paxalles.blogs.com/paxalles/2012/07/rep-jason-chaffetz-with-laura-ingraham.html&amp;sa=U&amp;ei=jlETUNuYM6S40QHNpIHgCA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFoYlu7mBHA-tK3e3DSCoM8WpSriA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920390</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>PAXALLES</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27233</page-views-count>
+      <unaccented-name>Jason Chaffetz</unaccented-name>
+      <oc-user-comments type="integer">9</oc-user-comments>
+    </person>
+  </people>
+</hash>

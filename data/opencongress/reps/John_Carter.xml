@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-06-13T11:14:58-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.9880952380952</party-votes-percentage>
+        <abstains-percentage type="float">2.26876090750436</abstains-percentage>
+        <votes-most-often-with-id type="integer">400157</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">106</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">39</abstains>
+        <cosponsored-bills type="integer">283</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">309</party-votes-percentage-rank>
+        <sponsored-bills type="integer">26</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400068</person-id>
+        <cosponsored-bills-rank type="integer">208</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">179</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">12</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1579</votes-republican-position>
+      <blog-article-count type="integer">7490</blog-article-count>
+      <fax>202-225-5886</fax>
+      <user-approval type="float">3.43589743589744</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">250</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/wyr/welcome.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.9880952380952</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Carter</lastname>
+      <congress-office>409 Cannon House Office Building</congress-office>
+      <middlename>R.</middlename>
+      <firstname>John</firstname>
+      <website>http://carter.house.gov/</website>
+      <birthday type="date">1941-11-06</birthday>
+      <bioguide-id>C001051</bioguide-id>
+      <person-id type="integer">400068</person-id>
+      <phone>202-225-3864</phone>
+      <religion>Christian</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">406</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:39:35-04:00</created-at>
+          <title>House passes short-term drought aid for farmers, ranchers</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Stabenow, D-Mich., said. The Austin-area House delegation split along party lines, with GOP Reps. Michael McCaul of Austin, John Carter of Round Rock and Lamar Smith of San Antonio voting for the stop-gap measure. Democratic Rep. Lloyd Doggett of Austin</excerpt>
+          <fti-names>'aid':7 'along':23 'american':59 'american-statesman':58 'antonio':43 'area':19 'austin':18,32,56,57 'austin-area':17 'carter':34 'd':13 'd-mich':12 'deleg':21 'democrat':51 'doggett':54 'drought':6 'farmer':9 'gap':49 'gop':27 'hous':1,20 'john':33 'lamar':39 'line':25 'lloyd':53 'mccaul':30 'measur':50 'mich':14 'michael':29 'parti':24 'pass':2 'rancher':10 'rep':28,52 'rock':37 'round':36 'said':15 'san':42 'short':4 'short-term':3 'smith':40 'split':22 'stabenow':11 'statesman':60 'stop':48 'stop-gap':47 'term':5 'vote':44</fti-names>
+          <source-url>http://www.statesman.com/</source-url>
+          <url>http://www.statesman.com/news/nation/house-passes-short-term-drought-aid-for-farmers-2427107.html?cxtype=rss_news</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971532</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Austin American-Statesman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:33:22-04:00</created-at>
+          <title>New Legislation Seeks to Amend Menu Labeling Requirements</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...for multi-serving foods, e.g., for an entire pizza rather than per slice (see our previous post here). On July 24, Rep. John Carter (R-TX) introduced the Common Sense Nutrition Disclosure Act of 2012 (H.R. 6174) to amend the menu labeling provisions. Th</excerpt>
+          <fti-names>'2012':45 '24':30 '6174':47 'act':43 'amend':5,49 'blog':57 'carter':33 'common':39 'disclosur':42 'e.g':14 'entir':17 'fda':55 'food':13 'h.r':46 'introduc':37 'john':32 'juli':29 'label':7,52 'law':56 'legisl':2 'menu':6,51 'multi':11 'multi-serv':10 'new':1 'nutrit':41 'per':21 'pizza':18 'post':26 'previous':25 'provis':53 'r':35 'r-tx':34 'rather':19 'rep':31 'requir':8 'see':23 'seek':3 'sens':40 'serv':12 'slice':22 'th':54 'tx':36</fti-names>
+          <source-url>http://www.fdalawblog.net/</source-url>
+          <url>http://www.fdalawblog.net/fda_law_blog_hyman_phelps/2012/08/new-legislation-seeks-to-amend-menu-labeling-requirements.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969559</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FDA Law Blog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:31-04:00</created-at>
+          <title>Remember the 1927 lynching in Little Rock</title>
+          <contains-term>representative</contains-term>
+          <excerpt>John Carter was brutally lynched in the spring of 1927 ... the Little Rock City Board should work to create a representative task force to ascertain the manner in which the Carter incident could most appropriately be remembered with a physical marker.</excerpt>
+          <fti-names>'1927':3,17 'appropri':42 'arkansa':49 'ascertain':32 'board':22 'brutal':11 'carter':9,38 'citi':21 'could':40 'creat':26 'forc':30 'incid':39 'john':8 'littl':6,19 'lynch':4,12 'manner':34 'marker':48 'physic':47 'rememb':1,44 'repres':28 'rock':7,20 'spring':15 'task':29 'time':50 'work':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.arktimes.com/arkansas/remember-the-1927-lynching-in-little-rock/Content?oid=2367957</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T20:38:42-04:00</date>
+          <id type="integer">16966173</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:31-04:00</created-at>
+          <title>John Cornyn Seeks to Fend Off Latest Threat to Texas Economy: Salamanders</title>
+          <contains-term>senator</contains-term>
+          <excerpt>So would the almost-as-important salamander strangle. Enter U.S. Senator John Cornyn and Representative John Carter of Round Rock, who on Friday filed the Salamander Community Conservation Act that, contrary to its name, would make it harder to protect the</excerpt>
+          <fti-names>'act':42 'almost':17 'almost-as-import':16 'blog':57 'carter':30 'communiti':40 'conserv':41 'contrari':44 'cornyn':2,26 'dalla':55 'economi':11 'enter':22 'fend':5 'file':37 'friday':36 'harder':51 'import':19 'john':1,25,29 'latest':7 'make':49 'name':47 'observ':56 'protect':53 'repres':28 'rock':33 'round':32 'salamand':12,20,39 'seek':3 'senat':24 'strangl':21 'texa':10 'threat':8 'u.s':23 'would':14,48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blogs.dallasobserver.com/unfairpark/2012/07/with_salamanders_threatening_t.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T09:47:17-04:00</date>
+          <id type="integer">16966172</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dallas Observer (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:34-04:00</created-at>
+          <title>Was Steven LaTourette About to Be Left Out in the Cold?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...chairmanship. But three of them were first elected to the House in 2002, eight years later than LaTourette. They are Reps. John Carter (Texas), Rodney Alexander (La.) and Jo Bonner (Ala.). The fourth is Rep. Ken Calvert (Calif.), who was first elected t</excerpt>
+          <fti-names>'2002':24 'ala':42 'alexand':37 'bonner':41 'calif':49 'call':56 'calvert':48 'carter':34 'chairmanship':12 'cold':11 'eight':25 'elect':19,53 'first':18,52 'fourth':44 'hous':22 'jo':40 'john':33 'ken':47 'la':38 'later':27 'latourett':3,29 'left':7 'rep':32,46 'rodney':36 'roll':55 'steven':2 'texa':35 'three':14 'year':26</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/was_steven_latourette_about_to_be_left_out_in_the_cold-216581-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966174</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:40:07-04:00</created-at>
+          <title>Salamanders would be blocked from endangered species listing under bill by Texas Sen. John Cornyn, Rep. John Carter</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Sen. John Cornyn and U.S. Rep. John Carter of Texas are attempting to disrupt what has become, at taxpayer expense, the most extensive salamander education program in American history. In case you missed it from over the weekend, Cornyn and Carter have </excerpt>
+          <fti-names>'american':46 'attempt':30 'becom':35 'bill':10 'block':4 'carter':18,26,59 'case':49 'cornyn':15,21,57 'disrupt':32 'educ':43 'endang':6 'expens':38 'extens':41 'histori':47 'john':14,17,20,25 'list':8 'miss':51 'program':44 'rep':16,24 'salamand':1,42 'sen':13,19 'speci':7 'taxpay':37 'texa':12,28,61 'u.s':23 'watchdog':62 'weekend':56 'would':2</fti-names>
+          <source-url>http://www.texaswatchdog.org/</source-url>
+          <url>http://www.texaswatchdog.org/2012/07/salamanders-would-be-blocked-endangered-species-john-cornyn-john-carter/1343668441.column</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959692</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Texas Watchdog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:35:30-04:00</created-at>
+          <title>Was Steven LaTourette About to Be Left Out in the Cold?</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>They are Reps. John Carter (Texas), Rodney Alexander (La.) and Jo Bonner (Ala.). The fourth is Rep. Ken Calvert (Calif.), who was first elected to the House in 1992 and had been a senior member of the Natural Resources and Science, Space and Technology ...</excerpt>
+          <fti-names>'1992':40 'ala':24 'alexand':19 'bonner':23 'calif':31 'call':57 'calvert':30 'carter':16 'cold':11 'elect':35 'first':34 'fourth':26 'hous':38 'jo':22 'john':15 'ken':29 'la':20 'latourett':3 'left':7 'member':46 'natur':49 'onlin':58 'rep':14,28 'resourc':50 'rodney':18 'roll':56 'scienc':52 'senior':45 'space':53 'steven':2 'technolog':55 'texa':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.rollcall.com/news/was_steven_latourette_about_to_be_left_out_in_the_cold-216581-1.html?zkMobileView=true</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T19:58:07-04:00</date>
+          <id type="integer">16966171</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:16-04:00</created-at>
+          <title>Irving&#8217;s three new DART stations ready for their first rail riders</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>On Friday, DART chairman and former Irving City Council member John Carter Danish welcomed the arrival of the ... those businesses coming from outside of Irving,&#8221; said state Rep. Linda Harper-Brown, R-Irving. Harper-Brown was an Irving City ...</excerpt>
+          <fti-names>'arriv':28 'brown':44,50 'busi':32 'carter':24 'chairman':16 'citi':20,54 'come':33 'council':21 'dalla':55 'danish':25 'dart':5,15 'first':10 'former':18 'friday':14 'harper':43,49 'harper-brown':42,48 'irv':1,19,37,47,53 'john':23 'linda':41 'member':22 'morn':56 'new':4 'news':57 'outsid':35 'r':46 'r-irv':45 'rail':11 'readi':7 'rep':40 'rider':12 'said':38 'state':39 'station':6 'three':3 'welcom':26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dallasnews.com/news/community-news/irving/headlines/20120727-irvings-three-new-dart-stations-ready-for-their-first-riders.ece</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T00:11:02-04:00</date>
+          <id type="integer">16929114</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dallas Morning News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:15-04:00</created-at>
+          <title>Texas Republicans move to block 4 salamander species from endangered list</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Today, a similar effort was launched by Sen. John Cornyn and Rep. John Carter of Round Rock to block four different species of salamanders from the list. The lizards, found in Central Texas, were on their way to becoming &#8220;endangered&#8221; when Cornyn and ..</excerpt>
+          <fti-names>'4':6 'becom':50 'block':5,30 'carter':25 'central':43 'chronicl':56 'cornyn':21,53 'differ':32 'effort':15 'endang':10,51 'found':41 'four':31 'houston':55 'john':20,24 'launch':17 'list':11,38 'lizard':40 'move':3 'rep':23 'republican':2 'rock':28 'round':27 'salamand':7,35 'sen':19 'similar':14 'speci':8,33 'texa':1,44 'today':12 'way':48</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.chron.com/txpotomac/2012/07/texas-republicans-move-to-block-4-salamander-species-from-endangered-list/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T14:31:12-04:00</date>
+          <id type="integer">16929112</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:41:38-04:00</created-at>
+          <title>Saving the Salamanders: Conservation vs. Development</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senator John Cornyn (R-TX) and U.S. Representative John Carter (R-TX) say classifying the amphibians as endangered could hinder area job growth and economic development. &#8220;My goal is to make sure the salamanders and people can peacefully ...</excerpt>
+          <fti-names>'amphibian':25 'area':30 'carter':18 'classifi':23 'conserv':4 'cornyn':10 'could':28 'develop':6,35 'econom':34 'endang':27 'goal':37 'growth':32 'hinder':29 'job':31 'john':9,17 'make':40 'news':49 'npr':48 'peac':47 'peopl':45 'r':12,20 'r-tx':11,19 'repres':16 'salamand':3,43 'save':1 'say':22 'senat':8 'sure':41 'tx':13,21 'u.s':7,15 'vs':5</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://stateimpact.npr.org/texas/2012/07/27/saving-the-salamanders-conservation-vs-development/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T14:24:03-04:00</date>
+          <id type="integer">16920366</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NPR News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>John_R._Carter</metavid-id>
+      <name>Rep. John Carter [R, TX-31]</name>
+      <total-session-votes type="integer">1680</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>31</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:06-04:00</created-at>
+          <title>Amendments intended to block Eurycea listings &#171; EuryceAlliance</title>
+          <contains-term>senator</contains-term>
+          <excerpt>US Senator John Cornyn and US Representative John Carter are introducing potential amendments to the 1973 Endangered Species Act (which they are calling the &#8220;Salamander Community Conservation Act&#8221;). These bills ...</excerpt>
+          <fti-names>'1973':23 'act':26,35 'amend':1,20 'bill':37 'block':4 'call':30 'carter':16 'communiti':33 'conserv':34 'cornyn':11 'endang':24 'eurycea':5 'eurycealli':7 'gillespi':39 'h':38 'intend':2 'introduc':18 'john':10,15 'list':6 'potenti':19 'repres':14 'salamand':32 'senat':9 'speci':25 'us':8,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://eurycealliance.org/2012/07/28/amendments-intended-to-block-eurycea-listings/&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNFX6K4pKTd9KjE0hIThXukKkk_8iA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929105</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>h. gillespie</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:08-04:00</created-at>
+          <title>Texas lawmakers fight effort to label four state salamanders as ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>John Cornyn (R-Texas) and Rep. John Carter (R-Texas) said that if the U.S. Fish and Wildlife Service put the salamanders on the administration&amp;#39;s endangered species list that it would potentially hinder job growth and the ...</excerpt>
+          <fti-names>'administr':37 'byte':52 'carter':19 'cornyn':12 'cowboy':51 'effort':4 'endang':39 'fight':3 'fish':28 'four':7 'growth':48 'hinder':46 'job':47 'john':11,18 'label':6 'lawmak':2 'list':41 'potenti':45 'put':32 'r':14,21 'r-texa':13,20 'rep':17 'said':23 'salamand':9,34 'servic':31 'speci':40 'state':8 'texa':1,15,22 'u.s':27 'wildlif':30 'would':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cowboybyte.com/10556/texas-lawmakers-fight-effort-to-label-four-state-salamanders-as-endangered/&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNGeVDLeQwjgC6Vl-GpnnhBF2_7tUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929110</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cowboy Byte</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:02-04:00</created-at>
+          <title>Calorie counts on ready-to-eatfood: Some in Congress not biting ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>As a result, a group of lawmakers,led by Rep. John Carter (R-Texas), have introduced the Common Sense NutritionAct aimed at limiting the scope of the requirement, largely to restaurants. &#8220;The rules the government now ...</excerpt>
+          <fti-names>'admin':50 'aim':34 'bite':12 'calori':1 'carter':24 'common':31 'congress':10 'count':2 'eatfood':7 'govern':48 'group':17 'introduc':29 'john':23 'larg':42 'lawmak':19 'led':20 'limit':36 'nutritionact':33 'r':26 'r-texa':25 'readi':5 'ready-to-eatfood':4 'rep':22 'requir':41 'restaur':44 'result':15 'rule':46 'scope':38 'sens':32 'texa':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://eatsmartmovemoresc.org/blog/2012/07/calorie-counts-on-ready-to-eatfood-some-in-congress-not-biting/&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHdREQ--fYNUIVhm-zssqGbWiI-ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929104</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:10-04:00</created-at>
+          <title>ChinaAid Congratulated in Congress on its Ten-Year Anniversary ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>In prepared remarks made available to ChinaAid, Rep. John Carter (R-Tex.) described ChinaAid as being &#8220;at the forefront of the struggle for freedom and rights in China&#8221; and said it has been &#8220;doing important work.&#8221; &#8220;ChinaAid ...</excerpt>
+          <fti-names>'anniversari':10 'avail':15 'carter':20 'china':39 'chinaaid':1,17,25,48 'congratul':2 'congress':4 'describ':24 'forefront':30 'freedom':35 'import':46 'john':19 'made':14 'prepar':12 'r':22 'r-tex':21 'remark':13 'rep':18 'right':37 'said':41 'struggl':33 'ten':8 'ten-year':7 'tex':23 'work':47 'year':9 '&#23545;&#21326;&#25588;&#21161;&#21327;&#20250;':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.chinaaid.org/2012/07/chinaaid-congratulated-in-congress-on.html&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNEP1KichZnoQgX5gC5isDxJQ8sN4A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929111</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>&#23545;&#21326;&#25588;&#21161;&#21327;&#20250;</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:07-04:00</created-at>
+          <title>Friends of Animals | Legislative Rider would Deregulate Canned ...</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Washington, DC &#8212; WildEarth Guardians and Friends of Animals have called foul on Representative John Carter&amp;#39;s (R-TX-31st) amendment to the House of Representatives&amp;#39; Interior Appropriations bill that would reinstate a ...</excerpt>
+          <fti-names>'31st':28 'amend':29 'anim':3,16 'appropri':36 'bill':37 'call':18 'can':8 'carter':23 'dc':10 'deregul':7 'foul':19 'friend':1,14 'guardian':12 'hous':32 'interior':35 'john':22 'legisl':4 'r':26 'r-tx-31st':25 'reinstat':40 'repres':21,34 'rider':5 'tx':27 'washington':9 'wildearth':11 'would':6,39 'www.friendsofanimals.org':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.friendsofanimals.org/news/2012/july/legislative-rider-wo.html&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNH-qca22g-29BEmmo4WZCRrD5IIHA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929108</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.friendsofanimals.org/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:07-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>John Carter (TX Republican), No. Rep. Bill Cassidy (LA Republican), No. Rep. Steven Chabot (OH Republican), No. Rep. Jason Chaffetz (UT Republican), No. Rep. Howard Coble (NC Republican), No. Rep. Mike Coffman (CO Republican) ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'bill':16 'carter':11 'cassidi':17 'chabot':23 'chaffetz':29 'co':42 'cobl':35 'coffman':41 'drill':9 'howard':34 'hr.6168':1 'jason':28 'john':10 'la':18 'mike':40 'nc':36 'obama':3 'offshor':8 'oh':24 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,31,37,43 'steven':22 'tx':12 'ut':30 'www.votetocracy.com':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFcu-BLVSQKEcW2crE-8z5GK5Wubg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929107</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:07-04:00</created-at>
+          <title>TX Catholic Voice: Conscience Battle Persists, Urge Texas Reps to ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative John Carter - North Austin/Killeen - (512) 246-1600; Representative John Culberson - Houston - (713) 682-8828; Representative Kay Granger - Fort Worth - (817) 338-0909; Email Action Alert. Feel free to send ...</excerpt>
+          <fti-names>'-0909':33 '-1600':18 '-8828':25 '246':17 '338':32 '512':16 '682':24 '713':23 '817':31 'action':35 'alert':36 'austin/killeen':15 'battl':5 'carter':13 'cathol':2 'conscienc':4 'culberson':21 'email':34 'feel':37 'fort':29 'free':38 'granger':28 'houston':22 'huemmer':42 'john':12,20 'kay':27 'maria':41 'north':14 'persist':6 'rep':9 'repres':11,19,26 'send':40 'texa':8 'tx':1 'urg':7 'voic':3 'worth':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://txcatholic.org/index.php/news/blog-layout/1524-tx-catholic-voice-conscience-battle-persists-urge-texas-reps-to-defend-liberty&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNHwtCdmwYee7UoWW25cQCsFylmHbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929106</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maria Huemmer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:17:57-04:00</created-at>
+          <title>Thank You for Supporting Our 1st Annual BBQ! | Heroes Night Out</title>
+          <contains-term>congress</contains-term>
+          <excerpt>We thank the city of Cedar Park, Mayor Matt Powell, Congressman John Carter, Cedar Park Councilmen, The Austin Area Car Club for the fantastic showcasing of classic cars, our BBQ teams headed by James Jones, Rick ...</excerpt>
+          <fti-names>'1st':6 'annual':7 'area':30 'austin':29 'bbq':8,41 'car':31,39 'carter':24 'cedar':17,25 'citi':15 'classic':38 'club':32 'congressman':22 'councilmen':27 'fantast':35 'head':43 'hero':9 'jame':45 'john':23 'jone':46 'judylpierc':48 'matt':20 'mayor':19 'night':10 'park':18,26 'powel':21 'rick':47 'showcas':36 'support':4 'team':42 'thank':1,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://heroesnightout.org/2012/07/12/thank-you-for-supporting-our-1st-annual-bbq/&amp;sa=U&amp;ei=4eQAUIvwMMji2gXVmom4Cw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGT9QMmijjPHe91fg2FGdELCggI-g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16595874</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>judylpierce</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:49:08-04:00</created-at>
+          <title>VetsFirst Honors Congressman Carter for Supporting Access to ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Terry Moakley (left), chair of the VetsFirst Committee presents U.S. Representative John R. Carter( R-31st TX) with the VetsFirst Congressional Bronze Star Award. VetsFirst honored U.S. Representative John R. Carter( R-31st ...</excerpt>
+          <fti-names>'31st':25,43 'access':7 'admin':44 'award':33 'bronz':31 'carter':4,22,40 'chair':12 'committe':16 'congression':30 'congressman':3 'honor':2,35 'john':20,38 'left':11 'moakley':10 'present':17 'r':21,24,39,42 'r-31st':23,41 'repres':19,37 'star':32 'support':6 'terri':9 'tx':26 'u.s':18,36 'vetsfirst':1,15,29,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.vetsfirst.org/vetsfirst-honors-congressman-carter/&amp;sa=U&amp;ei=naQUUI-GMovq8gSPvIFY&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNE8MYhEIbOQOS8tfta-e9WhjW7pQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16929109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400068</commentariable-id>
+          <created-at type="datetime">2012-07-13T23:18:00-04:00</created-at>
+          <title>&amp;#39;John Carter&amp;#39; Animator Shares the Secret of SFX Success</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative John Carter (R-TX) Sings The Praises Of Norwegian Fossil Fuel Socialis. The small Scandinavian country of Norway often has to get thrown out of international comparisons of various indicators because it&amp;#39;s ...</excerpt>
+          <fti-names>'anim':3 'carter':2,12 'comparison':38 'countri':27 'fossil':21 'fuel':22 'get':33 'indic':41 'intern':37 'john':1,11 'marketmak':45 'norway':29 'norwegian':20 'often':30 'prais':18 'r':14 'r-tx':13 'repres':10 'scandinavian':26 'secret':6 'sfx':8 'share':4 'sing':16 'small':25 'sociali':23 'success':9 'thrown':34 'tx':15 'various':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bullfax.com/%3Fq%3Dnode-john-carter-animator-shares-secret-sfx-success&amp;sa=U&amp;ei=4eQAUIvwMMji2gXVmom4Cw&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFHL0qxwAmKDJOC_dGbqo_hku7k6A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16595876</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>marketmaker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">26181</page-views-count>
+      <youtube-id>RepJohnCarter</youtube-id>
+      <unaccented-name>John Carter</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

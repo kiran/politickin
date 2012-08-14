@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.6708860759494</party-votes-percentage>
+        <abstains-percentage type="float">3.49040139616056</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">413</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">392</cosponsored-bills-passed-rank>
+        <abstains type="integer">60</abstains>
+        <cosponsored-bills type="integer">206</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">221</party-votes-percentage-rank>
+        <sponsored-bills type="integer">4</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412265</person-id>
+        <cosponsored-bills-rank type="integer">410</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">395</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1554</votes-republican-position>
+      <fax>202-225-1984</fax>
+      <blog-article-count type="integer">4178</blog-article-count>
+      <user-approval type="float">3.16666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">129</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>https://forms.house.gov/austria/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.6708860759494</with-party-percentage>
+      <lastname>Austria</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>439 Cannon House Office Building</congress-office>
+      <firstname>Steve</firstname>
+      <website>http://austria.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1958-10-12</birthday>
+      <person-id type="integer">412265</person-id>
+      <phone>202-225-4324</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>A000365</bioguide-id>
+      <votes-democratic-position type="integer">436</votes-democratic-position>
+      <metavid-id nil="true"></metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:10-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'area':60 'assist':42 'attorney':44 'austria':37 'bay':59 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'insid':58 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/top-stories/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972692</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:10-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'assist':42 'attorney':44 'austria':37 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'contra':58 'costa':59 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'time':60 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/news/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972691</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:10-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'area':60 'assist':42 'attorney':44 'austria':37 'bay':59 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'insid':58 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/oaklandtribune/localnews/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972690</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:09-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'area':60 'assist':42 'attorney':44 'austria':37 'bay':59 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'insid':58 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/crime-courts/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972689</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:08-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'area':60 'assist':42 'attorney':44 'austria':37 'bay':59 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'insid':58 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.insidebayarea.com/</source-url>
+          <url>http://www.insidebayarea.com/timesstar/localnews/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972688</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Inside Bay Area</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:11-04:00</created-at>
+          <title>Political Blotter: Get ready for Gray Davis' 70th-birthday roast</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...is the change we so desperately need, and I look forward to having him in the White House.&quot; The other national chairs are Rep. Steve Austria, R-Ohio; former Assistant U.S. Attorney General Viet Dinh; former Rep. Charles Djou, R-Hawaii; former U.S. Mint </excerpt>
+          <fti-names>'70th':9 '70th-birthday':8 'assist':42 'attorney':44 'austria':37 'birthday':10 'blotter':2 'chair':33 'chang':14 'charl':50 'contra':58 'costa':59 'davi':7 'desper':17 'dinh':47 'djou':51 'former':41,48,55 'forward':22 'general':45 'get':3 'gray':6 'hawaii':54 'hous':29 'look':21 'mint':57 'nation':32 'need':18 'ohio':40 'polit':1 'r':39,53 'r-hawaii':52 'r-ohio':38 'readi':4 'rep':35,49 'roast':11 'steve':36 'time':60 'u.s':43,56 'viet':46 'white':28</fti-names>
+          <source-url>http://www.contracostatimes.com/mld/cctimes/</source-url>
+          <url>http://www.contracostatimes.com/politics-government/ci_21230414/political-blotter-get-ready-gray-davis-70th-birthday?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972693</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Contra Costa Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:28:47-04:00</created-at>
+          <title>Obama returns to Ohio, still on the attack</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Air National Guard Base, which could lose some 200 jobs because of the loss of six KC-135s there. While Obama was there, Rep. Steve Austria, R-Beavercreek, handed him a letter protesting the cuts. In all, Obama&#8217;s fiscal 2013 budget &#8211; which has not p</excerpt>
+          <fti-names>'135s':27 '200':17 '2013':51 'air':9 'attack':8 'austria':35 'base':12 'beavercreek':38 'budget':52 'columbus':57 'could':14 'cut':45 'dispatch':58 'fiscal':50 'guard':11 'hand':39 'job':18 'kc':26 'kc-135s':25 'letter':42 'lose':15 'loss':22 'nation':10 'obama':1,30,48 'ohio':4 'p':56 'protest':43 'r':37 'r-beavercreek':36 'rep':33 'return':2 'six':24 'steve':34 'still':5</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/08/01/obama-in-mansfield-still-on-attack.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969456</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:28:46-04:00</created-at>
+          <title>Gridlock in Congress prompts U.S. Rep. Steve LaTourette to retire (video)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...clout. Congressional redistricting prompted the only other Ohio Republican on that committee &#8211; Beavercreek Rep. Steve Austria &#8211; to retire at the end of his term instead of facing off in a primary against incumbent Dayton-area Rep. Mike Turner. Unles</excerpt>
+          <fti-names>'area':47 'austria':27 'beavercreek':24 'cleveland.com':52 'clout':12 'committe':23 'congress':3 'congression':13 'dayton':46 'dayton-area':45 'end':32 'face':38 'gridlock':1 'incumb':44 'instead':36 'latourett':8 'mike':49 'ohio':19 'primari':42 'prompt':4,15 'redistrict':14 'rep':6,25,48 'republican':20 'retir':10,29 'steve':7,26 'term':35 'turner':50 'u.s':5 'unl':51 'video':11</fti-names>
+          <source-url>http://www.cleveland.com/</source-url>
+          <url>http://www.cleveland.com/open/index.ssf/2012/08/gridlock_in_congress_prompts_r.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969455</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:28:46-04:00</created-at>
+          <title>Rep. LaTourette stepping down</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...ninth term in a district covering the northeastern corner of the state, will be one of 12 House Republicans, including Ohioan Steve Austria, R-Beavercreek, who are voluntarily leaving office at the end of this year and not running for another office. Fi</excerpt>
+          <fti-names>'12':21 'anoth':46 'austria':27 'beavercreek':30 'columbus':49 'corner':13 'cover':10 'dispatch':50 'district':9 'end':38 'fi':48 'hous':22 'includ':24 'latourett':2 'leav':34 'ninth':5 'northeastern':12 'offic':35,47 'ohioan':25 'one':19 'r':29 'r-beavercreek':28 'rep':1 'republican':23 'run':44 'state':16 'step':3 'steve':26 'term':6 'voluntarili':33 'year':41</fti-names>
+          <source-url>http://www.dispatch.com/</source-url>
+          <url>http://www.dispatch.com/content/stories/local/2012/08/01/rep--latourette-stepping-down.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969454</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Dispatch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:28:45-04:00</created-at>
+          <title>Not long ago, W.H. was less optimistic on Mansfield base</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Springfield, and Mansfield,&quot; Office of Management and Budget interim director Jeffrey Zients wrote on June 5 to Rep. Steve Austria (R-Ohio) , who met with the president in March to discuss the possible closures. But, Zients said, the Department of Defen</excerpt>
+          <fti-names>'5':26 'ago':3 'austria':30 'base':10 'budget':18 'closur':45 'defen':52 'depart':50 'director':20 'discuss':42 'interim':19 'jeffrey':21 'june':25 'less':6 'long':2 'manag':16 'mansfield':9,13 'march':40 'met':35 'offic':14 'ohio':33 'optimist':7 'politico':54 'possibl':44 'presid':38 'r':32 'r-ohio':31 'rep':28 'said':48 'springfield':11 'steve':29 'w.h':4 'wrote':23 'zient':22,47</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=09af24a36f18968aa4ef1f8c395e39f7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969453</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Steve Austria [R, OH-7]</name>
+      <total-session-votes type="integer">1659</total-session-votes>
+      <sunlight-nickname>Steve</sunlight-nickname>
+      <youtube-id>CongressmanAustria</youtube-id>
+      <district>7</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:12-04:00</created-at>
+          <title>Texas Lawyer Blog: 5th Circuit accepting applications for federal ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria ...</excerpt>
+          <fti-names>'-1':50 '-2':26,44 '-24':14 '-4':20,38 '-5':32 '5th':4 'accept':6 'adam':11 'aderholt':17 'akin':23 'al':19 'alexand':29 'altmir':35 'amodei':41 'andrew':47 'applic':7 'austria':53 'blog':3 'chapter9bankruptcyco.com':54 'circuit':5 'd':36,48 'feder':9 'fl':13 'jason':34 'la':31 'lawyer':2 'mark':40 'mo':25 'nj':49 'nv':43 'pa':37 'r':12,18,24,30,42 'rep':15,21,27,33,39,45,51 'robert':16,46 'rodney':28 'sandi':10 'steve':52 'texa':1 'todd':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chapter9bankruptcyco.com/texas-lawyer-blog-5th-circuit-accepting-applications-for-federal-bankruptcy-judgeship-in-austin/&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNFbQfoq8SmolvNP33Ww9qzUsXrXvA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16944774</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://chapter9bankruptcyco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:13-04:00</created-at>
+          <title>Considering Filing for Bankruptcy? Check Out FindLaw&amp;#39;s Guide</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria [R, OH-7] Rep.</excerpt>
+          <fti-names>'-1':50 '-2':26,44 '-24':14 '-4':20,38 '-5':32 '-7':56 'adam':11 'aderholt':17 'akin':23 'al':19 'alexand':29 'altmir':35 'amodei':41 'andrew':47 'austria':53 'bankruptci':4 'bankruptcyrecordsco.com':58 'check':5 'consid':1 'd':36,48 'file':2 'findlaw':7 'fl':13 'guid':9 'jason':34 'la':31 'mark':40 'mo':25 'nj':49 'nv':43 'oh':55 'pa':37 'r':12,18,24,30,42,54 'rep':15,21,27,33,39,45,51,57 'robert':16,46 'rodney':28 'sandi':10 'steve':52 'todd':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bankruptcyrecordsco.com/considering-filing-for-bankruptcy-check-out-findlaws-guide/&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNFP3gydufkKi5laFeB6b2N6PP4O_w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944775</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bankruptcyrecordsco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:07-04:00</created-at>
+          <title>Considering Filing for Bankruptcy? Check Out FindLaw&amp;#39;s Guide ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria [R, OH-7] Rep. Joe Baca [D, CA-43] Rep. Spencer Bachus [R, AL-6] Rep. Tammy Baldwin [D, WI-2] Rep. Lou Barletta [R, PA-11] Rep. John Barrow [D, GA-12] Rep.</excerpt>
+          <fti-names>'-1':20 '-11':50 '-12':56 '-2':14,44 '-43':32 '-6':38 '-7':26 'admin':58 'al':37 'amodei':11 'andrew':17 'austria':23 'baca':29 'bachus':35 'baldwin':41 'bankruptci':4 'barletta':47 'barrow':53 'ca':31 'check':5 'consid':1 'd':18,30,42,54 'file':2 'findlaw':7 'ga':55 'guid':9 'joe':28 'john':52 'lou':46 'mark':10 'nj':19 'nv':13 'oh':25 'pa':49 'r':12,24,36,48 'rep':15,21,27,33,39,45,51,57 'robert':16 'spencer':34 'steve':22 'tammi':40 'wi':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bankruptcysolutionssite.com/chapter-7-bankruptcy/considering-filing-for-bankruptcy-check-out-findlaws-guide.html&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNHeyNm3Jg0QoMrtwe3J2uCt-JzZaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944767</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:08-04:00</created-at>
+          <title>HR.6168 | President Obama&amp;#39;s Proposed 2012-2017 Offshore Drilling ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Robert Aderholt (AL Republican), No. Rep. W. Akin (MO Republican), No. Rep. Rodney Alexander (LA Republican), No. Rep. Jason Altmire (PA Democrat), No. Rep. Justin Amash (MI Republican), No. Rep. Steve Austria (OH Republican), No ...</excerpt>
+          <fti-names>'-2017':7 '2012':6 'aderholt':11 'akin':17 'al':12 'alexand':23 'altmir':29 'amash':35 'austria':41 'democrat':31 'drill':9 'hr.6168':1 'jason':28 'justin':34 'la':24 'mi':36 'mo':18 'obama':3 'offshor':8 'oh':42 'pa':30 'presid':2 'propos':5 'rep':15,21,27,33,39 'republican':13,19,25,37,43 'robert':10 'rodney':22 'steve':40 'w':16 'www.votetocracy.com':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr6168-president-obamas-proposed-2012-2017-offshore-drilling-lease-sale-plan-act-41675&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNERBK136IBqOObRtV-_qDyd14Ynfw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16944769</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:09-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Frank Lucas: Removed and added large sections to Lucas&amp;#39; biography. 20. Lamar S. Smith: Removed references to Smith&amp;#39;s support for TARP. 21. Rep. Steve Austria: Removed the sections &#8220;Controversial Comments On ...</excerpt>
+          <fti-names>'20':19 '21':31 'ad':13 'austria':34 'biographi':18 'comment':39 'congression':2 'controversi':38 'edit':3 'embarrass':1 'frank':9 'lamar':20 'larg':14 'luca':10,17 'member':5 'page':7 'refer':24 'remov':11,23,35 'rep':8,32 'section':15,37 'smith':22,26 'steve':33 'stranger':42 'support':28 'tarp':30 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pcrcollective.org/%3Fp%3D2400&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFGBMppc2kffhqJcSzrPaiNX3a22g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16944770</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Stranger</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:29:57-04:00</created-at>
+          <title>Small Estate Affidavit Texas Harris County</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria [R, OH-7] Rep.</excerpt>
+          <fti-names>'-1':47 '-2':23,41 '-24':11 '-4':17,35 '-5':29 '-7':53 'adam':8 'aderholt':14 'affidavit':3 'akin':20 'al':16 'alexand':26 'altmir':32 'amodei':38 'andrew':44 'austria':50 'counti':6 'd':33,45 'estat':2 'fl':10 'harri':5 'jason':31 'la':28 'mark':37 'mo':22 'nj':46 'nv':40 'oh':52 'pa':34 'probatecourtco.com':55 'r':9,15,21,27,39,51 'rep':12,18,24,30,36,42,48,54 'robert':13,43 'rodney':25 'sandi':7 'small':1 'steve':49 'texa':4 'todd':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/small-estate-affidavit-texas-harris-county/&amp;sa=U&amp;ei=oWULUOnCM-mM2gWImdH3Dw&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNG-eITqJ4QnY_ArCHUhAWFT_PPFzA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16785872</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:29:54-04:00</created-at>
+          <title>Embarrassing Congressional Edits To Members&amp;#39; Wikipedia Pages ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Frank Lucas: Removed and added large sections to Lucas&amp;#39; biography. 20. Lamar S. Smith: Removed references to Smith&amp;#39;s support for TARP. 21. Rep. Steve Austria: Removed the sections &#8220;Controversial Comments On ...</excerpt>
+          <fti-names>'20':19 '21':31 'ad':13 'austria':34 'biographi':18 'comment':39 'congression':2 'controversi':38 'edit':3 'embarrass':1 'frank':9 'jacobsloan':41 'lamar':20 'larg':14 'luca':10,17 'member':5 'page':7 'refer':24 'remov':11,23,35 'rep':8,32 'section':15,37 'smith':22,26 'steve':33 'support':28 'tarp':30 'wikipedia':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.disinfo.com/2012/07/embarrassing-congressional-edits-to-members-wikipedia-pages/&amp;sa=U&amp;ei=oWULUOnCM-mM2gWImdH3Dw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGbrf1jtT4k1HIegL24eM3AN_kIZA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-20T01:00:00-04:00</date>
+          <id type="integer">16785867</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>JacobSloan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:13-04:00</created-at>
+          <title>Osborne Irrigation of Chesterfield County files bankruptcy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria ...</excerpt>
+          <fti-names>'-1':48 '-2':24,42 '-24':12 '-4':18,36 '-5':30 'adam':9 'aderholt':15 'akin':21 'al':17 'alexand':27 'altmir':33 'amodei':39 'andrew':45 'austria':51 'bankruptci':7 'chesterfield':4 'counti':5 'd':34,46 'file':6 'fl':11 'irrig':2 'jason':32 'la':29 'mark':38 'mo':23 'nj':47 'nv':41 'osborn':1 'pa':35 'r':10,16,22,28,40 'rep':13,19,25,31,37,43,49 'robert':14,44 'rodney':26 'sandi':8 'steve':50 'todd':20 'whatisbankruptcyco.com':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://whatisbankruptcyco.com/osborne-irrigation-of-chesterfield-county-files-bankruptcy/&amp;sa=U&amp;ei=EPMVUIWzIuHg0QGI-4DACA&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNEg6z522sktqnK00d2R4oErgBpe9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16944777</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://whatisbankruptcyco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:29:58-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria ...</excerpt>
+          <fti-names>'-1':46 '-2':22,40 '-24':10 '-4':16,34 '-5':28 'adam':7 'aderholt':13 'akin':19 'al':15 'alexand':25 'altmir':31 'amodei':37 'andrew':43 'austria':49 'bankruptci':3 'court':4 'd':32,44 'district':2 'fl':9 'jason':30 'la':27 'mark':36 'mo':21 'nj':45 'nv':39 'oklahoma':5 'pa':33 'r':8,14,20,26,38 'rep':11,17,23,29,35,41,47 'robert':12,42 'rodney':24 'sandi':6 'steve':48 'todd':18 'unitedstatesbankruptcycourtco.com':50 'western':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://unitedstatesbankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-11/&amp;sa=U&amp;ei=oWULUOnCM-mM2gWImdH3Dw&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNEaBOzsmvNh9cg-pKVLmv5myB7B1Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-15T01:00:00-04:00</date>
+          <id type="integer">16785874</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://unitedstatesbankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412265</commentariable-id>
+          <created-at type="datetime">2012-07-21T22:29:58-04:00</created-at>
+          <title>TRI LAND PROPERTIES Bankruptcy Records Available Online</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sandy Adams [R, FL-24] Rep. Robert Aderholt [R, AL-4] Rep. Todd Akin [R, MO-2] Rep. Rodney Alexander [R, LA-5] Rep. Jason Altmire [D, PA-4] Rep. Mark Amodei [R, NV-2] Rep. Robert Andrews [D, NJ-1] Rep. Steve Austria ...</excerpt>
+          <fti-names>'-1':48 '-2':24,42 '-24':12 '-4':18,36 '-5':30 'adam':9 'aderholt':15 'akin':21 'al':17 'alexand':27 'altmir':33 'amodei':39 'andrew':45 'austria':51 'avail':6 'bankruptci':4 'bankruptcyrecordsco.com':52 'd':34,46 'fl':11 'jason':32 'la':29 'land':2 'mark':38 'mo':23 'nj':47 'nv':41 'onlin':7 'pa':35 'properti':3 'r':10,16,22,28,40 'record':5 'rep':13,19,25,31,37,43,49 'robert':14,44 'rodney':26 'sandi':8 'steve':50 'todd':20 'tri':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bankruptcyrecordsco.com/tri-land-properties-bankruptcy-records-available-online/&amp;sa=U&amp;ei=oWULUOnCM-mM2gWImdH3Dw&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNFsz7W6jMDPr2EJlQ9LrusoKIT97w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16785875</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bankruptcyrecordsco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">14933</page-views-count>
+      <unaccented-name>Steve Austria</unaccented-name>
+      <oc-user-comments type="integer">11</oc-user-comments>
+    </person>
+  </people>
+</hash>

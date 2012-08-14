@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-08-25T22:02:58-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.9691760521636</party-votes-percentage>
+        <abstains-percentage type="float">1.86154741128563</abstains-percentage>
+        <votes-most-often-with-id type="integer">400224</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-10-06T20:42:20-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">269</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">59</cosponsored-bills-passed-rank>
+        <abstains type="integer">32</abstains>
+        <cosponsored-bills type="integer">154</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">269</party-votes-percentage-rank>
+        <sponsored-bills type="integer">34</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400196</person-id>
+        <cosponsored-bills-rank type="integer">232</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">119</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1619</votes-republican-position>
+      <blog-article-count type="integer">15097</blog-article-count>
+      <fax>202-225-3303</fax>
+      <user-approval type="float">5.71929824561404</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">222</oc-users-tracking>
+      <contact-webform>http://issa.house.gov/index.cfm?FuseAction=Contact.ContactForm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.9691760521636</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Issa</lastname>
+      <congress-office>2347 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Darrell</firstname>
+      <website>http://issa.house.gov/</website>
+      <birthday type="date">1954-01-01</birthday>
+      <bioguide-id>I000056</bioguide-id>
+      <person-id type="integer">400196</person-id>
+      <phone>202-225-3906</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">356</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:41-04:00</created-at>
+          <title>Issa demands IGs keep reform committee informed</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...general to bring matters to our attention that may require additional oversight or investigation,&#8221; Committee Chairman Rep. Darrell Issa (R-Calif.) wrote Aug. 3. He sent the letter to 73 IGs of Cabinet-level departments, various agencies and commission</excerpt>
+          <fti-names>'3':32 '73':38 'addit':18 'agenc':46 'attent':14 'aug':31 'bring':10 'cabinet':42 'cabinet-level':41 'calif':29 'chairman':23 'commiss':48 'committe':6,22 'comput':50 'darrel':25 'demand':2 'depart':44 'fcw':52 'feder':49 'general':8 'ig':3,39 'inform':7 'investig':21 'issa':1,26 'keep':4 'letter':36 'level':43 'matter':11 'may':16 'oversight':19 'r':28 'r-calif':27 'reform':5 'rep':24 'requir':17 'sent':34 'various':45 'week':51 'wrote':30</fti-names>
+          <source-url>http://www.fcw.com/</source-url>
+          <url>http://fcw.com/articles/2012/08/07/issa-igs-in-the-dark.aspx</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973447</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Federal Computer Week | FCW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:41-04:00</created-at>
+          <title>Media Rumors Swirl of Petraeus for Romney VP</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...both sides of the aisle &#8211; the four-star general has declared definitively that he has no interest in entering politics. Rep. Darrell Issa, R-Calif., wants the government's 73 inspectors general to keep him in the loop when conducting major . . . Presi</excerpt>
+          <fti-names>'73':40 'aisl':13 'calif':35 'conduct':50 'darrel':31 'declar':20 'definit':21 'enter':28 'four':16 'four-star':15 'general':18,42 'govern':38 'inspector':41 'interest':26 'issa':32 'keep':44 'loop':48 'major':51 'media':1 'newsmax':53 'petraeus':5 'polit':29 'presi':52 'r':34 'r-calif':33 'rep':30 'romney':7 'rumor':2 'side':10 'star':17 'swirl':3 'vp':8 'want':36</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/petraeus-vice-president-election/2012/08/07/id/447857</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973446</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:39-04:00</created-at>
+          <title>Lawmaker seeks more frequent alerts from inspectors general</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...should keep Congress better informed about ongoing investigations of possible misconduct at agencies in the view of Rep. Darrell Issa, R-Calif., chairman of the House Oversight and Government Reform Committee. As first reported by The Washington Post, I</excerpt>
+          <fti-names>'agenc':21 'alert':5 'better':12 'calif':31 'chairman':32 'committe':40 'congress':11 'darrel':27 'first':42 'frequent':4 'general':8 'govern':38 'govexec.com':49 'hous':35 'inform':13 'inspector':7 'investig':16 'issa':28 'keep':10 'lawmak':1 'misconduct':19 'ongo':15 'oversight':36 'possibl':18 'post':47 'r':30 'r-calif':29 'reform':39 'rep':26 'report':43 'seek':2 'view':24 'washington':46</fti-names>
+          <source-url>http://govexec.com/</source-url>
+          <url>http://www.govexec.com/oversight/2012/08/lawmaker-seeks-more-frequent-alerts-inspectors-general/57276/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973445</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GovExec.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:09-04:00</created-at>
+          <title>Issa: Inspectors general must alert Congress on probes</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...The Washington Post Rep. Darrell Issa (R-Calif.) sent a sternly worded letter Monday to the governments 73 inspectors general asking that they inform Congress of serious violations under investigation. In the letter, Issa, who is chairman of the House O</excerpt>
+          <fti-names>'73':27 'alert':5 'ask':30 'calif':17 'chairman':46 'congress':6,34 'darrel':13 'democrat':51 'general':3,29 'govern':26 'hous':49 'inform':33 'inspector':2,28 'investig':39 'issa':1,14,43 'letter':22,42 'monday':23 'must':4 'o':50 'post':11 'probe':8 'r':16 'r-calif':15 'rep':12 'sent':18 'serious':36 'stern':20 'underground':52 'violat':37 'washington':10 'word':21</fti-names>
+          <source-url>http://www.democraticunderground.com/</source-url>
+          <url>http://www.democraticunderground.com/1014186851</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16972843</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Democratic Underground</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:09-04:00</created-at>
+          <title>Flashback: &#8220;All Of Our Work Is Conducted On Work Email Accounts&#8221;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...officials are conducting the business of the government transparently and in accordance with record-keeping statutes,&#8221; Rep. Darrell Issa (R-Calif.), the chairman of the House Committee on Oversight and Government Reform, wrote in a Friday letter to Wh</excerpt>
+          <fti-names>'accord':23 'account':11 'busi':16 'calif':34 'chairman':36 'committe':40 'conduct':7,14 'darrel':30 'email':10 'flashback':1 'friday':49 'govern':19,44 'hous':39 'issa':31 'keep':27 'letter':50 'offici':12 'oversight':42 'r':33 'r-calif':32 'record':26 'record-keep':25 'reform':45 'rep':29 'statut':28 'transpar':20 'wh':52 'wizbang':53 'work':5,9 'wrote':46</fti-names>
+          <source-url>http://wizbangblog.com/</source-url>
+          <url>http://feeds.wizbangblog.com/~r/Wizbang/~3/TxMU1u6Xgtw/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972844</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wizbang</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:51:08-04:00</created-at>
+          <title>Darrell Issa wants inspectors general to loop in Congress on big investigations</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Darrell Issa (R-Calif.) sent a sternly-worded letter on Monday to the government&#8217;s 73 inspectors general asking that they inform congress of serious violations under investigation. In the letter, Issa, who is chairman of the House Oversight and Govern</excerpt>
+          <fti-names>'73':30 'ask':33 'big':11 'calif':17 'chairman':49 'congress':9,37 'darrel':1,13 'general':5,32 'govern':28,55 'hous':52 'inform':36 'inspector':4,31 'investig':12,42 'issa':2,14,46 'letter':23,45 'loop':7 'monday':25 'oversight':53 'post':58 'r':16 'r-calif':15 'sent':18 'serious':39 'stern':21 'sternly-word':20 'violat':40 'want':3 'washington':57 'word':22</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=89b02770aef7a31a801df122fbeda77a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972842</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:45:13-04:00</created-at>
+          <title>Fast, Furious gun-walking called unusual</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Terry was killed in December 2010. Last week, congressional investigators working for Sen. Charles Grassley , R-Iowa, and Rep. Darrell Issa , R-Vista (San Diego County), chairman of the House Oversight and Government Reform Committee , issued a draft re</excerpt>
+          <fti-names>'2010':13 'call':6 'chairman':36 'charl':21 'chronicl':51 'committe':44 'congression':16 'counti':35 'darrel':28 'decemb':12 'diego':34 'draft':47 'fast':1 'francisco':50 'furious':2 'govern':42 'grassley':22 'gun':4 'gun-walk':3 'hous':39 'investig':17 'iowa':25 'issa':29 'issu':45 'kill':10 'last':14 'oversight':40 'r':24,31 'r-iowa':23 'r-vista':30 're':48 'reform':43 'rep':27 'san':33,49 'sen':20 'terri':8 'unusu':7 'vista':32 'walk':5 'week':15 'work':18</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/nation/article/Fast-Furious-gun-walking-called-unusual-3763193.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972189</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:45:14-04:00</created-at>
+          <title>GOP asks W.H. for details of email use</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...are conducting the business of the government transparently and in accordance with record-keeping statutes,&quot; Rep. Darrell Issa (R-Calif.), the chairman of the House Committee on Oversight and Government Reform, wrote in a Friday letter to White House ch</excerpt>
+          <fti-names>'accord':19 'ask':2 'busi':12 'calif':30 'ch':50 'chairman':32 'committe':36 'conduct':10 'darrel':26 'detail':5 'email':7 'friday':45 'gop':1 'govern':15,40 'hous':35,49 'issa':27 'journalist':54 'keep':23 'letter':46 'oversight':38 'profession':53 'r':29 'r-calif':28 'record':22 'record-keep':21 'reform':41 'rep':25 'societi':51 'statut':24 'transpar':16 'use':8 'w.h':3 'white':48 'wrote':42</fti-names>
+          <source-url>http://www.spj.org/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=260ccf7b9f214c7fabd167c4d9e19283</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972190</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Society of Professional Journalists</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:54:41-04:00</created-at>
+          <title>Report Says Warnings Ignored In Solyndra Loan</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...&quot;Solyndra was a mistake that would have been much smaller if, in fact, career professionals had not been overruled,&quot; said Rep. Darrell Issa, R-Calif., the chairman of the House Oversight and Investigations Committee, which had held hearings on the Solyn</excerpt>
+          <fti-names>'calif':33 'career':21 'chairman':35 'committe':42 'darrel':29 'fact':20 'hear':46 'held':45 'hous':38 'ignor':4 'investig':41 'issa':30 'loan':7 'manufacturing.net':50 'mistak':11 'much':16 'overrul':26 'oversight':39 'profession':22 'r':32 'r-calif':31 'rep':28 'report':1 'said':27 'say':2 'smaller':17 'solyn':49 'solyndra':6,8 'warn':3 'would':13</fti-names>
+          <source-url>http://www.manufacturing.net/</source-url>
+          <url>http://www.manufacturing.net/news/2012/08/report-says-warnings-ignored-in-solyndra-loan</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971669</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Manufacturing.net</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:54:41-04:00</created-at>
+          <title>House Oversight Hearing on the IRS&#8217;s Illegal Rule Increasing Taxes &amp; Spending under ObamaCare</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...exchanges. His arguments, while not uncontested during the hearing, apparently won over the committee chairman, Rep. Darrell Issa, R-Calif. Issa signed on Thursday as a co-sponsor of DesJarlais&#8217; bill related to the issue. Other House Republican leader</excerpt>
+          <fti-names>'appar':24 'argument':17 'bill':47 'calif':35 'cato':56 'chairman':29 'co':43 'co-sponsor':42 'committe':28 'darrel':31 'desjarlai':46 'exchang':15 'hear':3,23 'hous':1,53 'illeg':8 'increas':10 'ir':6 'issa':32,36 'issu':51 'leader':55 'liberti':57 'obamacar':14 'oversight':2 'r':34 'r-calif':33 'relat':48 'rep':30 'republican':54 'rule':9 'sign':37 'spend':12 'sponsor':44 'tax':11 'thursday':39 'uncontest':20 'won':25</fti-names>
+          <source-url>http://www.cato-at-liberty.org/</source-url>
+          <url>http://feedproxy.google.com/~r/Cato-at-liberty/~3/00vtqZ5qQKA/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971668</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cato @ Liberty</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Darrell_E._Issa</metavid-id>
+      <name>Rep. Darrell Issa [R, CA-49]</name>
+      <total-session-votes type="integer">1687</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>49</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:19-04:00</created-at>
+          <title>Rep. Issa: Postal Service default will happen &#8211; Fedline - The Federal ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>SAN DIEGO | Not that there was much doubt on this score, but Rep. Darrell Issa, R-Calif., this morning confirmed that Congress won&amp;#39;t act to head off a U.S. Postal Service default on a $5.5 billion payment into a retiree health ...</excerpt>
+          <fti-names>'5.5':47 'act':36 'billion':48 'calif':28 'confirm':31 'congress':33 'darrel':24 'default':5,44 'diego':12 'doubt':18 'feder':10 'fedlin':8 'happen':7 'head':38 'health':53 'issa':2,25 'morn':30 'much':17 'payment':49 'postal':3,42 'r':27 'r-calif':26 'reilli':55 'rep':1,23 'retire':52 'san':11 'score':21 'sean':54 'servic':4,43 'u.s':41 'won':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.federaltimes.com/federal-times-blog/2012/07/30/rep-issa-postal-service-default-will-happen/&amp;sa=U&amp;ei=9EoXUIPNGLPD0AGLtoDACw&amp;ved=0CDcQmAEwBg&amp;usg=AFQjCNF_OQWCDOs3vCxhr2Sx2jOKwKeQug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960650</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sean Reilly</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:19-04:00</created-at>
+          <title>Darrell Issa: Five ATF officials found responsible for Fast and Furious</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Rep. Darrell Issa (R-Vista), chairman of the Oversight and Government Reform Committee, co-authored a report finding that five senior ATF officials were responsible for the Fast and Furious operation. Republican ...</excerpt>
+          <fti-names>'atf':4,35 'author':28 'chairman':18 'co':27 'co-author':26 'committe':25 'darrel':1,13 'fast':9,41 'find':31 'five':3,33 'found':6 'furious':11,43 'govern':23 'issa':2,14 'nycg':46 'offici':5,36 'oper':44 'oversight':21 'r':16 'r-vista':15 'reform':24 'rep':12 'report':30 'republican':45 'respons':7,38 'senior':34 'vista':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://newyorkcityguns.com/2012/07/darrell-issa-five-atf-officials-found-responsible-for-fast-and-furious/&amp;sa=U&amp;ei=9EoXUIPNGLPD0AGLtoDACw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNH4Tzl7dKza7OCxHShKfWJ0wE34aQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960649</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>NYCG</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:18-04:00</created-at>
+          <title>Darrell Issa: Let&amp;#39;s Name Coastal Zones After Ronald Reagan ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Case in point: Rep. Darrell Issa&amp;#39;s reintroduction of HR 27, which would rename the country&amp;#39;s Exclusive Economic Zone, or EEZ, after Ronald Reagan, this includes pretty much all of our coastal waters: The US Exclusive ...</excerpt>
+          <fti-names>'27':21 'beth':48 'case':11 'coastal':6,43 'countri':26 'darrel':1,15 'econom':29 'eez':32 'exclus':28,47 'hr':20 'includ':37 'issa':2,16 'let':3 'much':39 'name':5 'point':13 'pretti':38 'reagan':10,35 'reintroduct':18 'renam':24 'rep':14 'ronald':9,34 'us':46 'water':44 'would':23 'zone':7,30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://veracitystew.com/2012/07/30/darrell-issa-lets-name-coastal-zones-after-ronald-reagan/&amp;sa=U&amp;ei=9EoXUIPNGLPD0AGLtoDACw&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNGurfH9jfg64KSmhOmdp0hAHISfGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960646</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Beth</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:37:34-04:00</created-at>
+          <title>Watchdog Group Questions Whether Darrell Issa Broke Laws by ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The government watchdog group Citizens for Responsibility and Ethics in Washington today asked the Justice Department and an independent ethics office to examine whether Rep. Darrell Issa (R-Calif.) broke any laws or ...</excerpt>
+          <fti-names>'admin':44 'ask':22 'broke':7,40 'calif':39 'citizen':14 'darrel':5,35 'depart':25 'ethic':18,29 'examin':32 'govern':11 'group':2,13 'independ':28 'issa':6,36 'justic':24 'law':8,42 'offic':30 'question':3 'r':38 'r-calif':37 'rep':34 'respons':16 'today':21 'washington':20 'watchdog':1,12 'whether':4,33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/md-moc/elijah-cummings-maryland-representative/watchdog-group-questions-whether-darrell-issa-broke-laws-by-disclosing-wiretap-records/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwatchdog-group-questions-whether-darrell-issa-broke-laws-by-disclosing-wiretap-records&amp;sa=U&amp;ei=nSsWUJexH4Ws9ATv5oCYAQ&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNFC5RTKwIDRq3DlgK-K6UzyIbknFQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947803</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:26:37-04:00</created-at>
+          <title>SAN DIEGO: Congressman Darrell Issa and OMB Controller, Danny ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Darrell Issa and OMB Controller, Daniel I. Werfel , will headline the Association of Government Accountants&amp;#39; (AGA) Annual PDC : Training to Solve Today&amp;#39;s Fiscal Challenges&#8212;Jul. 29&#8211;Aug. 2, 2012 at the San ...</excerpt>
+          <fti-names>'/391/index.rss':46 '2':39 '2012':40 '29':37 'account':25 'aga':26 'annual':27 'associ':22 'aug':38 'challeng':35 'congressman':3,10 'control':8,15 'daniel':16 'danni':9 'darrel':4,11 'diego':2 'fiscal':34 'govern':24 'headlin':20 'issa':5,12 'jul':36 'omb':7,14 'pdc':28 'san':1,43 'solv':31 'today':32 'train':29 'werfel':18 'www.heraldonline.com':45 'www.heraldonline.com/391/index.rss':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.heraldonline.com/2012/07/27/4144445/congressman-darrell-issa-and-omb.html&amp;sa=U&amp;ei=X7sUUJzuIoym8QSowIG4DA&amp;ved=0CFIQmAEwDA&amp;usg=AFQjCNHFumDWk70ErNGRCL4dW0mvf-20Ng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16929887</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.heraldonline.com/391/index.rss</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:04:02-04:00</created-at>
+          <title>SAN DIEGO: Congressman Darrell Issa and OMB Controller, Danny ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Darrell Issa and OMB Controller, Daniel I. Werfel , will headline the Association of Government Accountants&amp;#39; (AGA) Annual PDC : Training to Solve Today&amp;#39;s Fiscal Challenges&#8212;Jul. 29&#8211;Aug. 2, 2012 at the San ...</excerpt>
+          <fti-names>'/391/index.rss':46 '2':39 '2012':40 '29':37 'account':25 'aga':26 'annual':27 'associ':22 'aug':38 'challeng':35 'congressman':3,10 'control':8,15 'daniel':16 'danni':9 'darrel':4,11 'diego':2 'fiscal':34 'govern':24 'headlin':20 'issa':5,12 'jul':36 'omb':7,14 'pdc':28 'san':1,43 'solv':31 'today':32 'train':29 'werfel':18 'www.heraldonline.com':45 'www.heraldonline.com/391/index.rss':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.heraldonline.com/2012/07/27/4144445/congressman-darrell-issa-and-omb.html&amp;sa=U&amp;ei=oFYTULyONoac8gSn9oH4Bg&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFGPLZ1BNCKjCK5GfkMIup-iqB-MQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16921762</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.heraldonline.com/391/index.rss</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:37:33-04:00</created-at>
+          <title>Issa accuses HHS of using Medicare pilot to &amp;#39;buy&amp;#39; election for Obama ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Darrell Issa, R-Calif., chairman of the House Oversight and Government Reform Committee, called a Wednesday hearing to explore whether the Health and Human Services Department&amp;#39;s three-year demonstration ...</excerpt>
+          <fti-names>'accus':2 'buy':9 'calif':18 'call':28 'chairman':19 'charl':46 'clark':48 'committe':27 'darrel':14 'demonstr':45 'depart':40 'elect':10 'explor':33 'govern':25 'health':36 'hear':31 'hhs':3 'hous':22 'human':38 'issa':1,15 'medicar':6 'obama':12 'oversight':23 'pilot':7 'r':17 'r-calif':16 'reform':26 'rep':13 'servic':39 'three':43 'three-year':42 'use':5 'wednesday':30 'whether':34 'year':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.govexec.com/management/2012/07/issa-accuses-hhs-using-medicare-pilot-buy-election-obama/57011/&amp;sa=U&amp;ei=nSsWUJexH4Ws9ATv5oCYAQ&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNGXXxNdSnaubV6LdvntjQpn3--d4w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16947802</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles S. Clark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:20-04:00</created-at>
+          <title>Issa accuses HHS of using Medicare pilot to &amp;#39;buy&amp;#39; election for Obama ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Darrell Issa, R-Calif., chairman of the House Oversight and Government Reform Committee, called a Wednesday hearing to explore whether the Health and Human Services Department&amp;#39;s three-year demonstration ...</excerpt>
+          <fti-names>'accus':2 'buy':9 'calif':18 'call':28 'chairman':19 'charl':46 'clark':48 'committe':27 'darrel':14 'demonstr':45 'depart':40 'elect':10 'explor':33 'govern':25 'health':36 'hear':31 'hhs':3 'hous':22 'human':38 'issa':1,15 'medicar':6 'obama':12 'oversight':23 'pilot':7 'r':17 'r-calif':16 'reform':26 'rep':13 'servic':39 'three':43 'three-year':42 'use':5 'wednesday':30 'whether':34 'year':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.govexec.com/management/2012/07/issa-accuses-hhs-using-medicare-pilot-buy-election-obama/57011/&amp;sa=U&amp;ei=9EoXUIPNGLPD0AGLtoDACw&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHnFzqkKtge6SsHfb8E2nil8yuyxA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16960653</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles S. Clark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:26:31-04:00</created-at>
+          <title>Issa accuses HHS of using Medicare pilot to &amp;#39;buy&amp;#39; election for Obama ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Darrell Issa, R-Calif., chairman of the House Oversight and Government Reform Committee, called a Wednesday hearing to explore whether the Health and Human Services Department&amp;#39;s three-year demonstration ...</excerpt>
+          <fti-names>'accus':2 'buy':9 'calif':18 'call':28 'chairman':19 'charl':46 'clark':48 'committe':27 'darrel':14 'demonstr':45 'depart':40 'elect':10 'explor':33 'govern':25 'health':36 'hear':31 'hhs':3 'hous':22 'human':38 'issa':1,15 'medicar':6 'obama':12 'oversight':23 'pilot':7 'r':17 'r-calif':16 'reform':26 'rep':13 'servic':39 'three':43 'three-year':42 'use':5 'wednesday':30 'whether':34 'year':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.govexec.com/management/2012/07/issa-accuses-hhs-using-medicare-pilot-buy-election-obama/57011/&amp;sa=U&amp;ei=X7sUUJzuIoym8QSowIG4DA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNGMKq0aBtC-SylJsthbSkFIAnJK_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16929883</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles S. Clark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400196</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:04:02-04:00</created-at>
+          <title>Issa accuses HHS of using Medicare pilot to &amp;#39;buy&amp;#39; election for Obama ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Darrell Issa, R-Calif., chairman of the House Oversight and Government Reform Committee, called a Wednesday hearing to explore whether the Health and Human Services Department&amp;#39;s three-year demonstration ...</excerpt>
+          <fti-names>'accus':2 'buy':9 'calif':18 'call':28 'chairman':19 'charl':46 'clark':48 'committe':27 'darrel':14 'demonstr':45 'depart':40 'elect':10 'explor':33 'govern':25 'health':36 'hear':31 'hhs':3 'hous':22 'human':38 'issa':1,15 'medicar':6 'obama':12 'oversight':23 'pilot':7 'r':17 'r-calif':16 'reform':26 'rep':13 'servic':39 'three':43 'three-year':42 'use':5 'wednesday':30 'whether':34 'year':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.govexec.com/management/2012/07/issa-accuses-hhs-using-medicare-pilot-buy-election-obama/57011/&amp;sa=U&amp;ei=oFYTULyONoac8gSn9oH4Bg&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNE0EsKMDIXADIcikgFa3B_b12kt_A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16921761</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Charles S. Clark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">32378</page-views-count>
+      <youtube-id>RepDarrellIssa</youtube-id>
+      <unaccented-name>Darrell Issa</unaccented-name>
+      <oc-user-comments type="integer">13</oc-user-comments>
+    </person>
+  </people>
+</hash>

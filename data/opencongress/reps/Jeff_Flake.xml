@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-28T07:21:44-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">89.2168674698795</party-votes-percentage>
+        <abstains-percentage type="float">3.43222803955788</abstains-percentage>
+        <votes-most-often-with-id type="integer">412388</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-19T10:07:42-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">133</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">417</cosponsored-bills-passed-rank>
+        <abstains type="integer">59</abstains>
+        <cosponsored-bills type="integer">158</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">379</party-votes-percentage-rank>
+        <sponsored-bills type="integer">19</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">400134</person-id>
+        <cosponsored-bills-rank type="integer">414</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">58</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1481</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">11027</blog-article-count>
+      <user-approval type="float">5.23728813559322</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">244</oc-users-tracking>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <metavid-id>Jeff_Flake</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">89.2168674698795</with-party-percentage>
+      <lastname>Flake</lastname>
+      <congress-office>240 Cannon House Office Building</congress-office>
+      <youtube-id>flakeoffice</youtube-id>
+      <firstname>Jeff</firstname>
+      <website>http://flake.house.gov/</website>
+      <birthday type="date">1962-12-31</birthday>
+      <person-id type="integer">400134</person-id>
+      <fax>202-226-4386</fax>
+      <phone>202-225-2635</phone>
+      <religion>Latter Day Saints</religion>
+      <bioguide-id>F000444</bioguide-id>
+      <votes-democratic-position type="integer">289</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:17-04:00</created-at>
+          <title>Crossfire, ideology, and party</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...right now.&#8221; Carville responded by saying the farm bill is &#8220;a terrible piece of legislation,&#8221; and asking conservative Rep. Jeff Flake (R-Ariz.), &#8220;Why in the name of God&#8217;s green earth then is President Bush going to sign it, if it&#8217;s so bad, an</excerpt>
+          <fti-names>'ariz':28 'ask':21 'bad':50 'bill':13 'bush':41 'carvill':7 'conserv':22 'crossfir':1 'earth':37 'examin':53 'farm':12 'flake':25 'go':42 'god':34 'green':36 'ideolog':2 'jeff':24 'legisl':19 'name':32 'parti':4 'piec':17 'presid':40 'r':27 'r-ariz':26 'rep':23 'respond':8 'right':5 'say':10 'sign':44 'terribl':16 'washington':52</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/crossfire-ideology-and-party/article/2504229?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973385</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:40:17-04:00</created-at>
+          <title>Romney opens up new line of attack against Obama</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...denies that he is winding down his campaign, but it is not an encouraging sign for him, especially with Republican Rep. Jeff Flake up with a seven-figure buy that runs through Election Day. *Arizona Republican Rep. Ben Quayle &#8217;s campaign is decrying a</excerpt>
+          <fti-names>'arizona':45 'attack':7 'ben':48 'buy':39 'campaign':17,51 'day':44 'decri':53 'deni':10 'elect':43 'encourag':23 'especi':27 'figur':38 'flake':32 'jeff':31 'line':5 'new':4 'obama':9 'open':2 'post':57 'quayl':49 'rep':30,47 'republican':29,46 'romney':1 'run':41 'seven':37 'seven-figur':36 'sign':24 'washington':56 'wind':14</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=e1f72426076ca6943d85912abd1e743e</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973384</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:44:25-04:00</created-at>
+          <title>Hotline Sort: Quayle's Last Stand</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...back to Hotline Sort. Romney raises big money again in July, the Arizona Republic endorses Jeff Flake, Sarah Palin stumps for Sarah Steelman, and Quayle's ticket to Congress may be expiring. 11) Roseanne Barr has finally found a Party. After losing the </excerpt>
+          <fti-names>'11':39 'arizona':19 'back':7 'barr':41 'big':13 'congress':35 'endors':21 'expir':38 'final':43 'flake':23 'found':44 'hotlin':1,9 'jeff':22 'journal':51 'juli':17 'last':5 'lose':48 'may':36 'money':14 'nation':50 'palin':25 'parti':46 'quayl':3,31 'rais':12 'republ':20 'romney':11 'roseann':40 'sarah':24,28 'sort':2,10 'stand':6 'steelman':29 'stump':26 'ticket':33</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-qu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972799</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:37-04:00</created-at>
+          <title>Wealthy candidates make presence felt in GOP races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Wil Cardon is still viewed as having work to do if he's going to catch the prohibitive favorite in the race &#8212; six-term Rep. Jeff Flake. But in Wisconsin, banking executive Eric Hovde is gaining quickly against a former governor and a former congressma</excerpt>
+          <fti-names>'bank':40 'candid':2 'cardon':10 'catch':24 'congressma':54 'eric':42 'execut':41 'favorit':27 'felt':5 'flake':36 'former':49,53 'gain':45 'go':22 'gop':7 'governor':50 'hovd':43 'jeff':35 'make':3 'nwcn.com':55 'presenc':4 'prohibit':26 'quick':46 'race':8,30 'rep':34 'six':32 'six-term':31 'still':12 'term':33 'view':13 'wealthi':1 'wil':9 'wisconsin':39 'work':16</fti-names>
+          <source-url>http://www.nwcn.com/</source-url>
+          <url>http://www.nwcn.com/news/politics/164854216.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971613</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NWCN.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:36-04:00</created-at>
+          <title>Palin Wades Into Arizona Races</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...became one of the youngest speakers in Arizona history. Palin also was featured on recorded messages urging voters to back Rep. Jeff Flake for U.S. Senate. Flake&#8217;s GOP primary opponent, wealthy self-funder Wil Cardon, has shelled out millions of dolla</excerpt>
+          <fti-names>'also':16 'arizona':4,13 'back':25 'becam':6 'cardon':42 'dolla':48 'featur':18 'flake':28,32 'funder':40 'gop':34 'histori':14 'jeff':27 'messag':21 'million':46 'newsmax':49 'one':7 'oppon':36 'palin':1,15 'primari':35 'race':5 'record':20 'rep':26 'self':39 'self-fund':38 'senat':31 'shell':44 'speaker':11 'u.s':30 'urg':22 'voter':23 'wade':2 'wealthi':37 'wil':41 'youngest':10</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Politics/palin-arizona-race-election/2012/08/03/id/447472</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971612</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:34-04:00</created-at>
+          <title>Rich Like Mitt: Millionaires Jump Into GOP Races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Wil Cardon is still viewed as having work to do if he's going to catch the prohibitive favorite in the race &#8212; six-term Rep. Jeff Flake. But in Wisconsin, banking executive Eric Hovde is gaining quickly against a former governor and a former congressma</excerpt>
+          <fti-names>'bank':40 'cardon':10 'catch':24 'cnbc':55 'congressma':54 'eric':42 'execut':41 'favorit':27 'flake':36 'former':49,53 'gain':45 'go':22 'gop':7 'governor':50 'hovd':43 'jeff':35 'jump':5 'like':2 'millionair':4 'mitt':3 'prohibit':26 'quick':46 'race':8,30 'rep':34 'rich':1 'six':32 'six-term':31 'still':12 'term':33 'view':13 'wil':9 'wisconsin':39 'work':16</fti-names>
+          <source-url>http://www.cnbc.com/</source-url>
+          <url>http://www.cnbc.com//id/48482825</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971611</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNBC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:26:29-04:00</created-at>
+          <title>GOP Congressman: If Companies Are Required To Accept Pre-Existing Conditions, &#8216;Insurance Is No Longer Insurance&#8217;</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Jeff Flake, a sixth-term GOP congressman and current Arizona senate candidate, has confirmed he is not among the 82 percent of Americans who think insurance companies should be banned from denying coverage to people with pre-existing conditions. Flake, </excerpt>
+          <fti-names>'82':38 'accept':8 'american':41 'among':36 'arizona':28 'ban':48 'candid':30 'compani':4,45 'condit':12,58 'confirm':32 'congressman':2,25 'coverag':51 'current':27 'deni':50 'exist':11,57 'flake':19,59 'gop':1,24 'insur':13,17,44 'jeff':18 'longer':16 'peopl':53 'percent':39 'pre':10,56 'pre-exist':9,55 'progress':61 'requir':6 'senat':29 'sixth':22 'sixth-term':21 'term':23 'think':43,60</fti-names>
+          <source-url>http://thinkprogress.org/</source-url>
+          <url>http://thinkprogress.org/health/2012/08/02/628981/flake-insurance-pre-existing-conditions/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970597</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Think Progress</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:26:28-04:00</created-at>
+          <title>Thursday's campaign round-up</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...race in Arizona may prove to be one of the more interesting contests of 2012, and PPP now shows Richard Carmona (D) and Rep. Jeff Flake (R) all tied up. * In an interesting twist in Florida politics, former Florida Gov. Charlie Crist hasn't just endorse</excerpt>
+          <fti-names>'2012':21 'arizona':9 'blog':54 'campaign':3 'carmona':27 'charli':47 'contest':19 'crist':48 'd':28 'endors':52 'flake':32 'florida':42,45 'former':44 'gov':46 'hasn':49 'interest':18,39 'jeff':31 'may':10 'msnbc':53 'one':14 'polit':43 'ppp':23 'prove':11 'r':33 'race':7 'rep':30 'richard':26 'round':5 'round-up':4 'show':25 'thursday':1 'tie':35 'twist':40</fti-names>
+          <source-url>http://www.msnbc.msn.com/id/3032105/</source-url>
+          <url>http://maddowblog.msnbc.com/_news/2012/08/02/13087441-thursdays-campaign-round-up</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970596</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MSNBC Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:26:23-04:00</created-at>
+          <title>Club for Growth Action eyes Wisconsin</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...ads opposing Wil Cardon, an Arizona Republican candidate for Senate. The August 28 primary will determine whether Cardon or Rep. Jeff Flake will be the Republican candidate vying for retiring Republican Sen. Jon Kyl&#8217;s seat. The super PAC&#8217;s founder a</excerpt>
+          <fti-names>'28':19 'action':4 'ad':7 'arizona':12 'august':18 'candid':14,33 'cardon':10,24 'club':1 'determin':22 'eye':5 'flake':28 'founder':47 'growth':3 'jeff':27 'jon':39 'kyl':40 'marketplac':49 'oppos':8 'pac':45 'primari':20 'rep':26 'republican':13,32,37 'retir':36 'seat':42 'sen':38 'senat':16 'super':44 'vy':34 'whether':23 'wil':9 'wisconsin':6</fti-names>
+          <source-url>http://www.marketplace.org/</source-url>
+          <url>http://feeds.americanpublicmedia.org/~r/APM_Marketplace/~3/lReomaHWBjE/club-growth-action-eyes-wisconsin</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970595</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Marketplace</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:38:14-04:00</created-at>
+          <title>Majority Whip Kevin McCarthy: Cruz's Victory Signals Tea Party Momentum in Senate</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...last shot of the season as Will Cardon, a self-financed businessman, throws millions into a primary to defeat Arizona Rep. Jeff Flake. Kyle Kondick, a congressional researcher at the Center for Politics at the University of Virginia, isn't hedging his b</excerpt>
+          <fti-names>'arizona':34 'b':57 'businessman':26 'cardon':21 'center':45 'congression':41 'cruz':5 'defeat':33 'financ':25 'flake':37 'hedg':55 'isn':53 'jeff':36 'kevin':3 'kondick':39 'kyle':38 'last':14 'major':1 'mccarthi':4 'million':28 'momentum':11 'news':59 'parti':10 'polit':47 'primari':31 'rep':35 'report':61 'research':42 'season':18 'self':24 'self-financ':23 'senat':13 'shot':15 'signal':8 'tea':9 'throw':27 'u.s':58 'univers':50 'victori':7 'virginia':52 'whip':2 'world':60</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/news/articles/2012/8/1/majority-whip-kevin-mccarthy-cruzs-victory-signals-tea-party-momentum-in-senate?s_cid=rss:majority-whip-kevin-mccarthy-cruzs-victory-signals-tea-party-momentum-in-senate</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969647</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. Jeff Flake [R, AZ-6]</name>
+      <total-session-votes type="integer">1660</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>6</district>
+      <middlename nil="true"></middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:26-04:00</created-at>
+          <title>Will Congressman Jeff Flake Continue Relying on Special Interest ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Phoenix, Arizona - 104 days ago, Wil Cardon asked Congressman Jeff Flake to join him in pledging to put Arizona first. He&amp;#39;s asking that both candidates work to keep this Senate race fair, balanced and without interference ...</excerpt>
+          <fti-names>'104':12 'ago':14 'arizona':11,28 'ask':17,32 'balanc':43 'candid':35 'cardon':16 'congressman':2,18 'continu':5 'day':13 'fair':42 'first':29 'flake':4,20 'interest':9 'interfer':46 'jeff':3,19 'join':22 'keep':38 'phoenix':10 'pledg':25 'press':47 'put':27 'race':41 'releas':48 'reli':6 'senat':40 'special':8 'wil':15 'without':45 'work':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sonoranalliance.com/2012/07/25/will-congressman-jeff-flake-continue-relying-on-special-interest-dollars/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNGxKzDZCUXi-DS_jjDcuP2F-Fg9NA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858863</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Press Release</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:26-04:00</created-at>
+          <title>SarahNET Radio Interviews Palin-Endorsed Jeff Flake for US ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Governor Sarah Palin backs Arizona Congressman Jeff Flake in his U.S. Senate bid! ... The Bridge to Nowhere, the Teapot Museum, and the Punxsutawney Weather Museum are three of the more infamous earmarks Rep.</excerpt>
+          <fti-names>'arizona':15 'back':14 'bid':23 'bridg':25 'congressman':16 'devito':45 'earmark':42 'endors':6 'flake':8,18 'governor':11 'infam':41 'interview':3 'jeff':7,17 'museum':30,35 'nowher':27 'palin':5,13 'palin-endors':4 'punxsutawney':33 'radio':2 'rep':43 'ron':44 'sarah':12 'sarahnet':1 'senat':22 'teapot':29 'three':37 'u.s':21 'us':10 'weather':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://palinpromotions.org/2012/07/sarahnet-radio-interviews-palin-endorsed-jeff-flake-for-us-senate-az/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHCnA7750sA_dRFjzWn5cCH7kDwug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858862</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ron Devito</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:25-04:00</created-at>
+          <title>SarahNET Radio Interviews Palin-Endorsed Jeff Flake for US ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>by Ron Devito on Wednesday, July 25, 2012 22:06 EDT. This week on The Palin Radio Update with Kevin Scholla: A special Endorsement Edition of the program! Governor Sarah Palin backs Arizona Congressman Jeff Flake in his U.S. ...</excerpt>
+          <fti-names>'06':20 '2012':18 '22':19 '25':17 'arizona':43 'back':42 'congressman':44 'devito':13,51 'edit':35 'edt':21 'endors':6,34 'flake':8,46 'governor':39 'interview':3 'jeff':7,45 'juli':16 'kevin':30 'palin':5,26,41 'palin-endors':4 'program':38 'radio':2,27 'ron':12,50 'sarah':40 'sarahnet':1 'scholla':31 'special':33 'u.s':49 'updat':28 'us':10 'wednesday':15 'week':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://us4palin.com/sarahnet-radio-interviews-palin-endorsed-jeff-flake-for-us-senate-az/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFxWTTDWcDk-1_oz56QyEd8usQjnA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16858861</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ron Devito</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:27-04:00</created-at>
+          <title>Palin backs Jeff Flake in Ariz. Senate primary - USA Today by ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sarah Palin has endorsed Rep. Jeff Flake in Arizonas increasingly nasty Republican primary, weighing in on a high-profile race that could help determine party control in the U.S. Senate. Flake announced the support of the ...</excerpt>
+          <fti-names>'announc':44 'ariz':6 'arizona':20 'back':2 'control':38 'could':34 'determin':36 'endors':15 'flake':4,18,43 'help':35 'high':30 'high-profil':29 'increas':21 'jeff':3,17 'laplasina':49 'nasti':22 'palin':1,13 'parti':37 'primari':8,24 'profil':31 'race':32 'rep':16 'republican':23 'sarah':12 'senat':7,42 'support':46 'today':10 'u.s':41 'usa':9 'weigh':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.englishbaby.com/blog/laplasina/view_entry/76396&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNECboqI5rS0xeBqtvX3PU2z4kFNQQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16858867</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>laplasina</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:27-04:00</created-at>
+          <title>Sarah Palin endorses Rep. Jeff Flake over tea partier in AZ Senate ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>July 24, 2012. Bucking her tea party predilection yet again this cycle, Sarah Palin on Monday endorsed Republican Rep. Jeff Flake over Wil Cardon in the Arizona Senate primary. &#8230; Palin earlier this year rankled tea partiers when she chose ...</excerpt>
+          <fti-names>'2012':15 '24':14 'admin':52 'arizona':39 'az':11 'buck':16 'cardon':36 'chose':51 'cycl':24 'earlier':43 'endors':3,29 'flake':6,33 'jeff':5,32 'juli':13 'monday':28 'palin':2,26,42 'parti':19 'partier':9,48 'predilect':20 'primari':41 'rankl':46 'rep':4,31 'republican':30 'sarah':1,25 'senat':12,40 'tea':8,18,47 'wil':35 'year':45 'yet':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.audacityofhypocrisy.com/2012/07/24/sarah-palin-endorses-rep-jeff-flake-over-tea-partier-in-az-senate/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNFHmSumqdys4XUOwIz_QCvlau8w8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16858866</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:26-04:00</created-at>
+          <title>Jeff Flake: Republican for US Senate Arizona | RedState</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jeff Flake is already an awesome representative, and LLPH has the confidence he will make an awesome senator. He was a leader for fiscal responsibility before it was cool. Please help Jeff Flake get elected by donating ...</excerpt>
+          <fti-names>'alreadi':12 'arizona':7 'awesom':14,25 'confid':20 'cool':37 'diari':47 'donat':45 'elect':43 'fiscal':32 'flake':2,10,41 'get':42 'help':39 'jeff':1,9,40 'leader':30 'llph':17 'make':23 'pleas':38 'redstat':8 'repres':15 'republican':3 'respons':33 'senat':6,26 'spoasteph97':46 'us':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/spoasteph97/2012/07/24/jeff-flake-republican-for-us-senate-arizona/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNFizylalK_4Y1lQyAm5Fyua8OWgbQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16858864</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>spoasteph97 (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:05:03-04:00</created-at>
+          <title>American Commissars: Sarah Palin endorses Rep. Jeff Flake over ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Sally Ride, 1st female astronaut in space, dies - partner says she was gay - Gonna be hard not to teach gay history how. Sally Ride, who died today after a 17-month battle with pancreatic cancer, was the first female U.S. ...</excerpt>
+          <fti-names>'17':39 '1st':12 'american':1 'astronaut':14 'battl':41 'cancer':44 'commissar':2 'die':17,35 'endors':5 'feed':52 'femal':13,48 'first':47 'flake':8 'gay':22,29 'gonna':23 'hard':25 'histori':30 'jeff':7 'month':40 'palin':4 'pancreat':43 'partner':18 'rep':6 'ride':11,33 'rss':51 'rss-feed':50 'salli':10,32 'sarah':3 'say':19 'space':16 'teach':28 'today':36 'u.s':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://am-com.blogspot.com/2012/07/sarah-palin-endorses-rep-jeff-flake.html&amp;sa=U&amp;ei=XGIPUIPOLqqq2QWQ6IGIBg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNH7EyQ_6Ahy08_3BTv6Jy3EMWCUKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16849044</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>RSS-Feed</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:05:02-04:00</created-at>
+          <title>Jeff Flake: Republican for US Senate Arizona | RedState</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jeff Flake is already an awesome representative, and LLPH has the confidence he will make an awesome senator. He was a leader for fiscal responsibility before it was cool. Please help Jeff Flake get elected by donating ...</excerpt>
+          <fti-names>'alreadi':12 'arizona':7 'awesom':14,25 'confid':20 'cool':37 'diari':47 'donat':45 'elect':43 'fiscal':32 'flake':2,10,41 'get':42 'help':39 'jeff':1,9,40 'leader':30 'llph':17 'make':23 'pleas':38 'redstat':8 'repres':15 'republican':3 'respons':33 'senat':6,26 'spoasteph97':46 'us':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/spoasteph97/2012/07/24/jeff-flake-republican-for-us-senate-arizona/&amp;sa=U&amp;ei=XGIPUIPOLqqq2QWQ6IGIBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEpghOyPaceB7lsCj1ko_b-mUME2w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16849041</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>spoasteph97 (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:05:02-04:00</created-at>
+          <title>Sarah Palin endorses Rep. Jeff Flake over tea partier in AZ Senate ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>July 24, 2012. Bucking her tea party predilection yet again this cycle, Sarah Palin on Monday endorsed Republican Rep. Jeff Flake over Wil Cardon in the Arizona Senate primary. &#8230; Palin earlier this year rankled tea partiers when she chose ...</excerpt>
+          <fti-names>'2012':15 '24':14 'admin':52 'arizona':39 'az':11 'buck':16 'cardon':36 'chose':51 'cycl':24 'earlier':43 'endors':3,29 'flake':6,33 'jeff':5,32 'juli':13 'monday':28 'palin':2,26,42 'parti':19 'partier':9,48 'predilect':20 'primari':41 'rankl':46 'rep':4,31 'republican':30 'sarah':1,25 'senat':12,40 'tea':8,18,47 'wil':35 'year':45 'yet':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.audacityofhypocrisy.com/2012/07/24/sarah-palin-endorses-rep-jeff-flake-over-tea-partier-in-az-senate/&amp;sa=U&amp;ei=XGIPUIPOLqqq2QWQ6IGIBg&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGVZLxBmxlJnu4aF4-G7S38F3TBbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T01:00:00-04:00</date>
+          <id type="integer">16849040</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400134</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:02:28-04:00</created-at>
+          <title>Palin Throws Support Behind Jeff Flake</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Former Alaska Gov. Sarah Palin threw her support behind GOP Rep. Jeff Flake, who faces a tough primary against businessman Wil Cardon in the U.S. Senate race. &#8220;The United States Senate needs a leader like Jeff Flake,&#8221; ...</excerpt>
+          <fti-names>'alaska':8 'behind':4,15 'businessman':26 'cardon':28 'face':21 'flake':6,19,43 'former':7 'gop':16 'gov':9 'jeff':5,18,42 'jon':44 'leader':40 'like':41 'need':38 'palin':1,11 'primari':24 'race':33 'rep':17 'sarah':10 'senat':32,37 'state':36 'support':3,14 'threw':12 'throw':2 'tough':23 'u.s':31 'unit':35 'wil':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicalese.com/palin-throws-support-behind-jeff-flake/98801/&amp;sa=U&amp;ei=QLMQUOjfBIHr0gH7r4CIAw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNGzECoAgY6bhbbw9KqWaZO6_bwGsA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-23T01:00:00-04:00</date>
+          <id type="integer">16858869</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">34838</page-views-count>
+      <unaccented-name>Jeff Flake</unaccented-name>
+      <oc-user-comments type="integer">15</oc-user-comments>
+    </person>
+  </people>
+</hash>

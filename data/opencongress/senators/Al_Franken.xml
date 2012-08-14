@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.4303797468354</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">400064</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">57</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">22</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">297</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">13</party-votes-percentage-rank>
+        <sponsored-bills type="integer">31</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">412378</person-id>
+        <cosponsored-bills-rank type="integer">7</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">39</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">148</votes-republican-position>
+      <blog-article-count type="integer">8434</blog-article-count>
+      <fax nil="true"></fax>
+      <user-approval type="float">5.29880478087649</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">861</oc-users-tracking>
+      <contact-webform>http://www.franken.senate.gov/?p=contact</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.4303797468354</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Franken</lastname>
+      <congress-office>309 Hart Senate Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Al</firstname>
+      <website>http://www.franken.senate.gov</website>
+      <birthday type="date">1951-05-21</birthday>
+      <person-id type="integer">412378</person-id>
+      <phone>202-224-5641</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">373</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:56-04:00</created-at>
+          <title>GOP's Parry says Dayton popped pills in meeting</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their spouses. It's easy to</excerpt>
+          <fti-names>'al':29 'ami':25 'atlant':21 'barack':34 'dayton':5 'drought':11 'easi':52 'ernesto':16 'fair':40 'forecast':12 'form':18 'franken':30 'free':38 'gop':1 'job':39,45 'kare':54 'klobuchar':26 'meet':9 'militari':44 'minneapoli':55 'obama':35 'open':41 'parri':3 'paul':57 'pill':7 'pop':6 'presid':33 'say':4,13 'seeker':46 'sen':24,28 'spous':49 'st':56 'storm':15 'tropic':14 'urg':32</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985943/391/GOPs-Parry-says-Dayton-popped-pills-in-meeting</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973743</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:56-04:00</created-at>
+          <title>Feisty Fusco in line to start for Vikings at guard</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelfth year of providing free or ... </excerpt>
+          <fti-names>'11':40 'al':30 'ami':26 'atlant':22 'barack':35 'celebr':44 'drought':12 'ernesto':17 'fair':39,43 'feisti':1 'forecast':13 'form':19 'franken':31 'free':50 'fusco':2 'guard':10 'health':38 'kare':52 'klobuchar':27 'line':4 'minneapoli':53 'obama':36 'paul':55 'presid':34 'provid':49 'say':14 'sen':25,29 'st':54 'start':6 'storm':16 'tropic':15 'twelfth':46 'urg':33 'vike':8 'year':47</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985965/24/Feisty-Fusco-in-line-to-start-for-Vikings-at-guard</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973742</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:56-04:00</created-at>
+          <title>Woman in Calif. stole baby after faking pregnancy</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelfth year of providing free or</excerpt>
+          <fti-names>'11':39 'al':29 'ami':25 'atlant':21 'babi':5 'barack':34 'calif':3 'celebr':43 'drought':11 'ernesto':16 'fair':38,42 'fake':7 'forecast':12 'form':18 'franken':30 'free':49 'health':37 'heat':9 'kare':51 'klobuchar':26 'minneapoli':52 'obama':35 'paul':54 'pregnanc':8 'presid':33 'provid':48 'say':13 'sen':24,28 'st':53 'stole':4 'storm':15 'tropic':14 'twelfth':45 'urg':32 'woman':1 'year':46</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985977/18/Woman-in-Calif-stole-baby-after-faking-pregnancy</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973741</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:56-04:00</created-at>
+          <title>Duluth TV news director resigns after Facebook post</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... Health Fair 11 at the Fair celebrates its twelfth year of providing free or ... </excerpt>
+          <fti-names>'11':38 'al':28 'ami':24 'atlant':20 'barack':33 'celebr':42 'director':4 'drought':10 'duluth':1 'ernesto':15 'facebook':7 'fair':37,41 'forecast':11 'form':17 'franken':29 'free':48 'health':36 'kare':50 'klobuchar':25 'minneapoli':51 'news':3 'obama':34 'paul':53 'post':8 'presid':32 'provid':47 'resign':5 'say':12 'sen':23,27 'st':52 'storm':14 'tropic':13 'tv':2 'twelfth':44 'urg':31 'year':45</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985966/14/Duluth-TV-news-director-resigns-after-Facebook-post</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973740</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:56-04:00</created-at>
+          <title>2012 Tuesday: Voter fraud, not suppression, is real</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...column about the book: In the &#8216;08 campaign, Republican Sen. Norm Coleman was running for re-election against Democrat Al Franken. It was impossibly close; on the morning after the election, after 2.9 million people had voted, Coleman led Franken by 72</excerpt>
+          <fti-names>'08':15 '2.9':42 '2012':1 '72':51 'al':29 'atlanta':52 'blog':55 'book':12 'campaign':16 'close':34 'coleman':20,47 'column':9 'constitut':54 'democrat':28 'elect':26,40 'franken':30,49 'fraud':4 'imposs':33 'journal':53 'led':48 'million':43 'morn':37 'norm':19 'peopl':44 're':25 're-elect':24 'real':8 'republican':17 'run':22 'sen':18 'suppress':6 'tuesday':2 'vote':46 'voter':3</fti-names>
+          <source-url>http://blogs.ajc.com/</source-url>
+          <url>http://blogs.ajc.com/kyle-wingfield/2012/08/07/2012-tuesday-voter-fraud-not-suppression-is-real/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973739</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:55-04:00</created-at>
+          <title>Voting fraud? Sometimes, it changes history</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...voter fraud can change history: On the '08 campaign, Republican Sen. Norm Coleman was running for re-election against Democrat Al Franken. It was impossibly close; on the morning after the election, after 2.9 million people had voted, Coleman led Franke</excerpt>
+          <fti-names>'08':14 '2.9':41 'al':28 'american':49 'campaign':15 'chang':5,10 'close':33 'coleman':19,46 'democrat':27 'elect':25,39 'frank':48 'franken':29 'fraud':2,8 'histori':6,11 'imposs':32 'led':47 'million':42 'morn':36 'norm':18 'peopl':43 're':24 're-elect':23 'republican':16 'run':21 'sen':17 'sometim':3 'thinker':50 'vote':1,45 'voter':7</fti-names>
+          <source-url>http://www.americanthinker.com/</source-url>
+          <url>http://www.americanthinker.com/blog/2012/08/voting_fraud_sometimes_it_changes_history.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973738</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Thinker</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:54-04:00</created-at>
+          <title>New Book Alleges That Voter Fraud Could Be Responsible For Election That Handed Senate Seat To Al Franken</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...upcoming book which examines the 2008 Minnesota Senate election in which Sen. Al Franken won a seat in the upper chamber of Congress by the narrowest of margins alleges that the election could have gone differently had it not been marred by voter fraud.</excerpt>
+          <fti-names>'2008':24 'al':17,31 'alleg':3,47 'book':2,20 'chamber':39 'congress':41 'could':7,51 'differ':54 'elect':11,27,50 'examin':22 'franken':18,32 'fraud':6,62 'gone':53 'hand':13 'mar':59 'margin':46 'mediaite.com':63 'minnesota':25 'narrowest':44 'new':1 'respons':9 'seat':15,35 'sen':30 'senat':14,26 'upcom':19 'upper':38 'voter':5,61 'won':33</fti-names>
+          <source-url>http://www.mediaite.com/</source-url>
+          <url>http://www.mediaite.com/online/new-book-alleges-that-voter-fraud-could-be-responsible-for-election-that-handed-senate-seat-to-al-franken/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973737</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mediaite.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:46-04:00</created-at>
+          <title>13-year-old Ohio boys drove to Mo. in stolen car</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their spouses. The Min</excerpt>
+          <fti-names>'13':1 'al':33 'ami':29 'atlant':25 'barack':38 'boy':6 'car':12 'drought':15 'drove':7 'ernesto':20 'fair':44 'forecast':16 'form':22 'franken':34 'free':42 'heat':13 'job':43,49 'kare':56 'klobuchar':30 'militari':48 'min':55 'minneapoli':57 'mo':9 'obama':39 'ohio':5 'old':4 'open':45 'paul':59 'presid':37 'say':17 'seeker':50 'sen':28,32 'spous':53 'st':58 'stolen':11 'storm':19 'tropic':18 'urg':36 'year':3 'year-old':2</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985831/18/13-year-old-Ohio-boys-drove-to-Mo-in-stolen-car</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973118</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:46-04:00</created-at>
+          <title>Reward offered in theft of handguns from Gander Mountain</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their spouses. Less th</excerpt>
+          <fti-names>'al':30 'ami':26 'atlant':22 'barack':35 'drought':12 'ernesto':17 'fair':41 'forecast':13 'form':19 'franken':31 'free':39 'gander':8 'handgun':6 'heat':10 'job':40,46 'kare':53 'klobuchar':27 'less':51 'militari':45 'minneapoli':54 'mountain':9 'obama':36 'offer':2 'open':42 'paul':56 'presid':34 'reward':1 'say':14 'seeker':47 'sen':25,29 'spous':50 'st':55 'storm':16 'th':52 'theft':4 'tropic':15 'urg':33</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985809/391/Reward-offered-in-theft-of-handguns-from-Gander-Mountain</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973117</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:46-04:00</created-at>
+          <title>Madonna voices support for jailed punk rockers</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...heat and drought ... Forecasters say Tropical Storm Ernesto has formed in the Atlantic and is ... Sen. Amy Klobuchar and Sen. Al Franken are urging President Barack Obama to ... A free job fair open to all military job seekers and their spouses. The Min</excerpt>
+          <fti-names>'al':28 'ami':24 'atlant':20 'barack':33 'drought':10 'ernesto':15 'fair':39 'forecast':11 'form':17 'franken':29 'free':37 'heat':8 'jail':5 'job':38,44 'kare':51 'klobuchar':25 'madonna':1 'militari':43 'min':50 'minneapoli':52 'obama':34 'open':40 'paul':54 'presid':32 'punk':6 'rocker':7 'say':12 'seeker':45 'sen':23,27 'spous':48 'st':53 'storm':14 'support':3 'tropic':13 'urg':31 'voic':2</fti-names>
+          <source-url>http://www.kare11.com/</source-url>
+          <url>http://www.kare11.com/rss/article/985817/18/Madonna-voices-support-for-jailed-punk-rockers</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973116</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KARE | Minneapolis &amp; St. Paul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id nil="true"></metavid-id>
+      <name>Sen. Al Franken [D, MN]</name>
+      <bioguide-id>F000457</bioguide-id>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:41-04:00</created-at>
+          <title>Franken interested in filling &amp;#39;skills gap,&amp;#39; visits STEP | Accuchines ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>With a regard about Minnesota&amp;#39;s &#8220;skills gap,&#8221; Sen. Al Franken recently visited Anoka-Hennepin&amp;#39;s Secondary Technical Education Program (STEP) to speak with students and staff about how a Anoka-Hennepin School District ...</excerpt>
+          <fti-names>'accuchin':9,46 'al':19 'anoka':24,42 'anoka-hennepin':23,41 'district':45 'educ':29 'fill':4 'franken':1,20 'gap':6,17 'hennepin':25,43 'interest':2 'manufactur':47 'minnesota':14 'program':30 'recent':21 'regard':12 'school':44 'secondari':27 'sen':18 'skill':5,16 'speak':33 'staff':37 'step':8,31 'student':35 'technic':28 'visit':7,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.accuchinesmanufacturing.com/franken-interested-in-filling-skills-gap-visits-step/&amp;sa=U&amp;ei=kKuNT5eRCamC2AXT9pnwCw&amp;ved=0CFcQmAEwCw&amp;usg=AFQjCNHqJR8ewww1_XEra2enZ96NfyOrKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545824</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Accuchines Manufacturing</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:41-04:00</created-at>
+          <title>Franken interested in filling &amp;#39;skills gap,&amp;#39; visits STEP | ABC Newspapers</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>With a concern about Minnesota&amp;#39;s &#8220;skills gap,&#8221; Sen. Al Franken recently visited Anoka-Hennepin&amp;#39;s Secondary Technical Education Program (STEP) to talk with students and staff about how the Anoka-Hennepin School District ...</excerpt>
+          <fti-names>'abc':9 'al':20 'anoka':25,43 'anoka-hennepin':24,42 'communiti':47 'concern':13 'contributor':48 'district':46 'educ':30 'fill':4 'franken':1,21 'gap':6,18 'hennepin':26,44 'interest':2 'minnesota':15 'newspap':10 'program':31 'recent':22 'school':45 'secondari':28 'sen':19 'skill':5,17 'staff':38 'step':8,32 'student':36 'talk':34 'technic':29 'visit':7,23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://abcnewspapers.com/2012/04/17/franken-interested-in-filling-skills-gap-visits-step/&amp;sa=U&amp;ei=kKuNT5eRCamC2AXT9pnwCw&amp;ved=0CFMQmAEwCg&amp;usg=AFQjCNEF-qBPk-FXJZlbdaPZoXh8GRx2qQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545823</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Community Contributor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:41-04:00</created-at>
+          <title>[WATCH]: Al Franken &#8211; Disgrace</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Al Franken Speaks Al Franken Talks About God Answers Students Questions Busting The Filibuster Foreclosure Hearing Got a question for Al Franken on Net Neutrality Public Option And Election Reform Senator Al Franken ...</excerpt>
+          <fti-names>'admin':38 'al':2,5,8,25,36 'answer':13 'bust':16 'disgrac':4 'elect':33 'filibust':18 'foreclosur':19 'franken':3,6,9,26,37 'god':12 'got':21 'hear':20 'net':28 'neutral':29 'option':31 'public':30 'question':15,23 'reform':34 'senat':35 'speak':7 'student':14 'talk':10 'watch':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://alfranken.on-the-rag.com/2012/04/17/watch-al-franken-disgrace/&amp;sa=U&amp;ei=kKuNT5eRCamC2AXT9pnwCw&amp;ved=0CE4QmAEwCQ&amp;usg=AFQjCNEJpf6ESDXybQImaGteie_W0rDJ0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545822</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:40-04:00</created-at>
+          <title>KEYC: Franken&amp;#39;s Push To Get Farm Bill Passed In ... - Al Franken</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>In an effort to gain ideas from farmers and rural business owners, Sen. Al Franken discussed his work to cut energy costs at a Rural Energy Forum in Mankato. Updates us on the status of the Farm Bill and Franken&amp;#39;s push to ...</excerpt>
+          <fti-names>'al':11,26 'bill':8,50 'busi':23 'cost':34 'cut':32 'discuss':28 'effort':15 'energi':33,38 'farm':7,49 'farmer':20 'forum':39 'franken':2,12,27,52 'gain':17 'get':6 'ian':56 'idea':18 'keyc':1 'mankato':41 'owner':24 'pass':9 'push':4,54 'rural':22,37 'sen':25 'status':46 'updat':42 'us':43 'work':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.alfranken.com/2012/04/16/keyc-frankens-push-to-get-farm-bill-passed-in-congress/&amp;sa=U&amp;ei=kKuNT5eRCamC2AXT9pnwCw&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNFF02rmIGcsRBGfs1D94PKP4tIFhA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14545816</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:55-04:00</created-at>
+          <title>Dunwoody College News &#187; Senator Franken visit Right Skills Now</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Al Franken (top center) visited Dunwoody earlier this month for a tour of the Right Skills Now program, which prepares graduates to become CNC (Computer Numeric Controlled) Operators. Senator Franken visited ...</excerpt>
+          <fti-names>'al':11 'becom':33 'center':14 'cnc':34 'colleg':2 'comput':35 'control':37 'dunwoodi':1,16 'earlier':17 'franken':5,12,40 'graduat':31 'month':19 'news':3 'newsroom':42 'numer':36 'oper':38 'prepar':30 'program':28 'right':7,25 'senat':4,10,39 'skill':8,26 'top':13 'tour':22 'visit':6,15,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dunwoody.edu/blog/2012/senator-franken-visit-right-skills-now/&amp;sa=U&amp;ei=FemMT57MFoLe2AXw3K3yCw&amp;ved=0CFAQmAEwCg&amp;usg=AFQjCNGyB_MQDt5Rm1L4BCqtH7QPh62bWQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526917</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Newsroom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:53-04:00</created-at>
+          <title>KEYC: Franken&amp;#39;s Push To Get Farm Bill Passed In ... - Al Franken</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>In an effort to gain ideas from farmers and rural business owners, Sen. Al Franken discussed his work to cut energy costs at a Rural Energy Forum in Mankato. Updates us on the status of the Farm Bill and Franken&amp;#39;s push to ...</excerpt>
+          <fti-names>'al':11,26 'bill':8,50 'busi':23 'cost':34 'cut':32 'discuss':28 'effort':15 'energi':33,38 'farm':7,49 'farmer':20 'forum':39 'franken':2,12,27,52 'gain':17 'get':6 'ian':56 'idea':18 'keyc':1 'mankato':41 'owner':24 'pass':9 'push':4,54 'rural':22,37 'sen':25 'status':46 'updat':42 'us':43 'work':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.alfranken.com/2012/04/16/keyc-frankens-push-to-get-farm-bill-passed-in-congress/&amp;sa=U&amp;ei=FemMT57MFoLe2AXw3K3yCw&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNF6HCrObEKR7us5f5gWr49Gis8DVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526910</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-14T12:56:05-04:00</created-at>
+          <title>DUMBASS: Joe Biden Says, Al Franken is a &amp;#39;leading legal scholar&amp;#39;</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Vice President Joe Biden described former Saturday Night Live comedian, Sen. Al Franken, D-Minn., as a &#8220;leading legal scholar,&#8221; presumably in the Senate, today. &#8220;He has been one of the leading legal scholars,&#8221; Biden said ...</excerpt>
+          <fti-names>'admir':50 'al':5,23 'biden':3,15,47 'comedian':21 'd':26 'd-minn':25 'describ':16 'dumbass':1 'former':17 'franken':6,24 'joe':2,14 'lead':9,30,44 'legal':10,31,45 'live':20 'minn':27 'night':19 'one':41 'presid':13 'presum':33 'said':48 'saturday':18 'say':4 'scholar':11,32,46 'sen':22 'senat':36 'today':37 'vice':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://madisle.info/2012/04/14/dumbass-joe-biden-says-al-franken-is-a-leading-legal-scholar/&amp;sa=U&amp;ei=I6yJT5XnH4HE2wXy3JC9CQ&amp;ved=0CFkQmAEwDA&amp;usg=AFQjCNH5CazANIQIlQ78QP-WFixnCIUWXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-14T01:00:00-04:00</date>
+          <id type="integer">14430698</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Admiral</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:42-04:00</created-at>
+          <title>Minnesota Family Council: Senator Al Franken is a legal scholar?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Vice President Joe Biden described former Saturday Night Live comedian, Sen. Al Franken, D-Minn., as a &amp;quot;leading legal scholar,&amp;quot; presumably in the Senate, today. &amp;quot;He has been one of the leading legal scholars,&amp;quot; Biden said ...</excerpt>
+          <fti-names>'al':5,22 'biden':14,46 'comedian':20 'council':3 'd':25 'd-minn':24 'describ':15 'famili':2 'former':16 'franken':6,23 'joe':13 'lead':29,43 'legal':9,30,44 'live':19 'minn':26 'minnesota':1 'night':18 'one':40 'presid':12 'presum':32 'prichard':49 'said':47 'saturday':17 'scholar':10,31,45 'sen':21 'senat':4,35 'today':36 'tom':48 'vice':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mnfamilycouncil.blogspot.com/2012/04/senator-al-franken-is-legal-scholar.html&amp;sa=U&amp;ei=kKuNT5eRCamC2AXT9pnwCw&amp;ved=0CFsQmAEwDA&amp;usg=AFQjCNE7t7maN82YdzIFW2nTEqotBCe0zQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14545825</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Prichard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:25:53-04:00</created-at>
+          <title>Minnesota Family Council: Senator Al Franken is a legal scholar?</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Vice President Joe Biden described former Saturday Night Live comedian, Sen. Al Franken, D-Minn., as a &amp;quot;leading legal scholar,&amp;quot; presumably in the Senate, today. &amp;quot;He has been one of the leading legal scholars,&amp;quot; Biden said ...</excerpt>
+          <fti-names>'al':5,22 'biden':14,46 'comedian':20 'council':3 'd':25 'd-minn':24 'describ':15 'famili':2 'former':16 'franken':6,23 'joe':13 'lead':29,43 'legal':9,30,44 'live':19 'minn':26 'minnesota':1 'night':18 'one':40 'presid':12 'presum':32 'prichard':49 'said':47 'saturday':17 'scholar':10,31,45 'sen':21 'senat':4,35 'today':36 'tom':48 'vice':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mnfamilycouncil.blogspot.com/2012/04/senator-al-franken-is-legal-scholar.html&amp;sa=U&amp;ei=IFaMT6eMD_C62gWN3bDlCQ&amp;ved=0CEwQmAEwCQ&amp;usg=AFQjCNENtne0k6WOzEHybuUwgLEazhkEEQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14507235</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Prichard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412378</commentariable-id>
+          <created-at type="datetime">2012-04-15T13:06:01-04:00</created-at>
+          <title>Minnesota Advocacy Beat: Join U.S. Senator Al Franken&amp;#39;s Staff</title>
+          <contains-term>senate</contains-term>
+          <excerpt>As the U.S. Senate begins debate the 2012 Farm Bill, key members of Senator Al Franken&amp;#39;s staff will hold a Farm Bill Nutrition Listening Tour across the Twin Cities to update those concerned about nutrition programs, public ...</excerpt>
+          <fti-names>'2012':18 'across':37 'advocaci':2 'al':7,25 'beat':3 'begin':15 'bill':20,33 'citi':40 'concern':44 'debat':16 'farm':19,32 'franken':8,26 'heart':49 'hold':30 'join':4 'key':21 'listen':35 'member':22 'midwest':52 'minnesota':1 'nutrit':34,46 'program':47 'public':48 'senat':6,14,24 'staff':10,28 'tour':36 'twin':39 'u.s':5,13 'updat':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://heartofminnesota.blogspot.com/2012/04/join-us-senator-al-frankens-staff.html&amp;sa=U&amp;ei=-P-KT6GFGIKb2QXktZXgCQ&amp;ved=0CFgQmAEwDA&amp;usg=AFQjCNEtq9NRQJixozkqqbCa2kLAzjW3NQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14468899</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Heart of the Midwest</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">38500</page-views-count>
+      <youtube-id>SenatorFranken</youtube-id>
+      <unaccented-name>Al Franken</unaccented-name>
+      <oc-user-comments type="integer">35</oc-user-comments>
+    </person>
+  </people>
+</hash>

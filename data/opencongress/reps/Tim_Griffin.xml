@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.8479532163743</party-votes-percentage>
+        <abstains-percentage type="float">0.523560209424084</abstains-percentage>
+        <votes-most-often-with-id type="integer">412400</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">9</abstains>
+        <cosponsored-bills type="integer">315</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">15</sponsored-bills>
+        <votes-least-often-with-id type="integer">400308</votes-least-often-with-id>
+        <person-id type="integer">412401</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">12</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1639</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">2758</blog-article-count>
+      <user-approval type="float">3.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">35</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>RepTimGriffin</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.8479532163743</with-party-percentage>
+      <lastname>Griffin</lastname>
+      <bioguide-id>G000567</bioguide-id>
+      <fax>202-225-5903</fax>
+      <congress-office>1232 Longworth House Office Building</congress-office>
+      <firstname>Tim</firstname>
+      <website>http://griffin.house.gov/</website>
+      <birthday type="date">1968-08-21</birthday>
+      <person-id type="integer">412401</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-2506</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">415</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:41:51-04:00</created-at>
+          <title>Tom Cotton: Too busy to talk about 2014</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...before, has focused on future plans of two current and possibly one future Republican congressmen. 2nd District Rep. Tim Griffin is widely assumed (dangerous word alert) to be planning to run for governor. 3rd District Rep. Steve Womack? You hear everyt</excerpt>
+          <fti-names>'2014':8 '2nd':24 '3rd':42 'alert':34 'arkansa':50 'assum':31 'busi':4 'congressmen':23 'cotton':2 'current':17 'danger':32 'district':25,43 'everyt':49 'focus':11 'futur':13,21 'governor':41 'griffin':28 'hear':48 'one':20 'plan':14,37 'possibl':19 'rep':26,44 'republican':22 'run':39 'steve':45 'talk':6 'tim':27 'time':51 'tom':1 'two':16 'wide':30 'womack':46 'word':33</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/08/07/tom-cotton-too-busy-to-talk-about-2014</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973405</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:47:21-04:00</created-at>
+          <title>How Many Stupid, Stupid Lawmakers Do We Have in Congress, Imperiling Very Existence of Life on Earth?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Republicans say they are not being pressed on the matter back home. &#8220;I&#8217;ve heard a lot about the drought,&#8221; said Rep. Tim Griffin (R-Ark.), &#8220;but I have not heard one thing connecting this to climate change.&#8221; To be fair, it&#8217;s hard to hear infor</excerpt>
+          <fti-names>'ark':44 'back':28 'chang':56 'climat':55 'congress':10 'connect':52 'drought':37 'earth':17 'exist':13 'fair':59 'griffin':41 'hard':62 'hear':64 'heard':32,49 'home':29 'imperil':11 'infor':65 'lawmak':5 'life':15 'lot':34 'mani':2 'matter':27 'one':50 'press':24 'r':43 'r-ark':42 'rep':39 'republican':18 'said':38 'say':19 'stupid':3,4 'thing':51 'tim':40 've':31 'wonkett':66</fti-names>
+          <source-url>http://www.wonkette.com/</source-url>
+          <url>http://feeds.wonkette.com/click.phdo?i=aaad2e871b408a4307d6328574744c25</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972821</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wonkette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:43:03-04:00</created-at>
+          <title>Hog ties ignite foreign camaraderie</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON  Members of Arkansas&#8217; congressional delegation spent the end of the week in Panama, but they said they felt right at home in the Central American country&#8217;s presidential palace. One big reason: Panamanian President Ricardo Martinelli is a Raz</excerpt>
+          <fti-names>'american':31 'arkansa':9,46 'big':37 'camaraderi':5 'central':30 'congression':10 'countri':32 'deleg':11 'end':14 'felt':24 'foreign':4 'hog':1 'home':27 'ignit':3 'martinelli':42 'member':7 'one':36 'onlin':47 'palac':35 'panama':19 'panamanian':39 'presid':40 'presidenti':34 'raz':45 'reason':38 'ricardo':41 'right':25 'said':22 'spent':12 'tie':2 'washington':6 'week':17</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/04/hog-ties-ignite-foreign-camaraderie-20120804/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972182</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:50:20-04:00</created-at>
+          <title>TGIF - the chicken edition</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to distinguish himself, nor has he done the incessant politicking that has, by way of contrast, distinguished Republican Rep. Tim Griffin's effort. * OCCUPY LR STANDS FOR WHAT? The critics who wanted Occupy Little Rock to do something constructive might</excerpt>
+          <fti-names>'arkansa':45 'chicken':3 'construct':43 'contrast':20 'critic':34 'distinguish':6,21 'done':11 'edit':4 'effort':27 'griffin':25 'incess':13 'littl':38 'lr':29 'might':44 'occupi':28,37 'politick':14 'rep':23 'republican':22 'rock':39 'someth':42 'stand':30 'tgif':1 'tim':24 'time':46 'want':36 'way':18</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/08/03/tgif-the-chicken-edition</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971636</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:35:31-04:00</created-at>
+          <title>Committee Extends Contract for Maxine Waters Probe's Outside Counsel</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Martin&#8217;s recommendation. Republican Reps. Mike Simpson (Idaho), Steven LaTourette (Ohio), Shelley Moore Capito (W.Va.), Tim Griffin (Ark.) and Goodlatte and Democratic Rep. John Sarbanes (Md.) were appointed as substitute committee members, with Goodl</excerpt>
+          <fti-names>'appoint':38 'ark':28 'call':46 'capito':24 'committe':1,41 'contract':3 'counsel':10 'democrat':32 'extend':2 'goodl':44 'goodlatt':30 'griffin':27 'idaho':18 'john':34 'latourett':20 'martin':11 'maxin':5 'md':36 'member':42 'mike':16 'moor':23 'ohio':21 'outsid':9 'probe':7 'recommend':13 'rep':15,33 'republican':14 'roll':45 'sarban':35 'shelley':22 'simpson':17 'steven':19 'substitut':40 'tim':26 'w.va':25 'water':6</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/committee_extends_contract_for_maxine_waters_probes_outside_counsel-216685-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970652</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:35:29-04:00</created-at>
+          <title>Bill Introduced To Help Lower Medicare Costs By Keeping Seniors Healthy</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...bill, Medicare, lower costs, sniors healthy, Health Rewards Program, U.S. Representatives, Erik Paulsen, R-MN, Ron Kind, D-WI, Tim Griffin, R-AR, Marcia Fudge, D-OH To share or post to your site, click on &quot;Post Link&quot;. Please mention / link to the ARRA N</excerpt>
+          <fti-names>'ar':37 'arra':59,61 'bill':1,12 'click':50 'cost':7,15 'd':31,41 'd-oh':40 'd-wi':30 'erik':23 'fudg':39 'griffin':34 'health':18 'healthi':11,17 'help':4 'introduc':2 'keep':9 'kind':29 'link':53,56 'lower':5,14 'marcia':38 'medicar':6,13 'mention':55 'mn':27 'n':60 'news':62 'oh':42 'paulsen':24 'pleas':54 'post':46,52 'program':20 'r':26,36 'r-ar':35 'r-mn':25 'repres':22 'reward':19 'ron':28 'senior':10 'servic':63 'share':44 'site':49 'snior':16 'tim':33 'u.s':21 'wi':32</fti-names>
+          <source-url>http://arkansasgopwing.blogspot.com/</source-url>
+          <url>http://arkansasgopwing.blogspot.com/2012/08/bill-introduced-to-help-lower-medicare.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970651</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ARRA News Service</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:56:16-04:00</created-at>
+          <title>Washington Digest: Senate extends tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>&quot;We need reasonable regulations and common sense regulations. The problem is with excessive and overly burdensome regulations,&quot; said Rep. Tim Griffin, R-Ark., who sponsored the bill. The bill was backed by business groups including the U.S. Chamber of ...</excerpt>
+          <fti-names>'ark':30 'back':38 'bill':34,36 'break':6 'burdensom':22 'busi':40 'chamber':45 'common':12 'digest':2 'excess':19 'extend':4 'griffin':27 'group':41 'includ':42 'journal':50 'las':47 'need':8 'over':21 'problem':16 'r':29 'r-ark':28 'reason':9 'regul':10,14,23 'rep':25 'review':49 'said':24 'senat':3 'sens':13 'sponsor':32 'tax':5 'tim':26 'u.s':44 'vega':48 'washington':1</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.lvrj.com/news/washington-digest-senate-extends-tax-breaks-164174496.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T04:56:10-04:00</date>
+          <id type="integer">16947259</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:56:02-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Vote 11: Restricting new regulations: The House has passed the Red Tape Reduction and Small Business Job Creation Act (H.R. 4078), sponsored by Rep. Tim Griffin, R-Ark. The bill would bar federal agencies from developing new significant ...</excerpt>
+          <fti-names>'11':4 '4078':23 'act':21 'agenc':37 'ark':31 'bar':35 'bill':33 'busi':18 'call':2 'creation':20 'develop':39 'feder':36 'griffin':28 'h.r':22 'hous':9 'job':19 'new':6,40 'pass':11 'r':30 'r-ark':29 'red':13 'reduct':15 'regul':7 'rep':26 'restrict':5 'roll':1 'signific':41 'small':17 'sponsor':24 'tape':14 'tim':27 'tulsa':42 'vote':3 'world':43 'would':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=11</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T02:54:29-04:00</date>
+          <id type="integer">16960326</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:56:18-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Vote 11: Restricting new regulations: The House has passed the Red Tape Reduction and Small Business Job Creation Act (H.R. 4078), sponsored by Rep. Tim Griffin, R-Ark. The bill would bar federal agencies from developing new significant ...</excerpt>
+          <fti-names>'11':4 '4078':23 'act':21 'agenc':37 'ark':31 'bar':35 'bill':33 'busi':18 'call':2 'creation':20 'develop':39 'feder':36 'griffin':28 'h.r':22 'hous':9 'job':19 'new':6,40 'pass':11 'r':30 'r-ark':29 'red':13 'reduct':15 'regul':7 'rep':26 'restrict':5 'roll':1 'signific':41 'small':17 'sponsor':24 'tape':14 'tim':27 'tulsa':42 'vote':3 'world':43 'would':34</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T02:33:00-04:00</date>
+          <id type="integer">16947261</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:56:41-04:00</created-at>
+          <title>Washington Digest: Senate extends tax breaks</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...regulations and common sense regulations. The problem is with excessive and overly burdensome regulations,&quot; said Rep. Tim Griffin, R-Ark., who sponsored the bill. The bill was backed by business groups including the U.S. Chamber of Commerce and the Nati</excerpt>
+          <fti-names>'ark':27 'back':35 'bill':31,33 'break':6 'burdensom':19 'busi':37 'chamber':42 'commerc':44 'common':9 'digest':2 'excess':16 'extend':4 'griffin':24 'group':38 'includ':39 'journal':52 'las':48 'lvrj.com':53 'nati':47 'over':18 'problem':13 'r':26 'r-ark':25 'regul':7,11,20 'rep':22 'review':51 'review-journ':50 'said':21 'senat':3 'sens':10 'sponsor':29 'tax':5 'tim':23 'u.s':41 'vega':49 'washington':1</fti-names>
+          <source-url>http://www.lvrj.com/</source-url>
+          <url>http://www.lvrj.com/r?19=961&amp;43=192612&amp;44=164174496&amp;32=4051&amp;7=204882&amp;40=http%3A%2F%2Fwww.lvrj.com%2Fnews%2Fwashington-digest-senate-extends-tax-breaks-164174496.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947267</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Las Vegas Review-Journal | LVRJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Tim Griffin [R, AR-2]</name>
+      <total-session-votes type="integer">1710</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:55:55-04:00</created-at>
+          <title>The Maritime Sentry: RSC Update: The Question of the Year - More ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tim Griffin (AR-02): Job Creators Need a Break From Regulations; Roll Call, July 25. &#183; Rep. Mike Kelly (PA-03): Rep. Kelly Makes Riveting Speech on the House Floor about the Costs of Red Tape for Americans; C-SPAN ...</excerpt>
+          <fti-names>'-02':16 '-03':32 '25':27 'american':49 'ar':15 'break':21 'c':51 'c-span':50 'call':25 'cost':44 'creator':18 'dr':53 'floor':41 'griffin':14 'hous':40 'job':17 'juli':26 'kelli':30,34 'make':35 'maritim':2 'mike':29 'need':19 'pa':31 'question':7 'red':46 'regul':23 'rep':12,28,33 'rivet':36 'roll':24 'rsc':4 'sentri':3 'span':52 'speech':37 'tape':47 'tim':13 'updat':5 'year':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.themaritimesentry.com/2012/07/rsc-update-question-of-year-more-taxes.html&amp;sa=U&amp;ei=OUkXUKSLI4fO9QS4h4HgCA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNE1ADCX41jUMO4yFBi4R4pTAn5B-w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960320</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:55:55-04:00</created-at>
+          <title>Federal Regulators, Out of Ideas, Don&amp;#39;t Let That Stop Them From ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Tim Griffin (R-AR) just got a bill passed through the House on July 27th called the &amp;#39;Red Tape Reduction and Small Business Job Creation Act (H.R. 4078) which is intended to reduce the voluminous, onerous and ...</excerpt>
+          <fti-names>'27th':29 '4078':42 'act':40 'ar':18 'bill':22 'busi':37 'call':30 'creation':39 'feder':1 'got':20 'griffin':15 'h.r':41 'henri':53 'hous':26 'idea':5 'intend':45 'job':38 'juli':28 'let':8 'oner':50 'p':52 'pass':23 'r':17 'r-ar':16 'red':32 'reduc':47 'reduct':34 'regul':2 'rep':13 'saddleburr':54 'small':36 'stop':10 'tape':33 'tim':14 'volumin':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://disruptthenarrative.com/2012/07/30/federal-regulators-out-of-ideas-dont-let-that-stop-them-from-creating-more-regulations/&amp;sa=U&amp;ei=OUkXUKSLI4fO9QS4h4HgCA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFY_juBnu-vm0r6rrWWHw6ALvBWdg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960317</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>P. Henry Saddleburr</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:55:56-04:00</created-at>
+          <title>Ford County Illinois Woman Sends Out Call to Action to Stop ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. Tim Johnson R-IL (lame duck) Sen. Mark Udall-D-CO http://nawindpower.com/e107_plugins/content/content.php?content.10155 *The following freshman representatives wrote a letter dated June 27, 2012 to Speaker Boehner in favor of the   PTC: (see letter at</excerpt>
+          <fti-names>'/e107_plugins/content/content.php?content.10155':28 '2012':39 '27':38 'action':9 'boehner':42 'call':7 'co':25 'conserv':51 'counti':2 'd':24 'date':36 'duck':19 'favor':44 'follow':30 'ford':1 'freshman':31 'il':17 'illinoi':3 'johnson':14 'june':37 'lame':18 'letter':35,49 'mark':21 'nawindpower.com':27 'nawindpower.com/e107_plugins/content/content.php?content.10155':26 'ptc':47 'r':16 'r-il':15 'rep':12 'repres':32 'see':48 'sen':20 'send':5 'speaker':41 'stop':11 'tim':13 'udal':23 'udall-d-co':22 'woman':4 'wrote':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.areweawareyet.com/21207/ford-county-illinois-woman-sends-out-call-to-action-to-stop-congress-from-furthering-subsidies-for-wind-energy-projects/&amp;sa=U&amp;ei=OUkXUKSLI4fO9QS4h4HgCA&amp;ved=0CE8QmAEwCw&amp;usg=AFQjCNG0flodo5dQYhJc1ULUQMK6YlwGYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16960321</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Conservative</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:55:13-04:00</created-at>
+          <title>Griffin anti-regulation bill clears House &#8211; Arkansas News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8212; U.S. Rep. Tim Griffin, R-Little Rock, won House approval today for legislation that would effectively block the Obama administration from issuing new major regulations. The House voted, 245-172, in favor of ...</excerpt>
+          <fti-names>'-172':41 '245':40 'admin':45 'administr':31 'anti':3 'anti-regul':2 'approv':21 'arkansa':8 'bill':5 'block':28 'clear':6 'effect':27 'favor':43 'griffin':1,14 'hous':7,20,38 'issu':33 'legisl':24 'littl':17 'major':35 'new':34 'news':9 'obama':30 'r':16 'r-littl':15 'regul':4,36 'rep':12 'rock':18 'tim':13 'today':22 'u.s':11 'vote':39 'washington':10 'won':19 'would':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ar-moc/tim-griffin-arkansas-representative/griffin-anti-regulation-bill-clears-house-arkansas-news/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dgriffin-anti-regulation-bill-clears-house-arkansas-news&amp;sa=U&amp;ei=tyEWUKenIoiI8QSckoDYBQ&amp;ved=0CEIQmAEwCA&amp;usg=AFQjCNGvu51y2KtRZEWbOEd3vKwk64bBVQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947245</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:55:11-04:00</created-at>
+          <title>Candidate Herb Rule: Griffin legislation a &amp;#39;farce&amp;#39; | Arkansas News</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>We&amp;#39;d not given much attention to U.S. Rep. Tim Griffin&amp;#39;s gimmick legislation splashed across page one of the Democrat-Gazette this morning because 1) it&amp;#39;s not going to pass the Senate and 2) it&amp;#39;s been derided as nothing but ...</excerpt>
+          <fti-names>'1':36 '2':46 'across':25 'admin':54 'arkansa':8 'attent':15 'candid':1 'd':11 'democrat':31 'democrat-gazett':30 'derid':50 'farc':7 'gazett':32 'gimmick':22 'given':13 'go':40 'griffin':4,20 'herb':2 'legisl':5,23 'morn':34 'much':14 'news':9 'noth':52 'one':27 'page':26 'pass':42 'rep':18 'rule':3 'senat':44 'splash':24 'tim':19 'u.s':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasnews.com/2012/07/28/candidate-herb-rule-griffin-legislation-a-farce-2/&amp;sa=U&amp;ei=tyEWUKenIoiI8QSckoDYBQ&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFCPDx8r8KVPlEFbOHzwCaId9yN8w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947243</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:55:10-04:00</created-at>
+          <title>Ford County Illinois Woman Sends Out Call to Action to Stop ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Rep. Tim Johnson R-IL (lame duck) Sen. Mark Udall-D-CO http://nawindpower.com/e107_plugins/content/content.php?content.10155 *The following freshman representatives wrote a letter dated June 27, 2012 to Speaker Boehner in favor of the   PTC: (see letter at</excerpt>
+          <fti-names>'/e107_plugins/content/content.php?content.10155':28 '2012':39 '27':38 'action':9 'boehner':42 'call':7 'co':25 'conserv':51 'counti':2 'd':24 'date':36 'duck':19 'favor':44 'follow':30 'ford':1 'freshman':31 'il':17 'illinoi':3 'johnson':14 'june':37 'lame':18 'letter':35,49 'mark':21 'nawindpower.com':27 'nawindpower.com/e107_plugins/content/content.php?content.10155':26 'ptc':47 'r':16 'r-il':15 'rep':12 'repres':32 'see':48 'sen':20 'send':5 'speaker':41 'stop':11 'tim':13 'udal':23 'udall-d-co':22 'woman':4 'wrote':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.areweawareyet.com/21207/ford-county-illinois-woman-sends-out-call-to-action-to-stop-congress-from-furthering-subsidies-for-wind-energy-projects/&amp;sa=U&amp;ei=tyEWUKenIoiI8QSckoDYBQ&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFnVlkpLsKYZaAXux7XqrAaLpYdEg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16947242</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Conservative</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:55:55-04:00</created-at>
+          <title>Griffin anti-regulation bill clears House &#8211; Arkansas News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8212; U.S. Rep. Tim Griffin, R-Little Rock, won House approval today for legislation that would effectively block the Obama administration from issuing new major regulations. The House voted, 245-172, in favor of ...</excerpt>
+          <fti-names>'-172':41 '245':40 'admin':45 'administr':31 'anti':3 'anti-regul':2 'approv':21 'arkansa':8 'bill':5 'block':28 'clear':6 'effect':27 'favor':43 'griffin':1,14 'hous':7,20,38 'issu':33 'legisl':24 'littl':17 'major':35 'new':34 'news':9 'obama':30 'r':16 'r-littl':15 'regul':4,36 'rep':12 'rock':18 'tim':13 'today':22 'u.s':11 'vote':39 'washington':10 'won':19 'would':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ar-moc/tim-griffin-arkansas-representative/griffin-anti-regulation-bill-clears-house-arkansas-news/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dgriffin-anti-regulation-bill-clears-house-arkansas-news&amp;sa=U&amp;ei=OUkXUKSLI4fO9QS4h4HgCA&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNHfmRrJBQl7fNp5Ot7nCmSV7ps2qA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16960319</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:55:09-04:00</created-at>
+          <title>Candidate Herb Rule: Griffin legislation a &amp;#39;farce&amp;#39; | Arkansas Blog</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>We&amp;#39;d not given much attention to U.S. Rep. Tim Griffin&amp;#39;s gimmick legislation splashed across page one of the Democrat-Gazette this morning because 1) it&amp;#39;s not going to pass the Senate and 2) it&amp;#39;s been derided as nothing but ...</excerpt>
+          <fti-names>'1':36 '2':46 'across':25 'arkansa':8 'attent':15 'blog':9 'brantley':55 'candid':1 'd':11 'democrat':31 'democrat-gazett':30 'derid':50 'farc':7 'gazett':32 'gimmick':22 'given':13 'go':40 'griffin':4,20 'herb':2 'legisl':5,23 'max':54 'morn':34 'much':14 'noth':52 'one':27 'page':26 'pass':42 'rep':18 'rule':3 'senat':44 'splash':24 'tim':19 'u.s':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.arktimes.com/ArkansasBlog/archives/2012/07/27/candidate-herb-rule-griffin-legislation-a-farce&amp;sa=U&amp;ei=tyEWUKenIoiI8QSckoDYBQ&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNEKpq3TUJ8N7MqfaUVOKzGuDhoeLg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16947240</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Brantley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:31:43-04:00</created-at>
+          <title>Griffin anti-regulation bill clears House &#8211; Arkansas News ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8212; U.S. Rep. Tim Griffin, R-Little Rock, won House approval today for legislation that would effectively block the Obama administration from issuing new major regulations. The House voted, 245-172, in favor of ...</excerpt>
+          <fti-names>'-172':41 '245':40 'admin':45 'administr':31 'anti':3 'anti-regul':2 'approv':21 'arkansa':8 'bill':5 'block':28 'clear':6 'effect':27 'favor':43 'griffin':1,14 'hous':7,20,38 'issu':33 'legisl':24 'littl':17 'major':35 'new':34 'news':9 'obama':30 'r':16 'r-littl':15 'regul':4,36 'rep':12 'rock':18 'tim':13 'today':22 'u.s':11 'vote':39 'washington':10 'won':19 'would':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ar-moc/tim-griffin-arkansas-representative/griffin-anti-regulation-bill-clears-house-arkansas-news/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dgriffin-anti-regulation-bill-clears-house-arkansas-news&amp;sa=U&amp;ei=mq4UUNmyGYOu9ASEpoDYAQ&amp;ved=0CDYQmAEwBQ&amp;usg=AFQjCNGbEGc3MFiR5YZDXcIcxqwaCmZ99A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929683</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412401</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:31:42-04:00</created-at>
+          <title>Candidate Herb Rule: Griffin legislation a &amp;#39;farce&amp;#39; | Arkansas News</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>We&amp;#39;d not given much attention to U.S. Rep. Tim Griffin&amp;#39;s gimmick legislation splashed across page one of the Democrat-Gazette this morning because 1) it&amp;#39;s not going to pass the Senate and 2) it&amp;#39;s been derided as nothing but ...</excerpt>
+          <fti-names>'1':36 '2':46 'across':25 'admin':54 'arkansa':8 'attent':15 'candid':1 'd':11 'democrat':31 'democrat-gazett':30 'derid':50 'farc':7 'gazett':32 'gimmick':22 'given':13 'go':40 'griffin':4,20 'herb':2 'legisl':5,23 'morn':34 'much':14 'news':9 'noth':52 'one':27 'page':26 'pass':42 'rep':18 'rule':3 'senat':44 'splash':24 'tim':19 'u.s':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasnews.com/2012/07/28/candidate-herb-rule-griffin-legislation-a-farce-2/&amp;sa=U&amp;ei=mq4UUNmyGYOu9ASEpoDYAQ&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNG9H3KUXIabqnWqrBE0tS_1kkE2Pw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929682</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">8157</page-views-count>
+      <unaccented-name>Tim Griffin</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

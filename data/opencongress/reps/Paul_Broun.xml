@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">88.0454273759713</party-votes-percentage>
+        <abstains-percentage type="float">2.6759744037231</abstains-percentage>
+        <votes-most-often-with-id type="integer">412388</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">222</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">369</cosponsored-bills-passed-rank>
+        <abstains type="integer">46</abstains>
+        <cosponsored-bills type="integer">296</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">375</party-votes-percentage-rank>
+        <sponsored-bills type="integer">21</sponsored-bills>
+        <votes-least-often-with-id type="integer">400360</votes-least-often-with-id>
+        <person-id type="integer">412252</person-id>
+        <cosponsored-bills-rank type="integer">161</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">81</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1473</votes-republican-position>
+      <blog-article-count type="integer">8586</blog-article-count>
+      <fax>202-226-0776</fax>
+      <user-approval type="float">5.09803921568627</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">174</oc-users-tracking>
+      <contact-webform>http://broun.house.gov/email.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">88.0454273759713</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Broun</lastname>
+      <congress-office>325 Cannon House Office Building</congress-office>
+      <middlename>C.</middlename>
+      <firstname>Paul</firstname>
+      <website>http://broun.house.gov/</website>
+      <birthday type="date">1946-12-07</birthday>
+      <bioguide-id>B001262</bioguide-id>
+      <person-id type="integer">412252</person-id>
+      <phone>202-225-4101</phone>
+      <religion>Baptist</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">295</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:48:11-04:00</created-at>
+          <title>Who Are You Callin&#8217; &#8216;Chikin?&#8217;</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...their chicken is delicious.&#8221; Nunnelee sent a letter to Cathy signed by 16 colleagues &#8212; including Georgia Republican Reps. Paul Broun, Phil Gingrey and Lynn Westmoreland &#8212; to mark the event. &#8220;We are bewildered by those who would take offense at y</excerpt>
+          <fti-names>'16':18 'bewild':37 'broun':25 'call':47 'callin':4 'cathi':15 'chicken':7 'chikin':5 'colleagu':19 'delici':9 'event':34 'georgia':21 'gingrey':27 'includ':20 'letter':13 'lynn':29 'mark':32 'nunnele':10 'offens':43 'paul':24 'phil':26 'rep':23 'republican':22 'roll':46 'sent':11 'sign':16 'take':42 'westmoreland':30 'would':41 'y':45</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/who_are_you_callin_chikin-216681-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970450</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:15-04:00</created-at>
+          <title>Broun Wins Georgia 10th District GOP Congressional Primary</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Rep. Paul Broun has emerged from a GOP primary challenge and heads to November with no Democratic opposition in Georgia's 10th Congressional District. The 66-year-old lawmaker from Athens outpolled Stephen Simpson, a retired Army officer from Milledgevi</excerpt>
+          <fti-names>'10th':4,30 '66':34 '7':55 'armi':46 'athen':40 'broun':1,11 'cbs':51 'cbs-wspa':50 'challeng':18 'channel':54 'congression':7,31 'democrat':25 'district':5,32 'emerg':13 'georgia':3,28 'gop':6,16 'head':20 'lawmak':38 'milledgevi':49 'news':53 'novemb':22 'offic':47 'old':37 'opposit':26 'outpol':41 'paul':10 'primari':8,17 'rep':9 'retir':45 'simpson':43 'stephen':42 'win':2 'wspa':52 'year':36 'year-old':35</fti-names>
+          <source-url>http://www2.wspa.com/</source-url>
+          <url>http://www2.wspa.com/news/2012/jul/31/broun-wins-georgia-10th-district-gop-congressional-ar-4248323/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969532</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS-WSPA News Channel 7</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:15-04:00</created-at>
+          <title>Of posters and politics</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...it moments after making sure it was imprinted in the public's mind. Soon after Obama was elected in 2008, Republican Rep. Paul Broun of Georgia told an Associated Press reporter that Obama would move the country toward socialism. &quot;We can't be lulled int</excerpt>
+          <fti-names>'2008':24 'associ':33 'broun':28 'cape':50 'cod':51 'countri':41 'elect':22 'georgia':30 'imprint':12 'int':49 'lull':48 'make':8 'mind':17 'moment':6 'move':39 'obama':20,37 'onlin':52 'paul':27 'polit':4 'poster':2 'press':34 'public':15 'rep':26 'report':35 'republican':25 'social':43 'soon':18 'sure':9 'told':31 'toward':42 'would':38</fti-names>
+          <source-url>http://www.capecodonline.com/</source-url>
+          <url>http://www.capecodonline.com/apps/pbcs.dll/article?AID=/20120801/OPINION/208010329/-1/rss09</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969531</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cape Cod Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:15-04:00</created-at>
+          <title>Broun wins over Walton voters, cruises to re-election for U.S. House seat</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>...a race that grew increasingly heated as Election Day neared, Rep. Paul Broun, R-Athens, defeated Stephen Simpson in Walton County in the race for the District 10 seat in the House of Representatives. Although a few counties had yet to report final resul</excerpt>
+          <fti-names>'10':43 'although':50 'athen':30 'broun':1,27 'counti':36,53 'cruis':6 'day':23 'defeat':31 'district':42 'elect':10,22 'final':58 'grew':18 'heat':20 'hous':13,47 'increas':19 'near':24 'paul':26 'r':29 'r-athen':28 'race':16,39 're':9 're-elect':8 'rep':25 'report':57 'repres':49 'resul':59 'seat':14,44 'simpson':33 'stephen':32 'tribun':62 'u.s':12 'voter':5 'walton':4,35,61 'win':2 'yet':55</fti-names>
+          <source-url>http://www.waltontribune.com/</source-url>
+          <url>http://waltontribune.com/news/article_6f9c85dc-db91-11e1-ba8b-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Walton Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:15-04:00</created-at>
+          <title>9th District race headed for runoff</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the 2010 census showed strong growth in North Georgia. Much of the district was carved out of the 10th, home to U.S. Rep. Paul Broun, an Athens Republican, and the old 9th, which is now the 14th and is represented by Tom Graves, a Republican from Ranger</excerpt>
+          <fti-names>'10th':25 '14th':43 '2010':8 '9th':1,38 'athen':33 'atlanta':54 'broun':31 'carv':21 'census':9 'constitut':56 'district':2,19 'georgia':15 'grave':49 'growth':12 'head':4 'home':26 'journal':55 'much':16 'north':14 'old':37 'paul':30 'race':3 'ranger':53 'rep':29 'repres':46 'republican':34,51 'runoff':6 'show':10 'strong':11 'tom':48 'u.s':28</fti-names>
+          <source-url>http://www.ajc.com/</source-url>
+          <url>http://www.ajc.com/news/georgia-politics-elections/9th-district-race-headed-1488560.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969529</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:32:14-04:00</created-at>
+          <title>Congressional incumbents appear to survive primaries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...GOP primary challenge from David Hancock. Woodall would face Democrat Steve Reilly, an attorney, in November. District 10: Rep. Paul Broun, R-Athens, appeared to prevail in a spirited primary contest against Stephen Simpson. District 11: Rep. Phil Gingr</excerpt>
+          <fti-names>'10':24 '11':43 'appear':3,31 'athen':30 'atlanta':47 'attorney':20 'broun':27 'challeng':9 'congression':1 'constitut':49 'contest':38 'david':11 'democrat':16 'district':23,42 'face':15 'gingr':46 'gop':7 'hancock':12 'incumb':2 'journal':48 'novemb':22 'paul':26 'phil':45 'prevail':33 'primari':6,8,37 'r':29 'r-athen':28 'reilli':18 'rep':25,44 'simpson':41 'spirit':36 'stephen':40 'steve':17 'surviv':5 'woodal':13 'would':14</fti-names>
+          <source-url>http://www.ajc.com/</source-url>
+          <url>http://www.ajc.com/news/georgia-politics-elections/congressional-incumbents-appear-to-1488550.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969528</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:15-04:00</created-at>
+          <title>US Rep. Broun wins GOP primary in 10th District</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Republican Rep. Paul Broun has emerged from a GOP primary challenge and heads to November with no Democratic opposition in Georgia's 10th Congressional District. The 66-year-old lawmaker from Athens outpolled Stephen Simpson, a retired Army officer from ..</excerpt>
+          <fti-names>'10th':8,32 '66':36 'armi':48 'athen':42 'atlanta':54 'broun':3,13 'challeng':20 'congression':33 'democrat':27 'district':9,34 'emerg':15 'georgia':30 'gop':5,18 'head':22 'lawmak':40 'novemb':24 'offic':49 'old':39 'opposit':28 'outpol':43 'paul':12 'primari':6,19 'rep':2,11 'republican':10 'retir':47 'simpson':45 'stephen':44 'tv':53 'us':1 'win':4 'wsb':52 'wsb-tv':51 'year':38 'year-old':37</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wsbtv.com/ap/ap/georgia/us-rep-broun-wins-gop-primary-in-10th-district/nP7t2/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:04:35-04:00</date>
+          <id type="integer">16966104</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WSB-TV Atlanta</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:16-04:00</created-at>
+          <title>9th District race appears headed for runoff</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Much of the district was carved out of the 10th, home to U.S. Rep. Paul Broun, an Athens Republican, and the old 9th, which is now the 14th and is represented by Tom Graves, a Republican from Ranger. The new district, a 20-county wedge of ...</excerpt>
+          <fti-names>'10th':17 '14th':35 '20':50 '9th':1,30 'appear':4 'athen':25 'atlanta':54 'broun':23 'carv':13 'constitut':56 'counti':51 'district':2,11,48 'grave':41 'head':5 'home':18 'journal':55 'much':8 'new':47 'old':29 'paul':22 'race':3 'ranger':45 'rep':21 'repres':38 'republican':26,43 'runoff':7 'tom':40 'u.s':20 'wedg':52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.ajc.com/news/georgia-politics-elections/9th-district-race-appears-1488560.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T21:50:16-04:00</date>
+          <id type="integer">16966107</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:16-04:00</created-at>
+          <title>Your morning jolt: A checklist for tonight&#8217;s vote</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Lynn Westmoreland, the incumbent Republican running in 3rd Congressional district; U.S. Rep. Paul Broun, the incumbent Republican representing the 10th Congressional district; U.S. Rep. Hank Johnson, the incumbent Democrat representing the 4th ...</excerpt>
+          <fti-names>'10th':29 '3rd':17 '4th':41 'atlanta':42 'blog':45 'broun':23 'checklist':5 'congression':18,30 'constitut':44 'democrat':38 'district':19,31 'hank':34 'incumb':13,25,37 'johnson':35 'jolt':3 'journal':43 'lynn':10 'morn':2 'paul':22 'rep':21,33 'repres':27,39 'republican':14,26 'run':15 'tonight':7 'u.s':20,32 'vote':9 'westmoreland':11</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blogs.ajc.com/political-insider-jim-galloway/2012/07/31/your-morning-jolt-a-checklist-for-tonights-vote/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T11:20:21-04:00</date>
+          <id type="integer">16966108</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:33:16-04:00</created-at>
+          <title>Election 2012: Local voters decide</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Polls are open today until 7 p.m. In the primary races, United States Congressman Paul Broun, R-Athens, is running again for the 10th District House seat against primary challenger and Milledgeville native Stephen Simpson. Reapportionment following the ...</excerpt>
+          <fti-names>'10th':30 '2012':2 '7':11 'athen':24 'broun':21 'challeng':36 'congressman':19 'decid':5 'district':31 'elect':1 'follow':43 'hous':32 'local':3 'milledgevill':38 'nativ':39 'open':8 'p.m':12 'paul':20 'poll':6 'primari':15,35 'r':23 'r-athen':22 'race':16 'reapportion':42 'record':47 'run':26 'seat':33 'simpson':41 'state':18 'stephen':40 'today':9 'union':46 'union-record':45 'unit':17 'voter':4</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://unionrecorder.com/x328559145/Election-2012-Local-voters-decide</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:44:33-04:00</date>
+          <id type="integer">16966109</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Union-Recorder</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Paul_Braun,_Jr.</metavid-id>
+      <name>Rep. Paul Broun [R, GA-10]</name>
+      <total-session-votes type="integer">1673</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>10</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:39-04:00</created-at>
+          <title>Don&amp;#39;t Tell the NRA, but Fred Upton is Anti-Gun | RedState</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>This would disqualify many concealed gun carriers from states like Vermont, Alaska, Arizona, Wyoming, and Montana. The better bill is H.R. 2900, sponsored by Rep. Paul Broun (R-GA), which recognizes the concealed carry ...</excerpt>
+          <fti-names>'2900':35 'alaska':25 'anti':11 'anti-gun':10 'arizona':26 'better':31 'bill':32 'broun':40 'carri':48 'carrier':20 'conceal':18,47 'daniel':49 'diari':51 'disqualifi':16 'fred':7 'ga':43 'gun':12,19 'h.r':34 'horowitz':50 'like':23 'mani':17 'montana':29 'nra':5 'paul':39 'r':42 'r-ga':41 'recogn':45 'redstat':13 'rep':38 'sponsor':36 'state':22 'tell':3 'upton':8 'vermont':24 'would':15 'wyom':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/dhorowitz3/2012/07/30/don%25E2%2580%2599t-tell-the-nra-but-fred-upton-is-anti-gun/&amp;sa=U&amp;ei=tUQXUIXZGOPv0gH374DACA&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNHohe2jAyQjK4dAat0ZesUCk4beXA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Horowitz (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:39-04:00</created-at>
+          <title>Don&amp;#39;t Tell the NRA, but Fred Upton is Anti-Gun | Madison Project</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>This would disqualify many concealed gun carriers from states like Vermont, Alaska, Arizona, Wyoming, and Montana. The better bill is H.R. 2900, sponsored by Rep. Paul Broun (R-GA), which recognizes the concealed carry ...</excerpt>
+          <fti-names>'2900':36 'alaska':26 'anti':11 'anti-gun':10 'arizona':27 'better':32 'bill':33 'broun':41 'carri':49 'carrier':21 'conceal':19,48 'daniel':50 'disqualifi':17 'fred':7 'ga':44 'gun':12,20 'h.r':35 'horowitz':51 'like':24 'madison':13 'mani':18 'montana':30 'nra':5 'paul':40 'project':14 'r':43 'r-ga':42 'recogn':46 'rep':39 'sponsor':37 'state':23 'tell':3 'upton':8 'vermont':25 'would':16 'wyom':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://madisonproject.com/2012/07/dont-tell-the-nra-but-fred-upton-is-anti-gun/&amp;sa=U&amp;ei=tUQXUIXZGOPv0gH374DACA&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNECmohGZj6PB3mZNZXup0xFZ3ThRA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959520</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Horowitz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:37-04:00</created-at>
+          <title>Podcast with Rep. Paul Broun (R-GA) &#8212; Peach Pundit</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>TweetYesterday, Rep. Paul Broun (R-GA) stopped by during a trip to a campaign event in McDonough, Georgia to give us an update on some of the things going on in Washington; including President Obama&amp;#39;s tax proposal, ...</excerpt>
+          <fti-names>'broun':5,14 'campaign':25 'event':26 'ga':8,17 'georgia':29 'give':31 'go':40 'includ':44 'jason':50 'mcdonough':28 'obama':46 'paul':4,13 'peach':9 'podcast':1 'presid':45 'propos':49 'pundit':10 'r':7,16 'r-ga':6,15 'rep':3,12 'stop':18 'tax':48 'thing':39 'trip':22 'tweetyesterday':11 'updat':34 'us':32 'washington':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.peachpundit.com/2012/07/30/podcast-with-rep-paul-broun-r-ga/&amp;sa=U&amp;ei=tUQXUIXZGOPv0gH374DACA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNFR7SjrvqRQ6Z04jpo1kEqgIc1Vnw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959516</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jason</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:36:38-04:00</created-at>
+          <title>In televised primary debates, most congressional incumbents ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Specifically, U.S. Rep. Lynn Westmoreland, the incumbent Republican running in 3rd Congressional district; U.S. Rep. Paul Broun, the incumbent Republican representing the 10th Congressional district; U.S. Rep.</excerpt>
+          <fti-names>'10th':30 '3rd':18 'broun':24 'congression':6,19,31 'debat':4 'district':20,32 'incumb':7,14,26 'lynn':11 'maria':35 'paul':23 'primari':3 'rep':10,22,34 'repres':28 'republican':15,27 'run':16 'saporta':36 'specif':8 'televis':2 'u.s':9,21,33 'westmoreland':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://saportareport.com/blog/2012/07/in-televised-debates-most-congressional-incumbents-choose-to-be-represented-by-an-empty-podium/&amp;sa=U&amp;ei=tUQXUIXZGOPv0gH374DACA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNFceFKZY-ws-LQJM_mUR_emwg72ig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16959519</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Maria Saporta</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:54-04:00</created-at>
+          <title>Miscellaneous meanderings &#171;</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Rep. Paul Broun of Georgia is promoting the OPTION Act in the US House of Representatives (HR 4224) as an alternative to Obamacare. Broun, a physician, is a member of the House Tea Party Caucus. The bill would repeal ...</excerpt>
+          <fti-names>'4224':20 'act':12 'altern':23 'bill':39 'broun':5,26 'caucus':37 'georgia':7 'greensboroguardian':42 'hous':16,34 'hr':19 'meander':2 'member':31 'miscellan':1 'obamacar':25 'option':11 'parti':36 'paul':4 'physician':28 'promot':9 'rep':3 'repeal':41 'repres':18 'tea':35 'us':15 'would':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://greensboroguardian.com/2012/07/28/miscellaneous-meanderings/&amp;sa=U&amp;ei=L_sVUIHSDIOY8gTVxIHIBg&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNHvy-BSu7ZtJqp7d2sJJmHfJWLTbA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945359</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>greensboroguardian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:50-04:00</created-at>
+          <title>Broun deserves support &#8211; The Augusta Chronicle | politicsandpolls ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... I will not be able to vote for Dr. Broun, as I now reside outside of the newly redrawn 10th U.S. House District, it will not stop me from doing all I can to encourage those of you who can to vote for U.S. Rep. Paul Broun. He &#8230;</excerpt>
+          <fti-names>'10th':27 'abl':12 'admin':56 'augusta':5 'broun':1,17,54 'chronicl':6 'deserv':2 'district':30 'dr':16 'encourag':42 'hous':29 'newli':25 'outsid':22 'paul':53 'politicsandpol':7 'redrawn':26 'rep':52 'resid':21 'stop':34 'support':3 'u.s':28,51 'vote':14,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ga-moc/paul-broun-georgia-representative/broun-deserves-support-the-augusta-chronicle/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dbroun-deserves-support-the-augusta-chronicle&amp;sa=U&amp;ei=L_sVUIHSDIOY8gTVxIHIBg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNGS6jjWBAXrFeY0YAyN3loKrGQwMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945356</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-29T23:10:50-04:00</created-at>
+          <title>Broun deserves support | The Augusta Chronicle</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... reside outside of the newly redrawn 10th U.S. House District, it will not stop me from doing all I can to encourage those of you who can to vote for U.S. Rep. Paul Broun. He is an outstanding leader and deserves our support!</excerpt>
+          <fti-names>'10th':13 'augusta':5 'broun':1,40 'chronicl':6 'deserv':2,47 'district':16 'ebi':51 'encourag':28 'hous':15 'leader':45 'newli':11 'outsid':8 'outstand':44 'paul':39 'rafa':50 'redrawn':12 'rep':38 'resid':7 'stop':20 'support':3,49 'u.s':14,37 'vote':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chronicle.augusta.com/opinion/letters/2012-07-28/broun-deserves-support&amp;sa=U&amp;ei=L_sVUIHSDIOY8gTVxIHIBg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGKxJlGTWB1WluyjTXDgxjMg4S3Jg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16945355</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rafa Eby</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:53-04:00</created-at>
+          <title>Miscellaneous meanderings &#171;</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Rep. Paul Broun of Georgia is promoting the OPTION Act in the US House of Representatives (HR 4224) as an alternative to Obamacare. Broun, a physician, is a member of the House Tea Party Caucus. The bill would repeal ...</excerpt>
+          <fti-names>'4224':20 'act':12 'altern':23 'bill':39 'broun':5,26 'caucus':37 'georgia':7 'greensboroguardian':42 'hous':16,34 'hr':19 'meander':2 'member':31 'miscellan':1 'obamacar':25 'option':11 'parti':36 'paul':4 'physician':28 'promot':9 'rep':3 'repeal':41 'repres':18 'tea':35 'us':15 'would':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://greensboroguardian.com/2012/07/28/miscellaneous-meanderings/&amp;sa=U&amp;ei=I6MUUJX1L4P48wTH8YG4Bw&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNFoQfUr2YHZ5JZJYvgA4Jwf6MApaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>greensboroguardian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:52-04:00</created-at>
+          <title>Broun deserves support &#8211; The Augusta Chronicle | politicsandpolls ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... I will not be able to vote for Dr. Broun, as I now reside outside of the newly redrawn 10th U.S. House District, it will not stop me from doing all I can to encourage those of you who can to vote for U.S. Rep. Paul Broun. He &#8230;</excerpt>
+          <fti-names>'10th':27 'abl':12 'admin':56 'augusta':5 'broun':1,17,54 'chronicl':6 'deserv':2 'district':30 'dr':16 'encourag':42 'hous':29 'newli':25 'outsid':22 'paul':53 'politicsandpol':7 'redrawn':26 'rep':52 'resid':21 'stop':34 'support':3 'u.s':28,51 'vote':14,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/ga-moc/paul-broun-georgia-representative/broun-deserves-support-the-augusta-chronicle/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dbroun-deserves-support-the-augusta-chronicle&amp;sa=U&amp;ei=I6MUUJX1L4P48wTH8YG4Bw&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNG3roSBOaV7Cjy7HoEhQexgSzJlQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928967</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412252</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:42:52-04:00</created-at>
+          <title>Broun deserves support | The Augusta Chronicle</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... reside outside of the newly redrawn 10th U.S. House District, it will not stop me from doing all I can to encourage those of you who can to vote for U.S. Rep. Paul Broun. He is an outstanding leader and deserves our support!</excerpt>
+          <fti-names>'10th':13 'augusta':5 'broun':1,40 'chronicl':6 'deserv':2,47 'district':16 'ebi':51 'encourag':28 'hous':15 'leader':45 'newli':11 'outsid':8 'outstand':44 'paul':39 'rafa':50 'redrawn':12 'rep':38 'resid':7 'stop':20 'support':3,49 'u.s':14,37 'vote':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://chronicle.augusta.com/opinion/letters/2012-07-28/broun-deserves-support&amp;sa=U&amp;ei=I6MUUJX1L4P48wTH8YG4Bw&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGoYAcHAXoZr58HkvYf3o-V0jyBQA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928966</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rafa Eby</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">28134</page-views-count>
+      <youtube-id>RepPaulBroun</youtube-id>
+      <unaccented-name>Paul Broun</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

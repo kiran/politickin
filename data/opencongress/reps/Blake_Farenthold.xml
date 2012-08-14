@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.814378314673</party-votes-percentage>
+        <abstains-percentage type="float">1.27981384525887</abstains-percentage>
+        <votes-most-often-with-id type="integer">400404</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">22</abstains>
+        <cosponsored-bills type="integer">226</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412482</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1609</votes-republican-position>
+      <biography nil="true"></biography>
+      <blog-article-count type="integer">3139</blog-article-count>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">18</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <metavid-id nil="true"></metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.814378314673</with-party-percentage>
+      <lastname>Farenthold</lastname>
+      <congress-office>2110 Rayburn House Office Building</congress-office>
+      <youtube-id>BlakeFarenthold</youtube-id>
+      <firstname>Blake</firstname>
+      <website>http://farenthold.house.gov/</website>
+      <birthday type="date">1962-12-12</birthday>
+      <person-id type="integer">412482</person-id>
+      <fax>202-226-1134</fax>
+      <phone>202-225-7742</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>F000460</bioguide-id>
+      <votes-democratic-position type="integer">365</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:39:53-04:00</created-at>
+          <title>Farenthold finds an Olympic-size subterfuge</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...into action like heavily muscled sprinters. The winners of this heat were U.S. Sen. Marco Rubio, R-Fla., and our own U.S. Rep. Blake Farenthold, R-Corpus Christi. Both proposed bills to exempt Olympic medalists' winnings from income tax. If a sole winne</excerpt>
+          <fti-names>'action':9 'bill':40 'blake':32 'caller':56 'caller-tim':55 'christi':37,54 'corpus':36,53 'exempt':42 'farenthold':1,33 'find':2 'fla':26 'heat':18 'heavili':11 'incom':47 'like':10 'marco':22 'medalist':44 'muscl':12 'olymp':5,43 'olympic-s':4 'propos':39 'r':25,35 'r-corpus':34 'r-fla':24 'rep':31 'rubio':23 'sen':21 'size':6 'sole':51 'sprinter':13 'subterfug':7 'tax':48 'time':57 'u.s':20,30 'win':45 'winn':52 'winner':15</fti-names>
+          <source-url>http://www.caller.com/</source-url>
+          <url>http://www.caller.com/news/2012/aug/07/farenthold-finds-an-olympic-size-subterfuge/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973380</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:47:06-04:00</created-at>
+          <title>Our opinion: Taxing success</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...they'd pay, that's $8,896, $5,385, and $3,502, respectively. So much for golden dreams. Sen. Marco Rubio of Florida and Rep. Blake Farenthold of Texas want the athletes to enjoy their winnings without worrying about their &quot;earnings.&quot; Farenthold has auth</excerpt>
+          <fti-names>'3':15 '385':13 '5':12 '502':16 '8':10 '896':11 'athlet':36 'auth':48 'blake':30 'd':6 'dream':22 'earn':45 'enjoy':38 'farenthold':31,46 'florida':27 'golden':21 'marco':24 'much':19 'news':51 'opinion':2 'pay':7 'record':50 'rep':29 'respect':17 'rubio':25 'sen':23 'success':4 'tax':3 'texa':33 'time':49 'want':34 'win':40 'without':41 'worri':42</fti-names>
+          <source-url>http://www.timesrecordnews.com/</source-url>
+          <url>http://www.timesrecordnews.com/news/2012/aug/03/taxing-success/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971605</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Times Record News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:25:09-04:00</created-at>
+          <title>Farenthold proposes tax break on Olympic medals</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Blake Farenthold on Wednesday proposed a bill that would give U.S. Olympic athletes a break from paying taxes on the value of the medals they win and the prize money they take home. Called the TEAM Act (Tax Exemptions for American Medalists), the b</excerpt>
+          <fti-names>'act':45 'american':49 'athlet':21 'b':52 'bill':15 'blake':9 'break':4,23 'call':42 'caller':56 'caller-tim':55 'christi':54 'corpus':53 'exempt':47 'farenthold':1,10 'give':18 'home':41 'medal':7,32 'medalist':50 'money':38 'olymp':6,20 'pay':25 'prize':37 'propos':2,13 'rep':8 'take':40 'tax':3,26,46 'team':44 'time':57 'u.s':19 'valu':29 'wednesday':12 'win':34 'would':17</fti-names>
+          <source-url>http://www.caller.com/</source-url>
+          <url>http://www.caller.com/news/2012/aug/02/farenthold-proposes-tax-break-olympic-medals/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970584</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:25:07-04:00</created-at>
+          <title>Bills would make Olympic medals tax-exempt</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...any winning game show contestant would have to pay taxes on a new car or toaster oven. But Sen. Marco Rubio (R-Fla.) and Rep. Blake Farenthold (R-Tex.) introduced legislation Wednesday that would exempt American medal-winning gymnasts, rhythmic gymnasts</excerpt>
+          <fti-names>'american':46 'bill':1 'blake':35 'car':22 'contest':13 'exempt':8,45 'farenthold':36 'fla':32 'game':11 'gymnast':50,52 'introduc':40 'legisl':41 'make':3 'marco':28 'medal':5,48 'medal-win':47 'new':21 'olymp':4 'oven':25 'pay':17 'post':55 'r':31,38 'r-fla':30 'r-tex':37 'rep':34 'rhythmic':51 'rubio':29 'sen':27 'show':12 'tax':7,18 'tax-exempt':6 'tex':39 'toaster':24 'washington':54 'wednesday':42 'win':10,49 'would':2,14,44</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f7924ac411f75276c351dac363b5ae92</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970583</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:25:04-04:00</created-at>
+          <title>Will Olympian medalists have to march on the IRS? Not if Texas Congressman Blake Farenthold has his way.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the U.S. Olympic Committee gives them, but also on the very medals themselves. Our very own, flag swaddled U.S. Rep. Blake Farenthold, R-TX and U.S. Sen. Marco Rubio, R-Fla. don&#8217;t plan on standing by and letting that happen, the Washington Post and a </excerpt>
+          <fti-names>'also':26 'blake':14,39 'committe':22 'congressman':13 'farenthold':15,40 'fla':51 'flag':35 'give':23 'happen':61 'ir':9 'let':59 'march':6 'marco':47 'medal':30 'medalist':3 'olymp':21 'olympian':2 'plan':54 'post':64 'r':42,50 'r-fla':49 'r-tx':41 'rep':38 'rubio':48 'sen':46 'stand':56 'swaddl':36 'texa':12,67 'tx':43 'u.s':20,37,45 'washington':63 'watchdog':68 'way':18</fti-names>
+          <source-url>http://www.texaswatchdog.org/</source-url>
+          <url>http://www.texaswatchdog.org/2012/08/will-olympian-medalists-have-to-march-on-the-irs-not-if/1343938572.column</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970582</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Texas Watchdog</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:37:50-04:00</created-at>
+          <title>Rose Meza Harrison defeats Jerry Trevino, earns Democratic nomination</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...the two first-time congressional candidates and settles the question of who will face Republican incumbent U.S. Rep. Blake Farenthold on Nov. 6 in the general election. Farenthold, in his first term, won the Republican primary with almost 72 percent of </excerpt>
+          <fti-names>'6':33 '72':49 'almost':48 'blake':29 'caller':55 'caller-tim':54 'candid':16 'christi':53 'congression':15 'corpus':52 'defeat':4 'democrat':8 'earn':7 'elect':37 'face':24 'farenthold':30,38 'first':13,41 'first-tim':12 'general':36 'harrison':3 'incumb':26 'jerri':5 'meza':2 'nomin':9 'nov':32 'percent':50 'primari':46 'question':20 'rep':28 'republican':25,45 'rose':1 'settl':18 'term':42 'time':14,56 'trevino':6 'two':11 'u.s':27 'won':43</fti-names>
+          <source-url>http://www.caller.com/</source-url>
+          <url>http://www.caller.com/news/2012/jul/31/ap-harrison-defeats-trevino-earns-democratic-nomin/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969637</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:37:50-04:00</created-at>
+          <title>Outrage mounts over Gulf oil rig removal policy</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...of Interior's wanton removal of retired oil and gas platforms in the gulf is finally approaching an appropriate pitch. U.S. Rep. Blake Farenthold filed a bill this past week that would halt the removal by explosion and other means of these rich offshore</excerpt>
+          <fti-names>'approach':25 'appropri':27 'bill':35 'blake':31 'caller':56 'caller-tim':55 'christi':54 'corpus':53 'explos':45 'farenthold':32 'file':33 'final':24 'gas':18 'gulf':4,22 'halt':41 'interior':10 'mean':48 'mount':2 'offshor':52 'oil':5,16 'outrag':1 'past':37 'pitch':28 'platform':19 'polici':8 'remov':7,13,43 'rep':30 'retir':15 'rich':51 'rig':6 'time':57 'u.s':29 'wanton':12 'week':38 'would':40</fti-names>
+          <source-url>http://www.caller.com/</source-url>
+          <url>http://www.caller.com/news/2012/aug/01/outrage-mounts-over-rig-removal-policy/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969636</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:37:49-04:00</created-at>
+          <title>Voters solidify ballots in November&#8217;s District 34 race</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...shortly before near-final elections returns were in. Garza is a business owner, former field representative for U.S. Rep. Blake Farenthold, secretary of the Texas Southmost College Board of Trustees, and former irrigation district and school board membe</excerpt>
+          <fti-names>'34':8 'ballot':3 'blake':30 'board':38,47 'brownsvill':49 'busi':22 'colleg':37 'district':7,44 'elect':15 'farenthold':31 'field':25 'final':14 'former':24,42 'garza':19 'herald':50 'irrig':43 'memb':48 'near':13 'near-fin':12 'novemb':5 'owner':23 'race':9 'rep':29 'repres':26 'return':16 'school':46 'secretari':32 'short':10 'solidifi':2 'southmost':36 'texa':35 'truste':40 'u.s':28 'voter':1</fti-names>
+          <source-url>http://www.brownsvilleherald.com/</source-url>
+          <url>http://www.brownsvilleherald.com/news/district-143103-november-new.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969635</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Brownsville Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:41:29-04:00</created-at>
+          <title>In Congress, South Texas Dem Filemon Vela will draw on lessons from marriage to a GOP judge</title>
+          <contains-term>congress</contains-term>
+          <excerpt>and he&#8217;s known and had a friendly relationship with freshman Rep. Blake Farenthold, R-Corpus Christi, for two decades. State Rep. Randy Weber of Pearland, who just won the nomination to succeed Rep. Ron Paul in Congress, attributed his...</excerpt>
+          <fti-names>'attribut':57 'blake':30 'blog':62 'christi':35 'congress':2,56 'corpus':34 'dalla':59 'decad':38 'dem':5 'draw':9 'farenthold':31 'filemon':6 'freshman':28 'friend':25 'gop':16 'judg':17 'known':21 'lesson':11 'marriag':13 'morn':60 'news':61 'nomin':49 'paul':54 'pearland':44 'r':33 'r-corpus':32 'randi':41 'relationship':26 'rep':29,40,52 'ron':53 'south':3 'state':39 'succeed':51 'texa':4 'two':37 'vela':7 'weber':42 'won':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://trailblazersblog.dallasnews.com/2012/07/in-congress-south-texas-dem-filemon-vela-will-draw-on-lessons-from-marriage-to-a-gop-judge.html/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T22:11:45-04:00</date>
+          <id type="integer">16966410</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dallas Morning News (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:41:30-04:00</created-at>
+          <title>AP: Harrison defeats Trevino, earns Democratic nomination</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The result ends two months of campaigning between the two first-time congressional candidates and settles the question of who will face Republican incumbent U.S. Rep. Blake Farenthold on Nov. 6 in the general elections.</excerpt>
+          <fti-names>'6':39 'ap':1 'blake':35 'caller':46 'campaign':14 'candid':22 'christi':45 'congression':21 'corpus':44 'defeat':3 'democrat':6 'earn':5 'elect':43 'end':10 'face':30 'farenthold':36 'first':19 'first-tim':18 'general':42 'harrison':2 'incumb':32 'month':12 'nomin':7 'nov':38 'question':26 'rep':34 'republican':31 'result':9 'settl':24 'time':20 'trevino':4 'two':11,17 'u.s':33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.caller.com/news/2012/jul/31/ap-harrison-defeats-trevino-earns-democratic-nomin/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T21:21:38-04:00</date>
+          <id type="integer">16966411</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Corpus Christi Caller</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Rep. Blake Farenthold [R, TX-27]</name>
+      <total-session-votes type="integer">1697</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>27</district>
+      <middlename nil="true"></middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:51:24-04:00</created-at>
+          <title>Congressman Farenthold: Save Wind Energy Jobs | The Renewable ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>On July 30, the Sierra Club launched a series of high-saturation television, radio and online ads, highlighting Rep. Blake Farenthold&amp;#39;s (TX) failure to act on the renewal of the production tax credit (PTC) for wind energy and the ...</excerpt>
+          <fti-names>'30':11 'act':35 'ad':26 'admin':50 'blake':29 'club':14 'congressman':1 'credit':43 'energi':5,47 'failur':33 'farenthold':2,30 'high':20 'high-satur':19 'highlight':27 'job':6 'juli':10 'launch':15 'onlin':25 'product':41 'ptc':44 'radio':23 'renew':8,38 'rep':28 'satur':21 'save':3 'seri':17 'sierra':13 'tax':42 'televis':22 'tx':32 'wind':4,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hometurbines.com/2012/07/30/congressman_farenthold_save_wind_energy_jobs/&amp;sa=U&amp;ei=K0gXUN60AYKi8QS6o4GoDg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNHTWzXqLNL90s5bctVeXMWLiOo34w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960065</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:51:23-04:00</created-at>
+          <title>Rep. Farenthold hits back against &amp;#39;Meatless Monday&amp;#39; with &amp;#39;Chick-fil-A ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Farenthold hits back against &amp;#39;Meatless Monday&amp;#39; with &amp;#39;Chick-fil-A Tuesday&amp;#39;. By Alicia M. Cohn - 07/30/12 12:28 PM ET. Tweet. Rep. Blake Farenthold (R-Texas) said he&amp;#39;d rather start a &#8220;Chick-fil-A Tuesday&#8221; tradition than join the </excerpt>
+          <fti-names>'07/30/12':30 '12':31 '28':32 'acohn@thehill.com':57 'alicia':27,58 'back':4,16 'blake':37 'chick':10,22,49 'chick-fil-a':9,21,48 'cohn':29,60 'd':44 'et':34 'farenthold':2,14,38 'fil':11,23,50 'hit':3,15 'join':55 'm':28,59 'meatless':6,18 'monday':7,19 'pm':33 'r':40 'r-texa':39 'rather':45 'rep':1,13,36 'said':42 'start':46 'texa':41 'tradit':53 'tuesday':25,52 'tweet':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/blogs/twitter-room/other-news/241009-rep-farenthold-eat-more-chicken&amp;sa=U&amp;ei=K0gXUN60AYKi8QS6o4GoDg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNGhJCxPAScuJnSGSzjHiTzCDLeCfQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960062</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>acohn@thehill.com (Alicia M. Cohn)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:02:20-04:00</created-at>
+          <title>Party not center of fight for US House - Charlotte Observer</title>
+          <contains-term>republican</contains-term>
+          <excerpt>For instance, the district of Rep. Blake Farenthold was redrawn into a deeply Republican swath, two years after he slid into victory in South Texas by the flannel of the duck pajamas he was infamously photographed wearing ...</excerpt>
+          <fti-names>'blake':17 'center':3 'charlott':9 'deepli':23 'district':14 'duck':41 'farenthold':18 'fight':5 'flannel':38 'hous':8 'infam':45 'instanc':12 'jennif':51 'new':48 'observ':10 'pajama':42 'parti':1 'photograph':46 'redrawn':20 'rep':16 'republican':24 'slid':30 'south':34 'steinhauer':52 'swath':25 'texa':35 'time':50 'two':26 'us':7 'victori':32 'wear':47 'year':27 'york':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.charlotteobserver.com/2012/07/28/3412875/party-not.html&amp;sa=U&amp;ei=RxUWULT6NvSy0AGJhoCwCg&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNGMB5QIuMQ9VKB96r4YJDtRU6vMtw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16946527</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>New York Times (Jennifer Steinhauer)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:11:09-04:00</created-at>
+          <title>Party not | CharlotteObserver.com &amp;amp; The Charlotte Observer ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>For instance, the district of Rep. Blake Farenthold was redrawn into a deeply Republican swath, two years after he slid into victory in South Texas by the flannel of the duck pajamas he was infamously photographed wearing ...</excerpt>
+          <fti-names>'blake':13 'charlott':5 'charlotteobserver.com':3 'deepli':19 'district':10 'duck':37 'farenthold':14 'flannel':34 'infam':41 'instanc':8 'jennif':47 'new':44 'observ':6 'pajama':38 'parti':1 'photograph':42 'redrawn':16 'rep':12 'republican':20 'slid':26 'south':30 'steinhauer':48 'swath':21 'texa':31 'time':46 'two':22 'victori':28 'wear':43 'year':23 'york':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.charlotteobserver.com/2012/07/28/3412875/party-not.html&amp;sa=U&amp;ei=yakUUOSUG-yx0QGV34CwCw&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNFupiNssME3X832FoqW6Uf6VxTG8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16929461</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>New York Times (Jennifer Steinhauer)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-30T01:02:17-04:00</created-at>
+          <title>Reporting from DC at Stop the Frack Attack</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Al Green, 9th TX Rep. Blake Farenthold, 27th TX Rep. Joe Barton, 6th TX Rep. Francisco Canseco, 23 TX Rep. Randy Neugebauer, 19th TX Rep. Charles Gonzalez, 12th TX Rep. Kenny Marchant, 24th TX Rep. Bill Flores, 3rd ...</excerpt>
+          <fti-names>'12th':36 '19th':31 '23':26 '24th':41 '27th':16 '3rd':46 '6th':21 '9th':11 'al':9 'attack':8 'barton':20 'bill':44 'blake':14 'canseco':25 'charl':34 'dc':3 'farenthold':15 'flore':45 'frack':7 'francisco':24 'gonzalez':35 'green':10 'joe':19 'kenni':39 'marchant':40 'neugebau':30 'randi':29 'rep':13,18,23,28,33,38,43 'report':1 'stop':5 'tx':12,17,22,27,32,37,42 'txsharon':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texassharon.com/2012/07/26/reporting-from-dc-at-stop-the-frack-attack/&amp;sa=U&amp;ei=RxUWULT6NvSy0AGJhoCwCg&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNEeFxxikOL1TjkY-RPGe-cThYb4bA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16946525</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TXsharon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:51:03-04:00</created-at>
+          <title>Congressmen Call for Moratorium on Oil Rig Removals in Gulf of ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Palazzo presented the concerns of the recreational angling community at a briefing hosted by the Congressional Sportsmen&amp;#39;s Foundation in June where he also invited fellow members of the Caucus to sign onto the letter to Secretary   Salazar. &#8220;Spo</excerpt>
+          <fti-names>'also':36 'angl':20 'brief':24 'call':2 'caucus':42 'communiti':21 'concern':16 'congression':28 'congressmen':1 'fellow':38 'foundat':31 'gengberg':52 'gulf':10 'host':25 'invit':37 'june':33 'letter':47 'member':39 'moratorium':4 'oil':6 'onto':45 'palazzo':13 'present':14 'recreat':19 'remov':8 'rep':12 'rig':7 'salazar':50 'secretari':49 'sign':44 'spo':51 'sportsmen':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.garyengbergoutdoors.com/blog/2012/07/27/congressmen-call-for-moratorium-on-oil-rig-removals-in-gulf-of-mexico-7-27-2012/&amp;sa=U&amp;ei=llMTUODmCImi8ASTtICQAw&amp;ved=0CEwQmAEwCw&amp;usg=AFQjCNFgT8X9fppAmW9BCI5uFkHGmedaOQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16920968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gengberg</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-28T23:11:09-04:00</created-at>
+          <title>Reporting from DC at Stop the Frack Attack</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Al Green, 9th TX Rep. Blake Farenthold, 27th TX Rep. Joe Barton, 6th TX Rep. Francisco Canseco, 23 TX Rep. Randy Neugebauer, 19th TX Rep. Charles Gonzalez, 12th TX Rep. Kenny Marchant, 24th TX Rep. Bill Flores, 3rd ...</excerpt>
+          <fti-names>'12th':36 '19th':31 '23':26 '24th':41 '27th':16 '3rd':46 '6th':21 '9th':11 'al':9 'attack':8 'barton':20 'bill':44 'blake':14 'canseco':25 'charl':34 'dc':3 'farenthold':15 'flore':45 'frack':7 'francisco':24 'gonzalez':35 'green':10 'joe':19 'kenni':39 'marchant':40 'neugebau':30 'randi':29 'rep':13,18,23,28,33,38,43 'report':1 'stop':5 'tx':12,17,22,27,32,37,42 'txsharon':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texassharon.com/2012/07/26/reporting-from-dc-at-stop-the-frack-attack/&amp;sa=U&amp;ei=yakUUOSUG-yx0QGV34CwCw&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNH5OABYKk2INyP0BCv8w5HpVban2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16929460</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TXsharon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-27T22:51:03-04:00</created-at>
+          <title>Reporting from DC at Stop the Frack Attack</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Al Green, 9th TX Rep. Blake Farenthold, 27th TX Rep. Joe Barton, 6th TX Rep. Francisco Canseco, 23 TX Rep. Randy Neugebauer, 19th TX Rep. Charles Gonzalez, 12th TX Rep. Kenny Marchant, 24th TX Rep. Bill Flores, 3rd ...</excerpt>
+          <fti-names>'12th':36 '19th':31 '23':26 '24th':41 '27th':16 '3rd':46 '6th':21 '9th':11 'al':9 'attack':8 'barton':20 'bill':44 'blake':14 'canseco':25 'charl':34 'dc':3 'farenthold':15 'flore':45 'frack':7 'francisco':24 'gonzalez':35 'green':10 'joe':19 'kenni':39 'marchant':40 'neugebau':30 'randi':29 'rep':13,18,23,28,33,38,43 'report':1 'stop':5 'tx':12,17,22,27,32,37,42 'txsharon':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.texassharon.com/2012/07/26/reporting-from-dc-at-stop-the-frack-attack/&amp;sa=U&amp;ei=llMTUODmCImi8ASTtICQAw&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEDslChS2Xscc4iGbMcNxwIFjzCBw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16920962</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TXsharon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:54:27-04:00</created-at>
+          <title>House GOP passes latest anti-regulation bill | Financial IQ</title>
+          <contains-term>republican</contains-term>
+          <excerpt>During discuss on a check Wednesday, Rep. Rep. Blake Farenthold, R-Texas, lamented a problems that Republicans have in aSenate with their anti-regulation bills.&amp;quot;I wish it has improved fitness than some of a other bills ...</excerpt>
+          <fti-names>'anti':6,35 'anti-regul':5,34 'asen':31 'bill':8,37,49 'blake':19 'check':15 'discuss':12 'farenthold':20 'financi':9,50 'fit':43 'gop':2 'hous':1 'improv':42 'iq':10,51 'lament':24 'latest':4 'pass':3 'problem':26 'r':22 'r-texa':21 'regul':7,36 'rep':17,18 'republican':28 'texa':23 'wednesday':16 'wish':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.ahipcup.com/house-gop-passes-latest-anti-regulation-bill/&amp;sa=U&amp;ei=4AISULjYGY2u8QSPmoGoBQ&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNGhXcRb-Q0U7kDMS3rh535LjZmfhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889377</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Financial IQ</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412482</commentariable-id>
+          <created-at type="datetime">2012-07-26T22:54:26-04:00</created-at>
+          <title>House GOP passes latest anti-regulation bill - TwinCities.com</title>
+          <contains-term>republican</contains-term>
+          <excerpt>During debate on the bill Wednesday, Rep. Rep. Blake Farenthold, R-Texas, lamented the problems that Republicans have in the Senate with their anti-regulation bills. &amp;quot;I hope it has better luck than some of the other bills ...</excerpt>
+          <fti-names>'anti':6,35 'anti-regul':5,34 'associ':53 'better':42 'bill':8,14,37,49 'blake':18 'debat':11 'farenthold':19 'gop':2 'hope':39 'hous':1 'lament':23 'larri':51 'latest':4 'luck':43 'margasak':52 'pass':3 'press':54 'problem':25 'r':21 'r-texa':20 'regul':7,36 'rep':16,17 'republican':27 'senat':31 'texa':22 'twincities.com':9 'wednesday':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.twincities.com/politics/ci_21163004/house-gop-set-pass-latest-anti-regulation-bill%3Fsource%3Drss&amp;sa=U&amp;ei=4AISULjYGY2u8QSPmoGoBQ&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNGktdvfoaS1XmRrLAw3u3NFK7LVjA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16889374</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>By LARRY MARGASAK Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">4528</page-views-count>
+      <unaccented-name>Blake Farenthold</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

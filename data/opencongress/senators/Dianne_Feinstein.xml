@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T09:55:51-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.2879581151832</party-votes-percentage>
+        <abstains-percentage type="float">3.29113924050633</abstains-percentage>
+        <votes-most-often-with-id type="integer">400064</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-08-31T21:19:12-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">8</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">3</cosponsored-bills-passed-rank>
+        <abstains type="integer">13</abstains>
+        <cosponsored-bills type="integer">262</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">8</party-votes-percentage-rank>
+        <sponsored-bills type="integer">111</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300043</person-id>
+        <cosponsored-bills-rank type="integer">14</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:52-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412391</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">6</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">153</votes-republican-position>
+      <blog-article-count type="integer">22468</blog-article-count>
+      <fax>202-228-3954</fax>
+      <user-approval type="float">2.24761904761905</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">3742</oc-users-tracking>
+      <contact-webform>http://www.feinstein.senate.gov/public/index.cfm/e-mail-me</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.2879581151832</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Feinstein</lastname>
+      <congress-office>331 Hart Senate Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Dianne</firstname>
+      <website>http://www.feinstein.senate.gov</website>
+      <birthday type="date">1933-06-22</birthday>
+      <person-id type="integer">300043</person-id>
+      <phone>202-224-3841</phone>
+      <religion>Jewish</religion>
+      <biography nil="true"></biography>
+      <bioguide-id>F000062</bioguide-id>
+      <votes-democratic-position type="integer">364</votes-democratic-position>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:50-04:00</created-at>
+          <title>Senators Consider Softening Measure Cracking Down on Security Leaks</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...civil liberties groups who said it went too far in hampering media access on issues of national security. A spokesman for Sen. Dianne Feinstein (D-CA), the chairwoman of the Intelligence panel, acknowledged senators are taking these criticisms into acco</excerpt>
+          <fti-names>'access':22 'acco':50 'acknowledg':43 'ca':36 'chairwoman':38 'civil':10 'consid':2 'crack':5 'critic':48 'd':35 'd-ca':34 'diann':32 'far':18 'feinstein':33 'group':12 'hamper':20 'intellig':41 'issu':24 'journal':54 'leak':9 'liberti':11 'measur':4 'media':21,53 'nation':26 'new':52 'panel':42 'said':14 'secur':8,27 'sen':31 'senat':1,44 'soften':3 'spokesman':29 'take':46 'went':16</fti-names>
+          <source-url>http://www.newmediajournal.us/</source-url>
+          <url>http://newmediajournal.us/indx.php/item/6379</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973736</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The New Media Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:50-04:00</created-at>
+          <title>King 'tired' of media bashing leak bill</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...The New York Times doesn&#8217;t care about American security on these issues. That is yellow journalism at its worst. I hope that Sen. [Dianne] Feinstein and the Republicans on the committee and in the Senate stand tough on this and don&#8217;t give in.&#8221; Kin</excerpt>
+          <fti-names>'american':16 'bash':5 'bill':7 'care':14 'committe':39 'diann':32 'doesn':12 'feinstein':33 'give':51 'hope':29 'issu':20 'journal':24 'kin':53 'king':1 'leak':6 'media':4 'new':9 'politico':55 'republican':36 'secur':17 'sen':31 'senat':43 'stand':44 'time':11 'tire':2 'tough':45 'worst':27 'yellow':23 'york':10</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=66023a4998117ac9ebdfe98b204f07f9</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973735</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:03:49-04:00</created-at>
+          <title>Sikh Temple: In Wake of Yet Another Massacre, What Will it Take to Stop the Gun Madness?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...that contained an amendment by Sen. Tom Coburn, R-Okla., opening up America&#8217;s national parks to concealed weapons. In 2009, Sen. Dianne Feinstein, D-Calif., who had been the most vocal champion of the 1993 Assault Weapons Ban, said of today's climate:</excerpt>
+          <fti-names>'1993':55 '2009':39 'alternet.org':64 'amend':21 'america':31 'anoth':7 'assault':56 'ban':58 'calif':45 'champion':52 'climat':63 'coburn':25 'conceal':36 'contain':19 'd':44 'd-calif':43 'diann':41 'feinstein':42 'gun':16 'mad':17 'massacr':8 'nation':33 'okla':28 'open':29 'park':34 'r':27 'r-okla':26 'said':59 'sen':23,40 'sikh':1 'stop':14 'take':12 'templ':2 'today':61 'tom':24 'vocal':51 'wake':4 'weapon':37,57 'yet':6</fti-names>
+          <source-url>http://www.alternet.org/</source-url>
+          <url>http://feeds.feedblitz.com/~/32734934/0/alternet_all~Sikh-Temple-In-Wake-of-Yet-Another-Massacre-What-Will-it-Take-to-Stop-the-Gun-Madness</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973734</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AlterNet.org</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>Eclectic Delta coalition is set to fight proposal for &#8216;peripheral tunnels&#8217;</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...it a risky place to do business. Unlike farmers in the San Joaquin Valley, residents of the Delta don&#8217;t have the ear of U.S. Sen. Dianne Feinstein or other major power brokers. Yet the Feinsteins of the world would be wise not to underestimate the Del</excerpt>
+          <fti-names>'broker':44 'busi':18 'coalit':3 'del':58 'delta':2,29 'diann':38 'ear':34 'eclect':1 'farmer':20 'feinstein':39,47 'fight':7 'joaquin':24 'junk':59 'major':42 'peripher':10 'place':15 'power':43 'propos':8 'resid':26 'riski':14 'san':23 'scienc':60 'sen':37 'set':5 'tunnel':11 'u.s':36 'underestim':56 'unlik':19 'valley':25 'wise':53 'world':50 'would':51 'yet':45</fti-names>
+          <source-url>http://www.junkscience.com/</source-url>
+          <url>http://junkscience.com/2012/08/06/eclectic-delta-coalition-is-set-to-fight-proposal-for-peripheral-tunnels/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973110</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Junk Science</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>Is this Mojave water project worth the risk?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...wrong, the project would rapidly destroy the aquifer. Recognizing the potentially grave implications for the Mojave, Sen. Dianne Feinstein (D-Calif.) wrote this year to Interior Secretary Ken Salazar to urge his department to perform an assessment of th</excerpt>
+          <fti-names>'angel':50 'aquif':16 'assess':46 'calif':30 'd':29 'd-calif':28 'depart':42 'destroy':14 'diann':26 'feinstein':27 'grave':20 'implic':21 'interior':35 'ken':37 'los':49 'mojav':3,24 'perform':44 'potenti':19 'project':5,11 'rapid':13 'recogn':17 'risk':8 'salazar':38 'secretari':36 'sen':25 'th':48 'time':51 'urg':40 'water':4 'worth':6 'would':12 'wrong':9 'wrote':31 'year':33</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/news/opinion/~3/4_AMv43amCk/la-ed-cadiz-20120806,0,975959.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973109</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>Kreep appeared on mailer touting Obama</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...criminal predators.&#8221; The same mailer indicates Republican Assembly candidate Sherry Hodges paid to be listed &#8212; and U.S. Sen. Dianne Feinstein is promoted with no indication that she paid. &#8220;Now, nowhere on that little mailer does it say &#8216;Barack O</excerpt>
+          <fti-names>'appear':2 'assembl':14 'barack':44 'candid':15 'crimin':7 'diann':25 'diego':47 'feinstein':26 'hodg':17 'indic':12,31 'kreep':1 'list':21 'littl':39 'mailer':4,11,40 'nowher':36 'o':45 'obama':6 'paid':18,34 'predat':8 'promot':28 'republican':13 'san':46 'say':43 'sen':24 'sherri':16 'tout':5 'tribun':50 'u.s':23 'union':49 'union-tribun':48</fti-names>
+          <source-url>http://www.signonsandiego.com/</source-url>
+          <url>http://www.utsandiego.com/news/2012/aug/06/kreep-appeared-mailer-touting-obama/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973108</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Diego Union-Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>White House Considers Executive Order for Cybersecurity Rules</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...order to deal with the issue. &quot;I'm not for doing by executive order what should be done by legislation,&quot; she said. Sen. Dianne Feinstein (D-Calif.), a main co-sponsor of the Cybersecurity Act, said she wants Congress to address the problem, but is open </excerpt>
+          <fti-names>'act':45 'address':51 'calif':36 'co':40 'co-sponsor':39 'congress':49 'consid':3 'cybersecur':7,44 'd':35 'd-calif':34 'deal':11 'diann':32 'done':26 'execut':4,21 'feinstein':33 'game':57 'hous':2 'issu':14 'legisl':28 'm':16 'main':38 'open':56 'order':5,9,22 'polit':58 'problem':53 'rule':8 'said':30,46 'sen':31 'sponsor':41 'want':48 'white':1</fti-names>
+          <source-url>http://gamepolitics.com/</source-url>
+          <url>http://gamepolitics.com/2012/08/06/white-house-considers-executive-order-cybersecurity-rules</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973107</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Game Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>More Executive Branch End Runs, This Time With Cybersecurity</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...and deferred action on DREAM-eligible immigrants. And nobody is likely to raise much of an objection beyond a stage whisper. Sen. Dianne Feinstein (D-Calif.), one of the main co-sponsors of the Cybersecurity Act, said she prefers that Congress address t</excerpt>
+          <fti-names>'act':48 'action':12 'address':54 'beyond':28 'branch':3 'calif':37 'co':43 'co-sponsor':42 'congress':53 'cybersecur':9,47 'd':36 'd-calif':35 'defer':11 'diann':33 'dream':15 'dream-elig':14 'elig':16 'end':4 'execut':2 'feinstein':34 'firedoglak':56 'immigr':17 'like':21 'main':41 'much':24 'nobodi':19 'object':27 'one':38 'prefer':51 'rais':23 'run':5 'said':49 'sen':32 'sponsor':44 'stage':30 'time':7 'whisper':31</fti-names>
+          <source-url>http://www.firedoglake.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firedoglake/fdl/~3/pt5QCB_Ijmo/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973106</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Firedoglake</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:40-04:00</created-at>
+          <title>&#8220;After defeat of Senate cybersecurity bill, Obama weighs executive-order option&#8221;</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the president bypassing Congress. &#8220;I&#8217;m not for doing by executive order what should be done by legislation,&#8221; she said. Sen. Dianne Feinstein (D-Calif.), one of the main co-sponsors of the Cybersecurity Act, said she prefers that Congress addres</excerpt>
+          <fti-names>'act':50 'addr':56 'bill':6 'bypass':16 'calif':39 'co':45 'co-sponsor':44 'congress':17,55 'cybersecur':5,49 'd':38 'd-calif':37 'defeat':2 'diann':35 'done':29 'execut':10,24 'executive-ord':9 'feinstein':36 'legisl':31 'm':19 'main':43 'obama':7 'one':40 'option':12 'order':11,25 'prefer':53 'presid':15 'protein':57 'said':33,51 'sen':34 'senat':4 'sponsor':46 'weigh':8 'wisdom':58</fti-names>
+          <source-url>http://proteinwisdom.com/</source-url>
+          <url>http://proteinwisdom.com/?p=42536</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973105</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>protein wisdom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:11:41-04:00</created-at>
+          <title>Yosemite's lost valley will be subject of vote</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...interior secretary, who want the dam removed and valley restored. On the other are Democratic San Franciscans, led by Sen. Dianne Feinstein and Rep. Nancy Pelosi, fighting to hold on to the city's famously pure drinking water in a drought-prone state. &quot;</excerpt>
+          <fti-names>'american':56 'american-statesman':55 'austin':54 'citi':42 'dam':15 'democrat':24 'diann':30 'drink':46 'drought':51 'drought-pron':50 'famous':44 'feinstein':31 'fight':36 'franciscan':26 'hold':38 'interior':10 'led':27 'lost':3 'nanci':34 'pelosi':35 'prone':52 'pure':45 'remov':16 'rep':33 'restor':19 'san':25 'secretari':11 'sen':29 'state':53 'statesman':57 'subject':7 'valley':4,18 'vote':9 'want':13 'water':47 'yosemit':1</fti-names>
+          <source-url>http://www.statesman.com/</source-url>
+          <url>http://www.statesman.com/news/nation/yosemites-lost-valley-will-be-subject-of-vote-2428249.html?cxtype=rss_news</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16973111</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Austin American-Statesman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Dianne_Feinstein</metavid-id>
+      <name>Sen. Dianne Feinstein [D, CA]</name>
+      <total-session-votes type="integer">382</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:22-04:00</created-at>
+          <title>Mitt Romney Sought Ted Nugent Endorsement&#8230;So Does Romney ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Does Governor Romney agree with Mr. Nugent that Hillary Clinton is a &#8220;worthless bitch&#8221; who should ride his &#8220;machine gun?&#8221; Does Governor Romney agree with Mr. Nugent that Sen. Dianne Feinstein is a &#8220;worthless whore?&#8221; ...</excerpt>
+          <fti-names>'agre':13,33 'alan':45 'bitch':23 'clinton':19 'diann':39 'endors':6 'feinstein':40 'governor':11,31 'gun':29 'hillari':18 'machin':28 'mitt':1 'mr':15,35 'nugent':5,16,36 'ride':26 'romney':2,9,12,32 'sen':38 'sought':3 'ted':4 'whore':44 'worthless':22,43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.alan.com/2012/04/17/mitt-romney-sought-ted-nugent-endorsement-so-does-romney-endorse-nugents-views/&amp;sa=U&amp;ei=fauNT7XoDObM2AXr2KSUDA&amp;ved=0CFMQmAEwCg&amp;usg=AFQjCNFw88uRXqRe3qo40L74ElyYHOHXtQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545802</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Alan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:22-04:00</created-at>
+          <title>Two To Wango Tango: Mitt Romney Sought Ted Nugent&amp;#39;s ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Does Governor Romney agree with Mr. Nugent that Hillary Clinton is a &#8220;worthless bitch&#8221; who should ride his &#8220;machine gun?&#8221; Does Governor Romney agree with Mr. Nugent that Sen. Dianne Feinstein is a &#8220;worthless whore?</excerpt>
+          <fti-names>'agre':14,34 'bitch':24 'christoph':47 'clinton':20 'diann':40 'feinstein':41 'governor':12,32 'gun':30 'hillari':19 'machin':29 'mitt':5 'mr':16,36 'nugent':9,17,37 'ride':27 'romney':6,13,33 'sen':39 'sought':7 'tango':4 'ted':8 'tommi':46 'two':1 'wango':3 'whore':45 'worthless':23,44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/tv/two-to-wango-tango-mitt-romney-sought-ted-nugents-endorsement-should-answer-for-it/&amp;sa=U&amp;ei=fauNT7XoDObM2AXr2KSUDA&amp;ved=0CEsQmAEwCA&amp;usg=AFQjCNG4HH2ezIwauO93ugnh7vPNinyNTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14545800</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tommy Christopher</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:22-04:00</created-at>
+          <title>Orly Taitz might place second (or even first) in US Senate race ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>US Senator Dianne Feinstein is running for re-election and in California and Richard Winger at the Ballot Access News website suggests that Dianna Feinstein will take first place at the primary. Winger also states that, &#8220;There ...</excerpt>
+          <fti-names>'access':32 'also':47 'ballot':31 'california':25 'daniel':52 'diann':15 'dianna':37 'elect':22 'even':7 'feinstein':16,38 'first':8,41 'luca':51 'might':3 'news':33 'or':1 'place':4,42 'primari':45 'race':12 're':21 're-elect':20 'richard':27 'run':18 'second':5 'senat':11,14 'smith':53 'state':48 'suggest':35 'taitz':2 'take':40 'us':10,13 'websit':34 'winger':28,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wasobamaborninkenya.com/blog/barrack-obama-eligibility/orly-taitz-might-place-second-or-even-first-in-us-senate-race-primary-in-california-this-june-2012/&amp;sa=U&amp;ei=fauNT7XoDObM2AXr2KSUDA&amp;ved=0CFwQmAEwDA&amp;usg=AFQjCNFqRDjew49sBzAbIMfOtSslN22gDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14545804</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lucas Daniel Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:22-04:00</created-at>
+          <title>Senate candidates plan debate outside Desert Sun | Political Insider ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Other unnamed challengers to Democratic Sen. Dianne Feinstein are being invited as well. The 10 a.m. event, announced in a short email over the weekend, is billed as a debate. It will be moderated by Earl Ammerman, who ...</excerpt>
+          <fti-names>'10':24 'a.m':25 'ammerman':46 'announc':27 'bill':36 'candid':2 'challeng':12 'debat':4,39 'democrat':14 'desert':6 'diann':16 'earl':45 'email':31 'erica':48 'event':26 'feinstein':17 'felci':49 'insid':9 'invit':20 'moder':43 'outsid':5 'plan':3 'polit':8 'sen':15 'senat':1 'short':30 'sun':7 'unnam':11 'weekend':34 'well':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicalinsider.blogs.mydesert.com/2012/04/16/senate-candidates-plan-debate-outside-desert-sun/&amp;sa=U&amp;ei=fauNT7XoDObM2AXr2KSUDA&amp;ved=0CFgQmAEwCw&amp;usg=AFQjCNE_Jnn1r9j0C0dmkq70T_8xVWKNCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14545803</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erica Felci</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:42:21-04:00</created-at>
+          <title>Original Pechanga&amp;#39;s Blog: Sen. Dianne Feinstein &amp;quot;VERY OPPOSED ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>For their actions against their own people, the Enterprise Rancheria DOES NOT DESERVE A CASINO. If her actions in Washington, D.C., weren&amp;#39;t clear enough, U.S. Sen. Dianne Feinstein left no doubt Tuesday as to where ...</excerpt>
+          <fti-names>'action':12,27 'blog':4 'casino':24 'clear':33 'd.c':30 'deserv':22 'diann':6,37 'doubt':41 'enough':34 'enterpris':18 'feinstein':7,38 'left':39 'o':46 'oppos':9 'origin':1 'pechanga':2,47 'peopl':16 'rancheria':19 'sen':5,36 'tuesday':42 'u.s':35 'washington':29 'weren':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.originalpechanga.com/2012/04/sen-dianne-feinstein-very-opposed-to.html&amp;sa=U&amp;ei=fauNT7XoDObM2AXr2KSUDA&amp;ved=0CDgQmAEwBA&amp;usg=AFQjCNG66rOhqtLxTG2dJXOHi8blBGUJ-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14545796</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>O Pechanga</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:40-04:00</created-at>
+          <title>#FeinsteinFacePalm: Things She Wishes She Hadn&amp;#39;t Said&#8230;about ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Apparently, Dianne Feinstein prefers political gimmicks over tackling the serious problems facing California,&#8221; said Elizabeth Emken, Republican endorsed candidate for U.S. Senate. &#8220;Feinstein is responsible for adding $6.5 ...</excerpt>
+          <fti-names>'6.5':37 'ad':36 'appar':10 'california':22 'candid':28 'diann':11 'elizabeth':24 'emken':25 'endors':27 'face':21 'feinstein':12,32 'feinsteinfacepalm':1 'gimmick':15 'hadn':6 'mark':38 'polit':14 'prefer':13 'problem':20 'republican':26 'respons':34 'said':8,23 'senat':31 'serious':19 'tackl':17 'thing':2 'u.s':30 'wish':4</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.emken2012.com/2012/04/feinsteinfacepalm-things-she-wishes-she-hadnt-said%25E2%2580%25A6about-the-buffett-rule/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dfeinsteinfacepalm-things-she-wishes-she-hadnt-said%2525e2%252580%2525a6about-the-buffett-rule&amp;sa=U&amp;ei=B-mMT4-WA6Kc2QW2sImTDA&amp;ved=0CFgQmAEwCw&amp;usg=AFQjCNGZxmQcqJ_yl-lZgyDqtxl-y1z-4Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526907</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mark</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:40-04:00</created-at>
+          <title>Orly Taitz might place second (or even first) in US Senate race ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>US Senator Dianne Feinstein is running for re-election and in California and Richard Winger at the Ballot Access News website suggests that Dianna Feinstein will take first place at the primary. Winger also states that, &#8220;There ...</excerpt>
+          <fti-names>'access':32 'also':47 'ballot':31 'california':25 'daniel':52 'diann':15 'dianna':37 'elect':22 'even':7 'feinstein':16,38 'first':8,41 'luca':51 'might':3 'news':33 'or':1 'place':4,42 'primari':45 'race':12 're':21 're-elect':20 'richard':27 'run':18 'second':5 'senat':11,14 'smith':53 'state':48 'suggest':35 'taitz':2 'take':40 'us':10,13 'websit':34 'winger':28,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wasobamaborninkenya.com/blog/barrack-obama-eligibility/orly-taitz-might-place-second-or-even-first-in-us-senate-race-primary-in-california-this-june-2012/&amp;sa=U&amp;ei=B-mMT4-WA6Kc2QW2sImTDA&amp;ved=0CE8QmAEwCQ&amp;usg=AFQjCNFAVoxSJeKG6FgOU6FNKpYQea55vw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526905</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lucas Daniel Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:40-04:00</created-at>
+          <title>Senate candidates plan debate outside Desert Sun | Political Insider ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Other unnamed challengers to Democratic Sen. Dianne Feinstein are being invited as well. The 10 a.m. event, announced in a short email over the weekend, is billed as a debate. It will be moderated by Earl Ammerman, who ...</excerpt>
+          <fti-names>'10':24 'a.m':25 'ammerman':46 'announc':27 'bill':36 'candid':2 'challeng':12 'debat':4,39 'democrat':14 'desert':6 'diann':16 'earl':45 'email':31 'erica':48 'event':26 'feinstein':17 'felci':49 'insid':9 'invit':20 'moder':43 'outsid':5 'plan':3 'polit':8 'sen':15 'senat':1 'short':30 'sun':7 'unnam':11 'weekend':34 'well':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicalinsider.blogs.mydesert.com/2012/04/16/senate-candidates-plan-debate-outside-desert-sun/&amp;sa=U&amp;ei=B-mMT4-WA6Kc2QW2sImTDA&amp;ved=0CEYQmAEwBw&amp;usg=AFQjCNEAzwUqZroRbzkK22JObKfy7Ah_GQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14526903</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erica Felci</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:25:43-04:00</created-at>
+          <title>Feinstein and Silicon Valley Leaders Mobilize to Prevent Flooding ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>For once, someone is taking an active role to prevent a disaster rather than responding to one. U.S. Senator Dianne Feinstein is leading an effort to build new levees and restore wetlands in San Francisco Bay to keep water ...</excerpt>
+          <fti-names>'activ':16 'bay':45 'build':36 'cpr':49 'diann':29 'disast':21 'editor':50 'effort':34 'feinstein':1,30 'flood':9 'francisco':44 'keep':47 'lead':32 'leader':5 'leve':38 'mobil':6 'new':37 'one':26 'prevent':8,19 'rather':22 'respond':24 'restor':40 'role':17 'san':43 'senat':28 'silicon':3 'someon':12 'take':14 'u.s':27 'valley':4 'water':48 'wetland':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.capoliticalreview.com/trending/feinstein-and-silicon-valley-leaders-mobilize-to-prevent-flooding/&amp;sa=U&amp;ei=FlaMT_3lCqPK2AW9tsGMAw&amp;ved=0CFAQmAEwCQ&amp;usg=AFQjCNFF5aDZfcnm1kJ6XMT_LeJEcgrzWA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14507216</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>CPR Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300043</commentariable-id>
+          <created-at type="datetime">2012-04-16T23:52:39-04:00</created-at>
+          <title>Original Pechanga&amp;#39;s Blog: Sen. Dianne Feinstein &amp;quot;VERY OPPOSED ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>For their actions against their own people, the Enterprise Rancheria DOES NOT DESERVE A CASINO. If her actions in Washington, D.C., weren&amp;#39;t clear enough, U.S. Sen. Dianne Feinstein left no doubt Tuesday as to where ...</excerpt>
+          <fti-names>'action':12,27 'blog':4 'casino':24 'clear':33 'd.c':30 'deserv':22 'diann':6,37 'doubt':41 'enough':34 'enterpris':18 'feinstein':7,38 'left':39 'o':46 'oppos':9 'origin':1 'pechanga':2,47 'peopl':16 'rancheria':19 'sen':5,36 'tuesday':42 'u.s':35 'washington':29 'weren':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.originalpechanga.com/2012/04/sen-dianne-feinstein-very-opposed-to.html&amp;sa=U&amp;ei=B-mMT4-WA6Kc2QW2sImTDA&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNHEy7F7bbtRuoBu0wPafkE4zLDRVw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14526899</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>O Pechanga</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">72984</page-views-count>
+      <youtube-id>SenatorFeinstein</youtube-id>
+      <unaccented-name>Dianne Feinstein</unaccented-name>
+      <oc-user-comments type="integer">87</oc-user-comments>
+    </person>
+  </people>
+</hash>

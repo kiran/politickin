@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">77.120822622108</party-votes-percentage>
+        <abstains-percentage type="float">1.51898734177215</abstains-percentage>
+        <votes-most-often-with-id type="integer">400105</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">200</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">24</sponsored-bills>
+        <votes-least-often-with-id type="integer">300038</votes-least-often-with-id>
+        <person-id type="integer">412495</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300025</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">2</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412243</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">300</votes-republican-position>
+      <blog-article-count type="integer">2532</blog-article-count>
+      <metavid-id nil="true"></metavid-id>
+      <user-approval type="float">6.02777777777778</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">132</oc-users-tracking>
+      <contact-webform>http://www.lee.senate.gov/public/index.cfm/contact</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">77.120822622108</with-party-percentage>
+      <youtube-id nil="true"></youtube-id>
+      <lastname>Lee</lastname>
+      <bioguide-id>L000577</bioguide-id>
+      <congress-office>316 Hart Senate Office Building</congress-office>
+      <firstname>Mike</firstname>
+      <fax nil="true"></fax>
+      <website>http://www.lee.senate.gov/</website>
+      <birthday type="date">1971-06-04</birthday>
+      <person-id type="integer">412495</person-id>
+      <phone>202-224-5444</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">96</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:51-04:00</created-at>
+          <title>Survey: Utah best state to live</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...given day. Minnesota ranked highest for economic confidence, and Colorado was tops in the category for lowest obesity. Utah Sen. Mike Lee told POLITICO, &#8220;It comes as no surprise to me that Utah is the best state in America to live in. Whether it&#8217;s t</excerpt>
+          <fti-names>'america':45 'best':3,42 'categori':21 'colorado':16 'come':32 'confid':14 'day':8 'econom':13 'given':7 'highest':11 'lee':28 'live':6,47 'lowest':23 'mike':27 'minnesota':9 'obes':24 'politico':30,54 'rank':10 'sen':26 'state':4,43 'surpris':35 'survey':1 'told':29 'top':18 'utah':2,25,39 'whether':49</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=3df1b620d912b0a23d87cb46d0b83d6b</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973813</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:51-04:00</created-at>
+          <title>Rolly: Firefighter sports injuries cost Salt Lake County taxpayers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in Utah, two candidates for public office in Utah County included their volunteer campaign work two years ago for Sen. Mike Lee among their lists of achievements. A Republican candidate for the Utah House of Representatives mentioned his Lee connection </excerpt>
+          <fti-names>'achiev':36 'ago':27 'among':32 'campaign':23 'candid':13,39 'connect':49 'cost':5 'counti':8,19 'firefight':2 'hous':43 'includ':20 'injuri':4 'lake':7,51 'lee':31,48 'list':34 'mention':46 'mike':30 'offic':16 'public':15 'repres':45 'republican':38 'rolli':1 'salt':6,50 'sen':29 'sport':3 'taxpay':9 'tribun':52 'two':12,25 'utah':11,18,42 'volunt':22 'work':24 'year':26</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/politics/54649759-90/county-candidate-hatch-lugar.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973812</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:05:51-04:00</created-at>
+          <title>Tea Party Hawks and Doves</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Tenth Amendments&#8212;two neglected parts of the Bill of Rights that are the key to reasserting limits on the federal leviathan. Mike Lee wrote a book straightforwardly arguing that most post-New Deal federal programs, including the big entitlements, are e</excerpt>
+          <fti-names>'amend':7 'american':48 'argu':33 'big':44 'bill':13 'book':31 'deal':39 'dove':5 'e':47 'entitl':45 'feder':25,40 'hawk':3 'includ':42 'key':19 'lee':28 'leviathan':26 'limit':22 'mike':27 'neglect':9 'new':38 'part':10 'parti':2 'post':37 'post-new':36 'program':41 'reassert':21 'right':15 'spectat':49 'straightforward':32 'tea':1 'tenth':6 'two':8 'wrote':29</fti-names>
+          <source-url>http://www.spectator.org/</source-url>
+          <url>http://spectator.org/blog/2012/08/07/tea-party-hawks-and-doves</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973811</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>American Spectator</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:57-04:00</created-at>
+          <title>Utah parents long for answers in missing son's case</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...to jump start a more thorough inquiry into their son's fate. With this latest information, they have enlisted the help of Sen. Mike Lee, R-Utah, and say they are emboldened by his passion to help them. &quot;The more I've learned about this case, the more I </excerpt>
+          <fti-names>'answer':5 'case':10,57 'deseret':61 'embolden':43 'enlist':29 'fate':22 'help':31,48 'inform':26 'inquiri':17 'jump':12 'latest':25 'learn':54 'lee':35 'long':3 'mike':34 'miss':7 'news':62 'parent':2 'passion':46 'r':37 'r-utah':36 'say':40 'sen':33 'son':8,20 'start':13 'thorough':16 'utah':1,38 've':53</fti-names>
+          <source-url>http://deseretnews.com/</source-url>
+          <url>http://www.deseretnews.com/article/865560123/Utah-parents-long-for-answers-in-missing-sons-case.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973190</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Deseret News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:13:57-04:00</created-at>
+          <title>Senators Voice Concerns Over UMG-EMI Deal In FTC Letter</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...reports that the letter was signed by Sen. Herb Kohl (D-WI), Chairman of the subcommittee, and its ranking minority member, Mike Lee (R-UT). The senators wrote that &quot;We believe this proposed acquisition presents significant competition issues that merit</excerpt>
+          <fti-names>'acquisit':47 'believ':44 'chairman':25 'competit':50 'concern':3 'd':23 'd-wi':22 'deal':8 'emi':7 'friday':54 'ftc':10 'herb':20 'issu':51 'kohl':21 'lee':35 'letter':11,15 'member':33 'merit':53 'mike':34 'minor':32 'morn':55 'present':48 'propos':46 'quarterback':56 'r':37 'r-ut':36 'rank':31 'report':12 'sen':19 'senat':1,40 'sign':17 'signific':49 'subcommitte':28 'umg':6 'umg-emi':5 'ut':38 'voic':2 'wi':24 'wrote':41</fti-names>
+          <source-url>http://www.fmqb.com/</source-url>
+          <url>http://www.fmqb.com/article.asp?id=2507635&amp;spid=1314</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973189</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Friday Morning Quarterback</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:25:18-04:00</created-at>
+          <title>In the company of Madison -- Ted Cruz and the tea party</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...preserved the Constitution from capricious majorities. When Cruz comes to the Senate, he and like-minded Republicans -- Utah's Mike Lee, Kentucky's Rand Paul, South Carolina's Jim DeMint, Wisconsin's Ron Johnson, Pennsylvania's Pat Toomey, and Florida's</excerpt>
+          <fti-names>'caprici':16 'carolina':39 'come':20 'compani':3 'constitut':14 'cruz':7,19 'demint':42 'florida':52 'jim':41 'johnson':46 'kentucki':34 'lee':33 'like':27 'like-mind':26 'lowel':54 'madison':5 'major':17 'mike':32 'mind':28 'onlin':56 'parti':11 'pat':49 'paul':37 'pennsylvania':47 'preserv':12 'rand':36 'republican':29 'ron':45 'senat':23 'south':38 'sun':55 'tea':10 'ted':6 'toomey':50 'utah':30 'wisconsin':43</fti-names>
+          <source-url>http://www.lowellsun.com/</source-url>
+          <url>http://www.lowellsun.com/editorials/ci_21235263/company-madison-ted-cruz-and-tea-party?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972368</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lowell Sun Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:25:17-04:00</created-at>
+          <title>Time for Lee to grow up and act like a senator</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...a U.S. senator, the last thing we are hoping he brings to the position is a penchant for embarrassing us. Unfortunately, with Sen. Mike Lee, that seems to be at the top of his skill-set. For the past six months, Utah&#8217;s freshman senator has been throwi</excerpt>
+          <fti-names>'act':8 'bring':22 'embarrass':30 'freshman':56 'grow':5 'hope':20 'lake':62 'last':16 'lee':3,36 'like':9 'mike':35 'month':53 'past':51 'penchant':28 'posit':25 'salt':61 'seem':38 'sen':34 'senat':11,14,57 'set':48 'six':52 'skill':47 'skill-set':46 'thing':17 'throwi':60 'time':1 'top':43 'tribun':63 'u.s':13 'unfortun':32 'us':31 'utah':54</fti-names>
+          <source-url>http://www.sltrib.com/</source-url>
+          <url>http://www.sltrib.com/sltrib/opinion/54618854-82/lee-senator-nominees-start.html.csp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972367</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salt Lake Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:29:35-04:00</created-at>
+          <title>Kohl and Lee Urge FTC Scrutiny of Universal-EMI Merger</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...look at the proposed $1.9 billion merger of music giants Universal and EMI. It&#8217;s the first time Sen. Herb Kohl, D-Wis., and Sen. Mike Lee, R-Utah, have cosigned a letter cautioning the FTC about the anticompetitive implications of a merger under revie</excerpt>
+          <fti-names>'1.9':16 'anticompetit':52 'billion':17 'caution':47 'cosign':44 'd':34 'd-wis':33 'emi':10,24 'first':28 'ftc':5,49 'giant':21 'herb':31 'implic':53 'journal':60 'kohl':1,32 'lee':3,39 'letter':46 'look':12 'merger':11,18,56 'mike':38 'music':20 'nation':59 'propos':15 'r':41 'r-utah':40 'revi':58 'scrutini':6 'sen':30,37 'time':29 'univers':9,22 'universal-emi':8 'urg':4 'utah':42 'wis':35</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://www.nationaljournal.com/tech/kohl-and-lee-urge-ftc-scrutiny-of-universal-emi-merger-20120803</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972025</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:29:35-04:00</created-at>
+          <title>DeMint to Colleagues: Want to Pass Feel-Good Resolutions? Pay for It</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Sen. Tom Coburn, Tennessee Republican Sen. Bob Corker, Wisconsin Republican Sen. Ron Johnson, Utah Republican Sen. Mike Lee, Missouri Democratic Sen. Claire McCaskill, Kentucky Republican Sen. Rand Paul, Idaho Republican Sen. Jim Risch, Alabama Republic</excerpt>
+          <fti-names>'alabama':47 'bob':20 'clair':35 'coburn':16 'colleagu':3 'corker':21 'demint':1 'democrat':33 'feel':8 'feel-good':7 'good':9 'idaho':42 'jim':45 'johnson':26 'journal':52 'kentucki':37 'lee':31 'mccaskil':36 'media':51 'mike':30 'missouri':32 'new':50 'pass':6 'paul':41 'pay':11 'rand':40 'republ':48 'republican':18,23,28,38,43 'resolut':10 'risch':46 'ron':25 'sen':14,19,24,29,34,39,44 'tennesse':17 'tom':15 'utah':27 'want':4 'wisconsin':22</fti-names>
+          <source-url>http://www.newmediajournal.us/</source-url>
+          <url>http://newmediajournal.us/indx.php/item/6346</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972024</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The New Media Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:34:39-04:00</created-at>
+          <title>Senate Cybersecurity Bill Stalled By Ridiculous Amendments</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...... Sen. Frank Lautenberg has filed a measure to ban high-capacity ammunition clips as part of a gun-reform proposal. And Sen. Mike Lee filed a bill that would ban abortion in Washington, D.C. after 20 weeks of pregnancy. Sen. Michael Bennet and Tom Cob</excerpt>
+          <fti-names>'20':45 'abort':40 'amend':7 'ammunit':20 'ban':16,39 'bennet':51 'bill':3,36 'capac':19 'clip':21 'cob':54 'cybersecur':2 'd.c':43 'file':12,34 'frank':9 'gun':27 'gun-reform':26 'high':18 'high-capac':17 'lautenberg':10 'lee':33 'measur':14 'michael':50 'mike':32 'part':23 'pregnanc':48 'propos':29 'reform':28 'ridicul':6 'sen':8,31,49 'senat':1 'slashdot':55 'stall':4 'tom':53 'washington':42 'week':46 'would':38</fti-names>
+          <source-url>http://slashdot.org/</source-url>
+          <url>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ewHZXorht5c/senate-cybersecurity-bill-stalled-by-ridiculous-amendments</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971284</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Slashdot</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Mike Lee [R, UT]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">389</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:49:39-04:00</created-at>
+          <title>VIDEO: FreePAC Blogger Press Conference With Senators And ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>We had the opportunity to head down to the arena&amp;#39;s catacombs for press availability with Sen. Jim DeMint, Sen. Mike Lee, Sen. Rand Paul, Senate Candidate Ted Cruz from Texas and Senate Candidate Richard Mourdock ...</excerpt>
+          <fti-names>'arena':18 'avail':23 'blogger':3 'candid':35,42 'catacomb':20 'confer':5 'cruz':37 'demint':27 'freepac':2 'head':14 'jim':26 'lee':30 'lt1800':45 'mike':29 'mourdock':44 'opportun':12 'paul':33 'press':4,22 'rand':32 'richard':43 'sen':25,28,31 'senat':7,34,41 'ted':36 'texa':39 'video':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.freedomworks.org/blog/lt1800/video-freepac-blogger-press-conference-with-senato&amp;sa=U&amp;ei=5HEXUI3cAeH-6wHy0IA4&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNEHqrnJlypVWBB92vVBI86_QuuRdQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962665</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>LT1800</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:49:38-04:00</created-at>
+          <title>CPAC 2012 - Senator Mike Lee</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Scheduled for February 9 - 11, 2012, CPAC 2012 gave conservatives everywhere the opportunity to meet and hear from our nation&amp;#39;s most courageous conservative leaders, participate in setting the conservative agenda for ...</excerpt>
+          <fti-names>'/cities/washington%20dc':40 '11':10 '2012':2,11,13 '9':9 'agenda':36 'conserv':15,29,35 'courag':28 'cpac':1,12 'everywher':16 'februari':8 'gave':14 'hear':22 'leader':30 'lee':5 'loku.com':39 'loku.com/cities/washington':38 'meet':20 'mike':4 'nation':25 'opportun':18 'particip':31 'schedul':6 'senat':3 'set':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://loku.com/content/cpac-2012-senator-mike-lee&amp;sa=U&amp;ei=5HEXUI3cAeH-6wHy0IA4&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNGv5fLWTAheHhGhY6WeFT0bLV7WtA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962663</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://loku.com/cities/Washington%20DC</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:49:33-04:00</created-at>
+          <title>Sen. Mike Lee - &amp;quot;Not So Bad, If You Don&amp;#39;t Think About It&amp;quot;</title>
+          <contains-term>republican</contains-term>
+          <excerpt>ARRA News Service: conservatives news: God, family &amp;amp; country; traditional family values, Republican principles &amp;amp; ideals, limited government, free markets, individual freedom.</excerpt>
+          <fti-names>'arra':14 'bad':6 'bill':34 'conserv':17 'countri':21 'famili':20,23 'free':30 'freedom':33 'god':19 'govern':29 'ideal':27 'individu':32 'lee':3 'limit':28 'market':31 'mike':2 'news':15,18 'principl':26 'republican':25 'sen':1 'servic':16 'smith':35 'think':11 'tradit':22 'valu':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasgopwing.blogspot.com/2012/07/sen-mike-lee-not-so-bad-if-you-dont.html&amp;sa=U&amp;ei=5HEXUI3cAeH-6wHy0IA4&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNFlhC1pkA6v5sIiq9pRBroQwmTPOg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16962658</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bill Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:06:31-04:00</created-at>
+          <title>Sen. Mike Lee - &amp;quot;Not So Bad, If You Don&amp;#39;t Think About It&amp;quot;</title>
+          <contains-term>republican</contains-term>
+          <excerpt>ARRA News Service: conservatives news: God, family &amp;amp; country; traditional family values, Republican principles &amp;amp; ideals, limited government, free markets, individual freedom.</excerpt>
+          <fti-names>'arra':14 'bad':6 'bill':34 'conserv':17 'countri':21 'famili':20,23 'free':30 'freedom':33 'god':19 'govern':29 'ideal':27 'individu':32 'lee':3 'limit':28 'market':31 'mike':2 'news':15,18 'principl':26 'republican':25 'sen':1 'servic':16 'smith':35 'think':11 'tradit':22 'valu':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasgopwing.blogspot.com/2012/07/sen-mike-lee-not-so-bad-if-you-dont.html&amp;sa=U&amp;ei=1oYWUJjOIovY8gT754D4Dw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHxAmYFhFfMyjqtY0iFAV3FYdxl3Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952329</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bill Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:06:37-04:00</created-at>
+          <title>Cahnman&amp;#39;s Musings: FreePAC: Sen. Mike Lee (R-UT)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>There&amp;#39;s a down ballot race in the Texas G.O.P. run-off about which I&amp;#39;ve been meaning to comment for some time. With early voting sched... Obama supporter berates pro-life Woman yesterday in Austin. Yesterday, Barack ...</excerpt>
+          <fti-names>'austin':48 'ballot':15 'barack':50 'berat':41 'cahnman':1,51 'comment':31 'earli':36 'freepac':4 'g.o.p':20 'lee':7 'life':44 'mean':29 'mike':6 'muse':3 'obama':39 'pro':43 'pro-lif':42 'r':9 'r-ut':8 'race':16 'run':22 'run-off':21 'sched':38 'sen':5 'support':40 'texa':19 'time':34 'ut':10 've':27 'vote':37 'woman':45 'yesterday':46,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://acahnman.blogspot.com/2012/07/freepac-sen-mike-lee-r-ut.html&amp;sa=U&amp;ei=1oYWUJjOIovY8gT754D4Dw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNHdbmSCmnivzQDqKcfAlHH05rBl1A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16952336</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cahnman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:01:04-04:00</created-at>
+          <title>Santorum ties Cruz&amp;#39;s Texas Senate election to conservatives&amp;#39; future ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Jim DeMint, Kentucky Sen. Rand Paul and Utah Sen. Mike Lee in recent days. Dewhurst&amp;#39;s campaign has criticized Cruz for campaigning with out-of-state Republicans and questioned his allegiance to Texas interests.</excerpt>
+          <fti-names>'allegi':42 'campaign':27,32 'conserv':9 'critic':29 'cruz':3,30 'day':24 'demint':12 'dewhurst':25 'elect':7 'futur':10 'hallman':47 'interest':45 'jim':11 'kentucki':13 'lee':21 'mike':20 'out-of-st':34 'paul':16 'question':40 'rand':15 'recent':23 'republican':38 'santorum':1 'sen':14,19 'senat':6 'state':37 'texa':5,44 'tie':2 'tristan':46 'utah':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://trailblazersblog.dallasnews.com/2012/07/santorum-ties-cruzs-texas-senate-election-to-conservatives-future-in-america.html/&amp;sa=U&amp;ei=zAkVUNFNyOHRAd2fgbgJ&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNFI8RztJwqjEHrHzInjUOd3fMuPaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932612</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tristan Hallman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:01:03-04:00</created-at>
+          <title>Cahnman&amp;#39;s Musings: FreePAC: Sen. Mike Lee (R-UT)</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>There&amp;#39;s a down ballot race in the Texas G.O.P. run-off about which I&amp;#39;ve been meaning to comment for some time. With early voting sched... Obama supporter berates pro-life Woman yesterday in Austin. Yesterday, Barack ...</excerpt>
+          <fti-names>'austin':48 'ballot':15 'barack':50 'berat':41 'cahnman':1,51 'comment':31 'earli':36 'freepac':4 'g.o.p':20 'lee':7 'life':44 'mean':29 'mike':6 'muse':3 'obama':39 'pro':43 'pro-lif':42 'r':9 'r-ut':8 'race':16 'run':22 'run-off':21 'sched':38 'sen':5 'support':40 'texa':19 'time':34 'ut':10 've':27 'vote':37 'woman':45 'yesterday':46,49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://acahnman.blogspot.com/2012/07/freepac-sen-mike-lee-r-ut.html&amp;sa=U&amp;ei=zAkVUNFNyOHRAd2fgbgJ&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNF0drxB9yWJrJjJCaqCD3FSedQGqg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932610</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Cahnman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:00:44-04:00</created-at>
+          <title>Sen. Mike Lee - &amp;quot;Not So Bad, If You Don&amp;#39;t Think About It&amp;quot;</title>
+          <contains-term>republican</contains-term>
+          <excerpt>ARRA News Service: conservatives news: God, family &amp;amp; country; traditional family values, Republican principles &amp;amp; ideals, limited government, free markets, individual freedom.</excerpt>
+          <fti-names>'arra':14 'bad':6 'bill':34 'conserv':17 'countri':21 'famili':20,23 'free':30 'freedom':33 'god':19 'govern':29 'ideal':27 'individu':32 'lee':3 'limit':28 'market':31 'mike':2 'news':15,18 'principl':26 'republican':25 'sen':1 'servic':16 'smith':35 'think':11 'tradit':22 'valu':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://arkansasgopwing.blogspot.com/2012/07/sen-mike-lee-not-so-bad-if-you-dont.html&amp;sa=U&amp;ei=zAkVUNFNyOHRAd2fgbgJ&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEj4ZLmyUSs_fBlpoqa3BKQ6EfKRw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16932597</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bill Smith</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:49:35-04:00</created-at>
+          <title>FULL SPEECH: Watch Senator Mike Lee at FreePAC &#187; The Right ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Senator Mike Lee spoke tonight at FreePAC and you can watch it below: Share ... I agree with Sen. Mike Lee, when he spoke about the 2012 election. It will be an election calamity for the democrat party as they well deserve, ...</excerpt>
+          <fti-names>'2012':36 'agre':26 'calam':43 'democrat':46 'deserv':51 'elect':37,42 'freepac':8,17 'full':1 'lee':6,13,30 'mike':5,12,29 'parti':47 'right':10,53 'scoop':54 'sen':28 'senat':4,11 'share':24 'speech':2 'spoke':14,33 'tonight':15 'watch':3,21 'well':50</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.therightscoop.com/full-speech-watch-senator-mike-lee-at-freepac/&amp;sa=U&amp;ei=5HEXUI3cAeH-6wHy0IA4&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGShFtH-q3IXUjd0Oiq7AO6X3GhRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962660</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Right Scoop</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412495</commentariable-id>
+          <created-at type="datetime">2012-07-31T01:49:25-04:00</created-at>
+          <title>Sen. Mike Lee Invokes the Boston Tea Party in Push for Balanced ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Mike Lee (R-Utah) took the stage at FreePAC on Thursday night to tout his ongoing push for a balanced budget amendment. He opened the speech by expressing his excitement over addressing the conservative ...</excerpt>
+          <fti-names>'address':46 'amend':36 'balanc':12,34 'billi':49 'boston':6 'budget':35 'conserv':48 'excit':44 'express':42 'freepac':23 'hallowel':50 'invok':4 'lee':3,15 'mike':2,14 'night':26 'ongo':30 'open':38 'parti':8 'push':10,31 'r':17 'r-utah':16 'sen':1,13 'speech':40 'stage':21 'tea':7 'thursday':25 'took':19 'tout':28 'utah':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theblaze.com/stories/sen-mike-lee-invokes-the-boston-tea-party-in-push-for-balanced-budget-amendment-during-freepac-speech/&amp;sa=U&amp;ei=5HEXUI3cAeH-6wHy0IA4&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNH60IzdGPwqLJKemX4Utb_AV0IeFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962654</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Billy Hallowell</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">9714</page-views-count>
+      <unaccented-name>Mike Lee</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

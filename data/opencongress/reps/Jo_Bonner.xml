@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">93.4613077384523</party-votes-percentage>
+        <abstains-percentage type="float">3.02501454333915</abstains-percentage>
+        <votes-most-often-with-id type="integer">412402</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">92</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">386</cosponsored-bills-passed-rank>
+        <abstains type="integer">52</abstains>
+        <cosponsored-bills type="integer">164</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">324</party-votes-percentage-rank>
+        <sponsored-bills type="integer">33</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">400038</person-id>
+        <cosponsored-bills-rank type="integer">327</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">422</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1558</votes-republican-position>
+      <blog-article-count type="integer">5133</blog-article-count>
+      <fax>202-225-0562</fax>
+      <user-approval type="float">3.88461538461538</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">160</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/bonner/webforms/issue_subscribe.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.4613077384523</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Bonner</lastname>
+      <congress-office>2236 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Jo</firstname>
+      <website>http://bonner.house.gov</website>
+      <birthday type="date">1959-11-19</birthday>
+      <person-id type="integer">400038</person-id>
+      <phone>202-225-4931</phone>
+      <religion>Episcopalian</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">443</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:35:21-04:00</created-at>
+          <title>Congress closes STOCK Act loophole</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...subject to new reporting requirements. In a written statement to CNN last month, the chairman of the House Ethics Committee, Rep. Jo Bonner , R-Ala., and the ranking Democrat, Rep. Linda Sanchez of California, defended the committee's interpretation. &quot;A</excerpt>
+          <fti-names>'act':4 'ala':31 'bonner':28 'california':40 'chairman':20 'close':2 'cnn':16 'committe':25,43 'congress':1 'defend':41 'democrat':35 'ethic':24 'hous':23 'intern':49 'interpret':45 'jo':27 'last':17 'linda':37 'loophol':5 'month':18 'new':8 'press':48 'r':30 'r-ala':29 'rank':34 'rep':26,36 'report':9 'requir':10 'sanchez':38 'statement':14 'stock':3 'subject':6 'unit':47 'written':13</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://www.upi.com/Top_News/US/2012/08/03/Congress-closes-STOCK-Act-loophole/UPI-38821344006071/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971499</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:35:18-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson in ethics case</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to receive complaints &#8230; that Rep. Richardson required her staff to perform campaign work,&quot; House Ethics Committee Chairman Jo Bonner (R-Ala.) said, presenting the charges. Rep. Linda T. Sanchez, a fellow Democrat who represents neighboring Lakewood an</excerpt>
+          <fti-names>'ala':30 'angel':48 'bonner':27 'campaign':20 'case':8 'chairman':25 'charg':34 'committe':24 'complaint':11 'democrat':41 'ethic':7,23 'fellow':40 'hous':1,22 'jo':26 'lakewood':45 'laura':4 'linda':36 'los':47 'neighbor':44 'perform':19 'present':32 'r':29 'r-ala':28 'receiv':10 'rep':3,13,35 'repres':43 'reprimand':2 'requir':15 'richardson':5,14 'said':31 'sanchez':38 'staff':17 'time':49 'work':21</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/sports/basketball/wnba/sparks/~3/F1V_vjRHctc/la-na-richardson-ethics-20120803,0,4741558.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971498</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:12-04:00</created-at>
+          <title>House reprimands Richardson</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...owes at least $150,000 to her legal defense team, was also personally fined $10,000. Richardson must pay the fine by Dec. 1. Rep. Jo Bonner (R-Ala.), chairman of the Ethics Committee, said the Richardson probe began in Oct. 2010 when several of her aide</excerpt>
+          <fti-names>'000':8,19 '1':27 '10':18 '150':7 '2010':46 'aid':51 'ala':33 'also':15 'began':43 'bonner':30 'chairman':34 'committe':38 'dec':26 'defens':12 'ethic':37 'fine':17,24 'hous':1 'jo':29 'least':6 'legal':11 'must':21 'oct':45 'owe':4 'pay':22 'person':16 'politico':53 'probe':42 'r':32 'r-ala':31 'rep':28 'reprimand':2 'richardson':3,20,41 'said':39 'sever':48 'team':13</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79334.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970425</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:12-04:00</created-at>
+          <title>House reprimands California congresswoman</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...by coaching the staffers to lie to investigators. &#8220;She did a disservice to the hardworking taxpayers of this country,&#8221; said Rep. Jo Bonner, chairman of the House ethics committee. In a speech to the House Ms. Richardson, California Democrat, acknowl</excerpt>
+          <fti-names>'acknowl':44 'bonner':27 'california':3,42 'chairman':28 'coach':6 'committe':33 'congresswoman':4 'countri':23 'democrat':43 'disservic':16 'ethic':32 'hardwork':19 'hous':1,31,39 'investig':12 'jo':26 'lie':10 'ms':40 'rep':25 'reprimand':2 'richardson':41 'said':24 'speech':36 'staffer':8 'taxpay':20 'time':46 'washington':45</fti-names>
+          <source-url>http://www.washingtontimes.com/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629221/s/21fbfacc/l/0L0Swashingtontimes0N0Cnews0C20A120Caug0C20Chouse0Ereprimands0Ecalifornia0Econgresswoman0C0Dutm0Isource0FRSS0IFeed0Gutm0Imedium0FRSS/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970424</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:11-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...taxpayers from all corners of this country who expect and deserve more from their elected leaders,&#8221; committee Chairman Jo Bonner (R-Ala.) said. The embarrassing vote comes as Richardson faces a tough race to win reelection against fellow Democratic Re</excerpt>
+          <fti-names>'ala':31 'bonner':28 'chairman':26 'come':36 'committe':25 'corner':12 'countri':15 'courant':51 'democrat':48 'deserv':19 'disciplin':2 'elect':23 'embarrass':34 'ethic':7 'expect':17 'face':39 'fellow':47 'hartford':50 'hous':1 'jo':27 'laura':4 'leader':24 'misconduct':8 'r':30 'r-ala':29 'race':42 're':49 'reelect':45 'rep':3 'richardson':5,38 'said':32 'taxpay':9 'tough':41 'vote':35 'win':44</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623722/s/21fc04da/l/0L0Scourant0N0Cnews0Cnation0Eworld0Cla0Epn0Ehouse0Edisciplines0Erep0Elaura0Erichardson0Efor0Eethical0Emisconduct0E20A120A80A20H0A0H23575130Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970423</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:10-04:00</created-at>
+          <title>House reprimands Rep. Richardson for conduct violations</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...as Rep. Richardson has admitted, she did not live up to that higher standard,&quot; the Ethics Committee chairman, Rep. Jo Bonner, R-Ala., said. &quot;The conclusion was bipartisan, and it was unanimous,&quot; said Rep. Linda Sanchez of California, top Democrat on the</excerpt>
+          <fti-names>'admit':12 'ala':31 'bipartisan':36 'bonner':28 'california':46 'cbs':51 'chairman':25 'committe':24 'conclus':34 'conduct':6 'democrat':48 'ethic':23 'higher':20 'hous':1 'jo':27 'linda':43 'live':16 'news':52 'r':30 'r-ala':29 'rep':3,9,26,42 'reprimand':2 'richardson':4,10 'said':32,41 'sanchez':44 'standard':21 'top':47 'unanim':40 'violat':7</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/cbsnews/feed/~3/k37TDwuohbQ/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970422</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:10-04:00</created-at>
+          <title>House disciplines Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...taxpayers from all corners of this country who expect and deserve more from their elected leaders,&#8221; committee Chairman Jo Bonner (R-Ala.) said. The embarrassing vote comes as Richardson faces a tough race to win reelection against fellow Democratic Re</excerpt>
+          <fti-names>'ala':31 'bonner':28 'chairman':26 'chicago':50 'come':36 'committe':25 'corner':12 'countri':15 'democrat':48 'deserv':19 'disciplin':2 'elect':23 'embarrass':34 'ethic':7 'expect':17 'face':39 'fellow':47 'hous':1 'jo':27 'laura':4 'leader':24 'misconduct':8 'r':30 'r-ala':29 'race':42 're':49 'reelect':45 'rep':3 'richardson':5,38 'said':32 'taxpay':9 'tough':41 'tribun':51 'vote':35 'win':44</fti-names>
+          <source-url>http://www.chicagotribune.com/</source-url>
+          <url>http://feeds.chicagotribune.com/~r/chicagotribune/news/nationworld/~3/J35IzvlMo_s/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970421</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Tribune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:09-04:00</created-at>
+          <title>House reprimands Rep. Laura Richardson for ethical misconduct</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...from all corners of this country who expect and deserve more from their elected leaders,&#8221; said committee chairman Rep. Jo Bonner, R-Ala. The embarrassing vote comes as Richardson faces a tough race to win re-election against fellow Democratic Rep. Jan</excerpt>
+          <fti-names>'ala':32 'bangor':53 'bonner':29 'chairman':26 'come':36 'committe':25 'corner':11 'countri':14 'daili':54 'democrat':50 'deserv':18 'elect':22,47 'embarrass':34 'ethic':7 'expect':16 'face':39 'fellow':49 'hous':1 'jan':52 'jo':28 'laura':4 'leader':23 'misconduct':8 'news':55 'r':31 'r-ala':30 'race':42 're':46 're-elect':45 'rep':3,27,51 'reprimand':2 'richardson':5,38 'said':24 'tough':41 'vote':35 'win':44</fti-names>
+          <source-url>http://www.bangordailynews.com/</source-url>
+          <url>http://bangordailynews.com/2012/08/02/news/nation/house-reprimands-rep-laura-richardson-for-ethical-misconduct/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970420</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Bangor Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:08-04:00</created-at>
+          <title>South Bay Rep. Laura Richardson slapped with reprimand, $10,000 fine</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Unfortunately, as Rep. Richardson has admitted, she did not live up to that higher standard,&quot; the Ethics Committee chairman, Rep. Jo Bonner, R-Ala., said. &quot;The conclusion was bipartisan, and it was unanimous,&quot; said Rep. Linda Sanchez of California, top </excerpt>
+          <fti-names>'000':10 '10':9 'admit':17 'ala':36 'bay':2 'bipartisan':41 'bonner':33 'california':51 'chairman':30 'committe':29 'conclus':39 'daili':54 'ethic':28 'fine':11 'higher':25 'jo':32 'l.a':53 'laura':4 'linda':48 'live':21 'news':55 'r':35 'r-ala':34 'rep':3,14,31,47 'reprimand':8 'richardson':5,15 'said':37,46 'sanchez':49 'slap':6 'south':1 'standard':26 'top':52 'unanim':45 'unfortun':12</fti-names>
+          <source-url>http://www.dailynews.com/</source-url>
+          <url>http://www.dailynews.com/news/ci_21219227/house-reprimands-south-bay-rep-laura-richardson-fines?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970419</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>L.A. Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:44:07-04:00</created-at>
+          <title>Long Beach Rep. Laura Richardson slapped with reprimand, $10,000 fine</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Unfortunately, as Rep. Richardson has admitted, she did not live up to that higher standard,&quot; the Ethics Committee chairman, Rep. Jo Bonner, R-Ala., said. &quot;The conclusion was bipartisan, and it was unanimous,&quot; said Rep. Linda Sanchez of California, top </excerpt>
+          <fti-names>'000':10 '10':9 'admit':17 'ala':36 'beach':2,54 'bipartisan':41 'bonner':33 'california':51 'chairman':30 'committe':29 'conclus':39 'ethic':28 'fine':11 'higher':25 'jo':32 'laura':4 'linda':48 'live':21 'long':1,53 'press':56 'press-telegram':55 'r':35 'r-ala':34 'rep':3,14,31,47 'reprimand':8 'richardson':5,15 'said':37,46 'sanchez':49 'slap':6 'standard':26 'telegram':57 'top':52 'unanim':45 'unfortun':12</fti-names>
+          <source-url>http://www.presstelegram.com/</source-url>
+          <url>http://www.presstelegram.com/news/ci_21219228/house-reprimands-long-beach-rep-laura-richardson-fines?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970418</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Long Beach Press-Telegram</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>B001244</bioguide-id>
+      <metavid-id>Jo_Bonner</metavid-id>
+      <name>Rep. Jo Bonner [R, AL-1]</name>
+      <total-session-votes type="integer">1667</total-session-votes>
+      <sunlight-nickname>Jo</sunlight-nickname>
+      <district>1</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:52-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Gus Bilirakis [R, FL-9] Rep. Timothy Bishop [D, NY-1] Rep. Sanford Bishop [D, GA-2] Rep. Rob Bishop [R, UT-1] Rep. Diane Black [R, TN-6] Rep. Earl Blumenauer [D, OR-3] Rep. Jo Bonner [R, AL-1] Rep. Dan Boren [D, OK-2] Rep. Leonard ...</excerpt>
+          <fti-names>'-1':21,33,51 '-2':27,57 '-3':45 '-6':39 '-9':15 'al':50 'biliraki':12 'bishop':18,24,30 'black':36 'blumenau':42 'bonner':48 'boren':54 'd':19,25,43,55 'dan':53 'deadlin':5 'debt':1,10 'debtreliefmag.com':60 'dian':35 'earl':41 'fl':14 'ga':26 'gus':11 'homeown':7 'jo':47 'law':4 'leonard':59 'loom':9 'ny':20 'ok':56 'r':13,31,37,49 'relief':2 'rep':16,22,28,34,40,46,52,58 'rob':29 'sanford':23 'tax':3 'timothi':17 'tn':38 'ut':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNHj0wGXVOsz1gPkzdteNE9v_DQTDw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16458497</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:53-04:00</created-at>
+          <title>Ala. officials in London to seek Airbus suppliers | Alabama&amp;#39;s 13</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... suppliers who are expected to locate near the new plant in Mobile. Groups from Alabama and Mobile are also putting on a dinner at the Savoy Hotel. Gov. Robert Bentley and U.S Rep. Jo Bonner are among those attending.</excerpt>
+          <fti-names>'/news/':53 '13':11 'airbus':7 'ala':1 'alabama':9,26 'also':30 'among':48 'attend':50 'bentley':41 'bonner':46 'dinner':34 'expect':15 'gov':39 'group':24 'hotel':38 'jo':45 'locat':17 'london':4 'mobil':23,28 'near':18 'new':20 'offici':2 'plant':21 'put':31 'rep':44 'robert':40 'savoy':37 'seek':6 'supplier':8,12 'u.s':43 'www2.alabamas13.com':52 'www2.alabamas13.com/news':51</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www2.alabamas13.com/news/2012/jul/07/ala-officials-london-seek-airbus-suppliers-ar-4092560/&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNF13VRiXOyxtid4qZWtu_Z64ptkIQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16458499</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www2.alabamas13.com/news/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:53-04:00</created-at>
+          <title>Alabama officials arrive at Farnborough International Air Show | al.com</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>&#8220;I&amp;#39;m here to sell Alabama,&#8221; said U.S. Rep. Jo Bonner, R-Mobile, who arrived at a downtown hotel Saturday morning after an overnight flight. Bonner is one of about two dozen Mobile officials on hand for the event. The group ...</excerpt>
+          <fti-names>'air':7 'al.com':9 'alabama':1,15 'arriv':3,25 'bonner':20,36 'downtown':28 'dozen':42 'event':49 'farnborough':5 'flight':35 'georg':52 'group':51 'hand':46 'hotel':29 'intern':6 'jo':19 'm':11 'mobil':23,43 'morn':31 'offici':2,44 'one':38 'overnight':34 'r':22 'r-mobil':21 'rep':18 'said':16 'saturday':30 'sell':14 'show':8 'talbot':53 'two':41 'u.s':17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.al.com/live/2012/07/alabama_officials_arrive_at_fa.html&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNGx4UogQXto3a1R_JyjhprwzDbf-Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16458498</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>George Talbot</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:55-04:00</created-at>
+          <title>Atmore News &#187; Blog Archive &#187; Shell: Airbus will impact area</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;Both Senator [Richard] Shelby and [Jeff] Sessions, along with Congressman [Jo] Bonner, several mayors and other officials were there to speak about the impact of this deal,&#8221; Shell said. &#8220;They will produce four planes a month ...</excerpt>
+          <fti-names>'airbus':6 'along':17 'archiv':4 'area':9 'atmor':1,46 'blog':3 'bonner':21 'congressman':19 'deal':36 'four':42 'impact':8,33 'jeff':15 'jo':20 'mayor':23 'month':45 'news':2,47 'offici':26 'plane':43 'produc':41 'richard':12 'said':38 'senat':11 'session':16 'sever':22 'shelbi':13 'shell':5,37 'speak':30 'staff':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.atmorenews.com/%3Fp%3D17780&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNFeCA0YSJRWqa5VpxEL1vzfkz3Wbw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16458503</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Atmore News Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:56-04:00</created-at>
+          <title>Lt Governor Ivey Comments on Airbus</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U.S. Senators Richard Shelby and Jeff Sessions, U.S. Representative Jo Bonner and Mobile Mayor Sam Jones are to be congratulated as well. The $600 million investment at the Brookley Aeroplex will assemble A319, A320 and A321 ...</excerpt>
+          <fti-names>'/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':45 '600':30 'a319':39 'a320':40 'a321':42 'aeroplex':36 'airbus':6 'alabama.gov':44 'alabama.gov/?s=make+money+online&amp;q=http://www.etoro.com/b503_a25509_tclick.aspx':43 'assembl':38 'bonner':17 'brookley':35 'comment':4 'congratul':26 'governor':2 'invest':32 'ivey':3 'jeff':12 'jo':16 'jone':22 'lt':1 'mayor':20 'million':31 'mobil':19 'repres':15 'richard':9 'sam':21 'senat':8 'session':13 'shelbi':10 'u.s':7,14 'well':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ltgov.alabama.gov/PR/PressRelease.aspx%3FID%3D6706%26t%3D1&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CE0QmAEwCg&amp;usg=AFQjCNGpvZ5ZtlBwBnvKBqYWWDtcu33Kjg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16458504</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://alabama.gov/?s=make+money+online&amp;q=http://www.etoro.com/B503_A25509_TClick.aspx</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:54-04:00</created-at>
+          <title>RESTORE Act Designed To Spur Growth In Gulf</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... RESTORE Act is soon to become law and the coastal communities affected by the Deepwater Horizon spill are poised to receive long-awaited economic and environmental restoration funds,&#8221; said Rep. Jo Bonner (R-Ala.) ...</excerpt>
+          <fti-names>'act':2,10 'affect':20 'ala':44 'await':32 'becom':14 'bonner':41 'coastal':18 'communiti':19 'deepwat':23 'design':3 'econom':33 'environment':35 'fund':37 'growth':6 'gulf':8 'horizon':24 'jo':40 'law':15 'long':31 'long-await':30 'pois':27 'r':43 'r-ala':42 'receiv':29 'rep':39 'restor':1,9,36 'said':38 'soon':12 'spill':25 'spur':5 'staff':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.talkradionews.com/congress/2012/07/02/restore-act-designed-to-spur-growth-in-gulf.html&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNG2LmGtv8VrUr96xFUHz3ifJ2S-dA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16458501</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:49-04:00</created-at>
+          <title>Rep. Bonner Supports Full Repeal of Obamacare</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8211; U.S. Rep. Jo Bonner, R-Alabama, endorsed House efforts to seek a full repeal of Obamacare after the Supreme Court failed to strike down the costly and controversial new health care law. &#8220;While I am deeply ...</excerpt>
+          <fti-names>'admin':46 'alabama':15 'bonner':2,12 'care':40 'controversi':37 'cost':35 'court':29 'deepli':45 'effort':18 'endors':16 'fail':30 'full':4,22 'health':39 'hous':17 'jo':11 'law':41 'new':38 'obamacar':7,25 'r':14 'r-alabama':13 'rep':1,10 'repeal':5,23 'seek':20 'strike':32 'support':3 'suprem':28 'u.s':9 'washington':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mobilegop.com/2012/06/28/rep-bonner-supports-full-repeal-of-obamacare/&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNH7C9Y8_i54YPmZPSqKhjpPGivUUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16458495</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-06-15T22:33:31-04:00</created-at>
+          <title>Alabama Weekly report by David Ranier 6-14</title>
+          <contains-term>congress</contains-term>
+          <excerpt>U.S. Congressman Jo Bonner of Mobile helped draft legislation that would direct the lion&amp;#39;s share of potential fines against BP and other responsible parties to the Gulf Coast, where the bulk of the oil spill&amp;#39;s impact was felt.</excerpt>
+          <fti-names>'-14':8 '6':7 'alabama':1 'bonner':12 'bp':29 'bulk':40 'coast':37 'congressman':10 'david':5 'direct':20 'draft':16 'felt':48 'fine':27 'gulf':36 'help':15 'impact':46 'jo':11 'legisl':17 'lion':22 'mobil':14 'oil':43 'parti':33 'potenti':26 'ranier':6 'report':3 'respons':32 'salti':49 'share':24 'soul':50 'spill':44 'u.s':9 'week':2 'would':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://saltysoul.com/blog/%3Fp%3D1437&amp;sa=U&amp;ei=evDbT_PjLaaW2gXyipCdDQ&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGccItXiHmiUnEW__v7B9v9GXVcCg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-14T01:00:00-04:00</date>
+          <id type="integer">15952301</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>salty soul</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-06-15T22:33:32-04:00</created-at>
+          <title>Atmore News &#187; Blog Archive &#187; Bonner in Atmore Thursday</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Jo Bonner, R-Alabama, will hold 18 First Congressional District Town Meetings in Southwest Alabama during the week of June 11 to June 15. Residents are invited to attend these congressional town meetings ...</excerpt>
+          <fti-names>'11':31 '15':34 '18':17 'alabama':14,25 'archiv':4 'atmor':1,7,44 'attend':39 'blog':3 'bonner':5,11 'congression':19,41 'congressman':9 'district':20 'first':18 'hold':16 'invit':37 'jo':10 'june':30,33 'meet':22,43 'news':2,45 'r':13 'r-alabama':12 'resid':35 'southwest':24 'staff':46 'thursday':8 'town':21,42 'week':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.atmorenews.com/%3Fp%3D17302&amp;sa=U&amp;ei=evDbT_PjLaaW2gXyipCdDQ&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNFU0B9h1REC9ftSvIXDALFKdpmxUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-13T01:00:00-04:00</date>
+          <id type="integer">15952304</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Atmore News Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400038</commentariable-id>
+          <created-at type="datetime">2012-07-08T22:44:54-04:00</created-at>
+          <title>Congressman Jo Bonner Coming To Creola - The North Mobile Post</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Congressman Jo Bonner will be in southwest Alabama this week holding a series of town hall meetings. The tour began yesterday when the Congressman visited Grand Bay, Dauphin Island, Toulminville, and West Mobile ...</excerpt>
+          <fti-names>'alabama':19 'bay':38 'began':31 'bonner':3,14 'come':4 'congressman':1,12,35 'creola':6 'dauphin':39 'david':45 'grand':37 'hall':27 'hold':22 'island':40 'jo':2,13 'meet':28 'merrel':46 'mobil':9,44 'north':8 'post':10 'seri':24 'southwest':18 'toulminvill':41 'tour':30 'town':26 'us':11 'visit':36 'week':21 'west':43 'yesterday':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.northmobilepost.com/congressman-jo-bonner-coming-to-creola/&amp;sa=U&amp;ei=oUX6T6GYBqPc2gWh7cmCBw&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNEIgwukmLbsE8g2MPkuWuiUOpgVMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">16458500</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>David Merrell</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27385</page-views-count>
+      <youtube-id>JoBonner</youtube-id>
+      <unaccented-name>Jo Bonner</unaccented-name>
+      <oc-user-comments type="integer">4</oc-user-comments>
+    </person>
+  </people>
+</hash>

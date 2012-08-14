@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">91.7824773413897</party-votes-percentage>
+        <abstains-percentage type="float">3.72309482257126</abstains-percentage>
+        <votes-most-often-with-id type="integer">400103</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">64</abstains>
+        <cosponsored-bills type="integer">127</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412432</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">419</votes-republican-position>
+      <blog-article-count type="integer">2216</blog-article-count>
+      <fax>202- 225-1988</fax>
+      <user-approval type="float">5.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">14</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">91.7824773413897</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Richmond</lastname>
+      <congress-office>415 Cannon House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Cedric</firstname>
+      <website>http://richmond.house.gov/</website>
+      <birthday type="date">1973-09-13</birthday>
+      <person-id type="integer">412432</person-id>
+      <phone>202-225-6636</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1519</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:10:25-04:00</created-at>
+          <title>Jindal, Wisconsin Gov. to highlight GOP fundraiser</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...primarily Republican U.S. House of Representatives members are seeking re-election this fall, as is the only Democrat, U.S. Rep. Cedric Richmond of New Orleans. Dore said some of the federal account also could be used to promote Romney and sponsor voter</excerpt>
+          <fti-names>'account':40 'also':41 'cedric':29 'could':42 'democrat':26 'dore':34 'elect':19 'fall':21 'feder':39 'fundrais':7 'gop':6 'gov':3 'highlight':5 'hous':11 'jindal':1 'member':14 'monro':52 'new':32 'news':53 'orlean':33 'primarili':8 'promot':46 're':18 're-elect':17 'rep':28 'repres':13 'republican':9 'richmond':30 'romney':47 'said':35 'seek':16 'sponsor':49 'star':54 'u.s':10,27 'use':44 'voter':50 'wisconsin':2</fti-names>
+          <source-url>http://www.thenewsstar.com/</source-url>
+          <url>http://thenewsstar.com/article/20120803/NEWS01/208030322/1002/rss01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971811</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Monroe News Star</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:39-04:00</created-at>
+          <title>Congressman asks governor to expand La. Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Democratic U.S. Rep. Cedric Richmond sent the Republican governor a letter Monday saying as many as 400,000 Louisiana residents would be eligible to get insurance under the Medicaid expansion. Richmond says low-income families wouldn't have a viable plan .</excerpt>
+          <fti-names>'000':25 '400':24 'ask':2 'cbs':50 'cedric':11 'congressman':1 'democrat':8 'elig':30 'expand':5 'expans':37 'famili':43 'get':32 'governor':3,16 'incom':42 'insur':33 'la':6 'letter':18 'louisiana':26 'low':41 'low-incom':40 'mani':22 'medicaid':7,36 'monday':19 'news':51 'plan':49 'rep':10 'republican':15 'resid':27 'richmond':12,38 'say':20,39 'sent':13 'u.s':9 'viabl':48 'would':28 'wouldn':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.cbsnews.com/8301-505245_162-57483406/congressman-asks-governor-to-expand-la-medicaid/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T10:08:46-04:00</date>
+          <id type="integer">16967136</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:50-04:00</created-at>
+          <title>Congressman asks Jindal to expand La. Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...against expanding Louisiana's Medicaid program, as allowed under the federal health care overhaul. Democratic U.S. Rep. Cedric Richmond sent the Republican governor a letter Monday saying as many as 400,000 Louisiana residents would be eligible to get i</excerpt>
+          <fti-names>'000':39 '400':38 'allow':15 'ask':2 'care':20 'cedric':25 'congressman':1 'democrat':22 'elig':44 'expand':5,9 'feder':18 'get':46 'governor':30 'health':19 'jindal':3 'la':6 'letter':32 'louisiana':10,40 'mani':36 'medicaid':7,12 'monday':33 'new':49 'orlean':50 'overhaul':21 'program':13 'rep':24 'republican':29 'resid':41 'richmond':26 'say':34 'sent':27 'u.s':23 'wdsu':48 'would':42</fti-names>
+          <source-url>http://www.wdsu.com/</source-url>
+          <url>http://www.wdsu.com/news/politics/Congressman-asks-Jindal-to-expand-La-Medicaid/-/9853324/15875282/-/i5dtb7/-/index.html?absolute=true</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967140</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WDSU New Orleans</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:50-04:00</created-at>
+          <title>Congressman asks governor to expand La. Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...against expanding Louisiana's Medicaid program, as allowed under the federal health care overhaul. Democratic U.S. Rep. Cedric Richmond sent the Republican governor a letter Monday saying as many as 400,000 Louisiana residents would be eligible to get i</excerpt>
+          <fti-names>'000':39 '400':38 'allow':15 'ask':2 'care':20 'cbs':48 'cedric':25 'congressman':1 'democrat':22 'elig':44 'expand':5,9 'feder':18 'get':46 'governor':3,30 'health':19 'la':6 'letter':32 'louisiana':10,40 'mani':36 'medicaid':7,12 'monday':33 'news':49 'overhaul':21 'program':13 'rep':24 'republican':29 'resid':41 'richmond':26 'say':34 'sent':27 'u.s':23 'would':42</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/CBSNewsGamecore/~3/TGMA1yKFQ_M/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967139</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:50-04:00</created-at>
+          <title>Congressman asks Jindal to expand La. Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...full costs of the Medicaid expansion from 2014 through 2016, and pick up most of the cost after that. Democratic U.S. Rep. Cedric Richmond sent the Republican governor a letter Monday saying as many as 400,000 Louisiana residents would be eligible to ge</excerpt>
+          <fti-names>'000':44 '2014':15 '2016':17 '400':43 'ask':2 'beaumont':52 'cedric':30 'congressman':1 'cost':9,24 'democrat':27 'elig':49 'enterpris':53 'expand':5 'expans':13 'full':8 'ge':51 'governor':35 'jindal':3 'la':6 'letter':37 'louisiana':45 'mani':41 'medicaid':7,12 'monday':38 'pick':19 'rep':29 'republican':34 'resid':46 'richmond':31 'say':39 'sent':32 'u.s':28 'would':47</fti-names>
+          <source-url>http://beaumontenterprise.com/</source-url>
+          <url>http://www.beaumontenterprise.com/news/article/Congressman-asks-Jindal-to-expand-La-Medicaid-3748419.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967138</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beaumont Enterprise</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:08:40-04:00</created-at>
+          <title>Federal agency joins chief justice debate</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The debate has become largely a partisan issue, with Democrats lining up behind Johnson. Rep. Cedric Richmond, D-New Orleans, and others had asked the Justice Department to intervene. New Orleans Mayor Mitch Landrieu and the New Orleans City Council also .</excerpt>
+          <fti-names>'agenc':2 'also':48 'ask':31 'becom':10 'behind':19 'cedric':22 'chief':4 'citi':46 'council':47 'd':25 'd-new':24 'debat':6,8 'democrat':16 'depart':34 'feder':1 'interven':36 'issu':14 'johnson':20 'join':3 'justic':5,33 'landrieu':41 'larg':11 'line':17 'mayor':39 'mitch':40 'new':26,37,44 'orlean':27,38,45 'other':29 'partisan':13 'rep':21 'richmond':23 'theadvocate.com':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://theadvocate.com/home/3489203-125/federal-agency-joins-chief-justice</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:57:35-04:00</date>
+          <id type="integer">16967137</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>theadvocate.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:27:35-04:00</created-at>
+          <title>Local Urban League affiliate issues &#8216;State of Black New Orleans&#8217;</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But today, the work of local elected officials like U.S. Rep. Cedric Richmond and others, along with national figures like President Barack Obama are models for how future Black leadership should appear. Rollins says the local Urban League chapter will ...</excerpt>
+          <fti-names>'affili':4 'along':26 'appear':42 'barack':32 'black':8,39 'cedric':22 'chapter':49 'elect':17 'figur':29 'futur':38 'issu':5 'leadership':40 'leagu':3,48 'like':19,30 'local':1,16,46 'louisiana':51 'model':35 'nation':28 'new':9 'obama':33 'offici':18 'orlean':10 'other':25 'presid':31 'rep':21 'richmond':23 'rollin':43 'say':44 'state':6 'today':12 'u.s':20 'urban':2,47 'week':52 'work':14</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.louisianaweekly.com/local-urban-league-affiliate-issues-%e2%80%98state-of-black-new-orleans%e2%80%99/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T12:25:57-04:00</date>
+          <id type="integer">16961497</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Louisiana Weekly</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:48-04:00</created-at>
+          <title>Fired Up, Ready to Eat: Obama in New Orleans</title>
+          <contains-term>congress</contains-term>
+          <excerpt>A couple of folks I want to acknowledge. &#160;First of all, your outstanding Mayor, Mitch Landrieu in the house.&#160;Congressman Cedric Richmond is in the house.&#160;State Senator Karen Carter Peterson is in the house.&#160;One of my favorite actors, a great friend ...</excerpt>
+          <fti-names>'acknowledg':17 'actor':49 'carter':39 'cedric':30 'congressman':29 'coupl':11 'eat':5 'favorit':48 'fire':1 'first':18 'folk':13 'friend':52 'great':51 'hous':28,35,44 'huffington':53 'karen':38 'landrieu':25 'mayor':23 'mitch':24 'new':8 'obama':6 'one':45 'orlean':9 'outstand':22 'peterson':40 'post':54 'readi':3 'richmond':31 'senat':37 'state':36 'want':15</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.huffingtonpost.com/karen-daltonbeninato/fired-up-ready-to-eat-oba_b_1714681.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T18:04:46-04:00</date>
+          <id type="integer">16930814</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:47-04:00</created-at>
+          <title>Cedric Richmond calls on Chief Justice Kimball to `abort' effort to `rob' Bernette Johnson of `rightful place'</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON - Rep. Cedric Richmond, D-New Orleans, Saturday called on Louisiana Chief Justice Catherine &quot;Kitty&quot; Kimball to &quot;abort&quot; efforts to &quot;rob Justice (Bernette) Johnson of her rightful place as chief justice&quot; when Kimball retires early next year.</excerpt>
+          <fti-names>'abort':9,36 'bernett':13,41 'call':3,27 'catherin':32 'cedric':1,20 'chief':5,30,48 'd':23 'd-new':22 'earli':53 'effort':10,37 'johnson':14,42 'justic':6,31,40,49 'kimbal':7,34,51 'kitti':33 'louisiana':29 'new':24 'next':54 'nola.com':56 'orlean':25 'place':17,46 'rep':19 'retir':52 'richmond':2,21 'right':16,45 'rob':12,39 'saturday':26 'washington':18 'year':55</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nola.com/politics/index.ssf/2012/07/cedric_richmond_calls_on_chief.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T11:59:42-04:00</date>
+          <id type="integer">16930813</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>nola.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-26T00:40:17-04:00</created-at>
+          <title>Latest White House Press Pool Report</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Force One was wheels down in New Orleans at 3:18 p.m. CT. The president will be greeted by Mayor Mitch Landrieu and Rep. Cedric Richmond. Jay Carney/Jen Psaki gaggle. Here are highlights, including details about tonight&#8217;s fund-raisers: -Jay opened by </excerpt>
+          <fti-names>'18':17 '3':16 'carney/jen':34 'cedric':31 'ct':19 'detail':41 'forc':7 'fox':51 'fund':46 'fund-rais':45 'gaggl':36 'greet':24 'highlight':39 'hous':3 'includ':40 'jay':33,48 'landrieu':28 'latest':1 'mayor':26 'mitch':27 'new':13 'news':52 'one':8 'open':49 'orlean':14 'p.m':18 'pool':5 'presid':21 'press':4 'psaki':35 'raiser':47 'rep':30 'report':6 'richmond':32 'tonight':43 'wheel':10 'white':2</fti-names>
+          <source-url>http://www.foxnews.com/</source-url>
+          <url>http://feeds.foxnews.com/~r/blogs/Gretawire/~3/M_cdJIDuG0Y/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16860307</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>R000588</bioguide-id>
+      <metavid-id nil="true"></metavid-id>
+      <name>Rep. Cedric Richmond [D, LA-2]</name>
+      <total-session-votes type="integer">1655</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:27:29-04:00</created-at>
+          <title>Local Urban League affiliate issues &amp;#39;State of Black New Orleans ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>But today, the work of local elected officials like U.S. Rep. Cedric Richmond and others, along with national figures like President Barack Obama are models for how future Black leadership should appear. Next steps ...</excerpt>
+          <fti-names>'admin':45 'affili':4 'along':26 'appear':42 'barack':32 'black':8,39 'cedric':22 'elect':17 'figur':29 'futur':38 'issu':5 'leadership':40 'leagu':3 'like':19,30 'local':1,16 'model':35 'nation':28 'new':9 'next':43 'obama':33 'offici':18 'orlean':10 'other':25 'presid':31 'rep':21 'richmond':23 'state':6 'step':44 'today':12 'u.s':20 'urban':2 'work':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.louisianaweekly.com/local-urban-league-affiliate-issues-%25E2%2580%2598state-of-black-new-orleans%25E2%2580%2599/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dlocal-urban-league-affiliate-issues-%2525e2%252580%252598state-of-black-new-orleans%2525e2%252580%252599&amp;sa=U&amp;ei=oFAXUM3FDojA8AT434GwBw&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNFfdsX3gWwyMSxbsxXaFiAj5NUVUA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961491</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:27:29-04:00</created-at>
+          <title>Pres. Obama arrives in NO; education announcement expected ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Air Force One landed at Armstrong International Airport shortly after 3:20 p.m. Mayor Mitch Landrieu, Rep. Cedric Richmond (D-New Orleans) and a small crowd of supporters greeted him as he exited the plane. The White ...</excerpt>
+          <fti-names>'20':20 '3':19 'admin':47 'air':9 'airport':16 'announc':7 'armstrong':14 'arriv':3 'cedric':26 'crowd':35 'd':29 'd-new':28 'educ':6 'exit':42 'expect':8 'forc':10 'greet':38 'intern':15 'land':12 'landrieu':24 'mayor':22 'mitch':23 'new':30 'obama':2 'one':11 'orlean':31 'p.m':21 'plane':44 'pres':1 'rep':25 'richmond':27 'short':17 'small':34 'support':37 'white':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/la-moc/cedric-richmond-louisiana-representative/pres-obama-arrives-in-no-education-announcement-expected-fox-8-news-wvue-tv/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dpres-obama-arrives-in-no-education-announcement-expected-fox-8-news-wvue-tv&amp;sa=U&amp;ei=oFAXUM3FDojA8AT434GwBw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHzfftsWmTzXs_HN1Kgk8m7fqruCg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961489</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:55:40-04:00</created-at>
+          <title>Gulf Coast Rising News | Cedric Richmond calls on Chief Justice ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8211; Rep. Visit site &amp;middot; Cedric Richmond calls on Chief Justice Kimball to `abort&amp;#39; effort to `rob&amp;#39; Bernette Johnson of `rightful place&amp;#39;. Tagged with: Bernette Johnson &#8226; Cedric Richmond &#8226; Chief Justice Kimball &#8226; court ...</excerpt>
+          <fti-names>'abort':23 'bernett':27,34 'call':7,17 'cedric':5,15,36 'chief':9,19,38 'coast':2 'court':41 'effort':24 'gulf':1 'johnson':28,35 'justic':10,20,39 'kimbal':21,40 'news':4 'newseditor':42 'place':31 'rep':12 'richmond':6,16,37 'right':30 'rise':3 'rob':26 'site':14 'tag':32 'visit':13 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gulfcoastrising.net/news/new-orleans/cedric-richmond-calls-on-chief-justice-kimball-to-abort-effort-to-rob-bernette-johnson-of-rightful-place/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcedric-richmond-calls-on-chief-justice-kimball-to-abort-effort-to-rob-bernette-johnson-of-rightful-place&amp;sa=U&amp;ei=A0wWULCVEoio8QT14YGQCA&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNGirsqqX11jvwNCYybM8TLB39yGMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949594</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>newseditor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:55:31-04:00</created-at>
+          <title>Cedric Richmond calls on Chief Justice Kimball to `abort&amp;#39; effort to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON - Rep. Cedric Richmond, D-New Orleans, Saturday called on Louisiana Chief Justice Catherine &amp;quot;Kitty&amp;quot; Kimball to &amp;quot;abort&amp;quot; efforts to &amp;quot;rob Justice (Bernette) Johnson of her rightful place as chief justice&amp;quot; when ...</excerpt>
+          <fti-names>'abort':9,30 'bernett':35 'call':3,21 'catherin':26 'cedric':1,14 'chief':5,24,42 'd':17 'd-new':16 'effort':10,31 'johnson':36 'jonathan':45 'justic':6,25,34,43 'kimbal':7,28 'kitti':27 'louisiana':23 'new':18 'orlean':19 'picayun':50 'place':40 'rep':13 'richmond':2,15 'right':39 'rob':33 'saturday':20 'tilov':46 'time':49 'times-picayun':48 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/cedric_richmond_calls_on_chief.html&amp;sa=U&amp;ei=A0wWULCVEoio8QT14YGQCA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNG4gfmYWqewQ2BBOHYghO97XHd83A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16949585</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jonathan Tilove, The Times-Picayune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:27:28-04:00</created-at>
+          <title>Cedric Richmond calls on Chief Justice Kimball to `abort&amp;#39; effort to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON - Rep. Cedric Richmond, D-New Orleans, Saturday called on Louisiana Chief Justice Catherine &amp;quot;Kitty&amp;quot; Kimball to &amp;quot;abort&amp;quot; efforts to &amp;quot;rob Justice (Bernette) Johnson of her rightful place as chief justice&amp;quot; when ...</excerpt>
+          <fti-names>'abort':9,30 'bernett':35 'call':3,21 'catherin':26 'cedric':1,14 'chief':5,24,42 'd':17 'd-new':16 'effort':10,31 'johnson':36 'jonathan':45 'justic':6,25,34,43 'kimbal':7,28 'kitti':27 'louisiana':23 'new':18 'orlean':19 'picayun':50 'place':40 'rep':13 'richmond':2,15 'right':39 'rob':33 'saturday':20 'tilov':46 'time':49 'times-picayun':48 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/cedric_richmond_calls_on_chief.html&amp;sa=U&amp;ei=oFAXUM3FDojA8AT434GwBw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNF3PsbbucR8VuJxpyWzqPsb0Gmwpg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16961488</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jonathan Tilove, The Times-Picayune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:16-04:00</created-at>
+          <title>Gulf Coast Rising News | Cedric Richmond calls on Chief Justice ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8211; Rep. Visit site &amp;middot; Cedric Richmond calls on Chief Justice Kimball to `abort&amp;#39; effort to `rob&amp;#39; Bernette Johnson of `rightful place&amp;#39;. Tagged with: Bernette Johnson &#8226; Cedric Richmond &#8226; Chief Justice Kimball &#8226; court ...</excerpt>
+          <fti-names>'abort':23 'bernett':27,34 'call':7,17 'cedric':5,15,36 'chief':9,19,38 'coast':2 'court':41 'effort':24 'gulf':1 'johnson':28,35 'justic':10,20,39 'kimbal':21,40 'news':4 'newseditor':42 'place':31 'rep':12 'richmond':6,16,37 'right':30 'rise':3 'rob':26 'site':14 'tag':32 'visit':13 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gulfcoastrising.net/news/new-orleans/cedric-richmond-calls-on-chief-justice-kimball-to-abort-effort-to-rob-bernette-johnson-of-rightful-place/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dcedric-richmond-calls-on-chief-justice-kimball-to-abort-effort-to-rob-bernette-johnson-of-rightful-place&amp;sa=U&amp;ei=aOQUUPHGA6iC6AGrroGwBQ&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNH0XvRMmpDr7ae-niiz4qLKnNObvw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930806</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>newseditor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:13-04:00</created-at>
+          <title>Cedric Richmond calls on Chief Justice Kimball to `abort&amp;#39; effort to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON - Rep. Cedric Richmond, D-New Orleans, Saturday called on Louisiana Chief Justice Catherine &amp;quot;Kitty&amp;quot; Kimball to &amp;quot;abort&amp;quot; efforts to &amp;quot;rob Justice (Bernette) Johnson of her rightful place as chief justice&amp;quot; when ...</excerpt>
+          <fti-names>'abort':9,30 'bernett':35 'call':3,21 'catherin':26 'cedric':1,14 'chief':5,24,42 'd':17 'd-new':16 'effort':10,31 'johnson':36 'jonathan':45 'justic':6,25,34,43 'kimbal':7,28 'kitti':27 'louisiana':23 'new':18 'orlean':19 'picayun':50 'place':40 'rep':13 'richmond':2,15 'right':39 'rob':33 'saturday':20 'tilov':46 'time':49 'times-picayun':48 'washington':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/cedric_richmond_calls_on_chief.html&amp;sa=U&amp;ei=aOQUUPHGA6iC6AGrroGwBQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEIMZDOfNxiOoSLKQLVGgKTBJjkkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16930804</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jonathan Tilove, The Times-Picayune</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-30T04:55:41-04:00</created-at>
+          <title>Latest White House Press Pool Report &#171; Gretawire</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Air Force One was wheels down in New Orleans at 3:18 p.m. CT. The president will be greeted by Mayor Mitch Landrieu and Rep. Cedric Richmond. Jay Carney/Jen Psaki gaggle. Here are highlights, including details about ...</excerpt>
+          <fti-names>'18':19 '3':18 'air':8 'carney/jen':36 'cedric':33 'ct':21 'detail':43 'forc':9 'gaggl':38 'greet':26 'greta':45 'gretawir':7 'highlight':41 'hous':3 'includ':42 'jay':35 'landrieu':30 'latest':1 'mayor':28 'mitch':29 'new':15 'one':10 'orlean':16 'p.m':20 'pool':5 'presid':23 'press':4 'psaki':37 'rep':32 'report':6 'richmond':34 'susteren':47 'van':46 'wheel':12 'white':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gretawire.foxnewsinsider.com/2012/07/25/latest-white-house-press-pool-report-15/&amp;sa=U&amp;ei=A0wWULCVEoio8QT14YGQCA&amp;ved=0CDUQmAEwBg&amp;usg=AFQjCNE-tsG0V9yhYJgmB64W_ljIreJReQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16949595</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Greta Van Susteren</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:25-04:00</created-at>
+          <title>Black Political Power Vanishes Across the South &#8226; Africanglobe</title>
+          <contains-term>congress</contains-term>
+          <excerpt>When President Barack Obama arrives in New Orleans on Wednesday to speak before the National Urban League annual conference, he will touch down in a state where his party, less than a month before the qualifying deadline, has yet to find   a congressional </excerpt>
+          <fti-names>'across':5 'africanglob':8 'annual':26 'arriv':13 'barack':11 'black':1 'confer':27 'congression':51 'deadlin':45 'editori':52 'find':49 'leagu':25 'less':38 'month':41 'nation':23 'new':15 'obama':12 'orlean':16 'parti':37 'polit':2 'power':3 'presid':10 'qualifi':44 'south':7 'speak':20 'staff':53 'state':34 'touch':30 'urban':24 'vanish':4 'wednesday':18 'yet':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.africanglobe.net/headlines/black-political-power-vanishes-south/&amp;sa=U&amp;ei=aOQUUPHGA6iC6AGrroGwBQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNEFOh3yyQdYxkAusQkq6LJbIFSO2g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930812</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editorial_Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412432</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:21:22-04:00</created-at>
+          <title>Latest White House Press Pool Report &#171; Gretawire</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Air Force One was wheels down in New Orleans at 3:18 p.m. CT. The president will be greeted by Mayor Mitch Landrieu and Rep. Cedric Richmond. Jay Carney/Jen Psaki gaggle. Here are highlights, including details about ...</excerpt>
+          <fti-names>'18':19 '3':18 'air':8 'carney/jen':36 'cedric':33 'ct':21 'detail':43 'forc':9 'gaggl':38 'greet':26 'greta':45 'gretawir':7 'highlight':41 'hous':3 'includ':42 'jay':35 'landrieu':30 'latest':1 'mayor':28 'mitch':29 'new':15 'one':10 'orlean':16 'p.m':20 'pool':5 'presid':23 'press':4 'psaki':37 'rep':32 'report':6 'richmond':34 'susteren':47 'van':46 'wheel':12 'white':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gretawire.foxnewsinsider.com/2012/07/25/latest-white-house-press-pool-report-15/&amp;sa=U&amp;ei=aOQUUPHGA6iC6AGrroGwBQ&amp;ved=0CDEQmAEwBQ&amp;usg=AFQjCNGcEnxEC3XKMFpsiLt9zHBQg3XOQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16930808</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Greta Van Susteren</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">4119</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>Cedric Richmond</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

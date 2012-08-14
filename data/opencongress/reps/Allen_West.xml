@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">92.7198602213163</party-votes-percentage>
+        <abstains-percentage type="float">0.116346713205352</abstains-percentage>
+        <votes-most-often-with-id type="integer">412414</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">2</abstains>
+        <cosponsored-bills type="integer">303</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">9</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412413</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1592</votes-republican-position>
+      <metavid-id nil="true"></metavid-id>
+      <blog-article-count type="integer">2876</blog-article-count>
+      <user-approval type="float">5.78787878787879</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">76</oc-users-tracking>
+      <contact-webform nil="true"></contact-webform>
+      <youtube-id>AllenWestFl</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.7198602213163</with-party-percentage>
+      <lastname>West</lastname>
+      <fax>202-225-8398</fax>
+      <congress-office>1708 Longworth House Office Building</congress-office>
+      <firstname>Allen</firstname>
+      <website>http://west.house.gov/</website>
+      <birthday type="date">1961-02-07</birthday>
+      <person-id type="integer">412413</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-3026</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">399</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:40-04:00</created-at>
+          <title>Allen West Sends Chick-Fil-A To Black Caucus Meeting And Offends Everyone, Says Dem Rep</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...PALM BEACH, Fla. -- A Democratic lawmaker says Rep. Allen West (R-Fla.) offended the entire Congressional Black Caucus by delivering Chick-fil-A chicken and biscuits to their weekly meeting -- and then walking out -- when it was his turn to provide the </excerpt>
+          <fti-names>'allen':1,26 'beach':19 'biscuit':45 'black':9,35 'caucus':10,36 'chick':5,40 'chick-fil-a':4,39 'chicken':43 'congression':34 'deliv':38 'dem':16 'democrat':22 'entir':33 'everyon':14 'fil':6,41 'fla':20,30 'huffington':63 'lawmak':23 'meet':11,49 'offend':13,31 'palm':18 'post':64 'provid':60 'r':29 'r-fla':28 'rep':17,25 'say':15,24 'send':3 'turn':58 'walk':52 'week':48 'west':2,27</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/07/allen-west-chick-fil-a_n_1752172.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973650</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:40-04:00</created-at>
+          <title>Allen West Offended Everyone When He Ordered Chick-Fil-A For Entire Congressional Black Caucus</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Allen West reportedly offended the entire Congressional Black Caucus when he delivered a selection of Chick-fil-A chicken and biscuits to the members&#8217; weekly meeting. CBC Chairman Rep. Alcee Hastings (D-FL) told The Huffington Post that, despite the i</excerpt>
+          <fti-names>'alce':47 'allen':1,17 'biscuit':38 'black':15,24 'caucus':16,25 'cbc':44 'chairman':45 'chick':9,33 'chick-fil-a':8,32 'chicken':36 'congression':14,23 'd':50 'd-fl':49 'deliv':28 'despit':57 'entir':13,22 'everyon':4 'fil':10,34 'fl':51 'hast':48 'huffington':54 'mediaite.com':60 'meet':43 'member':41 'offend':3,20 'order':7 'post':55 'rep':46 'report':19 'select':30 'told':52 'week':42 'west':2,18</fti-names>
+          <source-url>http://www.mediaite.com/</source-url>
+          <url>http://www.mediaite.com/online/allen-west-offended-everyone-when-he-ordered-chick-fil-a-for-entire-congressional-black-caucus/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973649</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mediaite.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:40-04:00</created-at>
+          <title>Rep. Allen West&#8217;s Chick-fil-A Treat Gnaws at Black Caucus</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the Congressional Black Caucus have lunched on fried chicken in the past, when the group&#8217;s only Republican member, Rep. Allen West of Florida, brought Chick-fil-A for his turn to provide lunch, Hastings told the Huffington Post &#8221;every member&#8221; o</excerpt>
+          <fti-names>'abc':58 'allen':2,35 'black':12,17 'brought':39 'caucus':13,18 'chick':6,41 'chick-fil-a':5,40 'chicken':23 'congression':16 'everi':55 'fil':7,42 'florida':38 'fri':22 'gnaw':10 'group':29 'hast':50 'huffington':53 'lunch':20,49 'member':33,56 'news':59 'o':57 'past':26 'post':54 'provid':48 'rep':1,34 'republican':32 'told':51 'treat':9 'turn':46 'west':3,36</fti-names>
+          <source-url>http://abcnews.go.com/</source-url>
+          <url>http://www.pheedcontent.com/click.phdo?i=97648931c93646939526d09ca718bada</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973648</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ABC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:59:39-04:00</created-at>
+          <title>Sweet retort: Allen West responds to Nancy Pelosi</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...6, 2012) On Monday, House Minority Leader Nancy Pelosi, D-Calif., said that ousting Florida&#8217;s most prominent Republican, U.S. Rep. Allen West, would be sweet for the country. Her response: &#8220;How sweet would it be for the country?&#8221; West responded af</excerpt>
+          <fti-names>'2012':10 '6':9 'af':51 'allen':3,31 'calif':20 'countri':38,48 'd':19 'd-calif':18 'florida':24,53 'hous':13 'leader':15 'minor':14 'monday':12 'nanci':7,16 'oust':23 'pelosi':8,17 'promin':27 'rep':30 'republican':28 'respond':5,50 'respons':40 'retort':2 'said':21 'sentinel':56 'south':52 'sun':55 'sun-sentinel':54 'sweet':1,35,42 'u.s':29 'west':4,32,49 'would':33,43</fti-names>
+          <source-url>http://www.sun-sentinel.com/</source-url>
+          <url>http://feedproxy.google.com/~r/sun-sentinel/news/local/miami/~3/5jGq3CtyWrI/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973647</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>South Florida Sun-Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:08:09-04:00</created-at>
+          <title>Pelosi in Boca, goes after GOP on Medicare</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...take umbrage in anything she said.&quot; &quot;Americans want solutions, not demagoguery,&quot; said Tim Edson, campaign manager for U.S. Rep. Allen West, R-Palm Beach Gardens. Democrats, he said, &quot;have nothing to run on but fear and dishonest attacks.&quot; Republican con</excerpt>
+          <fti-names>'allen':28 'american':15 'anyth':12 'attack':47 'beach':33 'boca':3 'campaign':23 'con':49 'demagogueri':19 'democrat':35 'dishonest':46 'edson':22 'fear':44 'florida':51 'garden':34 'goe':4 'gop':6 'manag':24 'medicar':8 'noth':39 'palm':32 'pelosi':1 'r':31 'r-palm':30 'rep':27 'republican':48 'run':41 'said':14,20,37 'sentinel':54 'solut':17 'south':50 'sun':53 'sun-sentinel':52 'take':9 'tim':21 'u.s':26 'umbrag':10 'want':16 'west':29</fti-names>
+          <source-url>http://www.sun-sentinel.com/</source-url>
+          <url>http://feeds.sun-sentinel.com/~r/sun-sentinel/news/education/~3/x1fnmasB_L0/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973034</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>South Florida Sun-Sentinel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:08:09-04:00</created-at>
+          <title>Nancy Pelosi: It Would Be 'Sweet' For The Country If Allen West Lost</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...RATON, Fla. -- House Minority Leader Nancy Pelosi (D-Calif.) thinks it wouldn't just be great for Democrats if Rep. Allen West (R-Fla.) lost his seat in November: It would be great for everybody. &quot;How sweet would it be for the country?&quot; Pelosi said to l</excerpt>
+          <fti-names>'allen':11,35 'calif':23 'countri':9,58 'd':22 'd-calif':21 'democrat':32 'everybodi':50 'fla':15,39 'great':30,48 'hous':16 'huffington':64 'l':62 'leader':18 'lost':13,40 'minor':17 'nanci':1,19 'novemb':44 'pelosi':2,20,59 'post':65 'r':38 'r-fla':37 'raton':14 'rep':34 'said':60 'seat':42 'sweet':6,52 'think':24 'west':12,36 'would':4,46,53 'wouldn':26</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/06/nancy-pelosi-allen-west_n_1748658.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973033</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:08:09-04:00</created-at>
+          <title>Rep. Allen West, a Tea Party favorite, visits Syracuse to raise money for Rep. Ann Marie Buerkle</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Associated PressRep. Allen West, R-Fla., speaks on Capitol Hill in Washington, July 30, 2011. He will visit Syracuse today to raise money for Rep. Ann Marie Buerkle, R-Onondaga Hill. Washington -- Rep. Allen West, a conservative icon who has attracted a</excerpt>
+          <fti-names>'2011':33 '30':32 'allen':2,20,53 'ann':15,44 'associ':18 'attract':60 'buerkl':17,46 'capitol':27 'conserv':56 'favorit':7 'fla':24 'hill':28,50 'icon':57 'juli':31 'mari':16,45 'money':12,41 'onondaga':49 'parti':6 'pressrep':19 'r':23,48 'r-fla':22 'r-onondaga':47 'rais':11,40 'rep':1,14,43,52 'speak':25 'syracus':9,37 'syracuse.com':62 'tea':5 'today':38 'visit':8,36 'washington':30,51 'west':3,21,54</fti-names>
+          <source-url>http://www.syracuse.com/</source-url>
+          <url>http://www.syracuse.com/news/index.ssf/2012/08/rep_allen_west_a_tea_party_fav.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973032</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Syracuse.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:08:08-04:00</created-at>
+          <title>&quot;Shit Rep. Allen West Says&quot;: The Epic Video Anthology</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Rep. Allen West, the tea-party Republican from Florida, were a movie, he'd be the 1989 Dolph Lundgren action flick Red Scorpion: Loud, anti-communist, controversial, funded by the right, and hugely unnecessary. But that movie had horrible dialogue and s</excerpt>
+          <fti-names>'1989':27 'action':30 'allen':3,11 'antholog':9 'anti':36 'anti-communist':35 'communist':37 'controversi':38 'd':24 'dialogu':51 'dolph':28 'epic':7 'flick':31 'florida':19 'fund':39 'horribl':50 'huge':44 'jone':55 'loud':34 'lundgren':29 'mother':54 'movi':22,48 'parti':16 'red':32 'rep':2,10 'republican':17 'right':42 'say':5 'scorpion':33 'shit':1 'tea':15 'tea-parti':14 'unnecessari':45 'video':8 'west':4,12</fti-names>
+          <source-url>http://motherjones.com/</source-url>
+          <url>http://www.motherjones.com/politics/2012/08/shit-allen-west-says-video-anthology</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973031</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Mother Jones</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:19:35-04:00</created-at>
+          <title>Allen West: Mitt Romney's VP Pick Needs Military Experience</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...at the Young America's Foundation's National Conservative Student Conference on Friday morning, Rep. Allen West (R-Fla.) said military experience is the most important trait that presumptive Republican presidential nominee Mitt Romney's running mate mus</excerpt>
+          <fti-names>'allen':1,26 'america':14 'confer':21 'conserv':19 'experi':10,33 'fla':30 'foundat':16 'friday':23 'huffington':51 'import':37 'mate':48 'militari':9,32 'mitt':3,44 'morn':24 'mus':49 'nation':18 'need':8 'nomine':43 'pick':7 'post':52 'presidenti':42 'presumpt':40 'r':29 'r-fla':28 'rep':25 'republican':41 'romney':4,45 'run':47 'said':31 'student':20 'trait':38 'vp':6 'west':2,27 'young':13</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/03/allen-west-mitt-romney-vice-president_n_1737885.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971880</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:19:35-04:00</created-at>
+          <title>Allen West backers continue to rail against 'liberal Republicans' in redistricting spat</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...of Rep. Allen West, including Rush Limbaugh, have been complaining for months that Tallahassee Republicans purposefully redrew his district to include more Democrats. Today, the assertion is being used to raise money for West. &quot;Liberal Republicans and l</excerpt>
+          <fti-names>'allen':1,15 'assert':38 'backer':3 'buzz':52 'complain':22 'continu':4 'democrat':35 'district':31 'florida':53 'includ':17,33 'l':50 'liber':8,47 'limbaugh':19 'money':44 'month':24 'polit':54 'purpos':28 'rail':6 'rais':43 'redistrict':11 'redrew':29 'rep':14 'republican':9,27,48 'rush':18 'spat':12 'tallahasse':26 'today':36 'use':41 'west':2,16,46</fti-names>
+          <source-url>http://blogs.tampabay.com/buzz/</source-url>
+          <url>http://feedproxy.google.com/~r/tampabaycom/blogs/buzz/~3/CwRvpOM3wk4/allen-west-backers-continue-rail-against-liberal-republicans-redistricting-spat</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971879</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Buzz: Florida Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Allen West [R, FL-22]</name>
+      <bioguide-id>W000807</bioguide-id>
+      <total-session-votes type="integer">1717</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>22</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:42-04:00</created-at>
+          <title>Congressman Allen West &#8211; FAX &#8211; The Balkanized States of America ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I received the following hand-written note from Republican Representative Allen B. West of Florida: Thurs. 19 July 2012 Ms. Jatras, Ma&amp;#39;am, thanks so much for your fax and I clearly understand what was happening in the ...</excerpt>
+          <fti-names>'19':27 '2012':29 'allen':2,21 'america':9 'b':22 'balkan':6 'clear':42 'congressman':1 'fax':4,39 'florida':25 'follow':13 'hand':15 'hand-written':14 'happen':46 'jatra':31 'juli':28 'ma':32 'ms':30 'much':36 'note':17 'receiv':11 'repres':20 'republican':19 'sparta':49 'state':7 'thank':34 'thur':26 'understand':43 'west':3,23 'written':16</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://1389blog.com/2012/07/28/congressman-allen-west-fax-the-balkanized-states-of-america/&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CFQQmAEwDA&amp;usg=AFQjCNFGx9gPLcGp7CT1nXk4a2Np2Qa5UQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950974</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Sparta</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:40-04:00</created-at>
+          <title>Life on Sleepy Creek in Words and Images: REP. ALLEN WEST&amp;#39;S ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>REP. ALLEN WEST&amp;#39;S WEEKLY NEWSLETTER - TAXES AND MORE TAXES...NEVER STOP. http://west.congressnewsletter.net/mail/util.cfm?gpiv=2100092493.13708.1&amp;amp;gen=1. Posted by May at 6:21 PM. Labels: Fight ...</excerpt>
+          <fti-names>'/mail/util.cfm?gpiv=2100092493.13708.1&amp;amp;gen=1.':27 '21':33 '6':32 'allen':10,14 'creek':4 'fight':36 'imag':8 'label':35 'life':1 'may':30,37 'never':23 'newslett':18 'pm':34 'post':28 'rep':9,13 'sleepi':3 'stop':24 'tax':19,22 'week':17 'west':11,15 'west.congressnewsletter.net':26 'west.congressnewsletter.net/mail/util.cfm?gpiv=2100092493.13708.1&amp;amp;gen=1.':25 'word':6</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://maylattanzio.blogspot.com/2012/07/rep-allen-wests-weekly-newsletter-taxes.html&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CEoQmAEwCg&amp;usg=AFQjCNGcuMiiQx4Rrebceo6C7o8hBd_Zvg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950971</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>May</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:38-04:00</created-at>
+          <title>Video &#8211; Rep Allen West Pure and Simple Facts on Incident in Iraq ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The Democrats are getting desperate, they are back at it again trying to make something out of Allen West&amp;#39;s shooting incident back in 2003. In the previous campaign, the opposition hinted at several occasions that they were ...</excerpt>
+          <fti-names>'2003':37 'allen':3,30 'back':20,35 'busi':52 'campaign':41 'democrat':14 'desper':17 'fact':8 'get':16 'hint':44 'incid':10,34 'iraq':12 'make':26 'occas':47 'opposit':43 'post':53 'previous':40 'pure':5 'rep':2 'sever':46 'shoot':33 'simpl':7 'someth':27 'tri':24 'video':1 'west':4,31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thebusypost.wordpress.com/2012/07/29/video-rep-allen-west-pure-and-simple-facts-on-incident-in-iraq-allen-west-is-a-true-hero/&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNFx_Vj0jxv68RlGXxE05VPXVXN-oA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Busy Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:33-04:00</created-at>
+          <title>Video &#8211; Rep Allen West Pure and Simple Facts on Incident in Iraq ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Well, here we go again. The Democrats are getting desperate, they are back at it again trying to make something out of Allen West&amp;#39;s shooting incident back in 2003. In the previous campaign, the opposition hinted at several ...</excerpt>
+          <fti-names>'2003':42 'allen':3,35 'allenwestrepubl':52 'back':25,40 'campaign':46 'democrat':19 'desper':22 'fact':8 'get':21 'go':16 'hint':49 'incid':10,39 'iraq':12 'make':31 'opposit':48 'previous':45 'pure':5 'rep':2 'sever':51 'shoot':38 'simpl':7 'someth':32 'tri':29 'video':1 'well':13 'west':4,36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://allenwestrepublic.wordpress.com/2012/07/30/video-rep-allen-west-pure-and-simple-facts-on-incident-in-iraq-allen-west-is-a-true-hero/&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNEmlk6kfNi1SxkoxjX0H-qU0BvyWw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950963</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>allenwestrepublic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:29-04:00</created-at>
+          <title>Green Mountain Daily:: Climate Change: Rep. Allen West follows ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Climate Change: Rep. Allen West follows Maine&amp;#39;s Lepage to Vermont. by: BP. Sun Jul 29, 2012 at 12:13:00 PM EDT. The Vermont Republican Party webpage prominently announces that Republican Congressman Allen &#8220;there are 78 to 81 ...</excerpt>
+          <fti-names>'00':30 '12':28 '13':29 '2012':26 '29':25 '78':46 '81':48 'allen':7,13,43 'announc':39 'bp':22,49 'chang':5,11 'climat':4,10 'congressman':42 'daili':3 'edt':32 'follow':9,15 'green':1 'jul':24 'lepag':18 'main':16 'mountain':2 'parti':36 'pm':31 'promin':38 'rep':6,12 'republican':35,41 'sun':23 'vermont':20,34 'webpag':37 'west':8,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.greenmountaindaily.com/diary/8993/climate-change-rep-allen-west-follows-maines-lepage-to-vermont&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEXI-pZKeaUqfjGuQIicBwgkQGhTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16950962</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>BP</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:21:17-04:00</created-at>
+          <title>Letter to Congressman Allen West Regarding Sheriff Arpaio&amp;#39;s Cold ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Dear Fellow Patriots: What follows is a letter that I forwarded to Congressman Allen West today regarding my numerous requests for the conduct of a full-scale investigation by both houses of Congress into the allegations ...</excerpt>
+          <fti-names>'alleg':47 'allen':4,24 'arpaio':8 'blog':49 'cold':10 'conduct':33 'congress':44 'congressman':3,23 'dear':11 'editor':50 'fellow':12 'follow':15 'forward':21 'full':37 'full-scal':36 'hous':42 'investig':39 'letter':1,18 'numer':29 'patriot':13 'polit':48 'regard':6,27 'request':30 'scale':38 'sheriff':7 'today':26 'west':5,25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americanpoliticalblogs.com/2012/07/letter-to-congressman-allen-west-regarding-sheriff-arpaios-cold-case-posse-allegations/&amp;sa=U&amp;ei=efIUUP2GM4XJ6wGx9oC4Aw&amp;ved=0CFEQmAEwCw&amp;usg=AFQjCNFyoPMf6Us_31oks_4pr1Bn_BqOjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16931427</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Political Blog Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:12:38-04:00</created-at>
+          <title>Allen West&amp;#39;s Democratic Opponent Shows Off Tea Party ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Florida Republican Rep. Allen West&amp;#39;s Democratic opponent, Patrick Murphy, launched a campaign platform on Friday which intends to showcase West&amp;#39;s most potentially damaging remarks in the hopes of taking back his seat ...</excerpt>
+          <fti-names>'allen':1,13 'anni':44 'back':41 'campaign':22 'damag':34 'democrat':4,16 'florida':10 'friday':25 'hope':38 'intend':27 'launch':20 'murphi':19 'oppon':5,17 'parti':9 'patrick':18 'pei':45 'platform':23 'potenti':33 'remark':35 'rep':12 'republican':11 'seat':43 'show':6 'showcas':29 'take':40 'tea':8 'west':2,14,30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/online/allen-wests-democratic-opponent-shows-off-tea-party-congressmans-greatest-hits-at-whatwestsaid-com/&amp;sa=U&amp;ei=G2wWUJWOIPHG0AHM1ICADA&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNHU_MNiSJ5MbVWiU4PYNSQmjs5A7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16950969</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Annie Pei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:21:17-04:00</created-at>
+          <title>Congressman Allen West: Stop the Tax Hike! | AllenWestRepublic</title>
+          <contains-term>congress</contains-term>
+          <excerpt>(WASHINGTON) &#8212; Congressman Allen West (R-FL) is joining House Republicans today by hosting two town hall meetings on &#8220;Stop the Tax Hike Day&#8221; to emphasize the need for the United States Congress to block the ...</excerpt>
+          <fti-names>'allen':2,11 'allenwestrepubl':8,45 'block':43 'congress':41 'congressman':1,10 'day':32 'emphas':34 'fl':15 'hall':25 'hike':7,31 'host':22 'hous':18 'join':17 'meet':26 'need':36 'r':14 'r-fl':13 'republican':19 'state':40 'stop':4,28 'tax':6,30 'today':20 'town':24 'two':23 'unit':39 'washington':9 'west':3,12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://allenwestrepublic.wordpress.com/2012/07/27/congressman-allen-west-stop-the-tax-hike/&amp;sa=U&amp;ei=efIUUP2GM4XJ6wGx9oC4Aw&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNFtrphH-oUs2Nr212njJmfNps9zZw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931426</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>allenwestrepublic</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:21:17-04:00</created-at>
+          <title>Allen West: I&amp;#39;m Selling Hot Dogs In Tampa For Republican Convention</title>
+          <contains-term>republican</contains-term>
+          <excerpt>There is only so many speaking spots to go around at the Republican National Convention. So, when Rep. Allen West makes the drive to Tampa for the convention, he could very well be selling hot dogs just to be a part of it.</excerpt>
+          <fti-names>'allen':1,31 'around':22 'convent':12,27,40 'could':42 'dog':7,48 'drive':35 'go':21 'hot':6,47 'm':4 'make':33 'mani':17 'nation':26 'part':53 'rep':30 'republican':11,25 'sell':5,46 'speak':18 'spot':19 'tampa':9,37 'timothybella':56 'well':44 'west':2,32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tampa.cbslocal.com/2012/07/27/allen-west-im-selling-hot-dogs-in-tampa-for-republican-convention/&amp;sa=U&amp;ei=efIUUP2GM4XJ6wGx9oC4Aw&amp;ved=0CEcQmAEwCQ&amp;usg=AFQjCNFpDCaJ8Hr78RypGBmPlILnMCKQLg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931425</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>timothybella</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412413</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:21:16-04:00</created-at>
+          <title>Allen West&amp;#39;s Democratic Opponent Shows Off Tea Party ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Florida Republican Rep. Allen West&amp;#39;s Democratic opponent, Patrick Murphy, launched a campaign platform on Friday which intends to showcase West&amp;#39;s most potentially damaging remarks in the hopes of taking back his seat ...</excerpt>
+          <fti-names>'allen':1,13 'anni':44 'back':41 'campaign':22 'damag':34 'democrat':4,16 'florida':10 'friday':25 'hope':38 'intend':27 'launch':20 'murphi':19 'oppon':5,17 'parti':9 'patrick':18 'pei':45 'platform':23 'potenti':33 'remark':35 'rep':12 'republican':11 'seat':43 'show':6 'showcas':29 'take':40 'tea':8 'west':2,14,30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mediaite.com/online/allen-wests-democratic-opponent-shows-off-tea-party-congressmans-greatest-hits-at-whatwestsaid-com/&amp;sa=U&amp;ei=efIUUP2GM4XJ6wGx9oC4Aw&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGK-IPUF5FFkOshXEh0LEyrFZsenA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931424</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Annie Pei</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">8748</page-views-count>
+      <unaccented-name>Allen West</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-19T11:16:54-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">93.1645569620253</party-votes-percentage>
+        <abstains-percentage type="float">0.0</abstains-percentage>
+        <votes-most-often-with-id type="integer">300087</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:24-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">8</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">79</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">78</cosponsored-bills-passed-rank>
+        <abstains type="integer">0</abstains>
+        <cosponsored-bills type="integer">96</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">36</party-votes-percentage-rank>
+        <sponsored-bills type="integer">66</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">300082</person-id>
+        <cosponsored-bills-rank type="integer">87</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-08-27T22:18:52-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412243</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">8</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">0</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">165</votes-republican-position>
+      <biography nil="true"></biography>
+      <bioguide-id>R000146</bioguide-id>
+      <blog-article-count type="integer">31254</blog-article-count>
+      <user-approval type="float">1.67894736842105</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">766</oc-users-tracking>
+      <contact-webform>http://www.reid.senate.gov/contact/index.cfm</contact-webform>
+      <metavid-id>Harry_Reid</metavid-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">93.1645569620253</with-party-percentage>
+      <lastname>Reid</lastname>
+      <congress-office>522 Hart Senate Office Building</congress-office>
+      <youtube-id>SenatorReid</youtube-id>
+      <firstname>Harry</firstname>
+      <website>http://www.reid.senate.gov/</website>
+      <birthday type="date">1939-12-02</birthday>
+      <person-id type="integer">300082</person-id>
+      <fax>202-224-7327</fax>
+      <phone>202-224-3542</phone>
+      <religion>Latter Day Saints</religion>
+      <votes-democratic-position type="integer">368</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:35-04:00</created-at>
+          <title>Nevada: Harry Reid to Retire... in 2016?</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Washington Post columnist wrote that Sen. Harry Reid (left) won't run for another term in 2016. (Tom Williams/CQ Roll Call) &#8220;Reid, who won reelection in 2010 and doesn&#8217;t plan to run for office again, is happy to absorb blows in return &#8212; and they h</excerpt>
+          <fti-names>'2010':34 '2016':7,24 'absorb':47 'anoth':21 'blow':48 'call':28,55 'columnist':10 'doesn':36 'h':53 'happi':45 'harri':2,14 'left':16 'nevada':1 'offic':42 'plan':38 'post':9 'reelect':32 'reid':3,15,29 'retir':5 'return':50 'roll':27,54 'run':19,40 'sen':13 'term':22 'tom':25 'washington':8 'williams/cq':26 'won':17,31 'wrote':11</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/nevada_harry_reid_to_retire_in_2016-216762-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973876</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:35-04:00</created-at>
+          <title>Another Fact Check Organization Calls Harry Reid A Liar</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to attack with.&quot; Related: Wapo Post Partisan: Reid Draws Democratic Party And Obama Into The Gutter Reince Priebus: Sen. Harry Reid Is a &#8216;Dirty Liar&#8217; John Sununu: Barack Obama behind Harry Reid&#8217;s claim Harry Reid's Latest Pathetic Lies About Romne</excerpt>
+          <fti-names>'america':54 'anoth':1 'attack':11 'barack':37 'behind':39 'call':5 'check':3 'claim':43 'democrat':19 'dirti':33 'draw':18 'fact':2 'gutter':25 'harri':6,29,40,44 'john':35 'latest':47 'liar':9,34 'lie':49 'obama':22,38 'organ':4 'parti':20 'partisan':16 'pathet':48 'post':15 'priebus':27 'reid':7,17,30,41,45 'reinc':26 'relat':13 'romn':51 'sen':28 'sununu':36 'wake':52 'wapo':14</fti-names>
+          <source-url>http://wwwwakeupamericans-spree.blogspot.com/</source-url>
+          <url>http://feedproxy.google.com/~r/blogspot/rnoHn/~3/4Md9fmSRMmk/another-fact-check-organization-calls.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973875</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wake up America</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:35-04:00</created-at>
+          <title>Sen. Harry Reid is out of line</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Senate Majority Leader Harry Reid a &#8220;dirty liar,&#8221; as Republican National Committee Chairman Reince Priebus has asserted? Under the normal rules of debate, the burden would be on Reid to show otherwise. Reid brazenly claimed last week that &#8220;an extr</excerpt>
+          <fti-names>'assert':24 'brazen':41 'burden':32 'chairman':20 'claim':42 'committe':19 'debat':30 'dirti':14 'extr':47 'harri':2,11 'heraldonline.com':48 'last':43 'leader':10 'liar':15 'line':7 'major':9 'nation':18 'normal':27 'otherwis':39 'priebus':22 'reid':3,12,36,40 'reinc':21 'republican':17 'rule':28 'sen':1 'senat':8 'show':38 'week':44 'would':33</fti-names>
+          <source-url>http://www.heraldonline.com/</source-url>
+          <url>http://www.heraldonline.com/2012/08/07/4172328/sen-harry-reid-is-out-of-line.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973874</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>HeraldOnline.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:07:34-04:00</created-at>
+          <title>Fred Thompson: Harry Reid 'Would Make Joe McCarthy Blush&#8217;</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Army-McCarthy hearings when he was confronted with the famous question, &quot;Have you no sense of decency, sir?&quot; In the case of Harry Reid, it isn't even worth asking,&#8221; Lowry said in his Newsmax column. &#8220;Ordinarily, before repeating such a charge public</excerpt>
+          <fti-names>'armi':11 'army-mccarthi':10 'ask':40 'blush':9 'case':31 'charg':52 'column':46 'confront':17 'decenc':27 'even':38 'famous':20 'fred':1 'harri':3,33 'hear':13 'isn':36 'joe':7 'lowri':41 'make':6 'mccarthi':8,12 'newsmax':45,54 'ordinarili':47 'public':53 'question':21 'reid':4,34 'repeat':49 'said':42 'sens':25 'sir':28 'thompson':2 'worth':39 'would':5</fti-names>
+          <source-url>http://www.newsmax.com/</source-url>
+          <url>http://www.newsmax.com/Headline/Thompson-Reid-McCarthy-blush/2012/08/07/id/447801</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973873</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NewsMax</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:16-04:00</created-at>
+          <title>Harry Reid&#8217;s Despicable Mitt Romney Rumor-Mongering</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...since Senate Majority Leader Harry Reid used the Senate floor to tell the world that former Massachusetts governor and likely GOP presidential nominee Mitt Romney had not paid his taxes, I received a number of tips from confidential sources who chose to</excerpt>
+          <fti-names>'chose':50 'confidenti':47 'despic':4 'floor':19 'former':25 'gop':30 'governor':27 'harri':1,14 'leader':13 'like':29 'major':12 'massachusett':26 'mitt':5,33 'monger':9 'news':53 'nomine':32 'number':43 'paid':37 'presidenti':31 'receiv':41 'reid':2,15 'report':55 'romney':6,34 'rumor':8 'rumor-mong':7 'senat':11,18 'sinc':10 'sourc':48 'tax':39 'tell':21 'tip':45 'u.s':52 'use':16 'world':23,54</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/blogs/peter-roff/2012/8/6/harry-reids-despicable-mitt-romney-rumor-mongering-?s_cid=rss:peter-roff:harry-reids-despicable-mitt-romney-rumor-mongering-</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973236</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:15-04:00</created-at>
+          <title>NUGENT: Whacky Harry Reid talks trash about Romney</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...have to know that times are desperate in the Obama campaign when Sen. Harry Reid is trotted out to contend that Mitt Romney didn&#8217;t pay taxes for a decade. Never one to let facts get in the way, the Democratic Senate majority leader offered no damning </excerpt>
+          <fti-names>'campaign':19 'contend':28 'damn':55 'decad':38 'democrat':49 'desper':15 'didn':32 'fact':43 'get':44 'harri':3,22 'know':11 'leader':52 'let':42 'major':51 'mitt':30 'never':39 'nugent':1 'obama':18 'offer':53 'one':40 'pay':34 'reid':4,23 'romney':8,31 'sen':21 'senat':50 'talk':5 'tax':35 'time':13,57 'trash':6 'trot':25 'washington':56 'way':47 'whacki':2</fti-names>
+          <source-url>http://www.washingtontimes.com/</source-url>
+          <url>http://washingtontimes.feedsportal.com/c/34503/f/629218/s/221cead8/l/0L0Swashingtontimes0N0Cnews0C20A120Caug0C60Cwhacky0Eharry0Ereid0Etalks0Etrash0Eabout0Eromney0C0Dutm0Isource0FRSS0IFeed0Gutm0Imedium0FRSS/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973235</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:15-04:00</created-at>
+          <title>Harry Reid&#8217;s latest broadside</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...told Politico on Sunday night that Graham and Priebus are &#8220;a bunch of henchmen for Romney&#8221; who &#8220;couldn&#8217;t hold a candle to Harry Reid.&#8221; It&#8217;s rare for a staffer to insult a senator on the record. But if Reid&#8217;s accusation against Romney is re</excerpt>
+          <fti-names>'accus':48 'broadsid':5 'bunch':17 'candl':27 'couldn':23 'dana':53 'graham':12 'harri':1,29 'henchmen':19 'hold':25 'insult':38 'latest':4 'milbank':54 'night':10 'politico':7 'post':58 'priebus':14 'rare':33 're':52 'record':43 'reid':2,30,46 'romney':21,50 'senat':40 'sketch':56 'staffer':36 'sunday':9 'told':6 'wash':57 'washington':55</fti-names>
+          <source-url>http://www.washingtonpost.com/wp-dyn/content/linkset/2005/03/25/LI2005032501825.html?nav=rss_opinion/columns</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=96662268b56026b54948593e2784d6a9</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973234</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Dana Milbank: Washington Sketch (Wash. Post)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:15-04:00</created-at>
+          <title>PolitiFact Gives Harry Reid 'Pants on Fire' Rating For His Lies About Romney's Taxes</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to try to attack with. Related: Wapo Post Partisan: Reid Draws Democratic Party And Obama Into The Gutter Reince Priebus: Sen. Harry Reid Is a &#8216;Dirty Liar&#8217; John Sununu: Barack Obama behind Harry Reid&#8217;s claim Harry Reid's Latest Pathetic Lies About</excerpt>
+          <fti-names>'america':61 'attack':19 'barack':45 'behind':47 'claim':51 'democrat':27 'dirti':41 'draw':26 'fire':7 'give':2 'gutter':33 'harri':3,37,48,52 'john':43 'latest':55 'liar':42 'lie':11,57 'obama':30,46 'pant':5 'parti':28 'partisan':24 'pathet':56 'politifact':1 'post':23 'priebus':35 'rate':8 'reid':4,25,38,49,53 'reinc':34 'relat':21 'romney':13 'sen':36 'sununu':44 'tax':15 'tri':17 'wake':59 'wapo':22</fti-names>
+          <source-url>http://wwwwakeupamericans-spree.blogspot.com/</source-url>
+          <url>http://feedproxy.google.com/~r/blogspot/rnoHn/~3/nqvQ7UJTyhM/politifact-gives-harry-reid-pants-on.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973233</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wake up America</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:15-04:00</created-at>
+          <title>Media, GOP Slam Harry Reid Over Romney Tax Charge</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...claims for publications like The Huffington Post, but he was surprised that such a claim would be made on the Senate floor. &quot;Harry Reid comes to the floor of the Senate and makes this outrageous charge that has absolutely no evidence.&quot; Karl noted that R</excerpt>
+          <fti-names>'absolut':48 'charg':9,45 'christian':56 'claim':10,24 'come':34 'evid':50 'floor':31,37 'gop':2 'harri':4,32 'huffington':15 'karl':51 'like':13 'made':27 'make':42 'media':1 'note':52 'outrag':44 'post':16,57 'public':12 'r':54 'reid':5,33 'romney':7 'senat':30,40 'slam':3 'surpris':20 'tax':8 'would':25</fti-names>
+          <source-url>http://www.christianpost.com/</source-url>
+          <url>http://www.christianpost.com/news/media-gop-slam-harry-reid-over-romney-tax-charge-79487/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973232</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Christian Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:15:15-04:00</created-at>
+          <title>Morning Examiner: Harry Reid is a &#8216;dirty liar&#8217;</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a bunch of henchmen for Romney and they&#8217;re all reading off the same talking points. They couldn&#8217;t hold a candle to Harry Reid.&#8221; In other words, expect more wild accusations from Reid soon. Campaign 2012 Obama: The New York Times reports that Obama</excerpt>
+          <fti-names>'2012':45 'accus':40 'bunch':10 'campaign':44 'candl':30 'couldn':26 'dirti':7 'examin':2,55 'expect':37 'harri':3,32 'henchmen':12 'hold':28 'liar':8 'morn':1 'new':48 'obama':46,53 'point':24 're':17 'read':19 'reid':4,33,42 'report':51 'romney':14 'soon':43 'talk':23 'time':50 'washington':54 'wild':39 'word':36 'york':49</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/morning-examiner-harry-reid-is-a-dirty-liar/article/2504091?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973231</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <watchdog-id nil="true"></watchdog-id>
+      <name>Sen. Harry Reid [D, NV]</name>
+      <total-session-votes type="integer">395</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <middlename>M.</middlename>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:53-04:00</created-at>
+          <title>MoeLane: #rsrh You know, anybody who Harry Reid hates this ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Airing Harry Reid&amp;#39;s Dirty Laundry. Harry Reid Headlines &amp;quot;........... Senator Harry Reid claims to be an ethical politician and he often employs his Mormon religion in order to demonstrate his .</excerpt>
+          <fti-names>'air':11 'anybodi':5 'blog':42 'claim':23 'demonstr':39 'dirti':15 'editor':43 'employ':32 'ethic':27 'harri':7,12,17,21 'hate':9 'headlin':19 'know':4 'laundri':16 'moelan':1 'mormon':34 'often':31 'order':37 'polit':41 'politician':28 'reid':8,13,18,22 'religion':35 'rsrh':2 'senat':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americanpoliticalblogs.com/2012/07/moelane-rsrh-you-know-anybody-who-harry-reid-hates-this-badly-and-profanely-httpt-coc4ei8u06/&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNHrnalwEq4Rg0MGfwUTi__UvOAl0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16962947</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Political Blog Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:53-04:00</created-at>
+          <title>Odd Conspiracy,: Scumbag Senator Harry Reid tries to block Ron ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Scumbag Senator Harry Reid tries to block Ron Paul&amp;#39;s Audit the Fed - LET&amp;#39;S STOP HIM!!! - YouTube. Scumbag Senator Harry Reid tries to block Ron Paul&amp;#39;s Audit the Fed - LET&amp;#39;S STOP HIM!!! - YouTube. Posted by Conspiracy ...</excerpt>
+          <fti-names>'audit':21,39 'block':9,17,35 'conspiraci':2,49,50 'fed':23,41 'harri':5,13,31 'let':24,42 'odd':1 'odditi':51 'paul':19,37 'post':47 'reid':6,14,32 'ron':10,18,36 'scumbag':3,11,29 'senat':4,12,30 'stop':26,44 'tri':7,15,33 'youtub':28,46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oddconspiracy.blogspot.com/2012/07/scumbag-senator-harry-reid-tries-to.html&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CE0QmAEwCw&amp;usg=AFQjCNGiED0DY5OS9h9ZYHrpunw4kho3Aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962948</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Conspiracy oddity</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:51-04:00</created-at>
+          <title>Scumbag Senator Harry Reid tries to block Ron Paul&amp;#39;s Audit the Fed ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Scumbag Senator Harry Reid tries to block Ron Paul&amp;#39;s Audit the Fed &#8211; LET&amp;#39;S STOP HIM!!! Posted on July 30, 2012 by TheCandidBull &amp;middot; Tweet &amp;middot; government,politics news,politics news,politics. This entry was posted in Ron Paul. Bookmark t</excerpt>
+          <fti-names>'2012':35 '30':34 'audit':11,24 'block':7,20 'bookmark':52 'entri':46 'fed':13,26 'govern':39 'harri':3,16 'juli':33 'let':27 'news':41,43 'paul':9,22,51 'polit':40,42,44 'post':31,48 'reid':4,17 'ron':8,21,50 'scumbag':1,14 'senat':2,15 'stop':29 'thecandidbul':37,54 'tri':5,18 'tweet':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thecandidbull.com/%3Fp%3D18108&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNE4e3m--QgiraxZjxyutuMJFyTvHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962944</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TheCandidBull</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:51-04:00</created-at>
+          <title>blogdog: Senator Harry Reid tries to block Ron Paul&amp;#39;s Audit the Fed ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Jul 30, 2012 by AdamKokesh. To hear the full podcast: adamvstheman.com/podcast. Please address hate mail to adam@adamvstheman.com. Invest here to support ADAM VS THE MAN! adamvstheman.com/invest. Posted by ...</excerpt>
+          <fti-names>'/invest.':43 '/podcast.':26 '2012':16 '30':15 'adam':37 'adam@adamvstheman.com':32 'adamkokesh':18 'adamvstheman.com':25,42 'adamvstheman.com/invest':41 'adamvstheman.com/podcast':24 'address':28 'audit':11 'block':7 'blogdog':1 'dogcicl':46 'fed':13 'full':22 'harri':3 'hate':29 'hear':20 'invest':33 'jul':14 'mail':30 'man':40 'paul':9 'pleas':27 'podcast':23 'post':44 'reid':4 'ron':8 'senat':2 'support':36 'tri':5 'vs':38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogdogcicle.blogspot.com/2012/07/senator-harry-reid-tries-to-block-ron.html&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNGdmVj4m9Fk7VXyy8ToM9vIXEjwIw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962943</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dogcicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:50-04:00</created-at>
+          <title>PAC tied to Nevada Sen. Harry Reid attacking Republican ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Senate Majority Leader Harry Reid, D-Nev., center, talks about the yearlong tax cut extension bill Democrats passed by a near party-line 51-48 vote, at the Capitol in Washington, Wednesday, July 25, 2012. From back left are ...</excerpt>
+          <fti-names>'-48':36 '2012':46 '25':45 '51':35 'admin':51 'attack':8 'back':48 'bill':26 'capitol':40 'center':18 'cut':24 'd':16 'd-nev':15 'democrat':27 'extens':25 'harri':6,13 'juli':44 'leader':12 'left':49 'line':34 'major':11 'near':31 'nev':17 'nevada':4 'pac':1 'parti':33 'party-lin':32 'pass':28 'reid':7,14 'republican':9 'sen':5 'senat':10 'talk':19 'tax':23 'tie':2 'vote':37 'washington':42 'wednesday':43 'yearlong':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/il-moc/richard-durbin-illinois-senator/pac-tied-to-nevada-sen-harry-reid-attacking-republican-candidates-3/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dpac-tied-to-nevada-sen-harry-reid-attacking-republican-candidates-3&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEHOk5x3dVRwe-ct_KxNtGr71vCcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16962942</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:35:23-04:00</created-at>
+          <title>Conservative Patriot: SENATOR HARRY REID...ANTI-AMERICAN!!!</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Harry Reid Reporting For &#8220;Founding Father Abuse&#8221; Duty! Jul 28, 2012 01:41 pm. It is the height of sophistry to support one&amp;#39;s position by misinterpreting, misquoting, or taking entirely out of context the words of credible people.</excerpt>
+          <fti-names>'01':20 '2012':19 '28':18 '41':21 'abus':15 'american':8 'anti':7 'anti-american':6 'conserv':1 'context':42 'credibl':46 'duti':16 'entir':39 'father':14 'found':13 'gliddon':50 'harri':4,9 'height':26 'jr':51 'jul':17 'lee':48 'misinterpret':35 'misquot':36 'one':31 'patriot':2 'peopl':47 'pm':22 'posit':33 'reid':5,10 'report':11 'senat':3 'sophistri':28 'support':30 'take':38 'word':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://conpats.blogspot.com/2012/07/senator-harry-reidanti-american.html&amp;sa=U&amp;ei=lI0WUN2LNoGa8gTS0IDQAg&amp;ved=0CEYQmAEwCQ&amp;usg=AFQjCNErjcgW_ClB35DYXnwgNQlMOFHWog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952742</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lee S. Gliddon Jr.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-30T09:35:20-04:00</created-at>
+          <title>PAC tied to Nevada Sen. Harry Reid attacking Republican ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>PAC tied to Nevada Sen. Harry Reid attacking Republican candidates. Reno Gazette Journal Senate Majority Leader Harry Reid, D-Nev., center, talks about the yearlong tax cut extension bill Democrats passed by a near ...</excerpt>
+          <fti-names>'admin':45 'attack':8,17 'bill':39 'candid':19 'center':31 'cut':37 'd':29 'd-nev':28 'democrat':40 'extens':38 'gazett':21 'harri':6,15,26 'journal':22 'leader':25 'major':24 'near':44 'nev':30 'nevada':4,13 'pac':1,10 'pass':41 'reid':7,16,27 'reno':20 'republican':9,18 'sen':5,14 'senat':23 'talk':32 'tax':36 'tie':2,11 'yearlong':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/nv-moc/harry-reid-nevada-senator/pac-tied-to-nevada-sen-harry-reid-attacking-republican-candidates-reno-gazette-journal/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dpac-tied-to-nevada-sen-harry-reid-attacking-republican-candidates-reno-gazette-journal&amp;sa=U&amp;ei=lI0WUN2LNoGa8gTS0IDQAg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNHhvpbFnNkIxlCH-BRBIUMaG_de8g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16952737</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-29T06:23:17-04:00</created-at>
+          <title>Conservative Patriot: SENATOR HARRY REID...ANTI-AMERICAN!!!</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Harry Reid Reporting For &#8220;Founding Father Abuse&#8221; Duty! Jul 28, 2012 01:41 pm. It is the height of sophistry to support one&amp;#39;s position by misinterpreting, misquoting, or taking entirely out of context the words of credible people.</excerpt>
+          <fti-names>'01':20 '2012':19 '28':18 '41':21 'abus':15 'american':8 'anti':7 'anti-american':6 'conserv':1 'context':42 'credibl':46 'duti':16 'entir':39 'father':14 'found':13 'gliddon':50 'harri':4,9 'height':26 'jr':51 'jul':17 'lee':48 'misinterpret':35 'misquot':36 'one':31 'patriot':2 'peopl':47 'pm':22 'posit':33 'reid':5,10 'report':11 'senat':3 'sophistri':28 'support':30 'take':38 'word':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://conpats.blogspot.com/2012/07/senator-harry-reidanti-american.html&amp;sa=U&amp;ei=Ew8VUIKwAci00QHrgYHQDw&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNHkgx8bfjZX5PSQkhF9OtSjILp-ng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16933111</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Lee S. Gliddon Jr.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:52-04:00</created-at>
+          <title>Transcript: Sen. Harry Reid on extending tax cuts for the middle ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Transcript of Senate floor statements by Sen. Harry Reid (D-Nev.) on S. 3412 Middle Class Tax Cut on July 25, 2012:</excerpt>
+          <fti-names>'2012':34 '25':33 '3412':26 'class':28 'cut':8,30 'd':22 'd-nev':21 'editor':35 'extend':6 'floor':15 'harri':3,19 'juli':32 'middl':11,27 'nev':23 'reid':4,20 'sen':2,18 'senat':14 'statement':16 'tax':7,29 'transcript':1,12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.whatthefolly.com/2012/07/26/transcript-sen-harry-reid-on-extending-tax-cuts-for-the-middle-class/&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNH44gOdjHoHso1tkmsq7WP4F0kmjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962946</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300082</commentariable-id>
+          <created-at type="datetime">2012-07-31T02:15:46-04:00</created-at>
+          <title>Reality Check: Why Is Sen. Harry Reid now saying &amp;quot;no&amp;quot; to audit ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The &amp;quot;Audit the Fed&amp;quot; bill has been the long time passion of outgoing Texas Congressman Ron Paul. The bill, now moves on to the Senate but could it be &amp;quot;dead on arrival&amp;quot;?</excerpt>
+          <fti-names>'arriv':44 'audit':12,14 'ben':45 'bill':17,31 'check':2 'congressman':27 'could':39 'dead':42 'fed':16 'harri':6 'long':21 'move':33 'outgo':25 'passion':23 'paul':29 'realiti':1 'reid':7 'ron':28 'say':9 'sen':5 'senat':37 'swann':46 'texa':26 'time':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fox19.com/story/19126301/reality-check-why-is-sen-harry-reid-now-saying-no-to-audit&amp;sa=U&amp;ei=EXgXUOaBO4HM6wGZtYCoDg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEMG5ZCY5xjOg0iamNMK-LogKHaaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16962940</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ben Swann</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">75852</page-views-count>
+      <unaccented-name>Harry Reid</unaccented-name>
+      <oc-user-comments type="integer">62</oc-user-comments>
+    </person>
+  </people>
+</hash>

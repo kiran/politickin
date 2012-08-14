@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.841735052755</party-votes-percentage>
+        <abstains-percentage type="float">0.756253635834788</abstains-percentage>
+        <votes-most-often-with-id type="integer">412292</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">360</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">417</cosponsored-bills-passed-rank>
+        <abstains type="integer">13</abstains>
+        <cosponsored-bills type="integer">111</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">173</party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412217</person-id>
+        <cosponsored-bills-rank type="integer">388</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">360</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1618</votes-republican-position>
+      <fax>202-225-0207</fax>
+      <blog-article-count type="integer">4287</blog-article-count>
+      <user-approval type="float">4.23529411764706</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">90</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.house.gov/formadriansmith/issues_subscribe.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.841735052755</with-party-percentage>
+      <lastname>Smith</lastname>
+      <middlename nil="true"></middlename>
+      <bioguide-id>S001172</bioguide-id>
+      <congress-office>503 Cannon House Office Building</congress-office>
+      <firstname>Adrian</firstname>
+      <website>http://adriansmith.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1970-12-19</birthday>
+      <person-id type="integer">412217</person-id>
+      <phone>202-225-6435</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">372</votes-democratic-position>
+      <metavid-id>Adrian_Smith</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:05:29-04:00</created-at>
+          <title>WINDMILL COUNTRY: Congress needs to harvest long-term farm bill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...would provide assistance to producers affected by the drought and wildfires devastating farms and ranches,&quot; said Rep. Adrian Smith, R-Neb. &quot;Until the House and Senate come to an agreement on long-term farm policy, this legislation would ensure strugglin</excerpt>
+          <fti-names>'adrian':29 'affect':17 'agreement':42 'assist':14 'bill':11 'come':39 'congress':3 'countri':2 'devast':23 'drought':20 'ensur':52 'farm':10,24,47 'gosanangelo':54 'harvest':6 'hous':36 'legisl':50 'long':8,45 'long-term':7,44 'neb':33 'need':4 'polici':48 'produc':16 'provid':13 'r':32 'r-neb':31 'ranch':26 'rep':28 'said':27 'senat':38 'smith':30 'strugglin':53 'term':9,46 'wildfir':22 'windmil':1 'would':12,51</fti-names>
+          <source-url>http://www.gosanangelo.com/</source-url>
+          <url>http://www.gosanangelo.com/news/2012/aug/06/congress-needs-to-harvest-long-term-farm-bill/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16972997</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GoSanAngelo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:51:51-04:00</created-at>
+          <title>Internet sales tax proposals gaining 'likes' among lawmakers</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in Nebraska, which has several major online retailers, such as Cabela's, Omaha Steaks and Oriental Trading. U.S. Rep. Adrian Smith and U.S. Sen. Mike Johanns, both Nebraska Republicans, indicated they were undecided on the subject and wanted more inform</excerpt>
+          <fti-names>'adrian':28 'among':7 'cabela':19 'gain':5 'indic':38 'inform':48 'internet':1 'johann':34 'lawmak':8 'like':6 'major':14 'mike':33 'nebraska':10,36 'omaha':21 'omaha.com':49 'onlin':15 'orient':24 'propos':4 'rep':27 'republican':37 'retail':16 'sale':2 'sen':32 'sever':13 'smith':29 'steak':22 'subject':44 'tax':3 'trade':25 'u.s':26,31 'undecid':41 'want':46</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://www.omaha.com/article/20120805/NEWS/708059942</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972538</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:14:09-04:00</created-at>
+          <title>House OKs disaster relief for livestock producers</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...&#8220;I just think the disaster takes a higher priority, and we should be funding that and dealing with those programs.&#8221; Rep. Adrian Smith, R-Neb., said the drought is having a bigger impact daily. As for the cuts, Smith said the money for disaster aid h</excerpt>
+          <fti-names>'adrian':29 'aid':53 'bigger':40 'cut':46 'daili':42 'deal':24 'disast':3,12,52 'drought':36 'fund':21 'h':54 'higher':15 'hous':1 'impact':41 'livestock':6 'money':50 'neb':33 'ok':2 'omaha.com':55 'prioriti':16 'produc':7 'program':27 'r':32 'r-neb':31 'relief':4 'rep':28 'said':34,48 'smith':30,47 'take':13 'think':10</fti-names>
+          <source-url>http://www.omaha.com/</source-url>
+          <url>http://www.omaha.com/article/20120803/NEWS/708039951</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971838</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Omaha.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:16:38-04:00</created-at>
+          <title>CPS putting surplus buildings up for sale</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>95th St. and is best known as where state Rep. Monique Davis (D-Chicago ... Jason Smith, principal of Smith Capital Management and son of prominent Chicago architect Adrian Smith, is part of the team behind new outlot buildings that will add four retailers</excerpt>
+          <fti-names>'95th':8 'add':49 'adrian':36 'architect':35 'behind':43 'best':12 'build':4,46 'capit':28 'chicago':22,34,52 'cps':1 'd':21 'd-chicago':20 'davi':19 'four':50 'jason':23 'known':13 'manag':29 'moniqu':18 'new':44 'outlot':45 'part':39 'princip':25 'promin':33 'put':2 'rep':17 'retail':51 'sale':7 'smith':24,27,37 'son':31 'st':9 'state':16 'sun':54 'sun-tim':53 'surplus':3 'team':42 'time':55</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.suntimes.com/business/roeder/14134571-452/cps-putting-surplus-buildings-up-for-sale.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T19:34:16-04:00</date>
+          <id type="integer">16967282</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Sun-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:16:35-04:00</created-at>
+          <title>Smith to hold open house in Scottsbluff</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Adrian Smith (R-Neb.) will have an open house at his Scottsbluff office Monday, Aug. 6, to meet with constituents to discuss issues of importance and services available through his office. The event is open to the public from 4:30 to 6:30 ...</excerpt>
+          <fti-names>'30':50,53 '4':49 '6':25,52 'adrian':9 'aug':24 'avail':37 'constitu':29 'discuss':31 'event':42 'herald':56 'hold':3 'hous':5,18 'import':34 'issu':32 'meet':27 'monday':23 'neb':13 'offic':22,40 'open':4,17,44 'public':47 'r':12 'r-neb':11 'rep':8 'scottsbluff':7,21 'servic':36 'smith':1,10 'star':55 'star-herald':54</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.starherald.com/news/tidbits/smith-to-hold-open-house-in-scottsbluff/article_69609450-db29-11e1-8439-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T11:13:11-04:00</date>
+          <id type="integer">16967280</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Star-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:16:37-04:00</created-at>
+          <title>Wants Smith to vote for tax cuts</title>
+          <contains-term>senate</contains-term>
+          <excerpt>The Senate already passed the bill. I expect our Rep. Smith to vote for this important legislation. Why hold our tax cut hostage? If Rep. Smith is so concerned about the tax cuts for the very rich, then he can introduce a separate bill just for them.</excerpt>
+          <fti-names>'alreadi':10 'bill':13,51 'concern':36 'cut':7,29,40 'expect':15 'grand':55 'hold':26 'hostag':30 'import':23 'independ':57 'introduc':48 'island':56 'legisl':24 'pass':11 'rep':17,32 'rich':44 'senat':9 'separ':50 'smith':2,18,33 'tax':6,28,39 'vote':4,20 'want':1</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.theindependent.com/opinion/letters/wants-smith-to-vote-for-tax-cuts/article_47bc89d0-da89-11e1-9a95-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T00:50:25-04:00</date>
+          <id type="integer">16967281</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Grand Island Independent</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:34:22-04:00</created-at>
+          <title>USPS&#8217;s unjust burden</title>
+          <contains-term>congress</contains-term>
+          <excerpt>This is not the answer. Congress must act now. Call Rep. Adrian Smith. Tell him any new postal reform must end the senseless prefunding mandate. Don&#8217;t let him attempt to tell you that this is some kind of &#8220;bailout.&#8221; Nothing could be ...</excerpt>
+          <fti-names>'act':12 'adrian':16 'answer':9 'attempt':34 'bailout':44 'burden':4 'call':14 'congress':10 'could':46 'end':25 'hub':49 'kearney':48 'kind':42 'let':32 'mandat':29 'must':11,24 'new':21 'noth':45 'postal':22 'prefund':28 'reform':23 'rep':15 'senseless':27 'smith':17 'tell':18,36 'unjust':3 'usp':1</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kearneyhub.com/news/opinion/usps-s-unjust-burden/article_de7f6b00-da5f-11e1-b807-001a4bcf887a.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T11:43:00-04:00</date>
+          <id type="integer">16961719</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kearney Hub</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:21:19-04:00</created-at>
+          <title>Rich don&#8217;t need tax breaks</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Adrian Smith wants to end the inheritance tax which will further shrink the tax base. Mitt Romney, Johanns and Smith all want to cut taxes for the rich. Romney paid less than 14 percent, according to the only filing available to the public.</excerpt>
+          <fti-names>'14':40 'accord':42 'adrian':8 'avail':47 'base':22 'break':6 'cut':31 'end':12 'file':46 'hub':52 'inherit':14 'johann':25 'kearney':51 'less':38 'mitt':23 'need':4 'paid':37 'percent':41 'public':50 'rep':7 'rich':1,35 'romney':24,36 'shrink':19 'smith':9,27 'tax':5,15,21,32 'want':10,29</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kearneyhub.com/news/opinion/rich-don-t-need-tax-breaks/article_0337d5f4-d902-11e1-9ba0-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T06:36:23-04:00</date>
+          <id type="integer">16950417</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kearney Hub</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:57:05-04:00</created-at>
+          <title>Rural post offices still leery of fates</title>
+          <contains-term>republican</contains-term>
+          <excerpt>As postal reform legislation advances in the House, I will continue to work to ensure the USPS remains solvent and rural residents are provided efficient, reliable service,&#8221; Republican Representative Adrian Smith said in a statement to the Clipper-Herald</excerpt>
+          <fti-names>'adrian':37 'advanc':12 'clipper':46,50 'clipper-herald':45,49 'continu':18 'effici':32 'ensur':22 'fate':7 'herald':47,51 'hous':15 'leeri':5 'legisl':11 'lexington':48 'offic':3 'post':2 'postal':9 'provid':31 'reform':10 'reliabl':33 'remain':25 'repres':36 'republican':35 'resid':29 'rural':1,28 'said':39 'servic':34 'smith':38 'solvent':26 'statement':42 'still':4 'usp':24 'work':20</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://lexch.com/news/local/rural-post-offices-still-leery-of-fates/article_24ac8204-d824-11e1-be19-0019bb2963f4.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T15:14:09-04:00</date>
+          <id type="integer">16931190</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Lexington Clipper-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-30T06:21:16-04:00</created-at>
+          <title>Wildfires in North-Central Nebraska Grow</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Adrian Smith, who represents Nebraska&#8217;s vast, rural 3rd District in which the fires are burning, also issued a statement Tuesday, saying his office is ready to respond to any requests for federal assistance to help contain the fires.</excerpt>
+          <fti-names>'3rd':17 'adrian':9 'also':25 'assist':42 'burn':24 'central':5 'claimsjournal.com':48 'contain':45 'district':18 'feder':41 'fire':22,47 'grow':7 'help':44 'issu':26 'nebraska':6,13 'north':4 'north-centr':3 'offic':32 'readi':34 'rep':8 'repres':12 'request':39 'respond':36 'rural':16 'say':30 'smith':10 'statement':28 'tuesday':29 'vast':15 'wildfir':1</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.claimsjournal.com/news/midwest/2012/07/27/210853.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:59:35-04:00</date>
+          <id type="integer">16950416</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ClaimsJournal.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Adrian Smith [R, NE-3]</name>
+      <total-session-votes type="integer">1706</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id>RepAdrianSmith</youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:16-04:00</created-at>
+          <title>Hydro power regulatory act to help power producers in Nebraska ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>OMAHA, Neb. (AP) &#8212; Rep. Adrian Smith of Nebraska is lauding the passage of a hydropower regulatory act in the House that includes a measure he says will help rural power producers in Nebraska and other states. Smith ...</excerpt>
+          <fti-names>'act':4,27 'adrian':15 'allen':49 'ap':13 'help':6,38 'hous':30 'hydro':1 'hydropow':25 'includ':32 'kris':48 'laud':20 'measur':34 'neb':12 'nebraska':10,18,43 'omaha':11 'passag':22 'power':2,7,40 'produc':8,41 'regulatori':3,26 'rep':14 'rural':39 'say':36 'smith':16,47 'state':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.northplattepost.com/2012/07/11/hydro-power-regulatory-act-to-help-power-producers-in-nebraska/&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNHSRse7gAr7CDNK95nFTjMYRV5wGw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16699258</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kris Allen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:15-04:00</created-at>
+          <title>Wikipedia edits | Washington Notebook</title>
+          <contains-term>republican</contains-term>
+          <excerpt>The list includes changes made to Rep. Adrian Smith&amp;#39;s entry, which notes that the Nebraska Republican received substantial campaign contributions from the Club For Growth. The entry on Smith then described that group as ...</excerpt>
+          <fti-names>'adrian':12 'campaign':24 'chang':8 'club':28 'contribut':25 'describ':36 'edit':2 'entri':15,32 'group':38 'growth':30 'includ':7 'joseph':40 'list':6 'made':9 'morton':41 'nebraska':20 'note':17 'notebook':4 'receiv':22 'rep':11 'republican':21 'smith':13,34 'substanti':23 'washington':3 'wikipedia':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://congress.omaha.com/2012/07/10/wikipedia-edits/&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CB8QmAEwAQ&amp;usg=AFQjCNGHpTa6CT2MeYpKk7H3K6bOFMfC6Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16699257</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Joseph Morton</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:07-04:00</created-at>
+          <title>Congressman Smith&amp;#39;s &amp;#39;Mobile Office&amp;#39; Coming to Neligh Tuesday ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Smith&amp;#39;s Office to Hold Mobile Office in Neligh Constituents of Third District Congressman Adrian Smith (R-NE) will be able to meet with a representative of Congressman Smith&amp;#39;s Grand Island office for a &#8220;mobile office&#8221; on ...</excerpt>
+          <fti-names>'abl':32 'adrian':25 'come':6 'congressman':1,24,39 'constitu':20 'district':23 'grand':42 'hold':15 'island':43 'lmorgan':50 'meet':34 'mobil':4,16,47 'ne':29 'neligh':8,19 'offic':5,13,17,44,48 'r':28 'r-ne':27 'rep':10 'repres':37 'smith':2,11,26,40 'third':22 'tuesday':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.elginreview.com/%3Fp%3D6451&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNEDz-WUxfHxZDksvMr0_K_q8M2U7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16699255</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>lmorgan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:20-04:00</created-at>
+          <title>US Rep. Adrian Smith co-sponsors measure to stop EPA&amp;#39;s aerial ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>US Rep. Adrian Smith co-sponsors measure to stop EPA&amp;#39;s aerial &#8230; The Republic Congressman Adrian Smith is co-sponsoring a measure to stop the federal Environmental Protection Agency&amp;#39;s aerial surveillance of agriculture ...</excerpt>
+          <fti-names>'admin':50 'adrian':3,16,30 'aerial':13,26,46 'agenc':44 'agricultur':49 'co':6,19,34 'co-sponsor':5,18,33 'congressman':29 'environment':42 'epa':11,24 'feder':41 'measur':8,21,37 'protect':43 'rep':2,15 'republ':28 'smith':4,17,31 'sponsor':7,20,35 'stop':10,23,39 'surveil':47 'us':1,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ote22.info/max-test90/2012/06/22/us-rep-adrian-smith-co-sponsors-measure-to-stop-epas-aerial-the-republic/&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFz55UshQk0_J2DPtxYceChOjEd2g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-22T01:00:00-04:00</date>
+          <id type="integer">16699261</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:19-04:00</created-at>
+          <title>Official Website of Cornhusker Boys&amp;#39; State | Hon. Adrian Smith Video ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The Honorable Adrian Smith, Boys&amp;#39; State Alumnus and House Representative of Nebraska&amp;#39;s 3rd Congressional District, took a moment out of his busy schedule today in Washington, D.C. to answer delegates&amp;#39; questions.</excerpt>
+          <fti-names>'3rd':24 'adrian':8,13 'alumnus':17 'answer':40 'boy':5,15 'busi':33 'congression':25 'cornhusk':4 'd.c':38 'dan':43 'deleg':41 'district':26 'hon':7 'honor':12 'hous':19 'moment':29 'nebraska':22 'offici':1 'question':42 'repres':20 'schedul':34 'smith':9,14 'state':6,16 'today':35 'took':27 'video':10 'washington':37 'websit':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://cornhuskerboysstate.org/home/2012/06/07/hon-adrian-smith-video-chats-with-delegates/&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNGfZbOELEBjN9U5D2VaIy9YvmKpGg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-07T01:00:00-04:00</date>
+          <id type="integer">16699260</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dan</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:26-04:00</created-at>
+          <title>Prison Planet.com &#187; EPA Defends Use of Spy Planes Over Iowa ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Nebraska&amp;#39;s congressional delegation &#8212; Republican Reps. Adrian Smith, Jeff Fortenberry, and Lee Terry, and GOP Sen. Mike Johanns (above photo, right of drone), as well as Democrat Sen. Ben Nelson (above photo, left of ...</excerpt>
+          <fti-names>'admin':45 'adrian':17 'ben':39 'congression':13 'defend':4 'deleg':14 'democrat':37 'drone':33 'epa':3 'fortenberri':20 'gop':25 'iowa':10 'jeff':19 'johann':28 'lee':22 'left':43 'mike':27 'nebraska':11 'nelson':40 'photo':30,42 'plane':8 'planet.com':2 'prison':1 'rep':16 'republican':15 'right':31 'sen':26,38 'smith':18 'spi':7 'terri':23 'use':5 'well':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.prisonplanet.com/epa-defends-use-of-spy-planes-over-iowa-neb-cattle-ranches.html&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGlM4gB_h_daGCaZsb-NYh8EWmjAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16699265</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:24-04:00</created-at>
+          <title>Congressman Smith says it&amp;#39;s past time to approve Keystone (AUDIO)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Adrian Smith says he&amp;#39;s pleased the state of Nebraska has reached agreement with the State Department on how to proceed in assessing the environmental impact of the Keystone XL pipeline. Smith says it&amp;#39;s ...</excerpt>
+          <fti-names>'adrian':13 'agreement':25 'approv':9 'assess':35 'audio':11 'brent':48 'congressman':1,12 'depart':29 'environment':37 'impact':38 'keyston':10,41 'martin':49 'nebraska':22 'past':6 'pipelin':43 'pleas':18 'proceed':33 'reach':24 'say':3,15,45 'smith':2,14,44 'state':20,28 'time':7 'xl':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://nebraskaradionetwork.com/2012/06/04/congressman-smith-says-its-past-time-to-approve-keystone-audio/&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNHisXfgDJXOaTvckklDNkDjX2Fa7Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-04T01:00:00-04:00</date>
+          <id type="integer">16699263</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brent Martin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-07-18T04:53:18-04:00</created-at>
+          <title>Smith Demands Answers from EPA Over Aerial Surveillance of ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Smith Demands Answers from EPA Over Aerial Surveillance of Nebraska Livestock Operations. May 30, 2012 By Rep Adrian Smith/Greg Akagi Leave a Comment. Washington, DC Congressman Adrian Smith (R-NE) today joined Reps.</excerpt>
+          <fti-names>'2012':24 '30':23 'adrian':27,36,45 'aerial':7,16 'akagi':29,47 'answer':3,12 'comment':32 'congressman':35 'dc':34 'demand':2,11 'epa':5,14 'join':42 'leav':30 'livestock':20 'may':22 'ne':40 'nebraska':19 'oper':21 'r':39 'r-ne':38 'rep':26,43,44 'smith':1,10,37 'smith/greg':28,46 'surveil':8,17 'today':41 'washington':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kansasagnetwork.com/%3Fp%3D22685&amp;sa=U&amp;ei=cXkGUMS6NaXq2QXovJSxBQ&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNHRESI4F3IflwuPU4HVSBP3ZcBaSg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-30T01:00:00-04:00</date>
+          <id type="integer">16699259</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rep Adrian Smith/Greg Akagi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:19:46-04:00</created-at>
+          <title>Kerrey Praises Both Parties in New Ad for ... - The Church Report</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Spencer Zimmerman, truck driver, perennial cand. (1) Deb Fischer, st. Sen. (1) Lee Terry, U.S. Rep. (3) Jeff Fortenberry, U.S. Rep. (3) Adrian Smith, U.S. Rep. (3) Mike Flood, st. Legislative Speaker (3) Mike Foley, st. Auditor (3) ...</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':52 '1':18,23 '3':28,33,38,44,49 'ad':7 'adrian':34 'auditor':48 'cand':17 'church':10 'deb':19 'driver':15 'fischer':20 'flood':40 'foley':46 'fortenberri':30 'jeff':29 'kerrey':1 'lee':24 'legisl':42 'mike':39,45 'new':6 'parti':4 'perenni':16 'prais':2 'rep':27,32,37 'report':11 'sen':22 'smith':35 'speaker':43 'spencer':12 'st':21,41,47 'terri':25 'thechurchreport.com':51 'thechurchreport.com/?q=save+us+from+berlusconi':50 'truck':14 'u.s':26,31,36 'zimmerman':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thechurchreport.com/index.cfm%3Ffuseaction%3DsiteContent.default%26objectID%3D152586&amp;sa=U&amp;ei=MqaNT7WzJYOM8AHzj_2SBw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNHAtL5oGannm_wT388pi0kQfeNdQg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14544191</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thechurchreport.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412217</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:05:08-04:00</created-at>
+          <title>Kerrey Praises Both Parties in New Ad for ... - The Church Report</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Spencer Zimmerman, truck driver, perennial cand. (1) Deb Fischer, st. Sen. (1) Lee Terry, U.S. Rep. (3) Jeff Fortenberry, U.S. Rep. (3) Adrian Smith, U.S. Rep. (3) Mike Flood, st. Legislative Speaker (3) Mike Foley, st. Auditor (3) ...</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':52 '1':18,23 '3':28,33,38,44,49 'ad':7 'adrian':34 'auditor':48 'cand':17 'church':10 'deb':19 'driver':15 'fischer':20 'flood':40 'foley':46 'fortenberri':30 'jeff':29 'kerrey':1 'lee':24 'legisl':42 'mike':39,45 'new':6 'parti':4 'perenni':16 'prais':2 'rep':27,32,37 'report':11 'sen':22 'smith':35 'speaker':43 'spencer':12 'st':21,41,47 'terri':25 'thechurchreport.com':51 'thechurchreport.com/?q=save+us+from+berlusconi':50 'truck':14 'u.s':26,31,36 'zimmerman':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thechurchreport.com/index.cfm%3FobjectID%3D152586&amp;sa=U&amp;ei=Q1GMT6PPPK-A2QWOs6DJCQ&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNEwV7YBF--Vhzzy-5oieRTnhoHWpg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-13T01:00:00-04:00</date>
+          <id type="integer">14505716</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thechurchreport.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">17685</page-views-count>
+      <unaccented-name>Adrian Smith</unaccented-name>
+      <oc-user-comments type="integer">2</oc-user-comments>
+    </person>
+  </people>
+</hash>

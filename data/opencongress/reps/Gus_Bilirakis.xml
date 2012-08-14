@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">94.9458483754513</party-votes-percentage>
+        <abstains-percentage type="float">3.31588132635253</abstains-percentage>
+        <votes-most-often-with-id type="integer">400224</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">325</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">170</cosponsored-bills-passed-rank>
+        <abstains type="integer">57</abstains>
+        <cosponsored-bills type="integer">200</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">274</party-votes-percentage-rank>
+        <sponsored-bills type="integer">18</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412250</person-id>
+        <cosponsored-bills-rank type="integer">284</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">99</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1578</votes-republican-position>
+      <blog-article-count type="integer">4980</blog-article-count>
+      <user-approval type="float">3.20833333333333</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">218</oc-users-tracking>
+      <contact-webform>http://bilirakis.house.gov/index.php?option=com_content&amp;task=view&amp;id=212&amp;Itemid=44</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">94.9458483754513</with-party-percentage>
+      <metavid-id>Gus_Bilirakis</metavid-id>
+      <lastname>Bilirakis</lastname>
+      <congress-office>1124 Longworth House Office Building</congress-office>
+      <firstname>Gus</firstname>
+      <website>http://bilirakis.house.gov/</website>
+      <youtube-id>RepGusBilirakis</youtube-id>
+      <birthday type="date">1963-02-08</birthday>
+      <person-id type="integer">412250</person-id>
+      <phone>202-225-5755</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">403</votes-democratic-position>
+      <fax>202-225-4085</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:31:32-04:00</created-at>
+          <title>Legislation to Improve Veterans TBI Rehabilitation Signed Into Law</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...Senate legislation. Companion legislation was introduced in the House of Representatives by Rep. Tim Walz (MN-01) and Rep. Gus Bilirakis (FL-09). &#8220;I appreciate the support and assistance of the Wounded Warrior Project, the Blind Veterans Association, </excerpt>
+          <fti-names>'-01':26 '-09':32 'appreci':34 'arra':48 'assist':38 'associ':47 'biliraki':30 'blind':45 'companion':12 'fl':31 'gus':29 'hous':18 'improv':3 'introduc':15 'law':9 'legisl':1,11,13 'mn':25 'news':49 'project':43 'rehabilit':6 'rep':22,28 'repres':20 'senat':10 'servic':50 'sign':7 'support':36 'tbi':5 'tim':23 'veteran':4,46 'walz':24 'warrior':42 'wound':41</fti-names>
+          <source-url>http://arkansasgopwing.blogspot.com/</source-url>
+          <url>http://arkansasgopwing.blogspot.com/2012/08/legislation-to-improve-veterans-tbi.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973310</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>ARRA News Service</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:30:26-04:00</created-at>
+          <title>Help Habitat for Humanity of East &amp; Central Pasco, buy Rays tickets</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...director David Quinones at (813) 991-1505 or visit www.mypaca.org. NEW PORT RICHEY Bilirakis to host job fair Aug. 14 U.S. Rep. Gus Bilirakis will host a job fair from 11 a.m. to 3 p.m. Aug. 14 at Spartan Manor, 6121 Massachusetts Ave. &quot;While we must co</excerpt>
+          <fti-names>'-1505':18 '11':42 '14':31,48 '3':45 '6121':52 '813':16 '991':17 'a.m':43 'aug':30,47 'ave':54 'biliraki':25,35 'buy':9 'central':7 'co':58 'david':13 'director':12 'east':6 'fair':29,40 'gus':34 'habitat':2 'help':1 'host':27,37 'human':4 'job':28,39 'manor':51 'massachusett':53 'must':57 'new':22 'p.m':46 'pasco':8 'petersburg':61 'port':23 'quinon':14 'ray':10 'rep':33 'richey':24 'spartan':50 'st':60 'tampabay.com':59 'ticket':11 'time':62 'u.s':32 'visit':20 'www.mypaca.org':21</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/news/briefs/help-habitat-for-humanity-of-east-amp-central-pasco-buy-rays-tickets/1244242</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972124</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:33:54-04:00</created-at>
+          <title>Six Florida congressional candidates have at least $1,000,000 cash in hand</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...10 Valdez Demings D $632,176.00 District 10 Dan Webster R $577,088.00 District 11 Richard Nugent R $222,483.00 District 12 Gus Bilirakis R $364,876.00 District 13 Bill Young R $281,556.00 District 14 Kathy Castor D $828,255.00 District 15 Dennis Ross R </excerpt>
+          <fti-names>'000':9,10 '088.00':26 '1':8 '10':14,21 '11':28 '12':35 '13':42 '14':49 '15':56 '176.00':19 '222':32 '255.00':54 '281':46 '364':39 '483.00':33 '556.00':47 '577':25 '632':18 '828':53 '876.00':40 'biliraki':37 'bill':43 'candid':4 'cash':11 'castor':51 'congression':3 'd':17,52 'dan':22 'deme':16 'denni':57 'district':20,27,34,41,48,55 'florida':2 'gus':36 'hand':13 'kathi':50 'least':7 'news':62 'news-press':61 'nugent':30 'press':63 'r':24,31,38,45,59 'richard':29 'ross':58 'six':1 'valdez':15 'webster':23 'young':44</fti-names>
+          <source-url>http://www.news-press.com/</source-url>
+          <url>http://www.news-press.com/article/20120803/NEWS0107/120803025/1002/RSS01</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971480</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The News-Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:33:51-04:00</created-at>
+          <title>Bill curbs bonuses at VA</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...annually in such bonuses. The House Veterans Affairs Committee approved the bill in July. The legislation, sponsored by Rep. Gus Bilirakis, R-Fla., aims to improve outreach to service members and veterans on the education benefits available to them and </excerpt>
+          <fti-names>'affair':13 'aim':30 'annual':6 'approv':15 'avail':43 'benefit':42 'biliraki':26 'bill':1,17 'bonus':3,9 'committe':14 'curb':2 'educ':41 'fla':29 'govexec.com':47 'gus':25 'hous':11 'improv':32 'juli':19 'legisl':21 'member':36 'outreach':33 'r':28 'r-fla':27 'rep':24 'servic':35 'sponsor':22 'va':5 'veteran':12,38</fti-names>
+          <source-url>http://govexec.com/</source-url>
+          <url>http://www.govexec.com/pay-benefits/2012/08/bill-curbs-bonuses-va/57222/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971479</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GovExec.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:31:19-04:00</created-at>
+          <title>Pasco deputies looking for suspect in robbery of BB&amp;T bank in New Port Richey</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...or email info@westpascohistoricalsociety.org. WESLEY CHAPEL Bilirakis to speak to Republican Club U.S. Rep. Gus Bilirakis will be the guest speaker at 7 p.m. Aug. 9 of the Wesley Chapel Republican Club, which meets at the Hyundai dealership, 27000 Wesle</excerpt>
+          <fti-names>'27000':53 '7':37 '9':40 'aug':39 'bank':11 'bb':9 'biliraki':21,30 'chapel':20,44 'club':26,46 'dealership':52 'deputi':2 'email':17 'guest':34 'gus':29 'hyundai':51 'info@westpascohistoricalsociety.org':18 'look':3 'meet':48 'new':13 'p.m':38 'pasco':1 'petersburg':57 'port':14 'rep':28 'republican':25,45 'richey':15 'robberi':7 'speak':23 'speaker':35 'st':56 'suspect':5 'tampabay.com':55 'time':58 'u.s':27 'wesl':54 'wesley':19,43</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/news/briefs/article1243515.ece</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16966046</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:28-04:00</created-at>
+          <title>Pasco deputies looking for suspect in robbery of BB&amp;T bank in New Port Richey</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...or email info@westpascohistoricalsociety.org. WESLEY CHAPEL Bilirakis to speak to Republican Club U.S. Rep. Gus Bilirakis will be the guest speaker at 7 p.m. Aug. 9 of the Wesley Chapel Republican Club, which meets at the Hyundai dealership, 27000 Wesle</excerpt>
+          <fti-names>'27000':53 '7':37 '9':40 'aug':39 'bank':11 'bb':9 'biliraki':21,30 'chapel':20,44 'club':26,46 'dealership':52 'deputi':2 'email':17 'guest':34 'gus':29 'hyundai':51 'info@westpascohistoricalsociety.org':18 'look':3 'meet':48 'new':13 'p.m':38 'pasco':1 'petersburg':57 'port':14 'rep':28 'republican':25,45 'richey':15 'robberi':7 'speak':23 'speaker':35 'st':56 'suspect':5 'tampabay.com':55 'time':58 'u.s':27 'wesl':54 'wesley':19,43</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/news/briefs/pasco-deputies-looking-for-suspect-in-robbery-of-bbampt-bank-in-new-port/1243515</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16969500</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:31:18-04:00</created-at>
+          <title>Local teen lobbies Congress to stop cuts to Medicaid</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Ratcliffe, left, talks with Rep. Gus Bilirakis about his opposition to proposed cuts to Medicaid. While many teenagers were sitting on the couch for summer vacation, a Bay area teen spent his summer lobbying members of Congress. Back in 1995, Hunter Rat</excerpt>
+          <fti-names>'1995':49 'area':38 'back':47 'bay':37 'biliraki':16 'children':53 'congress':4,46 'couch':32 'cut':7,22 'fl':57 'gus':15 'hospit':54 'hunter':50 'left':11 'lobbi':3,43 'local':1 'mani':26 'medicaid':9,24 'member':44 'opposit':19 'petersburg':56 'propos':21 'rat':51 'ratcliff':10 'rep':14 'sit':29 'spent':40 'st':55 'stop':6 'summer':34,42 'talk':12 'teen':2,39 'teenag':27 'vacat':35</fti-names>
+          <source-url>http://www.allkids.org/</source-url>
+          <url>http://feedproxy.google.com/~r/ACHInTheNews/~3/_5NDv6HJnR4/local_teen_lobbies_c.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966045</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>All Childrens Hospital, St. Petersburg FL</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:32:19-04:00</created-at>
+          <title>Veterans tell their stories for history</title>
+          <contains-term>congress</contains-term>
+          <excerpt>was attended by Congressmen C.W. Bill Young and Gus Bilirakis, both supporters of the Veterans History Project. Bilirakis staffers collect audio and video interviews with veterans when the congressman hands out medals they earned. Young has ...</excerpt>
+          <fti-names>'attend':8 'audio':27 'bay':44 'biliraki':16,24 'bill':12 'c.w':11 'collect':26 'congressman':35 'congressmen':10 'earn':40 'gus':15 'hand':36 'histori':6,22 'interview':30 'medal':38 'onlin':45 'project':23 'staffer':25 'stori':4 'support':18 'tampa':43 'tell':2 'veteran':1,21,32 'video':29 'young':13,41</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/news/2012/jul/29/memeto4-veterans-tell-their-stories-for-history-ar-445213/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T04:20:23-04:00</date>
+          <id type="integer">16959400</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:37:44-04:00</created-at>
+          <title>Veterans tell their stories for history project</title>
+          <contains-term>congress</contains-term>
+          <excerpt>was attended by Congressmen C.W. Bill Young and Gus Bilirakis, both supporters of the Veterans History Project. Bilirakis staffers collect audio and video interviews with veterans when the congressman hands out medals they earned. Young has ...</excerpt>
+          <fti-names>'attend':9 'audio':28 'bay':45 'biliraki':17,25 'bill':13 'c.w':12 'collect':27 'congressman':36 'congressmen':11 'earn':41 'gus':16 'hand':37 'histori':6,23 'interview':31 'medal':39 'onlin':46 'project':7,24 'staffer':26 'stori':4 'support':19 'tampa':44 'tell':2 'veteran':1,22,33 'video':30 'young':14,42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/breaking-news/2012/jul/28/1/veterans-tell-their-stories-for-history-project-ar-445053/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T16:53:11-04:00</date>
+          <id type="integer">16928869</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:50:38-04:00</created-at>
+          <title>Veterans tell their stories for history project</title>
+          <contains-term>congress</contains-term>
+          <excerpt>was attended by Congressmen C.W. Bill Young and Gus Bilirakis, both supporters of the Veterans History Project. Bilirakis staffers collect audio and video interviews with veterans when the congressman hands out medals they earned. Young has ...</excerpt>
+          <fti-names>'attend':9 'audio':28 'bay':45 'biliraki':17,25 'bill':13 'c.w':12 'collect':27 'congressman':36 'congressmen':11 'earn':41 'gus':16 'hand':37 'histori':6,23 'interview':31 'medal':39 'onlin':46 'project':7,24 'staffer':26 'stori':4 'support':19 'tampa':44 'tell':2 'veteran':1,22,33 'video':30 'young':14,42</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/breaking-news/2012/jul/28/veterans-tell-their-stories-for-history-project-ar-445053/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T16:24:33-04:00</date>
+          <id type="integer">16945045</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Gus Bilirakis [R, FL-9]</name>
+      <total-session-votes type="integer">1662</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname>Gus</sunlight-nickname>
+      <district>9</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:36:13-04:00</created-at>
+          <title>Cloture Club Available GOP Jobs for July 18, 2012 - Cloture Club</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Press Secretary- Congressman Gus Bilirakis seeks experienced communications professional to manage, coordinate and implement all facets of the Member&amp;#39;s daily and strategic communications operations. Candidate will ...</excerpt>
+          <fti-names>'18':8 '2012':9 'avail':3 'biliraki':16 'candid':37 'clotur':1,10 'clotureclub':39 'club':2,11 'communic':19,35 'congressman':14 'coordin':23 'daili':32 'experienc':18 'facet':27 'gop':4 'gus':15 'implement':25 'job':5 'juli':7 'manag':22 'member':30 'oper':36 'press':12 'profession':20 'secretari':13 'seek':17 'strateg':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.clotureclub.com/2012/07/available-gop-jobs-for-july-18-2012/&amp;sa=U&amp;ei=mnIHUKecKYq42wXH6cT0BA&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGHy738ZADI7ZWVVNdvo7kY8ZFgaw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16715041</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>clotureclub</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:36:14-04:00</created-at>
+          <title>Club Members are Everywhere, by Kathleen Jamison - Largo/Mid ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Janet, a former state rep, is now running for Pinellas County Commission. Jim is running for Pinellas School Board, Scott for sheriff, and John, also NPA, is taking on long-time congressman Gus Bilirakis, who does not have a ...</excerpt>
+          <fti-names>'also':33 'biliraki':43 'board':27 'club':1,51 'commiss':20 'congressman':41 'counti':19 'democrat':50 'everywher':4 'former':11 'gus':42 'jamison':7 'janet':9 'jim':21 'john':32 'kathleen':6 'largo/mid':8 'largo/mid-pinellas':49 'long':39 'long-tim':38 'member':2 'npa':34 'pinella':18,25 'rep':13 'run':16,23 'school':26 'scott':28 'sheriff':30 'state':12 'take':36 'time':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.largodemocrats.com/2012/07/club-members-are-everywhere-by-kathleen-jamison.html&amp;sa=U&amp;ei=mnIHUKecKYq42wXH6cT0BA&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHGg4DN36_S0PtVcmODr-F7K4WtsQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16715044</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Largo/Mid-Pinellas Democratic Club</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:36:14-04:00</created-at>
+          <title>US House Foreign Affairs Committee Passes Legislation Calling on ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Florida Congressman, and member of the House Foreign Affairs Committee, Gus Bilirakis (R-FL), introduced the Halki bill. Bilirakis is the Co-Chair of the Congressional Hellenic Caucus, and a member of the Congressional ...</excerpt>
+          <fti-names>'affair':4,18 'biliraki':21,29 'bill':28 'call':8 'caucus':39 'chair':34 'co':33 'co-chair':32 'committe':5,19 'congression':37,45 'congressman':11 'fl':24 'flarmenian':46 'florida':10 'foreign':3,17 'gus':20 'halki':27 'hellen':38 'hous':2,16 'introduc':25 'legisl':7 'member':13,42 'pass':6 'r':23 'r-fl':22 'us':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://flarmenians.com/2012/07/12/us-house-foreign-affairs-committee-passes-legislation-calling-on-turkey-to-re-open-halki-seminary-chairwoman-ros-lehtinen-calls-on-turkey-to-end-occupation-of-cyprus/&amp;sa=U&amp;ei=mnIHUKecKYq42wXH6cT0BA&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNG00Y-6Xhyvkh2DVqtADb7vwOvkaQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-12T01:00:00-04:00</date>
+          <id type="integer">16715043</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>FLArmenians</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:32:38-04:00</created-at>
+          <title>world-war-ii-veteran-gets-his-bronze-star-and-other-medals-67 - Loku</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>By Diedra Rodriguez, Times Staff Writer Friday, July 6, 2012 At left, a surprised Robert Smiddy receives the Bronze Star and other medals from U.S. Rep. Gus Bilirakis Friday in Palm Harbor. At center is one of Smiddy&amp;#39;s sons, ...</excerpt>
+          <fti-names>'2012':24 '6':23 '67':13 'biliraki':42 'bronz':8,33 'center':48 'diedra':16 'friday':21,43 'get':6 'gus':41 'harbor':46 'ii':4 'juli':22 'left':26 'loku':14 'loku.com':55 'medal':12,37 'one':50 'palm':45 'receiv':31 'rep':40 'robert':29 'rodriguez':17 'smiddi':30,52 'son':54 'staff':19 'star':9,34 'surpris':28 'time':18 'u.s':39 'veteran':5 'war':3 'world':2 'world-war-ii-veteran-gets-his-bronze-star-and-other-med':1 'writer':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://loku.com/content/world-war-ii-veteran-gets-his-bronze-star-and-other-medals-67-years-after-his-discharge&amp;sa=U&amp;ei=RPH4T-jDEuSA2QXeyuHHBg&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHtbWxgYW3GmcJLRyKJZgz4zSxTTA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16448332</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://loku.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:32:39-04:00</created-at>
+          <title>Backlog of Disability Claims for Veterans Sends Democrat on a Tear ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The vice chairman, Representative Gus Bilirakis, a Republican of Florida, called on the V.A. &#8220;to break this cycle of unproductively and deliver the benefits that V.A. was created to provide,&#8221; Mr. Filner, interjected, &#8220;Well, here we ...</excerpt>
+          <fti-names>'backlog':1 'benefit':35 'biliraki':17 'break':27 'call':22 'chairman':14 'claim':4 'creat':39 'cycl':29 'darol':48 'deliv':33 'democrat':8 'disabl':3 'filner':43 'florida':21 'gus':16 'interject':44 'mr':42 'provid':41 'repres':15 'republican':19 'send':7 'tear':11 'tuttl':49 'unproduct':31 'v.a':25,37 'veteran':6 'vice':13 'well':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://tacomavaattorney.com/backlog-of-disability-claims-for-veterans-sends-democrat-on-a-tear/&amp;sa=U&amp;ei=RPH4T-jDEuSA2QXeyuHHBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNHqbHhOHfo4nDJ4gSTGS29XL8B2KQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16448335</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Darol Tuttle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:32:40-04:00</created-at>
+          <title>Veterans&amp;#39; Benefits, Child Protection For Adoptive Parents and ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>H.R. 6074 &#8212; Rep. Gus Bilirakis (R-FL)/Ways and Means (6/29/12) &#8212; A bill to deny the refundable portion of the child tax credit to individuals who are not authorized to be employed in the United States and to terminate the use of certifying ...</excerpt>
+          <fti-names>'/ways':17 '6/29/12':20 '6074':10 'adopt':6 'author':38 'benefit':2 'biliraki':13 'bill':22 'certifi':52 'child':3,30 'credit':32 'deni':24 'editor':53 'employ':41 'fl':16 'gus':12 'h.r':9 'individu':34 'mean':19 'parent':7 'portion':27 'protect':4 'r':15 'r-fl':14 'refund':26 'rep':11 'state':45 'tax':31 'termin':48 'unit':44 'use':50 'veteran':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.seniorwomen.com/news/index.php/child-protection-for-adoptive-parents&amp;sa=U&amp;ei=RPH4T-jDEuSA2QXeyuHHBg&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNET4EcMFbGl2NiowpTuPefiFFUBnQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16448337</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:36:16-04:00</created-at>
+          <title>Subcommittees Report Legislation to Full Committee | House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Improving Transparency of Education Opportunities for Veterans Act of 2012 (H.R. 4057), introduced by Committee Vice-Chair Rep. Gus Bilirakis and a member of the Subcommittee on Economic Opportunity, would ...</excerpt>
+          <fti-names>'2012':18 '4057':20 'act':16 'biliraki':29 'chair':26 'committe':6,23 'econom':37 'educ':12 'full':5 'gus':28 'h.r':19 'hous':7 'improv':9 'introduc':21 'legisl':3 'member':32 'opportun':13,38 'rep':27 'report':2 'subcommitte':1,35 'transpar':10 'veteran':15 'veterans.house.gov':40 'vice':25 'vice-chair':24 'would':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://veterans.house.gov/press-release/subcommittees-report-legislation-to-full-committee&amp;sa=U&amp;ei=mnIHUKecKYq42wXH6cT0BA&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNHxa3WRW9_f5CKULeqjG0h3N7Q8sg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16715049</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://veterans.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:32:39-04:00</created-at>
+          <title>Subcommittees Report Legislation to Full Committee | House ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>The Improving Transparency of Education Opportunities for Veterans Act of 2012 (H.R. 4057), introduced by Committee Vice-Chair Rep. Gus Bilirakis and a member of the Subcommittee on Economic Opportunity, would ...</excerpt>
+          <fti-names>'2012':18 '4057':20 'act':16 'biliraki':29 'chair':26 'committe':6,23 'econom':37 'educ':12 'full':5 'gus':28 'h.r':19 'hous':7 'improv':9 'introduc':21 'legisl':3 'member':32 'opportun':13,38 'rep':27 'report':2 'subcommitte':1,35 'transpar':10 'veteran':15 'veterans.house.gov':40 'vice':25 'vice-chair':24 'would':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://veterans.house.gov/press-release/subcommittees-report-legislation-to-full-committee&amp;sa=U&amp;ei=RPH4T-jDEuSA2QXeyuHHBg&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNHl74VLABpIOSz939CEeWDfTkempQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-29T01:00:00-04:00</date>
+          <id type="integer">16448334</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://veterans.house.gov/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-07-07T22:32:40-04:00</created-at>
+          <title>House panel: Give student vets more information - Marine Corps ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>... transportation, lodging, meals, entertainment or &#8220;hospitality loans.&#8221; The bill, formally called the Improving Transparency of Education Opportunities for Veterans Act, was introduced in February by Rep. Gus Bilirakis, R-Fla.</excerpt>
+          <fti-names>'act':29 'biliraki':37 'bill':18 'call':20 'corp':9 'educ':25 'entertain':13 'februari':33 'fla':40 'formal':19 'give':3 'gus':36 'hospit':15 'hous':1 'improv':22 'inform':7 'introduc':31 'loan':16 'lodg':11 'marin':8 'meal':12 'opportun':26 'panel':2 'r':39 'r-fla':38 'rep':35 'staff':41 'student':4 'transpar':23 'transport':10 'vet':5 'veteran':28 'writer':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.marinecorpstimes.com/news/2012/06/military-gi-bill-house-panel-wants-more-information-for-student-veterans-062812w/&amp;sa=U&amp;ei=RPH4T-jDEuSA2QXeyuHHBg&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNFmOVwwSUSd1d1OEdtsSdNouzLwUg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16448341</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Staff writer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412250</commentariable-id>
+          <created-at type="datetime">2012-06-25T22:33:07-04:00</created-at>
+          <title>Rep. Bilirakis takes to the House Floor to relay constituent solutions for</title>
+          <contains-term>house of representatives</contains-term>
+          <excerpt>Rep. Gus Bilirakis (FL-09) speaks on the floor of the House of Representatives to share suggestions from visits with constituents about how to combat rising gas prices. May 12, 2011. Video Rating: 3 / 5 ...</excerpt>
+          <fti-names>'-09':17 '12':42 '2011':43 '3':46 '5':47 'biliraki':2,15 'combat':37 'constitu':10,33 'energi':50 'fl':16 'floor':7,21 'gas':39 'gus':14 'hous':6,24 'may':41 'news':51 'oil':48 'price':40 'rate':45 'relay':9 'rep':1,13 'repres':26 'rise':38 'share':28 'solut':11 'speak':18 'suggest':29 'take':3 'video':44 'visit':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://oilandenergy.net/2012/06/24/rep-bilirakis-takes-to-the-house-floor-to-relay-constituent-solutions-for-lowering-gas-prices/&amp;sa=U&amp;ei=Yh_pT-mBKujO2AXWqtnMDQ&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNH1oSnJvqyqpNqxgVzS2iIiE6T9Wg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-24T01:00:00-04:00</date>
+          <id type="integer">16190124</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Oil and Energy News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>B001257</bioguide-id>
+      <page-views-count type="integer">21244</page-views-count>
+      <unaccented-name>Gus Bilirakis</unaccented-name>
+      <middlename nil="true"></middlename>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

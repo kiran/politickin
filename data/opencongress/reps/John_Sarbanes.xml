@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-09-18T13:13:33-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">95.446584938704</party-votes-percentage>
+        <abstains-percentage type="float">0.349040139616056</abstains-percentage>
+        <votes-most-often-with-id type="integer">400308</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">299</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">6</abstains>
+        <cosponsored-bills type="integer">154</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">34</party-votes-percentage-rank>
+        <sponsored-bills type="integer">10</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">412212</person-id>
+        <cosponsored-bills-rank type="integer">256</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">151</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">371</votes-republican-position>
+      <fax>202-225-9219</fax>
+      <blog-article-count type="integer">5160</blog-article-count>
+      <user-approval type="float">2.73684210526316</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">195</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://sarbanes.house.gov/federal.asp</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.446584938704</with-party-percentage>
+      <lastname>Sarbanes</lastname>
+      <middlename>P.</middlename>
+      <congress-office>2444 Rayburn House Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://sarbanes.house.gov/</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1962-05-22</birthday>
+      <person-id type="integer">412212</person-id>
+      <phone>202-225-4016</phone>
+      <religion nil="true"></religion>
+      <bioguide-id>S001168</bioguide-id>
+      <votes-democratic-position type="integer">1635</votes-democratic-position>
+      <metavid-id>John_Sarbanes</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:08:20-04:00</created-at>
+          <title>DARE to Make a Difference in Our Elections</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Standing before his colleagues and the crowd in the sweltering August heat, Rep. Dennis Kucinich declared that while it hot outside, if we don&#8217;t act on campaign finance reform we were going to find ourselves &#8220;somewhere even hotter.&#8221; Kuncinich&#8217;s war</excerpt>
+          <fti-names>'act':34 'august':19 'campaign':36 'caus':52 'colleagu':12 'common':51 'crowd':15 'dare':1 'declar':24 'denni':22 'differ':5 'elect':8 'even':46 'financ':37 'find':43 'go':41 'heat':20 'hot':28 'hotter':47 'kucinich':23 'kuncinich':48 'make':3 'outsid':29 'reform':38 'rep':21 'somewher':45 'stand':9 'swelter':18 'war':50</fti-names>
+          <source-url>http://www.commonblog.com/</source-url>
+          <url>http://www.commonblog.com/2012/08/02/dare-to-make-a-difference-in-our-elections/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970931</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Common Cause</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:08:10-04:00</created-at>
+          <title>Committee Extends Contract for Maxine Waters Probe's Outside Counsel</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The House Ethics Committee announced today that it has extended the contract of the outside counsel assisting with its investigation of Rep. Maxine Waters (D-Calif.) until the end of the current Congress. It is the second time the committee has renewed i</excerpt>
+          <fti-names>'announc':15 'assist':27 'calif':37 'call':56 'committe':1,14,51 'congress':44 'contract':3,22 'counsel':10,26 'current':43 'd':36 'd-calif':35 'end':40 'ethic':13 'extend':2,20 'hous':12 'investig':30 'maxin':5,33 'outsid':9,25 'probe':7 'renew':53 'rep':32 'roll':55 'second':48 'time':49 'today':16 'water':6,34</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/committee_extends_contract_for_maxine_waters_probes_outside_counsel-216685-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970930</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:06-04:00</created-at>
+          <title>Move over Marco, Cruz a rising star, Dold/Bono Mack confront Cantor, Ignatius: anti-leaks bill doesn&#8217;t fix problem, Boehner/Reid strike spending deal, Zients on the Hill, Geoff Davis resigns, trivia</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...to last summer as part of a deal to raise the debt ceiling, another partisan standoff. &#8230; [T]he agreement signals that Speaker John A. Boehner, who has spent much of the 112th Congress heeding the wishes of the most conservative corners of his conferen</excerpt>
+          <fti-names>'112th':64 'agreement':51 'anoth':46 'anti':14 'anti-leak':13 'bill':16 'boehner':57 'boehner/reid':21 'cantor':11 'ceil':45 'conferen':76 'confront':10 'congress':65 'conserv':72 'corner':73 'cruz':4 'davi':30 'deal':24,40 'debt':44 'doesn':17 'dold/bono':8 'fix':19 'geoff':29 'heed':66 'hill':28 'ignatius':12 'john':55 'last':34 'leak':15 'mack':9 'marco':3 'move':1 'much':61 'part':37 'partisan':47 'politico':78 'problem':20 'rais':42 'resign':31 'rise':6 'signal':52 'speaker':54 'spend':23 'spent':60 'standoff':48 'star':7 'strike':22 'summer':35 'trivia':32 'wish':68 'zient':25</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=e7e903c9d992743bd4ad9ffe6046afe6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969967</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:31:37-04:00</created-at>
+          <title>Park Service launches Star-Spangled Banner National Historic Trail</title>
+          <contains-term>senator</contains-term>
+          <excerpt>&#8220;Funding for parks generally is going to be a struggle,&#8221; Rep. John Sarbanes, (D-Md.), son of the former senator, said in an interview after the event at Broadway Plaza in Fells Point. Sarbanes said funding to develop more trail ...</excerpt>
+          <fti-names>'banner':7 'broadway':40 'd':25 'd-md':24 'develop':49 'event':38 'fell':43 'former':30 'fund':11,47 'general':14 'go':16 'histor':9 'interview':35 'john':22 'launch':3 'md':26 'nation':8 'park':1,13 'plaza':41 'point':44 'post':53 'rep':21 'said':32,46 'sarban':23,45 'senat':31 'servic':2 'son':27 'spangl':6 'star':5 'star-spangl':4 'struggl':20 'trail':10,51 'washington':52</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.washingtonpost.com/blogs/federal-eye/post/park-service-launches-star-spangled-banner-national-historic-trail/2012/07/30/gJQA4ZNoKX_blog.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T13:23:13-04:00</date>
+          <id type="integer">16961619</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:03:40-04:00</created-at>
+          <title>Park Service launches Star-Spangled Banner National Historic Trail</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...not an easy thing,&#8221; said John Maounis, the trail superintendent. &#8220;Funding for parks generally is going to be a struggle,&#8221; Rep. John Sarbanes, (D-Md.), son of the former senator, said in an interview after the event at Broadway Plaza in Fells Point</excerpt>
+          <fti-names>'banner':7 'broadway':50 'd':35 'd-md':34 'easi':13 'event':48 'fell':53 'former':40 'fund':21 'general':24 'go':26 'histor':9 'interview':45 'john':16,32 'launch':3 'maouni':17 'md':36 'nation':8 'park':1,23 'plaza':51 'point':54 'post':57 'rep':31 'said':15,42 'sarban':33 'senat':41 'servic':2 'son':37 'spangl':6 'star':5 'star-spangl':4 'struggl':30 'superintend':20 'thing':14 'trail':10,19 'washington':56</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=cb7da8e8c3444aec4871e36523942811</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16972973</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:31:39-04:00</created-at>
+          <title>Park Service launches Star-Spangled Banner National Historic Trail</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...not an easy thing,&#8221; said John Maounis, the trail superintendent. &#8220;Funding for parks generally is going to be a struggle,&#8221; Rep. John Sarbanes, (D-Md.), son of the former senator, said in an interview after the event at Broadway Plaza in Fells Point</excerpt>
+          <fti-names>'banner':7 'broadway':50 'd':35 'd-md':34 'easi':13 'event':48 'fell':53 'former':40 'fund':21 'general':24 'go':26 'histor':9 'interview':45 'john':16,32 'launch':3 'maouni':17 'md':36 'nation':8 'park':1,23 'plaza':51 'point':54 'post':57 'rep':31 'said':15,42 'sarban':33 'senat':41 'servic':2 'son':37 'spangl':6 'star':5 'star-spangl':4 'struggl':30 'superintend':20 'thing':14 'trail':10,19 'washington':56</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=423d22cb6c5be066b5f196ab2068d349</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961621</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:31:39-04:00</created-at>
+          <title>Park Service launches Star-Spangled Banner National Historic Trail</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...not an easy thing,&#8221; said John Maounis, the trail superintendent. &#8220;Funding for parks generally is going to be a struggle,&#8221; Rep. John Sarbanes, (D-Md.), son of the former senator, said in an interview after the event at Broadway Plaza in Fells Point</excerpt>
+          <fti-names>'banner':7 'broadway':50 'd':35 'd-md':34 'easi':13 'event':48 'fell':53 'former':40 'fund':21 'general':24 'go':26 'histor':9 'interview':45 'john':16,32 'launch':3 'maouni':17 'md':36 'nation':8 'park':1,23 'plaza':51 'point':54 'post':57 'rep':31 'said':15,42 'sarban':33 'senat':41 'servic':2 'son':37 'spangl':6 'star':5 'star-spangl':4 'struggl':30 'superintend':20 'thing':14 'trail':10,19 'washington':56</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=778292d761c572e8a75648cb3667a4c6</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961620</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:40:08-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>An opponent Rep. John Sarbanes, D-Md., said that given Turkey's record of acting against American interests in foreign policy matters, &quot;I don't believe that the preferential consideration which it gives to the interest of one country ...</excerpt>
+          <fti-names>'act':18 'american':20 'believ':29 'call':2 'consider':33 'countri':42 'd':9 'd-md':8 'foreign':23 'give':36 'given':13 'interest':21,39 'john':6 'matter':25 'md':10 'one':41 'oppon':4 'polici':24 'preferenti':32 'record':16 'rep':5 'roll':1 'said':11 'sarban':7 'tulsa':43 'turkey':14 'world':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T03:08:48-04:00</date>
+          <id type="integer">16931016</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:44:10-04:00</created-at>
+          <title>Roll Call</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>An opponent Rep. John Sarbanes, D-Md., said that given Turkey's record of acting against American interests in foreign policy matters, &quot;I don't believe that the preferential consideration which it gives to the interest of one country ...</excerpt>
+          <fti-names>'act':18 'american':20 'believ':29 'call':2 'consider':33 'countri':42 'd':9 'd-md':8 'foreign':23 'give':36 'given':13 'interest':21,39 'john':6 'matter':25 'md':10 'one':41 'oppon':4 'polici':24 'preferenti':32 'record':16 'rep':5 'roll':1 'said':11 'sarban':7 'tulsa':43 'turkey':14 'world':44</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.tulsaworld.com/site/articlepath.aspx?articleid=20120729_16_A14_WSIGOe230214&amp;rss_lnk=1</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T02:33:00-04:00</date>
+          <id type="integer">16950046</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tulsa World</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:40:02-04:00</created-at>
+          <title>How they voted</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>An opponent, Rep. John Sarbanes, D-Md., said that given Turkey&#8217;s record of acting against American interests in foreign policy matters, &#8220;I don&#8217;t believe that the preferential consideration which it gives to the interest of one country, Turkey ...</excerpt>
+          <fti-names>'act':19 'american':21 'believ':30 'chicago':45 'consider':34 'countri':43 'd':10 'd-md':9 'foreign':24 'give':37 'given':14 'interest':22,40 'john':7 'matter':26 'md':11 'one':42 'oppon':5 'polici':25 'preferenti':33 'record':17 'rep':6 'said':12 'sarban':8 'sun':47 'sun-tim':46 'time':48 'turkey':15,44 'vote':3</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://posttrib.suntimes.com/news/14070726-418/how-they-voted.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:50:03-04:00</date>
+          <id type="integer">16931015</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Chicago Sun-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. John Sarbanes [D, MD-3]</name>
+      <total-session-votes type="integer">1713</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-28T01:51:30-04:00</created-at>
+          <title>Community Calendar: June 27 &#8211; July 5, 2012 | The Baltimore Guide</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressional Consultation: A staff representative from Congressman John Sarbanes&amp;#39; office visits the Southeast Anchor Library on the first Monday of the month from 3 p.m.-4 p.m. to assist constituents with issues they are ...</excerpt>
+          <fti-names>'-4':36 '2012':7 '27':4 '3':34 '5':6 'anchor':24 'assist':39 'baltimor':9,46 'calendar':2 'communiti':1 'congression':11 'congressman':17 'constitu':40 'consult':12 'first':28 'guid':10,47 'issu':42 'john':18 'juli':5 'june':3 'librari':25 'monday':29 'month':32 'offic':20 'p.m':35,37 'repres':15 'sarban':19 'southeast':23 'staff':14 'visit':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baltimoreguide.com/http:/baltimoreguide.com/community-calendar-june-27-july-5-2012/&amp;sa=U&amp;ei=2fDrT8zUNaLW2gXa7ZyrAQ&amp;ved=0CDkQmAEwBw&amp;usg=AFQjCNEec7CnuFAzoCv-pkyjqbRGN97O8Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-27T01:00:00-04:00</date>
+          <id type="integer">16253563</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Baltimore Guide</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-28T01:51:30-04:00</created-at>
+          <title>1THING San Francisco | Sustainability Starts With 1THING ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Chris Murphy (D-5th/CT). IL &#8226; Representative Robert Dold (R-10th/IL). MA &#8226; Representative Edward Markey (D-7th/MA) &#8226; Representative John Olver (D-1st/MA). MD &#8226; Representative John Sarbanes (D-3rd/MD) ...</excerpt>
+          <fti-names>'/ct':14 '/il':22 '/ma':30,37 '/md':45 '10th':21 '1st':36 '1thing':1,7 '3rd':44 '5th':13 '7th':29 'chris':9 'd':12,28,35,43 'd-1st':34 'd-3rd':42 'd-5th':11 'd-7th':27 'dold':18 'edward':25 'francisco':3 'il':15 'john':32,40 'ma':23 'markey':26 'md':38 'murphi':10 'olver':33 'r':20 'r-10th':19 'repres':8,16,24,31,39 'robert':17 'san':2 'sarban':41 'societi':48 'start':5 'sustain':4 'wilder':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sanfrancisco.1thingus.com/america%25E2%2580%2599s-great-outdoors-congressional-champions/&amp;sa=U&amp;ei=2fDrT8zUNaLW2gXa7ZyrAQ&amp;ved=0CD0QmAEwCA&amp;usg=AFQjCNGIoHeTVT4EFxV3SnFtrGT2jD9JoA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-26T01:00:00-04:00</date>
+          <id type="integer">16253564</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Wilderness Society</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-25T03:43:35-04:00</created-at>
+          <title>HR.691 | Providing for consideration of the bill (H.R. 4480) to ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. David Loebsack (IA Democrat), No. Rep. John Yarmuth (KY Democrat), No. Rep. John Sarbanes (MD Democrat), No. Rep. Timothy Walberg (MI Republican), Yes. Rep. Timothy Walz (MN Democrat), No. Rep. Keith Ellison (MN Democrat) ...</excerpt>
+          <fti-names>'4480':9 'bill':7 'consider':4 'david':12 'democrat':15,21,27,39,45 'ellison':43 'h.r':8 'hr.691':1 'ia':14 'john':18,24 'keith':42 'ky':20 'loebsack':13 'md':26 'mi':32 'mn':38,44 'provid':2 'rep':11,17,23,29,35,41 'republican':33 'sarban':25 'timothi':30,36 'walberg':31 'walz':37 'www.votetocracy.com':46 'yarmuth':19 'yes':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr691-providing-for-consideration-of-the-bill-hr-4480-to-provide-for-the-development-of-a-plan-to-increase-oil-and-gas-exploration-development-and-production-under-oil-and-gas-leases-of-federal-lands-under-the-jurisdiction-of-the-secretary-of-agriculture-the-secretary-of-energy-the-secretary-of-the-interior-and-the-secretary-of-defense-in-response-to-a-drawdown-of-petroleum-reserves-from-the-strategic-petroleum-reserve-41276&amp;sa=U&amp;ei=lRboT_6HLcn22AWNnsXbCQ&amp;ved=0CEMQmAEwCQ&amp;usg=AFQjCNFEfqP8Advgb3En-E8s-6e1UyH6Sw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-24T01:00:00-04:00</date>
+          <id type="integer">16177398</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-24T05:34:42-04:00</created-at>
+          <title>HR.691 | Providing for consideration of the bill (H.R. 4480) to ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. David Loebsack (IA Democrat), No. Rep. John Yarmuth (KY Democrat), No. Rep. John Sarbanes (MD Democrat), No. Rep. Timothy Walberg (MI Republican), Yes. Rep. Timothy Walz (MN Democrat), No. Rep. Keith Ellison (MN Democrat) ...</excerpt>
+          <fti-names>'4480':9 'bill':7 'consider':4 'david':12 'democrat':15,21,27,39,45 'ellison':43 'h.r':8 'hr.691':1 'ia':14 'john':18,24 'keith':42 'ky':20 'loebsack':13 'md':26 'mi':32 'mn':38,44 'provid':2 'rep':11,17,23,29,35,41 'republican':33 'sarban':25 'timothi':30,36 'walberg':31 'walz':37 'www.votetocracy.com':46 'yarmuth':19 'yes':34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr691-providing-for-consideration-of-the-bill-hr-4480-to-provide-for-the-development-of-a-plan-to-increase-oil-and-gas-exploration-development-and-production-under-oil-and-gas-leases-of-federal-lands-under-the-jurisdiction-of-the-secretary-of-agriculture-the-secretary-of-energy-the-secretary-of-the-interior-and-the-secretary-of-defense-in-response-to-a-drawdown-of-petroleum-reserves-from-the-strategic-petroleum-reserve-41276&amp;sa=U&amp;ei=_97mT6SfG6W02wWwztDZCQ&amp;ved=0CDsQmAEwBw&amp;usg=AFQjCNE7dudL0L4AAH6T5mJ1xFW6Vx02LA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-23T01:00:00-04:00</date>
+          <id type="integer">16157972</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-25T03:43:19-04:00</created-at>
+          <title>Are you a constituent of Rep. John Sarbanes - Baltimore ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Are you a constituent of Rep. John Sarbanes? Can you join us at his Towson office on June 20 at 4:30 PM? Can you sign on to this letter? Please send your address. Thanks. Pledge of Resistance-Baltimore/Fund Our ...</excerpt>
+          <fti-names>'/fund':50 '20':28 '30':31 '4':30 'address':43 'baltimor':9,49 'constitu':4,13 'john':7,16 'join':20 'june':27 'letter':39 'max':52 'obuszewski':53 'offic':25 'pleas':40 'pledg':45 'pm':32 'rep':6,15 'resist':48 'resistance-baltimor':47 'sarban':8,17 'send':41 'sign':35 'thank':44 'towson':24 'us':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baltimorenonviolencecenter.blogspot.com/2012/06/are-you-constituent-of-rep.html&amp;sa=U&amp;ei=lRboT_6HLcn22AWNnsXbCQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNH8ZLeehAPXKhANcRpEdGxO8scemw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16177389</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Obuszewski</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-24T05:33:54-04:00</created-at>
+          <title>Are you a constituent of Rep. John Sarbanes - Baltimore ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Are you a constituent of Rep. John Sarbanes? Can you join us at his Towson office on June 20 at 4:30 PM? Can you sign on to this letter? Please send your address. Thanks. Pledge of Resistance-Baltimore/Fund Our ...</excerpt>
+          <fti-names>'/fund':50 '20':28 '30':31 '4':30 'address':43 'baltimor':9,49 'constitu':4,13 'john':7,16 'join':20 'june':27 'letter':39 'max':52 'obuszewski':53 'offic':25 'pleas':40 'pledg':45 'pm':32 'rep':6,15 'resist':48 'resistance-baltimor':47 'sarban':8,17 'send':41 'sign':35 'thank':44 'towson':24 'us':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baltimorenonviolencecenter.blogspot.com/2012/06/are-you-constituent-of-rep.html&amp;sa=U&amp;ei=_97mT6SfG6W02wWwztDZCQ&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGLo0fFq4y5i3O4Zs8g3wJd6YEHcw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16157961</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Obuszewski</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-20T23:26:59-04:00</created-at>
+          <title>Court Decides Jurisdiction Between French and NY Wills :: New ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dutch Ruppersberger [D, MD-2] Rep. Paul Ryan [R, WI-1] Rep. Timothy Ryan [D, OH-17] Rep. Loretta Sanchez [D, CA-47] Rep. Linda S&#225;nchez [D, CA-39] Rep. John Sarbanes [D, MD-3] Rep. Steve Scalise [R, LA-1] Rep.</excerpt>
+          <fti-names>'-1':20,50 '-17':26 '-2':14 '-3':44 '-39':38 '-47':32 'ca':31,37 'court':1 'd':12,24,30,36,42 'decid':2 'dutch':10 'french':5 'john':40 'jurisdict':3 'la':49 'linda':34 'loretta':28 'md':13,43 'new':9 'ny':7 'oh':25 'paul':16 'probatecourtco.com':52 'r':18,48 'rep':15,21,27,33,39,45,51 'ruppersberg':11 'ryan':17,23 'sanchez':29 'sarban':41 'scalis':47 'steve':46 's&#225;nchez':35 'timothi':22 'wi':19 'will':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/court-decides-jurisdiction-between-french-and-ny-wills-new-york-probate-and-estate-administration-blog-2/&amp;sa=U&amp;ei=gJTiT4zfF-HW2AXKpvzqCw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFCuM-YrdMR0j4KI5vWJPtlxQ_pnA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16084659</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-20T23:26:59-04:00</created-at>
+          <title>HR.688 | Providing for consideration of the bill (H.R. 2578) to amend ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. David Loebsack (IA Democrat), No. Rep. John Yarmuth (KY Democrat), No. Rep. John Sarbanes (MD Democrat), No. Rep. Timothy Walberg (MI Republican), Yes. Rep. Timothy Walz (MN Democrat), No. Rep. Keith Ellison (MN Democrat) ...</excerpt>
+          <fti-names>'2578':9 'amend':11 'bill':7 'consider':4 'david':13 'democrat':16,22,28,40,46 'ellison':44 'h.r':8 'hr.688':1 'ia':15 'john':19,25 'keith':43 'ky':21 'loebsack':14 'md':27 'mi':33 'mn':39,45 'provid':2 'rep':12,18,24,30,36,42 'republican':34 'sarban':26 'timothi':31,37 'walberg':32 'walz':38 'www.votetocracy.com':47 'yarmuth':20 'yes':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr688-providing-for-consideration-of-the-bill-hr-2578-to-amend-the-wild-and-scenic-rivers-act-related-to-a-segment-of-the-lower-merced-river-in-california-and-for-other-purposes-41252&amp;sa=U&amp;ei=gJTiT4zfF-HW2AXKpvzqCw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNEPUqgto2fhnwEFqRWHtIxEvpShKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-20T01:00:00-04:00</date>
+          <id type="integer">16084655</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-28T01:51:28-04:00</created-at>
+          <title>Are you a constituent of Rep. John Sarbanes - Baltimore ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Are you a constituent of Rep. John Sarbanes? Can you join us at his Towson office on June 20 at 4:30 PM? Can you sign on to this letter? Please send your address. Thanks. Pledge of Resistance-Baltimore/Fund Our ...</excerpt>
+          <fti-names>'/fund':50 '20':28 '30':31 '4':30 'address':43 'baltimor':9,49 'constitu':4,13 'john':7,16 'join':20 'june':27 'letter':39 'max':52 'obuszewski':53 'offic':25 'pleas':40 'pledg':45 'pm':32 'rep':6,15 'resist':48 'resistance-baltimor':47 'sarban':8,17 'send':41 'sign':35 'thank':44 'towson':24 'us':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://baltimorenonviolencecenter.blogspot.com/2012/06/are-you-constituent-of-rep.html&amp;sa=U&amp;ei=2fDrT8zUNaLW2gXa7ZyrAQ&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNEaBzi2mawQWtgOXel3fMSKOyEq_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16253558</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Obuszewski</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412212</commentariable-id>
+          <created-at type="datetime">2012-06-25T03:43:34-04:00</created-at>
+          <title>Combating the Physician Shortage | Medical Staffing Blog</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Recently, U.S. Rep. John Sarbanes (D-MD) introduced the Physician Reentry Demonstration Program Act, which would allow primary care doctors to return to practice at hospitals and clinics in a pilot project under the ...</excerpt>
+          <fti-names>'act':22 'allow':25 'blog':7 'care':27 'clinic':36 'combat':1 'd':14 'd-md':13 'demonstr':20 'doctor':28 'hospit':34 'introduc':16 'jill.conaway':43 'john':11 'md':15 'medic':5 'physician':3,18 'pilot':39 'practic':32 'primari':26 'program':21 'project':40 'recent':8 'reentri':19 'rep':10 'return':30 'sarban':12 'shortag':4 'staf':6 'u.s':9 'would':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.allmedstaffing.com/2012/06/18/combating-the-physician-shortage/&amp;sa=U&amp;ei=lRboT_6HLcn22AWNnsXbCQ&amp;ved=0CD4QmAEwCA&amp;usg=AFQjCNF0FRpvBDo3XUw8OPjcGAeZqkfyjQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16177397</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jill.Conaway</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">19930</page-views-count>
+      <unaccented-name>John Sarbanes</unaccented-name>
+      <oc-user-comments type="integer">5</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-09T18:51:00-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.6219512195122</party-votes-percentage>
+        <abstains-percentage type="float">4.5956951716114</abstains-percentage>
+        <votes-most-often-with-id type="integer">400103</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">307</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">252</cosponsored-bills-passed-rank>
+        <abstains type="integer">79</abstains>
+        <cosponsored-bills type="integer">224</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">89</party-votes-percentage-rank>
+        <sponsored-bills type="integer">23</sponsored-bills>
+        <votes-least-often-with-id type="integer">400643</votes-least-often-with-id>
+        <person-id type="integer">412194</person-id>
+        <cosponsored-bills-rank type="integer">262</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">160</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">407</votes-republican-position>
+      <blog-article-count type="integer">5975</blog-article-count>
+      <user-approval type="float">3.0</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">129</oc-users-tracking>
+      <contact-webform>http://www.house.gov/formchrismurphy/ic_zip_auth.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.6219512195122</with-party-percentage>
+      <metavid-id>Chris_Murphy</metavid-id>
+      <lastname>Murphy</lastname>
+      <congress-office>412 Cannon House Office Building</congress-office>
+      <firstname>Christopher</firstname>
+      <website>http://chrismurphy.house.gov/</website>
+      <youtube-id>RepChrisMurphy</youtube-id>
+      <birthday type="date">1973-08-03</birthday>
+      <person-id type="integer">412194</person-id>
+      <phone>202-225-4476</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1519</votes-democratic-position>
+      <fax>202-225-5933</fax>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:50:01-04:00</created-at>
+          <title>Bysiewicz Focusing her Resources on the Primary</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...that the best way to help now is to give money that can be used for the primary. Bysiewicz is vying with U.S. Rep. Chris Murphy for the Democratic nomination. The winner will be decided next Tuesday and the winner will face the Republican nominee, eithe</excerpt>
+          <fti-names>'best':10 'bysiewicz':1,26 'chris':32 'courant':55 'decid':42 'democrat':36 'eith':53 'face':49 'focus':2 'give':17 'hartford':54 'help':13 'money':18 'murphi':33 'next':43 'nomin':37 'nomine':52 'primari':7,25 'rep':31 'republican':51 'resourc':4 'tuesday':44 'u.s':30 'use':22 'vy':28 'way':11 'winner':39,47</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://feedproxy.google.com/~r/CapitolWatch/~3/3zTK-PV7Bdk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973515</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:58:33-04:00</created-at>
+          <title>Greenberg Has Another New TV Ad; It&#8217;s His Third</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Lisa Wilson-Foley is described as a former registered Democrat who gave money to liberal politicians like Democrat Chris Murphy. Murphy currently represents the 5th District and is running for U.S. Senate. Wilson-Foley was a registered Democrat in the 1</excerpt>
+          <fti-names>'1':53 '5th':36 'ad':6 'anoth':3 'chris':30 'courant':55 'current':33 'democrat':21,29,50 'describ':16 'district':37 'foley':14,46 'former':19 'gave':23 'greenberg':1 'hartford':54 'liber':26 'like':28 'lisa':11 'money':24 'murphi':31,32 'new':4 'politician':27 'regist':20,49 'repres':34 'run':40 'senat':43 'third':10 'tv':5 'u.s':42 'wilson':13,45 'wilson-foley':12,44</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://feedproxy.google.com/~r/CapitolWatch/~3/EO3eKPmIgv0/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972922</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:58:32-04:00</created-at>
+          <title>Hotline Sort: Quayle's Last Stand</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...a television ad for Democratic Senate candidate Chris Murphy, as we get close to their August 14 primary. &quot;I'm supporting Chris Murphy, the candidate that can help me break the gridlock and get results,&quot; says Blumenthal in the ad. 4) Sarah Palin campaig</excerpt>
+          <fti-names>'14':23 '4':47 'ad':9,46 'august':22 'blumenth':43 'break':36 'campaig':50 'candid':13,31 'chris':14,28 'close':19 'democrat':11 'get':18,40 'gridlock':38 'help':34 'hotlin':1 'journal':52 'last':5 'm':26 'murphi':15,29 'nation':51 'palin':49 'primari':24 'quayl':3 'result':41 'sarah':48 'say':42 'senat':12 'sort':2 'stand':6 'support':27 'televis':8</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-qu.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972921</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:55:53-04:00</created-at>
+          <title>Bysiewicz Persistent, Confident Despite Setbacks, Cold Shoulder From Her Own Party</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...a few bumps. Under-funded and lagging in public opinion polls, she was branded as dishonest by her Democratic rival, U.S. Rep. Chris Murphy, after she aired an attack ad that her own campaign conceded was false. Yet Bysiewicz continues to plow on. &quot;When</excerpt>
+          <fti-names>'ad':42 'air':39 'attack':41 'brand':26 'bump':14 'bysiewicz':1,51 'campaign':46 'chris':35 'cold':6 'conced':47 'confid':3 'continu':52 'courant':58 'democrat':31 'despit':4 'dishonest':28 'fals':49 'fund':17 'hartford':57 'lag':19 'murphi':36 'opinion':22 'parti':11 'persist':2 'plow':54 'poll':23 'public':21 'rep':34 'rival':32 'setback':5 'shoulder':7 'u.s':33 'under-fund':15 'yet':50</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623718/s/220df5fb/l/0L0Scourant0N0Cnews0Cpolitics0Chc0Esusan0Ebysiewicz0Ectsen0E20A120A80A40H0A0H73585820Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972223</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:08:05-04:00</created-at>
+          <title>Temperament, Ability Make Murphy Best Democrat For Senate</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...DemocratJoseph I. Liebermanafter four terms &#8212; 24 years &#8212; in office. The Courant's editorial board endorses U.S. Rep. Chris Murphy, 39, of Cheshire as the Democrat who is best suited to replace Mr. Lieberman and urges his nomination in the party prim</excerpt>
+          <fti-names>'24':14 '39':28 'abil':2 'best':5,36 'board':22 'cheshir':30 'chris':26 'courant':19,51 'democrat':6,33 'democratjoseph':9 'editori':21 'endors':23 'four':12 'hartford':50 'lieberman':41 'liebermanaft':11 'make':3 'mr':40 'murphi':4,27 'nomin':45 'offic':17 'parti':48 'prim':49 'rep':25 'replac':39 'senat':8 'suit':37 'tempera':1 'term':13 'u.s':24 'urg':43 'year':15</fti-names>
+          <source-url>http://www.courant.com/</source-url>
+          <url>http://hartfordcourant.feedsportal.com/c/34278/f/623759/s/21fe46fa/l/0L0Scourant0N0Cnews0Copinion0Chc0Eed0Ecourant0Eendorses0Emurphy0Efor0Esenate0Edems0E20A120A80A20H0A0H46539720Bstory0Dtrack0Frss/story01.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970819</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Hartford Courant</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-03T01:07:43-04:00</created-at>
+          <title>Murphy leads Bysiewicz '83 in new poll</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...new poll reveals U.S. Rep Chris Murphy to be a strong favorite to win the November election to fill the Senate seat being vacated by U.S. Senator Joseph Lieberman '64 LAW '67. The poll, released this week by Public Policy Polling, shows Murphy leading f</excerpt>
+          <fti-names>'64':37 '67':39 '83':4 'bysiewicz':3 'chris':13 'daili':54 'elect':24 'f':52 'favorit':19 'fill':26 'joseph':35 'law':38 'lead':2,51 'lieberman':36 'murphi':1,14,50 'new':6,8 'news':55 'novemb':23 'polici':47 'poll':7,9,41,48 'public':46 'releas':42 'rep':12 'reveal':10 'seat':29 'senat':28,34 'show':49 'strong':18 'u.s':11,33 'vacat':31 'week':44 'win':21 'yale':53</fti-names>
+          <source-url>http://www.yaledailynews.com/</source-url>
+          <url>http://www.yaledailynews.com/news/2012/aug/02/murphy-leads-bysiewicz-83-new-poll/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970818</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yale Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:06:49-04:00</created-at>
+          <title>McMahon receiving support from republican leaders</title>
+          <contains-term>republican</contains-term>
+          <excerpt>BRISTOL &#8212; Most city Republican leaders are backing Linda McMahon in their party&#8217;s upcoming primary to pick a U.S. Senate candidate. &#8220;Linda has a very strong business background and lots of experience with job creation in the private sector,&#8221; said c</excerpt>
+          <fti-names>'back':13 'background':34 'bristol':7,49 'busi':33 'c':47 'candid':27 'citi':9 'creation':41 'experi':38 'job':40 'leader':6,11 'linda':14,28 'lot':36 'mcmahon':1,15 'parti':18 'pick':23 'press':50 'primari':21 'privat':44 'receiv':2 'republican':5,10 'said':46 'sector':45 'senat':26 'strong':32 'support':3 'u.s':25 'upcom':20</fti-names>
+          <source-url>http://www.bristolpress.com/</source-url>
+          <url>http://www.bristolpress.com/articles/2012/07/31/news/doc50188aae0fb16016541988.txt</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16971770</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Bristol Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:33-04:00</created-at>
+          <title>Chris Murphy leads Linda McMahon in Connecticut Senate poll</title>
+          <contains-term>republican</contains-term>
+          <excerpt>We at Daily Kos Elections have been hankering for details about the Connecticut Senate race for a while now, not just because Chris Murphy (who was just added ... chances for moderate Republican ex-Rep. Chris Shays, who last year seemed to ...</excerpt>
+          <fti-names>'ad':37 'chanc':38 'chris':1,32,45 'connecticut':7,22 'daili':12,52 'detail':19 'elect':14 'ex':43 'ex-rep':42 'hanker':17 'kos':13,53 'last':48 'lead':3 'linda':4 'mcmahon':5 'moder':40 'murphi':2,33 'poll':9 'race':24 'rep':44 'republican':41 'seem':50 'senat':8,23 'shay':46 'year':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/31/1115422/-Chris-Murphy-leads-Linda-McMahon-in-Connecticut-Senate-poll</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T15:38:03-04:00</date>
+          <id type="integer">16966985</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:33-04:00</created-at>
+          <title>Linda McMahon Ready to Move On</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Chris Shays in an August 28 Connecticut GOP primary, and holds a healthy lead over him. On the Democratic side, Rep. Chris Murphy also holds a significant lead over former Secretary of State Susan Bysiewicz. But McMahon's new television ad sends a pretty .</excerpt>
+          <fti-names>'28':12 'ad':47 'also':30 'august':11 'blog':53 'bysiewicz':41 'chris':7,28 'connecticut':13 'democrat':25 'former':36 'gop':14 'healthi':19 'hold':17,31 'journal':52 'lead':20,34 'linda':1 'mcmahon':2,43 'move':5 'murphi':29 'nation':51 'new':45 'pretti':50 'primari':15 'readi':3 'rep':27 'secretari':37 'send':48 'shay':8 'side':26 'signific':33 'state':39 'susan':40 'televis':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/07/linda-mcmahon-r.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T14:47:56-04:00</date>
+          <id type="integer">16966983</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal (blog)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:02:32-04:00</created-at>
+          <title>Bysiewicz, Murphy clash over Wall Street ad</title>
+          <contains-term>congress</contains-term>
+          <excerpt>NEW LONDON, Conn. (AP) Democratic Senate candidate Susan Bysiewicz stood by her claim that her rival, U.S. Rep. Chris Murphy, has accepted more contributions from Wall Street sources than other Democrats, prompting the congressman to accuse ...</excerpt>
+          <fti-names>'accept':29 'accus':43 'ad':7 'ap':11 'bay':45 'bysiewicz':1,16 'candid':14 'chris':26 'claim':20 'clash':3 'congressman':41 'conn':10 'contribut':31 'democrat':12,38 'london':9 'murphi':2,27 'new':8 'onlin':46 'prompt':39 'rep':25 'rival':23 'senat':13 'sourc':35 'stood':17 'street':6,34 'susan':15 'tampa':44 'u.s':24 'wall':5,33</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www2.tbo.com/news/politics/2012/jul/31/bysiewicz-murphy-clash-over-wall-street-ad-ar-447559/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T05:29:35-04:00</date>
+          <id type="integer">16966982</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tampa Bay Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Christopher Murphy [D, CT-5]</name>
+      <total-session-votes type="integer">1640</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname>Chris</sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:07-04:00</created-at>
+          <title>McMahon web ad distorts facts, nonpartisan online group says - The ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Republican U.S. Senate candidate Linda McMahon&amp;#39;s latest web ad, aimed at her main Democratic opponent, U.S. Rep. Chris Murphy, has numerous references to Republican talking points on the healthcare reform law that ...</excerpt>
+          <fti-names>'ad':3,20 'aim':21 'candid':14 'chris':29 'democrat':25 'distort':4 'fact':5 'group':8 'healthcar':40 'latest':18 'law':42 'linda':15 'main':24 'mcmahon':1,16 'murphi':30 'nonpartisan':6 'numer':32 'onlin':7 'oppon':26 'point':37 'refer':33 'reform':41 'rep':28 'republican':11,35 'say':9 'senat':13 'talk':36 'u.s':12,27 'web':2,19 'www.middletownpress.com':44</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.middletownpress.com/articles/2012/07/07/news/doc4ff839f80a0ad180498429.txt&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CE4QmAEwCg&amp;usg=AFQjCNGU3NaWt_X0Jisioqjyv-U4GVlt0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16451125</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.middletownpress.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:06-04:00</created-at>
+          <title>Murphy Unveils First TV Ad In Senate Race &#171; CBS Connecticut</title>
+          <contains-term>senate</contains-term>
+          <excerpt>U.S. Rep. Chris Murphy&amp;#39;s 30-second spot will begin running on Monday. The campaign confirmed it is spending about $300000 on the ad, which will run over the next two weeks on statewide broadcast and cable stations.</excerpt>
+          <fti-names>'30':16 '300000':31 'ad':5,34 'begin':20 'broadcast':45 'cabl':47 'campaign':25 'cbs':9 'chris':13 'confirm':26 'connecticut':10 'first':3 'monday':23 'murphi':1,14 'news':50 'next':40 'race':8 'rep':12 'run':21,37 'second':17 'senat':7 'spend':29 'spot':18 'statewid':44 'station':48 'tv':4 'two':41 'u.s':11 'unveil':2 'week':42 'wtic':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://connecticut.cbslocal.com/2012/07/07/murphy-unveils-first-tv-ad-in-senate-race/&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CCsQmAEwAw&amp;usg=AFQjCNGT26qAgFlV8XAkLldn58Mp0S1Cjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-07T01:00:00-04:00</date>
+          <id type="integer">16451118</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>WTIC News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:22:22-04:00</created-at>
+          <title>Friday&amp;#39;s campaign round-up - The Maddow Blog</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Joe Lieberman (I) in Connecticut, Rep. Chris Murphy (D) is launching his first television ad, narrated by his wife, Cathy Murphy. The Democrat will probably face former wrestling company executive Linda McMahon.</excerpt>
+          <fti-names>'ad':24 'benen':43 'blog':9 'campaign':3 'cathi':29 'chris':16 'compani':38 'connecticut':14 'd':18 'democrat':32 'execut':39 'face':35 'first':22 'former':36 'friday':1 'joe':10 'launch':20 'lieberman':11 'linda':40 'maddow':8 'mcmahon':41 'murphi':17,30 'narrat':25 'probabl':34 'rep':15 'round':5 'round-up':4 'steve':42 'televis':23 'wife':28 'wrestl':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://maddowblog.msnbc.msn.com/_news/2012/07/06/12600186-fridays-campaign-round-up&amp;sa=U&amp;ei=aqv3T6y7IJSr2AXx_bXUBg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNGwevBpOHXQn_gz7TUtkIKhhPTtUQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16425741</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Steve Benen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:07-04:00</created-at>
+          <title>Democrat Murphy says he can lead from the center in U.S. Senate ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>U.S. Rep. Chris Murphy is seeking the Democrats&amp;#39; nomination in the Tuesday, Aug. 14, primary. (Hersam Acorn Newspapers/Ken Borsuk photo). &#8220;Madison and Jefferson are turning over in their graves,&#8221; Democrat Chris ...</excerpt>
+          <fti-names>'14':26 'acorn':29,47 'aug':25 'borsuk':31,45 'center':9 'chris':15,43 'democrat':1,20,42 'grave':41 'hersam':28,46 'jefferson':35 'ken':44 'lead':6 'madison':33 'murphi':2,16 'newspap':48 'newspapers/ken':30 'nomin':21 'photo':32 'primari':27 'rep':14 'say':3 'seek':18 'senat':12 'tuesday':24 'turn':37 'u.s':11,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.darientimes.com/6204/democrat-murphy-says-he-can-lead-from-the-center-in-u-s-senate/&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CEkQmAEwCQ&amp;usg=AFQjCNEJfbisnFOcJAHyYgScAuvAmr0dLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16451124</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Ken Borsuk, Hersam Acorn Newspapers</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:08-04:00</created-at>
+          <title>Murphy Says System is &amp;#39;Broken&amp;#39; - Milford, CT Patch</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is ...</excerpt>
+          <fti-names>'accord':33 'anthoni':42 'associ':36 'bipartisanship':25 'britain':17 'broken':5 'came':14 'chris':9 'colleagu':21 'congressman':13 'ct':7 'd':11 'd.c':30 'dysfunct':27 'karg':43 'milford':6 'murphi':1,10,31 'new':16 'patch':8 'press':37 'republican':20 'said':32 'say':2 'system':3,40 'talk':23 'washington':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://milford.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-7c768766&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CFMQmAEwCw&amp;usg=AFQjCNHBDPdoOwYvCfu1284vJEDwMSFY9A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16451126</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Anthony Karge</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:07-04:00</created-at>
+          <title>Campaign Notebook: Murphy Says System is &amp;#39;Broken&amp;#39; - Darien, CT ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is fundamentally broken.&#8221; ...</excerpt>
+          <fti-names>'/logout?return_to=%2farticles%2fbite-sized-politics-board-candidates-on-flooding':47 'accord':34 'associ':37 'bipartisanship':26 'britain':18 'broken':7,44 'came':15 'campaign':1 'chris':10 'colleagu':22 'congressman':14 'ct':9 'd':12 'd.c':31 'darien':8 'darien.patch.com':46 'darien.patch.com/logout?return_to=%2farticles%2fbite-sized-politics-board-candidates-on-flooding':45 'dysfunct':28 'fundament':43 'murphi':3,11,32 'new':17 'notebook':2 'press':38 'republican':21 'said':33 'say':4 'system':5,41 'talk':24 'washington':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://darien.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-7c87fbed&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CEQQmAEwCA&amp;usg=AFQjCNFqIyY04Bsit8NoJb4VpFhfjFF2Fg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16451123</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://darien.patch.com/logout?return_to=%2Farticles%2Fbite-sized-politics-board-candidates-on-flooding</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:07-04:00</created-at>
+          <title>Campaign Notebook: Murphy Says System is &amp;#39;Broken&amp;#39; - Bethwood ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is ...</excerpt>
+          <fti-names>'/articles/horse-killed-in-motor-vehicle-accident-in-bethany':44 'accord':33 'associ':36 'bethwood':8 'bethwood.patch.com':43 'bethwood.patch.com/articles/horse-killed-in-motor-vehicle-accident-in-bethany':42 'bipartisanship':25 'britain':17 'broken':7 'came':14 'campaign':1 'chris':9 'colleagu':21 'congressman':13 'd':11 'd.c':30 'dysfunct':27 'murphi':3,10,31 'new':16 'notebook':2 'press':37 'republican':20 'said':32 'say':4 'system':5,40 'talk':23 'washington':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bethwood.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-8b802a8d&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CD8QmAEwBw&amp;usg=AFQjCNFQjs_uhJ-WoOxnMwCDKFiZmAqYVg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16451122</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bethwood.patch.com/articles/horse-killed-in-motor-vehicle-accident-in-bethany</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:07-04:00</created-at>
+          <title>Campaign Notebook: Murphy Says System is &amp;#39;Broken&amp;#39; - Trumbull, CT ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is ...</excerpt>
+          <fti-names>'accord':34 'anthoni':43 'associ':37 'bipartisanship':26 'britain':18 'broken':7 'came':15 'campaign':1 'chris':10 'colleagu':22 'congressman':14 'ct':9 'd':12 'd.c':31 'dysfunct':28 'karg':44 'murphi':3,11,32 'new':17 'notebook':2 'press':38 'republican':21 'said':33 'say':4 'system':5,41 'talk':24 'trumbul':8 'washington':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://trumbull.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-2eb4b740&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNGemJjSNXNLt2rmPbu3rdkbBVg_4g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16451121</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Anthony Karge</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:21:06-04:00</created-at>
+          <title>Campaign Notebook: Murphy Says System is &amp;#39;Broken&amp;#39; - Wilton, CT ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is ...</excerpt>
+          <fti-names>'/logout?return_to=%2farticles%2fboard-of-selectmen-planning-carefully':45 'accord':34 'associ':37 'bipartisanship':26 'britain':18 'broken':7 'came':15 'campaign':1 'chris':10 'colleagu':22 'congressman':14 'ct':9 'd':12 'd.c':31 'dysfunct':28 'murphi':3,11,32 'new':17 'notebook':2 'press':38 'republican':21 'said':33 'say':4 'system':5,41 'talk':24 'washington':30 'wilton':8 'wilton.patch.com':44 'wilton.patch.com/logout?return_to=%2farticles%2fboard-of-selectmen-planning-carefully':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wilton.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-69195b67&amp;sa=U&amp;ei=ofz4T9qqGYrK2AWU5Nj5Bg&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNGg1Hy0hzFf5tjwH0MQwxopwCKNRQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16451119</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://wilton.patch.com/logout?return_to=%2Farticles%2Fboard-of-selectmen-planning-carefully</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412194</commentariable-id>
+          <created-at type="datetime">2012-07-06T23:22:22-04:00</created-at>
+          <title>Campaign Notebook: Murphy Says System is &amp;#39;Broken&amp;#39; - Bethwood ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Chris Murphy (D): The congressman came to New Britain with a Republican colleague to talk about bipartisanship and dysfunction in Washington D.C. Murphy said, according to the Associated Press, that &#8220;the system is ...</excerpt>
+          <fti-names>'/articles/horse-killed-in-motor-vehicle-accident-in-bethany':44 'accord':33 'associ':36 'bethwood':8 'bethwood.patch.com':43 'bethwood.patch.com/articles/horse-killed-in-motor-vehicle-accident-in-bethany':42 'bipartisanship':25 'britain':17 'broken':7 'came':14 'campaign':1 'chris':9 'colleagu':21 'congressman':13 'd':11 'd.c':30 'dysfunct':27 'murphi':3,10,31 'new':16 'notebook':2 'press':37 'republican':20 'said':32 'say':4 'system':5,40 'talk':23 'washington':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bethwood.patch.com/articles/campaign-notebook-murphy-says-system-is-broken-8b802a8d&amp;sa=U&amp;ei=aqv3T6y7IJSr2AXx_bXUBg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNF2SG8tD04KZrjNV9_AeOZLRc3WJw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16425740</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bethwood.patch.com/articles/horse-killed-in-motor-vehicle-accident-in-bethany</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>M001169</bioguide-id>
+      <page-views-count type="integer">20836</page-views-count>
+      <unaccented-name>Christopher Murphy</unaccented-name>
+      <middlename>S.</middlename>
+      <oc-user-comments type="integer">3</oc-user-comments>
+    </person>
+  </people>
+</hash>

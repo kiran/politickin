@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">82.6530612244898</party-votes-percentage>
+        <abstains-percentage type="float">0.759493670886076</abstains-percentage>
+        <votes-most-often-with-id type="integer">300023</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer" nil="true"></sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer" nil="true"></abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer" nil="true"></cosponsored-bills-passed-rank>
+        <abstains type="integer">3</abstains>
+        <cosponsored-bills type="integer">173</cosponsored-bills>
+        <party-votes-percentage-rank type="integer" nil="true"></party-votes-percentage-rank>
+        <sponsored-bills type="integer">10</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">412494</person-id>
+        <cosponsored-bills-rank type="integer" nil="true"></cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer" nil="true"></sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">3</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">324</votes-republican-position>
+      <blog-article-count type="integer">1802</blog-article-count>
+      <fax nil="true"></fax>
+      <user-approval type="float">3.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">28</oc-users-tracking>
+      <contact-webform>http://www.hoeven.senate.gov/public/index.cfm/email-the-senator</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">82.6530612244898</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Hoeven</lastname>
+      <congress-office>120 Russell Senate Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>John</firstname>
+      <website>http://www.hoeven.senate.gov</website>
+      <birthday type="date">1957-03-13</birthday>
+      <person-id type="integer">412494</person-id>
+      <phone>202-224-2551</phone>
+      <religion nil="true"></religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">210</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:04:35-04:00</created-at>
+          <title>U.S. supporter of Keystone pipeline tours oilsands</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...the United States is very much entwined with what you&#8217;re doing here in Canada and with what you&#8217;re doing in Alberta,&#8221; said Sen. John Hoeven after his plane landed at City Centre Airport. &#8220;I got a chance to see everything. They were open, they&#8217;</excerpt>
+          <fti-names>'airport':42 'alberta':30 'canada':22 'centr':41 'chanc':46 'citi':40 'edmonton':54 'entwin':14 'everyth':49 'got':44 'hoeven':34 'john':33 'journal':55 'keyston':4 'land':38 'much':13 'oilsand':7 'open':52 'pipelin':5 'plane':37 're':18,27 'said':31 'see':48 'sen':32 'state':10 'support':2 'tour':6 'u.s':1 'unit':9</fti-names>
+          <source-url>http://www.edmontonjournal.com/</source-url>
+          <url>http://www.edmontonjournal.com/supporter+Keystone+pipeline+tours+oilsands/7055027/story.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973769</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Edmonton Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:25-04:00</created-at>
+          <title>Murkowski and Hoeven tour oil fields and feds' legacy wells</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...and Sen. John Hoeven of North Dakota serve on the Senate Energy and Natural Resources Committee, where she is the ranking Republican and he is one of the most active members. Murkowski said they toured the Conoco Phillips Alpine field and were impressed</excerpt>
+          <fti-names>'activ':40 'alpin':49 'anchorag':54 'committe':26 'conoco':47 'daili':55 'dakota':17 'energi':22 'fed':8 'field':6,50 'hoeven':3,14 'impress':53 'john':13 'legaci':9 'member':41 'murkowski':1,42 'natur':24 'news':56 'north':16 'oil':5 'one':36 'phillip':48 'rank':31 'republican':32 'resourc':25 'said':43 'sen':12 'senat':21 'serv':18 'tour':4,45 'well':10</fti-names>
+          <source-url>http://www.adn.com/</source-url>
+          <url>http://www.adn.com/2012/08/05/2574120/murkowski-and-hoeven-tour-oil.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973141</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Anchorage Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:12:25-04:00</created-at>
+          <title>Murkowski, Hoeven tour Alaska, press for expanded drilling</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...exploration in the state, according to the Anchorage Daily News. Sen. Lisa Murkowski (R-Alaska) hosted Republican colleague John Hoeven (N.D.) on a tour of Alaska&#8217;s oil and gas fields this weekend, as she begins a blitz to convince fellow senators to </excerpt>
+          <fti-names>'accord':13 'alaska':4,24,35 'anchorag':16 'begin':45 'blitz':47 'colleagu':27 'convinc':49 'daili':17 'drill':8 'expand':7 'explor':9 'fellow':50 'field':40 'gas':39 'hill':54 'hoeven':2,29 'host':25 'john':28 'lisa':20 'murkowski':1,21 'n.d':30 'news':18 'oil':37 'press':5 'r':23 'r-alaska':22 'republican':26 'sen':19 'senat':51 'state':12 'tour':3,33 'weekend':42</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/blogs/e2-wire/e2-wire/242309-murkowski-hosts-hoeven-as-senators-call-for-more-alaskan-drilling</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973140</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:27:39-04:00</created-at>
+          <title>Reprimand lifted for Spirit Lake whistleblower</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...state and federal officials to improve efforts to combat child abuse in the Spirit Lake community.&#8221; A senior aide for Sen. John Hoeven, R-N.D., applauded Thursday&#8217;s announcement, which he said came after the senator and his staff had expressed conce</excerpt>
+          <fti-names>'abus':17 'aid':25 'announc':37 'applaud':34 'came':41 'child':16 'combat':15 'communiti':22 'conc':50 'd':33 'effort':13 'express':49 'feder':9 'hoeven':29 'improv':12 'jamestown':51 'john':28 'lake':5,21 'lift':2 'n':32 'offici':10 'r':31 'r-n':30 'reprimand':1 'said':40 'sen':27 'senat':44 'senior':24 'spirit':4,20 'staff':47 'state':7 'sun':52 'thursday':35 'whistleblow':6</fti-names>
+          <source-url>http://www.jamestownsun.com/</source-url>
+          <url>http://www.jamestownsun.com/event/article/id/166333/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971975</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Jamestown Sun</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:22:08-04:00</created-at>
+          <title>Senate Adds Dome Restoration Funding</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Breaking from their House counterparts, Senate appropriators today voted to add an additional $61.3 million to the legislative branch spending bill for fiscal 2013 to allow the Architect of the Capitol to continue restoring the aging Capitol Dome. Senate</excerpt>
+          <fti-names>'2013':29 '61.3':19 'add':2,16 'addit':18 'age':41 'allow':31 'appropri':12 'architect':33 'bill':26 'branch':24 'break':6 'call':46 'capitol':36,42 'continu':38 'counterpart':10 'dome':3,43 'fiscal':28 'fund':5 'hous':9 'legisl':23 'million':20 'restor':4,39 'roll':45 'senat':1,11,44 'spend':25 'today':13 'vote':14</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/senate_adds_dome_restoration_funding-216699-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971216</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:34:30-04:00</created-at>
+          <title>Dakota Carrier Network Opens New Building</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator John Hoeven worked with the company during his 10 years as governor and said the services they provide are critical to the state. &quot;DNC is making sure no matter where you live in North Dakota you`re hooked into the world wide web. Think how ...</excerpt>
+          <fti-names>'10':16 'build':6 'carrier':2 'compani':13 'critic':27 'dakota':1,42 'dnc':31 'governor':19 'hoeven':9 'hook':45 'john':8 'kfyr':54 'kfyr-tv':53 'live':39 'make':33 'matter':36 'network':3 'new':5 'north':41 'open':4 'provid':25 're':44 'said':21 'senat':7 'servic':23 'state':30 'sure':34 'think':51 'tv':55 'web':50 'wide':49 'work':10 'world':48 'year':17</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kfyrtv.com/News_Stories.asp?news=58405</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T20:25:34-04:00</date>
+          <id type="integer">16967676</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KFYR-TV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:35:46-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Like Ohio Sen. Rob Portman, another possible Romney running mate Collins supports, the tall and rangy Thune is telegenic but decidedly low-key. That's fine with his Republican colleague, North Dakota's John Hoeven. Hoeven says Thune understands how to get </excerpt>
+          <fti-names>'anoth':15 'colleagu':40 'collin':20 'dakota':42 'decid':30 'fine':36 'get':52 'hoeven':45,46 'john':44 'key':33 'like':10 'low':32 'low-key':31 'mate':19 'news':54 'north':41 'npr':53 'ohio':11 'portman':14 'possibl':16 'rangi':25 'republican':39 'right':6 'rob':13 'romney':9,17 'run':18 'say':47 'sen':2,12 'stuff':7 'support':21 'tall':23 'telegen':28 'thune':3,26,48 'understand':49</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.npr.org/2012/07/29/157506548/does-sen-thune-have-the-right-stuff-for-romney</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T10:11:08-04:00</date>
+          <id type="integer">16951983</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NPR News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:22:10-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Mike Lee is one of the most conservative members of the Senate. The freshman Utah Republican was elected with strong Tea Party backing and, like Sen. John Thune of South Dakota, he's a man of the West. Mention the possibility that Thune, 51, might team u</excerpt>
+          <fti-names>'51':53 'back':32 'conserv':17 'dakota':40 'elect':27 'freshman':23 'john':36 'lee':11 'like':34 'man':44 'member':18 'mention':48 'might':54 'mike':10 'new':58 'one':13 'parti':31 'possibl':50 'public':60 'radio':61 'republican':25 'right':6 'romney':9 'sen':2,35 'senat':21 'south':39 'strong':29 'stuff':7 'tea':30 'team':55 'thune':3,37,52 'u':56 'utah':24 'west':47 'wnyc':57 'york':59</fti-names>
+          <source-url>http://www.wnyc.org/</source-url>
+          <url>http://feeds.wnyc.org/~r/wnyc_home/~3/GMoQuxZTSOQ/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16971217</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WNYC | New York Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-07-30T08:36:42-04:00</created-at>
+          <title>Does Sen. Thune Have The Right Stuff For Romney?</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the tall and rangy Thune is telegenic but decidedly low-key. That's fine with his Republican colleague, North Dakota's John Hoeven. Hoeven says Thune understands how to get legislation passed on Capitol Hill. &quot;I think he'd be great, and he'd be very eff</excerpt>
+          <fti-names>'broadcast':60 'capitol':44 'colleagu':28 'd':49,54 'dakota':30 'decid':18 'eff':57 'fine':24 'georgia':58 'get':40 'great':51 'hill':45 'hoeven':33,34 'john':32 'key':21 'legisl':41 'low':20 'low-key':19 'north':29 'pass':42 'public':59 'rangi':13 'republican':27 'right':6 'romney':9 'say':35 'sen':2 'stuff':7 'tall':11 'telegen':16 'think':47 'thune':3,14,36 'understand':37</fti-names>
+          <source-url>http://www.gpb.org/</source-url>
+          <url>http://feedproxy.google.com/~r/GPBNewsFeed/~3/oE53n8K5JNc/does-sen-thune-have-the-right-stuff-for-romney</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951995</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Georgia Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:34:30-04:00</created-at>
+          <title>Fort Totten psychologist reprimanded for letter of concern involving Spirit Lake</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>An aide for Sen. John Hoeven, R-N.D., said Tilus has informed his office that he received a letter of reprimand from the IHS for his letter, and said as of last week he was reassigned to the agency&#8217;s regional headquarters in Aberdeen ...</excerpt>
+          <fti-names>'aberdeen':57 'agenc':52 'aid':13 'concern':8 'd':21 'fork':59 'fort':1 'grand':58 'headquart':55 'herald':60 'hoeven':17 'ih':37 'inform':25 'involv':9 'john':16 'lake':11 'last':45 'letter':6,32,40 'n':20 'offic':27 'psychologist':3 'r':19 'r-n':18 'reassign':49 'receiv':30 'region':54 'reprimand':4,34 'said':22,42 'sen':15 'spirit':10 'tilus':23 'totten':2 'week':46</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.grandforksherald.com/event/article/id/241711/group/News</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T21:46:40-04:00</date>
+          <id type="integer">16967675</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Grand Forks Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>H001061</bioguide-id>
+      <metavid-id nil="true"></metavid-id>
+      <name>Sen. John Hoeven [R, ND]</name>
+      <total-session-votes type="integer">392</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:52:04-04:00</created-at>
+          <title>Recap: Senate Agriculture Committee Farm Bill Markup : NFU Blog</title>
+          <contains-term>senate</contains-term>
+          <excerpt>The full text of these amendments can be found on the Senate Agriculture Committee&amp;#39;s website and they include: An amendment offered by Sens. Max Baucus (Baucus 8 and 12), Kent Conrad and John Hoeven making three ...</excerpt>
+          <fti-names>'12':39 '8':37 'admin':47 'agricultur':3,22 'amend':15,30 'baucus':35,36 'bill':6 'blog':9 'committe':4,23 'conrad':41 'farm':5 'found':18 'full':11 'hoeven':44 'includ':28 'john':43 'kent':40 'make':45 'markup':7 'max':34 'nfu':8 'offer':31 'recap':1 'sen':33 'senat':2,21 'text':12 'three':46 'websit':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nfu.org/blog/%3Fp%3D364&amp;sa=U&amp;ei=4xeaT66dJ6GK2gWqtcWSDw&amp;ved=0CFAQmAEwCQ&amp;usg=AFQjCNFMCTzypvxfFqSfM4qtcY8h6ld_Sw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14825904</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:52:04-04:00</created-at>
+          <title>Senate passes LGBT-inclusive domestic violence bill | Washington ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>John Hoeven (R-N.D.), Kay Bailey Hutchison (R-Texas), John McCain (R-Ariz.), Lisa Murkowski (R-Alaska), Rob Portman (R-Ohio), Olympia Snowe (R-Maine) and David Vitter (R-La.). Sen. Mark Kirk (R-Ill.), who&amp;#39;s been ...</excerpt>
+          <fti-names>'alaska':31 'ariz':26 'bailey':17 'bill':8 'chris':57 'd':15 'david':43 'domest':6 'hoeven':11 'hutchison':18 'ill':53 'inclus':5 'john':10,22 'johnson':58 'kay':16 'kirk':50 'la':47 'lgbt':4 'lgbt-inclus':3 'lisa':27 'main':41 'mark':49 'mccain':23 'murkowski':28 'n':14 'ohio':36 'olympia':37 'pass':2 'portman':33 'r':13,20,25,30,35,40,46,52 'r-alaska':29 'r-ariz':24 'r-ill':51 'r-la':45 'r-main':39 'r-n':12 'r-ohio':34 'r-texa':19 'rob':32 'sen':48 'senat':1 'snow':38 'texa':21 'violenc':7 'vitter':44 'washington':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.washingtonblade.com/2012/04/26/senate-passes-lgbt-inclusive-domestic-violence-bill/&amp;sa=U&amp;ei=4xeaT66dJ6GK2gWqtcWSDw&amp;ved=0CDUQmAEwAw&amp;usg=AFQjCNFPOs2DVHXMZ0vP1kpHzI5gGVoEpw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14825898</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Chris Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:52:04-04:00</created-at>
+          <title>Hoeven Statement on Passage of the 21st Century Postal Service ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON &#8211; Senator John Hoeven today issued the following statement after passage this afternoon of the 21st Century Postal Service Act in the U.S. Senate. The bill passed the Senate by a vote of 62 to 37: ...</excerpt>
+          <fti-names>'21st':7,26 '37':46 '62':44 'act':30 'afternoon':23 'bill':36 'centuri':8,27 'follow':18 'hoeven':1,14 'issu':16 'john':13 'news':47 'pass':37 'passag':4,21 'postal':9,28 'senat':12,34,39 'servic':10,29 'staff':48 'statement':2,19 'today':15 'u.s':33 'vote':42 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.therightplanet.com/2012/04/hoeven-statement-on-passage-of-the-21st-century-postal-service-act/&amp;sa=U&amp;ei=4xeaT66dJ6GK2gWqtcWSDw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNFQExEDei88tV8FZVnWAQ1bgEpZ1g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14825896</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T13:29:51-04:00</created-at>
+          <title>Is Your Senator on the Ag Committee? Call Now! | Seed Broadcast</title>
+          <contains-term>senate</contains-term>
+          <excerpt>If you live in one of the states represented by members of Senate Agriculture Committee, call your members TODAY and ask them to support Senator Gillibrand&amp;#39;s Senate Farm Bill amendment that provides farmers locally adapted seeds. ... 202-  224-3244. Th</excerpt>
+          <fti-names>'-3244':51 '202':49 '224':50 'adapt':47 'ag':6 'agricultur':25 'amend':42 'ask':32 'bill':41 'broadcast':11 'call':8,27 'committe':7,26 'farm':40 'farmer':45 'gillibrand':37 'hubbard':54 'kristina':53 'live':14 'local':46 'member':22,29 'one':16 'provid':44 'repres':20 'seed':10,48 'senat':3,24,36,39 'state':19 'support':35 'th':52 'today':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.seedalliance.org/2012/04/26/is-your-senator-on-the-ag-committee-call-now/&amp;sa=U&amp;ei=C4aZT8OgKsWU2gWMwe2XBw&amp;ved=0CEwQmAEwCA&amp;usg=AFQjCNErD2IWHt3KL2XtQwAATpnKMAvt5A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14809702</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Kristina Hubbard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T13:29:48-04:00</created-at>
+          <title>Hoeven Statement on Passage of the 21st Century Postal Service ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON &#8211; Senator John Hoeven today issued the following statement after passage this afternoon of the 21st Century Postal Service Act in the U.S. Senate. The bill passed the Senate by a vote of 62 to 37: ...</excerpt>
+          <fti-names>'21st':7,26 '37':46 '62':44 'act':30 'afternoon':23 'bill':36 'centuri':8,27 'follow':18 'hoeven':1,14 'issu':16 'john':13 'news':47 'pass':37 'passag':4,21 'postal':9,28 'senat':12,34,39 'servic':10,29 'staff':48 'statement':2,19 'today':15 'u.s':33 'vote':42 'washington':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.therightplanet.com/2012/04/hoeven-statement-on-passage-of-the-21st-century-postal-service-act/&amp;sa=U&amp;ei=C4aZT8OgKsWU2gWMwe2XBw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNGKjAQUfE3uD-6Ps-BqfMhyiOMwfg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-26T01:00:00-04:00</date>
+          <id type="integer">14809695</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>News Staff</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:52:04-04:00</created-at>
+          <title>Say Anything &#187; Hoeven, Conrad Vote To Kill Budget Control Act ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Today the Senate voted 62 &#8211; 37 to do just that, with Senator John Hoeven and seven other Republicans (the usual RINO suspects like Olympia Snowe, Susan Collins, etc., etc.) joining the Democrat majority to exceed the ...</excerpt>
+          <fti-names>'37':16 '62':15 'act':10 'anyth':2 'budget':8 'collin':37 'conrad':4 'control':9 'democrat':42 'etc':38,39 'exceed':45 'hoeven':3,24 'john':23 'join':40 'kill':7 'like':33 'major':43 'olympia':34 'port':48 'republican':28 'rino':31 'rob':47 'say':1 'senat':13,22 'seven':26 'snow':35 'susan':36 'suspect':32 'today':11 'usual':30 'vote':5,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sayanythingblog.com/entry/hoeven-conrad-vote-to-kill-budget-control-act-spending-caps/&amp;sa=U&amp;ei=4xeaT66dJ6GK2gWqtcWSDw&amp;ved=0CEMQmAEwBg&amp;usg=AFQjCNGzqVdKxX1d0CITPLgUrAOTk4ixuQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14825901</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rob Port</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T23:52:03-04:00</created-at>
+          <title>Fuel Fix &#187; Salazar: Feds still tweaking hydraulic fracturing rules</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. John Hoeven, R-N.D., and Interior Secretary Ken Salazar discuss North Dakota&amp;#39;s oil boom after visiting a rig drilling wells in the Bakken formation for Newfield Exploration Co. (Photo: Jennifer A. Dlouhy / Houston ...</excerpt>
+          <fti-names>'bakken':36 'boom':27 'co':41 'd':16 'dakota':24 'discuss':22 'dlouhi':45,49 'drill':32 'explor':40 'fed':4 'fix':2 'format':37 'fractur':8 'fuel':1 'hoeven':12 'houston':46 'hydraul':7 'interior':18 'jennif':43,47 'john':11 'ken':20 'n':15 'newfield':39 'north':23 'oil':26 'photo':42 'r':14 'r-n':13 'rig':31 'rule':9 'salazar':3,21 'secretari':19 'sen':10 'still':5 'tweak':6 'visit':29 'well':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fuelfix.com/blog/2012/04/25/salazar-feds-still-tweaking-hydraulic-fracturing-rules/&amp;sa=U&amp;ei=4xeaT66dJ6GK2gWqtcWSDw&amp;ved=0CCcQmAEwAA&amp;usg=AFQjCNG5IOQ1JwXu2UCAt7Palsw1hqRgig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14825895</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jennifer A. Dlouhy</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T13:29:51-04:00</created-at>
+          <title>Meet the 112th | Hoeven gets seat on Keystone pipeline conference ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>April 24&#8211;WASHINGTON &#8212; Sen. John Hoeven was named today to the joint U.S. Senate-House Transportation conference committee, which gives him a seat at the table to press for his Keystone XL pipeline bill and another ...</excerpt>
+          <fti-names>'112th':3 '24':12 'anoth':47 'april':11 'bill':45 'committe':29 'confer':10,28 'fork':49 'get':5 'give':31 'grand':48 'herald':50 'hoeven':4,16 'hous':26 'john':15 'joint':22 'keyston':8,42 'meet':1 'name':18 'pipelin':9,44 'press':39 'seat':6,34 'sen':14 'senat':25 'senate-hous':24 'tabl':37 'today':19 'transport':27 'u.s':23 'washington':13 'xl':43</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/hoeven-gets-seat-on-keystone-pipeline-conference-committee/&amp;sa=U&amp;ei=C4aZT8OgKsWU2gWMwe2XBw&amp;ved=0CFEQmAEwCQ&amp;usg=AFQjCNH-mEQ8xyQWCODJTo2tDaxIA4rmLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14809703</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Grand Forks Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T13:29:49-04:00</created-at>
+          <title>Senate Appoints Negotiators for Transportation Bill | Transportation ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>The group also includes the author of the Keystone pipeline language, Republican Senator John Hoeven all of the Republican conferees voted for the language. Only one Democrat among the conferees voted for the ...</excerpt>
+          <fti-names>'also':10 'among':35 'appoint':2 'author':13 'bill':6 'confere':27,37 'democrat':34 'ehl':42 'group':9 'hoeven':22 'includ':11 'john':21 'keyston':16 'languag':18,31 'larri':41 'negoti':3 'one':33 'pipelin':17 'republican':19,26 'senat':1,20 'transport':5,7 'vote':28,38</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.transportationissuesdaily.com/senate-appoints-negotiators-for-transportation-bill/&amp;sa=U&amp;ei=C4aZT8OgKsWU2gWMwe2XBw&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNFmQ6UYZBnxaGSoCS2erMdKtJUxfw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14809698</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Larry Ehl</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412494</commentariable-id>
+          <created-at type="datetime">2012-04-26T13:29:49-04:00</created-at>
+          <title>Say Anything &#187; Hoeven, Conrad Vote To Kill Budget Control Act ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Today the Senate voted 62 &#8211; 37 to do just that, with Senator John Hoeven and seven other Republicans (the usual RINO suspects like Olympia Snowe, Susan Collins, etc., etc.) joining the Democrat majority to exceed the ...</excerpt>
+          <fti-names>'37':16 '62':15 'act':10 'anyth':2 'budget':8 'collin':37 'conrad':4 'control':9 'democrat':42 'etc':38,39 'exceed':45 'hoeven':3,24 'john':23 'join':40 'kill':7 'like':33 'major':43 'olympia':34 'port':48 'republican':28 'rino':31 'rob':47 'say':1 'senat':13,22 'seven':26 'snow':35 'susan':36 'suspect':32 'today':11 'usual':30 'vote':5,14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sayanythingblog.com/entry/hoeven-conrad-vote-to-kill-budget-control-act-spending-caps/&amp;sa=U&amp;ei=C4aZT8OgKsWU2gWMwe2XBw&amp;ved=0CDYQmAEwAw&amp;usg=AFQjCNHSYwFGcfhuICT2W66upOXiRJD58w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-25T01:00:00-04:00</date>
+          <id type="integer">14809697</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rob Port</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">6051</page-views-count>
+      <youtube-id nil="true"></youtube-id>
+      <unaccented-name>John Hoeven</unaccented-name>
+      <oc-user-comments type="integer">0</oc-user-comments>
+    </person>
+  </people>
+</hash>

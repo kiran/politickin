@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-03-25T16:30:49-04:00</entered-top-viewed>
+        <party-votes-percentage type="float">84.4756883421207</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">400348</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">339</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">339</cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">296</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">347</party-votes-percentage-rank>
+        <sponsored-bills type="integer">6</sponsored-bills>
+        <votes-least-often-with-id type="integer">412212</votes-least-often-with-id>
+        <person-id type="integer">400116</person-id>
+        <cosponsored-bills-rank type="integer">229</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412453</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">255</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">10</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1442</votes-republican-position>
+      <metavid-id>John_J._Jr.Duncan</metavid-id>
+      <blog-article-count type="integer">4110</blog-article-count>
+      <user-approval type="float">5.75</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">162</oc-users-tracking>
+      <contact-webform>http://www.house.gov/duncan/contactform_zipcheck.shtml</contact-webform>
+      <youtube-id>repjohnduncan</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">84.4756883421207</with-party-percentage>
+      <lastname>Duncan</lastname>
+      <fax>202-225-6440</fax>
+      <congress-office>2207 Rayburn House Office Building</congress-office>
+      <firstname>John</firstname>
+      <website>http://duncan.house.gov/</website>
+      <birthday type="date">1947-07-21</birthday>
+      <person-id type="integer">400116</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-5435</phone>
+      <religion>Presbyterian</religion>
+      <bioguide-id>D000533</bioguide-id>
+      <votes-democratic-position type="integer">380</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>James</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:40:52-04:00</created-at>
+          <title>New laser technique developed at UTSI</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...has defeated four challengers to win the Republican nomination for the U.S. Senate.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. </excerpt>
+          <fti-names>'2nd':29 '4th':42 '6':47 '8th':35 'challeng':10 'defeat':8 'democrat':44 'desjarlai':39 'develop':4 'district':30,36,43 'duncan':26 'fincher':32 'four':9 'jimmi':25 'laser':2 'new':1 'news':48 'nomin':15 'rep':24,45 'republican':14,23 'scott':38 'senate.more':19 'stephen':31 'techniqu':3 'u.s':18 'utsi':6 'wate':46 'win':12 'winner':21</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19195554/new-laser-technique-developed-at-utsi</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972172</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:46:03-04:00</created-at>
+          <title>Southeast heat wave boosts TVA's third quarter</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Stev</excerpt>
+          <fti-names>'2nd':31 '4th':11,44 '6':50 '8th':37 '9th':20 'boost':4 'cohen':16 'democrat':13,46 'desjarlai':41 'district':12,32,38,45 'district.more':21 'duncan':28 'fincher':34 'heat':2 'jimmi':27 'news':51 'prevail':17 'quarter':8 'rep':14,26,47 'republican':25 'scott':40 'southeast':1 'stephen':33 'stev':48 'steve':15 'third':7 'tva':5 'wate':49 'wave':3 'winner':23</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19190188/southeast-heat-wave-boosts-tvas-third-quarter</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971596</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:46:03-04:00</created-at>
+          <title>Queen of the Mississippi to launch service</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...has defeated four challengers to win the Republican nomination for the U.S. Senate.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. </excerpt>
+          <fti-names>'2nd':30 '4th':43 '6':48 '8th':36 'challeng':11 'defeat':9 'democrat':45 'desjarlai':40 'district':31,37,44 'duncan':27 'fincher':33 'four':10 'jimmi':26 'launch':6 'mississippi':4 'news':49 'nomin':16 'queen':1 'rep':25,46 'republican':15,24 'scott':39 'senate.more':20 'servic':7 'stephen':32 'u.s':19 'wate':47 'win':13 'winner':22</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19187536/queen-of-the-mississippi-to-launch-service</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971595</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:46:03-04:00</created-at>
+          <title>Corker on top in Tennessee</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...outside Chattanooga earlier this week, denied any involvement in controlling the outside expenditure. Republican Reps. Jimmy Duncan, Scott DesJarlais and Stephen Fincher defeated primary challengers, as well as Democratic Rep. Steve Cohen. Republican U.</excerpt>
+          <fti-names>'arkansa':40 'challeng':30 'chattanooga':7 'cohen':37 'control':15 'corker':1 'defeat':28 'democrat':34 'deni':11 'desjarlai':24 'duncan':22 'earlier':8 'expenditur':18 'fincher':27 'involv':13 'jimmi':21 'onlin':41 'outsid':6,17 'primari':29 'rep':20,35 'republican':19,38 'scott':23 'stephen':26 'steve':36 'tennesse':5 'top':3 'u':39 'week':10 'well':32</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/03/corker-top-tennessee-20120803/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971594</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:46:02-04:00</created-at>
+          <title>Floor installer will face Corker in Tennessee Senate showdown</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...are being &quot;over-identified by the government and tracked.&quot; In other U.S. House races, Republican Reps. Scott DesJarlais, Jimmy Duncan and Stephen Fincher won their primary contests, as did Democrat Steve Cohen. Republican Reps. Phil Roe and Marsha Black</excerpt>
+          <fti-names>'appeal':52 'black':49 'cohen':42 'commerci':51 'contest':37 'corker':5 'democrat':40 'desjarlai':28 'duncan':30 'face':4 'fincher':33 'floor':1 'govern':17 'hous':23 'identifi':14 'instal':2 'jimmi':29 'marsha':48 'memphi':50 'over-identifi':12 'phil':45 'primari':36 'race':24 'rep':26,44 'republican':25,43 'roe':46 'scott':27 'senat':8 'showdown':9 'stephen':32 'steve':41 'tennesse':7 'track':19 'u.s':22 'won':34</fti-names>
+          <source-url>http://www.commercialappeal.com/</source-url>
+          <url>http://www.commercialappeal.com/news/2012/aug/02/floor-installer-will-face-corker-in-tennessee/?partner=RSS</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971593</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Memphis Commercial Appeal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:46:01-04:00</created-at>
+          <title>Results: Tennessee Congressional races</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Five other congressional matchups were decided. 1st District Rep. Phil Roe faces Democrat Alan Woodruff. 2nd District Rep. Jimmy Duncan faces Democrat Troy Christopher Goodale. 4th District Rep. Scott DesJarlais faces Democrat Eric Stewart. 7th District</excerpt>
+          <fti-names>'1st':11 '2nd':20 '4th':30 '7th':39 'alan':18 'christoph':28 'congression':3,7 'decid':10 'democrat':17,26,36 'desjarlai':34 'district':12,21,31,40 'duncan':24 'eric':37 'face':16,25,35 'five':5 'goodal':29 'jimmi':23 'matchup':8 'phil':14 'race':4 'rep':13,22,32 'result':1 'roe':15 'scott':33 'stewart':38 'tennesse':2 'troy':27 'wbir':41 'woodruff':19</fti-names>
+          <source-url>http://www.wbir.com/</source-url>
+          <url>http://www.wbir.com/rss/article/228969/2/Results-Tennessee-Congressional-races</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971592</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBIR</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:22:40-04:00</created-at>
+          <title>Kane takes early lead in vote count for House District 89</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...terms before a failed run for the Tennessee governor's office. U.S. Senator Bob Corker and U.S. House District 2 Rep. John &quot;Jimmy&quot; Duncan had no problem overcoming their Republican primary challengers. Two children were found dead Thursday afternoon out</excerpt>
+          <fti-names>'2':31 '6':53 '89':11 'afternoon':50 'bob':25 'challeng':43 'children':45 'corker':26 'count':7 'dead':48 'district':10,30 'duncan':35 'earli':3 'fail':15 'found':47 'governor':20 'hous':9,29 'jimmi':34 'john':33 'kane':1 'lead':4 'news':54 'offic':22 'overcom':39 'primari':42 'problem':38 'rep':32 'republican':41 'run':16 'senat':24 'take':2 'tennesse':19 'term':12 'thursday':49 'two':44 'u.s':23,28 'vote':6 'wate':52</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19184523/kane-takes-early-lead-in-vote-count-for-house-district-89</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970574</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:22:40-04:00</created-at>
+          <title>Alcoa voters approve sales tax hike to fund new high school</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Stev</excerpt>
+          <fti-names>'2nd':34 '4th':14,47 '6':53 '8th':40 '9th':23 'alcoa':1 'approv':3 'cohen':19 'democrat':16,49 'desjarlai':44 'district':15,35,41,48 'district.more':24 'duncan':31 'fincher':37 'fund':8 'high':10 'hike':6 'jimmi':30 'new':9 'news':54 'prevail':20 'rep':17,29,50 'republican':28 'sale':4 'school':11 'scott':43 'stephen':36 'stev':51 'steve':18 'tax':5 'voter':2 'wate':52 'winner':26</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19184776/alcoa-voters-approve-sales-tax-hike-to-fund-new-high-school</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970573</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:22:39-04:00</created-at>
+          <title>Kane leads in vote count for House District 89</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Stev</excerpt>
+          <fti-names>'2nd':32 '4th':12,45 '6':51 '89':9 '8th':38 '9th':21 'cohen':17 'count':5 'democrat':14,47 'desjarlai':42 'district':8,13,33,39,46 'district.more':22 'duncan':29 'fincher':35 'hous':7 'jimmi':28 'kane':1 'lead':2 'news':52 'prevail':18 'rep':15,27,48 'republican':26 'scott':41 'stephen':34 'stev':49 'steve':16 'vote':4 'wate':50 'winner':24</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19184523/kane-leads-in-vote-count-for-house-district-89</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970572</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:22:39-04:00</created-at>
+          <title>Terry Frank wins Anderson County mayor's race</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...in the 4th District. Democratic Rep. Steve Cohen prevailed in the 9th District.More &gt;&gt; The winners were Republican Reps. Jimmy Duncan in the 2nd District, Stephen Fincher in the 8th District and Scott DesJarlais in the 4th District. Democratic Rep. Stev</excerpt>
+          <fti-names>'2nd':31 '4th':11,44 '6':50 '8th':37 '9th':20 'anderson':4 'cohen':16 'counti':5 'democrat':13,46 'desjarlai':41 'district':12,32,38,45 'district.more':21 'duncan':28 'fincher':34 'frank':2 'jimmi':27 'mayor':6 'news':51 'prevail':17 'race':8 'rep':14,26,47 'republican':25 'scott':40 'stephen':33 'stev':48 'steve':15 'terri':1 'wate':49 'win':3 'winner':23</fti-names>
+          <source-url>http://www.wate.com/</source-url>
+          <url>http://www.wate.com/story/19183749/terry-frank-wins-anderson-county-mayors-race</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970571</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WATE 6 News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. John Duncan [R, TN-2]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:52:23-04:00</created-at>
+          <title>West Knox Republican Club Picnic &amp;amp; Cake Auction</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Then a Ham and Goody&amp;#39;s cake was auctioned as being donated by Congressman Jimmy Duncan. It wasn&amp;#39;t until the bidding got to $60 that it was revealed that it was not from Congressman Duncan but by Trustee Duncan.</excerpt>
+          <fti-names>'60':32 'auction':7,16 'bid':29 'brian':48 'cake':6,14 'club':4 'congressman':21,42 'donat':19 'duncan':23,43,47 'goodi':12 'got':30 'ham':10 'hornback':49 'jimmi':22 'knox':2 'picnic':5 'republican':3 'reveal':36 'truste':46 'wasn':25 'west':1</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://brianhornback.blogspot.com/2012/07/west-knox-republican-club-picnic-cake.html&amp;sa=U&amp;ei=ZnYHUJrjBor22AWSjLTIBA&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNE8nmAyNkMUoPGeWhON8-BcKevC6w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-09T01:00:00-04:00</date>
+          <id type="integer">16715642</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Brian Hornback</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:52:22-04:00</created-at>
+          <title>Jimmy Duncan Has Opponents and 100000 New Voters | Humphrey ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Jimmy Duncan Has Opponents and 100000 New Voters. U.S. Rep. John J. Duncan, senior member of Tennessee&amp;#39;s congressional delegation, is introducing himself to voters who were not previously part of his district before ...</excerpt>
+          <fti-names>'100000':6,15 'congression':28 'deleg':29 'district':42 'duncan':2,11,22 'humphrey':9,45 'introduc':31 'j':21 'jimmi':1,10 'john':20 'member':24 'new':7,16 'oppon':4,13 'part':39 'previous':38 'rep':19 'senior':23 'tennesse':26 'tom':44 'u.s':18 'voter':8,17,34</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.knoxnews.com/humphrey/2012/07/jimmy-duncan-has-opponents-and.html&amp;sa=U&amp;ei=ZnYHUJrjBor22AWSjLTIBA&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFOzYqQKbEAdcymFtR7rSIK_qwecg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16715641</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Humphrey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:00:06-04:00</created-at>
+          <title>Scottie Mayfield: &amp;#39;People Like Ice Cream&amp;#39; | Humphrey on the Hill ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mayfield, who has declined to participate in debates, also says he would never have run had not redistricting moved his McMinn County home out of the 2nd District, whre Rep. John J. &amp;quot;Jimmy&amp;quot; Duncan Jr. is the incumbent ...</excerpt>
+          <fti-names>'2nd':37 'also':19 'counti':32 'cream':6 'debat':18 'declin':14 'district':38 'duncan':44 'hill':10 'home':33 'humphrey':7,50 'ice':5 'incumb':48 'j':42 'jimmi':43 'john':41 'jr':45 'like':4 'mayfield':2,11 'mcminn':31 'move':29 'never':23 'particip':16 'peopl':3 'redistrict':28 'rep':40 'run':25 'say':20 'scotti':1 'tom':49 'whre':39 'would':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogs.knoxnews.com/humphrey/2012/07/scottie-mayfield-people-like-i.html&amp;sa=U&amp;ei=MEn6T4zAHO3o2gWf5IjABg&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHUNEm619S7rjjaPyfAxERlmoEAeQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16458964</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom Humphrey</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:52:25-04:00</created-at>
+          <title>Environmental Activists Occupy Hal Rogers&amp;#39; Office Over Mountaintop ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>According to the group&amp;#39;s Twitter feed, those in the office of Tennessee Congressman Jimmy Duncan were given a warning. Environmental activists are in Washington, D.C. this week for the 7th straight year, lobbying members ...</excerpt>
+          <fti-names>'7th':39 'accord':9 'activist':2,30 'congressman':22 'd.c':34 'duncan':24 'environment':1,29 'erica':44 'feed':15 'given':26 'group':12 'hal':4 'jimmi':23 'lobbi':42 'member':43 'mountaintop':8 'occupi':3 'offic':6,19 'peterson':45 'roger':5 'straight':40 'tennesse':21 'twitter':14 'warn':28 'washington':33 'week':36 'year':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wfpl.org/post/environmental-activists-occupy-hal-rogers-office-over-mountaintop-removal&amp;sa=U&amp;ei=ZnYHUJrjBor22AWSjLTIBA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNHBD5xT-Zpeup7v4QXkBUuAcONYrA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16715648</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erica Peterson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:00:13-04:00</created-at>
+          <title>Environmental Activists Occupy Hal Rogers&amp;#39; Office Over Mountaintop ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>According to the group&amp;#39;s Twitter feed, those in the office of Tennessee Congressman Jimmy Duncan were given a warning. Environmental activists are in Washington, D.C. this week for the 7th straight year, lobbying members ...</excerpt>
+          <fti-names>'7th':39 'accord':9 'activist':2,30 'congressman':22 'd.c':34 'duncan':24 'environment':1,29 'erica':44 'feed':15 'given':26 'group':12 'hal':4 'jimmi':23 'lobbi':42 'member':43 'mountaintop':8 'occupi':3 'offic':6,19 'peterson':45 'roger':5 'straight':40 'tennesse':21 'twitter':14 'warn':28 'washington':33 'week':36 'year':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wfpl.org/post/environmental-activists-occupy-hal-rogers-office-over-mountaintop-removal&amp;sa=U&amp;ei=MEn6T4zAHO3o2gWf5IjABg&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNFFPhnXp7qhkrNmp5j56u7RIpECDg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-06T01:00:00-04:00</date>
+          <id type="integer">16458968</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erica Peterson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-18T22:52:25-04:00</created-at>
+          <title>Who Voted On HR 3541 &#8211; Murdering Babies Solely Because Of ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Paul Broun [R-GA10] Rep. Dan Burton [R-IN5] Rep. Steven &#8220;Steve&#8221; Chabot [R-OH1] Rep. Howard Coble [R-NC6] Rep. Tom Cole [R-OK4] Rep. Rick Crawford [R-AR1] Rep. John &#8220;Jimmy&#8221; Duncan [R-TN2] Rep.</excerpt>
+          <fti-names>'3541':5 'ar1':47 'babi':7 'broun':13 'burton':19 'chabot':26 'cobl':32 'cole':38 'crawford':44 'dan':18 'duncan':51 'ga10':16 'howard':31 'hr':4 'in5':22 'jimmi':50 'john':49 'murder':6 'nc6':35 'oh1':29 'ok4':41 'paul':12 'pitbul':57 'r':15,21,28,34,40,46,53 'r-ar1':45 'r-ga10':14 'r-in5':20 'r-nc6':33 'r-oh1':27 'r-ok4':39 'r-tn2':52 'rep':11,17,23,30,36,42,48,55 'rick':43 'sole':8 'steve':25 'steven':24 'tn2':54 'tom':37 'twg2a':56 'vote':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://twg2a.wordpress.com/2012/05/31/who-voted-on-hr-3541-murdering-babies-solely-because-of-their-gender/&amp;sa=U&amp;ei=ZnYHUJrjBor22AWSjLTIBA&amp;ved=0CDsQmAEwBg&amp;usg=AFQjCNGCQgwZPaQRHNR58Jzvnzz4DEsvkw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">16715647</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>twg2a PitBull</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:00:10-04:00</created-at>
+          <title>Who Voted On HR 3541 &#8211; Murdering Babies Solely Because Of ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Paul Broun [R-GA10] Rep. Dan Burton [R-IN5] Rep. Steven &#8220;Steve&#8221; Chabot [R-OH1] Rep. Howard Coble [R-NC6] Rep. Tom Cole [R-OK4] Rep. Rick Crawford [R-AR1] Rep. John &#8220;Jimmy&#8221; Duncan [R-TN2] Rep.</excerpt>
+          <fti-names>'3541':5 'ar1':47 'babi':7 'broun':13 'burton':19 'chabot':26 'cobl':32 'cole':38 'crawford':44 'dan':18 'duncan':51 'ga10':16 'howard':31 'hr':4 'in5':22 'jimmi':50 'john':49 'murder':6 'nc6':35 'oh1':29 'ok4':41 'paul':12 'pitbul':57 'r':15,21,28,34,40,46,53 'r-ar1':45 'r-ga10':14 'r-in5':20 'r-nc6':33 'r-oh1':27 'r-ok4':39 'r-tn2':52 'rep':11,17,23,30,36,42,48,55 'rick':43 'sole':8 'steve':25 'steven':24 'tn2':54 'tom':37 'twg2a':56 'vote':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=https://twg2a.wordpress.com/2012/05/31/who-voted-on-hr-3541-murdering-babies-solely-because-of-their-gender/&amp;sa=U&amp;ei=MEn6T4zAHO3o2gWf5IjABg&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHi81wgK5FZUEfREe3D8uLDikQDiw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-31T01:00:00-04:00</date>
+          <id type="integer">16458966</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>twg2a PitBull</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-05-20T22:37:50-04:00</created-at>
+          <title>Pat and Tyler Summitt Receive The Alzheimers Association Award ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>I think we would all agree that if a Mount Rushmore of college coaches existed, her image would be etched upon it,&#8221; said Rep. Scott DesJarlais. Congressman Jimmy Duncan led the effort to honor Summitt. Posted in Sports ...</excerpt>
+          <fti-names>'agre':15 'alzheim':7 'associ':8 'award':9 'coach':23 'colleg':22 'congressman':36 'desjarlai':35 'duncan':38 'effort':41 'etch':29 'exist':24 'honor':43 'imag':26 'jimmi':37 'journal':50 'knoxvill':49 'led':39 'mount':19 'pat':1 'post':45 'receiv':5 'rep':33 'rushmor':20 'said':32 'scott':34 'sport':47 'summitt':4,44 'think':11 'tyler':3 'upon':30 'would':13,27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://theknoxvillejournal.com/pat-and-tyler-summitt-receive-the-alzheimers-association-award/&amp;sa=U&amp;ei=faq5T-biF-iK2wW5xunHCQ&amp;ved=0CDQQmAEwAw&amp;usg=AFQjCNHupyi0TdUCOlWX_mCD5dVuy-Y8aA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-27T01:00:00-04:00</date>
+          <id type="integer">15335046</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Knoxville Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-04-11T11:51:47-04:00</created-at>
+          <title>Son of Former Rep. Wamp Raises $175000 to ... - The Church Report</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Weston Wamp, the 24-year-old son of former Rep. Zach Wamp (R-Tenn.), raised more than $175000 in the first three months of 2012 for his primary bid to unseat Rep. Chuck Fleischmann (R-Tenn.).</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':53 '175000':7,31 '2012':38 '24':15 'bid':42 'chuck':46 'church':10 'first':34 'fleischmann':47 'former':3,21 'month':36 'old':18 'primari':41 'r':26,49 'r-tenn':25,48 'rais':6,28 'rep':4,22,45 'report':11 'son':1,19 'tenn':27,50 'thechurchreport.com':52 'thechurchreport.com/?q=save+us+from+berlusconi':51 'three':35 'unseat':44 'wamp':5,13,24 'weston':12 'year':17 'year-old':16 'zach':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thechurchreport.com/index.cfm%3FobjectID%3D152039&amp;sa=U&amp;ei=kaiFT4LyC4Gi2AX3tNznCA&amp;ved=0CFAQmAEwCQ&amp;usg=AFQjCNELKPiCXZ-E0BzFt3EEhHMuI6anMQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-03T01:00:00-04:00</date>
+          <id type="integer">14339374</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thechurchreport.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400116</commentariable-id>
+          <created-at type="datetime">2012-04-10T22:48:18-04:00</created-at>
+          <title>Son of Former Rep. Wamp Raises $175000 to ... - The Church Report</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Weston Wamp, the 24-year-old son of former Rep. Zach Wamp (R-Tenn.), raised more than $175000 in the first three months of 2012 for his primary bid to unseat Rep. Chuck Fleischmann (R-Tenn.).</excerpt>
+          <fti-names>'/?q=save+us+from+berlusconi':53 '175000':7,31 '2012':38 '24':15 'bid':42 'chuck':46 'church':10 'first':34 'fleischmann':47 'former':3,21 'month':36 'old':18 'primari':41 'r':26,49 'r-tenn':25,48 'rais':6,28 'rep':4,22,45 'report':11 'son':1,19 'tenn':27,50 'thechurchreport.com':52 'thechurchreport.com/?q=save+us+from+berlusconi':51 'three':35 'unseat':44 'wamp':5,13,24 'weston':12 'year':17 'year-old':16 'zach':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thechurchreport.com/index.cfm%3FobjectID%3D152039&amp;sa=U&amp;ei=8PCET93yK8We2AXGr530CA&amp;ved=0CEsQmAEwCA&amp;usg=AFQjCNHgA_KxnItM67rS3zlmliEjgeqnvQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-03T01:00:00-04:00</date>
+          <id type="integer">14320768</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://thechurchreport.com/?q=Save+Us+From+Berlusconi</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">21725</page-views-count>
+      <unaccented-name>John Duncan</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

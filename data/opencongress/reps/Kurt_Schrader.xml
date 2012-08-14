@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">79.6016898008449</party-votes-percentage>
+        <abstains-percentage type="float">3.60674810936591</abstains-percentage>
+        <votes-most-often-with-id type="integer">400274</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">37</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">81</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">428</cosponsored-bills-passed-rank>
+        <abstains type="integer">62</abstains>
+        <cosponsored-bills type="integer">153</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">136</party-votes-percentage-rank>
+        <sponsored-bills type="integer">11</sponsored-bills>
+        <votes-least-often-with-id type="integer">400655</votes-least-often-with-id>
+        <person-id type="integer">412315</person-id>
+        <cosponsored-bills-rank type="integer">428</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">318</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">591</votes-republican-position>
+      <blog-article-count type="integer">4315</blog-article-count>
+      <metavid-id nil="true"></metavid-id>
+      <user-approval type="float">3.70588235294118</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">172</oc-users-tracking>
+      <contact-webform>https://forms.house.gov/schrader/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">79.6016898008449</with-party-percentage>
+      <youtube-id>RepKurtSchrader</youtube-id>
+      <lastname>Schrader</lastname>
+      <congress-office>314 Cannon House Office Building</congress-office>
+      <firstname>Kurt</firstname>
+      <bioguide-id>S001180</bioguide-id>
+      <fax>202-225-5699</fax>
+      <website>http://schrader.house.gov/</website>
+      <birthday type="date">1951-10-19</birthday>
+      <person-id type="integer">412315</person-id>
+      <phone>202-225-5711</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">1319</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:04:07-04:00</created-at>
+          <title>Federal funds to help pay for safety improvements for North Fork Road</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...on the project in late August and finish in September. Traffic will be reduced to one lane and flaggers will guide motorists. Rep. Kurt Schrader (D-Ore.) announced Friday that the county received an additional $802,600 in federal grant money from the U.</excerpt>
+          <fti-names>'600':50 '802':49 'addit':48 'announc':41 'august':18 'counti':45 'd':39 'd-ore':38 'feder':1,52 'finish':20 'flagger':31 'fork':11 'friday':42 'fund':2 'grant':53 'guid':33 'help':4 'improv':8 'journal':61 'kurt':36 'lane':29 'late':17 'money':54 'motorist':34 'north':10 'one':28 'ore':40 'pay':5 'project':15 'receiv':46 'reduc':26 'rep':35 'road':12 'safeti':7 'salem':58 'schrader':37 'septemb':22 'statesman':60 'statesman-journ':59 'traffic':23 'u':57</fti-names>
+          <source-url>http://www.statesmanjournal.com/</source-url>
+          <url>http://www.statesmanjournal.com/article/20120804/NEWS/308040016/1001</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972262</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salem Statesman-Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:04:10-04:00</created-at>
+          <title>Money And Power: Political Chat Takes Aim</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...to abolish the Oregon estate tax say it would have unintended consequences. That was followed by a dissenting vote by Rep. Kurt Schrader against extending the Bush-era tax cuts. Meanwhile, on the Republican side, Rep. Greg Walden appears to be moving up</excerpt>
+          <fti-names>'abolish':9 'aim':7 'appear':47 'broadcast':54 'bush':35 'bush-era':34 'chat':5 'consequ':19 'cut':38 'dissent':25 'era':36 'estat':12 'extend':32 'follow':22 'greg':45 'kurt':29 'meanwhil':39 'money':1 'move':50 'oregon':11,52 'polit':4 'power':3 'public':53 'rep':28,44 'republican':42 'say':14 'schrader':30 'side':43 'take':6 'tax':13,37 'unintend':18 'vote':26 'walden':46 'would':16</fti-names>
+          <source-url>http://www.opb.org/</source-url>
+          <url>http://opbnews.org/article/money-and-power-political-chat-takes-aim/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972263</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Public Broadcasting</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:16:43-04:00</created-at>
+          <title>House panel OKs Herrera Beutler forest roads bill</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...the runoff is a pollutant regulated under the Clean Water Act. Also co-sponsoring the forest roads protection bill is Rep. Kurt Schrader, D-Ore. In the U.S. Senate, Sens. Ron Wyden, D-Ore., and Mike Crapo, R-Idaho, have introduced similar legislation, w</excerpt>
+          <fti-names>'act':19 'also':20 'beutler':5 'bill':8,28 'clean':17 'co':22 'co-sponsor':21 'columbian':58 'crapo':48 'd':34,44 'd-ore':33,43 'forest':6,25 'herrera':4 'hous':1 'idaho':51 'introduc':53 'kurt':31 'legisl':55 'mike':47 'ok':3 'ore':35,45 'panel':2 'pollut':13 'protect':27 'r':50 'r-idaho':49 'regul':14 'rep':30 'road':7,26 'ron':41 'runoff':10 'schrader':32 'sen':40 'senat':39 'similar':54 'sponsor':23 'u.s':38 'w':56 'water':18 'wyden':42</fti-names>
+          <source-url>http://www.columbian.com/</source-url>
+          <url>http://www.columbian.com/news/2012/aug/01/house-panel-oks-herrera-beutler-forest-roads-bill/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970941</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Columbian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:16:42-04:00</created-at>
+          <title>In Our View: Nonsense from the 9th</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...includes 45 House Republicans (including U.S. Rep. Jaime Herrera Beutler of Camas) and 17 House Democrats (including U.S. Rep. Kurt Schrader of Oregon). They are supported by 35 years of policy in the federal Clean Water Act, plus President Barack Obama</excerpt>
+          <fti-names>'17':21 '35':35 '45':9 '9th':7 'act':44 'barack':47 'beutler':17 'cama':19 'clean':42 'columbian':50 'democrat':23 'feder':41 'herrera':16 'hous':10,22 'includ':8,12,24 'jaim':15 'kurt':27 'nonsens':4 'obama':48 'oregon':30 'plus':45 'polici':38 'presid':46 'rep':14,26 'republican':11 'schrader':28 'support':33 'u.s':13,25 'view':3 'water':43 'year':36</fti-names>
+          <source-url>http://www.columbian.com/</source-url>
+          <url>http://www.columbian.com/news/2012/aug/02/nonsense-from-the-9th/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970940</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Columbian</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:16:34-04:00</created-at>
+          <title>Schrader.jpg</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...news the way you want it: Once again Rep. Kurt Schrader, D-Ore., is going his own way on the white-hot issue of whether to extend the Bush tax cuts. Schrader on Wednesday was one of only 19 Democrats -- including 15 of his fellow members in the &quot;Blue Do</excerpt>
+          <fti-names>'15':45 '19':42 'blue':52 'bush':32 'cut':34 'd':14 'd-ore':13 'democrat':43 'extend':30 'fellow':48 'go':17 'hot':25 'includ':44 'issu':26 'kurt':11 'live':55 'member':49 'news':2 'one':39 'ore':15 'oregon':54 'rep':10 'schrader':12,35 'schrader.jpg':1 'tax':33 'want':6 'way':4,20 'wednesday':37 'whether':28 'white':24 'white-hot':23</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/mapes/index.ssf/2012/08/rep_kurt_schrader_parts_ways_w.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970939</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:57:33-04:00</created-at>
+          <title>Japanese dock removal progresses at Agate Beach</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...state agency coordination and public information surrounding the debris issue. Bonamici's bill is also supported by Reps. Kurt Schrader, Peter DeFazio, Earl Blumenauer and Greg Walden of Oregon as well as lawmakers from California and Washington state. </excerpt>
+          <fti-names>'agat':6 'agenc':9 'also':22 'beach':7 'bill':20 'blumenau':31 'bonamici':18 'california':42 'coordin':10 'debri':16 'defazio':29 'dock':2 'earl':30 'greg':33 'inform':13 'issu':17 'japanes':1 'kurt':26 'lawmak':40 'live':47 'oregon':36,46 'peter':28 'progress':4 'public':12 'remov':3 'rep':25 'schrader':27 'state':8,45 'support':23 'surround':14 'walden':34 'washington':44 'well':38</fti-names>
+          <source-url>http://www.oregonlive.com/</source-url>
+          <url>http://www.oregonlive.com/politics/index.ssf/2012/08/suzanne_bonamici_moves_to_spee.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969978</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Oregon Live</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:28-04:00</created-at>
+          <title>Keep Your Polling Close...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...side of the aisle, Rep. Ed Perlmutter, D-Colo., paid a total of $39,000 for surveys by a firm called Frederick Polls. Reps. Kurt Schrader, D-Ore., Niki Tsongas, D-Mass., and Sanford Bishop, D-Ga., all paid more than $20,000 for surveys in their district</excerpt>
+          <fti-names>'000':20,51 '20':50 '39':19 'aisl':8 'bishop':42 'call':26 'close':4 'colo':14 'd':13,33,38,44 'd-colo':12 'd-ga':43 'd-mass':37 'd-ore':32 'district':56 'ed':10 'firm':25 'frederick':27 'ga':45 'journal':58 'keep':1 'kurt':30 'mass':39 'nation':57 'niki':35 'ore':34 'paid':15,47 'perlmutt':11 'poll':3,28 'rep':9,29 'sanford':41 'schrader':31 'side':5 'survey':22,53 'total':17 'tsonga':36</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/07/keep-your-polli.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16961653</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:32:22-04:00</created-at>
+          <title>Senate Hearing on Feinstein's Egg Bill Excludes Opponents of Battery Cages and Federal Preemption</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Referred to by many as the Rotten Egg Bill, Feinstein's legislation is identical to a House bill (H.R. 3798) that was introduced by Rep. Kurt Schrader earlier this year over the vehement objections of animal advocates nationwide. With the measure now ...</excerpt>
+          <fti-names>'3798':35 'advoc':52 'anim':51 'batteri':11 'bill':7,24,33 'cage':12 'earlier':43 'egg':6,23 'exclud':8 'feder':14 'feinstein':4,25 'h.r':34 'hear':2 'hous':32 'ident':29 'introduc':38 'kurt':41 'legisl':27 'mani':19 'measur':56 'nationwid':53 'object':49 'oppon':9 'preemption':15 'refer':16 'rep':40 'rotten':22 'schrader':42 'senat':1 'vehement':48 'wboy':58 'year':45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.wboy.com/story/19116411/senate-hearing-on-feinsteins-egg-bill-excludes-opponents-of-battery-cages-and-federal-preemption</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T19:44:59-04:00</date>
+          <id type="integer">16961652</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBOY</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-30T05:56:10-04:00</created-at>
+          <title>Senate Hearing on Feinstein's Egg Bill Excludes Opponents of Battery Cages and Federal Preemption</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Referred to by many as the Rotten Egg Bill, Feinstein's legislation is identical to a House bill (H.R. 3798) that was introduced by Rep. Kurt Schrader earlier this year over the vehement objections of animal advocates nationwide. With the measure now ...</excerpt>
+          <fti-names>'3798':35 'advoc':52 'anim':51 'batteri':11 'bill':7,24,33 'cage':12 'earlier':43 'egg':6,23 'exclud':8 'feder':14 'feinstein':4,25 'h.r':34 'hear':2 'hous':32 'ident':29 'introduc':38 'kfvs12':58 'kurt':41 'legisl':27 'mani':19 'measur':56 'nationwid':53 'object':49 'oppon':9 'preemption':15 'refer':16 'rep':40 'rotten':22 'schrader':42 'senat':1 'vehement':48 'year':45</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.kfvs12.com/story/19116411/senate-hearing-on-feinsteins-egg-bill-excludes-opponents-of-battery-cages-and-federal-preemption</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T20:00:29-04:00</date>
+          <id type="integer">16950132</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>KFVS12</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:46:38-04:00</created-at>
+          <title>Federal legislation would open door for expansion of Siletz tribal lands</title>
+          <contains-term>congress</contains-term>
+          <excerpt>WASHINGTON, D.C. &#8211; A bill introduced into Congress by U.S. Rep. Kurt Schrader (D-Ore) would allow the Confederated Tribes of Siletz Indians to take into trust land anywhere within the boundaries of the original 1855 Siletz Coast Reservation.</excerpt>
+          <fti-names>'1855':47 'allow':28 'anywher':40 'bill':15 'boundari':43 'coast':49 'confeder':30 'congress':18 'd':25 'd-ore':24 'd.c':13 'door':5 'expans':7 'feder':1 'indian':34 'introduc':16 'kurt':22 'land':11,39 'legisl':2 'newport':51 'news':53 'news-tim':52 'open':4 'ore':26 'origin':46 'rep':21 'reserv':50 'schrader':23 'siletz':9,33,48 'take':36 'time':54 'tribal':10 'tribe':31 'trust':38 'u.s':20 'washington':12 'within':41 'would':3,27</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.newportnewstimes.com/v2_news_articles.php?heading=0&amp;story_id=34888&amp;page=72</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T00:05:03-04:00</date>
+          <id type="integer">16931061</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Newport News-Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Kurt Schrader [D, OR-5]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">1657</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:34-04:00</created-at>
+          <title>Marijuana measure qualifies for ballot in Oregon, what&amp;#39;s next?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>SCHRADER&amp;#39;S OPTIMISM: Rep. Kurt Schrader, D-Ore., tells the Statesman Journal that he&amp;#39;soptimistic a bipartisan farm bill can pass Congress. &#8211;Jeff Mapes. Tagged with: Oregon. If you enjoyed this article, please consider ...</excerpt>
+          <fti-names>'articl':43 'ballot':5 'bill':30 'bipartisan':28 'congress':33 'consid':45 'd':18 'd-ore':17 'dee':46 'enjoy':41 'farm':29 'jeff':34 'journal':23 'kurt':15 'mape':35 'marijuana':1 'measur':2 'next':10 'optim':13 'ore':19 'oregon':7,38 'pass':32 'pleas':44 'qualifi':3 'rep':14 'schrader':11,16 'soptimist':26 'statesman':22 'tag':36 'tell':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://asanational.org/marijuana-measure-qualifies-for-ballot-in-oregon-whats-next/&amp;sa=U&amp;ei=JoIHUMvwIoKW2gXVzvCtBA&amp;ved=0CDAQmAEwBA&amp;usg=AFQjCNFXUdLhktVRQ0H-u7J0AaVN7ABv2Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16717481</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Dee</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:36-04:00</created-at>
+          <title>FarmPolicy &#187; Blog Archives &#187; Drought Concerns Grow as Farm Bill ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Online that, &#8220;&amp;#39;The buzz is that if this had been a Republican-only bill with no Democratic support, it probably wouldn&amp;#39;t have gone far,&amp;#39; [Rep. Kurt Schrader (D., Ore.) said. &#8220;But the (Republican) leadership is now in a box with a ...</excerpt>
+          <fti-names>'archiv':3 'bill':9,24 'blog':2 'box':50 'buzz':13 'concern':5 'd':39 'democrat':27 'drought':4 'far':35 'farm':8 'farmpolici':1 'gone':34 'good':54 'grow':6 'keith':53 'kurt':37 'leadership':45 'onlin':10 'ore':40 'probabl':30 'rep':36 'republican':22,44 'republican-on':21 'said':41 'schrader':38 'support':28 'wouldn':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://farmpolicy.com/2012/07/16/drought-concerns-grow-as-farm-bill-awaits-house-floor-action/&amp;sa=U&amp;ei=JoIHUMvwIoKW2gXVzvCtBA&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNHiwS6J_5ivomrFYMZ899GAOE6oXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-16T01:00:00-04:00</date>
+          <id type="integer">16717485</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Keith Good</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:33-04:00</created-at>
+          <title>Kurt Schrader Goes Rogue on Public Lands Logging - BlueOregon</title>
+          <contains-term>congress</contains-term>
+          <excerpt>On July 11th, Representative Kurt Schrader attempted to use option 3 when he sought to attach the biggest logging bill in Oregon history as a stealth &#8220;rider&#8221; to the Farm Bill currently being debated in Congress. The plan would ...</excerpt>
+          <fti-names>'/feeds/latest/':51 '11th':12 '3':20 'attach':25 'attempt':16 'biggest':27 'bill':29,40 'blueoregon':9 'congress':45 'current':41 'debat':43 'farm':39 'goe':3 'histori':32 'juli':11 'kurt':1,14 'land':7 'log':8,28 'option':19 'oregon':31 'plan':47 'public':6 'repres':13 'rider':36 'rogu':4 'schrader':2,15 'sought':23 'stealth':35 'use':18 'would':48 'www.blueoregon.com':50 'www.blueoregon.com/feeds/latest':49</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.blueoregon.com/2012/07/kurt-schrader-goes-rogue-public-lands-logging/&amp;sa=U&amp;ei=JoIHUMvwIoKW2gXVzvCtBA&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNEWY_P93z44j9z4k6wLERDm5BpD0Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16717479</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.blueoregon.com/feeds/latest/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:36-04:00</created-at>
+          <title>Oh, SNAP: The Slow Motion House Food Fight - Influence Alley</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democrats Reps. Kurt Schrader of Oregon, Bill Owens of New York,Mike McIntyre of North Carolina, Tim Holden of Pennsylvania, and Collin Peterson of Minnesota voted against the amendment. &amp;quot;I remain concerned with the ...</excerpt>
+          <fti-names>'alley':10 'amend':39 'bill':17 'carolina':26 'collin':32 'concern':42 'democrat':11 'fight':8 'food':7 'holden':28 'hous':6 'influenc':9 'influencealley.nationaljournal.com':45 'kurt':13 'mcintyr':23 'mike':22 'minnesota':35 'motion':5 'new':20 'north':25 'oh':1 'oregon':16 'owen':18 'pennsylvania':30 'peterson':33 'remain':41 'rep':12 'schrader':14 'slow':4 'snap':2 'tim':27 'vote':36 'york':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://influencealley.nationaljournal.com/2012/07/itll-be-a-food-fight-over-the.php&amp;sa=U&amp;ei=JoIHUMvwIoKW2gXVzvCtBA&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNFf1RtHcS4QDR8W18u2ZEUzBAcvRw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16717486</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://influencealley.nationaljournal.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-18T23:42:35-04:00</created-at>
+          <title>Schrader Criticized For Effort To Add Logging Plan To Farm Bill ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Kurt Schrader tried and failed Wednesday evening to add a logging plan for western Oregon forests to the federal farm bill.</excerpt>
+          <fti-names>'add':6,21 'bill':11,33 'congressman':12 'critic':2 'effort':4 'even':19 'fail':17 'farm':10,32 'feder':31 'forest':28 'kurt':13 'log':7,23 'man':35 'oregon':27 'plan':8,24 'rob':34 'schrader':1,14 'tri':15 'wednesday':18 'western':26</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://news.opb.org/article/schrader-pushes-add-logging-plan-farm-bill/&amp;sa=U&amp;ei=JoIHUMvwIoKW2gXVzvCtBA&amp;ved=0CDoQmAEwBg&amp;usg=AFQjCNF8eohxRrfVa2Jd54limx0oLoRNdA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-11T01:00:00-04:00</date>
+          <id type="integer">16717483</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rob Manning</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:43:12-04:00</created-at>
+          <title>A Potential Boost to the Pellet Market | Forest Business Network</title>
+          <contains-term>legislation</contains-term>
+          <excerpt>Pending legislation in the House could help open up wider domestic markets for wood fuel pellets. Reps. Glenn Thompson, R-Pa., and Kurt Schrader D-Ore. recently introduced the Forest Products Fairness Act of 2012 (H.R. ...</excerpt>
+          <fti-names>'2012':47 'act':45 'boost':3 'busi':9 'could':16 'craig':49 'd':37 'd-ore':36 'domest':21 'fair':44 'forest':8,42 'fuel':25 'glenn':28 'h.r':48 'help':17 'hous':15 'introduc':40 'kurt':34 'legisl':12 'market':7,22 'network':10 'open':18 'ore':38 'pa':32 'pellet':6,26 'pend':11 'potenti':2 'product':43 'r':31 'r-pa':30 'rawl':50 'recent':39 'rep':27 'schrader':35 'thompson':29 'wider':20 'wood':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.forestbusinessnetwork.com/17968/a-potential-boost-to-the-pellet-market/&amp;sa=U&amp;ei=xLvzT-OUB6f-2QWNqfHZBg&amp;ved=0CEsQmAEwCg&amp;usg=AFQjCNEJBLbr0JTV1E5et7BMQG2BTeR79w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16360306</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Craig Rawlings</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:43:10-04:00</created-at>
+          <title>Opinion: Ranchers Trump Politicians and Activists When it Comes to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dianne Feinstein from California and Rep. Kurt Schrader from Oregon recently introduced legislation that would federally dictate how eggs can be produced. S. 3239 and H.R. 3798, the Egg Products Inspection Act ...</excerpt>
+          <fti-names>'3239':34 '3798':37 'act':42 'activist':6 'california':14 'come':9 'diann':11 'dictat':27 'egg':29,39 'evanautri':43 'feder':26 'feinstein':12 'h.r':36 'inspect':41 'introduc':22 'kurt':17 'legisl':23 'opinion':1 'oregon':20 'politician':4 'produc':32 'product':40 'rancher':2 'recent':21 'rep':16 'schrader':18 'trump':3 'would':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ruraltopia.com/%3Fp%3D1017&amp;sa=U&amp;ei=xLvzT-OUB6f-2QWNqfHZBg&amp;ved=0CEMQmAEwCA&amp;usg=AFQjCNGYRtgovXONJhbHoAjV2_SHEtCkVg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16360304</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>EvanAutry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-03T02:47:27-04:00</created-at>
+          <title>Opinion: Ranchers Trump Politicians and Activists When it Comes to ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dianne Feinstein from California and Rep. Kurt Schrader from Oregon recently introduced legislation that would federally dictate how eggs can be produced. S. 3239 and H.R. 3798, the Egg Products Inspection Act ...</excerpt>
+          <fti-names>'3239':34 '3798':37 'act':42 'activist':6 'california':14 'come':9 'diann':11 'dictat':27 'egg':29,39 'evanautri':43 'feder':26 'feinstein':12 'h.r':36 'inspect':41 'introduc':22 'kurt':17 'legisl':23 'opinion':1 'oregon':20 'politician':4 'produc':32 'product':40 'rancher':2 'recent':21 'rep':16 'schrader':18 'trump':3 'would':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ruraltopia.com/%3Fp%3D1017&amp;sa=U&amp;ei=e5XyT47MDYPQ2wWD3pm7CA&amp;ved=0CDkQmAEwBg&amp;usg=AFQjCNHH_p7YAl_HEYFGFstIjERAEXiiug</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16355168</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>EvanAutry</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-03T02:47:27-04:00</created-at>
+          <title>Tsunami Debris: &amp;#39;We&amp;#39;re going to be dealing with this for a long time ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Waves of tsunami debris washing ashore on the Oregon coast prompted U.S. Sen. Ron Wyden and Rep. Kurt Schrader to meet with fishermen and federal officials Saturday to discuss the potential dangers in the tides.</excerpt>
+          <fti-names>'/news':52 'ashor':20 'coast':24 'danger':46 'deal':8 'debri':2,18 'discuss':43 'feder':39 'fishermen':37 'go':5 'kurt':32 'long':13 'meet':35 'offici':40 'oregon':23 'potenti':45 'prompt':25 're':4 'rep':31 'ron':28 'saturday':41 'schrader':33 'sen':27 'tide':49 'time':14 'tsunami':1,17 'u.s':26 'wash':19 'wave':15 'www.kcby.com':51 'www.kcby.com/news':50 'wyden':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kcby.com/news/local/Tsunami-Debris-Were-going-to-be-dealing-with-this-for-a-long-time-161005015.html&amp;sa=U&amp;ei=e5XyT47MDYPQ2wWD3pm7CA&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNGL8Cp2NhwTm2Nmnvjk4uWBdbKzYQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-02T01:00:00-04:00</date>
+          <id type="integer">16355167</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.kcby.com/news</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412315</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:43:08-04:00</created-at>
+          <title>Tsunami Debris: &amp;#39;We&amp;#39;re going to be dealing with this for a long time ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Waves of tsunami debris washing ashore on the Oregon coast prompted U.S. Sen. Ron Wyden and Rep. Kurt Schrader to meet with fishermen and federal officials Saturday to discuss the potential dangers in the tides.</excerpt>
+          <fti-names>'/news':52 'ashor':20 'coast':24 'danger':46 'deal':8 'debri':2,18 'discuss':43 'feder':39 'fishermen':37 'go':5 'kurt':32 'long':13 'meet':35 'offici':40 'oregon':23 'potenti':45 'prompt':25 're':4 'rep':31 'ron':28 'saturday':41 'schrader':33 'sen':27 'tide':49 'time':14 'tsunami':1,17 'u.s':26 'wash':19 'wave':15 'www.kcby.com':51 'www.kcby.com/news':50 'wyden':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kcby.com/news/local/Tsunami-Debris-Were-going-to-be-dealing-with-this-for-a-long-time-161005015.html&amp;sa=U&amp;ei=xLvzT-OUB6f-2QWNqfHZBg&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNHrjIELieZ7LDktXccSVYUmyD6Jcg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16360302</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.kcby.com/news</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">14492</page-views-count>
+      <unaccented-name>Kurt Schrader</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">1</oc-user-comments>
+    </person>
+  </people>
+</hash>

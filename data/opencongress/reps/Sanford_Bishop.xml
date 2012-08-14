@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">81.4389359129383</party-votes-percentage>
+        <abstains-percentage type="float">3.78126817917394</abstains-percentage>
+        <votes-most-often-with-id type="integer">412396</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">160</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">146</cosponsored-bills-passed-rank>
+        <abstains type="integer">65</abstains>
+        <cosponsored-bills type="integer">198</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">133</party-votes-percentage-rank>
+        <sponsored-bills type="integer">28</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400030</person-id>
+        <cosponsored-bills-rank type="integer">57</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">422</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">8</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400235</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">646</votes-republican-position>
+      <metavid-id>Sanford_D._Jr.Bishop</metavid-id>
+      <blog-article-count type="integer">6001</blog-article-count>
+      <user-approval type="float">2.06666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">96</oc-users-tracking>
+      <contact-webform>http://bishop.house.gov/display.cfm?section_id=13</contact-webform>
+      <youtube-id>RepSanfordBishop</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">81.4389359129383</with-party-percentage>
+      <lastname>Bishop</lastname>
+      <bioguide-id>B000490</bioguide-id>
+      <fax>202-225-2203</fax>
+      <congress-office>2429 Rayburn House Office Building</congress-office>
+      <firstname>Sanford</firstname>
+      <website>http://bishop.house.gov/</website>
+      <birthday type="date">1947-02-04</birthday>
+      <person-id type="integer">400030</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-225-3631</phone>
+      <religion>Baptist</religion>
+      <votes-democratic-position type="integer">1347</votes-democratic-position>
+      <gender>M</gender>
+      <middlename>D.</middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:30:18-04:00</created-at>
+          <title>CORRECTION</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Pulitzer Prize in 1992 for their series &quot;America: What Went Wrong?&quot; The article incorrectly stated that they won.Congressman Sanford Bishop (D., Ga.) voted with Republicans to extend current tax rates for another year. Rep. Tim Bishop (D., N.Y.) opposed</excerpt>
+          <fti-names>'1992':5 'america':9 'anoth':33 'articl':14 'bishop':21,37 'correct':1 'current':29 'd':22,38 'extend':28 'ga':23 'incorrect':15 'journal':43 'n.y':39 'oppos':40 'prize':3 'pulitz':2 'rate':31 'rep':35 'republican':26 'sanford':20 'seri':8 'state':16 'street':42 'tax':30 'tim':36 'vote':24 'wall':41 'went':11 'won.congressman':19 'wrong':12 'year':34</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390443866404577566930961424396.html?mod=WSJ_topics_obama</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972421</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:30:44-04:00</created-at>
+          <title>PolitiFact: Close to 900,000 veterans are out of work</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Print: Sunday, August 5, 2012 The statement &quot;There are close to 900,000 unemployed veterans in America right now.&quot; U.S. Rep. Sanford Bishop, D-Ga., in a speech The ruling Bishop's press secretary, Maxwell Gigle, backed up the claim by sending us news re</excerpt>
+          <fti-names>'000':5,23 '2012':15 '5':14 '900':4,22 'america':27 'august':13 'back':48 'bishop':33,42 'claim':51 'close':2,20 'd':35 'd-ga':34 'ga':36 'gigl':47 'maxwel':46 'news':55 'petersburg':59 'politifact':1 'press':44 'print':11 're':56 'rep':31 'right':28 'rule':41 'sanford':32 'secretari':45 'send':53 'speech':39 'st':58 'statement':17 'sunday':12 'tampabay.com':57 'time':60 'u.s':30 'unemploy':24 'us':54 'veteran':6,25 'work':10</fti-names>
+          <source-url>http://www.tampabay.com/</source-url>
+          <url>http://www.tampabay.com/news/article1244068.ece</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972126</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TampaBay.com | St. Petersburg Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:43:06-04:00</created-at>
+          <title>Putting the focus on cuts to Georgia&#8217;s military bases</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...And lest anyone accuse the Republican Chambliss of politicking &#8211; he&#8217;s even inviting Democrats. Albany Democratic Rep. Sanford Bishop will join Chambliss at the Marine Corps Logistics Base Albany and at Fort Benning in Columbus on Monday. Later in th</excerpt>
+          <fti-names>'accus':14 'albani':25,39 'anyon':13 'atlanta':51 'base':10,38 'ben':43 'bishop':29 'blog':54 'chambliss':17,32 'columbus':45 'constitut':53 'corp':36 'cut':5 'democrat':24,26 'even':22 'focus':3 'fort':42 'georgia':7 'invit':23 'join':31 'journal':52 'later':48 'lest':12 'logist':37 'marin':35 'militari':9 'monday':47 'politick':19 'put':1 'rep':27 'republican':16 'sanford':28 'th':50</fti-names>
+          <source-url>http://blogs.ajc.com/</source-url>
+          <url>http://blogs.ajc.com/political-insider-jim-galloway/2012/08/02/putting-the-focus-on-cuts-to-georgia%e2%80%99s-military-bases/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970399</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution Blogs</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:43:06-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Tim Johnson (R-Ill.) (who is retiring) 19 Democrats voted with Republicans to approve the bill: Rep. John Barrow (D-Ga.) Rep. Sanford Bishop (D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly</excerpt>
+          <fti-names>'19':19 'approv':25 'barrow':30 'ben':53 'bill':27 'bishop':36 'boren':42 'boswel':48 'chandler':54 'connolli':61 'cut':9 'd':32,38,44,50,56 'd-ga':31,37 'd-iowa':49 'd-ki':55 'd-okla':43 'dan':41 'democrat':2,20 'e':60 'ga':33,39 'gerald':59 'hous':6 'ill':15 'iowa':51 'john':29 'johnson':12 'ky':57 'leonard':47 'okla':45 'plan':10 'post':64 'r':14 'r-ill':13 'rep':28,34,40,46,52,58 'republican':7,23 'retir':18 'sanford':35 'tax':8 'tim':11 'vote':3,21 'washington':63</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970398</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:43:00-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Tim Johnson (R-Ill.) (who is retiring) 19 Democrats voted with Republicans to approve the bill: Rep. John Barrow (D-Ga.) Rep. Sanford Bishop (D-Ga.) Rep. Dan Boren (D-Okla.) Rep. Leonard Boswell (D-Iowa) Rep. Ben Chandler (D-Ky.) Rep. Gerald E. Connolly</excerpt>
+          <fti-names>'19':19 'approv':25 'barrow':30 'ben':53 'bill':27 'bishop':36 'boren':42 'boswel':48 'chandler':54 'connolli':61 'cut':9 'd':32,38,44,50,56 'd-ga':31,37 'd-iowa':49 'd-ki':55 'd-okla':43 'dan':41 'democrat':2,20 'e':60 'ga':33,39 'gerald':59 'hous':6 'ill':15 'iowa':51 'john':29 'johnson':12 'ky':57 'leonard':47 'okla':45 'plan':10 'post':64 'r':14 'r-ill':13 'rep':28,34,40,46,52,58 'republican':7,23 'retir':18 'sanford':35 'tax':8 'tim':11 'vote':3,21 'washington':63</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970397</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:42-04:00</created-at>
+          <title>U.S. House Districts 2 and 3 Westmoreland wins; House and Allen could face run-off for congressional seat</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...is humbling. While Westmoreland appears to be headed back to Washington, the Republican challenger for Democratic incumbent Sanford Bishop in the Georgia 2nd District has not been set. In the Republican primary for the Democratic-leaning district, there</excerpt>
+          <fti-names>'2':4 '2nd':42 '3':6 'allen':11 'appear':24 'back':28 'bishop':38 'challeng':33 'columbus':59 'congression':18 'could':12 'democrat':35,55 'democratic-lean':54 'district':3,43,57 'enquir':62 'face':13 'georgia':41,63 'head':27 'hous':2,9 'humbl':21 'incumb':36 'lean':56 'ledger':61 'ledger-enquir':60 'primari':51 'republican':32,50 'run':15 'run-off':14 'sanford':37 'seat':19 'set':47 'u.s':1 'washington':30 'westmoreland':7,23 'win':8</fti-names>
+          <source-url>http://www.ledger-enquirer.com/mld/ledgerenquirer/</source-url>
+          <url>http://www.ledger-enquirer.com/2012/08/01/2142017/us-house-districts-2-and-3-westmoreland.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969505</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Ledger-Enquirer (Georgia)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:42-04:00</created-at>
+          <title>GOP candidates head to runoff in Ga's 2nd District</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...-- Democratic U.S. Rep. Sanford Bishop will have to wait until Aug. 21 to know which Republican will try to deny him an 11th term in Congress. Rick Allen, a medical supplies executive from Columbus, and John House, a consultant from Midland, will meet i</excerpt>
+          <fti-names>'11th':33 '21':22 '2nd':9 'allen':38 'aug':21 'bishop':15 'candid':2 'coast':56 'columbus':44 'congress':36 'consult':49 'democrat':11 'deni':30 'district':10 'execut':42 'first':55 'ga':7 'gop':1 'head':3 'hous':47 'john':46 'know':24 'medic':40 'meet':53 'midland':51 'news':57 'rep':13 'republican':26 'rick':37 'runoff':5 'sanford':14 'suppli':41 'term':34 'tri':28 'u.s':12 'wait':19</fti-names>
+          <source-url>http://www.firstcoastnews.com/</source-url>
+          <url>http://feedproxy.google.com/~r/firstcoastnews/georgia/~3/l4RUWf9aLFA/GOP-candidates-head-to-runoff-in-Gas-2nd-District</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969504</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>First Coast News </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:42-04:00</created-at>
+          <title>Congressional incumbents appear to survive primaries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Nathan Russo in the Democratic primary Tuesday night to face Kingston in the Nov. 6 general election. District 2: Rep. Sanford Bishop, D-Albany, also faced no primary challenge. Rick Allen and John House appeared headed toward a runoff in the Republican</excerpt>
+          <fti-names>'2':25 '6':21 'albani':31 'allen':38 'also':32 'appear':3,42 'atlanta':50 'bishop':28 'challeng':36 'congression':1 'constitut':52 'd':30 'd-albani':29 'democrat':11 'district':24 'elect':23 'face':16,33 'general':22 'head':43 'hous':41 'incumb':2 'john':40 'journal':51 'kingston':17 'nathan':7 'night':14 'nov':20 'primari':6,12,35 'rep':26 'republican':49 'rick':37 'runoff':46 'russo':8 'sanford':27 'surviv':5 'toward':44 'tuesday':13</fti-names>
+          <source-url>http://www.ajc.com/</source-url>
+          <url>http://www.ajc.com/news/georgia-politics-elections/congressional-incumbents-appear-to-1488550.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969503</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Atlanta Journal Constitution</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:30:42-04:00</created-at>
+          <title>Run off likely for Georgia's 2nd Congressional District Republican nominee</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...2nd Congressional District race for a Republican opponent to Democratic Rep. Sanford Bishop will likely face a run-off between candidates John House and Rick Allen, both of Columbus. If its a run off, its a run off, said House, and I plan to continue to</excerpt>
+          <fti-names>'2nd':7,12 'allen':38 'bishop':24 'candid':33 'columbus':41,59 'congression':8,13 'continu':57 'democrat':21 'district':9,14 'enquir':62 'face':27 'georgia':5,63 'hous':35,52 'john':34 'ledger':61 'ledger-enquir':60 'like':3,26 'nomine':11 'oppon':19 'plan':55 'race':15 'rep':22 'republican':10,18 'rick':37 'run':1,30,45,49 'run-off':29 'said':51 'sanford':23</fti-names>
+          <source-url>http://www.ledger-enquirer.com/mld/ledgerenquirer/</source-url>
+          <url>http://www.ledger-enquirer.com/2012/07/31/2140031/georgias-2nd-congressional-district.html#storylink=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969502</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Columbus Ledger-Enquirer (Georgia)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:31:27-04:00</created-at>
+          <title>Ga. Peanut Commission opens new headquarters</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The GPC was presented with congressional records on their 50th-year anniversary from Scott, Sen. Johnny Isakson and Congressman Sanford Bishop. Also, Jimmy Blitch of Statesboro, former board member of the GPC, was recognized as one of Georgia&#8217;s finest ..</excerpt>
+          <fti-names>'50th':17 '50th-year':16 'also':29 'anniversari':19 'bishop':28 'blitch':31 'board':35 'commiss':3 'congression':12 'congressman':26 'finest':47 'former':34 'ga':1 'gazett':49 'georgia':45 'gpc':8,39 'headquart':6 'isakson':24 'jimmi':30 'johnni':23 'member':36 'new':5 'one':43 'open':4 'peanut':2 'present':10 'recogn':41 'record':13 'sanford':27 'scott':21 'sen':22 'statesboro':33 'tifton':48 'year':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://tiftongazette.com/local/x1923099820/Ga-Peanut-Commission-opens-new-headquarters</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T21:43:07-04:00</date>
+          <id type="integer">16966049</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Tifton Gazette</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Sanford Bishop [D, GA-2]</name>
+      <total-session-votes type="integer">1654</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district>2</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:56-04:00</created-at>
+          <title>House Appropriations Committee Passes FY13 Ag Funding Bill ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>We also commend Congressman Sanford Bishop (D-GA) for speaking up on behalf of Georgia poultry growers in support of Congresswoman Kaptur&amp;#39;s amendment. The anti-competition language included in the House ...</excerpt>
+          <fti-names>'ag':6 'also':10 'amend':33 'anti':36 'anti-competit':35 'appropri':2 'behalf':22 'bill':8 'bishop':14 'commend':11 'committe':3 'competit':37 'congressman':12 'congresswoman':30 'd':16 'd-ga':15 'fund':7 'fy13':5 'ga':17 'georgia':24 'gfogel':43 'grower':26 'hous':1,42 'includ':39 'kaptur':31 'languag':38 'pass':4 'poultri':25 'sanford':13 'speak':19 'support':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://sustainableagriculture.net/blog/house-appropriations-fy13-bill/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNELnO6wQcfOvUFGZcPGRjgydmqV6A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-19T01:00:00-04:00</date>
+          <id type="integer">16058602</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>gfogel</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:58-04:00</created-at>
+          <title>Representatives Voice Support for Farm Bill Energy Title Programs ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>The House members &#8211; led by Georgia&amp;#39;s Sanford Bishop Jr. and Iowa&amp;#39;s Tom Latham &#8211; emphasize the Rural Energy for America Program, the Biomass Crop Assistance Program and the Biorefinery Assistance Program.</excerpt>
+          <fti-names>'america':30 'assist':35,40 'bill':6 'biomass':33 'biorefineri':39 'bishop':18 'crop':34 'emphas':25 'energi':7,28 'farm':5 'gari':42 'georgia':15 'hous':11 'iowa':21 'jr':19 'latham':24 'led':13 'member':12 'program':9,31,36,41 'repres':1 'rural':27 'sanford':17 'support':3 'titl':8 'tom':23 'truitt':43 'voic':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.hoosieragtoday.com/index.php/2012/06/18/representatives-voice-support-for-farm-bill-energy-title-programs/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFegGZqK-Pw6B80QI66BXk3rlJVIg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16058611</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Gary Truitt</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:58-04:00</created-at>
+          <title>How does the Georgia delegation stack up on spending cuts?</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>I believe five of them were introduced by Rep. Paul Broun (R-GA) and one by Rep. ... Unfortunately, only three of the 25 amendments passed, including one offered by Rep. ... Sanford Bishop, GA-2, Democratic, 0%, 0/25 ...</excerpt>
+          <fti-names>'-2':45 '0':47 '0/25':48 '25':34 'amend':35 'believ':12 'bishop':43 'broun':21 'cut':10 'deleg':5 'democrat':46 'five':13 'ga':24,44 'georgia':4 'includ':37 'introduc':17 'jason':49 'offer':39 'one':26,38 'pass':36 'paul':20 'r':23 'r-ga':22 'rep':19,28,41 'sanford':42 'spend':9 'stack':6 'three':31 'unfortun':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.jasonpye.com/2012/06/how-does-the-georgia-delegation-stack-up-on-spending-cuts/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGmXFMmk_8Ng9PuMBHGr8k3iRVmag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16058609</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jason</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:58-04:00</created-at>
+          <title>How does the Georgia delegation stack up on spending cuts ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>I believe five of them were introduced by Rep. Paul Broun (R-GA) and one by Rep. ... Unfortunately, only three of the 25 amendments passed, including one offered by Rep. ... Sanford Bishop, GA-2, Democratic, 0%, 0/25 ...</excerpt>
+          <fti-names>'-2':45 '0':47 '0/25':48 '25':34 'amend':35 'believ':12 'bishop':43 'broun':21 'cut':10 'deleg':5 'democrat':46 'five':13 'ga':24,44 'georgia':4 'includ':37 'introduc':17 'jason':49 'offer':39 'one':26,38 'pass':36 'paul':20 'r':23 'r-ga':22 'rep':19,28,41 'sanford':42 'spend':9 'stack':6 'three':31 'unfortun':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.peachpundit.com/2012/06/18/how-does-the-georgia-delegation-stack-up-on-spending-cuts/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNFcoIGz9ynlU4ZpyQJ5EJV0-hwFsQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16058608</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jason</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:57-04:00</created-at>
+          <title>CREW publishes its most corrupt politicians of 2011 list | MGx ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Rep. Hal Rogers (R-KY) Rep. Jean Schmidt (R-OH) Sen. David Vitter (R-LA) Rep. Joe Walsh (R-IL) Rep. Maxine Waters (D-CA) Rep. Joe Barton (R-TX) Rep. Shelley Berkley (D-NV) Rep. Sanford Bishop (D-GA) Rep.</excerpt>
+          <fti-names>'2011':8 'barton':43 'berkley':49 'bishop':55 'ca':40 'corrupt':5 'crew':1 'd':39,51,57 'd-ca':38 'd-ga':56 'd-nv':50 'david':24 'ga':58 'hal':12 'il':34 'jean':18 'joe':30,42 'ky':16 'la':28 'list':9 'magix':60 'maxin':36 'mgx':10 'nv':52 'oh':22 'politician':6 'publish':2 'r':15,21,27,33,45 'r-il':32 'r-ki':14 'r-la':26 'r-oh':20 'r-tx':44 'rep':11,17,29,35,41,47,53,59 'roger':13 'sanford':54 'schmidt':19 'sen':23 'shelley':48 'tx':46 'vitter':25 'walsh':31 'water':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mgx.com/blogs/2012/06/17/crew-publishes-its-most-corrupt-politicians-of-2011-list/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNEqNHaWxQ5_1UTzDA-j9PvPc7sH0A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-17T01:00:00-04:00</date>
+          <id type="integer">16058605</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>magix</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:58-04:00</created-at>
+          <title>Sanford Bishop&amp;#39;s &amp;#39;Ministry&amp;#39; of Service | Kiwanis Doco</title>
+          <contains-term>congress</contains-term>
+          <excerpt>&#8220;My ministry of public service is to make government user-friendly &#8220; said Congressman Sanford Bishop in his appearance before the Kiwanis Club of Dougherty County on June 11. Bishop said he is fortunate to have been ...</excerpt>
+          <fti-names>'11':37 'appear':27 'bishop':2,24,38 'club':31 'congressman':22 'counti':34 'doco':8 'dougherti':33 'fortun':42 'friend':20 'govern':17 'june':36 'kiwani':7,30 'make':16 'ministri':4,10 'public':12 'said':21,39 'sanford':1,23 'servic':6,13 'shiversd':46 'user':19 'user-friend':18</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://kiwanisdoco.com/sanford-bishops-ministry-of-service/&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNHPtSl4RryFljKymEm-IF-TrY8SqA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-12T01:00:00-04:00</date>
+          <id type="integer">16058607</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>shiversd</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:57-04:00</created-at>
+          <title>Kiwanis Club connects with Congressman : News : MySouthwestGA ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Updated with video; Congressman Sanford Bishop spoke at the Kiwanis Club Monday to better connect with the community. ... On Monday however, the group had a special guest, Congressman Sanford Bishop. While in ...</excerpt>
+          <fti-names>'better':21 'bishop':13,37 'club':2,18 'communiti':25 'congressman':5,11,35 'connect':3,22 'group':30 'guest':34 'howev':28 'kiwani':1,17 'matt':40 'monday':19,27 'mysouthwestga':7 'news':6 'prichard':41 'sanford':12,36 'special':33 'spoke':14 'updat':8 'video':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.mysouthwestga.com/news/story.aspx%3Fid%3D764343&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNGas7xVuGuD32mwcI1RtuTsPFUSHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-11T01:00:00-04:00</date>
+          <id type="integer">16058604</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Prichard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:58-04:00</created-at>
+          <title>2012 CBCF Summer Interns Named</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Brooke Hutchins, Rep. Chaka Fattah Bala, Cynwyd, PA, Georgetown University. Duane Jackson, Rep. Yvette Clarke, Brooklyn NY, Bates College. Ocoszio Jackson, Rep. Sanford Bishop Jr., Dublin GA, Morehouse College ...</excerpt>
+          <fti-names>'2012':1 'bala':11 'bate':23 'bishop':29 'brook':6 'brooklyn':21 'cbcf':2 'chaka':9 'clark':20 'colleg':24,34 'cynwyd':12 'duan':16 'dublin':31 'fattah':10 'ga':32 'georgetown':14 'hutchin':7 'intern':4 'jackson':17,26 'jr':30 'morehous':33 'name':5 'ny':22 'ocoszio':25 'pa':13 'rep':8,18,27 'report':38 'sanford':28 'staff':37 'summer':3 'univers':15 'web':36 'wi':35 'yvett':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washingtoninformer.com/index.php/us/item/11084-2012-cbcf-summer-interns-named&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNE9Gp7M0icm8yPzdhidrda08mvJDQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-05T01:00:00-04:00</date>
+          <id type="integer">16058610</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>WI Web Staff Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-06-19T22:33:57-04:00</created-at>
+          <title>Booker Rising: Rep. Sanford Bishop Jr. Touts Military Funding For ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It should be eliminated, as NASCAR can and should solely be funded by private sponsors. From Forbes: &amp;quot;NASCAR&amp;#39;s viewership is on the rebound, but one of the sport&amp;#39;s biggest sponsors appears to be on the way out.</excerpt>
+          <fti-names>'appear':43 'biggest':41 'bishop':5 'booker':1 'elimin':14 'forb':27 'fund':9,22 'jr':6 'militari':8 'nascar':16,28 'one':36 'privat':24 'rebound':34 'rep':3 'riley':51 'rise':2 'sanford':4 'shay':50 'sole':20 'sponsor':25,42 'sport':39 'tout':7 'viewership':30 'way':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bookerrising.net/2012/05/rep-sanford-bishop-jr-touts-military.html&amp;sa=U&amp;ei=lDbhT-OhD4GU2AXbkO3SCw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNGMlZy9vsN95xxbBn0ZMIqr30cgjA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-21T01:00:00-04:00</date>
+          <id type="integer">16058603</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Shay Riley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400030</commentariable-id>
+          <created-at type="datetime">2012-04-07T11:27:31-04:00</created-at>
+          <title>Nancy Pelosi on Simpson Bowles Video</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Sanford Bishop Says No to Nancy Pelosi. Sanford Bishop particularly acknowledged that he has nothing at all in opposition to Nancy Pelosi, but he also said that he will not be supporting her as a candidate for the leader of Democrats.</excerpt>
+          <fti-names>'acknowledg':17 'also':31 'bishop':8,15 'bowl':5 'candid':42 'democrat':47 'leader':45 'nanci':1,12,27 'noth':21 'opposit':25 'particular':16 'pelosi':2,13,28 'said':32 'sanford':7,14 'say':9 'simpson':4 'support':38 'video':6 'video.ezinemark.com':48</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://video.ezinemark.com/nancy-pelosi-on-simpson-bowles-beeb707a364.html&amp;sa=U&amp;ei=4VyAT4GsCun22gXrifzjBg&amp;ved=0CFUQmAEwCg&amp;usg=AFQjCNFNsFPtoBfz4xuWxL4juoiFb-YwEQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-06T01:00:00-04:00</date>
+          <id type="integer">14210489</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://video.ezinemark.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22091</page-views-count>
+      <unaccented-name>Sanford Bishop</unaccented-name>
+      <oc-user-comments type="integer">6</oc-user-comments>
+    </person>
+  </people>
+</hash>

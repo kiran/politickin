@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:02:35-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.1611721611722</party-votes-percentage>
+        <abstains-percentage type="float">20.5933682373473</abstains-percentage>
+        <votes-most-often-with-id type="integer">412275</votes-most-often-with-id>
+        <entered-top-blog type="datetime">2007-07-13T11:47:25-04:00</entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">64</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">406</cosponsored-bills-passed-rank>
+        <abstains type="integer">354</abstains>
+        <cosponsored-bills type="integer">171</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">172</party-votes-percentage-rank>
+        <sponsored-bills type="integer">9</sponsored-bills>
+        <votes-least-often-with-id type="integer">400263</votes-least-often-with-id>
+        <person-id type="integer">412216</person-id>
+        <cosponsored-bills-rank type="integer">152</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400209</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">160</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">6</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400645</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1258</votes-republican-position>
+      <blog-article-count type="integer">19613</blog-article-count>
+      <user-approval type="float">4.20746887966805</user-approval>
+      <url nil="true"></url>
+      <biography nil="true"></biography>
+      <oc-users-tracking type="integer">358</oc-users-tracking>
+      <contact-webform>http://bachmann.house.gov/Email_zip.htm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.1611721611722</with-party-percentage>
+      <metavid-id>Michelle_Marie_Bachmann</metavid-id>
+      <lastname>Bachmann</lastname>
+      <congress-office>103 Cannon House Office Building</congress-office>
+      <firstname>Michele</firstname>
+      <website>http://bachmann.house.gov/</website>
+      <youtube-id>RepMicheleBachmann</youtube-id>
+      <birthday type="date">1956-04-06</birthday>
+      <person-id type="integer">412216</person-id>
+      <phone>202-225-2331</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">268</votes-democratic-position>
+      <fax>202-225-6475</fax>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:29:39-04:00</created-at>
+          <title>Five Races to Watch in Tuesday's primaries</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...race, it&#8217;s Rep. Todd Akin, a six-term congressman who is endorsed by former Arkansas Gov. Mike Huckabee and Minnesota Rep. Michele Bachmann. But an ad by McCaskill, which brands Akin as &#8220;Missouri&#8217;s true conservative,&#8221; has provided a last-minute </excerpt>
+          <fti-names>'ad':36 'akin':14,41 'angel':54 'arkansa':25 'bachmann':33 'brand':40 'congressman':19 'conserv':46 'endors':22 'five':1 'former':24 'gov':26 'huckabe':28 'last':51 'last-minut':50 'los':53 'mccaskil':38 'michel':32 'mike':27 'minnesota':30 'minut':52 'missouri':43 'primari':8 'provid':48 'race':2,9 'rep':12,31 'six':17 'six-term':16 'term':18 'time':55 'todd':13 'true':45 'tuesday':6 'watch':4</fti-names>
+          <source-url>http://www.latimes.com/</source-url>
+          <url>http://feeds.latimes.com/~r/latimes/news/politics/~3/uPVkQA_n_3k/la-pn-races-primaries-20120807,0,3130925.story</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973281</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Los Angeles Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:20-04:00</created-at>
+          <title>Democrats and double standards: Harry Reid and Nancy Pelosi double down on unsubstantiated rumor</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the 2012 Republican primary, Rep. Michele Bachmann committed many errors, but her worst offense was probably going on TV to lodge an unsubstantiated attack against Texas Gov. Rick Perry. As you might recall, Perry had once supported mandating teenage gi</excerpt>
+          <fti-names>'2012':16 'attack':38 'bachmann':21 'commit':22 'democrat':1 'doubl':3,10 'error':24 'file':56 'gi':54 'go':31 'gov':41 'harri':5 'kaus':55 'lodg':35 'mandat':52 'mani':23 'michel':20 'might':46 'nanci':8 'offens':28 'pelosi':9 'perri':43,48 'primari':18 'probabl':30 'recal':47 'reid':6 'rep':19 'republican':17 'rick':42 'rumor':14 'standard':4 'support':51 'teenag':53 'texa':40 'tv':33 'unsubstanti':13,37 'worst':27</fti-names>
+          <source-url>http://dailycaller.com/kausfiles/</source-url>
+          <url>http://dailycaller.com/2012/08/06/democrats-and-double-standards-harry-reid-and-nancy-pelosi-double-down-on-unsubstantiated-rumor/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972695</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Kaus Files</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:29:18-04:00</created-at>
+          <title>Bachmann Joins Anti-Gay Hate Group</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Michele Bachmann has joined the board of directors of the virulently anti-gay Thomas More Law Center, which has litigated against numerous LGBT rights ordinances. Here's their crowing press release: &quot;We are honored to have the counsel of a tough, tested</excerpt>
+          <fti-names>'anti':4,20 'anti-gay':3,19 'bachmann':1,9 'board':13 'center':25 'counsel':46 'crow':37 'director':15 'gay':5,21 'god':53 'group':7 'hate':6 'honor':42 'joe':51 'join':2,11 'law':24 'lgbt':31 'litig':28 'michel':8 'numer':30 'ordin':33 'press':38 'releas':39 'right':32 'test':50 'thoma':22 'tough':49 'virul':18</fti-names>
+          <source-url>http://www.joemygod.blogspot.com/</source-url>
+          <url>http://joemygod.blogspot.com/2012/08/bachmann-joins-anti-gay-hate-group.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972694</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Joe. My. God.</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:28:50-04:00</created-at>
+          <title>Ed Rendell Begs Romney to Pick Bachmann for VP</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Gov. Ed Rendell (D) on Sunday advised presumptive Republican presidential nominee Mitt Romney to pick tea party favorite Rep. Michele Bachmann (R-MN) as his running mate. During a panel discussion about Romney's selection for the Republican ticket, CBS </excerpt>
+          <fti-names>'advis':16 'bachmann':7,30 'beg':3 'cafe':52 'cbs':50 'd':13 'discuss':41 'ed':1,11 'favorit':27 'gov':10 'mate':37 'michel':29 'mitt':21 'mn':33 'nomine':20 'panel':40 'parti':26 'pick':6,24 'presidenti':19 'presumpt':17 'r':32 'r-mn':31 'rendel':2,12 'rep':28 'republican':18,48 'romney':4,22,43 'run':36 'select':45 'sunday':15 'tea':25 'ticket':49 'video':51 'vp':9</fti-names>
+          <source-url>http://videocafe.crooksandliars.com/</source-url>
+          <url>http://crooksandliars.com/david/ed-rendell-begs-romney-pick-bachmann-vp</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972405</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Video Cafe</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:29:02-04:00</created-at>
+          <title>Michele Bachmann joins board of Ann Arbor-based Christian activists</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Rep. Michele Bachmann, R-Minn., was named Thursday to the citizens advisory board of an Ann Arbor-based legal center that fights for conservative Christian causes. The appointment of Bachmann, who dropped out of the presidential primary in January, brin</excerpt>
+          <fti-names>'activist':11 'advisori':24 'ann':6,28 'appoint':41 'arbor':8,30 'arbor-bas':7,29 'bachmann':2,14,43 'base':9,31 'board':4,25 'brin':53 'caus':39 'center':33 'christian':10,38 'citizen':23 'conserv':37 'detroit':54 'drop':45 'fight':35 'free':55 'januari':52 'join':3 'legal':32 'michel':1,13 'minn':17 'name':19 'presidenti':49 'press':56 'primari':50 'r':16 'r-minn':15 'rep':12 'thursday':20</fti-names>
+          <source-url>http://www.freep.com/apps/pbcs.dll/frontpage</source-url>
+          <url>http://www.freep.com/article/20120804/NEWS05/308040070</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972114</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Detroit Free Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:29:02-04:00</created-at>
+          <title>Michele Bachmann joins board of Ann Arbor-based Christian activists</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Detroit Free Press August 4, 2012 By Niraj Warikoo Detroit Free Press Staff Writer U.S. Rep. Michele Bachmann, R-Minn., was named Thursday to the citizens advisory board of an Ann Arbor-based legal center that fights for conservative Christian causes. T</excerpt>
+          <fti-names>'2012':17 '4':16 'activist':11 'advisori':39 'ann':6,43 'arbor':8,45 'arbor-bas':7,44 'august':15 'bachmann':2,29 'base':9,46 'board':4,40 'caus':54 'center':48 'christian':10,53 'citizen':38 'conserv':52 'democrat':56 'detroit':12,21 'fight':50 'free':13,22 'join':3 'legal':47 'michel':1,28 'minn':32 'name':34 'niraj':19 'press':14,23 'r':31 'r-minn':30 'rep':27 'staff':24 'thursday':35 'u.s':26 'underground':57 'warikoo':20 'writer':25</fti-names>
+          <source-url>http://www.democraticunderground.com/</source-url>
+          <url>http://www.democraticunderground.com/1014185253</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972113</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Democratic Underground</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:30:36-04:00</created-at>
+          <title>The Daily Digest (Verso won't rebuild, abortion battle surfaces in the 8th, Congress focuses on drought)</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a false billing suit with the federal government. A former National Security Council member writes an op-ed saying GOP Rep. Michele Bachmann's comments regarding the federal government and the Muslim Brotherhood is the poison of public innuendo. Race fo</excerpt>
+          <fti-names>'8th':13 'abort':8 'bachmann':41 'battl':9 'bill':20 'brotherhood':51 'comment':43 'congress':14 'council':30 'daili':2 'digest':3 'drought':17 'ed':36 'fals':19 'feder':24,46 'fo':59 'focus':15 'former':27 'gop':38 'govern':25,47 'innuendo':57 'member':31 'michel':40 'minnesota':61 'mpr':60 'muslim':50 'nation':28 'op':35 'op-':34 'poison':54 'public':56,62 'race':58 'radio':63 'rebuild':7 'regard':44 'rep':39 'say':37 'secur':29 'suit':21 'surfac':10 'verso':4 'won':5 'write':32</fti-names>
+          <source-url>http://www.mpr.org/</source-url>
+          <url>http://minnesota.publicradio.org/collections/special/columns/polinaut/archive/2012/08/the_daily_diges_1345.shtml?refid=0</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971451</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MPR | Minnesota Public Radio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:30:35-04:00</created-at>
+          <title>Mitt Romney: Michele Bachmann's Muslim Brotherhood Claims Are 'Not Part Of My Campaign'</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Romney declined to speak out against Rep. Michele Bachmann (R-Minn.) and four other House Republicans on Friday for seeking to investigate whether Huma Abedin, a top aide to Hillary Clinton, has ties to the Muslim Brotherhood. Following a campaign event</excerpt>
+          <fti-names>'abedin':40 'aid':43 'bachmann':4,23 'brotherhood':7,52 'campaign':14,55 'claim':8 'clinton':46 'declin':16 'event':56 'follow':53 'four':28 'friday':33 'hillari':45 'hous':30 'huffington':58 'huma':39 'investig':37 'michel':3,22 'minn':26 'mitt':1 'muslim':6,51 'part':11 'post':59 'r':25 'r-minn':24 'rep':21 'republican':31 'romney':2,15 'seek':35 'speak':18 'tie':48 'top':42 'whether':38</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/03/mitt-romney-michele-bachmann-muslim-brotherhood_n_1738585.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971450</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:30:31-04:00</created-at>
+          <title>Rep. Keith Ellison Responds to Michele Bachmann's Terrorist Accusations With Document Of His Own</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...weeks after Michele Bachmann released a 16-page-letter warning that the Muslim Brotherhood had infiltrated the U.S. government--and that it had ties to her fellow Minnesota Rep. Keith Ellison--the Democratic congressman responded with a lengthy document</excerpt>
+          <fti-names>'16':22 'accus':10 'bachmann':7,19 'brotherhood':30 'congressman':50 'democrat':49 'document':12,55 'ellison':3,47 'fellow':43 'govern':35 'infiltr':32 'keith':2,46 'lengthi':54 'letter':25 'michel':6,18 'minnesota':44 'muslim':29 'news':57 'page':24 'page-lett':23 'releas':20 'rep':1,45 'report':59 'respond':4,51 'terrorist':9 'tie':40 'u.s':34,56 'warn':26 'week':16 'world':58</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/blogs/washington-whispers/2012/8/3/rep-keith-ellison-responds-to-michele-bachmanns-terrorist-accusations-with-document-of-his-own-?s_cid=rss:washington-whispers:rep-keith-ellison-responds-to-michele-bachmanns-terrorist-accusations-w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971449</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-08-02T22:32:55-04:00</created-at>
+          <title>Democrat Jim Graves lists $64K in contributions in bid to unseat Michele Bachmann</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...developer Jim Graves brought in just under $64,000 in contributions last month in his bid to unseat Republican U.S. Rep. Michele Bachmann. That's according to Graves's latest campaign finance filing posted Tuesday, Aug. 2. Bachmann raised just over $1 m</excerpt>
+          <fti-names>'000':22 '1':55 '2':50 '64':21 '64k':5 'accord':39 'aug':49 'bachmann':13,36,51 'bid':9,29 'brought':17 'campaign':44 'contribut':7,24 'democrat':1 'develop':14 'file':46 'financ':45 'grave':3,16,41 'jim':2,15 'last':25 'latest':43 'list':4 'm':56 'michel':12,35 'month':26 'post':47 'rais':52 'rep':34 'republican':32 'tuesday':48 'twincities.com':57 'u.s':33 'unseat':11,31</fti-names>
+          <source-url>http://www.twincities.com/</source-url>
+          <url>http://www.twincities.com/news/ci_21222394/democrat-jim-graves-lists-64k-contributions-bid-unseat?source=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16970367</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>TwinCities.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Michele Bachmann [R, MN-6]</name>
+      <total-session-votes type="integer">1365</total-session-votes>
+      <watchdog-id nil="true"></watchdog-id>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>6</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:29:54-04:00</created-at>
+          <title>Bachmann&amp;#39;s Muslim Brotherhood Concerns In Obama Administration</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Don&amp;#39;t drop last week&amp;#39;s controversial headlines regarding U.S. Rep. Michele Bachmann and four other GOP House members who said that President Barack Obama&amp;#39;s administration has connections to the Muslim Brotherhood ...</excerpt>
+          <fti-names>'administr':8,35 'bachmann':1,21 'barack':32 'brotherhood':4,41 'concern':5 'connect':37 'controversi':15 'drop':11 'four':23 'gop':25 'headlin':16 'hous':26 'last':12 'member':27 'michel':20 'mreal197':42 'muslim':3,40 'obama':7,33 'presid':31 'regard':17 'rep':19 'said':29 'u.s':18 'week':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://washington.cbslocal.com/2012/07/30/bachmanns-muslim-brotherhood-concerns-in-obama-administration-shouldnt-be-silenced/&amp;sa=U&amp;ei=IEMXULK7O-jm0QGwwYCQCA&amp;ved=0CDoQmAEwBw&amp;usg=AFQjCNGbTxDO1rN6Ve7oxXB-rAEseB1kTg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959237</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>mreal197</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:29:54-04:00</created-at>
+          <title>US Representative Michele Bachmann in St. Michael Today - St ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Michele Bachman will be visiting Marksman Metals in St. Michael today.</excerpt>
+          <fti-names>'/articles/lifes-a-dance-for-sister-act':23 'bachman':11 'bachmann':4 'marksman':15 'metal':16 'michael':7,19 'michel':3,10 'repres':2 'st':6,9,18 'stmichael.patch.com':22 'stmichael.patch.com/articles/lifes-a-dance-for-sister-act':21 'today':8,20 'us':1 'visit':14</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://stmichael.patch.com/articles/us-representative-michele-bachmann-in-st-michael-today&amp;sa=U&amp;ei=IEMXULK7O-jm0QGwwYCQCA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEl6Tw_zc2mt0pxpwlQyMJLugBF_Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959235</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://stmichael.patch.com/articles/lifes-a-dance-for-sister-act</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:29:53-04:00</created-at>
+          <title>In defense of Michele Bachmann, Muslim Brotherhood probes ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... to CUFI: Obama abetting Muslim &#8230; Breaking Trends Here&amp;#39;s a speech by Congresswoman Michele Bachmann (R-Mn) in which she demolishes the Obama administration for its support of the Muslim Brotherhood against .</excerpt>
+          <fti-names>'abet':12 'administr':33 'bachmann':5,23 'blog':43 'break':14 'brotherhood':7,40 'congresswoman':21 'cufi':10 'defens':2 'demolish':30 'editor':44 'michel':4,22 'mn':26 'muslim':6,13,39 'obama':11,32 'polit':42 'probe':8 'r':25 'r-mn':24 'speech':19 'support':36 'trend':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://americanpoliticalblogs.com/2012/07/in-defense-of-michele-bachmann-muslim-brotherhood-probes/&amp;sa=U&amp;ei=IEMXULK7O-jm0QGwwYCQCA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFbi2xJWtT0WfcZ3rYKA6N8HLtr7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16959234</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Political Blog Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:29:55-04:00</created-at>
+          <title>Breaking: Former AG Ed Meese Signs Letter Supporting Rep. Michele</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>About time! Reagan-era Attorney General Edwin Meese has joined a long list of conservative heavyweights today, in support of Rep. Michele Bachmann&amp;#39;s.</excerpt>
+          <fti-names>'ag':3 'attorney':16 'bachmann':34 'break':1 'conserv':26 'ed':4 'edwin':18 'era':15 'former':2 'general':17 'heavyweight':27 'herbieheadley':36 'join':21 'letter':7 'list':24 'long':23 'mees':5,19 'michel':10,33 'reagan':14 'reagan-era':13 'rep':9,32 'sign':6 'support':8,30 'time':12 'today':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.christianforums.com/t7675799/&amp;sa=U&amp;ei=IEMXULK7O-jm0QGwwYCQCA&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNFJQQAqOhuXnSZwCFDX5-lHFX0AcA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16959239</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>HerbieHeadley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:52-04:00</created-at>
+          <title>Breaking: Former AG Ed Meese Signs Letter Supporting Rep. Michele</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>About time! Reagan-era Attorney General Edwin Meese has joined a long list of conservative heavyweights today, in support of Rep. Michele Bachmann&amp;#39;s.</excerpt>
+          <fti-names>'ag':3 'attorney':16 'bachmann':34 'break':1 'conserv':26 'ed':4 'edwin':18 'era':15 'former':2 'general':17 'heavyweight':27 'herbieheadley':36 'join':21 'letter':7 'list':24 'long':23 'mees':5,19 'michel':10,33 'reagan':14 'reagan-era':13 'rep':9,32 'sign':6 'support':8,30 'time':12 'today':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.christianforums.com/t7675799/&amp;sa=U&amp;ei=PvMVUL3cL4Xw0gHP5IGwCQ&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNERu9Q9Tlw8hw3wLws4C9hqmsl8Vg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16944789</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>HerbieHeadley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:31:23-04:00</created-at>
+          <title>Tania Beck, Michele Bachmann, Betsy Morgan, Diana Hagee and ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It was only fitting, then, that the day&amp;#39;s speakers, which included Rep. Michele Bachmann and Diana Hagee, the wife of Pastor John Hagee, be introduced by TheBlaze President Betsy Morgan, and hosted by Tania Beck and ...</excerpt>
+          <fti-names>'bachmann':4,24 'beck':2,45 'betsi':5,39 'day':17 'diana':7,26 'fit':13 'gabbay':48 'hage':8,27,33 'host':42 'includ':21 'introduc':35 'john':32 'michel':3,23 'morgan':6,40 'pastor':31 'presid':38 'rep':22 'speaker':19 'tania':1,44 'theblaz':37 'tiffani':47 'wife':29</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theblaze.com/stories/a-collection-of-wisdom-from-inspirational-women-gathered-at-restoring-love-womens-conference/&amp;sa=U&amp;ei=daAUUJeMEZSx0AHi2oHQCQ&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNEqr8RvHGCD6VTH3wphTH2uewxTUA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928770</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tiffany Gabbay</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:31:18-04:00</created-at>
+          <title>Breaking: Former AG Ed Meese Signs Letter Supporting Rep. Michele</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>About time! Reagan-era Attorney General Edwin Meese has joined a long list of conservative heavyweights today, in support of Rep. Michele Bachmann&amp;#39;s.</excerpt>
+          <fti-names>'ag':3 'attorney':16 'bachmann':34 'break':1 'conserv':26 'ed':4 'edwin':18 'era':15 'former':2 'general':17 'heavyweight':27 'herbieheadley':36 'join':21 'letter':7 'list':24 'long':23 'mees':5,19 'michel':10,33 'reagan':14 'reagan-era':13 'rep':9,32 'sign':6 'support':8,30 'time':12 'today':28</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.christianforums.com/t7675799/&amp;sa=U&amp;ei=daAUUJeMEZSx0AHi2oHQCQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNEIW58FqHPJAmvq3V2cQJN8gy0jxw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16928765</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>HerbieHeadley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-30T22:29:54-04:00</created-at>
+          <title>Coleman, Kline Join Criticism Of Michele Bachmann &#171; CBS Minnesota</title>
+          <contains-term>republican</contains-term>
+          <excerpt>(AP) &#8211; Add two Republicans to the chorus questioning U.S. Rep. Michele Bachmann&amp;#39;s call for an investigation of a State Department employee. U.S. Rep. John Kline and former Sen. Norm Coleman say Bachmann stepped ...</excerpt>
+          <fti-names>'add':11 'ap':10 'bachmann':7,21,42 'call':23 'cbs':8 'chorus':16 'coleman':1,40 'critic':4 'depart':30 'employe':31 'eric':44 'former':37 'henderson':45 'investig':26 'john':34 'join':3 'kline':2,35 'michel':6,20 'minnesota':9 'norm':39 'question':17 'rep':19,33 'republican':13 'say':41 'sen':38 'state':29 'step':43 'two':12 'u.s':18,32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://minnesota.cbslocal.com/2012/07/27/coleman-kline-join-criticism-of-michele-bachmann/&amp;sa=U&amp;ei=IEMXULK7O-jm0QGwwYCQCA&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNHQ6-gpxosa4wqlol5r3HG8mtbWjw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16959238</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric Henderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-29T22:36:52-04:00</created-at>
+          <title>Coleman, Kline Join Criticism Of Michele Bachmann &#171; CBS Minnesota</title>
+          <contains-term>republican</contains-term>
+          <excerpt>(AP) &#8211; Add two Republicans to the chorus questioning U.S. Rep. Michele Bachmann&amp;#39;s call for an investigation of a State Department employee. U.S. Rep. John Kline and former Sen. Norm Coleman say Bachmann stepped ...</excerpt>
+          <fti-names>'add':11 'ap':10 'bachmann':7,21,42 'call':23 'cbs':8 'chorus':16 'coleman':1,40 'critic':4 'depart':30 'employe':31 'eric':44 'former':37 'henderson':45 'investig':26 'john':34 'join':3 'kline':2,35 'michel':6,20 'minnesota':9 'norm':39 'question':17 'rep':19,33 'republican':13 'say':41 'sen':38 'state':29 'step':43 'two':12 'u.s':18,32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://minnesota.cbslocal.com/2012/07/27/coleman-kline-join-criticism-of-michele-bachmann/&amp;sa=U&amp;ei=PvMVUL3cL4Xw0gHP5IGwCQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGNwKYKkf94lb-WW6PXB2YQgDCcGA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16944790</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Eric Henderson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412216</commentariable-id>
+          <created-at type="datetime">2012-07-28T22:31:23-04:00</created-at>
+          <title>Representative Michele Bachmann endangers religious freedom ...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>Representative Michele Bachmann endangers religious freedom, claim liberal religious and secular groups | For Purity and Tradition in Catholicism.</excerpt>
+          <fti-names>'bachmann':3,9 'catholic':24 'claim':13 'endang':4,10 'freedom':6,12 'group':18 'liber':14 'michel':2,8 'puriti':20 'religi':5,11,15 'repres':1,7 'secular':17 'tom':25 'tradit':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://angelqueen.org/2012/07/27/representative-michele-bachmann-endangers-religious-freedom-claim-liberal-religious-and-secular-groups/&amp;sa=U&amp;ei=daAUUJeMEZSx0AHi2oHQCQ&amp;ved=0CFAQmAEwCw&amp;usg=AFQjCNE9R819izPHc1rftwb_8CIxHejfpg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16928771</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tom</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <bioguide-id>B001256</bioguide-id>
+      <page-views-count type="integer">54134</page-views-count>
+      <unaccented-name>Michele Bachmann</unaccented-name>
+      <middlename nil="true"></middlename>
+      <oc-user-comments type="integer">17</oc-user-comments>
+    </person>
+  </people>
+</hash>

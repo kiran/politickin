@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">57.1177504393673</party-votes-percentage>
+        <abstains-percentage type="float">0.698080279232112</abstains-percentage>
+        <votes-most-often-with-id type="integer">400645</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">354</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">303</cosponsored-bills-passed-rank>
+        <abstains type="integer">12</abstains>
+        <cosponsored-bills type="integer">247</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">273</party-votes-percentage-rank>
+        <sponsored-bills type="integer">29</sponsored-bills>
+        <votes-least-often-with-id type="integer">412438</votes-least-often-with-id>
+        <person-id type="integer">400345</person-id>
+        <cosponsored-bills-rank type="integer">199</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400237</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">333</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400061</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">1083</votes-republican-position>
+      <blog-article-count type="integer">9266</blog-article-count>
+      <fax>202-225-1314</fax>
+      <user-approval type="float">3.18181818181818</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">162</oc-users-tracking>
+      <bioguide-id>R000573</bioguide-id>
+      <contact-webform>http://ross.house.gov/?sectionid=77&amp;sectiontree=76,77</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">57.1177504393673</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Ross</lastname>
+      <congress-office>2436 Rayburn House Office Building</congress-office>
+      <middlename nil="true"></middlename>
+      <firstname>Mike</firstname>
+      <website>http://ross.house.gov/</website>
+      <birthday type="date">1961-09-01</birthday>
+      <person-id type="integer">400345</person-id>
+      <phone>202-225-3772</phone>
+      <religion>Methodist</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">975</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:54:12-04:00</created-at>
+          <title>Tom Cotton: Too busy to talk about 2014</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...against incumbent Democratic Sen. Mark Pryor. Then there's Tom Cotton, the Republican candidate to succeed quasi-Republican Mike Ross in the 4th District. Already, people all over are talking him up as a Senate candidate in 2014, talk that began at leas</excerpt>
+          <fti-names>'2014':8,47 '4th':32 'alreadi':34 'arkansa':53 'began':50 'busi':4 'candid':22,45 'cotton':2,19 'democrat':11 'district':33 'incumb':10 'lea':52 'mark':13 'mike':28 'peopl':35 'pryor':14 'quasi':26 'quasi-republican':25 'republican':21,27 'ross':29 'sen':12 'senat':44 'succeed':24 'talk':6,39,48 'time':54 'tom':1,18</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/08/07/tom-cotton-too-busy-to-talk-about-2014</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973568</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:01:54-04:00</created-at>
+          <title>Hog ties ignite foreign camaraderie</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...drug interdiction efforts. They are scheduled to return Monday. Pryor said each member of the state&#8217;s delegation was invited on the trip but Rep. Mike Ross, a Democrat, and Reps. Tim Griffin and Steve Womack, both Republicans, had scheduling conflicts</excerpt>
+          <fti-names>'arkansa':47 'camaraderi':5 'conflict':46 'deleg':23 'democrat':34 'drug':6 'effort':8 'foreign':4 'griffin':38 'hog':1 'ignit':3 'interdict':7 'invit':25 'member':18 'mike':31 'monday':14 'onlin':48 'pryor':15 'rep':30,36 'republican':43 'return':13 'ross':32 'said':16 'schedul':11,45 'state':21 'steve':40 'tie':2 'tim':37 'trip':28 'womack':41</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/04/hog-ties-ignite-foreign-camaraderie-20120804/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972257</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:01:22-04:00</created-at>
+          <title>Panel OKs No More Solyndras bill</title>
+          <contains-term>republican</contains-term>
+          <excerpt>House Energy and Commerce Committee Republicans approved their No More Solyndras Act on Wednesday, capping off a nearly 18-month investigation into the Energy Department&#8217;s loan guarantee program. The bill passed in a 29-19 vote, a far more comfortable ma</excerpt>
+          <fti-names>'-19':42 '18':25 '29':41 'act':18 'approv':13 'bill':6,37 'cap':21 'comfort':47 'commerc':10 'committe':11 'depart':31 'energi':8,30 'far':45 'guarante':34 'hous':7 'investig':27 'loan':33 'ma':48 'month':26 'near':24 'ok':2 'panel':1 'pass':38 'politico':50 'program':35 'republican':12 'solyndra':5,17 'vote':43 'wednesday':20</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0812/79295.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970918</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:01:22-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Gerry Connolly (D-Va.), photographed in November 2010. (Alex Brandon - ASSOCIATED PRESS) The Republican-led House of Representatives voted Wednesday to extend expiring George W. Bush-era tax cuts at all income levels for another year. With Congress </excerpt>
+          <fti-names>'2010':20 'alex':21 'anoth':49 'associ':23 'brandon':22 'bush':40 'bush-era':39 'congress':52 'connolli':13 'cut':9,43 'd':15 'd-va':14 'democrat':2 'era':41 'expir':36 'extend':35 'georg':37 'gerri':12 'hous':6,29 'incom':46 'led':28 'level':47 'novemb':19 'photograph':17 'plan':10 'post':55 'press':24 'rep':11 'repres':31 'republican':7,27 'republican-l':26 'tax':8,42 'va':16 'vote':3,32 'w':38 'washington':54 'wednesday':33 'year':50</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=f784e99a384fa409bf5dda8d825f451a</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970917</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-03T02:01:13-04:00</created-at>
+          <title>Which Democrats voted for the House Republican tax cut plan?</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Gerry Connolly (D-Va.), photographed in November 2010. (Alex Brandon - ASSOCIATED PRESS) The Republican-led House of Representatives voted Wednesday to extend expiring George W. Bush-era tax cuts at all income levels for another year. With Congress </excerpt>
+          <fti-names>'2010':20 'alex':21 'anoth':49 'associ':23 'brandon':22 'bush':40 'bush-era':39 'congress':52 'connolli':13 'cut':9,43 'd':15 'd-va':14 'democrat':2 'era':41 'expir':36 'extend':35 'georg':37 'gerri':12 'hous':6,29 'incom':46 'led':28 'level':47 'novemb':19 'photograph':17 'plan':10 'post':55 'press':24 'rep':11 'repres':31 'republican':7,27 'republican-l':26 'tax':8,42 'va':16 'vote':3,32 'w':38 'washington':54 'wednesday':33 'year':50</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=17cf6a8e5fd6c5ff6b29229d76c98a55</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970916</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:56:21-04:00</created-at>
+          <title>Ross to give Aug. 10 talk to Political Animals Club</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...ROCK  U.S. Rep. Mike Ross will address the Political Animals Club of Little Rock&#8217;s Aug. 10 meeting at a breakfast at 7 a.m. at the Wyndham Riverfront-Little Rock 2 Riverfront Place, North Little Rock. He will look back on his political career, includi</excerpt>
+          <fti-names>'10':5,27 '2':42 '7':33 'a.m':34 'address':17 'anim':9,20 'arkansa':57 'aug':4,26 'back':51 'breakfast':31 'career':55 'club':10,21 'give':3 'includi':56 'littl':23,40,46 'look':50 'meet':28 'mike':14 'north':45 'onlin':58 'place':44 'polit':8,19,54 'rep':13 'riverfront':39,43 'riverfront-littl':38 'rock':11,24,41,47 'ross':1,15 'talk':6 'u.s':12 'wyndham':37</fti-names>
+          <source-url>http://www.arkansasonline.com/</source-url>
+          <url>http://www.arkansasonline.com/news/2012/aug/01/ross-give-aug-10-talk-political-animals-c-20120801/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969953</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:28:50-04:00</created-at>
+          <title>Candidate Herb Rule: Griffin legislation a 'farce'</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...a former Republican congressman and a former economist for the Reagan and Bush 1 administration. I did note that DINO Rep. Mike Ross, already hard at work as a quasi-lobbyist for the electric power industry, threw in with a dozen other DINOs to vote for</excerpt>
+          <fti-names>'1':21 'administr':22 'alreadi':31 'arkansa':55 'bush':20 'candid':1 'congressman':11 'dino':27,51 'dozen':49 'economist':15 'electr':42 'farc':7 'former':9,14 'griffin':4 'hard':32 'herb':2 'industri':44 'legisl':5 'lobbyist':39 'mike':29 'note':25 'power':43 'quasi':38 'quasi-lobbyist':37 'reagan':18 'rep':28 'republican':10 'ross':30 'rule':3 'threw':45 'time':56 'vote':53 'work':34</fti-names>
+          <source-url>http://www.arktimes.com/</source-url>
+          <url>http://www.arktimes.com/ArkansasBlog/archives/2012/07/27/candidate-herb-rule-griffin-legislation-a-farce</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-27T01:00:00-04:00</date>
+          <id type="integer">16923490</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-27T00:36:09-04:00</created-at>
+          <title>Six Arkansas counties get DOJ grants</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Mark Pryor, D-Ark., Sen. John Boozman, Rep. Rick Crawford, R-Jonesboro, Rep. Tim Griffin, R-Little Rock, and Rep. Mike Ross, D-Prescott, announced the grants today.</excerpt>
+          <fti-names>'announc':36 'ark':12 'arkansa':2,40 'boozman':15 'bureau':42 'counti':3 'crawford':18 'd':11,34 'd-ark':10 'd-prescott':33 'doj':5 'get':4 'grant':6,38 'griffin':24 'john':14 'jonesboro':21 'littl':27 'mark':8 'mike':31 'news':41 'prescott':35 'pryor':9 'r':20,26 'r-jonesboro':19 'r-littl':25 'rep':16,22,30 'rick':17 'rock':28 'ross':32 'sen':7,13 'six':1 'tim':23 'today':39</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://arkansasnews.com/2012/07/26/six-arkansas-counties-get-doj-grants/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T12:30:42-04:00</date>
+          <id type="integer">16892519</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas News Bureau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:29:49-04:00</created-at>
+          <title>StephenCLE's House Ratings - Part 4</title>
+          <contains-term>representative</contains-term>
+          <excerpt>James Clyburn is the representative here, and at D+17 ... (his colleague John Barrow and AR-4&#8217;s Mike Ross are literally the only other ones I can think of). Perhaps because of this show of electoral strength, Bishop&#8217;s district was made ...</excerpt>
+          <fti-names>'+17':16 '-4':23 '4':6 'ar':22 'barrow':20 'bishop':45 'clyburn':8 'colleagu':18 'd':15 'daili':50 'district':47 'elector':43 'hous':3 'jame':7 'john':19 'kos':51 'liter':28 'made':49 'mike':25 'one':32 'part':5 'perhap':37 'rate':4 'repres':11 'ross':26 'show':41 'stephencl':1 'strength':44 'think':35</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.dailykos.com/story/2012/07/26/1113841/-StephenCLE-s-House-Ratings-Part-4</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T11:04:48-04:00</date>
+          <id type="integer">16930920</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>DAILY KOS</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-29T03:29:48-04:00</created-at>
+          <title>Griffin anti-regulation bill clears House</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON &#8212; U.S. Rep. Tim Griffin, R-Little Rock ... Steve Womack, R-Rogers, Rick Crawford, R-Jonesboro, and Mike Ross, D-Prescott, voted in favor of the bill that has been endorsed by the Arkansas State Chamber of Commerce-Associated ...</excerpt>
+          <fti-names>'anti':3 'anti-regul':2 'arkansa':45,52 'associ':51 'bill':5,38 'bureau':54 'chamber':47 'clear':6 'commerc':50 'commerce-associ':49 'crawford':23 'd':31 'd-prescott':30 'endors':42 'favor':35 'griffin':1,12 'hous':7 'jonesboro':26 'littl':15 'mike':28 'news':53 'prescott':32 'r':14,20,25 'r-jonesboro':24 'r-littl':13 'r-roger':19 'regul':4 'rep':10 'rick':22 'rock':16 'roger':21 'ross':29 'state':46 'steve':17 'tim':11 'u.s':9 'vote':33 'washington':8 'womack':18</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://arkansasnews.com/2012/07/26/griffin-anti-regulation-bill-clears-house/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16930918</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Arkansas News Bureau</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <metavid-id>Mike_Ross</metavid-id>
+      <name>Rep. Mike Ross [D, AR-4]</name>
+      <total-session-votes type="integer">1707</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>4</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:07-04:00</created-at>
+          <title>DownWithTyranny!: DCCC Sends A Message: If You Want Financial ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Mike Ross (D-Ark.) received $6000. * Rep. Tim Walz (D-Minn.) received more than $65000. * The only member for whom there were no records of DCCC financial aid since 2009 is Rep. Collin Peterson (D-Minn.).</excerpt>
+          <fti-names>'2009':42 '6000':17 '65000':27 'aid':40 'ark':15 'collin':45 'd':14,22,48 'd-ark':13 'd-minn':21,47 'dccc':2,38 'downwithtyranni':1,50 'financi':9,39 'member':30 'messag':5 'mike':11 'minn':23,49 'peterson':46 'receiv':16,24 'record':36 'rep':10,18,44 'ross':12 'send':3 'sinc':41 'tim':19 'walz':20 'want':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://downwithtyranny.blogspot.com/2012/07/dccc-sends-message-if-you-want.html&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CCkQmAEwAw&amp;usg=AFQjCNEp6GfcDIr2w2J41jSyzQ36WmM05Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16451720</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>DownWithTyranny</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:06-04:00</created-at>
+          <title>The &amp;quot;Bought&amp;quot; Seventeen Democrats possible failings of the DCCC</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Mike Ross (D-Ark.) received $6000. Rep. Tim Walz (D-Minn.) received more than $65000. The only member for whom there were no records of DCCC financial aid since 2009 is Rep. Collin Peterson (D-Minn.). The facts ...</excerpt>
+          <fti-names>'2009':42 '6000':17 '65000':27 'aid':40 'ark':15 'bought':2 'collin':45 'd':14,22,48 'd-ark':13 'd-minn':21,47 'dccc':9,38 'democrat':4 'fact':51 'fail':6 'financi':39 'member':30 'mike':11 'minn':23,49 'pardu':53 'peterson':46 'possibl':5 'receiv':16,24 'record':36 'rep':10,18,44 'ross':12 'seventeen':3 'sinc':41 'tim':19 'walz':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.theprogressivesinfluence.com/2012/07/bought-seventeen-democrats-possible.html&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNHgIr233tb9wEGtljKI6ZDuh3KgpQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-05T01:00:00-04:00</date>
+          <id type="integer">16451718</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Pardu</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:04-04:00</created-at>
+          <title>Meet the 112th | It was a good week for Arkansas&amp;#39;s financial health</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>It was a bad week for the Peabody ducks and U.S. Rep. Mike Ross. It was a good week for&#8230; ARKANSAS&amp;#39;S FINANCIAL HEALTH. The&#194; state revenue report&#194; for the budget year ending June 30 was a bright one &#226;&#8364;&#8221;&#194; $145 ...</excerpt>
+          <fti-names>'112th':3 '145':55 '30':48 'arkansa':10,34,56 'bad':17 'bright':51 'budget':44 'duck':22 'end':46 'financi':12,36 'good':7,31 'health':13,37 'june':47 'meet':1 'mike':26 'one':52 'peabodi':21 'rep':25 'report&#226;':41 'revenu':40 'ross':27 'state':39 'the&#226;':38 'time':57 'u.s':24 'week':8,18,32 'year':45 '&#226;':53,54</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.meetthe112th.com/latest-news/it-was-a-good-week-for-arkansass-financial-health/&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CBsQmAEwAA&amp;usg=AFQjCNEMSzxn59wNJM-ACLqLHlDyUtgPsw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-04T01:00:00-04:00</date>
+          <id type="integer">16451717</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Arkansas Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:09-04:00</created-at>
+          <title>Seventeen Democrats Voted Against Party in... | Gather</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Y., Rep. Ron Kind, D-Wis., Rep. Larry Kissell, D-N.C., Rep. Jim Matheson, D-Utah, Rep. Mike McIntyre, D-N.C., Rep. Bill Owens, D-N.Y., Rep. Collin Peterson, D-Minn., Rep. Nick Rahall, D-W.Va., Rep. Mike Ross, D-Ark., Rep.</excerpt>
+          <fti-names>'ark':57 'bill':36 'c':21,34 'collin':43 'd':13,19,26,32,39,46,56 'd-ark':55 'd-minn':45 'd-n':18,31,38 'd-utah':25 'd-w.va':51 'd-wis':12 'democrat':2 'gather':7 'jim':23 'kind':11 'kissel':17 'larri':16 'matheson':24 'mcintyr':30 'mike':29,53 'minn':47 'n':20,33,40 'nal':60 'nick':49 'owen':37 'parti':5 'peterson':44 'rahal':50 'rene':59 'rep':9,15,22,28,35,42,48,52,58 'ron':10 'ross':54 'seventeen':1 'utah':27 'vote':3 'wis':14 'y':8,41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politics.gather.com/viewArticle.action%3FarticleId%3D281474981436854&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNF3Y8O0GkzGtBYMXhdvBpCzXA2dCg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16451726</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Renee Nal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:08-04:00</created-at>
+          <title>Historic Bipartisan Congressional Mandate - Pecan Corner - Yes</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Mike Ross, D-Ark. Rep. Tim Walz, D-Minn. Rep Dan Lipinski D-IL voted the President&amp;#39;s own fave, &amp;quot;Present&amp;quot;, which starts with &amp;quot;P&amp;quot; which comes after &amp;quot;N O&amp;quot; which sounds like &amp;quot;No&amp;quot; and that spells &amp;quot;No&amp;quot; n</excerpt>
+          <fti-names>'ark':13 'bipartisan':2 'come':38 'congression':3 'corner':6 'd':12,18,24 'd-ark':11 'd-il':23 'd-minn':17 'dan':21 'fave':31 'histor':1 'il':25 'like':44 'lipinski':22 'mandat':4 'mike':9 'minn':19 'n':40,50 'o':41 'p':36 'pecan':5 'present':32 'presid':28 'rep':8,14,20 'ross':10 'sound':43 'spell':48 'start':34 'tim':15 'tina':51 'vote':26 'walz':16 'yes':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pecancorner.blogspot.com/2012/06/historic-bipartisan-congressional.html&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNGSVcflcdWjpJbKsXiQrBw1_jShnA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16451725</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Tina</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:08-04:00</created-at>
+          <title>Eric Holder &#8220;IS&#8221; in Contempt &#8212; Thomas Moyer</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Ron Kind, D-Wis. Rep. Larry Kissell, D-N.C. Rep. Jim Matheson, D-Utah. Rep. Mike McIntyre, D-N.C. Rep. Bill Owens, D-N.Y. Rep. Collin Peterson, D-Minn. Rep. Nick Rahall, D-W.Va. Rep. Mike Ross, D-Ark. Rep.</excerpt>
+          <fti-names>'ark':56 'bill':35 'c':20,33 'collin':42 'contempt':5 'd':12,18,25,31,38,45,55 'd-ark':54 'd-minn':44 'd-n':17,30,37 'd-utah':24 'd-w.va':50 'd-wis':11 'eric':1 'holder':2 'jim':22 'kind':10 'kissel':16 'larri':15 'matheson':23 'mcintyr':29 'mike':28,52 'minn':46 'moyer':7,59 'n':19,32,39 'nick':48 'owen':36 'peterson':43 'rahal':49 'rep':8,14,21,27,34,41,47,51,57 'ron':9 'ross':53 'thoma':6,58 'utah':26 'wis':13 'y':40</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.thomasmoyer.com/2012/06/eric-holder-is-in-contempt.html&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CDwQmAEwBw&amp;usg=AFQjCNEEla18J0cBZ29TTPpOqvO69epoJw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16451724</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Thomas Moyer</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:08-04:00</created-at>
+          <title>Ross joins Republicans in vote to hold Holder in contempt ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>The only thing I wondered about going in was whether gun lobby toady U.S. Rep. Mike Ross, the lame duck Democratic congressman from Arkansas, would kiss NRA butt again. Silly me to think he&amp;#39;d do anything but cover ...</excerpt>
+          <fti-names>'anyth':47 'arkansa':34 'brantley':51 'butt':38 'congressman':32 'contempt':10 'cover':49 'd':45 'democrat':31 'duck':30 'go':17 'gun':21 'hold':7 'holder':8 'join':2 'kiss':36 'lame':29 'lobbi':22 'max':50 'mike':26 'nra':37 'rep':25 'republican':3 'ross':1,27 'silli':40 'thing':13 'think':43 'toadi':23 'u.s':24 'vote':5 'whether':20 'wonder':15 'would':35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.arktimes.com/ArkansasBlog/archives/2012/06/28/ross-joins-republicans-in-vote-to-hold-holder-in-contempt&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CDMQmAEwBQ&amp;usg=AFQjCNFlqHAn9C7sgO0FuAP4Brc_iQ806A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16451722</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Brantley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:08-04:00</created-at>
+          <title>Arkansas congressmen vote to hold Holder in contempt | Arkansas ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Rep. Mike Ross, D-Prescott, was one of 17 Democrats to join Republicans in voting to take such an action against a sitting Cabinet official. &#8220;I believe the people of Arkansas and our nation deserve answers to questions ...</excerpt>
+          <fti-names>'17':19 'action':30 'answer':46 'arkansa':1,9,41 'believ':37 'cabinet':34 'congressmen':2 'contempt':8 'd':14 'd-prescott':13 'democrat':20 'deserv':45 'hold':5 'holder':6 'jjefferson':49 'join':22 'mike':11 'nation':44 'offici':35 'one':17 'peopl':39 'prescott':15 'question':48 'rep':10 'republican':23 'ross':12 'sit':33 'take':27 'vote':3,25</fti-names>
+          <source-url></source-url>
+          <url>/interstitial?url=http://arkansasnews.com/2012/06/28/arkansas-lawmakers-vote-to-hold-ag-in-contempt/&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CC4QmAEwBA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-28T01:00:00-04:00</date>
+          <id type="integer">16451721</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jjefferson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-07-07T23:30:08-04:00</created-at>
+          <title>Mike Ross not running for governor in 2014; to lobby instead ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mike Ross heads to the lobby. U.S. Rep. Mike Ross won&amp;#39;t be running for governor in 2014. This decision had been going around and I think Durango reported it pretty reliably in our comments thread over the weekend. Instead ...</excerpt>
+          <fti-names>'2014':8,29 'around':35 'brantley':53 'comment':46 'decis':31 'durango':39 'go':34 'governor':6,27 'head':14 'instead':11,51 'lobbi':10,17 'max':52 'mike':1,12,20 'pretti':42 'reliabl':43 'rep':19 'report':40 'ross':2,13,21 'run':4,25 'think':38 'thread':47 'u.s':18 'weekend':50 'won':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.arktimes.com/ArkansasBlog/archives/2012/05/14/mike-ross-not-running-for-governor&amp;sa=U&amp;ei=vP74T66IC8n22AX289DCBg&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNEw1bXfL2_4SHr1PxpjPqWhGOhJEw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-14T01:00:00-04:00</date>
+          <id type="integer">16451723</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Max Brantley</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400345</commentariable-id>
+          <created-at type="datetime">2012-04-17T13:05:45-04:00</created-at>
+          <title>Cotton widens fundraising lead for south Ark. seat | Fundraising Firms</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Cotton, an Army veteran from Dardanelle who served in Iraq and Afghanistan, reported over the weekend that he raised $352504 in his bid for the 4th district seat being vacated by outgoing Democratic Rep. Mike Ross. Cotton ...</excerpt>
+          <fti-names>'352504':30 '4th':36 'admin':48 'afghanistan':22 'ark':7 'armi':13 'bid':33 'cotton':1,11,47 'dardanell':16 'democrat':43 'district':37 'firm':10 'fundrais':3,9 'iraq':20 'lead':4 'mike':45 'outgo':42 'rais':29 'rep':44 'report':23 'ross':46 'seat':8,38 'serv':18 'south':6 'vacat':40 'veteran':14 'weekend':26 'widen':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.fundraisingfirms.com/cotton-widens-fundraising-lead-for-south-ark-seat/&amp;sa=U&amp;ei=56KNT83nKcXs2QXeqtHwCw&amp;ved=0CC0QmAEwAg&amp;usg=AFQjCNEomyknZ_YWR1yy_zc2xDt-Psvdhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14543456</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27246</page-views-count>
+      <youtube-id>MikeRossArkansas04</youtube-id>
+      <unaccented-name>Mike Ross</unaccented-name>
+      <oc-user-comments type="integer">12</oc-user-comments>
+    </person>
+  </people>
+</hash>

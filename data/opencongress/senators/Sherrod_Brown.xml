@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T13:55:25-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.6208651399491</party-votes-percentage>
+        <abstains-percentage type="float">0.506329113924051</abstains-percentage>
+        <votes-most-often-with-id type="integer">412378</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">37</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">5</cosponsored-bills-passed-rank>
+        <abstains type="integer">2</abstains>
+        <cosponsored-bills type="integer">322</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">20</party-votes-percentage-rank>
+        <sponsored-bills type="integer">116</sponsored-bills>
+        <votes-least-often-with-id type="integer">400105</votes-least-often-with-id>
+        <person-id type="integer">400050</person-id>
+        <cosponsored-bills-rank type="integer">3</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-10-09T23:48:38-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">3</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">146</votes-republican-position>
+      <metavid-id>Sherrod_Brown</metavid-id>
+      <blog-article-count type="integer">14860</blog-article-count>
+      <user-approval type="float">4.15428571428571</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">1624</oc-users-tracking>
+      <contact-webform>http://www.brown.senate.gov/contact/</contact-webform>
+      <youtube-id>SherrodBrownOhio</youtube-id>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.6208651399491</with-party-percentage>
+      <lastname>Brown</lastname>
+      <bioguide-id>B000944</bioguide-id>
+      <fax>202-228-6321</fax>
+      <congress-office>713 Hart Senate Office Building</congress-office>
+      <firstname>Sherrod</firstname>
+      <website>http://www.brown.senate.gov/</website>
+      <birthday type="date">1952-11-09</birthday>
+      <person-id type="integer">400050</person-id>
+      <watchdog-id nil="true"></watchdog-id>
+      <phone>202-224-2315</phone>
+      <religion>Lutheran</religion>
+      <votes-democratic-position type="integer">364</votes-democratic-position>
+      <gender>M</gender>
+      <middlename nil="true"></middlename>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:55-04:00</created-at>
+          <title>Cincinnati airport lands $17.6M federal grant for runway rehab</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...newspaper reports. The project is scheduled to start Sept. 1 with completion on Dec. 15, 2013, the newspaper reports. Sen. Sherrod Brown said the project will &quot;improve the safety and efficiency of the airport.&quot; My News is a way to create a customized ne</excerpt>
+          <fti-names>'1':20 '15':25 '17.6':4 '2013':26 'airport':2,44 'brown':32 'busi':55 'cincinnati':1 'columbus':58 'complet':22 'creat':51 'custom':53 'dec':24 'effici':41 'feder':6 'first':56 'grant':7 'improv':37 'land':3 'm':5 'ne':54 'news':46 'newspap':11,28 'project':14,35 'rehab':10 'report':12,29 'runway':9 'safeti':39 'said':33 'schedul':16 'sen':30 'sept':19 'sherrod':31 'start':18 'way':49</fti-names>
+          <source-url>http://columbus.bizjournals.com/columbus/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_columbus/~3/zM0LAV3VLnY/cincinnati-airport-lands-176m.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973696</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Business First of Columbus</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:55-04:00</created-at>
+          <title>PACs losing in Ohio</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...of the super-PAC Nowhere did they expect to have a greater impact than in Ohio, where first-term Democratic incumbent Sen. Sherrod Brown is at his most vulnerable &#8212; his first reelection campaign. Conservatives are convinced that Brown, a populist fire</excerpt>
+          <fti-names>'brown':30,44 'campaign':39 'conserv':40 'convinc':42 'democrat':26 'expect':13 'fire':47 'first':24,37 'first-term':23 'greater':17 'hill':49 'impact':18 'incumb':27 'lose':2 'nowher':10 'ohio':4,21 'pac':1,9 'populist':46 'reelect':38 'sen':28 'sherrod':29 'super':8 'super-pac':7 'term':25 'vulner':35</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/opinion/columnists/markos-moulitas/242635-pacs-losing-in-ohio</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973695</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:55-04:00</created-at>
+          <title>Josh Mandel's adding machine is a little dated</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...is old. It was not filmed in the treasurer's office. Mandel, a Republican currently challenging incumbent Democratic U.S. Sen. Sherrod Brown, wasn't the treasurer when he filmed it. He recycled it from a commercial he made in 2010, when, as a state legi</excerpt>
+          <fti-names>'2010':49 'ad':4 'brown':31 'challeng':25 'cleveland.com':55 'commerci':45 'current':24 'date':9 'democrat':27 'film':15,38 'incumb':26 'josh':1 'legi':54 'littl':8 'machin':5 'made':47 'mandel':2,21 'offic':20 'old':11 'recycl':41 'republican':23 'sen':29 'sherrod':30 'state':53 'treasur':18,35 'u.s':28 'wasn':32</fti-names>
+          <source-url>http://www.cleveland.com/</source-url>
+          <url>http://www.cleveland.com/open/index.ssf/2012/08/josh_mandels_adding_machine_is.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973694</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cleveland.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:55-04:00</created-at>
+          <title>Josh Mandel Ad Touts Award From Illusive Conservative Group</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Mandel, the Ohio state treasurer who is challenging Democratic Sen. Sherrod Brown, touts an award in a new ad from a group that is largely untraceable &#8211; and Ohio Democrats are calling him out. &#8220;Josh Mandel is so desperate to distract voters&#8221; from </excerpt>
+          <fti-names>'ad':3,28 'award':5,24 'brown':21 'call':40 'challeng':17 'conserv':8 'democrat':18,38 'desper':47 'distract':49 'group':9,31 'illus':7 'josh':1,43 'larg':34 'mandel':2,10,44 'memo':54 'new':27 'ohio':12,37 'point':53 'sen':19 'sherrod':20 'state':13 'talk':52 'tout':4,22 'treasur':14 'untrac':35 'voter':50</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://livewire.talkingpointsmemo.com/entries/josh-mandel-ad-touts-award-from-illusive-conservative</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973693</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:54-04:00</created-at>
+          <title>Sen. Sherrod Brown introduces bill to protect Zoar</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...in June, a positive ... The feds may be gaining on GOP governors who've balked at carrying out a key ... ZOAR -- Senator Sherrod Brown is announcing a new bill to help protect the historic Village of Zoar. According to a press release, Brown's bill woul</excerpt>
+          <fti-names>'accord':46 'announc':34 'balk':23 'bill':5,37,53 'brown':3,32,51 'carri':25 'cleveland':56 'fed':14 'gain':17 'gop':19 'governor':20 'help':39 'histor':42 'introduc':4 'june':10 'key':28 'may':15 'new':36 'oh':57 'posit':12 'press':49 'protect':7,40 'releas':50 'sen':1 'senat':30 'sherrod':2,31 've':22 'villag':43 'wkyc':55 'woul':54 'zoar':8,29,45</fti-names>
+          <source-url>http://www.wkyc.com/</source-url>
+          <url>http://www.wkyc.com/news/news_article.aspx?storyid=255173</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973692</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WKYC | Cleveland, OH</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:15-04:00</created-at>
+          <title>FAA awards grant to CVG airport</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...project is $23.5 million. &#8220;CVG provides important travel services to Cincinnati-area businesses and visitors,&#8221; U.S. Sen. Sherrod Brown said in a news release. &#8220;This funding will improve the safety and efficiency of the airport so it can remain a r</excerpt>
+          <fti-names>'23.5':9 'airport':6,42 'area':19 'award':2 'brown':26 'busi':20,50 'cincinnati':18,49 'cincinnati-area':17 'courier':51 'cvg':5,11 'effici':39 'faa':1 'fund':33 'grant':3 'import':13 'improv':35 'million':10 'news':30 'project':7 'provid':12 'r':48 'releas':31 'remain':46 'safeti':37 'said':27 'sen':24 'servic':15 'sherrod':25 'travel':14 'u.s':23 'visitor':22</fti-names>
+          <source-url>http://cincinnati.bizjournals.com/cincinnati/</source-url>
+          <url>http://feeds.bizjournals.com/~r/bizj_cincinnati/~3/4Tws5d0qG6Q/faa-awards-grant-to-cvg-airport.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973064</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Cincinnati Business Courier</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:15-04:00</created-at>
+          <title>A Super PAC wake-up call for Dems</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...to the GOP but hardly unwinnable for a Democrat (at least under normal circumstances). Then there&#8217;s Ohio, where Democratic Sen. Sherrod Brown is better-positioned than McCaskill to survive. But as Newsweek&#8217;s Andrew Romano reports, GOP aligned outsid</excerpt>
+          <fti-names>'align':49 'andrew':45 'better':35 'better-posit':34 'brown':32 'call':7 'circumst':23 'dem':9 'democrat':18,29 'gop':12,48 'hard':14 'least':20 'mccaskil':38 'newsweek':43 'normal':22 'ohio':27 'outsid':50 'pac':3 'posit':36 'report':47 'romano':46 'salon':51 'sen':30 'sherrod':31 'super':2 'surviv':40 'unwinn':15 'wake':5 'wake-up':4</fti-names>
+          <source-url>http://www.salon.com/</source-url>
+          <url>http://www.salon.com/2012/08/06/a_super_pac_wake_up_call_for_dems/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973063</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Salon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:14-04:00</created-at>
+          <title>McGurn: Ohio's Jewish Marine and the New GOP</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...We'll find out come November in Ohio. In what has become one of the most high-profile races in the country, Democratic Sen. Sherrod Brown faces a challenge from the state treasurer, Republican Josh Mandel. The race is interesting for two reasons. The mo</excerpt>
+          <fti-names>'becom':21 'brown':36 'challeng':39 'come':14 'countri':32 'democrat':33 'face':37 'find':12 'gop':9 'high':27 'high-profil':26 'interest':50 'jewish':4 'josh':45 'journal':58 'll':11 'mandel':46 'marin':5 'mcgurn':1 'mo':55 'new':8 'novemb':15 'ohio':2,17 'one':22 'profil':28 'race':29,48 'reason':53 'republican':44 'sen':34 'sherrod':35 'state':42 'street':57 'treasur':43 'two':52 'wall':56</fti-names>
+          <source-url>http://online.wsj.com/public/us</source-url>
+          <url>http://online.wsj.com/article/SB10000872396390443659204577573450693990584.html?mod=rss_opinion_main</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973062</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Wall Street Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:13-04:00</created-at>
+          <title>Mandel to launch new TV ads</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Corps, is spending upwards of half a million dollars on the flight, the source said. Mandel is challenging Democratic Sen. Sherrod Brown in a race that has been a magnet for outside-spending groups, and that has helped make Ohio a jaw-droppingly expensi</excerpt>
+          <fti-names>'ad':6 'brown':28 'challeng':24 'corp':7 'democrat':25 'dollar':15 'drop':51 'expensi':52 'flight':18 'group':41 'half':12 'help':45 'jaw':50 'jaw-drop':49 'launch':3 'magnet':36 'make':46 'mandel':1,22 'million':14 'new':4 'ohio':47 'outsid':39 'outside-spend':38 'politico':54 'race':31 'said':21 'sen':26 'sherrod':27 'sourc':20 'spend':9,40 'tv':5 'upward':10</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=a465509334e27a8e66f0c859608893da</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973061</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:12:04-04:00</created-at>
+          <title>Campaigns drown supporters with fundraising e-mails in the race for cash</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...President Obama and other Democrats. But two weeks ago, after opening yet another desperate fundraising e-mail from Sen. Sherrod Brown (D-Ohio), Thomason decided she&#8217;d had enough: She clicked &#8220;unsubscribe.&#8221; Graphic Explore the candidates&#8217; campai</excerpt>
+          <fti-names>'ago':22 'anoth':26 'brown':35 'campai':52 'campaign':1 'candid':51 'cash':13 'click':46 'd':37,42 'd-ohio':36 'decid':40 'democrat':18 'desper':27 'drown':2 'e':7,30 'e-mail':6,29 'enough':44 'explor':49 'fundrais':5,28 'graphic':48 'mail':8,31 'obama':15 'ohio':38 'open':24 'post':55 'presid':14 'race':11 'sen':33 'sherrod':34 'support':3 'thomason':39 'two':20 'unsubscrib':47 'washington':54 'week':21 'yet':25</fti-names>
+          <source-url>http://www.washingtonpost.com/</source-url>
+          <url>http://feeds.washingtonpost.com/click.phdo?i=5ccceff12dc30a3674034f04493d91f7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972305</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Washington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Sherrod Brown [D, OH]</name>
+      <total-session-votes type="integer">393</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <biography nil="true"></biography>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:16-04:00</created-at>
+          <title>Daily Kos: Sherrod Brown continues to weather Super PAC assault</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>No one has been on the receiving end of as much Super PAC filth as Ohio Sen. Sherrod Brown. Six weeks ago he had faced $5.1 million in such attacks, and they haven&amp;#39;t let up since. In February, Marist polled the race for ...</excerpt>
+          <fti-names>'5.1':36 'ago':32 'assault':10 'attack':40 'brown':4,29 'continu':5 'daili':1 'end':18 'face':35 'februari':49 'filth':24 'haven':43 'kos':2,56 'let':45 'marist':50 'million':37 'much':21 'ohio':26 'one':12 'pac':9,23 'poll':51 'race':53 'receiv':17 'rss@dailykos.com':55 'sen':27 'sherrod':3,28 'sinc':47 'six':30 'super':8,22 'weather':7 'week':31</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.dailykos.com/story/2012/05/28/1094791/-Sherrod-Brown-continues-to-weather-Super-PAC-assault&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CC0QmAEwAQ&amp;usg=AFQjCNHbzki00OUYuCqiE7bcsifMlCevCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-28T01:00:00-04:00</date>
+          <id type="integer">15465510</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rss@dailykos.com (kos)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Ohio Sen. Brown introduces bill to help veterans with VA claims ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>For years, Sen. Sherrod Brown&amp;#39;s office has taken complaints from veterans about the Veterans Administration&amp;#39;s slow handling of disability claims. Finally, he asked staff members to call the VA. He found they had to wait ...</excerpt>
+          <fti-names>'administr':27 'ashoemaker@coxohio.com':49 'ask':36 'bill':5 'brown':3,16 'call':40 'claim':11,33 'complaint':21 'disabl':32 'final':34 'found':44 'handl':30 'help':7 'introduc':4 'member':38 'offic':18 'ohio':1 'sen':2,14 'sherrod':15 'slow':29 'staff':37 'taken':20 'va':10,42 'veteran':8,23,26 'wait':48 'year':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.daytondailynews.com/blogs/content/shared-gen/blogs/dayton/ohiopolitics/entries/2012/05/27/ohio_sen_brown_introduces_bill.html&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CFkQmAEwCg&amp;usg=AFQjCNHFMhRj3GV9qHmEWuDVVVMBMQVRhA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-27T01:00:00-04:00</date>
+          <id type="integer">15465519</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ashoemaker@coxohio.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Brown bill to require VA to use electronic alerts</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>WASHINGTON &#8212; For years, Sen. Sherrod Brown&amp;#39;s office has taken complaints from veterans about the Veterans Administration&amp;#39;s slow handling of disability claims.</excerpt>
+          <fti-names>'administr':26 'alert':9 'bill':2 'brown':1,15 'claim':32 'complaint':20 'disabl':31 'electron':8 'handl':29 'jessica':33 'offic':17 'requir':4 'sen':13 'sherrod':14 'slow':28 'taken':19 'use':7 'va':5 'veteran':22,25 'washington':10 'wehrman':34 'year':12</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.journal-news.com/news/hamilton-news/brown-bill-to-require-va-to-use-electronic-alerts-1382374.html%3Fcxtype%3Drss_local-news&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CFAQmAEwCA&amp;usg=AFQjCNEYk560n6pdWR4rdFpl7s1r6_3QlA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-27T01:00:00-04:00</date>
+          <id type="integer">15465517</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jessica Wehrman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Sen. Sherrod Brown: What Manufacturing Does For Ohio&amp;#39;s Economy ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Home &amp;gt; news &amp;gt; Sen. Sherrod Brown: What Manufacturing Does For Ohio&amp;#39;s Economy. Sen. Sherrod Brown: What Manufacturing Does For Ohio&amp;#39;s Economy. 05/27/2012. Melissa Harris-Perry&amp;#39;s Commencement Address To Wellesley College ...</excerpt>
+          <fti-names>'05/27/2012':33 'address':40 'brown':3,15,25 'colleg':43 'commenc':39 'economi':10,22,32 'harri':36 'harris-perri':35 'home':11 'jr':44 'manufactur':5,17,27 'melissa':34 'news':12 'ohio':8,20,30 'perri':37 'sen':1,13,23 'sherrod':2,14,24 'wellesley':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://fuckconservatives.wordpress.com/2012/05/27/sen-sherrod-brown-what-manufacturing-does-for-ohios-economy/&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CEEQmAEwBQ&amp;usg=AFQjCNGeXPmc3dMeVnlErINt7oSWOZ2Ysw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-27T01:00:00-04:00</date>
+          <id type="integer">15465514</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jr</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Opinion: U.S. right to fight Chinese dumping &#8211; Sen. Sherrod Brown ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>By SEN. SHERROD BROWN | 5/24/12 9:29 PM EDT. In just one year, the U.S. went from having a trade surplus with China on solar cell parts to a $1.6 billion deficit. China is now making half the world&amp;#39;s solar panels and ...</excerpt>
+          <fti-names>'1.6':40 '29':17 '5/24/12':15 '9':16 'b':55 'billion':41 'brown':10,14 'calyn':56 'cell':36 'china':33,43 'chines':6 'deficit':42 'dump':7 'edt':19 'fight':5 'half':47 'make':46 'michael':54 'one':22 'opinion':1 'panel':52 'part':37 'pm':18 'right':3 'sen':8,12 'sherrod':9,13 'solar':35,51 'surplus':31 'trade':30 'u.s':2,25 'went':26 'world':49 'year':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://mbcalyn.com/2012/05/27/opinion-u-s-right-to-fight-chinese-dumping-sen-sherrod-brown-politico-com/&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CDcQmAEwAw&amp;usg=AFQjCNGVy7dIfYpBUm2jdCpbfG_AC7TXyw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-27T01:00:00-04:00</date>
+          <id type="integer">15465512</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Michael B. Calyn</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Ohio 15th District: Sen. Sherrod Brown Continues to Help Our ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>U.S. Sen. Sherrod Brown has put his ideas into action in helping our veterans. He has been investigating the wait time that veterans are experiencing in getting assistance from the Veterans Administration. Ohioans know that ...</excerpt>
+          <fti-names>'15th':2 'action':20 'administr':42 'assist':38 'brown':6,14 'continu':7 'district':3 'experienc':35 'get':37 'help':9,22 'idea':18 'investig':28 'know':44 'ohio':1 'ohio06win':46 'ohioan':43 'put':16 'sen':4,12 'sherrod':5,13 'time':31 'u.s':11 'veteran':24,33,41 'wait':30</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ohio15th.blogspot.com/2012/05/sen-sherrod-brown-continues-to-help-our.html&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CDIQmAEwAg&amp;usg=AFQjCNE3Tow4TmPkiATj0psUrBA5EEc0lA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-27T01:00:00-04:00</date>
+          <id type="integer">15465511</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>ohio06win</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-27T00:11:10-04:00</created-at>
+          <title>Elizabeth Warren&amp;#39;s Obama Gap - 2012 Decoded</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>In Virginia, according to the survey, Democratic nominee Tim Kaine was winning 86 percent of voters who also indicated they were supporting Obama. In Ohio, Democratic Sen. Sherrod Brown was attracting 84 percent of ...</excerpt>
+          <fti-names>'2012':6 '84':39 '86':20 'accord':10 'also':25 'attract':38 'brown':36 'decod':7 'decoded.nationaljournal.com':42 'democrat':14,33 'elizabeth':1 'gap':5 'indic':26 'kain':17 'nomine':15 'obama':4,30 'ohio':32 'percent':21,40 'sen':34 'sherrod':35 'support':29 'survey':13 'tim':16 'virginia':9 'voter':23 'warren':2 'win':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://decoded.nationaljournal.com/2012/05/elizabeth-warrens-obama-gap.php&amp;sa=U&amp;ei=VqnBT8jtJbGasgLxq43MCQ&amp;ved=0CFIQmAEwCQ&amp;usg=AFQjCNGTcE4lBGByDHPPwFqBTRrULnpV4g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-25T01:00:00-04:00</date>
+          <id type="integer">15434748</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://decoded.nationaljournal.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-28T23:38:17-04:00</created-at>
+          <title>Latest News from over 4000 sources, including newspapers, tv ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON, D.C. - U.S. Sen. Sherrod Brown (D-OH) announced that the Senate Armed Services Committee voted to authorize critical resources for the American Centrifuge Plant (ACP) in Piketon. Brown worked with ...</excerpt>
+          <fti-names>'/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100007410&amp;isrss=true':44 '4000':5 'acp':36 'american':33 'announc':19 'arm':23 'author':28 'brown':15,39 'centrifug':34 'committe':25 'critic':29 'd':17 'd-oh':16 'd.c':11 'includ':7 'latest':1 'news':2 'newspap':8 'oh':18 'piketon':38 'plant':35 'resourc':30 'sen':13 'senat':22 'servic':24 'sherrod':14 'sourc':6 'tv':9 'u.s':12 'vote':26 'washington':10 'work':40 'www6.lexisnexis.com':43 'www6.lexisnexis.com/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100007410&amp;isrss=true':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www6.lexisnexis.com/publisher/EndUser%3FAction%3DUserDisplayFullDocument%26orgId%3D574%26topicId%3D100007410%26docId%3Dl:1674994838%26isRss%3Dtrue%26Em%3D4&amp;sa=U&amp;ei=qETET8nPFMjs2QWkldGBAQ&amp;ved=0CDwQmAEwBA&amp;usg=AFQjCNH4iqVVCIwSkinViKwoBRsXY4nSkw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15465513</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www6.lexisnexis.com/publisher/EndUser?Action=UserDisplayCiteList&amp;orgId=574&amp;topicId=100007410&amp;isRss=true</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-27T00:11:09-04:00</created-at>
+          <title>Sherrod Brown: Opponent&amp;#39;s Negative Ad Recycles False Claims</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Sherrod Brown (D-Ohio) is hitting back against a new campaign ad put out by his Republican opponent, Josh Mandel, charging the ad merely repeats false claims. In the ad, Mandel accuses Brown of going negative in ...</excerpt>
+          <fti-names>'accus':43 'ad':6,23,34,41 'back':18 'brown':2,12,44 'campaign':22 'charg':32 'claim':9,38 'd':14 'd-ohio':13 'fals':8,37 'go':46 'hit':17 'jon':49 'josh':30 'mandel':31,42 'mere':35 'negat':5,47 'new':21 'ohio':15 'oppon':3,29 'put':24 'recycl':7 'repeat':36 'republican':28 'sen':10 'sherrod':1,11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.politicalese.com/sherrod-brown-opponents-negative-ad-recycles-false-claims/69668/&amp;sa=U&amp;ei=VqnBT8jtJbGasgLxq43MCQ&amp;ved=0CEUQmAEwBg&amp;usg=AFQjCNEXZMz19VRGxfbbiT9roJCQFfBi9w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15434745</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>jon</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400050</commentariable-id>
+          <created-at type="datetime">2012-05-27T00:11:07-04:00</created-at>
+          <title>Latest News from over 4000 sources, including newspapers, tv ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>WASHINGTON, D.C. - U.S. Sen. Sherrod Brown (D-OH) announced that the Senate Armed Services Committee voted to authorize critical resources for the American Centrifuge Plant (ACP) in Piketon. Brown worked with ...</excerpt>
+          <fti-names>'/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100007410&amp;isrss=true':44 '4000':5 'acp':36 'american':33 'announc':19 'arm':23 'author':28 'brown':15,39 'centrifug':34 'committe':25 'critic':29 'd':17 'd-oh':16 'd.c':11 'includ':7 'latest':1 'news':2 'newspap':8 'oh':18 'piketon':38 'plant':35 'resourc':30 'sen':13 'senat':22 'servic':24 'sherrod':14 'sourc':6 'tv':9 'u.s':12 'vote':26 'washington':10 'work':40 'www6.lexisnexis.com':43 'www6.lexisnexis.com/publisher/enduser?action=userdisplaycitelist&amp;orgid=574&amp;topicid=100007410&amp;isrss=true':42</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www6.lexisnexis.com/publisher/EndUser%3FAction%3DUserDisplayFullDocument%26orgId%3D574%26topicId%3D100007410%26docId%3Dl:1673646314%26isRss%3Dtrue%26Em%3D4&amp;sa=U&amp;ei=VqnBT8jtJbGasgLxq43MCQ&amp;ved=0CDIQmAEwAg&amp;usg=AFQjCNHLBN5FBFYfljXs98ImtLGv0JMAFw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-24T01:00:00-04:00</date>
+          <id type="integer">15434740</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www6.lexisnexis.com/publisher/EndUser?Action=UserDisplayCiteList&amp;orgId=574&amp;topicId=100007410&amp;isRss=true</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">46990</page-views-count>
+      <unaccented-name>Sherrod Brown</unaccented-name>
+      <oc-user-comments type="integer">41</oc-user-comments>
+    </person>
+  </people>
+</hash>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">67.258883248731</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">300025</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">20</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">5</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">231</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">63</party-votes-percentage-rank>
+        <sponsored-bills type="integer">41</sponsored-bills>
+        <votes-least-often-with-id type="integer">412495</votes-least-often-with-id>
+        <person-id type="integer">412384</person-id>
+        <cosponsored-bills-rank type="integer">27</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">27</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">5</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">265</votes-republican-position>
+      <blog-article-count type="integer">7694</blog-article-count>
+      <metavid-id nil="true"></metavid-id>
+      <user-approval type="float">3.91946308724832</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">595</oc-users-tracking>
+      <contact-webform>http://www.scottbrown.senate.gov/public/index.cfm/emailscottbrown</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">67.258883248731</with-party-percentage>
+      <youtube-id>ussenatorscottbrown</youtube-id>
+      <lastname>Brown</lastname>
+      <bioguide-id>B001268</bioguide-id>
+      <congress-office>359 Dirksen Senate Office Building</congress-office>
+      <firstname>Scott</firstname>
+      <fax nil="true"></fax>
+      <website>http://www.scottbrown.senate.gov</website>
+      <birthday type="date">1959-09-12</birthday>
+      <person-id type="integer">412384</person-id>
+      <phone>202-224-4543</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">264</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:48-04:00</created-at>
+          <title>Campaign: Elizabeth Warren misspoke on Scott Brown tax return demand</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Democratic U.S. Senate candidate Elizabeth Warren's campaign said Tuesday that she misspoke when she said Republican Sen. Scott Brown should release 20 years of tax returns. Warren made the comments Monday night at an appearance in Worcester to celebrat</excerpt>
+          <fti-names>'20':33 'appear':46 'brown':7,30 'campaign':1,18 'candid':14 'celebrat':50 'comment':41 'demand':10 'democrat':11 'elizabeth':2,15 'gazettenet':51 'ma':53 'made':39 'misspok':4,23 'monday':42 'night':43 'northampton':52 'releas':32 'republican':27 'return':9,37 'said':19,26 'scott':6,29 'sen':28 'senat':13 'tax':8,36 'tuesday':20 'u.s':12 'warren':3,16,38 'worcest':48 'year':34</fti-names>
+          <source-url>http://www.gazettenet.com/</source-url>
+          <url>http://www.gazettenet.com/2012/08/08/campaign-warren-misspoke-on-brown-tax-return-demand</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-08T01:00:00-04:00</date>
+          <id type="integer">16973688</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GazetteNet | Northampton, MA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:49-04:00</created-at>
+          <title>With videos, a petition and a game, Sen. Scott Brown and Elizabeth Warren engaged in digital battle for votes</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Senate is taking place on TV, in print, on the radio and perhaps most importantly, on the Internet. While Republican U.S. Sen. Scott Brown and Democratic rival Elizabeth Warren have fresh TV ads promoting their respective runs, they updated their digita</excerpt>
+          <fti-names>'ad':52 'battl':17 'brown':10,43 'democrat':45 'digit':16 'digita':60 'elizabeth':12,47 'engag':14 'fresh':50 'game':7 'import':34 'internet':37 'masslive.com':61 'perhap':32 'petit':4 'place':23 'print':27 'promot':53 'radio':30 'republican':39 'respect':55 'rival':46 'run':56 'scott':9,42 'sen':8,41 'senat':20 'take':22 'tv':25,51 'u.s':40 'updat':58 'video':2 'vote':19 'warren':13,48</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/sen_scott_brown_and_elizabeth_14.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973691</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:49-04:00</created-at>
+          <title>What Warren Really Said About Scott Brown&#8217;s Tax Returns</title>
+          <contains-term>senator</contains-term>
+          <excerpt>...six. But in Worcester Monday night, Warren spoke quite clearly and emphatically. Below is a transcript of her remarks: I think Scott Brown should release his tax returns for all the years that he&#8217;s been in public service,&#8221; Warren said. &#8220;He&#8217;s bee</excerpt>
+          <fti-names>'90.9':56 'bee':54 'brown':7,33 'clear':20 'emphat':22 'fm':57 'monday':15 'night':16 'public':48 'quit':19 'realli':3 'releas':35 'remark':29 'return':10,38 'said':4,51 'scott':6,32 'servic':49 'six':11 'spoke':18 'tax':9,37 'think':31 'transcript':26 'warren':2,17,50 'wbur':55 'worcest':14 'year':42</fti-names>
+          <source-url>http://www.wbur.org/</source-url>
+          <url>http://feeds.wbur.org/~r/wbur_news/boston/~3/PMJKlj7v5rs/warren-brown-taxes</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973690</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WBUR | 90.9 FM</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:48-04:00</created-at>
+          <title>Sen. Scott Brown highlights military service in new radio ad</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...was mad a full colonel in the National Guard. (Photo courtesy of Scott Brown's Washington office) Republican U.S. Sen. Scott Brown is taking to the airwaves with a new radio ad highlighting his National Guard service while likening it to his time in ser</excerpt>
+          <fti-names>'ad':10,42 'airwav':37 'brown':3,24,32 'colonel':15 'courtesi':21 'full':14 'guard':19,46 'highlight':4,43 'liken':49 'mad':12 'masslive.com':56 'militari':5 'nation':18,45 'new':8,40 'offic':27 'photo':20 'radio':9,41 'republican':28 'scott':2,23,31 'sen':1,30 'ser':55 'servic':6,47 'take':34 'time':53 'u.s':29 'washington':26</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/sen_scott_brown_highlights_mil.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973689</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:01:47-04:00</created-at>
+          <title>Scott Brown Is Gaining Momentum Against Elizabeth Warren</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...New England, where I had a front row seat to the Massachusetts Senate race. Elizabeth Warren's campaign, which has outraised Sen. Scott Brown's campaign $24 million to $12 million since last July, is spending its money on advertising saturating the New </excerpt>
+          <fti-names>'12':38 '24':35 'advertis':48 'brown':2,32 'campaign':26,34 'elizabeth':7,23 'england':10 'front':15 'gain':4 'juli':42 'last':41 'massachusett':20 'million':36,39 'momentum':5 'money':46 'new':9,51 'news':53 'outrais':29 'race':22 'report':55 'row':16 'satur':49 'scott':1,31 'seat':17 'sen':30 'senat':21 'sinc':40 'spend':44 'u.s':52 'warren':8,24 'world':54</fti-names>
+          <source-url>http://www.usnews.com/usnews/home.htm</source-url>
+          <url>http://www.usnews.com/blogs/mary-kate-cary/2012/8/7/scott-brown-is-gaining-momentum-against-elizabeth-warren?s_cid=rss:mary-kate-cary:scott-brown-is-gaining-momentum-against-elizabeth-warren</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973687</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>U.S. News &amp; World Report</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:10-04:00</created-at>
+          <title>Gail Huff takes reporting leave to campaign for Scott Brown</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...Huff, the wife of Sen. Scott Brown, is taking a leave of absence from her job as a television reporter in Washington to campaign full-time for her husband's reelection, the Boston Globe reported Monday. Huff, who left her reporting job with WCVB-TV afte</excerpt>
+          <fti-names>'absenc':23 'aft':58 'boston':44,59 'brown':10,17 'campaign':7,34 'channel.com':60 'full':36 'full-tim':35 'gail':1 'globe':45 'huff':2,11,48 'husband':40 'job':26,53 'leav':5,21 'left':50 'monday':47 'reelect':42 'report':4,30,46,52 'scott':9,16 'sen':15 'take':3,19 'televis':29 'time':37 'tv':57 'washington':32 'wcvb':56 'wcvb-tv':55 'wife':13</fti-names>
+          <source-url>http://www.thebostonchannel.com/index.html</source-url>
+          <url>http://www.wcvb.com/news/politics/Gail-Huff-takes-reporting-leave-to-campaign-for-Scott-Brown/-/9848766/15980354/-/114x8g1z/-/index.html?absolute=true</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973060</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Boston Channel.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:10:08-04:00</created-at>
+          <title>WJLA's Gail Huff joining hubby Scott Brown on campaign trail</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...the D.C.-based television station to join her husband's political campaign, according to Boston.com. Huff's husband is Sen. Scott Brown, R-Mass., who is fighting a tough re-election battle against Democrat Elizabeth Warren. Huff made the announcement vi</excerpt>
+          <fti-names>'accord':24 'announc':53 'base':14 'battl':45 'boston.com':26 'brown':8,33 'campaign':10,23 'd.c':13 'democrat':47 'elect':44 'elizabeth':48 'examin':56 'fight':39 'gail':3 'hubbi':6 'huff':4,27,50 'husband':20,29 'join':5,18 'made':51 'mass':36 'polit':22 'r':35 'r-mass':34 're':43 're-elect':42 'scott':7,32 'sen':31 'station':16 'televis':15 'tough':41 'trail':11 'vi':54 'warren':49 'washington':55 'wjla':1</fti-names>
+          <source-url>http://www.washingtonexaminer.com/</source-url>
+          <url>http://washingtonexaminer.com/wjlas-gail-huff-joining-hubby-scott-brown-on-campaign-trail/article/2504121?custom_click=rss</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973059</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Washington Examiner </source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:21:56-04:00</created-at>
+          <title>Former Democratic mayor of Worcester stumps for Sen. Scott Brown in TV ad</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...questions on any topic, as she aims to unseat Republican U.S. Sen. Scott Brown in the November election. Republican U.S. Sen. Scott Brown is getting a boost from another former Massachusetts mayor who carries a &quot;D&quot; after her name. Konstantina &quot;Konnie&quot; L</excerpt>
+          <fti-names>'ad':13 'aim':20 'anoth':42 'boost':40 'brown':10,27,36 'carri':47 'd':49 'democrat':2 'elect':31 'former':1,43 'get':38 'konni':54 'konstantina':53 'l':55 'massachusett':44 'masslive.com':56 'mayor':3,45 'name':52 'novemb':30 'question':14 'republican':23,32 'scott':9,26,35 'sen':8,25,34 'stump':6 'topic':17 'tv':12 'u.s':24,33 'unseat':22 'worcest':5</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/former_democratic_mayor_of_wor.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971904</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:01:10-04:00</created-at>
+          <title>US Sen. Scott Brown, Elizabeth Warren appeal to businesses, workers</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...(AP) - Republican U.S. Sen. Scott Brown and Democratic rival Elizabeth Warren are embarking on separate tours of Massachusetts as they try to strengthen their appeal among business owners and workers. The tours come as Brown steps up criticism of Warren</excerpt>
+          <fti-names>'among':36 'ap':11 'appeal':7,35 'brown':4,16,45 'busi':9,37 'come':43 'critic':48 'democrat':18 'elizabeth':5,20 'embark':23 'gazettenet':51 'ma':53 'massachusett':28 'northampton':52 'owner':38 'republican':12 'rival':19 'scott':3,15 'sen':2,14 'separ':25 'step':46 'strengthen':33 'tour':26,42 'tri':31 'u.s':13 'us':1 'warren':6,21,50 'worker':10,40</fti-names>
+          <source-url>http://www.gazettenet.com/</source-url>
+          <url>http://www.gazettenet.com/2012/08/03/brown-warren-appeal-to-businesses-workers</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971097</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>GazetteNet | Northampton, MA</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:01:19-04:00</created-at>
+          <title>Rep. Richard Neal jumps into charity basketball challenge between Sen. Scott Brown and Rev. Talbert Swan</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...Neal has dribbled his way into a charity basketball challenge initially billed as a showdown between Republican U.S. Sen. Scott Brown and Springfield NAACP President Rev. Talbert Swan II. The &quot;Path to Manhood Charity Basketball Game&quot; will take place on </excerpt>
+          <fti-names>'basketbal':7,25,51 'bill':28 'brown':12,37 'challeng':8,26 'chariti':6,24,50 'dribbl':19 'game':52 'ii':45 'initi':27 'jump':4 'manhood':49 'masslive.com':57 'naacp':40 'neal':3,17 'path':47 'place':55 'presid':41 'rep':1 'republican':33 'rev':14,42 'richard':2 'scott':11,36 'sen':10,35 'showdown':31 'springfield':39 'swan':16,44 'take':54 'talbert':15,43 'u.s':34 'way':21</fti-names>
+          <source-url>http://www.masslive.com/</source-url>
+          <url>http://www.masslive.com/politics/index.ssf/2012/08/rep_richard_neal_jumps_into_ch.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971101</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MassLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Scott Brown [R, MA]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:32-04:00</created-at>
+          <title>In a Strange Mix of Bedfellows Senator Scott Brown Backs Mumbles ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>President Obama&#226; &#8482;s utter disregard for our Constitution has now migrated to the lower echelons of our government bureaucracy. The chief of the Bosto...</excerpt>
+          <fti-names>'back':10 'bedfellow':6 'bosto':35 'brown':9 'bureaucraci':30 'carlo':36 'chief':32 'constitut':19 'disregard':16 'echelon':26 'govern':29 'hernandez':37 'lower':25 'migrat':22 'mix':4 'mumbl':11 'obama&#226;':13 'presid':12 'scott':8 'senat':7 'strang':3 'utter':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://northshoreteaparty.org/2012/07/in-a-strange-mix-of-bedfellows-senator-scott-brown-backs-mumbles-and-disses-chick-fil-a/&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CEwQmAEwCg&amp;usg=AFQjCNEVvkS-8YttGEq1YtVWpx1F4hx2vQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951433</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Carlos Hernandez</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:31-04:00</created-at>
+          <title>As Massachusetts state Senator, Scott Brown reached across party ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>In 2005, when the Massachusetts Legislature was considering a bill allowing embryonic stem cell research, Democratic Senate President Robert Travaglini received a visit from rookie Republican state senator Scott Brown&#8230;</excerpt>
+          <fti-names>'2005':11 'across':8 'allow':20 'bill':19 'breiner':41 'brown':6,39 'cell':23 'consid':17 'democrat':25 'embryon':21 'jo':40 'legislatur':15 'massachusett':2,14 'parti':9 'presid':27 'reach':7 'receiv':30 'republican':35 'research':24 'robert':28 'rooki':34 'scott':5,38 'senat':4,26,37 'state':3,36 'stem':22 'travaglini':29 'visit':32</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.bu.edu/news/2012/07/29/as-massachusetts-state-senator-scott-brown-reached-across-party-lines-on-some-issues-towed-republican-line-on-others/&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNFYVfa2QA130ub222qFlnbHvFsuHA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951432</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jo Breiner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:24-04:00</created-at>
+          <title>As Massachusetts state Senator, Scott Brown reached across party ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>BOSTON &#8212; In 2005, when the Massachusetts Legislature was considering a bill allowing embryonic stem cell research, Democratic Senate President Robert Travaglini received a visit from rookie Republican state senator Scott Brown.</excerpt>
+          <fti-names>'2005':12 'across':8 'admin':41 'allow':21 'bill':20 'boston':10 'brown':6,40 'cell':24 'consid':18 'democrat':26 'embryon':22 'legislatur':16 'massachusett':2,15 'parti':9 'presid':28 'reach':7 'receiv':31 'republican':36 'research':25 'robert':29 'rooki':35 'scott':5,39 'senat':4,27,38 'state':3,37 'stem':23 'travaglini':30 'visit':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wiki.pvboundleather.com/as-massachusetts-state-senator-scott-brown-reached-across-party-lines-on/&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CDUQmAEwBQ&amp;usg=AFQjCNHx_0i2_OIriVRN3rFGALMfEVui2A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951428</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:23-04:00</created-at>
+          <title>Massachusetts Senator Scott Brown Campaign Ad: &#8220;Ray ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Massachusetts Senator Scott Brown Campaign Ad: &#8220;Ray&#8221;. July 29, 2012 &#183; Unedited Politics ... Massachusetts Senator Scott Brown Campaign Ad: &amp;quot;Ray&amp;quot; wp.me/p275hy-1OC 31 minutes ago; Texas Senate Candidate David.Dewhurst Campaign ...</excerpt>
+          <fti-names>'/p275hy-1oc':29 '2012':17 '29':16 '31':30 'ad':6,13,25 'ago':32 'brown':4,11,23 'campaign':5,12,24,37 'candid':35 'david.dewhurst':36 'juli':15 'massachusett':1,8,20 'minut':31 'polit':19,39 'ray':7,14,26 'scott':3,10,22 'senat':2,9,21,34 'texa':33 'unedit':18,38 'wp.me':28 'wp.me/p275hy-1oc':27</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://uneditedpolitics.com/2012/07/29/massachusetts-senator-scott-brown-campaign-ad-ray/&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNE9zHUCb0nDs17z_wJLZ1fhWrKxJg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951427</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Unedited Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:12-04:00</created-at>
+          <title>Sen. Scott Brown Weighs In On Chick-fil-A Controversy &#171; CBS Boston</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Republican U.S. Sen. Scott Brown says he disagrees with the CEO of fast food chain Chick-fil-A, whose opposition to gay marriage has touched off a national furor. Brown said he was glad company president Dan Cathy later ...</excerpt>
+          <fti-names>'boston':13 'brown':3,18,44 'cathi':52 'cbs':12 'ceo':24 'chain':28 'chick':8,30 'chick-fil-a':7,29 'compani':49 'controversi':11 'dan':51 'disagre':21 'fast':26 'fil':9,31 'food':27 'furor':43 'gay':36 'glad':48 'joseph':55 'later':53 'marriag':37 'nation':42 'opposit':34 'presid':50 'republican':14 'reynold':54 'said':45 'say':19 'scott':2,17 'sen':1,16 'touch':39 'u.s':15 'weigh':4 'whose':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://boston.cbslocal.com/2012/07/28/sen-scott-brown-weighs-in-on-chick-fil-a-controversy/&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CCIQmAEwAQ&amp;usg=AFQjCNGnpkutYgfb1j07ade2zn7ObPvGXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-29T01:00:00-04:00</date>
+          <id type="integer">16951423</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>reynold joseph</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:27-04:00</created-at>
+          <title>US Sen. Scott Brown, Democrat Elizabeth Warren release TV ads ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>BOSTON - Republican U.S. Sen. Scott Brown and Democratic rival Elizabeth Warren released competing television ads Friday as each candidate tries to frame the political debate heading into the final months of the campaign ...</excerpt>
+          <fti-names>'ad':10,25 'ap':44 'boston':11 'brown':4,16 'campaign':43 'candid':29 'compet':23 'debat':35 'democrat':5,18 'elizabeth':6,20 'final':39 'frame':32 'friday':26 'head':36 'month':40 'polit':34 'releas':8,22 'republican':12 'rival':19 'scott':3,15 'sen':2,14 'televis':24 'tri':30 'tv':9 'u.s':13 'us':1 'warren':7,21 'wire':45</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.gazettenet.com/2012/07/28/us-sen-scott-brown-democrat-elizabeth-warren-release-tv-ads&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CD4QmAEwBw&amp;usg=AFQjCNFYN3_kqDml4NjwYCR_tSioU9anyA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951430</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>AP Wire</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-30T07:54:21-04:00</created-at>
+          <title>Sen. Scott Brown disagrees with Chick-fil-A CEO comments - The Hill</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Scott Brown (R-Mass.) on Friday said he disagrees with comments made by the owner of the Chick-fil-A fast food chain. Chick-fil-A CEO Dan Cathy told the Baptist Press last week that Chick-fil-A is &amp;quot;very much supportive ...</excerpt>
+          <fti-names>'baptist':49 'brown':3,16 'cathi':46 'ceo':10,44 'chain':39 'chick':7,34,41,55 'chick-fil-a':6,33,40,54 'comment':11,26 'dan':45 'daniel':63 'disagre':4,24 'dstrauss@thehill.com':62 'fast':37 'fil':8,35,42,56 'food':38 'friday':21 'hill':13 'last':51 'made':27 'mass':19 'much':60 'owner':30 'press':50 'r':18 'r-mass':17 'said':22 'scott':2,15 'sen':1,14 'strauss':64 'support':61 'told':47 'week':52</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://thehill.com/blogs/blog-briefing-room/news/240829-sen-scott-brown-disagrees-with-chick-fil-a-ceo-comments&amp;sa=U&amp;ei=4nUWUMHHJOW70AGep4DYCQ&amp;ved=0CCcQmAEwAg&amp;usg=AFQjCNH-1bKL9egixMx3gLhZNh07IZiWPg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16951425</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>dstrauss@thehill.com (Daniel Strauss)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:35:11-04:00</created-at>
+          <title>Scott Brown Touts Praise For Ad From Conservative Blog That ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Scott Brown (R-Mass.) is raising money off praise from a conservative blogger who believes that President Barack Obama is Muslim.</excerpt>
+          <fti-names>'ad':6 'barack':30 'believ':27 'blog':9 'blogger':25 'brown':2,13 'conserv':8,24 'huffington':35 'mass':16 'money':19 'muslim':33 'news':37 'obama':31 'post':36 'prais':4,21 'presid':29 'r':15 'r-mass':14 'rais':18 'scott':1,12 'sen':11 'team':38 'tout':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/28/scott-brown-ad-_n_1711422.html&amp;sa=U&amp;ei=uPUUUPL8F5Sm8gSbsICgBQ&amp;ved=0CEgQmAEwCQ&amp;usg=AFQjCNGxRu96uoFNjWMB_qvWkiiXXyUNmA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931646</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Team</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:35:08-04:00</created-at>
+          <title>New York Mayor Michael Bloomberg Backs Scott Brown For Senate ...</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Michael Bloomberg, an independent, plans to host a fundraiser in New York for Brown next month.</excerpt>
+          <fti-names>'back':6 'bloomberg':5,12 'brown':8,24 'fundrais':19 'host':17 'independ':14 'mayor':3 'michael':4,11 'miketool':27 'month':26 'new':1,21 'next':25 'plan':15 'scott':7 'senat':10 'york':2,22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://boston.cbslocal.com/2012/07/27/independent-new-york-mayor-bloomberg-backs-scott-brown-for-senate/&amp;sa=U&amp;ei=uPUUUPL8F5Sm8gSbsICgBQ&amp;ved=0CDYQmAEwBQ&amp;usg=AFQjCNG_HnrZo7I2Oi7NHTVxavU1dzH81g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931642</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>miketoole</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412384</commentariable-id>
+          <created-at type="datetime">2012-07-29T04:35:08-04:00</created-at>
+          <title>U.S. Senator Scott Brown Visits North End Feast ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>U .S. Senator Scott Brown spent the afternoon at the Saint Joseph Feast on Saturday, visiting with San Giuseppe Societa members, vendors and visitors at the famous annual street festival. Accompanied by wife Gail Huff, the ...</excerpt>
+          <fti-names>'accompani':39 'afternoon':16 'annual':36 'brown':4,13 'conti':46 'end':7 'famous':35 'feast':8,21 'festiv':38 'gail':42 'giusepp':27 'huff':43 'joseph':20 'matt':45 'member':29 'north':6 'saint':19 'san':26 'saturday':23 'scott':3,12 'senat':2,11 'societa':28 'spent':14 'street':37 'u':9 'u.s':1 'vendor':30 'visit':5,24 'visitor':32 'wife':41</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://northendwaterfront.com/2012/07/u-s-senator-scott-brown-visits-north-end-feast/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Du-s-senator-scott-brown-visits-north-end-feast&amp;sa=U&amp;ei=uPUUUPL8F5Sm8gSbsICgBQ&amp;ved=0CDEQmAEwBA&amp;usg=AFQjCNGbvmWPmEoEiZIjYW0yvTGRy9wglg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T01:00:00-04:00</date>
+          <id type="integer">16931641</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Matt Conti</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27950</page-views-count>
+      <unaccented-name>Scott Brown</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">17</oc-user-comments>
+    </person>
+  </people>
+</hash>

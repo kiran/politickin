@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-19T11:16:54-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">81.2182741116751</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">412494</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">5</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">1</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">233</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">61</party-votes-percentage-rank>
+        <sponsored-bills type="integer">8</sponsored-bills>
+        <votes-least-often-with-id type="integer">400357</votes-least-often-with-id>
+        <person-id type="integer">300023</person-id>
+        <cosponsored-bills-rank type="integer">26</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">412495</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">1</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">62</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300077</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">320</votes-republican-position>
+      <fax>202-224-9450</fax>
+      <blog-article-count type="integer">9815</blog-article-count>
+      <user-approval type="float">2.0</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">383</oc-users-tracking>
+      <watchdog-id nil="true"></watchdog-id>
+      <contact-webform>http://www.cochran.senate.gov/email.html</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">81.2182741116751</with-party-percentage>
+      <lastname>Cochran</lastname>
+      <middlename nil="true"></middlename>
+      <congress-office>113 Dirksen Senate Office Building</congress-office>
+      <firstname>Thad</firstname>
+      <website>http://www.cochran.senate.gov</website>
+      <biography nil="true"></biography>
+      <birthday type="date">1937-12-07</birthday>
+      <person-id type="integer">300023</person-id>
+      <phone>202-224-5054</phone>
+      <religion>Baptist</religion>
+      <votes-democratic-position type="integer">213</votes-democratic-position>
+      <metavid-id>Thad_Cochran</metavid-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:02:43-04:00</created-at>
+          <title>Welfare-to-work waivers fought&#8212;Shouldn&#8217;t undo successful program, Miss. lawmakers say</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...in implementing welfare-to-work programs. The programs are required under the landmark 1996 welfare reform law. Republicans Sen. Thad Cochran and 1st District Rep. Alan Nunnelee recently cosponsored measures they say would preserve the work requirements</excerpt>
+          <fti-names>'1996':29 '1st':38 'alan':41 'cochran':36 'cosponsor':44 'district':39 'fought':6 'implement':16 'landmark':28 'law':32 'lawmak':13 'measur':45 'miss':12 'nunnele':42 'polit':54 'preserv':49 'program':11,21,23 'recent':43 'reform':31 'rep':40 'republican':33 'requir':25,52 'say':14,47 'sen':34 'shouldn':7 'success':10 'thad':35 'undo':9 'waiver':5 'welfar':2,18,30 'welfare-to-work':1,17 'work':4,20,51 'would':48 'yall':53</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/welfare-to-work_waivers_fought_--_shouldnt_undo_successful_program_miss._la/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973716</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:56:57-04:00</created-at>
+          <title>Irritation in Congress over appropriations</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...struck a deal to delay final votes until 2013, well after the November elections and into the next congressional session. Sen. Thad Cochran, R-Miss., the ranking Republican on the Senate Appropriations Committee, said the stalled bills included spending</excerpt>
+          <fti-names>'2013':14 'appropri':5,38 'bill':43 'cochran':28 'committe':39 'congress':3 'congression':24 'deal':8 'delay':10 'elect':19 'final':11 'includ':44 'irrit':1 'istockanalyst':46 'miss':31 'next':23 'novemb':18 'r':30 'r-miss':29 'rank':33 'republican':34 'said':40 'sen':26 'senat':37 'session':25 'spend':45 'stall':42 'struck':6 'thad':27 'vote':12 'well':15</fti-names>
+          <source-url>http://www.istockanalyst.com/</source-url>
+          <url>http://www.istockanalyst.com/article/viewarticle/articleid/5977048</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972577</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>iStockAnalyst</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:24:30-04:00</created-at>
+          <title>Senate Panel Approves Defense Bill</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...shifts control of the Senate to Republicans, the bill could be in for changes. &#8220;There would be some additional work,&#8221; said Sen. Thad Cochran (Miss.), the committee&#8217;s top Republican. So far, the agreement on the continuing resolution does not inclu</excerpt>
+          <fti-names>'addit':24 'agreement':39 'approv':3 'aviat':47 'bill':5,14 'chang':19 'cochran':29 'committe':32 'continu':42 'control':7 'could':15 'defens':4 'far':37 'inclu':46 'miss':30 'panel':2 'republican':12,35 'resolut':43 'said':26 'sen':27 'senat':1,10 'shift':6 'thad':28 'top':34 'week':48 'work':25 'would':21</fti-names>
+          <source-url>http://www.aviationweek.com/</source-url>
+          <url>http://www.aviationweek.com/Article.aspx?id=/article-xml/asd_08_03_2012_p01-02-482857.xml</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971926</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Aviation Week</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-08-03T03:07:15-04:00</created-at>
+          <title>Senate Adds Dome Restoration Funding</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...to continue restoring the aging Capitol Dome. Senate Appropriations Chairman Daniel Inouye (D-Hawaii) and ranking member Thad Cochran (R-Miss.) proposed the funding increase in an amendment to the bill originally slated at $4.2 billion &#8212; 0.6 percent b</excerpt>
+          <fti-names>'0.6':44 '4.2':42 'add':2 'age':10 'amend':35 'appropri':14 'b':46 'bill':38 'billion':43 'call':48 'capitol':11 'chairman':15 'cochran':25 'continu':7 'd':19 'd-hawaii':18 'daniel':16 'dome':3,12 'fund':5,31 'hawaii':20 'increas':32 'inouy':17 'member':23 'miss':28 'origin':39 'percent':45 'propos':29 'r':27 'r-miss':26 'rank':22 'restor':4,8 'roll':47 'senat':1,13 'slate':40 'thad':24</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/senate_adds_dome_restoration_funding-216699-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16971129</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:48-04:00</created-at>
+          <title>Deal reached on federal gov't funding</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...the Times he likely will not support the measure but conceded avoiding a debate over the funding issue was &quot;a good idea.&quot; Sen. Thad Cochran , the top Republican on the Senate Appropriations panel, expressed the same sentiment to the Washington publicati</excerpt>
+          <fti-names>'appropri':39 'avoid':19 'cochran':32 'conced':18 'deal':1 'debat':21 'express':41 'feder':4 'fund':7,24 'good':28 'gov':5 'idea':29 'intern':51 'issu':25 'like':11 'measur':16 'panel':40 'press':50 'publicati':48 'reach':2 'republican':35 'sen':30 'senat':38 'sentiment':44 'support':14 'thad':31 'time':9 'top':34 'unit':49 'washington':47</fti-names>
+          <source-url>http://www.upi.com/</source-url>
+          <url>http://pheed.upi.com/click.phdo?i=dd9041b8047bf3a9a73d0cb6d2608fe9</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16967530</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:29-04:00</created-at>
+          <title>Deal reached to avert U.S. gov't shutdown</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Thad Cochran, the top Republican on the Senate Appropriations panel, expressed the same sentiment to the Washington publication Roll Call. &quot;I think it's a good idea to pass an appropriations bill as soon as we can,&quot; the Mississippi Republican said.</excerpt>
+          <fti-names>'appropri':18,40 'avert':4 'bill':41 'call':29 'cochran':11 'deal':1 'express':20 'good':35 'gov':6 'idea':36 'intern':53 'mississippi':48 'panel':19 'pass':38 'press':52 'public':27 'reach':2 'republican':14,49 'roll':28 'said':50 'sen':9 'senat':17 'sentiment':23 'shutdown':8 'soon':43 'thad':10 'think':31 'top':13 'u.s':5 'unit':51 'washington':26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.upi.com/Top_News/US/2012/07/31/Deal-reached-to-avert-US-govt-shutdown/UPI-53841343761713/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T15:09:25-04:00</date>
+          <id type="integer">16967527</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>United Press International</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:29-04:00</created-at>
+          <title>Deal to Avert Government Shutdown Appears Imminent</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Sen. Thad Cochran, the top Republican on the Senate Appropriations panel, expressed hope that a deal would be reached as soon as possible. &#8220;I think it&#8217;s a good idea to pass an appropriations bill as soon as we can. The agencies and departments need to </excerpt>
+          <fti-names>'agenc':49 'appear':6 'appropri':17,41 'avert':3 'bill':42 'call':55 'cochran':10 'deal':1,23 'depart':51 'express':19 'good':36 'govern':4 'hope':20 'idea':37 'immin':7 'need':52 'onlin':56 'panel':18 'pass':39 'possibl':30 'reach':26 'republican':13 'roll':54 'sen':8 'senat':16 'shutdown':5 'soon':28,44 'thad':9 'think':32 'top':12 'would':24</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.rollcall.com/news/deal_to_avert_government_shutdown_appears_imminent-216592-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T13:14:53-04:00</date>
+          <id type="integer">16967528</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call Online</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:48-04:00</created-at>
+          <title>Deal to Avert Government Shutdown Appears Imminent</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...committee staffers with lists of changes from the current spending levels called &#8220;anomalies&#8221; for inclusion in the measure. Sen. Thad Cochran, the top Republican on the Senate Appropriations panel, expressed hope that a deal would be reached as soon </excerpt>
+          <fti-names>'anomali':20 'appear':6 'appropri':35 'avert':3 'call':19,48 'chang':13 'cochran':28 'committe':8 'current':16 'deal':1,41 'express':37 'govern':4 'hope':38 'immin':7 'inclus':22 'level':18 'list':11 'measur':25 'panel':36 'reach':44 'republican':31 'roll':47 'sen':26 'senat':34 'shutdown':5 'soon':46 'spend':17 'staffer':9 'thad':27 'top':30 'would':42</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/Deal-to-Avert-Government-Shutdown-Appears-Imminent-216593-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967532</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:48-04:00</created-at>
+          <title>Harry Reid Announces Deal to Avert Government Shutdown</title>
+          <contains-term>republican</contains-term>
+          <excerpt>...changes from the current spending levels called &#8220;anomalies&#8221; for inclusion in the measure. Before Reid&#8217;s announcement, Sen. Thad Cochran, the top Republican on the Senate Appropriations panel, expressed hope that a deal would be reached as soon as </excerpt>
+          <fti-names>'announc':3,25 'anomali':16 'appropri':35 'avert':6 'call':15,49 'chang':9 'cochran':28 'current':12 'deal':4,41 'express':37 'govern':7 'harri':1 'hope':38 'inclus':18 'level':14 'measur':21 'panel':36 'reach':44 'reid':2,23 'republican':31 'roll':48 'sen':26 'senat':34 'shutdown':8 'soon':46 'spend':13 'thad':27 'top':30 'would':42</fti-names>
+          <source-url>http://www.rollcall.com/</source-url>
+          <url>http://www.rollcall.com/news/harry_reid_announces_deal_to_avert_government_shutdown-216595-1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967531</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Roll Call</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-31T23:29:48-04:00</created-at>
+          <title>Cochran votes against Democrats tax increases</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...Senator Thad Cochran (R-Miss.) today cast votes on two tax measures that signal his opposition to federal tax increases particularly at a time when the U.S. economy continues to struggle with high unemployment rates and flat growth. The Senate on Wednes</excerpt>
+          <fti-names>'cast':14 'cochran':1,9 'continu':36 'democrat':4 'economi':35 'feder':25 'flat':44 'growth':45 'high':40 'increas':6,27 'measur':19 'miss':12 'opposit':23 'particular':28 'polit':51 'r':11 'r-miss':10 'rate':42 'senat':7,47 'signal':21 'struggl':38 'tax':5,18,26 'thad':8 'time':31 'today':13 'two':17 'u.s':34 'unemploy':41 'vote':2,15 'wedn':49 'yall':50</fti-names>
+          <source-url>http://yallpolitics.com/</source-url>
+          <url>http://yallpolitics.com/index.php/yp/post/cochran_votes_against_democrats_tax_increases/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16967529</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Yall Politics</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Thad Cochran [R, MS]</name>
+      <bioguide-id>C000567</bioguide-id>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <youtube-id nil="true"></youtube-id>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:51-04:00</created-at>
+          <title>The PJ Tatler &#187; Treaty Overboard: Just Three More &amp;#39;No&amp;#39; Vows ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Nebraska Republican Mike Johanns was the latest to sign on, leaving the treaty &#8212; which needs two-thirds of the Senate for ratification &#8212; just three votes away from being blocked. Heritage Action is targeting Sens. Kelly Ayotte (R-N.H.), Thad   Cochran </excerpt>
+          <fti-names>'action':42 'away':37 'ayott':47 'block':40 'bridget':54 'cochran':53 'h':51 'heritag':41 'johann':14 'johnson':55 'kelli':46 'latest':17 'leav':21 'mike':13 'n':50 'nebraska':11 'need':25 'overboard':5 'pj':2 'r':49 'r-n':48 'ratif':33 'republican':12 'sen':45 'senat':31 'sign':19 'target':44 'tatler':3 'thad':52 'third':28 'three':7,35 'treati':4,23 'two':27 'two-third':26 'vote':36 'vow':10</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://pjmedia.com/tatler/2012/07/12/treaty-overboard-just-three-more-no-vows-needed-to-block-law-of-the-sea/&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CEAQmAEwCA&amp;usg=AFQjCNHrBS7TXqG10jkZZNiaftR55dvh1A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16602440</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Bridget Johnson</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:47-04:00</created-at>
+          <title>We&amp;#39;ve Almost Defeated Ant-Sovereignty Treaty, Lost | Madison Project</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Kelly Ayotte (R-NH) 202-224-3324. Senator Scott Brown (R-MA) 202-224-4543. Senator Thad Cochran (R-MS) 202-224-5054. Senator Bob Corker (R-TN) 202-224-3344. Senator Mike Enzi (R-WY) 202-224-3841 ...</excerpt>
+          <fti-names>'-224':19,28,37,46,55 '-3324':20 '-3344':47 '-3841':56 '-4543':29 '-5054':38 '202':18,27,36,45,54 'almost':3 'ant':6 'ant-sovereignti':5 'ayott':14 'bob':40 'brown':23 'cochran':32 'corker':41 'daniel':57 'defeat':4 'enzi':50 'horowitz':58 'kelli':13 'lost':9 'ma':26 'madison':10 'mike':49 'ms':35 'nh':17 'project':11 'r':16,25,34,43,52 'r-ma':24 'r-ms':33 'r-nh':15 'r-tn':42 'r-wi':51 'scott':22 'senat':12,21,30,39,48 'sovereignti':7 'thad':31 'tn':44 'treati':8 've':2 'wy':53</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://madisonproject.com/2012/07/weve-almost-defeated-ant-sovereignty-treat-lost/&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNHNp7NJN3CIQXnwRH8uFYnZhy0FbQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16602434</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Daniel Horowitz</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:46-04:00</created-at>
+          <title>U.S. Sen. Thad Cochran backs plan to rehabilitate B-2 rocket test ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Test stand at Stennis Space Center would support NASA&amp;#39;s Space Launch System program.</excerpt>
+          <fti-names>'-2':10 'associ':28 'b':9 'back':5 'center':18 'cochran':4 'launch':24 'nasa':21 'plan':6 'press':29 'program':26 'rehabilit':8 'rocket':11 'sen':2 'space':17,23 'stand':14 'stenni':16 'support':20 'system':25 'test':12,13 'thad':3 'u.s':1 'would':19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.nola.com/politics/index.ssf/2012/07/us_sen_thad_cochran_backs_plan.html&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNEJifuNq90LfG96MtsqKDx9lpGmHw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16602432</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:49-04:00</created-at>
+          <title>Congress sends 27-month highway reauthorization to White House ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Mississippi Sen. Thad Cochran voted for final passage of a measure that will allow Mississippi to move forward with transportation projects that rely on federal-aid highway construction and highway safety programs.</excerpt>
+          <fti-names>'/farm_press_blog/':45 '27':3 'aid':36 'allow':23 'blog.deltafarmpress.com':44 'blog.deltafarmpress.com/farm_press_blog':43 'cochran':13 'congress':1 'construct':38 'feder':35 'federal-aid':34 'final':16 'forward':27 'highway':5,37,40 'hous':9 'measur':20 'mississippi':10,24 'month':4 'move':26 'passag':17 'program':42 'project':30 'reauthor':6 'reli':32 'safeti':41 'sen':11 'send':2 'thad':12 'transport':29 'vote':14 'white':8</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://deltafarmpress.com/government/congress-sends-27-month-highway-reauthorization-white-house&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNFXjzdLnsatPVKyHeJxjH7ntoDYAg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-10T01:00:00-04:00</date>
+          <id type="integer">16602436</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://blog.deltafarmpress.com/farm_press_blog/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:50-04:00</created-at>
+          <title>Sen. Thad Cochran attends WAMA expansion groundbreaking in ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>Sen. Thad Cochran attends WAMA expansion groundbreaking in Ocean Springs &#8230; Mississippi Press (blog) OCEAN SPRINGS, Mississippi &#8212; A $750000 expansion project at the Walter Anderson Museum of Art was ...</excerpt>
+          <fti-names>'750000':26 'anderson':32 'art':35 'attend':4,12 'blog':21 'cochran':3,11 'expans':6,14,27 'groundbreak':7,15 'mississippi':19,24 'museum':33 'newseditor':37 'ocean':17,22 'press':20 'project':28 'sen':1,9 'spring':18,23 'thad':2,10 'walter':31 'wama':5,13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://gulfcoastrising.net/news/news-stream/sen-thad-cochran-attends-wama-expansion-groundbreaking-in-ocean-springs-mississippi-press-blog/&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNGUQ7h_40sqSnzqaM5wTyUBQAPI7A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16602437</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>newseditor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-14T07:09:47-04:00</created-at>
+          <title>Sen. Thad Cochran attends WAMA expansion groundbreaking in ...</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>OCEAN SPRINGS, Mississippi -- A $750000 expansion project at the Walter Anderson Museum of Art was celebrated with a groundbreaking ceremony Friday morning. The expansion will increase gallery space by adding ...</excerpt>
+          <fti-names>'750000':13 'ad':38 'anderson':19 'art':22 'attend':4 'bever':39 'celebr':24 'ceremoni':28 'cochran':3 'expans':6,14,32 'friday':29 'galleri':35 'groundbreak':7,27 'increas':34 'mississippi':11,42 'morn':30 'museum':20 'ocean':9 'press':43 'project':15 'sen':1 'space':36 'spring':10 'thad':2 'tuskan':40 'walter':18 'wama':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blog.gulflive.com/mississippi-press-news/2012/07/sen_cochran_attends_wama_expan.html&amp;sa=U&amp;ei=eVMBUIj1LsLo2QWf2Z3KCw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNH3jS1xI3Eg3hQA8bvNkGJdl5bCCw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16602433</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Beverly Tuskan, The Mississippi Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-01T02:57:26-04:00</created-at>
+          <title>Letter to the United States Senate: From a Patriot | Friends Of Liberty</title>
+          <contains-term>senate</contains-term>
+          <excerpt>TO: The Following Members Of The United States Senate: The Hon. Lamar Alexander, The Hon. Kelly Ayotte, The Hon. Scott Brown, The Hon. Thad Cochran, The Hon. Susan Collins, The Hon. Bob Corker, The Hon. Michael ...</excerpt>
+          <fti-names>'alexand':25 'ayott':29 'bob':44 'brown':33 'cochran':37 'collin':41 'corker':45 'follow':15 'friend':10 'hon':23,27,31,35,39,43,47 'kelli':28 'lamar':24 'letter':1 'liberti':12 'member':16 'michael':48 'patriot':9 'richard':49 'scott':32 'senat':6,21 'state':5,20 'susan':40 'thad':36 'unit':4,19</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://wwwlibertyfriends.blogspot.com/2012/06/letter-to-united-states-senate-from.html&amp;sa=U&amp;ei=0fTvT-fsHc382gWRtLDdCg&amp;ved=0CDQQmAEwBg&amp;usg=AFQjCNGU3Xbe8uzKVjlWk0paOPErbFkoFQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16318789</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Richard</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-01T02:57:25-04:00</created-at>
+          <title>Our view: Health Care debate doesn&amp;#39;t end with Court&amp;#39;s ruling - The ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>In Mississippi, conservative office-holders dashed off their own &amp;quot;statements&amp;quot; to the media, ranging from measured (U.S. Senator Thad Cochran), to ridiculous (Secretary of State Delbert Hosemann), to shrill (Governor Phil ...</excerpt>
+          <fti-names>'care':4 'cochran':34 'conserv':16 'court':10 'dash':20 'debat':5 'delbert':40 'doesn':6 'end':8 'governor':44 'health':3 'holder':19 'hosemann':41 'measur':30 'media':27 'mississippi':15 'offic':18 'office-hold':17 'phil':45 'rang':28 'ridicul':36 'rule':12 'secretari':37 'senat':32 'shrill':43 'state':39 'statement':24 'thad':33 'u.s':31 'view':2 'www.cdispatch.com':46</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.cdispatch.com/opinions/article.asp%3Faid%3D17646&amp;sa=U&amp;ei=0fTvT-fsHc382gWRtLDdCg&amp;ved=0CCwQmAEwBA&amp;usg=AFQjCNG4b3sJj3jnBG1O8sGDOEcuSusAhg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16318787</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.cdispatch.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-01T02:57:25-04:00</created-at>
+          <title>Legislative Updates June 29, 2012 :: Kadrmas, Lee &amp;amp; Jackson, Inc</title>
+          <contains-term>senator</contains-term>
+          <excerpt>Senator Ben Cardin (D-MD) and Senator Thad Cochran (R-MS) were instrumental in negotiating bipartisan compromise for continued bicycle and pedestrian funding in the highway bill. The agreement also fully funds the ...</excerpt>
+          <fti-names>'2012':5 '29':4 'agreement':40 'also':41 'ben':11 'bicycl':31 'bill':38 'bipartisan':27 'cardin':12 'cochran':19 'compromis':28 'continu':30 'd':14 'd-md':13 'fulli':42 'fund':34,43 'highway':37 'inc':9 'instrument':24 'jackson':8 'june':3 'kadrma':6 'lee':7 'legisl':1 'md':15 'ms':22 'negoti':26 'pedestrian':33 'r':21 'r-ms':20 'senat':10,17 'thad':18 'traceyw':45 'updat':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.kljeng.com/legislative-updates-june-29-2012/&amp;sa=U&amp;ei=0fTvT-fsHc382gWRtLDdCg&amp;ved=0CCcQmAEwAw&amp;usg=AFQjCNE_x4IH45LOvaHVKbmJaP12qHu47A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16318786</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>TraceyW</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">300023</commentariable-id>
+          <created-at type="datetime">2012-07-01T02:57:25-04:00</created-at>
+          <title>The Senate&amp;#39;s Last Social Media Luddite? - OhMyGov News</title>
+          <contains-term>senate</contains-term>
+          <excerpt>Senator Risch&amp;#39;s avoidance of these popular social media platforms is highly unusual in this day of real-time reactions and constant campaigning. Just one other current Senator is absent on Facebook, Thad Cochran (R-MI), ...</excerpt>
+          <fti-names>'absent':40 'avoid':13 'campaign':33 'cochran':44 'constant':32 'current':37 'day':25 'facebook':42 'high':21 'last':4 'luddit':7 'media':6,18 'mi':47 'news':9 'ohmygov':8 'one':35 'platform':19 'popular':16 'pruitt':49 'r':46 'r-mi':45 'reaction':30 'real':28 'real-tim':27 'risch':11 'senat':2,10,38 'social':5,17 'thad':43 'thoma':48 'time':29 'unusu':22</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ohmygov.com/blogs/general_news/archive/2012/06/29/the-senate-s-last-social-media-luddite.aspx&amp;sa=U&amp;ei=0fTvT-fsHc382gWRtLDdCg&amp;ved=0CCMQmAEwAg&amp;usg=AFQjCNHEIqICpWSRmVq3H_vcTP6Jl0o5hw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-30T01:00:00-04:00</date>
+          <id type="integer">16318785</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Thomas Pruitt</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">32931</page-views-count>
+      <unaccented-name>Thad Cochran</unaccented-name>
+      <oc-user-comments type="integer">20</oc-user-comments>
+    </person>
+  </people>
+</hash>

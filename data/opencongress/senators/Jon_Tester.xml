@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-19T11:16:53-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">89.0862944162436</party-votes-percentage>
+        <abstains-percentage type="float">0.253164556962025</abstains-percentage>
+        <votes-most-often-with-id type="integer">300005</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">1</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">45</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">11</cosponsored-bills-passed-rank>
+        <abstains type="integer">1</abstains>
+        <cosponsored-bills type="integer">244</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">44</party-votes-percentage-rank>
+        <sponsored-bills type="integer">57</sponsored-bills>
+        <votes-least-often-with-id type="integer">400105</votes-least-often-with-id>
+        <person-id type="integer">412244</person-id>
+        <cosponsored-bills-rank type="integer">23</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">300077</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">2</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">14</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">4</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">300025</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">170</votes-republican-position>
+      <blog-article-count type="integer">11133</blog-article-count>
+      <metavid-id>Jon_Tester</metavid-id>
+      <user-approval type="float">3.51666666666667</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">339</oc-users-tracking>
+      <bioguide-id>T000464</bioguide-id>
+      <contact-webform>http://www.tester.senate.gov/Contact/index.cfm</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">89.0862944162436</with-party-percentage>
+      <youtube-id>SenatorJonTester</youtube-id>
+      <lastname>Tester</lastname>
+      <congress-office>724 Hart Senate Office Building</congress-office>
+      <firstname>Jon</firstname>
+      <fax>202-224-8594</fax>
+      <website>http://www.tester.senate.gov/</website>
+      <birthday type="date">1956-08-21</birthday>
+      <person-id type="integer">412244</person-id>
+      <phone>202-224-2644</phone>
+      <religion nil="true"></religion>
+      <votes-democratic-position type="integer">351</votes-democratic-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:25-04:00</created-at>
+          <title>DSCC hits 'millionaire' Rehberg</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...against minimum wage hikes but for Washington pay raises. Part of the effort with Rehberg, who is challenging incumbent Sen. Jon Tester for a seat the GOP needs to take back the Senate majority, has been to try to dampen any appeal he could have with in</excerpt>
+          <fti-names>'appeal':46 'back':35 'challeng':22 'could':48 'dampen':44 'dscc':1 'effort':17 'gop':31 'hike':8 'hit':2 'incumb':23 'jon':25 'major':38 'millionair':3 'minimum':6 'need':32 'part':14 'pay':12 'politico':53 'rais':13 'rehberg':4,19 'seat':29 'sen':24 'senat':37 'take':34 'tester':26 'tri':42 'wage':7 'washington':11</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://feeds.politico.com/click.phdo?i=b508cc5af83434790e7d1e92b17234a7</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973900</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:25-04:00</created-at>
+          <title>Hotline Sort: The Welfare Wars</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...access to health care for veterans. Cardon's campaign denied to the Arizona Republic that they were winding down. 6) Sen. Jon Tester is launching a new $90,000 ad buy today. The ad, which will run statewide on broadcast and cable, highlights his indepen</excerpt>
+          <fti-names>'000':34 '6':25 '90':33 'access':6 'ad':35,39 'arizona':18 'broadcast':45 'buy':36 'cabl':47 'campaign':14 'cardon':12 'care':9 'deni':15 'health':8 'highlight':48 'hotlin':1 'indepen':50 'jon':27 'journal':52 'launch':30 'nation':51 'new':32 'republ':19 'run':42 'sen':26 'sort':2 'statewid':43 'tester':28 'today':37 'veteran':11 'war':5 'welfar':4 'wind':23</fti-names>
+          <source-url>http://www.nationaljournal.com/</source-url>
+          <url>http://hotlineoncall.nationaljournal.com/archives/2012/08/hotline-sort-th-33.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973899</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>National Journal</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:25-04:00</created-at>
+          <title>Democratic Senator 'Took On Obama Administration,' New Ad Boasts</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...new lengths to distance himself from his party's standard-bearer. In a 30-second spot released Tuesday, a narrator boasts that Sen. Jon Tester (D-Mont.) was the &quot;only Democrat who voted against both the Wall Street and auto bailouts,&quot; as well as &quot;took o</excerpt>
+          <fti-names>'30':24 'ad':8 'administr':6 'auto':51 'bailout':52 'bearer':21 'boast':9,31 'd':37 'd-mont':36 'democrat':1,42 'distanc':13 'huffington':59 'jon':34 'length':11 'mont':38 'narrat':30 'new':7,10 'o':57 'obama':5 'parti':17 'post':60 'releas':27 'second':25 'sen':33 'senat':2 'spot':26 'standard':20 'standard-bear':19 'street':49 'tester':35 'took':3,56 'tuesday':28 'vote':44 'wall':48 'well':54</fti-names>
+          <source-url>http://www.huffingtonpost.com/</source-url>
+          <url>http://www.huffingtonpost.com/2012/08/07/jon-tester-obama_n_1751524.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973898</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Huffington Post</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:24-04:00</created-at>
+          <title>Tester touts splits with Obama in new ad</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...statewide with $90,000 behind it, the latest in a series of small but not insignificant buys from the Tester campaign. Sen. Jon Tester (D-Mont.) is out with a new ad touting his breaks with President Obama and other Democrats on issues ranging from the </excerpt>
+          <fti-names>'000':12 '90':11 'ad':8,41 'behind':13 'break':44 'buy':25 'campaign':29 'd':34 'd-mont':33 'democrat':50 'hill':57 'insignific':24 'issu':52 'jon':31 'latest':16 'mont':35 'new':7,40 'obama':5,47 'presid':46 'rang':53 'sen':30 'seri':19 'small':21 'split':3 'statewid':9 'tester':1,28,32 'tout':2,42</fti-names>
+          <source-url>http://www.thehill.com/</source-url>
+          <url>http://thehill.com/video/campaign/242477-tester-touts-splits-with-obama-in-new-ad</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973897</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Hill</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-07T23:08:24-04:00</created-at>
+          <title>Tester ad highlights breaks from Obama</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...&#8211; Democratic Senator Jon Tester released a new television ad Tuesday highlighting his breaks with the Obama administration&#8211;like voting against Wall Street and for the Keystone Pipeline&#8211;and touting the Montana senator's home state first voting reco</excerpt>
+          <fti-names>'ad':2,15 'administr':23 'break':4,19 'cnn':45 'democrat':7 'first':42 'highlight':3,17 'home':40 'jon':9 'keyston':32 'like':24 'montana':37 'new':13 'obama':6,22 'pipelin':33 'reco':44 'releas':11 'senat':8,38 'state':41 'street':28 'televis':14 'tester':1,10 'tout':35 'tuesday':16 'vote':25,43 'wall':27</fti-names>
+          <source-url>http://www.cnn.com/</source-url>
+          <url>http://rss.cnn.com/~r/rss/cnn_politicalticker/~3/rSs0VZqSfD4/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973896</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CNN</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:16:08-04:00</created-at>
+          <title>Bullhook clinic looks at 5th Avenue location</title>
+          <contains-term>representative</contains-term>
+          <excerpt>A &#8220;For Sale&#8221; sign on the lawn of the Heberly Building, across from City Hall on 4th Street, may disappear soon if Bullhook Community Health Center purchases it, as representatives said they are considering. Bullhook Community Health Center Executive Di</excerpt>
+          <fti-names>'4th':24 '5th':5 'across':19 'avenu':6 'build':18 'bullhook':1,30,42 'center':33,45 'citi':21 'clinic':2 'communiti':31,43 'consid':41 'daili':49 'di':47 'disappear':27 'execut':46 'hall':22 'havr':48 'health':32,44 'heber':17 'lawn':14 'locat':7 'look':3 'may':26 'news':50 'purchas':34 'repres':37 'said':38 'sale':10 'sign':11 'soon':28 'street':25</fti-names>
+          <source-url>http://www.havredailynews.com/</source-url>
+          <url>http://www.havredailynews.com/cms/news/story-632725.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16973254</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Havre Daily News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-05T23:03:37-04:00</created-at>
+          <title>Report: Seven Dead in Milwaukee in Shooting at Sikh Temple</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...total blackout on details to public Old Coot&#8230;you beat me to that one by just a few minutes! has anyone seen Bob Beckel or Sen. Jon Tester on any Sunday news show? They should prove they were not in Milwaukee. Bob Beckel&#8217;s only potential allibi regar</excerpt>
+          <fti-names>'allibi':57 'anyon':31 'beat':20 'beckel':34,53 'blackout':12 'bob':33,52 'comment':62 'coot':18 'dead':3 'detail':14 'jon':37 'milwauke':5,51 'minut':29 'news':42 'old':17 'one':24 'patterico':59 'pontif':61 'potenti':56 'prove':46 'public':16 'regar':58 'report':1 'seen':32 'sen':36 'seven':2 'shoot':7 'show':43 'sikh':9 'sunday':41 'templ':10 'tester':38 'total':11</fti-names>
+          <source-url>http://patterico.com/</source-url>
+          <url>http://patterico.com/2012/08/05/report-seven-dead-in-milwaukee-in-shooting-at-sikh-temple/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972671</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Patterico's Pontifications Comments</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-04T23:29:26-04:00</created-at>
+          <title>Election 2012: Steve Daines, dinosaurs and a Kentucky breakfast</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...fundraising events aren&#8217;t unusual; Sen. Jon Tester appeared at one in San Francisco in June, and Tester challenger Rep. Denny Rehberg hosted a reception for Daines in Washington, D.C., that same month. But the venue seems a curious choice this time ar</excerpt>
+          <fti-names>'2012':2 'appear':18 'ar':52 'aren':12 'breakfast':9 'challeng':28 'choic':49 'curious':48 'd.c':39 'dain':4,36 'denni':30 'dinosaur':5 'elect':1 'event':11 'francisco':23 'fundrais':10 'host':32 'independ':54 'jon':16 'june':25 'kentucki':8 'missoula':53 'month':42 'one':20 'recept':34 'rehberg':31 'rep':29 'san':22 'seem':46 'sen':15 'steve':3 'tester':17,27 'time':51 'unusu':14 'venu':45 'washington':38</fti-names>
+          <source-url>http://missoulanews.bigskypress.com/</source-url>
+          <url>http://missoulanews.bigskypress.com/IndyBlog/archives/2012/08/04/election-2012-steve-daines-dinosaurs-and-a-kentucky-breakfast</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972395</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Missoula Independent</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:16-04:00</created-at>
+          <title>The Senator Harry Reid wants most to protect</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...than mine. And from what I&#8217;m hearing, the Senate Majority Leader is fixated on the Montana race, in which the incumbent Democrat Jon Tester is trying to hold off challenger Rep. Denny Rehberg. There isn&#8217;t much Reid can do right now by way of passing</excerpt>
+          <fti-names>'challeng':39 'democrat':31 'denni':41 'fixat':22 'harri':3 'hear':16 'hold':37 'incumb':30 'isn':44 'jon':32 'leader':20 'line':57 'm':15 'major':19 'mine':10 'montana':25 'much':46 'pass':55 'power':56 'protect':8 'race':26 'rehberg':42 'reid':4,47 'rep':40 'right':50 'senat':2,18 'tester':33 'tri':35 'want':5 'way':53</fti-names>
+          <source-url>http://powerlineblog.com/</source-url>
+          <url>http://feedproxy.google.com/~r/powerlineblog/livefeed/~3/tOCEt2GT-wQ/the-senator-harry-reid-wants-most-to-protect.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972091</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Power Line</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-08-03T23:33:16-04:00</created-at>
+          <title>Tricare will again cover breast cancer tests</title>
+          <contains-term>senate</contains-term>
+          <excerpt>...have had breast cancer or those already diagnosed with certain tumors &#8212; will be published by Tricare in August. In April, Sen. Jon Tester, D-Mont., a member of the Senate Cancer Coalition, implored the Defense Department to offer the screenings. He wr</excerpt>
+          <fti-names>'alreadi':14 'april':27 'august':25 'breast':5,10 'cancer':6,11,39 'certain':17 'coalit':40 'corp':52 'cover':4 'd':32 'd-mont':31 'defens':43 'depart':44 'diagnos':15 'implor':41 'jon':29 'marin':51 'member':35 'mont':33 'offer':46 'publish':21 'screen':48 'sen':28 'senat':38 'test':7 'tester':30 'time':53 'tricar':1,23 'tumor':18 'wr':50</fti-names>
+          <source-url>http://www.marinecorpstimes.com/</source-url>
+          <url>http://www.marinecorpstimes.com/news/2012/08/military-breast-cancer-tests-tricare-080312w/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16972090</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Marine Corps Times</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Sen. Jon Tester [D, MT]</name>
+      <middlename nil="true"></middlename>
+      <total-session-votes type="integer">394</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district nil="true"></district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:43-04:00</created-at>
+          <title>Republican Daines surpasses $1M in income lifted for House race ...</title>
+          <contains-term>republican</contains-term>
+          <excerpt>Wilmer finished a perform with $90000 left in her discuss account. The Montana U.S. House chair is dull given requisite Rep. Denny Rehberg, R-Mont., is serious Sen. Jon Tester, D-Mont. Daines has twin competitors in a GOP ...</excerpt>
+          <fti-names>'1m':4 '90000':16 'account':21 'businessidearesearch':52 'chair':26 'competitor':48 'd':43 'd-mont':42 'dain':2,45 'denni':32 'discuss':20 'dull':28 'finish':12 'given':29 'gop':51 'hous':9,25 'incom':6 'jon':40 'left':17 'lift':7 'mont':36,44 'montana':23 'perform':14 'r':35 'r-mont':34 'race':10 'rehberg':33 'rep':31 'republican':1 'requisit':30 'sen':39 'serious':38 'surpass':3 'tester':41 'twin':47 'u.s':24 'wilmer':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://research.businessidearesearch.us/republican-daines-surpasses-1m-in-income-lifted-for-house-race-wilmer-gillan-lead-house-demo-field/&amp;sa=U&amp;ei=BbCNT6DTPOOQ2QXd0YHwCw&amp;ved=0CEcQmAEwBw&amp;usg=AFQjCNGGpYbAhH4WaiqJiA95veRRpNF8Aw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14547112</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>BusinessIdeaResearch</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:43-04:00</created-at>
+          <title>ICBM Coalition Of Rural Senators Fights Nuclear Weapons Cuts | EZ ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democratic Sen. Kent Conrad of North Dakota and Republican Sen. Mike Enzi of Wyoming are founders and co-chairmen of the Senate ICBM Coalition, which also includes Montana Democrats Max Baucus and Jon Tester, ...</excerpt>
+          <fti-names>'admin':46 'also':37 'baucus':42 'chairmen':30 'co':29 'co-chairmen':28 'coalit':2,35 'conrad':14 'cut':9 'dakota':17 'democrat':11,40 'enzi':22 'ez':10 'fight':6 'founder':26 'icbm':1,34 'includ':38 'jon':44 'kent':13 'max':41 'mike':21 'montana':39 'north':16 'nuclear':7 'republican':19 'rural':4 'sen':12,20 'senat':5,33 'tester':45 'weapon':8 'wyom':24</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://ezwealthmoney.com/2012/04/17/icbm-coalition-of-rural-senators-fights-nuclear-weapons-cuts/&amp;sa=U&amp;ei=BbCNT6DTPOOQ2QXd0YHwCw&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNFX_AGX15CstB5OzIhuUaMhj6Pvog</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-17T01:00:00-04:00</date>
+          <id type="integer">14547108</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:43-04:00</created-at>
+          <title>ICBM Coalition Of Rural Senators Fights Nuclear Weapons Cuts</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Democratic Sen. Kent Conrad of North Dakota and Republican Sen. Mike Enzi of Wyoming are founders and co-chairmen of the Senate ICBM Coalition, which also includes Montana Democrats Max Baucus and Jon Tester, ...</excerpt>
+          <fti-names>'also':36 'baucus':41 'chairmen':29 'co':28 'co-chairmen':27 'coalit':2,34 'conrad':13 'cut':9 'dakota':16 'democrat':10,39 'editor':49 'enzi':21 'fight':6 'founder':25 'huffington':46 'icbm':1,33 'includ':37 'jon':43 'kent':12 'max':40 'mike':20 'montana':38 'news':48 'north':15 'nuclear':7 'post':47 'republican':18 'rural':4 'sen':11,19 'senat':5,32 'tester':44 'weapon':8 'wyom':23</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/04/17/icbm-coalition-rural-senators-nuclear-weapons_n_1429818.html&amp;sa=U&amp;ei=BbCNT6DTPOOQ2QXd0YHwCw&amp;ved=0CEwQmAEwCA&amp;usg=AFQjCNErRvRFrexOKT6o_DOm5EcsCPesgw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14547113</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:43-04:00</created-at>
+          <title>Introducing the NewsHour Senate Six - Rolly&amp;#39;s Election and ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Montana Sen. Jon Tester came to Washington after a surprise, narrow win in 2006. He unseated Sen. Conrad Burns in a Democratic wave year. The margin was so close (less than 3600 votes) it wasn&amp;#39;t declared until the day ...</excerpt>
+          <fti-names>'2006':23 '3600':41 'burn':28 'came':14 'close':38 'conrad':27 'day':49 'declar':46 'democrat':31 'elect':8 'introduc':1 'jon':12 'less':39 'margin':35 'montana':10 'narrow':20 'newshour':3 'rolli':6 'rollyy':50 'sen':11,26 'senat':4 'six':5 'surpris':19 'tester':13 'unseat':25 'vote':42 'washington':16 'wasn':44 'wave':32 'win':21 'year':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rollyyates.typepad.com/blog/2012/04/introducing-the-newshour-senate-six.html&amp;sa=U&amp;ei=BbCNT6DTPOOQ2QXd0YHwCw&amp;ved=0CD4QmAEwBQ&amp;usg=AFQjCNHBz-eME7mmLOwbImZhpfxJizvEdw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14547109</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rollyyates</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:08:08-04:00</created-at>
+          <title>Senate falls short in bid to take up &amp;#39;Buffett Rule&amp;#39; | Popular Herbals</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Republican Scott Brown of Massachusetts; Democrat Jon Tester of Montana; Republican Dean Heller of Nevada; Democrat Bill Nelson of Florida. The Senate vote on Monday is only a prelude to a contentious debate at year&amp;#39;s end over what to ...</excerpt>
+          <fti-names>'admin':53 'bid':5 'bill':29 'brown':15 'buffett':9 'contenti':44 'dean':24 'debat':45 'democrat':18,28 'end':49 'fall':2 'florida':32 'heller':25 'herbal':12 'jon':19 'massachusett':17 'monday':37 'montana':22 'nelson':30 'nevada':27 'popular':11 'prelud':41 'republican':13,23 'rule':10 'scott':14 'senat':1,34 'short':3 'take':7 'tester':20 'vote':35 'year':47</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://popularna.tv/senate-falls-short-in-bid-to-take-up-buffett-rule/&amp;sa=U&amp;ei=p-yMT8z2CeWw2wW92sidDA&amp;ved=0CFYQmAEwCg&amp;usg=AFQjCNGR3-FW9YCbnBo-AH7d1qgF1JD_FA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527858</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:08:07-04:00</created-at>
+          <title>Gillan, Wilmer Lead Democrats in Cash Race | Flathead Beacon</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Two other Democrats seeking the seat, Sam Ranks and Jason Ward, have also raised small amounts so far. U.S. Rep. Denny Rehberg vacated the seat to challenge U.S. Sen. Jon Tester, which has shaped up to the top race ...</excerpt>
+          <fti-names>'also':22 'amount':25 'associ':49 'beacon':9 'cash':6 'challeng':36 'democrat':4,12 'denni':30 'far':27 'flathead':8 'gillan':1 'jason':19 'jon':39 'lead':3 'press':50 'race':7,48 'rais':23 'rank':17 'rehberg':31 'rep':29 'sam':16 'seat':15,34 'seek':13 'sen':38 'shape':43 'small':24 'tester':40 'top':47 'two':10 'u.s':28,37 'vacat':32 'ward':20 'wilmer':2</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.flatheadbeacon.com/articles/article/gillan_wilmer_lead_democrats_in_cash_race/27544/&amp;sa=U&amp;ei=p-yMT8z2CeWw2wW92sidDA&amp;ved=0CD8QmAEwBQ&amp;usg=AFQjCNGrB7xf4wdgxE5uXNNUg_lTfPY1Ig</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527853</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T00:08:07-04:00</created-at>
+          <title>Introducing the NewsHour Senate Six - Rolly&amp;#39;s Election and ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Montana Sen. Jon Tester came to Washington after a surprise, narrow win in 2006. He unseated Sen. Conrad Burns in a Democratic wave year. The margin was so close (less than 3600 votes) it wasn&amp;#39;t declared until the day ...</excerpt>
+          <fti-names>'2006':23 '3600':41 'burn':28 'came':14 'close':38 'conrad':27 'day':49 'declar':46 'democrat':31 'elect':8 'introduc':1 'jon':12 'less':39 'margin':35 'montana':10 'narrow':20 'newshour':3 'rolli':6 'rollyy':50 'sen':11,26 'senat':4 'six':5 'surpris':19 'tester':13 'unseat':25 'vote':42 'washington':16 'wasn':44 'wave':32 'win':21 'year':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rollyyates.typepad.com/blog/2012/04/introducing-the-newshour-senate-six.html&amp;sa=U&amp;ei=p-yMT8z2CeWw2wW92sidDA&amp;ved=0CDoQmAEwBA&amp;usg=AFQjCNHWSKKVlHiC3mI-h8PUMmPB39DOJw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14527852</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rollyyates</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:48:58-04:00</created-at>
+          <title>Handful of races seen as key to control of Senate | NorthIowaToday ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Montana &#8212; Like McCaskill, Sen. Jon Tester is a moderate Democrat who arrived in Washington in 2006. But moderates in both parties are imperiled these days and Tester is no exception. The GOP candidate, Rep. Denny Rehberg, is a ...</excerpt>
+          <fti-names>'-123':51 '2006':27 'arriv':23 'candid':44 'control':8 'day':36 'democrat':21 'denni':46 'except':41 'gop':43 'hand':1 'imperil':34 'jon':16 'key':6 'like':13 'mccaskil':14 'moder':20,29 'montana':12 'northiowatoday':11 'parti':32 'qatdrake91':50 'race':3 'rehberg':47 'rep':45 'seen':4 'sen':15 'senat':10 'tester':17,38 'washington':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.northiowatoday.com/%3Fp%3D16952&amp;sa=U&amp;ei=iVuMT8m3BOnM2AXe7qHlCQ&amp;ved=0CFYQmAEwCg&amp;usg=AFQjCNGoL0lhAZHJrBEN3MoWug9ASII75w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508426</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>qatdrake91-123</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-16T13:48:58-04:00</created-at>
+          <title>Introducing the NewsHour Senate Six - Rolly&amp;#39;s Election and ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Montana Sen. Jon Tester came to Washington after a surprise, narrow win in 2006. He unseated Sen. Conrad Burns in a Democratic wave year. The margin was so close (less than 3600 votes) it wasn&amp;#39;t declared until the day ...</excerpt>
+          <fti-names>'2006':23 '3600':41 'burn':28 'came':14 'close':38 'conrad':27 'day':49 'declar':46 'democrat':31 'elect':8 'introduc':1 'jon':12 'less':39 'margin':35 'montana':10 'narrow':20 'newshour':3 'rolli':6 'rollyy':50 'sen':11,26 'senat':4 'six':5 'surpris':19 'tester':13 'unseat':25 'vote':42 'washington':16 'wasn':44 'wave':32 'win':21 'year':33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://rollyyates.typepad.com/blog/2012/04/introducing-the-newshour-senate-six.html&amp;sa=U&amp;ei=iVuMT8m3BOnM2AXe7qHlCQ&amp;ved=0CDAQmAEwAg&amp;usg=AFQjCNE2xY3NzxxBwuQmOQuX_7WfDQqscA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-16T01:00:00-04:00</date>
+          <id type="integer">14508418</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>rollyyates</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">412244</commentariable-id>
+          <created-at type="datetime">2012-04-17T14:01:42-04:00</created-at>
+          <title>Montana Senator Jon Tester&#8230;. K Street&amp;#39;s Fattest Whore. &#171; THE ...</title>
+          <contains-term>senator</contains-term>
+          <excerpt>The lobbying industry&amp;#39;s favorite senator has turned Big Bank protections into a flood of campaign cash. Sen. Jon Tester (D., Mont.) received nearly $300000 from lobbyists in 2012, making him the top recipient of K Street ...</excerpt>
+          <fti-names>'2012':39 '300000':35 'bank':20 'big':19 'campaign':26 'cash':27 'd':31 'fattest':8 'favorit':15 'flood':24 'industri':13 'jon':3,29 'k':5,46 'lobbi':12 'lobbyist':37 'make':40 'mont':32 'montana':1 'near':34 'pitbul':49 'protect':21 'receiv':33 'recipi':44 'sen':28 'senat':2,16 'street':6,47 'tester':4,30 'top':43 'turn':18 'twg2a':48 'whore':9</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://twg2a.wordpress.com/2012/04/15/montana-senator-jon-tester-k-streets-fattest-whore/&amp;sa=U&amp;ei=BbCNT6DTPOOQ2QXd0YHwCw&amp;ved=0CCwQmAEwAQ&amp;usg=AFQjCNGgQN36kLdCaaslSumSNEORA4iNLA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-04-15T01:00:00-04:00</date>
+          <id type="integer">14547102</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>twg2a PitBull</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">27136</page-views-count>
+      <unaccented-name>Jon Tester</unaccented-name>
+      <biography nil="true"></biography>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

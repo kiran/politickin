@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">95.2018724400234</party-votes-percentage>
+        <abstains-percentage type="float">0.58173356602676</abstains-percentage>
+        <votes-most-often-with-id type="integer">400238</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">381</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">90</cosponsored-bills-passed-rank>
+        <abstains type="integer">10</abstains>
+        <cosponsored-bills type="integer">274</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">19</party-votes-percentage-rank>
+        <sponsored-bills type="integer">13</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400216</person-id>
+        <cosponsored-bills-rank type="integer">68</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">201</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">7</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">410</votes-republican-position>
+      <blog-article-count type="integer">5314</blog-article-count>
+      <fax>202-225-6393</fax>
+      <user-approval type="float">1.87878787878788</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">93</oc-users-tracking>
+      <contact-webform>http://www.house.gov/writerep</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">95.2018724400234</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Kildee</lastname>
+      <congress-office>2107 Rayburn House Office Building</congress-office>
+      <middlename>E.</middlename>
+      <firstname>Dale</firstname>
+      <website>http://kildee.house.gov/</website>
+      <birthday type="date">1929-09-16</birthday>
+      <person-id type="integer">400216</person-id>
+      <phone>202-225-3611</phone>
+      <religion>Roman Catholic</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1627</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:45:29-04:00</created-at>
+          <title>Time to vote: What you need to know about Genesee County's election</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...state Rep. Jim Slezak and retired law enforcement officer Tom Wassa of Fairgrove -- are vying for the chance to fill U.S. Rep. Dale Kildee's 5th District seat in Congress. Kildee, D-Flint, is retiring after 18 terms in office, and it's the first time a </excerpt>
+          <fti-names>'18':51 '5th':39 'chanc':31 'congress':43 'counti':11 'd':46 'd-flint':45 'dale':36 'district':40 'elect':13 'enforc':21 'fairgrov':26 'fill':33 'first':59 'flint':47 'genese':10 'jim':16 'kilde':37,44 'know':8 'law':20 'mlive.com':62 'need':6 'offic':22,54 'rep':15,35 'retir':19,49 'seat':41 'slezak':17 'state':14 'term':52 'time':1,60 'tom':23 'u.s':34 'vote':3 'vy':28 'wassa':24</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://www.mlive.com/news/flint/index.ssf/2012/08/genesee_county_polls_are_open.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973454</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:45:29-04:00</created-at>
+          <title>The latest Genesee County election results</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>...results, including the race to see which Republican will face off against Democrat Dan Kildee for the seat of retiring U.S. Rep. Dale Kildee, D-Flint. We will also have latest on all the races around Genesee County. Flint News stories with the most comm</excerpt>
+          <fti-names>'also':36 'around':43 'comm':52 'counti':4,45 'd':32 'd-flint':31 'dale':29 'dan':20 'democrat':19 'elect':5 'face':16 'flint':33,46 'genese':3,44 'includ':8 'kilde':21,30 'latest':2,38 'mlive.com':53 'news':47 'race':10,42 'rep':28 'republican':14 'result':6,7 'retir':26 'seat':24 'see':12 'stori':48 'u.s':27</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://www.mlive.com/news/flint/index.ssf/2012/08/up-to-date_genesee_county_elec_1.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973453</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-06T22:52:51-04:00</created-at>
+          <title>Michigan's longest-tenured Congressmen eye return to Washington</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...men will lose this election cycle, Michigan could end up losing some veteran clout on Capitol Hill. &quot;With (Flint Democratic Rep.) Dale Kildee leaving, a Conyers or Dingell departure would be a real problem for Michigan's strength in Washington,&quot; said Di</excerpt>
+          <fti-names>'capitol':26 'clout':24 'congressmen':6 'conyer':36 'could':18 'cycl':16 'dale':32 'democrat':30 'departur':39 'di':52 'dingel':38 'elect':15 'end':19 'eye':7 'flint':29 'hill':27 'kilde':33 'leav':34 'longest':4 'longest-tenur':3 'lose':13,21 'men':11 'michigan':1,17,46 'mlive.com':53 'problem':44 'real':43 'rep':31 'return':8 'said':51 'strength':48 'tenur':5 'veteran':23 'washington':10,50 'would':40</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/michigan-elections/~3/DN69zzeGwPQ/does_age_matter_nations_longes.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972859</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:48:13-04:00</created-at>
+          <title>Congress Passes Bill Allowing Electric Car Charging Stations on Capitol Hill</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Tony Lee 4 Aug 2012, 8:35 AM PDT post a comment The Hill reports that the bill was introduced by Rep. Dale Kildee (D-MI, pictured above) -- and backed by many in Michigan&#8217;s delegation -- and would require construction at no net cost to the government.</excerpt>
+          <fti-names>'2012':16 '35':18 '4':14 '8':17 'allow':4 'aug':15 'back':42 'big':60 'bill':3,29 'capitol':10 'car':6 'charg':7 'comment':23 'congress':1 'construct':52 'cost':56 'd':37 'd-mi':36 'dale':34 'deleg':48 'electr':5 'govern':59,61 'hill':11,25 'introduc':31 'kilde':35 'lee':13 'mani':44 'mi':38 'michigan':46 'net':55 'pass':2 'pdt':20 'pictur':39 'post':21 'rep':33 'report':26 'requir':51 'station':8 'toni':12 'would':50</fti-names>
+          <source-url>http://biggovernment.com/</source-url>
+          <url>http://feedproxy.google.com/~r/BigGovernment/~3/PRBD9X9hbbk/Congress-Passes-Bill-Allowing-Electric-Car-Charging-Stations-On-Capitol-Hill</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972201</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Big Government</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:37-04:00</created-at>
+          <title>Man accused of threatening lawmakers to face trial</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...calls were made to the offices of U.S. Sens. Carl Levin and Debbie Stabenow and Dellinger's congressman, U.S. Rep. Dale Kildee . Authorities say Dellinger believes he is &quot;dying of leukemia caused by the RF transmitters.&quot; Dellinger told agents transmitte</excerpt>
+          <fti-names>'accus':2 'agent':47 'author':31 'believ':34 'call':9 'carl':18 'caus':40 'chronicl':51 'congressman':26 'dale':29 'debbi':21 'delling':24,33,45 'die':37 'face':7 'francisco':50 'kilde':30 'lawmak':5 'leukemia':39 'levin':19 'made':11 'man':1 'offic':14 'rep':28 'rf':43 'san':49 'say':32 'sen':17 'stabenow':22 'threaten':4 'told':46 'transmitt':44,48 'trial':8 'u.s':16,27</fti-names>
+          <source-url>http://www.sfgate.com/</source-url>
+          <url>http://www.sfgate.com/news/article/Man-accused-of-threatening-lawmakers-to-face-trial-3760074.php</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971687</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>San Francisco Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:37-04:00</created-at>
+          <title>Federal judge rules Flint ex-con accused of threatening lawmakers competent to stand trial</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...of Flint, is accused of making threatening calls to the offices of U.S. Sens. Carl Levin and Debbie Stabenow and U.S. Rep. Dale Kildee. Dellinger told federal investigators he believes radio frequency transmitters were implanted in his body while servin</excerpt>
+          <fti-names>'accus':8,19 'believ':45 'bodi':53 'call':23 'carl':30 'compet':12 'con':7 'dale':38 'debbi':33 'delling':40 'ex':6 'ex-con':5 'feder':1,42 'flint':4,17 'frequenc':47 'implant':50 'investig':43 'judg':2 'kilde':39 'lawmak':11 'levin':31 'make':21 'mlive.com':56 'offic':26 'radio':46 'rep':37 'rule':3 'sen':29 'servin':55 'stabenow':34 'stand':14 'threaten':10,22 'told':41 'transmitt':48 'trial':15 'u.s':28,36</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://www.mlive.com/news/flint/index.ssf/2012/08/federal_judge_rules_flint_ex-c.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971686</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:37-04:00</created-at>
+          <title>Flint man on trial for threatening to kill 3 Michigan members of Congress</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...calls were made to the offices of U.S. Sens. Carl Levin and Debbie Stabenow and Dellinger's congressman, U.S. Rep. Dale Kildee. Authorities said Dellinger believes he is &quot;dying of leukemia caused by the RF transmitters.&quot; Dellinger told agents transmitte</excerpt>
+          <fti-names>'3':9 'agent':52 'author':36 'believ':39 'call':14 'carl':23 'caus':45 'congress':13 'congressman':31 'dale':34 'debbi':26 'delling':29,38,50 'die':42 'flint':1 'kilde':35 'kill':8 'leukemia':44 'levin':24 'made':16 'man':2 'member':11 'michigan':10 'offic':19 'rep':33 'rf':48 'said':37 'sen':22 'stabenow':27 'threaten':6 'told':51 'transmitt':49,53 'trial':4 'u.s':21,32 'wdiv':54</fti-names>
+          <source-url>http://www.clickondetroit.com/index.html</source-url>
+          <url>http://www.clickondetroit.com/news/Flint-man-on-trial-for-threatening-to-kill-3-Michigan-members-of-Congress/-/1719418/15958096/-/r39da6z/-/index.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971685</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>WDIV</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:37-04:00</created-at>
+          <title>Congress Passes Bill Allowing Electric Car Recharge Stations At Capitol</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...car recharging stations in the Capitol parking lot, The Hill reported. Michigan Democrats Sen. Carl Levin and Rep. Dale Kildee introduced and championed the bill, which makes sense given that the auto industry, largely centered in Detroit, has recently </excerpt>
+          <fti-names>'allow':4 'auto':42 'bill':3,35 'capitol':10,16 'car':6,11 'carl':25 'center':45 'champion':33 'congress':1 'dale':29 'democrat':23 'detroit':47 'electr':5 'given':39 'hill':20 'industri':43 'introduc':31 'kilde':30 'larg':44 'levin':26 'lot':18 'make':37 'memo':52 'michigan':22 'park':17 'pass':2 'point':51 'recent':49 'recharg':7,12 'rep':28 'report':21 'sen':24 'sens':38 'station':8,13 'talk':50</fti-names>
+          <source-url>http://talkingpointsmemo.com/</source-url>
+          <url>http://livewire.talkingpointsmemo.com/entries/congress-passes-bill-allowing-electric-car-recharge-stations</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971684</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Talking Points Memo</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-03T22:57:35-04:00</created-at>
+          <title>Buena Vista Township awarded $500K federal grant for streetscape, sidewalks for Town Center development</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...other grants and funding with, Parker says, the &#8220;direct support&#8221; of U.S. Sens. Debbie Stabenow and Carl Levin, U.S. Rep. Dale Kildee, and the state of Michigan. Levin said that grants that aid in transportation are valuable to communities like Buena</excerpt>
+          <fti-names>'500k':5 'aid':47 'award':4 'buena':1,55 'carl':31 'center':13 'communiti':53 'dale':35 'debbi':28 'develop':14 'direct':23 'feder':6 'fund':18 'grant':7,16,45 'kilde':36 'levin':32,42 'like':54 'michigan':41 'mlive.com':56 'parker':20 'rep':34 'said':43 'say':21 'sen':27 'sidewalk':10 'stabenow':29 'state':39 'streetscap':9 'support':24 'town':12 'township':3 'transport':49 'u.s':26,33 'valuabl':51 'vista':2</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/saginaw_news/~3/NviSabX4k40/buena_vista_township_awarded_5.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-03T01:00:00-04:00</date>
+          <id type="integer">16971683</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:46:04-04:00</created-at>
+          <title>Jim Barcia 'enjoying life' rather than run for Dale Kildee's Congress seat</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...CITY, MI &#8212; Former state Sen. Jim Barcia, after considering returning to the U.S. Congress to fill U.S. Rep. Dale Kildee's 5th District congressional seat, decided retirement suits him better than public office. Kildee, 82, announced in July 2011 that </excerpt>
+          <fti-names>'2011':52 '5th':35 '82':48 'announc':49 'barcia':2,20 'better':43 'citi':14 'congress':12,27 'congression':37 'consid':22 'dale':9,32 'decid':39 'district':36 'enjoy':3 'fill':29 'former':16 'jim':1,19 'juli':51 'kilde':10,33,47 'life':4 'mi':15 'mlive.com':54 'offic':46 'public':45 'rather':5 'rep':31 'retir':40 'return':23 'run':7 'seat':13,38 'sen':18 'state':17 'suit':41 'u.s':26,30</fti-names>
+          <source-url>http://www.mlive.com/</source-url>
+          <url>http://feedproxy.google.com/~r/michigan-elections/~3/ZEwHtLIQ20k/jim_barcia_enjoying_life_rathe.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969766</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MLive.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>K000172</bioguide-id>
+      <metavid-id>Dale_E._Kildee</metavid-id>
+      <name>Rep. Dale Kildee [D, MI-5]</name>
+      <total-session-votes type="integer">1709</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <district>5</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:16:44-04:00</created-at>
+          <title>Debt relief tax law deadline for homeowners is looming &#171; Debt ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep. Dennis Kucinich [D ...</excerpt>
+          <fti-names>'-1':39 '-11':45 '-2':57 '-3':21,33 '-5':15,27 '-8':51 'adam':41 'd':13,19,49,61 'dale':11 'deadlin':5 'debt':1,10 'debtreliefmag.com':62 'denni':59 'ga':38 'homeown':7 'ia':26 'il':44 'jack':35 'john':53 'kilde':12 'kind':18 'king':24,30 'kingston':36 'kinzing':42 'kissel':48 'kline':54 'kucinich':60 'larri':47 'law':4 'loom':9 'mi':14 'mn':56 'nc':50 'ny':32 'peter':29 'r':25,31,37,43,55 'relief':2 'rep':16,22,28,34,40,46,52,58 'ronald':17 'steve':23 'tax':3 'wi':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/debt-relief-tax-law-deadline-for-homeowners-is-looming-2/&amp;sa=U&amp;ei=G036T7WREK782gXA8bTcBg&amp;ved=0CCAQmAEwAQ&amp;usg=AFQjCNHfdKj3QBdUK2aOxY63O1s29KGBHQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-08T01:00:00-04:00</date>
+          <id type="integer">16459499</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-08T23:16:45-04:00</created-at>
+          <title>Celebration Spotlights Michigan Wilderness Protected by Historic ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Fortunately, Congressman Dale Kildee took up the banner in the House and stewarded it through to passage, along with Senator Carl Levin&amp;#39;s able help. &#8220;The beauty of the wilderness law is that nothing man had done has ...</excerpt>
+          <fti-names>'abl':31 'along':25 'banner':15 'beauti':34 'carl':28 'celebr':1 'congressman':9 'dale':10 'done':44 'fortun':8 'help':32 'histor':7 'hous':18 'kilde':11 'law':38 'levin':29 'man':42 'michigan':3 'noth':41 'passag':24 'protect':5 'senat':27 'spotlight':2 'steward':20 'toddp':46 'took':12 'wilder':4,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://broadcasteverywhere.com/press-releases-michigan/natural-resources/4875/celebration-spotlights-michigan-wilderness-protected-by-historic-1987-legislation-events-at-sylvania-wilderness-on-july-15-and-horseshoe-bay-aug-18/&amp;sa=U&amp;ei=G036T7WREK782gXA8bTcBg&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNHXdQrAb0aGI0EPXmgrsh4ZLcCbKw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-06T01:00:00-04:00</date>
+          <id type="integer">16459501</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>toddp</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-04T23:16:05-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep.</excerpt>
+          <fti-names>'-1':34 '-11':40 '-2':52 '-3':16,28 '-5':10,22 '-8':46 'adam':36 'bankruptci':3 'bankruptcycourtco.com':54 'court':4 'd':8,14,44 'dale':6 'district':2 'ga':33 'ia':21 'il':39 'jack':30 'john':48 'kilde':7 'kind':13 'king':19,25 'kingston':31 'kinzing':37 'kissel':43 'kline':49 'larri':42 'mi':9 'mn':51 'nc':45 'ny':27 'oklahoma':5 'peter':24 'r':20,26,32,38,50 'rep':11,17,23,29,35,41,47,53 'ronald':12 'steve':18 'western':1 'wi':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-11/&amp;sa=U&amp;ei=8wb1T-PsE4qc2QWrrPXfBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNE7FpCxiHgqtHrcsaWsYZZG1Lwt8A</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-04T01:00:00-04:00</date>
+          <id type="integer">16387905</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-04T23:16:03-04:00</created-at>
+          <title>Supreme Court: no benefits for kids conceived after dad&amp;#39;s death</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep.</excerpt>
+          <fti-names>'-1':40 '-11':46 '-2':58 '-3':22,34 '-5':16,28 '-8':52 'adam':42 'benefit':4 'conceiv':7 'court':2 'd':14,20,50 'dad':9 'dale':12 'death':11 'ga':39 'ia':27 'il':45 'jack':36 'john':54 'kid':6 'kilde':13 'kind':19 'king':25,31 'kingston':37 'kinzing':43 'kissel':49 'kline':55 'larri':48 'mi':15 'mn':57 'nc':51 'ny':33 'peter':30 'probatecourtco.com':60 'r':26,32,38,44,56 'rep':17,23,29,35,41,47,53,59 'ronald':18 'steve':24 'suprem':1 'wi':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/supreme-court-no-benefits-for-kids-conceived-after-dads-death/&amp;sa=U&amp;ei=8wb1T-PsE4qc2QWrrPXfBg&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNGdmCokJpV-kIsdBzw5AnlSp_xSwA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16387898</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:15:24-04:00</created-at>
+          <title>Western District Bankruptcy Court Oklahoma</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep.</excerpt>
+          <fti-names>'-1':34 '-11':40 '-2':52 '-3':16,28 '-5':10,22 '-8':46 'adam':36 'bankruptci':3 'bankruptcycourtco.com':54 'court':4 'd':8,14,44 'dale':6 'district':2 'ga':33 'ia':21 'il':39 'jack':30 'john':48 'kilde':7 'kind':13 'king':19,25 'kingston':31 'kinzing':37 'kissel':43 'kline':49 'larri':42 'mi':9 'mn':51 'nc':45 'ny':27 'oklahoma':5 'peter':24 'r':20,26,32,38,50 'rep':11,17,23,29,35,41,47,53 'ronald':12 'steve':18 'western':1 'wi':15</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://bankruptcycourtco.com/western-district-bankruptcy-court-oklahoma-9/&amp;sa=U&amp;ei=SrXzT7XDO8Ts2QXSqo3VBg&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNEtG5rkS4ZW5M0qECgE2XPlucBc_Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16359426</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://bankruptcycourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:15:23-04:00</created-at>
+          <title>Supreme Court: no benefits for kids conceived after dad&amp;#39;s death</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep.</excerpt>
+          <fti-names>'-1':40 '-11':46 '-2':58 '-3':22,34 '-5':16,28 '-8':52 'adam':42 'benefit':4 'conceiv':7 'court':2 'd':14,20,50 'dad':9 'dale':12 'death':11 'ga':39 'ia':27 'il':45 'jack':36 'john':54 'kid':6 'kilde':13 'kind':19 'king':25,31 'kingston':37 'kinzing':43 'kissel':49 'kline':55 'larri':48 'mi':15 'mn':57 'nc':51 'ny':33 'peter':30 'probatecourtco.com':60 'r':26,32,38,44,56 'rep':17,23,29,35,41,47,53,59 'ronald':18 'steve':24 'suprem':1 'wi':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://probatecourtco.com/supreme-court-no-benefits-for-kids-conceived-after-dads-death/&amp;sa=U&amp;ei=SrXzT7XDO8Ts2QXSqo3VBg&amp;ved=0CBwQmAEwAA&amp;usg=AFQjCNFfLrr0GIg0OIFpuho0m-uaNwf_ag</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-03T01:00:00-04:00</date>
+          <id type="integer">16359421</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://probatecourtco.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-03T23:15:26-04:00</created-at>
+          <title>HR.708 | Relating to the consideration of House Report 112-546 ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Timothy Johnson (IL Republican), Yes. Rep. Samuel Johnson (TX Republican), Yes. Rep. Eddie Johnson (TX Democrat), No Vote. Rep. Walter Jones (NC Republican), Yes. Rep. Marcy Kaptur (OH Democrat), No. Rep. Dale Kildee (MI ...</excerpt>
+          <fti-names>'-546':10 '112':9 'consider':5 'dale':43 'democrat':27,40 'eddi':24 'hous':7 'hr.708':1 'il':14 'johnson':13,19,25 'jone':32 'kaptur':38 'kilde':44 'marci':37 'mi':45 'nc':33 'oh':39 'relat':2 'rep':11,17,23,30,36,42 'report':8 'republican':15,21,34 'samuel':18 'timothi':12 'tx':20,26 'vote':29 'walter':31 'www.votetocracy.com':46 'yes':16,22,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr708-relating-to-the-consideration-of-house-report-112-546-and-an-accompanying-resolution-and-providing-for-consideration-of-the-resolution-h-res-706-authorizing-the-committee-on-oversight-and-government-reform-to-initiate-or-intervene-in-judicial-proceedings-to-enforce-certain-subpoenas-41417&amp;sa=U&amp;ei=SrXzT7XDO8Ts2QXSqo3VBg&amp;ved=0CEQQmAEwCQ&amp;usg=AFQjCNGdWk2zs6Iy6ZkkbWvdVRajEFa7ww</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16359430</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-03T00:02:14-04:00</created-at>
+          <title>HR.708 | Relating to the consideration of House Report 112-546 ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Timothy Johnson (IL Republican), Yes. Rep. Samuel Johnson (TX Republican), Yes. Rep. Eddie Johnson (TX Democrat), No Vote. Rep. Walter Jones (NC Republican), Yes. Rep. Marcy Kaptur (OH Democrat), No. Rep. Dale Kildee (MI ...</excerpt>
+          <fti-names>'-546':10 '112':9 'consider':5 'dale':43 'democrat':27,40 'eddi':24 'hous':7 'hr.708':1 'il':14 'johnson':13,19,25 'jone':32 'kaptur':38 'kilde':44 'marci':37 'mi':45 'nc':33 'oh':39 'relat':2 'rep':11,17,23,30,36,42 'report':8 'republican':15,21,34 'samuel':18 'timothi':12 'tx':20,26 'vote':29 'walter':31 'www.votetocracy.com':46 'yes':16,22,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr708-relating-to-the-consideration-of-house-report-112-546-and-an-accompanying-resolution-and-providing-for-consideration-of-the-resolution-h-res-706-authorizing-the-committee-on-oversight-and-government-reform-to-initiate-or-intervene-in-judicial-proceedings-to-enforce-certain-subpoenas-41417&amp;sa=U&amp;ei=uG7yT5vHEOSc2QXj8vjyAQ&amp;ved=0CC0QmAEwBA&amp;usg=AFQjCNFKOYunmpLwxyZHXAg2WGaW8urtMA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16353092</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:52:37-04:00</created-at>
+          <title>Judge Fines Texas Debt Relief Firm $2.5 Million for Abuses in ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dale Kildee [D, MI-5] Rep. Ronald Kind [D, WI-3] Rep. Steve King [R, IA-5] Rep. Peter King [R, NY-3] Rep. Jack Kingston [R, GA-1] Rep. Adam Kinzinger [R, IL-11] Rep. Larry Kissell [D, NC-8] Rep. John Kline [R, MN-2] Rep. Dennis Kucinich [D ...</excerpt>
+          <fti-names>'-1':40 '-11':46 '-2':58 '-3':22,34 '-5':16,28 '-8':52 '2.5':7 'abus':10 'adam':42 'd':14,20,50,62 'dale':12 'debt':4 'debtreliefmag.com':63 'denni':60 'fine':2 'firm':6 'ga':39 'ia':27 'il':45 'jack':36 'john':54 'judg':1 'kilde':13 'kind':19 'king':25,31 'kingston':37 'kinzing':43 'kissel':49 'kline':55 'kucinich':61 'larri':48 'mi':15 'million':8 'mn':57 'nc':51 'ny':33 'peter':30 'r':26,32,38,44,56 'relief':5 'rep':17,23,29,35,41,47,53,59 'ronald':18 'steve':24 'texa':3 'wi':21</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://debtreliefmag.com/judge-fines-texas-debt-relief-firm-2-5-million-for-abuses-in-vermont/&amp;sa=U&amp;ei=8wzxT87zKqTg2gWp8pDQCg&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNFuTeAdA9Us7slYqS85lQgu-fYrkg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16325950</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://debtreliefmag.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400216</commentariable-id>
+          <created-at type="datetime">2012-07-01T22:52:36-04:00</created-at>
+          <title>HR.708 | Relating to the consideration of House Report 112-546 ...</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>Rep. Timothy Johnson (IL Republican), Yes. Rep. Samuel Johnson (TX Republican), Yes. Rep. Eddie Johnson (TX Democrat), No Vote. Rep. Walter Jones (NC Republican), Yes. Rep. Marcy Kaptur (OH Democrat), No. Rep. Dale Kildee (MI ...</excerpt>
+          <fti-names>'-546':10 '112':9 'consider':5 'dale':43 'democrat':27,40 'eddi':24 'hous':7 'hr.708':1 'il':14 'johnson':13,19,25 'jone':32 'kaptur':38 'kilde':44 'marci':37 'mi':45 'nc':33 'oh':39 'relat':2 'rep':11,17,23,30,36,42 'report':8 'republican':15,21,34 'samuel':18 'timothi':12 'tx':20,26 'vote':29 'walter':31 'www.votetocracy.com':46 'yes':16,22,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.votetocracy.com/house_bills/hr708-relating-to-the-consideration-of-house-report-112-546-and-an-accompanying-resolution-and-providing-for-consideration-of-the-resolution-h-res-706-authorizing-the-committee-on-oversight-and-government-reform-to-initiate-or-intervene-in-judicial-proceedings-to-enforce-certain-subpoenas-41417&amp;sa=U&amp;ei=8wzxT87zKqTg2gWp8pDQCg&amp;ved=0CCQQmAEwAg&amp;usg=AFQjCNH3vDwIoMmO7LPsP_rPukdFYQcgVA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-01T01:00:00-04:00</date>
+          <id type="integer">16325946</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.votetocracy.com/</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">23431</page-views-count>
+      <youtube-id>RepDaleKildee</youtube-id>
+      <unaccented-name>Dale Kildee</unaccented-name>
+      <oc-user-comments type="integer">7</oc-user-comments>
+    </person>
+  </people>
+</hash>

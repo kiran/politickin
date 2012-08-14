@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime" nil="true"></entered-top-viewed>
+        <party-votes-percentage type="float">78.3990582695703</party-votes-percentage>
+        <abstains-percentage type="float">1.16346713205352</abstains-percentage>
+        <votes-most-often-with-id type="integer">412386</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">50</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">342</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">228</cosponsored-bills-passed-rank>
+        <abstains type="integer">20</abstains>
+        <cosponsored-bills type="integer">206</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">156</party-votes-percentage-rank>
+        <sponsored-bills type="integer">12</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400331</person-id>
+        <cosponsored-bills-rank type="integer">268</cosponsored-bills-rank>
+        <entered-top-news type="datetime" nil="true"></entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">132</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">13</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">412453</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">652</votes-republican-position>
+      <blog-article-count type="integer">8356</blog-article-count>
+      <fax>202-225-9061</fax>
+      <user-approval type="float">4.23529411764706</user-approval>
+      <url nil="true"></url>
+      <oc-users-tracking type="integer">78</oc-users-tracking>
+      <contact-webform>http://www.rahall.house.gov/?sectionid=9&amp;sectiontree=9</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">78.3990582695703</with-party-percentage>
+      <watchdog-id nil="true"></watchdog-id>
+      <lastname>Rahall</lastname>
+      <congress-office>2307 Rayburn House Office Building</congress-office>
+      <middlename>Joe</middlename>
+      <firstname>Nick</firstname>
+      <website>http://rahall.house.gov/</website>
+      <birthday type="date">1949-05-20</birthday>
+      <person-id type="integer">400331</person-id>
+      <phone>202-225-3452</phone>
+      <religion>Presbyterian</religion>
+      <biography nil="true"></biography>
+      <votes-democratic-position type="integer">1332</votes-democratic-position>
+      <gender>M</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:52:50-04:00</created-at>
+          <title>Feds OK $1.25 million for mining</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...safety bill inspired by the 2010 explosion that killed 29 workers at the Upper Big Branch mine complex in Raleigh County. Rep. Nick Rahall, also D-W.Va., said he is aware, as one who helped devise the program, that West Virginia has &#8220;a deep reservoir </excerpt>
+          <fti-names>'1.25':3 '2010':12 '29':16 'also':31 'awar':36 'beckley':51 'big':21 'bill':8 'branch':22 'complex':24 'counti':27 'd-w.va':32 'deep':49 'devis':41 'explos':13 'fed':1 'help':40 'herald':54 'inspir':9 'kill':15 'million':4 'mine':6,23 'nick':29 'ok':2 'one':38 'program':43 'rahal':30 'raleigh':26 'regist':53 'register-herald':52 'rep':28 'reservoir':50 'safeti':7 'said':33 'upper':20 'virginia':46 'west':45 'worker':17</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x44829912/Feds-OK-1-25-million-for-mining</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973557</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-06T23:01:31-04:00</created-at>
+          <title>MSHA offers grants to improve mine safety</title>
+          <contains-term>sen\.</contains-term>
+          <excerpt>...in 2006. The program grew out of a 2006 law co-authored by U.S. Sen. Jay Rockefeller. Rockefeller, U.S. Sen. Joe Manchin and Rep. Nick Rahall announced the grants on Monday. Add a comment The posting of advertisements, profanity, or personal attacks is </excerpt>
+          <fti-names>'2006':9,16 'add':40 'advertis':46 'announc':35 'attack':50 'author':20 'cbs':52 'co':19 'co-author':18 'comment':42 'grant':3,37 'grew':12 'improv':5 'jay':24 'joe':29 'law':17 'manchin':30 'mine':6 'monday':39 'msha':1 'news':53 'nick':33 'offer':2 'person':49 'post':44 'profan':47 'program':11 'rahal':34 'rep':32 'rockefel':25,26 'safeti':7 'sen':23,28 'u.s':22,27</fti-names>
+          <source-url>http://www.cbsnews.com/</source-url>
+          <url>http://feeds.cbsnews.com/~r/cbsnews/feed/~3/l2psuDPizDk/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-06T01:00:00-04:00</date>
+          <id type="integer">16972951</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>CBS News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:15-04:00</created-at>
+          <title>Calendar - Sunday, Aug. 5, 2012</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? West Virginia University Institute of Technology announced Friday a partnership with Mountain State University to o</excerpt>
+          <fti-names>'2012':5 '5':4 'alway':10 'announc':34 'anoth':14 'aug':3 'beckley':44 'calendar':1 'challeng':7 'elect':21 'friday':35 'herald':47 'institut':31 'interrupt':18 'line':19 'long':17 'mountain':39 'nick':26 'o':43 'partnership':37 'rahal':27 'regist':46 'register-herald':45 'rememb':12 'rep':25 'rick':8 'snuffer':9 'state':40 'sunday':2 'technolog':33 'univers':30,41 'veteran':24 'victim':22 'virginia':29 'west':28</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1962240883/Calendar-Sunday-Aug-5-2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972516</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:15-04:00</created-at>
+          <title>Project recommended for ARC funding</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? West Virginia University Institute of Technology announced Friday a partnership with Mountain State University to o</excerpt>
+          <fti-names>'alway':10 'announc':34 'anoth':14 'arc':4 'beckley':44 'challeng':7 'elect':21 'friday':35 'fund':5 'herald':47 'institut':31 'interrupt':18 'line':19 'long':17 'mountain':39 'nick':26 'o':43 'partnership':37 'project':1 'rahal':27 'recommend':2 'regist':46 'register-herald':45 'rememb':12 'rep':25 'rick':8 'snuffer':9 'state':40 'technolog':33 'univers':30,41 'veteran':24 'victim':22 'virginia':29 'west':28</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1402346702/Project-recommended-for-ARC-funding</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-05T01:00:00-04:00</date>
+          <id type="integer">16972515</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-05T22:48:15-04:00</created-at>
+          <title>Derailment aftermath</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? West Virginia University Institute of Technology announced Friday a partnership with Mountain State University to o</excerpt>
+          <fti-names>'aftermath':2 'alway':7 'announc':31 'anoth':11 'beckley':41 'challeng':4 'derail':1 'elect':18 'friday':32 'herald':44 'institut':28 'interrupt':15 'line':16 'long':14 'mountain':36 'nick':23 'o':40 'partnership':34 'rahal':24 'regist':43 'register-herald':42 'rememb':9 'rep':22 'rick':5 'snuffer':6 'state':37 'technolog':30 'univers':27,38 'veteran':21 'victim':19 'virginia':26 'west':25</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1962240043/Derailment-aftermath</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972517</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:59:42-04:00</created-at>
+          <title>New county-level school position created</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? A double festival pageant will begin today at 5:30 p.m. at Tamarack to crown the Teen, Miss and Ms. Queens for the </excerpt>
+          <fti-names>'30':39 '5':38 'alway':12 'anoth':16 'beckley':53 'begin':35 'challeng':9 'counti':3 'county-level':2 'creat':7 'crown':44 'doubl':31 'elect':23 'festiv':32 'herald':56 'interrupt':20 'level':4 'line':21 'long':19 'miss':47 'ms':49 'new':1 'nick':28 'p.m':40 'pageant':33 'posit':6 'queen':50 'rahal':29 'regist':55 'register-herald':54 'rememb':14 'rep':27 'rick':10 'school':5 'snuffer':11 'tamarack':42 'teen':46 'today':36 'veteran':26 'victim':24</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1923104877/New-county-level-school-position-created</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972248</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:59:41-04:00</created-at>
+          <title>NRCTC still has some space in new programs</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? A double festival pageant will begin today at 5:30 p.m. at Tamarack to crown the Teen, Miss and Ms. Queens for the </excerpt>
+          <fti-names>'30':40 '5':39 'alway':13 'anoth':17 'beckley':54 'begin':36 'challeng':10 'crown':45 'doubl':32 'elect':24 'festiv':33 'herald':57 'interrupt':21 'line':22 'long':20 'miss':48 'ms':50 'new':7 'nick':29 'nrctc':1 'p.m':41 'pageant':34 'program':8 'queen':51 'rahal':30 'regist':56 'register-herald':55 'rememb':15 'rep':28 'rick':11 'snuffer':12 'space':5 'still':2 'tamarack':43 'teen':47 'today':37 'veteran':27 'victim':25</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1962240075/NRCTC-still-has-some-space-in-new-programs</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972247</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:59:41-04:00</created-at>
+          <title>Lilly Mountaineers will bring bluegrass sound to Tamarack Sunday afternoon</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? A double festival pageant will begin today at 5:30 p.m. at Tamarack to crown the Teen, Miss and Ms. Queens for the Appal</excerpt>
+          <fti-names>'30':41 '5':40 'afternoon':10 'alway':14 'anoth':18 'appal':55 'beckley':56 'begin':37 'bluegrass':5 'bring':4 'challeng':11 'crown':46 'doubl':33 'elect':25 'festiv':34 'herald':59 'interrupt':22 'lilli':1 'line':23 'long':21 'miss':49 'mountain':2 'ms':51 'nick':30 'p.m':42 'pageant':35 'queen':52 'rahal':31 'regist':58 'register-herald':57 'rememb':16 'rep':29 'rick':12 'snuffer':13 'sound':6 'sunday':9 'tamarack':8,44 'teen':48 'today':38 'veteran':28 'victim':26</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1402346041/Lilly-Mountaineers-will-bring-bluegrass-sound-to-Tamarack-Sunday-afternoon</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972246</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:59:41-04:00</created-at>
+          <title>Calendar &#8212; Saturday, August 4, 2012</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...Will challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? A double festival pageant will begin today at 5:30 p.m. at Tamarack to crown the Teen, Miss and Ms. Queens for the </excerpt>
+          <fti-names>'2012':5 '30':37 '4':4 '5':36 'alway':10 'anoth':14 'august':3 'beckley':51 'begin':33 'calendar':1 'challeng':7 'crown':42 'doubl':29 'elect':21 'festiv':30 'herald':54 'interrupt':18 'line':19 'long':17 'miss':45 'ms':47 'nick':26 'p.m':38 'pageant':31 'queen':48 'rahal':27 'regist':53 'register-herald':52 'rememb':12 'rep':25 'rick':8 'saturday':2 'snuffer':9 'tamarack':40 'teen':44 'today':34 'veteran':24 'victim':22</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1962240051/Calendar-Saturday-August-4-2012</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972245</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-08-04T22:59:41-04:00</created-at>
+          <title>Beckley&#8217;s Kids Classic</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...challenger Rick Snuffer always be remembered as another in a long, interrupted line of election victims of veteran Rep. Nick Rahall? A double festival pageant will begin today at 5:30 p.m. at Tamarack to crown the Teen, Miss and Ms. Queens for the Appal</excerpt>
+          <fti-names>'30':35 '5':34 'alway':8 'anoth':12 'appal':49 'beckley':1,50 'begin':31 'challeng':5 'classic':4 'crown':40 'doubl':27 'elect':19 'festiv':28 'herald':53 'interrupt':16 'kid':3 'line':17 'long':15 'miss':43 'ms':45 'nick':24 'p.m':36 'pageant':29 'queen':46 'rahal':25 'regist':52 'register-herald':51 'rememb':10 'rep':23 'rick':6 'snuffer':7 'tamarack':38 'teen':42 'today':32 'veteran':22 'victim':20</fti-names>
+          <source-url>http://register-herald.com/</source-url>
+          <url>http://www.register-herald.com/local/x1402346037/Beckley-s-Kids-Classic</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-04T01:00:00-04:00</date>
+          <id type="integer">16972244</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Beckley Register-Herald</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <bioguide-id>R000011</bioguide-id>
+      <metavid-id>Nick_J._Rahall</metavid-id>
+      <name>Rep. Nick Rahall [D, WV-3]</name>
+      <total-session-votes type="integer">1699</total-session-votes>
+      <sunlight-nickname>Nick</sunlight-nickname>
+      <district>3</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>Joe Walsh, Tea Party Rep, Says He&amp;#39;ll Skip GOP Convention</title>
+          <contains-term>congress</contains-term>
+          <excerpt>... being named among the most vulnerable congressional incumbents in this fall&amp;#39;s election, fiery Tea Party-backed U.S. Rep. Joe Walsh (R-Ill.) announced he will not be attending the upcoming Republican National Convention. &amp;quot;Rather than   mingle w</excerpt>
+          <fti-names>'among':14 'announc':37 'attend':42 'back':29 'congression':18 'convent':11,47 'editor':56 'elect':24 'fall':22 'fieri':25 'gop':10 'huffington':53 'ill':36 'incumb':19 'joe':1,32 'll':8 'mingl':50 'name':13 'nation':46 'news':55 'parti':4,28 'party-back':27 'post':54 'r':35 'r-ill':34 'rather':48 'rep':5,31 'republican':45 'say':6 'skip':9 'tea':3,26 'u.s':30 'upcom':44 'vulner':17 'w':51 'walsh':2,33</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.huffingtonpost.com/2012/07/19/joe-walsh-tea-party-rep-s_n_1686687.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CD0QmAEwBw&amp;usg=AFQjCNGbMCfA6MMbwOGro9oSZO55QEyy5w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750527</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>The Huffington Post News Editors</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>House Republicans say the heck with black lung disease, have a ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>As Congressman Nick Rahall of West Virginia told Ken Ward: The provision &#8230;that would halt progress on addressing black lung is reckless; it provides the disease another yearlong grace period to continue attacking miners ...</excerpt>
+          <fti-names>'address':29 'anoth':38 'attack':44 'black':7,30 'celest':46 'congressman':13 'continu':43 'diseas':9,37 'drph':48 'grace':40 'halt':26 'heck':5 'hous':1 'ken':20 'lung':8,31 'miner':45 'monforton':47 'mph':49 'nick':14 'period':41 'progress':27 'provid':35 'provis':23 'rahal':15 'reckless':33 'republican':2 'say':3 'told':19 'virginia':18 'ward':21 'west':17 'would':25 'yearlong':39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://scienceblogs.com/thepumphandle/2012/07/19/house-republicans-say-the-heck-with-black-lung-disease-have-a-coal-miner-postage-stamp-instead/&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNH5rdLO1citDEVsaAq86rEac_Qupg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750526</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Celeste Monforton, DrPH, MPH</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:26-04:00</created-at>
+          <title>Corps Awards $6M Contract for Logan County Flood Project</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>U.S. Rep. Nick Rahall says Heeter Construction, of Spencer, will widen Island Creek&amp;#39;s channel from the former Super 8 site to the Logan NAPA Store.</excerpt>
+          <fti-names>'/news/headlines/59879192.html':38 '6m':3 '8':29 'award':2 'channel':24 'construct':16 'contract':4 'corp':1 'counti':7 'creek':22 'flood':8 'former':27 'heeter':15 'island':21 'logan':6,33 'napa':34 'nick':12 'project':9 'rahal':13 'rep':11 'say':14 'site':30 'spencer':18 'store':35 'super':28 'u.s':10 'widen':20 'www.wsaz.com':37 'www.wsaz.com/news/headlines/59879192.html':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.wsaz.com/home/headlines/Corps_Awards_6M_Contract_for_Logan_County_Flood_Project__163017526.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNGir7ueaqGILt_0VTh0htu0KGDs9Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750524</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>http://www.wsaz.com/news/headlines/59879192.html</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:25-04:00</created-at>
+          <title>Lummis Trying To Repeal AML Payment Cuts</title>
+          <contains-term>democrat</contains-term>
+          <excerpt>(AP) &#8212; U.S. Rep. Cynthia Lummis has introduced legislation that would restore more than $700 million in federal funds to Wyoming. The bill was filed Monday by the Wyoming Republican and Democrat Rep. Nick Rahall, of ...</excerpt>
+          <fti-names>'700':21 'aml':5 'ap':8 'associ':43 'bill':29 'cut':7 'cynthia':11 'democrat':38 'feder':24 'file':31 'fund':25 'introduc':14 'legisl':15 'lummi':1,12 'million':22 'monday':32 'nick':40 'payment':6 'press':44 'rahal':41 'rep':10,39 'repeal':4 'republican':36 'restor':18 'tri':2 'u.s':9 'would':17 'wyom':27,35</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://k2radio.com/lummis-trying-to-repeal-aml-payment-cuts/&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CCEQmAEwAQ&amp;usg=AFQjCNHJO_fyjJEcI7YtGZjpwts-0PVjhw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-19T01:00:00-04:00</date>
+          <id type="integer">16750521</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Associated Press</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>Rahall Announces Funding for Veteran Homeless Prevention ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON, D.C. &#8211; July 18, 2012 &#8211; (RealEstateRama) &#8212; U.S. Rep. Nick Rahall (D-W.Va.) Tuesday announced the U.S. Department of Veterans Affairs (VA) has awarded funding to prevent veteran homelessness in West ...</excerpt>
+          <fti-names>'18':11 '2012':12 'affair':26 'announc':2,20 'award':29 'd-w.va':18 'd.c':9 'depart':23 'fund':3,30 'homeless':6,34 'juli':10 'nick':16 'prevent':7,32 'rahal':1,17 'realestaterama':13,38 'rep':15 'tuesday':19 'u.s':14,22 'va':27 'veteran':5,25,33 'virginia':37 'washington':8 'west':36</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://virginia.realestaterama.com/2012/07/18/rahall-announces-funding-for-veteran-homeless-prevention-program-ID0382.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CEUQmAEwCQ&amp;usg=AFQjCNFu3zhvXoLEs5I4S0Rab7wGFaoX0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16750529</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Virginia RealEstateRama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:26-04:00</created-at>
+          <title>Rahall Announces Funding for Veteran Homeless Prevention Program</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>WASHINGTON, D.C. &#8211; July 18, 2012 &#8211; (RealEstateRama) &#8212; U.S. Rep. Nick Rahall (D-W.Va.) Tuesday announced the U.S. Department of Veterans Affairs (VA) has awarded funding to prevent veteran homelessness in West ...</excerpt>
+          <fti-names>'18':12 '2012':13 'affair':27 'announc':2,21 'award':30 'd-w.va':19 'd.c':10 'depart':24 'fund':3,31 'homeless':6,35 'juli':11 'nick':17 'prevent':7,33 'program':8 'rahal':1,18 'realestaterama':14,39 'rep':16 'tuesday':20 'u.s':15,23 'va':28 'veteran':5,26,34 'virginia':38 'washington':9 'west':37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://states.realestaterama.com/2012/07/18/rahall-announces-funding-for-veteran-homeless-prevention-program-ID020624.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CCYQmAEwAg&amp;usg=AFQjCNEVYDG8pYbWPQKsJGkSWsFKg7HxAQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-18T01:00:00-04:00</date>
+          <id type="integer">16750522</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Virginia RealEstateRama</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>George P. Bush&amp;#39;s Visibility Rises With PAC Donations ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Sean Duffy, a Wisconsin Republican congressman, will get $1000, as will Rick Snuffer, who is challenging Democratic Rep. Nick Rahall in West Virginia. That brings the total amount of MavPAC&amp;#39;s donations to date to $58500.</excerpt>
+          <fti-names>'1000':18 '58500':45 'amount':37 'bring':34 'bush':3 'challeng':25 'congressman':15 'date':43 'democrat':26 'donat':9,41 'duffi':11 'erin':46 'georg':1 'get':17 'mavpac':39 'mcpike':47 'nick':28 'p':2 'pac':8 'rahal':29 'rep':27 'republican':14 'rick':21 'rise':6 'sean':10 'snuffer':22 'total':36 'virginia':32 'visibl':5 'west':31 'wisconsin':13</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.realclearpolitics.com/articles/2012/07/18/george_p_bushs_visibility_rises_with_pac_donations_114839.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CDQQmAEwBQ&amp;usg=AFQjCNHlXNj936_zEVv-wV93JJPvt4Y4RQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-17T01:00:00-04:00</date>
+          <id type="integer">16750525</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Erin McPike</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>From On High: While Coal Mines In His District Are Closing Down ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>AFTER TRANSPORTATION BILL, RAHALL CASHES IN: Fresh off the passage of the transportation bill, Rep. Nick Rahall (D-W.Va.), the ranking member of the House Transportation and Infrastructure Committee, will give ...</excerpt>
+          <fti-names>'bill':15,26 'cash':17 'close':11 'coal':5 'committe':40 'd-w.va':30 'district':9 'fresh':19 'fuhrman':44 'give':42 'high':3 'hous':36 'infrastructur':39 'jerri':43 'member':33 'mine':6 'nick':28 'passag':22 'rahal':16,29 'rank':32 'rep':27 'transport':14,25,37</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://blogfromonhigh.blogspot.com/2012/07/while-coal-mines-in-his-district-are.html&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CEEQmAEwCA&amp;usg=AFQjCNGPweM42t8H_zFfYCOKxAnWz_qX0w</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-13T01:00:00-04:00</date>
+          <id type="integer">16750528</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jerry Fuhrman</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:27-04:00</created-at>
+          <title>DOOM Watch WV: Sen. Manchin, Gov. Tomblin, Rep. Rahall to Skip ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congressman Nick Rahall, at age 63, has spent most of his life in Congress. First elected in 1976, at the age of 27, Rahall faced his closest challenge in decades in 2010 from retired West Virginia Supreme Court Justice and ...</excerpt>
+          <fti-names>'1976':29 '2010':43 '27':34 '63':17 'age':16,32 'challeng':39 'closest':38 'congress':25 'congressman':12 'court':49 'decad':41 'diari':54 'doom':1 'elect':27 'face':36 'first':26 'gov':6 'jim':52 'justic':50 'life':23 'manchin':5 'mullin':53 'nick':13 'rahal':9,14,35 'rep':8 'retir':45 'sen':4 'skip':11 'spent':19 'suprem':48 'tomblin':7 'virginia':47 'watch':2 'west':46 'wv':3</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.redstate.com/jimmullins/2012/06/18/doom-watch-wv-sen-manchin-gov-tomblin-rep-rahall-to-skip-democratic-national-convention/&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNFkK3nwr9eVjP0TPP7BmsYIJu4miA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-06-18T01:00:00-04:00</date>
+          <id type="integer">16750530</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Jim Mullins (Diary)</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400331</commentariable-id>
+          <created-at type="datetime">2012-07-19T23:33:26-04:00</created-at>
+          <title>Rep. Nick Rahall Responds, Agrees with Me on MAP-21&#8242;s &#8220;Sleight ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>This morning on C-SPAN&amp;#39;s Washington Journal, House Transportation and Infrastructure Committee Ranking Member Nick Rahall (D-W.V.) was read a passage from a.</excerpt>
+          <fti-names>'-21':10 'agre':5 'c':17 'c-span':16 'committe':26 'd':32 'd-w':31 'hous':22 'infrastructur':25 'journal':21 'map':9 'marc':41 'member':28 'morn':14 'nick':2,29 'passag':38 'rahal':3,30 'rank':27 'read':36 'rep':1 'respond':4 'scribner':42 'sleight':12 'span':18 'transport':23 'v':34 'w':33 'washington':20</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.openmarket.org/2012/05/18/rep-nick-rahall-responds-agrees-with-me-on-map-21s-sleight-of-hand-pay-fors/&amp;sa=U&amp;ei=hNEIUMqNJeTI2AW74O3bBw&amp;ved=0CCoQmAEwAw&amp;usg=AFQjCNFnXVFGNs9_71IupmeUTewOxNrfXg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-05-18T01:00:00-04:00</date>
+          <id type="integer">16750523</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Marc Scribner</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">22078</page-views-count>
+      <youtube-id>NRAHALLWV03</youtube-id>
+      <unaccented-name>Nick Rahall</unaccented-name>
+      <oc-user-comments type="integer">8</oc-user-comments>
+    </person>
+  </people>
+</hash>

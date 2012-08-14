@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <total-pages type="integer">1</total-pages>
+  <people type="array">
+    <person>
+      <person-stats>
+        <entered-top-viewed type="datetime">2007-02-26T15:34:33-05:00</entered-top-viewed>
+        <party-votes-percentage type="float">92.5031766200762</party-votes-percentage>
+        <abstains-percentage type="float">8.43513670738802</abstains-percentage>
+        <votes-most-often-with-id type="integer">400653</votes-most-often-with-id>
+        <entered-top-blog type="datetime" nil="true"></entered-top-blog>
+        <sponsored-bills-passed-rank type="integer">141</sponsored-bills-passed-rank>
+        <abstains-percentage-rank type="integer">63</abstains-percentage-rank>
+        <cosponsored-bills-passed-rank type="integer">37</cosponsored-bills-passed-rank>
+        <abstains type="integer">145</abstains>
+        <cosponsored-bills type="integer">382</cosponsored-bills>
+        <party-votes-percentage-rank type="integer">115</party-votes-percentage-rank>
+        <sponsored-bills type="integer">47</sponsored-bills>
+        <votes-least-often-with-id type="integer">412388</votes-least-often-with-id>
+        <person-id type="integer">400199</person-id>
+        <cosponsored-bills-rank type="integer">12</cosponsored-bills-rank>
+        <entered-top-news type="datetime">2007-09-26T17:38:33-04:00</entered-top-news>
+        <same-party-votes-least-often-with-id type="integer">400645</same-party-votes-least-often-with-id>
+        <sponsored-bills-passed type="integer">0</sponsored-bills-passed>
+        <sponsored-bills-rank type="integer">7</sponsored-bills-rank>
+        <cosponsored-bills-passed type="integer">9</cosponsored-bills-passed>
+        <opposing-party-votes-most-often-with-id type="integer">400209</opposing-party-votes-most-often-with-id>
+      </person-stats>
+      <votes-republican-position type="integer">385</votes-republican-position>
+      <watchdog-id nil="true"></watchdog-id>
+      <blog-article-count type="integer">10722</blog-article-count>
+      <user-approval type="float">1.91208791208791</user-approval>
+      <url nil="true"></url>
+      <middlename nil="true"></middlename>
+      <oc-users-tracking type="integer">164</oc-users-tracking>
+      <contact-webform>http://www.jacksonlee.house.gov/contact-form.shtml</contact-webform>
+      <email nil="true"></email>
+      <with-party-percentage type="float">92.5031766200762</with-party-percentage>
+      <biography nil="true"></biography>
+      <lastname>Jackson-Lee</lastname>
+      <congress-office>2160 Rayburn House Office Building</congress-office>
+      <firstname>Sheila</firstname>
+      <website>http://jacksonlee.house.gov/</website>
+      <metavid-id>Sheila_Jackson-Lee</metavid-id>
+      <birthday type="date">1950-01-12</birthday>
+      <person-id type="integer">400199</person-id>
+      <phone>202-225-3816</phone>
+      <religion>Seventh Day Adventist</religion>
+      <bioguide-id>J000032</bioguide-id>
+      <votes-democratic-position type="integer">1456</votes-democratic-position>
+      <youtube-id>TX18SJL</youtube-id>
+      <gender>F</gender>
+      <recent-news type="array">
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-08-07T22:44:53-04:00</created-at>
+          <title>Congress Blocks Successive Efforts to Reduce Government Secrecy</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...of the intelligence community and the Justice Department to produce a public estimate of how many Americans have already had their communications collected under this law. The amendment, by Rep. Sheila Jackson Lee (D-TX), failed by a vote of 11-20....</excerpt>
+          <fti-names>'-20':51 '11':50 'alreadi':27 'amend':36 'american':25 'antiwar.com':52 'block':2 'collect':31 'communic':30 'communiti':12 'congress':1 'd':43 'd-tx':42 'depart':16 'effort':4 'estim':21 'fail':45 'govern':7 'intellig':11 'jackson':40 'justic':15 'law':34 'lee':41 'mani':24 'produc':18 'public':20 'reduc':6 'rep':38 'secreci':8 'sheila':39 'success':3 'tx':44 'vote':48</fti-names>
+          <source-url>http://www.antiwar.com/</source-url>
+          <url>http://feedproxy.google.com/~r/AWCBlog/~3/3Uw1dXX7MtY/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-07T01:00:00-04:00</date>
+          <id type="integer">16973450</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>AntiWar.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-08-02T23:58:00-04:00</created-at>
+          <title>PARTS Act Hearing Clarifies Misconceptions about Automotive Aftermarket</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>...the overall design and manufacture of the cars, and therefore should be able to repair it any way they see fit. Rep. Sheila Jackson-Lee questioned whether this bill would further the move of manufacturing oversees. Gillis shot down the notion that this </excerpt>
+          <fti-names>'abl':21 'act':2 'aftermarket':8 'automot':7 'bill':38 'busi':53 'car':16 'clarifi':4 'design':11 'fit':29 'gilli':46 'hear':3 'jackson':33 'jackson-le':32 'lee':34 'manufactur':13,44 'misconcept':5 'move':42 'notion':50 'overal':10 'overse':45 'part':1 'question':35 'rep':30 'repair':23 'see':28 'sheila':31 'shot':47 'therefor':18 'way':26 'whether':36 'wire':54 'would':39</fti-names>
+          <source-url>http://home.businesswire.com/portal/site/home/index.jsp</source-url>
+          <url>http://feeds.businesswire.com/click.phdo?i=ccfc98d9dd3a1b809674b3996d28eb4c</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-02T01:00:00-04:00</date>
+          <id type="integer">16970701</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Business Wire</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-08-01T22:45:06-04:00</created-at>
+          <title>Rep. Richardson Introduces House Resolution Opposing Weapons Sales to...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...cosponsors of the resolution are Representative Dave Camp (R-MI), Chairman of the House Ways and Means Committee; Rep. Sheila Jackson Lee (D-TX), a senior member of the House Judiciary Committee; Rep. Betty McCollum (D-MN), a senior member of the House </excerpt>
+          <fti-names>'betti':45 'camp':17 'chairman':21 'committe':28,43 'cosponsor':10 'd':34,48 'd-mn':47 'd-tx':33 'dave':16 'hous':4,24,41,55 'introduc':3 'jackson':31 'judiciari':42 'lee':32 'mccollum':46 'mean':27 'member':38,52 'mi':20 'mn':49 'oppos':6 'prweb':56 'r':19 'r-mi':18 'rep':1,29,44 'repres':15 'resolut':5,13 'richardson':2 'sale':8 'senior':37,51 'sheila':30 'tx':35 'way':25 'weapon':7</fti-names>
+          <source-url>http://www.prweb.com/</source-url>
+          <url>http://www.prweb.com/releases/UFS_Syria/resolution_russia_weapons/prweb9761385.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-08-01T01:00:00-04:00</date>
+          <id type="integer">16969746</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PRWeb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:51:06-04:00</created-at>
+          <title>How corporate PACs deal with bad PR</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Charles Gonzalez (D-Texas ... including four-figure sums to the campaigns of Reps. Don Young (R-Alaska), Sheila Jackson Lee (D-Texas), Elijah Cummings (D-Md.), John Culberson (R-Texas) and Jim Costa (D-Calif.). Twenty state-level candidates ...</excerpt>
+          <fti-names>'alaska':28 'bad':6 'calif':50 'campaign':21 'candid':55 'charl':9 'corpor':2 'costa':47 'culberson':41 'cum':36 'd':12,33,38,49 'd-calif':48 'd-md':37 'd-texa':11,32 'deal':4 'elijah':35 'figur':17 'four':16 'four-figur':15 'gonzalez':10 'includ':14 'jackson':30 'jim':46 'john':40 'lee':31 'level':54 'md':39 'nj.com':56 'pac':3 'pr':7 'r':27,43 'r-alaska':26 'r-texa':42 'rep':8,23 'sheila':29 'state':53 'state-level':52 'sum':18 'texa':13,34,44 'twenti':51 'young':25</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.nj.com/us-politics/index.ssf/2012/07/how_corporate_pacs_deal_with_b.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T04:53:48-04:00</date>
+          <id type="integer">16966677</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>NJ.com</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-31T22:51:12-04:00</created-at>
+          <title>American Syrian Coalition Commended Representatives for Sponsoring...</title>
+          <contains-term>representative</contains-term>
+          <excerpt>...as original cosponsors of the resolution are Rep. Dave Camp (R-MI), Chairman of the House Ways and Means Committee; Rep. Sheila Jackson Lee (D-TX), a senior member of the House Judiciary Committee; Rep. Betty McCollum (D-MN), a senior member of the Hous</excerpt>
+          <fti-names>'american':1 'betti':45 'camp':17 'chairman':21 'coalit':3 'commend':4 'committe':28,43 'cosponsor':10 'd':34,48 'd-mn':47 'd-tx':33 'dave':16 'hous':24,41,55 'jackson':31 'judiciari':42 'lee':32 'mccollum':46 'mean':27 'member':38,52 'mi':20 'mn':49 'origin':9 'prweb':56 'r':19 'r-mi':18 'rep':15,29,44 'repres':5 'resolut':13 'senior':37,51 'sheila':30 'sponsor':7 'syrian':2 'tx':35 'way':25</fti-names>
+          <source-url>http://www.prweb.com/</source-url>
+          <url>http://www.prweb.com/releases/Syrian-Expatriate-Org/commend-reps-HR742/prweb9754724.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-31T01:00:00-04:00</date>
+          <id type="integer">16966678</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PRWeb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:50-04:00</created-at>
+          <title>Rep. Richardson Introduces House Resolution Opposing Weapons Sales to Syria by Russian Government</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Dave Camp (R-MI), Chairman of the House Ways and Means Committee; Rep. Sheila Jackson Lee (D-TX), a senior member of the House Judiciary Committee; Rep. Betty McCollum (D-MN), a senior member of the House Appropriations Subcommittee on State and Foreign ..</excerpt>
+          <fti-names>'appropri':54 'betti':43 'camp':15 'chairman':19 'committe':26,41 'd':32,46 'd-mn':45 'd-tx':31 'dave':14 'foreign':59 'govern':13 'hous':4,22,39,53 'introduc':3 'jackson':29 'judiciari':40 'lee':30 'mccollum':44 'mean':25 'member':36,50 'mi':18 'mn':47 'oppos':6 'prweb':60 'r':17 'r-mi':16 'rep':1,27,42 'resolut':5 'richardson':2 'russian':12 'sale':8 'senior':35,49 'sheila':28 'state':57 'subcommitte':55 'syria':10 'tx':33 'way':23 'weapon':7</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://www.prweb.com/releases/2012/7/prweb9722717.htm</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T16:36:30-04:00</date>
+          <id type="integer">16960707</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>PRWeb</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:58-04:00</created-at>
+          <title>How corporate PACs deal with bad PR</title>
+          <contains-term>congress</contains-term>
+          <excerpt>...Last month, for example, BP&#8217;s PAC handed out about $16,500 overall, including four-figure sums to the campaigns of Reps. Don Young (R-Alaska), Sheila Jackson Lee (D-Texas), Elijah Cummings (D-Md.), John Culberson (R-Texas) and Jim Costa (D-Calif.)....</excerpt>
+          <fti-names>'16':18 '500':19 'alaska':35 'bad':6 'bp':12 'calif':57 'campaign':28 'corpor':2 'costa':54 'culberson':48 'cum':43 'd':40,45,56 'd-calif':55 'd-md':44 'd-texa':39 'deal':4 'elijah':42 'exampl':11 'figur':24 'four':23 'four-figur':22 'hand':15 'includ':21 'jackson':37 'jim':53 'john':47 'last':8 'lee':38 'md':46 'month':9 'overal':20 'pac':3,14 'politico':59 'pr':7 'r':34,50 'r-alaska':33 'r-texa':49 'rep':30 'sheila':36 'sum':25 'texa':41,51 'young':32</fti-names>
+          <source-url>http://www.politico.com/</source-url>
+          <url>http://www.politico.com/news/stories/0712/79161.html</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960711</id>
+          <scraped-from>daylife</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>The Politico</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:33:39-04:00</created-at>
+          <title>Lady Bird Johnson will be immortalized in a stamp</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Mike Conaway of Midland, Rep. Charlie Gonzalez of San Antonio, Rep. Joe Barton of Ennis and Rep. Sheila Jackson Lee of Houston. The stamp, which will be available in December 2012, will feature Mrs. Johnson&#8217;s official White House portrait. The former ...</excerpt>
+          <fti-names>'2012':40 'antonio':19 'avail':37 'barton':22 'bird':2 'charli':15 'chronicl':53 'conaway':11 'decemb':39 'enni':24 'featur':42 'former':51 'gonzalez':16 'hous':48 'houston':31,52 'immort':6 'jackson':28 'joe':21 'johnson':3,44 'ladi':1 'lee':29 'midland':13 'mike':10 'mrs':43 'offici':46 'portrait':49 'rep':14,20,26 'san':18 'sheila':27 'stamp':9,33 'white':47</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.chron.com/txpotomac/2012/07/lady-bird-johnson-will-be-immortalized-in-a-stamp/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-28T22:58:15-04:00</date>
+          <id type="integer">16929928</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>Houston Chronicle</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-25T23:16:22-04:00</created-at>
+          <title>Obama security chief: No signs of Muslim Brotherhood operating within U.S.</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Napolitano commented in testimony before the House Committee on Homeland Security in response to questions by Houston Congresswoman Sheila Jackson Lee. Jackson Lee asked Napolitano&#160;to discuss the issue after five GOP House members led by Rep. Michele ...</excerpt>
+          <fti-names>'ask':35 'brotherhood':8 'chief':3 'comment':13 'committe':19 'congresswoman':29 'discuss':38 'five':42 'gop':43 'homeland':21 'hous':18,44 'houston':28 'issu':40 'jackson':31,33 'led':46 'lee':32,34 'member':45 'michel':49 'muslim':7 'mysanantonio':50 'napolitano':12,36 'obama':1 'oper':9 'question':26 'rep':48 'respons':24 'secur':2,22 'sheila':30 'sign':5 'testimoni':15 'u.s':11 'within':10</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://blog.mysanantonio.com/texas-on-the-potomac/2012/07/obama-security-chief-no-signs-of-muslim-brotherhood-operating-within-u-s/</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T19:55:42-04:00</date>
+          <id type="integer">16859402</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>MySanAntonio</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+        <recent-news>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-24T23:24:39-04:00</created-at>
+          <title>Rep. Jackson Lee Will Seek Meeting With NRA About Response to Aurora Shootings</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Rep. Sheila Jackson Lee (D-Texas) said late Monday that she would seek a meeting with the National Rifle Association (NRA) to see if there are any ways to find an agreement on how to prevent tragedies like the one last week in Colorado ...</excerpt>
+          <fti-names>'agreement':46 'associ':34 'aurora':12 'colorado':58 'd':19 'd-texa':18 'find':44 'fox':59 'jackson':2,16 'last':55 'late':22 'lee':3,17 'like':52 'meet':6,29 'monday':23 'nation':32 'news':60 'nra':8,35 'one':54 'prevent':50 'rep':1,14 'respons':10 'rifl':33 'said':21 'see':37 'seek':5,27 'sheila':15 'shoot':13 'texa':20 'tragedi':51 'way':42 'week':56 'would':26</fti-names>
+          <source-url nil="true"></source-url>
+          <url>http://nation.foxnews.com/rep-sheila-jackson-lee/2012/07/24/rep-jackson-lee-will-seek-meeting-nra-about-response-aurora-shootings</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-24T10:52:51-04:00</date>
+          <id type="integer">16849963</id>
+          <scraped-from>bing</scraped-from>
+          <is-news type="boolean">true</is-news>
+          <source>FOX News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-news>
+      </recent-news>
+      <name>Rep. Sheila Jackson-Lee [D, TX-18]</name>
+      <total-session-votes type="integer">1574</total-session-votes>
+      <sunlight-nickname nil="true"></sunlight-nickname>
+      <fax>202-225-3317</fax>
+      <district>18</district>
+      <recent-blogs type="array">
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:44-04:00</created-at>
+          <title>Rep. Richardson Introduces House Resolution Opposing Weapons ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Joining Rep. Richardson as original cosponsors of the resolution are Rep. Dave Camp (R-MI), Chairman of the House Ways and Means Committee; Rep. Sheila Jackson Lee (D-TX), a senior member of the House Judiciary ...</excerpt>
+          <fti-names>'admin':46 'camp':20 'chairman':24 'committe':31 'cosponsor':13 'd':37 'd-tx':36 'dave':19 'hous':4,27,44 'introduc':3 'jackson':34 'join':8 'judiciari':45 'lee':35 'mean':30 'member':41 'mi':23 'oppos':6 'origin':12 'r':22 'r-mi':21 'rep':1,9,18,32 'resolut':5,16 'richardson':2,10 'senior':40 'sheila':33 'tx':38 'way':28 'weapon':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://politicsandpolls.com/players/plyrs-by-state/mn-moc/betty-mccollum-minnesota-representative/rep-richardson-introduces-house-resolution-opposing-weapons-sales-to-digitaljournal-com-press-release/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-richardson-introduces-house-resolution-opposing-weapons-sales-to-digitaljournal-com-press-release&amp;sa=U&amp;ei=DUsXUJmmC5Sk8QTd8oGIDA&amp;ved=0CD8QmAEwCA&amp;usg=AFQjCNEZT-K7yPs8TOaSWDycandmMVzWDQ</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960703</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:43-04:00</created-at>
+          <title>House Democrats Holding Texas Forum on Voting Rights | Election ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>MEMBERS OF CONGRESS include: Rep. Charles A. Gonzalez (TX-20), Ranking Member, Subcommittee on Elections. Rep. Gene Green (TX-29), Member of Congress. Rep. Sheila Jackson Lee (TX-18), Member of Congress ...</excerpt>
+          <fti-names>'-18':38 '-20':19 '-29':29 'charl':15 'congress':12,32,41 'democrat':2 'elect':9,24 'forum':5 'gene':26 'gonzalez':17 'green':27 'hasen':43 'hold':3 'hous':1 'includ':13 'jackson':35 'lee':36 'member':10,21,30,39 'rank':20 'rep':14,25,33 'rick':42 'right':8 'sheila':34 'subcommitte':22 'texa':4 'tx':18,28,37 'vote':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://electionlawblog.org/%3Fp%3D37740&amp;sa=U&amp;ei=DUsXUJmmC5Sk8QTd8oGIDA&amp;ved=0CDYQmAEwBg&amp;usg=AFQjCNFUR-fsYMkcx-_SU8bGBcDr2O92JA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960701</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Rick Hasen</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:43-04:00</created-at>
+          <title>Entrepreneurs Can Change the World | Susan Solovic</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>To that end, Winbush has teamed up with Rep. Sheila Jackson Lee (D-Tex.) to lead new initiatives and programs designed to create national awareness and support increased minority participation in the technology sector.</excerpt>
+          <fti-names>'admin':43 'awar':33 'chang':3 'creat':31 'd':21 'd-tex':20 'design':29 'end':10 'entrepreneur':1 'increas':36 'initi':26 'jackson':18 'lead':24 'lee':19 'minor':37 'nation':32 'new':25 'particip':38 'program':28 'rep':16 'sector':42 'sheila':17 'solov':7 'support':35 'susan':6 'team':13 'technolog':41 'tex':22 'winbush':11 'world':5</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.susansolovic.com/2012/07/entrepreneurs-can-change-the-world/&amp;sa=U&amp;ei=DUsXUJmmC5Sk8QTd8oGIDA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFnUbY_Dmult-5Hl6FpP__bXecj_Q</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960700</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:43-04:00</created-at>
+          <title>Rep. Richardson Introduces House Resolution Opposing Weapons ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Joining Rep. Richardson as original cosponsors of the resolution are Rep. Dave Camp (R-MI), Chairman of the House Ways and Means Committee; Rep. Sheila Jackson Lee (D-TX), a senior member of the House Judiciary Committee; Rep.</excerpt>
+          <fti-names>'admin':48 'camp':20 'chairman':24 'committe':31,46 'cosponsor':13 'd':37 'd-tx':36 'dave':19 'hous':4,27,44 'introduc':3 'jackson':34 'join':8 'judiciari':45 'lee':35 'mean':30 'member':41 'mi':23 'oppos':6 'origin':12 'r':22 'r-mi':21 'rep':1,9,18,32,47 'resolut':5,16 'richardson':2,10 'senior':40 'sheila':33 'tx':38 'way':28 'weapon':7</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.sacouncil.com/index.php/news/press-releases/rep-richardson-introduces-house-resolution-opposing-weapons-sales-to-syria-by-russian-government/%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Drep-richardson-introduces-house-resolution-opposing-weapons-sales-to-syria-by-russian-government&amp;sa=U&amp;ei=DUsXUJmmC5Sk8QTd8oGIDA&amp;ved=0CC4QmAEwBA&amp;usg=AFQjCNGoKi_gKsci032DmJmSAmhy97hlfg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960699</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>admin</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T23:03:41-04:00</created-at>
+          <title>This Just in Congresswoman Sheila Jackson Lee and Several ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>This Just in Congresswoman Sheila Jackson Lee and Several Members of Congress at Msl Today!!!!! This Just in Congresswoman Sheila Jackson Lee and Several Members of Congress at Msl Today!</excerpt>
+          <fti-names>'congress':21,36 'congresswoman':4,13,28 'editor':40 'jackson':6,15,30 'lee':7,16,31 'member':19,34 'msl':23,38 'sever':9,18,33 'sheila':5,14,29 'today':24,39</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://voiceofthemainland.blogspot.com/2012/07/this-just-in-congresswoman-sheila.html&amp;sa=U&amp;ei=DUsXUJmmC5Sk8QTd8oGIDA&amp;ved=0CCUQmAEwAg&amp;usg=AFQjCNFJ5hUEx_kc2OlYmJdJGj0-l0YJng</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-30T01:00:00-04:00</date>
+          <id type="integer">16960697</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Editor</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-29T00:33:34-04:00</created-at>
+          <title>Consul General Arora Honored in a Grand Farewell Function | Indo ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Sheila Jackson-Lee was an honorary guest. Promptly at six, the guests started arriving and soon the big hall was overflowing with over 1200 people. The entire Consulate staff, led by Consul Anil Matta and ...</excerpt>
+          <fti-names>'1200':36 'american':49 'anil':45 'arora':3 'arriv':26 'big':30 'congresswoman':11 'consul':1,40,44 'entir':39 'farewel':8 'function':9 'general':2 'grand':7 'guest':19,24 'hall':31 'honor':4 'honorari':18 'indo':10,48 'jackson':14 'jackson-le':13 'led':42 'lee':15 'matta':46 'news':50 'overflow':33 'peopl':37 'prompt':20 'sheila':12 'six':22 'soon':28 'staff':41 'start':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.indoamerican-news.com/%3Fp%3D7808&amp;sa=U&amp;ei=9rwUULSzJoXj0QGy_IHYCA&amp;ved=0CEgQmAEwCg&amp;usg=AFQjCNHPduOfITupzujokZiS09_GjSIpLw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16929927</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Indo American News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-27T23:05:02-04:00</created-at>
+          <title>Consul General Arora Honored in a Grand Farewell Function | Indo ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Sheila Jackson-Lee was an honorary guest. Promptly at six, the guests started arriving and soon the big hall was overflowing with over 1200 people. The entire Consulate staff, led by Consul Anil Matta and ...</excerpt>
+          <fti-names>'1200':36 'american':49 'anil':45 'arora':3 'arriv':26 'big':30 'congresswoman':11 'consul':1,40,44 'entir':39 'farewel':8 'function':9 'general':2 'grand':7 'guest':19,24 'hall':31 'honor':4 'honorari':18 'indo':10,48 'jackson':14 'jackson-le':13 'led':42 'lee':15 'matta':46 'news':50 'overflow':33 'peopl':37 'prompt':20 'sheila':12 'six':22 'soon':28 'staff':41 'start':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.indoamerican-news.com/%3Fp%3D7808&amp;sa=U&amp;ei=21YTULuaO6ju0gGL0YCYCQ&amp;ved=0CDgQmAEwBg&amp;usg=AFQjCNGGmhLMv8_An6RYB2rQtQdJsCsK_g</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16921834</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Indo American News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:11:26-04:00</created-at>
+          <title>Homegoing celebration for Inspector Phillip Ray Prater, Jr. | Houston ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>He worked for Congresswoman Sheila Jackson Lee. Some in attendance at his funeral were Dr. Jacqueline Cobbin, Bronson E. Woods, Evangelist Pearline Matson, Carlos Guardiola-VP Chief Union Steward, Patrick D.</excerpt>
+          <fti-names>'attend':19 'bronson':27 'carlo':33 'celebr':2 'chief':37 'cobbin':26 'congresswoman':13 'd':41 'dr':24 'e':28 'evangelist':30 'funer':22 'guardiola':35 'guardiola-vp':34 'homego':1 'houston':9 'inspector':4 'jackson':15 'jacquelin':25 'jr':8 'lee':16 'matson':32 'patrick':40 'pearlin':31 'phillip':5 'pink':43 'prater':7 'ray':6 'sheila':14 'steward':39 'union':38 'vicki':42 'vp':36 'wood':29 'work':11</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.stylemagazine.com/homegoing-celebration-for-inspector-phillip-ray-prater-jr/&amp;sa=U&amp;ei=2wYSUK2oGYWQ8wSE7oGADA&amp;ved=0CEkQmAEwCg&amp;usg=AFQjCNEo3ZyMQ60PtU_n-n1tMwExxuFKFg</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890414</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Vicky Pink</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-26T23:11:25-04:00</created-at>
+          <title>Consul General Arora Honored in a Grand Farewell Function | Indo ...</title>
+          <contains-term>congress</contains-term>
+          <excerpt>Congresswoman Sheila Jackson-Lee was an honorary guest. Promptly at six, the guests started arriving and soon the big hall was overflowing with over 1200 people. The entire Consulate staff, led by Consul Anil Matta and ...</excerpt>
+          <fti-names>'1200':36 'american':49 'anil':45 'arora':3 'arriv':26 'big':30 'congresswoman':11 'consul':1,40,44 'entir':39 'farewel':8 'function':9 'general':2 'grand':7 'guest':19,24 'hall':31 'honor':4 'honorari':18 'indo':10,48 'jackson':14 'jackson-le':13 'led':42 'lee':15 'matta':46 'news':50 'overflow':33 'peopl':37 'prompt':20 'sheila':12 'six':22 'soon':28 'staff':41 'start':25</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.indoamerican-news.com/%3Fp%3D7808&amp;sa=U&amp;ei=2wYSUK2oGYWQ8wSE7oGADA&amp;ved=0CDIQmAEwBQ&amp;usg=AFQjCNFwL3zT0eOi0HoBjXR3I_dTkO9Mdw</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-26T01:00:00-04:00</date>
+          <id type="integer">16890409</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Indo American News</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+        <recent-blog>
+          <average-rating type="float" nil="true"></average-rating>
+          <commentariable-id type="integer">400199</commentariable-id>
+          <created-at type="datetime">2012-07-30T02:45:47-04:00</created-at>
+          <title>Sheila Jackson Lee Would Have Police At Your Door If You Bought ...</title>
+          <contains-term>rep\.</contains-term>
+          <excerpt>Subscribe. Sheila Jackson Lee Would Have Police At Your Door If You Bought Too Much Ammo. Rabid leftist Rep. Sheila Jackson Lee said on the House floor she was going to tell the National Rifle Association to attend one ...</excerpt>
+          <fti-names>'ammo':28 'associ':48 'attend':50 'bought':12,25 'door':9,22 'duan':52 'floor':39 'go':42 'hous':38 'jackson':2,15,33 'lee':3,16,34 'leftist':30 'lester':53 'much':27 'nation':46 'one':51 'polic':6,19 'rabid':29 'rep':31 'rifl':47 'said':35 'sheila':1,14,32 'subscrib':13 'tell':44 'would':4,17</fti-names>
+          <source-url></source-url>
+          <url>/url?q=http://www.allamericanblogger.com/22985/sheila-jackson-lee-would-have-police-at-your-door-if-you-bought-too-much-ammo/&amp;sa=U&amp;ei=kC0WUJjuBI3i8gTmqIDAAQ&amp;ved=0CC8QmAEwBA&amp;usg=AFQjCNHKvbKNbP8w1FUxnQDBxch11xulCA</url>
+          <weight type="integer" nil="true"></weight>
+          <date type="datetime">2012-07-25T01:00:00-04:00</date>
+          <id type="integer">16947894</id>
+          <scraped-from>google blog</scraped-from>
+          <is-news type="boolean">false</is-news>
+          <source>Duane Lester</source>
+          <status>OK</status>
+          <commentariable-type>Person</commentariable-type>
+          <is-ok type="boolean">true</is-ok>
+        </recent-blog>
+      </recent-blogs>
+      <page-views-count type="integer">39564</page-views-count>
+      <unaccented-name>Sheila Jackson-Lee</unaccented-name>
+      <oc-user-comments type="integer">15</oc-user-comments>
+    </person>
+  </people>
+</hash>
