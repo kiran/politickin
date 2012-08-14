@@ -20,7 +20,9 @@
   </div>
   <div class="span3">
     <ul class='unstyled'>
-      <li><strong>Predictability:</strong> <%= number_to_percentage(@congressman.predictability*100) %></li>
+      <% unless @congressman.predictability.nil? %>
+        <li><strong>Predictability:</strong> <%= number_to_percentage(@congressman.predictability*100) %></li>
+      <% end %>
     </ul>
   </div>
   <%= render :partial => "social" %>

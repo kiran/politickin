@@ -2,14 +2,15 @@
   <h1>Politickin'</h1>
    <br>
   <p>Be informed.</p>
-    
+  <div>
+    <img class='thumbnail' src='assets/capitol_hill_lg.jpg' />
+  </div>
+  <br>
   <%= form_tag "/congressmen", :method => 'get' do %>
     <%= text_field_tag :search, nil, :class => 'input-long search-query', :placeholder=>'Find congressman by name' %>
     <button type="submit" value="upvote" class="btn btn-success">
         <i class="icon-search"></i>
     </button>
   <% end %>
-
-  <div id='chart-home'></div>
 
 </div>
