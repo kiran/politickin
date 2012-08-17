@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120812061012) do
+ActiveRecord::Schema.define(:version => 20120815232243) do
 
   create_table "congressmen", :force => true do |t|
     t.string   "first_name",                              :null => false
@@ -97,6 +97,8 @@ ActiveRecord::Schema.define(:version => 20120812061012) do
     t.integer  "metavid_id"
     t.text     "recent_news"
     t.text     "recent_blogs"
+    t.text     "opensecret_contributors"
+    t.text     "opensecret_industries"
   end
 
 end
