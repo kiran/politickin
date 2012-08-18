@@ -23,16 +23,18 @@ class Congressman < ActiveRecord::Base
   
   # Go out and re-spider this politician.
   def gather_info
-    contributor_data, industry_data, capitolwords_data = {}, {}, {}
+    contributor_data, industry_data, capitolwords_data, committees_data = {}, {}, {}, {}
 
     contributor = Thread.new { contributor_data = OpenSecrets.search_contributors(crp_id) }
     industry = Thread.new { industry_data = OpenSecrets.search_industries(crp_id) }
     capitolwords = Thread.new { capitolwords_data = CapitolWords.search(bioguide_id) }
+    committees = Thread.new { committees_data = Sunlight.search_committees(bioguide_id) }
 
-    [contributor, industry].each { |t| t.join }
+    [contributor, industry, committees].each { |t| t.join }
     #a, b = Services.dig_up_dirt(first_name, last_name, crp_id, votesmart_id)
     self.opensecrets_contributors = contributor_data['opensecrets_contributors'].to_json
     self.opensecrets_industries = industry_data['opensecrets_industries'].to_json
+    self.committees = committees_data
 
     capitolwords.join
     capitolwords_data['capitol_words'].map {|blob|

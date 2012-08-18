@@ -4,6 +4,7 @@ module Services
     extend Base
 
     URL = 'services.sunlightlabs.com/api/legislators.search.json'
+    URL2= 'services.sunlightlabs.com/api/committees.allForLegislator'
 
     # Dig up dirt from Sunlight Labs...
     def self.search(name)
@@ -23,6 +24,15 @@ module Services
         raise Services::NotFoundException, "Can't find a legislator by that name..." unless score > 0.5
         winner['result']['legislator']['sunlight_score'] = score
         winner['result']['legislator']
+      end
+    end
+
+    # Dig up dirt from Sunlight Labs...
+    def self.search_committees(bioguide_id)
+      safe_request('sunlight committees') do
+        url = "#{URL2}?apikey=#{SECRETS['sunlight']}&bioguide_id=#{bioguide_id}"
+        committees = get_json(url)['response']['committees']
+        committees
       end
     end
 
