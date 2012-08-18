@@ -97,8 +97,8 @@ ActiveRecord::Schema.define(:version => 20120815232243) do
     t.integer  "metavid_id"
     t.text     "recent_news"
     t.text     "recent_blogs"
-    t.text     "opensecret_contributors"
-    t.text     "opensecret_industries"
+    t.text     "opensecrets_contributors"
+    t.text     "opensecrets_industries"
   end
 
 end

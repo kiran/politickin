@@ -30,8 +30,8 @@ class Congressman < ActiveRecord::Base
 
     [contributor, industry].each { |t| t.join }
     #a, b = Services.dig_up_dirt(first_name, last_name, crp_id, votesmart_id)
-    self.opensecret_contributors = contributor_data['opensecrets_contributors'].to_json
-    self.opensecret_industries = industry_data['opensecrets_industries'].to_json
+    self.opensecrets_contributors = contributor_data['opensecrets_contributors'].to_json
+    self.opensecrets_industries = industry_data['opensecrets_industries'].to_json
     save
   end
   
