@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  word: MyString
+  legislator: MyText
+  chamber: MyText
+  state: MyText
+  party: MyText
+
+two:
+  word: MyString
+  legislator: MyText
+  chamber: MyText
+  state: MyText
+  party: MyText

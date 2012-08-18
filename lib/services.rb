@@ -17,7 +17,7 @@ module Services
     data = {'search_name' => name}
     sunlight_data, watchdog_data, flickr_data, contributor_data, industry_data, tags_data, articles_data, words_data =
       {}, {}, {}, {}, {}, {}, {}, {}
-      
+
     sunlight = Thread.new { sunlight_data = Sunlight.search(name) }
     sunlight.join
     merge_data(data, sunlight_data)
