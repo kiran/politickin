@@ -36,32 +36,7 @@
   </head>
   <body>
 
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container-fluid">
-          <a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <a class="brand" href="/">Politickin</a>
-          <div class="container-fluid nav-collapse">
-            <ul class="nav">
-              <li><%= link_to "About", "/about"  %></li>
-              <li><%= link_to "All Congressmen", "/congressmen"  %></li>
-            </ul>
-            <ul class='nav pull-right'>
-              <%= form_tag "/congressmen", :method => 'get' do %>
-                <%= text_field_tag :search, nil, :class => 'input-medium search-query', :placeholder=>'Find by name' %>
-                <button type="submit" value="upvote" class="btn btn-success">
-                    <i class="icon-search"></i>
-                </button>
-              <% end %>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+<%= render :partial => 'common-partials/navmenu' %>
 
     <div class="container">
     <div class="page-header">

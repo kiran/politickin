@@ -1,0 +1,32 @@
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+      <div class="container-fluid">
+
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+      <!--Leave the brand out there to be shown -->
+      <a class="brand" href="/">ConcertBOS</a>
+
+      <!-- Everything hidden at 940px or less, place within here -->
+      <div class="container-fluid nav-collapse">
+        <ul class="nav">
+              <%= nav_link 'About', '/about' %>
+              <%= nav_link "All Congressmen", '/congressmen' %>
+        </ul>
+        <ul class='nav pull-right'>
+          <%= form_tag "/congressmen", :method => 'get' do %>
+            <%= text_field_tag :search, nil, :class => 'input-medium search-query', :placeholder=>'Find by name' %>
+            <button type="submit" value="upvote" class="btn btn-success">
+                <i class="icon-search"></i>
+            </button>
+          <% end %>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </div>
+</div>
