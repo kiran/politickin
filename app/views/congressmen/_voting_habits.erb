@@ -1,0 +1,67 @@
+<div class='row'>
+  <h2 class='span12'>Voting Habits</h2>
+    <div class="span6">
+        <h3>Legislative Activity</h3>
+
+        <h4>Abstains info</h4>
+        <ul class='unstyled'>
+          <li>Abstains: <%= @congressman.abstains %></li>
+          <li>Abstains percentage: <%= @congressman.abstains_percentage %></li>
+          <li>abstains_percentage_rank: <%= @congressman.abstains_percentage_rank %></li>
+        </ul>
+
+        <h4>Sponsored info</h4>
+        <ul class='unstyled'>
+          <li>cosponsored_bills: <%= @congressman.cosponsored_bills %></li>
+          <li>cosponsored_bills_rank: <%= @congressman.cosponsored_bills_rank %></li>
+          <li>sponsored_bills: <%= @congressman.sponsored_bills %></li>
+          <li>sponsored_bills_rank: <%= @congressman.sponsored_bills_rank %></li>
+          <li>sponsored_bills_passed: <%= @congressman.sponsored_bills_passed %></li>
+          <li>sponsored_bills_passed_rank: <%= @congressman.sponsored_bills_passed_rank %></li>
+          <li>cosponsored_bills_passed: <%= @congressman.cosponsored_bills_passed %></li>
+          <li>cosponsored_bills_passed_rank: <%= @congressman.cosponsored_bills_passed_rank %></li>
+        </ul>
+
+          <h4>Votes with/against:</h4>
+          <ul class='unstyled'>
+            <li>with_party_percentage: <%= @congressman.with_party_percentage %></li>
+            <li>party_votes_percentage: <%= @congressman.party_votes_percentage %></li>
+            <li>party_votes_percentage_rank: <%= @congressman.party_votes_percentage_rank %></li>
+            <li>votes_democratic_position: <%= @congressman.votes_democratic_position %></li>
+            <li>votes_republican_position: <%= @congressman.votes_republican_position %></li>
+            <li>votes_least_often_with_id: <%= Congressman.find_by_govtrack_id(@congressman.votes_least_often_with_id.to_s()).name %></li>
+            <li>votes_most_often_with_id: <%= Congressman.find_by_govtrack_id(@congressman.votes_most_often_with_id.to_s()).name %></li>
+            <li>same_party_votes_least_often_with_id: <%= Congressman.find_by_govtrack_id(@congressman.same_party_votes_least_often_with_id.to_s()).name %></li>
+            <li>opposing_party_votes_most_often_with_id: <%= Congressman.find_by_govtrack_id(@congressman.opposing_party_votes_most_often_with_id.to_s()).name %></li>
+          </ul>
+
+          <h4>Voting stats</h4>
+          <ul class='unstyled'>
+            <li>total_session_votes: <%= @congressman.total_session_votes %></li>
+          </ul>
+
+          <h4>Media:</h4>
+          <ul class='unstyled'>
+            <li>metavid_id: <%= @congressman.metavid_id %></li><!-- 
+            <li>recent_news: <%= @congressman.recent_news %></li>
+            <li>recent_blogs: <%= @congressman.recent_blogs %></li> -->
+          </ul>
+    </div>
+    <div class="span6">
+        <h3>Biographical Facts</h3>
+        <ul class='unstyled'>
+          <% unless @congressman.nickname.nil? or @congressman.nickname.empty? %>
+            <li><strong>Nickname:</strong> <%= @congressman.nickname %></li>
+          <% end %>
+          <% unless @congressman.birthdate.nil? or @congressman.birthdate.empty? %>
+            <li><strong>Birth:</strong> <%= @congressman.birthdate %>, <%= @congressman.birthplace %></li>
+          <% end %>
+          <% unless @congressman.religion.nil? or @congressman.religion.empty? %>
+            <li><strong>Religion:</strong> <%= @congressman.religion %></li>
+          <% end %>
+          <% unless @congressman.education.nil? or @congressman.education.empty? %>
+            <li><strong>Education:</strong> <%= @congressman.education %></li>
+          <% end %>
+        </ul>
+    </div>
+</div>

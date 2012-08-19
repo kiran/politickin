@@ -1,0 +1,53 @@
+<% contributors = @congressman.opensecrets_contributors %>
+<% unless contributors.nil? %>
+
+    t.float    "pct_spent"
+    t.float    "pct_self"
+    t.float    "pct_indiv"
+    t.float    "pct_pac"
+    t.integer  "money_raised"
+
+  <div class='row'>
+    <h2>Finances</h2>
+    <div class='span6'>
+      <h3>Organizational Contributors</h3>
+      <table class='table table-striped table-bordered table-condensed'>
+        <tr>
+          <th>Name</th>
+          <th>Money</th>
+        </tr>
+      <% contributors.each do |contributor| %>
+        <tr>
+          <td><%= contributor['org_name'] %></td>
+          <td><%= contributor['total'] %></td>
+        </tr>
+      <% end %>
+      </table>
+    </div>
+    <div class='span6'>
+      <h3>Industry Contributors</h3>
+      <% contributors = @congressman.opensecrets_industries %>
+      <table class='table table-striped table-bordered table-condensed'>
+        <tr>
+          <th>Industry Name</th>
+          <th>PACs</th>
+          <th>Indivs</th>
+          <th>Money</th>
+        </tr>
+      </table>
+      <% top_contrib = contributors[0]['total'].to_i %>
+      <% contributors.each do |contributor| %>
+        <% width = Float(contributor['pacs'].to_i)/contributor['total'].to_i * 100 %>
+        <% bar_width = Float(contributor['total'].to_i)/top_contrib * 100 %>
+          <%= contributor['industry_name'] %>: $<%= number_to_human(contributor['total'].to_i*1000, :precision => 0) %>
+          <div class="progress"
+            style="width: <%= bar_width%>%">
+            <div class="bar"
+            style="width: <%= width %>%;"><%= number_with_precision(width, :precision => 1) %>%</div>
+          </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+<hr>
