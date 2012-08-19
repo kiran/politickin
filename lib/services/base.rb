@@ -1,6 +1,18 @@
 module Services
 
   module Base
+    require 'net/http'
+
+    def get_xml(url)
+      begin
+        xml_data = Net::HTTP.get_response(URI.parse(url)).body
+        xml_data
+      rescue Exception => e # Faux-log any failed requests.
+        Rails.logger.warn("Failed to parse xml for: #{url}")
+        Rails.logger.warn(e.message)
+        {}
+      end
+    end
 
     # Use the JSON and RestClient gems to get json from a url
     def get_json(url)

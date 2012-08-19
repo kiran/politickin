@@ -11,7 +11,7 @@ module Services
     def self.search(bioguide_id)
       safe_request('capitol words') do
         url = "#{URL}&apikey=#{SECRETS['sunlight']}&entity_value=#{bioguide_id}&per_page=#{PARAMETERS['capitolwords_per_congressman']}"
-        {'capitol_words' => get_json(url)}
+        get_json(url)
       end
     end
 
