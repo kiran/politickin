@@ -5,10 +5,10 @@ class Congressman < ActiveRecord::Base
   # Return cached data or find it out.
   def information
     begin
-      gather_information if stale?
-      self.json
+      gather_info if stale?
+      self
     rescue Services::NotFoundException => e
-      self.destroy
+      #self.destroy
       {'error' => e.message}.to_json
     end
   end
@@ -30,13 +30,13 @@ class Congressman < ActiveRecord::Base
     capitolwords = Thread.new { capitolwords_data = CapitolWords.search(bioguide_id) }
     committees = Thread.new { committees_data = Sunlight.search_committees(bioguide_id) }
 
-    [contributor, industry, committees].each { |t| t.join }
+    [contributor, industry, committees, capitolwords].each { |t| t.join }
     #a, b = Services.dig_up_dirt(first_name, last_name, crp_id, votesmart_id)
     self.opensecrets_contributors = contributor_data['opensecrets_contributors'].to_json
     self.opensecrets_industries = industry_data['opensecrets_industries'].to_json
     self.committees = committees_data
+    self.capitolwords = capitolwords_data['capitol_words'].to_json
 
-    capitolwords.join
     capitolwords_data['capitol_words'].map {|blob|
       WordInfo.find_or_create_by_word(blob['ngram']) do |word|
         word.add_information
@@ -45,11 +45,9 @@ class Congressman < ActiveRecord::Base
     save
   end
   
-  
   # Is our cache empty or past its expiration date?
   def stale?
     updated_at < 2.hours.ago
-    # rue
   end
   
   def self.search(search)

@@ -1,6 +1,5 @@
 var r = 500,
-    format = d3.format(",d"),
-    fill = d3.scale.category20c();
+    format = d3.format(",d");
 
 var bubble = d3.layout.pack()
     .sort(null)
@@ -13,7 +12,9 @@ var vis = d3.select("#chart").append("svg")
 
 d3.json(window.location+'.json', function(json) {
 
-  var data = $.parseJSON(json['json'])['capitol_words'];
+  console.log(json);
+  console.log($.parseJSON(json['capitolwords']));
+  var data = $.parseJSON(json['capitolwords']);
   var json = {"name":"graph", "children": data};
   console.log(json);
 
@@ -29,8 +30,7 @@ d3.json(window.location+'.json', function(json) {
       .text(function(d) { return d.className + ": " + format(d.value); });
 
   node.append("circle")
-      .attr("r", function(d) { return d.r; })
-      .style("fill", function(d) { return fill(d.packageName); });
+      .attr("r", function(d) { return d.r; });
 
   node.append("text")
       .attr("text-anchor", "middle")

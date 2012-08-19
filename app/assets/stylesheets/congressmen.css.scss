@@ -34,3 +34,23 @@ $indGray: #C5C5C5;
     fill: #333;
   }
 }
+
+#chart {
+  circle {
+    fill: indGray;
+  }
+  &.D circle {
+    fill: $demBlue;
+  }
+  &.R circle {
+    fill: $repRed;
+  }
+  text {
+    fill: #EEE;
+    font: 12px sans-serif;
+  }
+  circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+  }
+}

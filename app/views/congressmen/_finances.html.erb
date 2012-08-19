@@ -1,5 +1,6 @@
-<% contributors = JSON.parse(@congressman.opensecrets_contributors) %>
-<% unless contributors.nil? %>
+<% unless @congressman.opensecrets_contributors.nil? %>
+
+  <% contributors = JSON.parse(@congressman.opensecrets_contributors) %>
 
     t.float    "pct_spent"
     t.float    "pct_self"
