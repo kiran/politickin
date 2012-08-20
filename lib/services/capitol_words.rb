@@ -17,28 +17,28 @@ module Services
 
     def self.get_word_info(phrase)
       safe_request('capitol words phrase info') do
-        phrase_info = Hash.new
+        phrase_info = {}
 
-        legislator_url = "#{PhraseURL}legislator.json?phrase=free+market&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
+        legislator_url = "#{PhraseURL}legislator.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
         chamber_url = "#{PhraseURL}chamber.json?phrase=#{phrase}&apikey=#{SECRETS['sunlight']}"
-        state_url = "#{PhraseURL}state.json?phrase=#{phrase}&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
+        state_url = "#{PhraseURL}state.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
         party_url = "#{PhraseURL}party.json?phrase=#{phrase}&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
 
         legislator = Thread.new {
           legislators_data = get_json(legislator_url)
-          phrase_info['legislators'] = legislators_data['results']
+          phrase_info['legislator'] = legislators_data['results'].to_json
         }
         chamber = Thread.new {
           chambers_data = get_json(chamber_url)
-          phrase_info['chamber'] = chambers_data['results']
+          phrase_info['chamber'] = chambers_data['results'].to_json
         }
         state = Thread.new {
           states_data = get_json(state_url)
-          phrase_info['state'] = states_data['results']
+          phrase_info['state'] = states_data['results'].to_json
         }
         party = Thread.new {
           parties_data = get_json(party_url)
-          phrase_info['party'] = parties_data['results']
+          phrase_info['party'] = parties_data['results'].to_json
         }
 
         [legislator, chamber, state, party].each { |t| t.join }

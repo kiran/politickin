@@ -8,7 +8,7 @@ module Services
         xml_data = Net::HTTP.get_response(URI.parse(url)).body
         xml_data
       rescue Exception => e # Faux-log any failed requests.
-        Rails.logger.warn("Failed to parse xml for: #{url}")
+        Rails.logger.warn("Failed to get xml for: #{url}")
         Rails.logger.warn(e.message)
         {}
       end
@@ -27,15 +27,15 @@ module Services
 
     # Ensure that a failed api call doesn't screw up the remainder of our data.
     def safe_request(title, opts={})
-      Rails.logger.info "starting: #{title}"
+      # Rails.logger.info "starting: #{title}"
       result = {}
       return result if opts.has_key?(:ensure) && !opts[:ensure]
       begin
         result = yield
-        Rails.logger.info "done with: #{title}"
-      rescue RestClient::Exception => e
-        result = {}
+        # Rails.logger.info "done with: #{title}"
+      rescue Exception => e
         Rails.logger.info "error for: #{title} ... #{e}"
+        result = {}
       end
       result
     end
