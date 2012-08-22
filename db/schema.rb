@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120819091104) do
+ActiveRecord::Schema.define(:version => 20120822172915) do
 
   create_table "congressmen", :force => true do |t|
     t.string   "first_name",                              :null => false
@@ -74,7 +74,7 @@ ActiveRecord::Schema.define(:version => 20120819091104) do
     t.float    "predictability"
     t.integer  "person_id"
     t.integer  "abstains"
-    t.float    "abstains_percentage"
+    t.string   "abstains_percentage"
     t.integer  "abstains_percentage_rank"
     t.integer  "cosponsored_bills"
     t.integer  "cosponsored_bills_rank"
@@ -84,8 +84,8 @@ ActiveRecord::Schema.define(:version => 20120819091104) do
     t.integer  "sponsored_bills_passed_rank"
     t.integer  "cosponsored_bills_passed"
     t.integer  "cosponsored_bills_passed_rank"
-    t.float    "with_party_percentage"
-    t.float    "party_votes_percentage"
+    t.string   "with_party_percentage"
+    t.string   "party_votes_percentage"
     t.integer  "party_votes_percentage_rank"
     t.integer  "total_session_votes"
     t.integer  "votes_democratic_position"
