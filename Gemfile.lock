@@ -41,6 +41,7 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    ffi (1.1.5)
     font-awesome-rails (0.3.0)
       railties (~> 3.1)
     hike (1.2.1)
@@ -112,6 +113,9 @@ GEM
       less-rails (~> 2.2.2)
       railties (>= 3.1)
       therubyracer (= 0.10.1)
+    typhoeus (0.4.2)
+      ffi (~> 1.0)
+      mime-types (~> 1.18)
     tzinfo (0.3.33)
     uglifier (1.2.7)
       execjs (>= 0.3.0)
@@ -131,5 +135,6 @@ DEPENDENCIES
   rest-client
   sass-rails (~> 3.2.3)
   twitter-bootstrap-rails
+  typhoeus
   uglifier (>= 1.0.3)
   xml-simple

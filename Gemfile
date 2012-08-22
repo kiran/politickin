@@ -26,6 +26,7 @@ gem 'font-awesome-rails'
 gem 'rest-client'
 gem 'json'
 gem 'xml-simple'
+gem 'typhoeus'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
