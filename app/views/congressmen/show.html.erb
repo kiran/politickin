@@ -16,10 +16,19 @@
     <img class="thumbnail" src="/assets/photos/<%= @congressman.bioguide_id %>.jpg" alt="" />
   </div>
   <div class="span3">
+    <h3>Biographical Facts</h3>
     <ul class='unstyled'>
-      <% unless @congressman.party_votes_percentage.nil? %>
-        <li><strong>Votes with party:</strong> <%= number_to_percentage(@congressman.party_votes_percentage) %></li>
-        <li><strong>Votes with party rank:</strong> <%= @congressman.party_votes_percentage_rank %> of 440</li>
+      <% unless @congressman.nickname.nil? or @congressman.nickname.empty? %>
+        <li><strong>Nickname:</strong> <%= @congressman.nickname %></li>
+      <% end %>
+      <% unless @congressman.birthdate.nil? or @congressman.birthdate.empty? %>
+        <li><strong>Birth:</strong> <%= @congressman.birthdate %>, <%= @congressman.birthplace %></li>
+      <% end %>
+      <% unless @congressman.religion.nil? or @congressman.religion.empty? %>
+        <li><strong>Religion:</strong> <%= @congressman.religion %></li>
+      <% end %>
+      <% unless @congressman.education.nil? or @congressman.education.empty? %>
+        <li><strong>Education:</strong> <%= @congressman.education %></li>
       <% end %>
     </ul>
   </div>
@@ -41,10 +50,6 @@
         <div id="chart" class='<%=@congressman.party%>'></div>
     </div>
 </div>
-
-<hr>
-
-<%= render :partial => 'quickfacts' %>
 
 <hr>
 

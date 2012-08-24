@@ -54,3 +54,26 @@ $indGray: #C5C5C5;
     stroke-width: 1.5px;
   }
 }
+
+.facts-box {
+  clear:both;
+  .heading {
+    font-variant: small-caps;
+  }
+  ul {
+    color:#3D3D3D;
+    list-style-type: none;
+    margin-bottom: 10px;
+    margin-left:0;
+    height: 2.1em;
+    clear:both;
+    li:first-child {
+      font-size:2em;
+      float:left;
+      padding: 10px;
+    }
+    li {
+
+    }
+  }
+}
