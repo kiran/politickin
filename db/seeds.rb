@@ -9,40 +9,31 @@
 require 'csv'
 Congressman.delete_all
 
-# run through sunlight database
-csv_data = CSV.read 'db/seeds/sunlight_legislators_all.csv'
-headers = csv_data.shift.map {|i| i.to_s }
-string_data = csv_data.map {|row| row.map {|cell| cell.to_s } }
-array_of_hashes = string_data.map {|row| Hash[*headers.zip(row).flatten] }
-array_of_hashes.each do |congressman|
+# filename = db/seeds/...
+# must have a header row, column names used as key in hash
+def process_csv (filename, col_sep = ",")
+  csv_data = CSV.read(filename, { :col_sep => col_sep })
+  headers = csv_data.shift.map {|i| i.to_s }
+  string_data = csv_data.map {|row| row.map {|cell| cell.to_s } }
+  array_of_hashes = string_data.map {|row| Hash[*headers.zip(row).flatten] }
+  array_of_hashes.each do |congressman|
+    yield congressman
+  end
+end
+
+# run through sunlight data
+process_csv("db/seeds/sunlight_legislators_all.csv") do |congressman|
   next if congressman.empty?
   c = Congressman.create!(congressman)
 end
 
-# run through watchdog reps data
-csv_data = CSV.read("db/seeds/watchdog_reps.tsv", { :col_sep => "\t" })
-headers = csv_data.shift.map {|i| i.to_s }
-string_data = csv_data.map {|row| row.map {|cell| cell.to_s } }
-array_of_hashes = string_data.map {|row| Hash[*headers.zip(row).flatten] }
-array_of_hashes.each do |congressman|
+# run through watchdog data
+process_csv("db/seeds/watchdog_all.tsv", "\t") do |congressman|
   next if congressman.empty?
   c = Congressman.find_by_govtrack_id(congressman['govtrack_id'])
   next if c.nil?
   c.update_attributes(congressman)
 end
-
-# run through watchdog senators data
-csv_data = CSV.read("db/seeds/watchdog_senators.tsv", { :col_sep => "\t" })
-headers = csv_data.shift.map {|i| i.to_s }
-string_data = csv_data.map {|row| row.map {|cell| cell.to_s } }
-array_of_hashes = string_data.map {|row| Hash[*headers.zip(row).flatten] }
-array_of_hashes.each do |congressman|
-  next if congressman.empty?
-  c = Congressman.find_by_govtrack_id(congressman['govtrack_id'])
-  next if c.nil?
-  c.update_attributes(congressman)
-end
-
 
 # run through opensecrets industry data
 File.open('db/seeds/opensecrets_industry.tsv').each do |record|
