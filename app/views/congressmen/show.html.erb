@@ -11,7 +11,7 @@
     <div class='span12 alert alert-error'>
       Not in office
     </div>
-  <% end %> 
+  <% end %>
   <div class="span3">
     <img class="thumbnail" src="/assets/photos/<%= @congressman.bioguide_id %>.jpg" alt="" />
   </div>
@@ -39,21 +39,16 @@
 
 <div class='row'>
   <div class='span12'>
-    <h2>On the Issues</h2>
-    <p>Click through to explore issues:</p>
+    <h2>Legislative Activity</h3>
   </div>
     <div class="span6">
-        <h3>Issue Stances</h3>
+      <%= render :partial => 'voting_habits' %>
     </div>
     <div class="span6">
         <h3>Word Frequency in Congressional Record</h3>
         <div id="chart" class='<%=@congressman.party%>'></div>
     </div>
 </div>
-
-<hr>
-
-<%= render :partial => 'voting_habits' %>
 
 <hr>
 
