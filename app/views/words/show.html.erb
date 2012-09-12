@@ -1,0 +1,11 @@
+<% content_for :title do %>
+  <%= @word.word %>
+<% end %>
+
+<%= legislators = JSON.parse(eval(@word.legislator)) %>
+<hr>
+<%= chambers = JSON.parse(eval(@word.chamber)) %>
+<hr>
+<%= states = JSON.parse(eval(@word.state)) %>
+<hr>
+<%= parties = JSON.parse(eval(@word.party)) %>
