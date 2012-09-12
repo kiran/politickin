@@ -17,7 +17,6 @@ class CongressmenController < ApplicationController
 
   def show
     @congressman = Congressman.find(params[:id])
-
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @congressman }
@@ -25,7 +24,8 @@ class CongressmenController < ApplicationController
   end
 
   def index
-    @congressmen = Congressman.order(sort_column + ' ' + sort_direction)
+    @search_key = params[:search]
+    @congressmen = Congressman.order(sort_column + ' ' + sort_direction).search(@search_key)
   end
 
   private

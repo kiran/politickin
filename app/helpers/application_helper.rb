@@ -9,7 +9,7 @@ module ApplicationHelper
   end
 
 
-  def sortable(column, title = nil)
+  def sortable(column, search_key = nil, title = nil)
     title ||= column.titleize
     current = (column == sort_column)
     css_class = current ? "current #{sort_direction}" : nil
@@ -19,7 +19,7 @@ module ApplicationHelper
     else
       arrow = nil
     end
-    link_to congressmen_path(:sort => column, :direction => direction), {:class => css_class} do
+    link_to congressmen_path(:sort => column, :direction => direction, :search => search_key), {:class => css_class} do
       yield( arrow )
     end
   end
