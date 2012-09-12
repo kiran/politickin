@@ -1,4 +1,8 @@
-<% unless @congressman.opensecrets_contributors.nil? %>
+<% if @congressman.opensecrets_contributors.nil? or @congressman.opensecrets_contributors=="null"%>
+
+  <p>No campaign finance information available for this congressman.</p>
+
+<% else %>
 
   <% contributors = JSON.parse(@congressman.opensecrets_contributors) %>
 
