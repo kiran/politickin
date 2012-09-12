@@ -1,2 +1,3 @@
-SECRETS = YAML.load_file("#{Rails.root}/config/secrets.yml")['secrets']
+SUNLIGHT = ENV['SUNLIGHT']
+OPENSECRETS = ENV['OPENSECRETS']
 PARAMETERS = YAML.load_file("#{Rails.root}/config/parameters.yml")['parameters']

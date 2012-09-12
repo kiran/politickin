@@ -10,7 +10,7 @@ module Services
     # last year.
     def self.search(bioguide_id)
       safe_request('capitol words') do
-        url = "#{URL}&apikey=#{SECRETS['sunlight']}&entity_value=#{bioguide_id}&per_page=#{PARAMETERS['capitolwords_per_congressman']}"
+        url = "#{URL}&apikey=#{ENV['SUNLIGHT']}&entity_value=#{bioguide_id}&per_page=#{PARAMETERS['capitolwords_per_congressman']}"
         get_json(url)
       end
     end
@@ -19,10 +19,10 @@ module Services
       safe_request('capitol words phrase info') do
         phrase_info = {}
 
-        legislator_url = "#{PhraseURL}legislator.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
-        chamber_url = "#{PhraseURL}chamber.json?phrase=#{phrase}&apikey=#{SECRETS['sunlight']}"
-        state_url = "#{PhraseURL}state.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
-        party_url = "#{PhraseURL}party.json?phrase=#{phrase}&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{SECRETS['sunlight']}"
+        legislator_url = "#{PhraseURL}legislator.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{ENV['SUNLIGHT']}"
+        chamber_url = "#{PhraseURL}chamber.json?phrase=#{phrase}&apikey=#{ENV['SUNLIGHT']}"
+        state_url = "#{PhraseURL}state.json?phrase=#{phrase}&sort=count&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{ENV['SUNLIGHT']}"
+        party_url = "#{PhraseURL}party.json?phrase=#{phrase}&per_page=#{PARAMETERS['records_per_capitolword']}&apikey=#{ENV['SUNLIGHT']}"
 
         legislator = Thread.new {
           legislators_data = get_json(legislator_url)

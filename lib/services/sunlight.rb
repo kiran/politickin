@@ -9,7 +9,7 @@ module Services
     # Dig up dirt from Sunlight Labs...
     def self.search(name)
       safe_request('sunlight') do
-        url = "#{URL}?apikey=#{SECRETS['sunlight']}&name=#{name}"
+        url = "#{URL}?apikey=#{ENV['SUNLIGHT']}&name=#{name}"
         # We need to perform a little weighting ourselves, because Sunlight labs
         # sometimes produces wonky results (try searching for "Bill Young")...
         candidates = get_json(url)['response']['results']
@@ -30,7 +30,7 @@ module Services
     # Dig up dirt from Sunlight Labs...
     def self.search_committees(bioguide_id)
       safe_request('sunlight committees') do
-        url = "#{URL2}?apikey=#{SECRETS['sunlight']}&bioguide_id=#{bioguide_id}"
+        url = "#{URL2}?apikey=#{ENV['SUNLIGHT']}&bioguide_id=#{bioguide_id}"
         committees = get_json(url)['response']['committees']
         committees
       end
