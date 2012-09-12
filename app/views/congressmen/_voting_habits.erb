@@ -50,13 +50,13 @@
         <li>votes_democratic_position: <%= @congressman.votes_democratic_position %></li>
         <li>votes_republican_position: <%= @congressman.votes_republican_position %></li>
         <% c = Congressman.find_by_govtrack_id(@congressman.votes_least_often_with_id.to_s) %>
-        <li>votes_least_often_with_id: <%= link_to_unless(c.nil?, c.name, c) %></li>
+        <li>votes_least_often_with_id: <%= c.nil? ? '' : link_to(c.name, c) %></li>
         <% c = Congressman.find_by_govtrack_id(@congressman.votes_most_often_with_id.to_s) %>
-        <li>votes_most_often_with_id: <%= link_to_unless(c.nil?, c.name, c) %></li>
+        <li>votes_most_often_with_id: <%= c.nil? ? '' : link_to(c.name, c) %></li>
         <% c = Congressman.find_by_govtrack_id(@congressman.same_party_votes_least_often_with_id.to_s) %>
-        <li>same_party_votes_least_often_with_id: <%= link_to_unless(c.nil?, c.name, c) %></li>
+        <li>same_party_votes_least_often_with_id: <%= c.nil? ? '' : link_to(c.name, c) %></li>
         <% c = Congressman.find_by_govtrack_id(@congressman.opposing_party_votes_most_often_with_id.to_s) %>
-        <li>opposing_party_votes_most_often_with_id: <%= link_to_unless(c.nil?, c.name, c) %></li>
+        <li>opposing_party_votes_most_often_with_id: <%= c.nil? ? '' : link_to(c.name, c) %></li>
       </ul>
 
       <h4>Voting stats</h4>
