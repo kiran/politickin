@@ -11,10 +11,16 @@ module ApplicationHelper
 
   def sortable(column, title = nil)
     title ||= column.titleize
-    css_class = (column == sort_column) ? "current #{sort_direction}" : nil
-    direction = (column == sort_column && sort_direction == "asc") ? "down" : "up"
-    link_to '#', {:sort => column, :direction => direction}, {:class => css_class} do
-      yield(direction)
+    current = (column == sort_column)
+    css_class = current ? "current #{sort_direction}" : nil
+    direction = (current && sort_direction == "asc") ? "desc" : "asc"
+    if current
+      arrow = sort_direction=='asc' ? '-up' : '-down'
+    else
+      arrow = nil
+    end
+    link_to congressmen_path(:sort => column, :direction => direction), {:class => css_class} do
+      yield( arrow )
     end
   end
 end

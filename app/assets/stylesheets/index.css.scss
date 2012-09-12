@@ -3,10 +3,16 @@ table {
     background-color: #DB6C6A;
   }
   tr.D {
-    background-color: #7db9e8; 
+    background-color: #7db9e8;
   }
   a {
     color: #333;
+  }
+  th a.current {
+    color: #06A;
+  }
+  th a i {
+    float: right;
   }
 }
 circle.node {

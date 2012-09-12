@@ -5,14 +5,14 @@
 <div class="span12">
   <table class='table table-bordered table-condensed'>
     <tr>
-      <th><%= sortable "first_name" do |direction| %>
-        Name <i class='icon-sort-<%= direction %>'></i></th>
+      <th><%= sortable "last_name" do |direction| %>
+        Name <i class='icon-sort<%= direction %>'></i></th>
       <% end %></th>
       <th> <%= sortable "party" do |direction| %>
-        Party Affiliation <i class='icon-sort-<%= direction %>'></i></th>
+        Party Affiliation <i class='icon-sort<%= direction %>'></i></th>
       <% end %></th>
       <th><%= sortable "state" do |direction| %>
-        State <i class='icon-sort-<%= direction %>'></i>
+        State <i class='icon-sort<%= direction %>'></i>
       <% end %></th>
       <th>District</th>
     </tr>
