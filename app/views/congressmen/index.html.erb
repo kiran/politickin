@@ -5,11 +5,10 @@
 <div class="span12">
   <table class='table table-bordered table-condensed'>
     <tr>
-      <th>Name</th>
-      <th>Party Affiliation</th>
-      <th>State</th>
+      <th><%= sortable "first_name", "Name" %></th>
+      <th><%= sortable "party", "Party Affiliation" %></th>
+      <th><%= sortable "state", "State" %></th>
       <th>District</th>
-      <th></th>
     </tr>
 
   <% @congressmen.each do |congressman| %>
