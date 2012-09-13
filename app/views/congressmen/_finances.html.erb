@@ -14,7 +14,7 @@
       <% contributors.each do |contributor| %>
         <strong><%= contributor['org_name'] %>:</strong> $<%= number_to_human(contributor['total'].to_i*1000, :precision => 0) %>
         <% bar_width = Float(contributor['total'].to_i)/top_contrib * 100 %>
-          <div class="progress" style="width: <%= bar_width%>%">
+          <div class="finance progress" style="width: <%= bar_width%>%">
             <div class="bar" style="width: 100%;"></div>
           </div>
       <% end %>
@@ -27,10 +27,10 @@
         <% width = Float(contributor['pacs'].to_i)/contributor['total'].to_i * 100 %>
         <% bar_width = Float(contributor['total'].to_i)/top_contrib * 100 %>
           <%= contributor['industry_name'] %>: $<%= number_to_human(contributor['total'].to_i*1000, :precision => 0) %>
-          <div class="progress"
+          <div class="finance progress"
             style="width: <%= bar_width%>%">
             <div class="bar"
-            style="width: <%= width %>%;"><%= number_with_precision(width, :precision => 1) %>%</div>
+            style="width: <%= width %>%;"><p><%= number_with_precision(width, :precision => 1) %>% PACs</p>s</div>
           </div>
       <% end %>
     </div>
