@@ -24,6 +24,7 @@ end
 # run through sunlight data
 process_csv("db/seeds/sunlight_legislators_all.csv") do |congressman|
   next if congressman.empty?
+  next if congressman['in_office'] == "0"
   c = Congressman.create!(congressman)
 end
 
