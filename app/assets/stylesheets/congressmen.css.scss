@@ -39,10 +39,21 @@ $indGray: #C5C5C5;
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  clear:both;
+}
+
+.watchdog {
+  clear:both;
+  list-style-type: none;
+}
+
 .facts-box {
   clear:both;
+  padding: 5px;
   .heading {
     font-variant: small-caps;
+    font-size: 1.2em;
   }
   ul {
     color:#3D3D3D;

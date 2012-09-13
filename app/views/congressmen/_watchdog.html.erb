@@ -1,0 +1,36 @@
+      <h4>Media:</h4>
+      <ul class='unstyled'>
+        <li>metavid_id: <%= @congressman.metavid_id %></li>
+        <li>recent_news: <%= @congressman.recent_news %></li>
+        <li>recent_blogs: <%= @congressman.recent_blogs %></li>
+      </ul>
+<h3>Other Activity <small>via <a href='http://www.watchdog.net'>Watchdog</a></small></h3>
+  <ul class='watchdog'>
+    <% unless @congressman.n_earmark_requested.nil? or @congressman.n_earmark_requested.nil? %>
+      <li><h4>Earmarks:</h4>
+        <ul>
+          <li>Number received/requested: <%= @congressman.n_earmark_received %>/<%= @congressman.n_earmark_requested %></li>
+          <li>Amount received/requested: $<%= number_to_human(@congressman.amt_earmark_received) %>/$<%= number_to_human(@congressman.amt_earmark_requested) %>
+          <% width = Float(@congressman.amt_earmark_received)/Float(@congressman.amt_earmark_requested)*100 %>
+          <% color = (@congressman.party == 'R')? 'progress-danger' : '' %>
+          <div class='progress <%= color %>' style="width: 80%"><div class="bar"
+            style="width: <%= width %>%;"><%= number_with_precision(width, :precision => 1) %>%</div>
+          </div>
+        </ul>
+      </li>
+    <% end %>
+    <% unless @congressman.pct_vote_received.nil? %>
+      <li><strong>Pct vote received:</strong> <%= @congressman.pct_vote_received %></li>
+    <% end %>
+    <% unless @congressman.predictability.nil? %>
+      <li><strong>Predictability:</strong> <%= number_to_percentage(@congressman.predictability*100) %> </li>
+    <% end %>
+    <% unless @congressman.last_elected_year.nil? or @congressman.last_elected_year.empty? %>
+      <li><strong>Last elected year:</strong> <%= @congressman.last_elected_year %></li>
+      <li><strong>Amount votes received:</strong> <%= number_to_human(@congressman.n_vote_received) %></li>
+    <% end %>
+    <% unless @congressman.n_speeches.nil? or @congressman.words_per_speech.nil? %>
+      <li><strong>Speeches:</strong> average <%= @congressman.words_per_speech %> words/speech (in <%= @congressman.n_speeches %> speeches)
+      </li>
+    <% end %>
+  </ul>

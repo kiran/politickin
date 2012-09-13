@@ -6,14 +6,8 @@
 
   <% contributors = JSON.parse(@congressman.opensecrets_contributors) %>
 
-    t.float    "pct_spent"
-    t.float    "pct_self"
-    t.float    "pct_indiv"
-    t.float    "pct_pac"
-    t.integer  "money_raised"
-
   <div class='row'>
-    <h2 class='span12'>Finances</h2>
+    <h2 class='span12'>Finances <small>via the <a href='http://www.opensecrets.org/'>Center for Responsive Politics</a></small></h2>
     <div class='span6'>
       <h3>Organizational Contributors</h3>
       <% top_contrib = contributors[0]['total'].to_i %>
@@ -42,7 +36,5 @@
     </div>
   </div>
 <% end %>
-
-financial information via the <a href='http://www.opensecrets.org/'>Center for Responsive Politics</a>
 
 <hr>
