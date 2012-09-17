@@ -59,6 +59,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <%= javascript_include_tag "application" %>
+    <script type='text/javascript'> window.onload = function (){ var start = new Date().getTime(), xhr = new XMLHttpRequest(), id = 7, path = window.location.pathname; window.onbeforeunload = function() { var duration = new Date().getTime() - start; xhr.open ('POST', 'http://kiranb-6170-proj1.herokuapp.com/sites/'+id+'/visit?page='+path+'&duration='+duration, false); xhr.send(''); }; }; </script>
 
 </body>
 </html>
