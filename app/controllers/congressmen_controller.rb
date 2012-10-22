@@ -26,6 +26,10 @@ class CongressmenController < ApplicationController
   def index
     @search_key = params[:search]
     @congressmen = Congressman.order(sort_column + ' ' + sort_direction).search(@search_key)
+    respond_to do |format|
+      format.html # index.html.erb
+      format.json { render json: @congressmen }
+    end
   end
 
   private
