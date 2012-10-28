@@ -12,11 +12,8 @@ var vis = d3.select("#chart").append("svg")
 
 d3.json(window.location+'.json', function(json) {
 
-  console.log(json);
-  console.log($.parseJSON(json['capitolwords']));
   var data = $.parseJSON(json['capitolwords']);
   var json = {"name":"graph", "children": data};
-  console.log(json);
 
   var node = vis.selectAll("g.node")
       .data(bubble.nodes(classes(json))
