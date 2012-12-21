@@ -1,3 +1,4 @@
+// TODO: might have to change this after the capitolwords API change.
 var r = 500,
     format = d3.format(",d");
 
