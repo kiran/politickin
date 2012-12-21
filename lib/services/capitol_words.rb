@@ -10,7 +10,8 @@ module Services
     # last year.
     def self.search(bioguide_id)
       safe_request('capitol words') do
-        url = "#{URL}&apikey=#{ENV['SUNLIGHT']}&entity_value=#{bioguide_id}&per_page=#{PARAMETERS['capitolwords_per_congressman']}"
+        url = "#{URL}&apikey=#{ENV['SUNLIGHT']}&entity_type=legislator&entity_value=#{bioguide_id}&per_page=#{PARAMETERS['capitolwords_per_congressman']}"
+        Rails.logger.info url
         get_json(url)
       end
     end
