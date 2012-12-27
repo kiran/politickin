@@ -3,8 +3,8 @@
     <%= (@congressman.title == 'Rep')? 'Representative' : 'Senator' %>
     <%= @congressman.state %>-<%= @congressman.district %></h2>
     <ul class="unstyled">
-    <% if not @congressman.congress_address.nil? and not @congressman.congress_address.empty? %>
-      <li><i class='icon-map-marker'></i>Address: <%= @congressman.congress_address %> </a></li>
+    <% if not @congressman.congress_office.nil? and not @congressman.congress_office.empty? %>
+      <li><i class='icon-map-marker'></i>Address: <%= @congressman.congress_office %></li>
     <% end %>
     <% if not @congressman.phone.nil? and not @congressman.phone.empty? %>
       <li><i class='icon-phone'></i> Phone: <%= @congressman.phone %></li>
@@ -15,8 +15,8 @@
     <% if not @congressman.webform.nil? and not @congressman.webform.empty? %>
       <li><i class='icon-pencil'></i> <a href="<%= @congressman.webform %>">Contact</a></li>
     <% end %>
-    <% if not @congressman.open_congress_url.nil? and not @congressman.open_congress_url.empty? %>
-      <li><i class='icon-legal'></i> <a href="<%= @congressman.open_congress_url %>">Congresspedia</a></li>
+    <% if not @congressman.congresspedia_url.nil? and not @congressman.congresspedia_url.empty? %>
+      <li><i class='icon-legal'></i> <a href="<%= @congressman.congresspedia_url %>">Congresspedia</a></li>
     <% end %>
     <% if not @congressman.wikipedia_url.nil? and not @congressman.wikipedia_url.empty? %>
       <li><i class='icon-book'></i> <a href="<%= @congressman.wikipedia_url %>">Wikipedia</a></li>

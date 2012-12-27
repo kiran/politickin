@@ -24,22 +24,25 @@ end
 # run through sunlight data
 process_csv("db/seeds/sunlight_legislators_all.csv") do |congressman|
   next if congressman.empty?
-  next if congressman['in_office'] == "0"
+  # don't remember why we need this restriction.
+  # next if congressman['in_office'] == "0"
   c = Congressman.create!(congressman)
 end
 
-# run through watchdog data
-process_csv("db/seeds/watchdog_all.tsv", "\t") do |congressman|
-  next if congressman.empty?
-  c = Congressman.find_by_govtrack_id(congressman['govtrack_id'])
-  next if c.nil?
-  c.update_attributes(congressman)
-end
+## run through watchdog data
+#process_csv("db/seeds/watchdog_all.tsv", "\t") do |congressman|
+#  next if congressman.empty?
+#  c = Congressman.find_by_govtrack_id(congressman['govtrack_id'])
+#  next if c.nil?
+#  c.update_attributes(congressman)
+#end
 
 # run through opensecrets industry data
 File.open('db/seeds/opensecrets_industry.tsv').each do |record|
   fname, fname2, crp_id, json_string = record.chomp.split("\t")
-  json = JSON.parse(json_string)  #just to make sure that the string is valid json
+
+  #this is bad, shouldn't have saved opensecrets fields as a ruby hash.
+  json = eval(json_string)['opensecrets_industries']
   next if json.empty?
   c = Congressman.find_by_crp_id(crp_id)
   next if c.nil?
@@ -50,7 +53,9 @@ end
 # run through opensecrets contributor data
 File.open('db/seeds/opensecrets_contrib.tsv').each do |record|
   fname, fname2, crp_id, json_string = record.chomp.split("\t")
-  json = JSON.parse(json_string) #just to make sure that the string is valid json
+
+  #this is bad, shouldn't have saved opensecrets fields as a ruby hash.
+  json = eval(json_string)['opensecrets_contributors']
   next if json.empty?
   c = Congressman.find_by_crp_id(crp_id)
   next if c.nil?

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120822172915) do
+ActiveRecord::Schema.define(:version => 2012122512200104) do
 
   create_table "congressmen", :force => true do |t|
     t.string   "first_name",                              :null => false
@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(:version => 20120822172915) do
     t.string   "website"
     t.string   "webform"
     t.string   "email"
-    t.string   "open_congress_url"
+    t.string   "congresspedia_url"
     t.string   "twitter_id"
     t.string   "rss"
     t.string   "facebook_id"
@@ -44,7 +44,7 @@ ActiveRecord::Schema.define(:version => 20120822172915) do
     t.datetime "updated_at",                              :null => false
     t.boolean  "in_office"
     t.string   "name_suffix"
-    t.string   "congress_address"
+    t.string   "congress_office"
     t.string   "official_rss"
     t.string   "nickname"
     t.string   "birthplace"
@@ -101,6 +101,7 @@ ActiveRecord::Schema.define(:version => 20120822172915) do
     t.text     "opensecrets_industries"
     t.text     "committees"
     t.text     "capitolwords"
+    t.string   "senate_class"
   end
 
   create_table "word_infos", :force => true do |t|
